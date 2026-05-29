@@ -1,0 +1,23 @@
+# EXFOR #         : D6005.006  
+# EXFOR Ver.      : 20061124
+# TRANS #         : D050
+# Author          : S.S.Rattan et al.
+# Reference       : Radiochim.Acta 51 (1990) 55
+# DOI             : 10.1524/ract.1990.51.2.55
+# Quantity        : 27Al(a,x)28Al independent production cross section
+# REACTION        : 13-AL-27(A,X)13-AL-28,,SIG
+# File ID         : a-Al27-x-sig-excfun-mon-prodAl28_Rattan_1990_d6005.006
+#
+# npts            : 2           
+# xmin            :   5.5200E+07
+# xmax            :   5.8200E+07
+# ymin            :   7.1940E-02
+# ymax            :   7.4660E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5200E+07  0.0000E+00  7.4660E-02  8.7300E-03
+  5.8200E+07  0.0000E+00  7.1940E-02  1.1350E-02
+#---------------------------------------------------

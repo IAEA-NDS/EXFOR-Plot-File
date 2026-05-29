@@ -1,0 +1,25 @@
+# EXFOR #         : R0041.006  
+# EXFOR Ver.      : 20241119
+# TRANS #         : R031
+# Author          : D.F.Crisler et al.
+# Reference       : Phys.Rev.C 5 (1972) 419
+# DOI             : 10.1103/PhysRevC.5.419
+# Quantity        : 64Zn(he3,x)65Ga cumulative production cross section
+# REACTION        : 30-ZN-64(HE3,X)31-GA-65,CUM,SIG
+# File ID         : h-Zn64-x-sigc-excfun-mon-prodGa65_Crisler_1972_r0041.006
+#
+# npts            : 4           
+# xmin            :   2.1300E+07
+# xmax            :   4.2800E+07
+# ymin            :   5.7300E-02
+# ymax            :   3.5100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1300E+07  0.0000E+00  3.5100E-01  4.5000E-02
+  2.8700E+07  0.0000E+00  1.8200E-01  4.6000E-02
+  3.7000E+07  0.0000E+00  5.7300E-02  7.7000E-03
+  4.2800E+07  0.0000E+00  5.8000E-02  9.0000E-03
+#---------------------------------------------------

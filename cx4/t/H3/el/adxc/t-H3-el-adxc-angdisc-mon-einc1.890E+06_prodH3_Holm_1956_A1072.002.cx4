@@ -1,0 +1,26 @@
+# EXFOR #         : A1072.002  
+# EXFOR Ver.      : 20240702
+# TRANS #         : A112
+# Author          : D.M.Holm et al.
+# Reference       : Phys.Rev. 101 (1956) 1772
+# DOI             : 10.1103/PhysRev.101.1772
+# Quantity        : 3H(t,el)3H angular differential cross section
+# REACTION        : 1-H-3(T,EL)1-H-3,,DA
+# File ID         : t-H3-el-adxc-angdisc-mon-einc1.890E+06_prodH3_Holm_1956_a1072.002
+#
+# Einc (eV)       :   1.8900E+06
+#
+# npts            : 3           
+# xmin            :   30.0000000
+# xmax            :  120.0000000
+# ymin            :   7.8700E-02
+# ymax            :   9.4800E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  4.3000E-01  0.0000E+00
+  90.0000000   0.0000000  7.8700E-02  1.5740E-03
+ 120.0000000   0.0000000  9.4800E-01  2.5596E-02
+#---------------------------------------------------

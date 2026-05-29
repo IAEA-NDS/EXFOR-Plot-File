@@ -1,0 +1,25 @@
+# EXFOR #         : C1842.003  
+# EXFOR Ver.      : 20110615
+# TRANS #         : C109
+# Author          : G.Perdikakis et al.
+# Reference       : Phys.Rev.C 83 (2011) 054614
+# DOI             : 10.1103/PhysRevC.83.054614
+# Quantity        : 12C(t,he3)12B partial angular differential cross section
+# REACTION        : 6-C-12(T,HE3)5-B-12,PAR,DA
+# File ID         : t-C12-h-adxc-angdisc-mon-einc3.450E+08_elvl0.000E+00_prodB12_Perdikakis_2011_c1842.003
+#
+# Einc (eV)       :   3.4500E+08
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   1.6600E-02
+# ymax            :   1.6600E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  1.6600E-02  1.2000E-03
+#---------------------------------------------------

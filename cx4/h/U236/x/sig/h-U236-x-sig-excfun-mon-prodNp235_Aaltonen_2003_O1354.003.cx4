@@ -1,0 +1,25 @@
+# EXFOR #         : O1354.003  
+# EXFOR Ver.      : 20060414
+# TRANS #         : O026
+# Author          : J.Aaltonen et al.
+# Reference       : Radiochim.Acta 91 (2003) 557
+# DOI             : 10.1524/ract.91.10.557.22475
+# Quantity        : 236U(he3,x)235Np independent production cross section
+# REACTION        : 92-U-236(HE3,X)93-NP-235,,SIG
+# File ID         : h-U236-x-sig-excfun-mon-prodNp235_Aaltonen_2003_o1354.003
+#
+# npts            : 4           
+# xmin            :   4.6300E+07
+# xmax            :   5.9400E+07
+# ymin            :   9.3000E-03
+# ymax            :   1.2500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.6300E+07  3.0000E+05  1.2500E-02  2.9000E-03
+  5.3000E+07  2.0000E+05  1.2000E-02  2.8000E-03
+  5.6300E+07  2.0000E+05  9.3000E-03  1.7000E-03
+  5.9400E+07  2.0000E+05  1.1400E-02  2.0000E-03
+#---------------------------------------------------

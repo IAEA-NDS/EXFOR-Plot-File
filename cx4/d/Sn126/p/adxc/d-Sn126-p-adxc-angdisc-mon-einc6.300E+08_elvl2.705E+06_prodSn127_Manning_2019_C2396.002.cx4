@@ -1,0 +1,28 @@
+# EXFOR #         : C2396.002  
+# EXFOR Ver.      : 20190523
+# TRANS #         : C186
+# Author          : B.Manning et al.
+# Reference       : Phys.Rev.C 99 (2019) 041302
+# DOI             : 10.1103/PhysRevC.99.041302
+# Quantity        : 126Sn(d,p)127Sn partial angular differential cross section
+# REACTION        : 50-SN-126(D,P)50-SN-127,PAR,DA
+# File ID         : d-Sn126-p-adxc-angdisc-mon-einc6.300E+08_elvl2.705E+06_prodSn127_Manning_2019_c2396.002
+#
+# Einc (eV)       :   6.3000E+08
+# Elvl (eV)       :   2.7050E+06
+#
+# npts            : 4           
+# xmin            :   23.7300000
+# xmax            :   39.8110000
+# ymin            :   1.3791E-03
+# ymax            :   3.3135E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  23.7300000   0.0000000  1.3791E-03  3.2063E-04
+  29.0230000   0.0000000  1.6789E-03  2.9656E-04
+  35.2340000   0.0000000  2.4306E-03  3.2700E-04
+  39.8110000   0.0000000  3.3135E-03  5.7463E-04
+#---------------------------------------------------

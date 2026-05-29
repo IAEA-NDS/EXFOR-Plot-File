@@ -1,0 +1,24 @@
+# EXFOR #         : C3121.019  
+# EXFOR Ver.      : 20260318
+# TRANS #         : C257
+# Author          : H.L.O.Ekeberg et al.
+# Reference       : Appl.Radiat.Isot. 229 (2026) 112311
+# DOI             : 10.1016/j.apradiso.2025.112311
+# Quantity        : natFe(d,x)56Mn cumulative production cross section
+# REACTION        : 26-FE-0(D,X)25-MN-56,CUM,SIG
+# File ID         : d-Fe-x-sigc-excfun-mon-prodMn56_Ekeberg_2026_c3121.019
+#
+# npts            : 3           
+# xmin            :   2.4800E+07
+# xmax            :   2.9570E+07
+# ymin            :   2.2140E-02
+# ymax            :   2.3860E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9570E+07  0.0000E+00  2.2140E-02  6.5000E-04
+  2.7250E+07  0.0000E+00  2.3860E-02  8.0000E-04
+  2.4800E+07  0.0000E+00  2.2910E-02  6.5000E-04
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : E1354.003  
+# EXFOR Ver.      : 20240601
+# TRANS #         : E148
+# Author          : S.Kato et al.
+# Reference       : Phys.Rev.C 42 (1990) 1918
+# DOI             : 10.1103/PhysRevC.42.1918
+# Quantity        : 187Os(he3,t)187Ir partial angular differential cross section
+# REACTION        : 76-OS-187(HE3,T)77-IR-187,PAR,DA
+# File ID         : h-Os187-t-adxl-angdisl-mon-einc5.000E+07_elvl1.193E+06_prodIr187_Kato_1990_e1354.003
+#
+# Einc (eV)       :   5.0000E+07
+# Elvl (eV)       :   1.1930E+06
+#
+# npts            : 1           
+# xmin            :    8.0000000
+# xmax            :    8.0000000
+# ymin            :   2.7000E-06
+# ymax            :   2.7000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   8.0000000   0.0000000  2.7000E-06  1.0000E-07
+#---------------------------------------------------

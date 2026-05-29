@@ -1,0 +1,25 @@
+# EXFOR #         : D4209.014  
+# EXFOR Ver.      : 20090325
+# TRANS #         : D066
+# Author          : A.Hermanne et al.
+# Reference       : Nucl.Instrum.Meth.B 267 (2009) 727
+# DOI             : 10.1016/j.nimb.2008.12.017
+# Quantity        : 169Tm(d,x)166Tm cumulative production cross section
+# REACTION        : 69-TM-169(D,X)69-TM-166,CUM,SIG
+# File ID         : d-Tm169-x-sigc-excfun-mon-prodTm166_Hermanne_2009_d4209.014
+#
+# npts            : 4           
+# xmin            :   3.4000E+07
+# xmax            :   3.8600E+07
+# ymin            :   5.2000E-02
+# ymax            :   4.7500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8600E+07  3.0000E+05  4.7500E-01  5.6000E-02
+  3.7200E+07  3.0000E+05  3.0200E-01  3.6000E-02
+  3.5500E+07  4.0000E+05  1.1600E-01  1.7000E-02
+  3.4000E+07  4.0000E+05  5.2000E-02  8.0000E-03
+#---------------------------------------------------

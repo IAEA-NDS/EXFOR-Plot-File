@@ -1,0 +1,26 @@
+# EXFOR #         : D6361.003  
+# EXFOR Ver.      : 20191114
+# TRANS #         : D124
+# Author          : M.Shuaib et al.
+# Reference       : Phys.Rev.C 99 (2019) 024617
+# DOI             : 10.1103/PhysRevC.99.024617
+# Quantity        : 169Tm(19F,x) cumulative production cross section
+# REACTION        : 69-TM-169(9-F-19,X)ELEM/MASS,CUM,SIG
+# File ID         : F19-Tm169-x-sigc-nucdis-mon-einc9.200E+07_Shuaib_2019_d6361.003
+#
+# Einc (eV)       :   9.2000E+07
+#
+# npts            : 3           
+# xmin            : 55125.9     
+# xmax            : 62140.9     
+# ymin            :   9.1000E-03
+# ymax            :   3.4100E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     55125.9  3.4100E-02  5.1000E-03
+     60134.9  1.1800E-02  1.8000E-03
+     62140.9  9.1000E-03  1.4000E-03
+#---------------------------------------------------

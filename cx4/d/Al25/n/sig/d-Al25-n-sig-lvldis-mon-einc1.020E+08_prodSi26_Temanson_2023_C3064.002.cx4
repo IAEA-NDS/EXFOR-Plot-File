@@ -1,0 +1,26 @@
+# EXFOR #         : C3064.002  
+# EXFOR Ver.      : 20250506
+# TRANS #         : C251
+# Author          : E.Temanson et al.
+# Reference       : Phys.Rev.C 108 (2023) 065804
+# DOI             : 10.1103/PhysRevC.108.065804
+# Quantity        : 25Al(d,n)26Si partial cross section
+# REACTION        : 13-AL-25(D,N)14-SI-26,PAR,SIG
+# File ID         : d-Al25-n-sig-lvldis-mon-einc1.020E+08_prodSi26_Temanson_2023_c3064.002
+#
+# Einc (eV)       :   1.0200E+08
+#
+# npts            : 3           
+# xmin            :   5.9294E+06
+# xmax            :   6.7870E+06
+# ymin            :   5.8300E-03
+# ymax            :   3.0120E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9294E+06  0.0000E+00  5.8300E-03  9.0000E-05
+  6.2953E+06  0.0000E+00  1.0020E-02  9.0000E-05
+  6.7870E+06  0.0000E+00  3.0120E-02  6.0000E-05
+#---------------------------------------------------

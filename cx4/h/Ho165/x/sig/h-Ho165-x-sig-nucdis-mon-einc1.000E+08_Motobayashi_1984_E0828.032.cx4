@@ -1,0 +1,28 @@
+# EXFOR #         : E0828.032  
+# EXFOR Ver.      : 20080612
+# TRANS #         : E053
+# Author          : T.Motobayashi et al.
+# Reference       : Nucl.Phys.A 413 No.2 (1984) 290
+# DOI             : 10.1016/0375-9474(84)90376-2
+# Quantity        : 165Ho(he3,x) independent production cross section
+# REACTION        : 67-HO-165(HE3,X)ELEM/MASS,,SIG
+# File ID         : h-Ho165-x-sig-nucdis-mon-einc1.000E+08_Motobayashi_1984_e0828.032
+#
+# Einc (eV)       :   1.0000E+08
+#
+# npts            : 5           
+# xmin            : 68001.9     
+# xmax            : 68009.9     
+# ymin            :   1.5910E-02
+# ymax            :   1.6300E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     68009.9  2.7140E-02  6.1590E-03
+     68007.9  1.6080E-01  0.0000E+00
+     68005.9  1.6300E-01  0.0000E+00
+     68003.9  7.2230E-02  0.0000E+00
+     68001.9  1.5910E-02  3.5670E-03
+#---------------------------------------------------

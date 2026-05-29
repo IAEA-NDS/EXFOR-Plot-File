@@ -1,0 +1,25 @@
+# EXFOR #         : O0946.002  
+# EXFOR Ver.      : 20030428
+# TRANS #         : 0000
+# Author          : A.Mukherjee et al.
+# Reference       : Nucl.Phys.A 596 (1996) 299
+# DOI             : 10.1016/0375-9474(95)00392-4
+# Quantity        : 12C(7Li,a)15N partial gamma production cross section
+# REACTION        : 6-C-12(3-LI-7,A)7-N-15,PAR,SIG,G
+# File ID         : Li7-C12-a-sigg-enedisl-mon-einc3.895E+06_prodN15_Mukherjee_1996_o0946.002
+#
+# Einc (eV)       :   3.8950E+06
+#
+# npts            : 2           
+# xmin            :   1.9550E+06
+# xmax            :   5.2700E+06
+# ymin            :   2.5700E-03
+# ymax            :   9.5500E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9550E+06  0.0000E+00  2.5700E-03  4.8000E-04
+  5.2700E+06  0.0000E+00  9.5500E-03  1.6400E-03
+#---------------------------------------------------

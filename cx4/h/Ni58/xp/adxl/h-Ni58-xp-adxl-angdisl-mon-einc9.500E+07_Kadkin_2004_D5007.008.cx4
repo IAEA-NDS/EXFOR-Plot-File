@@ -1,0 +1,27 @@
+# EXFOR #         : D5007.008  
+# EXFOR Ver.      : 20060710
+# TRANS #         : D050
+# Author          : E.P.Kadkin et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 68 (2004) 266
+# DOI             : N/A
+# Quantity        : 58Ni(he3,p+x) angular differential cross section
+# REACTION        : 28-NI-58(HE3,X)1-H-1,,DA
+# File ID         : h-Ni58-xp-adxl-angdisl-mon-einc9.500E+07_Kadkin_2004_d5007.008
+#
+# Einc (eV)       :   9.5000E+07
+#
+# npts            : 4           
+# xmin            :   15.0000000
+# xmax            :   30.0000000
+# ymin            :   1.9900E-01
+# ymax            :   6.0700E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.0000000   0.0000000  6.0700E-01  3.0350E-02
+  20.0000000   0.0000000  4.1700E-01  2.0850E-02
+  25.0000000   0.0000000  2.7400E-01  1.3700E-02
+  30.0000000   0.0000000  1.9900E-01  0.0000E+00
+#---------------------------------------------------

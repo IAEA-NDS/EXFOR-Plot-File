@@ -1,0 +1,23 @@
+# EXFOR #         : D0518.004  
+# EXFOR Ver.      : 20081014
+# TRANS #         : D064
+# Author          : I.Cata-Danil et al.
+# Reference       : Phys.Rev.C 78 (2008) 035803
+# DOI             : 10.1103/PhysRevC.78.035803
+# Quantity        : 117Sn(a,p)120mSb cross section
+# REACTION        : 50-SN-117(A,P)51-SB-120-M,,SIG
+# File ID         : a-Sn117-p-sig-excfun-mon-prodSb120m_Cata+Danil_2008_d0518.004
+#
+# npts            : 2           
+# xmin            :   1.4500E+07
+# xmax            :   1.5100E+07
+# ymin            :   1.2000E-06
+# ymax            :   5.0000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5100E+07  1.0000E+05  1.2000E-06  2.0000E-06
+  1.4500E+07  1.0000E+05  5.0000E-06  1.0000E-06
+#---------------------------------------------------

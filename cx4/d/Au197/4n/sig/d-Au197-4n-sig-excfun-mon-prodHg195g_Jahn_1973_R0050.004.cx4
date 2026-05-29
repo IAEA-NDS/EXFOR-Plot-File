@@ -1,0 +1,22 @@
+# EXFOR #         : R0050.004  
+# EXFOR Ver.      : 20241120
+# TRANS #         : R031
+# Author          : P.Jahn et al.
+# Reference       : Nucl.Phys.A 209 (1973) 333
+# DOI             : 10.1016/0375-9474(73)90581-2
+# Quantity        : 197Au(d,4n)195gHg cross section
+# REACTION        : 79-AU-197(D,4N)80-HG-195-G,,SIG
+# File ID         : d-Au197-4n-sig-excfun-mon-prodHg195g_Jahn_1973_r0050.004
+#
+# npts            : 1           
+# xmin            :   3.6100E+07
+# xmax            :   3.6100E+07
+# ymin            :   8.2000E-02
+# ymax            :   8.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6100E+07  1.0000E+06  8.2000E-02  2.0000E-02
+#---------------------------------------------------

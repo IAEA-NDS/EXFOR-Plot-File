@@ -1,0 +1,24 @@
+# EXFOR #         : A0446.012  
+# EXFOR Ver.      : 20250625
+# TRANS #         : A121
+# Author          : A.Sharma et al.
+# Reference       : J.Phys.G 25 (1999) 2289
+# DOI             : 10.1088/0954-3899/25/11/309
+# Quantity        : 93Nb(16O,x)100Pd cumulative production cross section
+# REACTION        : 41-NB-93(8-O-16,X)46-PD-100,CUM,SIG
+# File ID         : O16-Nb93-x-sigc-excfun-mon-prodPd100_Sharma_1999_a0446.012
+#
+# npts            : 3           
+# xmin            :   8.9830E+07
+# xmax            :   9.9870E+07
+# ymin            :   5.3000E-03
+# ymax            :   2.4400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.9830E+07  0.0000E+00  5.3000E-03  4.2400E-04
+  9.4810E+07  0.0000E+00  7.3000E-03  7.3000E-04
+  9.9870E+07  0.0000E+00  2.4400E-02  2.6840E-03
+#---------------------------------------------------

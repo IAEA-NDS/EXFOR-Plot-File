@@ -1,0 +1,29 @@
+# EXFOR #         : C1482.005  
+# EXFOR Ver.      : 20061212
+# TRANS #         : C079
+# Author          : D.G.Burke et al.
+# Reference       : Nucl.Phys.A 756 (2005) 308
+# DOI             : 10.1016/j.nuclphysa.2005.03.088
+# Quantity        : 151Sm(t,p)153Sm partial angular differential cross section
+# REACTION        : 62-SM-151(T,P)62-SM-153,PAR,DA
+# File ID         : t-Sm151-p-adxl-angdisl-mon-einc1.500E+07_elvl1.383E+06_prodSm153_Burke_2005_c1482.005
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   1.3830E+06
+#
+# npts            : 5           
+# xmin            :   30.0750000
+# xmax            :   67.5040000
+# ymin            :   2.4080E-07
+# ymax            :   2.6370E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0750000   0.0000000  2.6370E-06  1.1080E-06
+  36.0800000   0.0000000  2.4080E-07  1.7530E-07
+  52.4190000   0.0000000  3.2600E-07  1.6840E-07
+  60.0890000   0.0000000  4.4130E-07  2.2150E-07
+  67.5040000   0.0000000  8.0890E-07  4.4090E-07
+#---------------------------------------------------

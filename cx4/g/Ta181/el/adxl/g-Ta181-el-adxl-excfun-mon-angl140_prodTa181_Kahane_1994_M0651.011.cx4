@@ -1,0 +1,25 @@
+# EXFOR #         : M0651.011  
+# EXFOR Ver.      : 20050221
+# TRANS #         : 0000
+# Author          : S.Kahane et al.
+# Reference       : Phys.Rev.C 50 (1994) 2000
+# DOI             : 10.1103/PhysRevC.50.2000
+# Quantity        : 181Ta(g,el)181Ta angular differential cross section
+# REACTION        : 73-TA-181(G,EL)73-TA-181,,DA
+# File ID         : g-Ta181-el-adxl-excfun-mon-angl140_prodTa181_Kahane_1994_m0651.011
+#
+# theta,lab (deg) :  140.0000000
+#
+# npts            : 2           
+# xmin            :   9.0000E+06
+# xmax            :   1.1400E+07
+# ymin            :   2.2000E-06
+# ymax            :   1.2500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.0000E+06  0.0000E+00  2.2000E-06  8.0000E-07
+  1.1400E+07  0.0000E+00  1.2500E-04  1.9000E-05
+#---------------------------------------------------

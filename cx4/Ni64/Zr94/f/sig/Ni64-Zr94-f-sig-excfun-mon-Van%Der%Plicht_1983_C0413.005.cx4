@@ -1,0 +1,24 @@
+# EXFOR #         : C0413.005  
+# EXFOR Ver.      : 20191125
+# TRANS #         : C187
+# Author          : J.Van Der Plicht et al.
+# Reference       : Phys.Rev.C 28 (1983) 2022
+# DOI             : 10.1103/PhysRevC.28.2022
+# Quantity        : 94Zr(64Ni,f) cross section
+# REACTION        : 40-ZR-94(28-NI-64,F),,SIG
+# File ID         : Ni64-Zr94-f-sig-excfun-mon-Van%Der%Plicht_1983_c0413.005
+#
+# npts            : 3           
+# xmin            :   2.5000E+08
+# xmax            :   2.9000E+08
+# ymin            :   9.0000E-03
+# ymax            :   4.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+08  0.0000E+00  9.0000E-03  0.0000E+00
+  2.7000E+08  0.0000E+00  1.0500E-01  3.0000E-02
+  2.9000E+08  0.0000E+00  4.2000E-01  8.0000E-02
+#---------------------------------------------------

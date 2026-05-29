@@ -1,0 +1,27 @@
+# EXFOR #         : O1631.009  
+# EXFOR Ver.      : 20220507
+# TRANS #         : O088
+# Author          : A.Belhout et al.
+# Reference       : Phys.Rev.C 76 (2007) 034607
+# DOI             : 10.1103/PhysRevC.76.034607
+# Quantity        : 16O(a,inl)16O partial gamma production cross section
+# REACTION        : 8-O-16(A,INL)8-O-16,PAR,SIG,G
+# File ID         : a-O16-inl-sigg-excfun-mon-eoutl6.916E+06_prodO16_Belhout_2007_o1631.009
+#
+# Eout,lab (eV)   :   6.9155E+06
+#
+# npts            : 4           
+# xmin            :   1.9790E+07
+# xmax            :   2.7330E+07
+# ymin            :   5.5320E-02
+# ymax            :   1.5612E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9790E+07  2.1000E+05  1.5612E-01  0.0000E+00
+  2.2310E+07  1.9000E+05  6.9120E-02  0.0000E+00
+  2.4820E+07  1.8000E+05  5.6760E-02  0.0000E+00
+  2.7330E+07  1.7000E+05  5.5320E-02  0.0000E+00
+#---------------------------------------------------

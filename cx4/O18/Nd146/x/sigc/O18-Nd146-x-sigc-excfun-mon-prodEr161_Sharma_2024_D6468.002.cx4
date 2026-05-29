@@ -1,0 +1,25 @@
+# EXFOR #         : D6468.002  
+# EXFOR Ver.      : 20241024
+# TRANS #         : D144
+# Author          : N.Sharma et al.
+# Reference       : Eur.Phys.J.A 60 (2024) 72
+# DOI             : 10.1140/epja/s10050-024-01293-8
+# Quantity        : 146Nd(18O,3n)161Er cumulative production cross section
+# REACTION        : 60-ND-146(8-O-18,3N)68-ER-161,(CUM),SIG
+# File ID         : O18-Nd146-x-sigc-excfun-mon-prodEr161_Sharma_2024_d6468.002
+#
+# npts            : 4           
+# xmin            :   6.8800E+07
+# xmax            :   8.3300E+07
+# ymin            :   8.5000E-03
+# ymax            :   4.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.8800E+07  4.0000E+05  4.0000E-02  2.0000E-03
+  7.3800E+07  3.0000E+05  2.6000E-02  1.0000E-03
+  7.7900E+07  3.0000E+05  2.1000E-02  1.0000E-03
+  8.3300E+07  3.0000E+05  8.5000E-03  5.0000E-04
+#---------------------------------------------------

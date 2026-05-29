@@ -1,0 +1,29 @@
+# EXFOR #         : E1282.028  
+# EXFOR Ver.      : 19910828
+# TRANS #         : 0000
+# Author          : M.Yasue et al.
+# Reference       : Phys.Rev.C 39 (1989) 2159
+# DOI             : 10.1103/PhysRevC.39.2159
+# Quantity        : 25Mg(a,t)26Al partial angular differential cross section
+# REACTION        : 12-MG-25(A,T)13-AL-26,PAR,DA
+# File ID         : a-Mg25-t-adxl-angdisc-mon-einc5.000E+07_elvl6.550E+06_prodAl26_Yasue_1989_e1282.028
+#
+# Einc (eV)       :   5.0000E+07
+# Elvl (eV)       :   6.5500E+06
+#
+# npts            : 5           
+# xmin            :    5.5050000
+# xmax            :   35.3000000
+# ymin            :   1.6230E-05
+# ymax            :   3.0130E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.5050000   0.0000000  3.0130E-04  0.0000E+00
+  11.4010000   0.0000000  1.3720E-04  0.0000E+00
+  17.4830000   0.0000000  5.5310E-05  8.7100E-06
+  28.8600000   0.0000000  1.8670E-05  2.4200E-06
+  35.3000000   0.0000000  1.6230E-05  1.8800E-06
+#---------------------------------------------------

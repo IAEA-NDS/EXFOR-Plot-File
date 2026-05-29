@@ -1,0 +1,27 @@
+# EXFOR #         : M0484.002  
+# EXFOR Ver.      : 20160220
+# TRANS #         : M082
+# Author          : J.Arends et al.
+# Reference       : Nucl.Phys.A 322 (1979) 253
+# DOI             : 10.1016/0375-9474(79)90425-1
+# Quantity        : 4He(g,p)3H angular differential cross section
+# REACTION        : 2-HE-4(G,P)1-H-3,,DA
+# File ID         : g-He4-p-adxl-excfun-mon-angc30_prodH3_Arends_1979_m0484.002
+#
+# theta,cm (deg)  :   30.0000000
+#
+# npts            : 4           
+# xmin            :   3.0300E+08
+# xmax            :   4.2000E+08
+# ymin            :   1.6310E-01
+# ymax            :   2.3820E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.0300E+08  0.0000E+00  2.3820E-01  2.3900E-02
+  3.3400E+08  0.0000E+00  1.6630E-01  1.5600E-02
+  3.7100E+08  0.0000E+00  1.8090E-01  1.4000E-02
+  4.2000E+08  0.0000E+00  1.6310E-01  1.2900E-02
+#---------------------------------------------------

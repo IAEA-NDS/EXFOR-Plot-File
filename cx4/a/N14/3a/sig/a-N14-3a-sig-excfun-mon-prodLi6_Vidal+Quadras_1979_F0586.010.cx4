@@ -1,0 +1,24 @@
+# EXFOR #         : F0586.010  
+# EXFOR Ver.      : 20240227
+# TRANS #         : F098
+# Author          : A.Vidal-Quadras et al.
+# Reference       : Nuovo Cim.A 49 (1979) 235
+# DOI             : 10.1007/BF02896725
+# Quantity        : 14N(a,3a)6Li cross section
+# REACTION        : 7-N-14(A,3A)3-LI-6,,SIG,,AV
+# File ID         : a-N14-3a-sig-excfun-mon-prodLi6_Vidal+Quadras_1979_f0586.010
+#
+# npts            : 3           
+# xmin            :   3.3400E+07
+# xmax            :   5.0600E+07
+# ymin            :   5.0000E-02
+# ymax            :   7.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3400E+07  2.7000E+06  6.4000E-02  2.4000E-02
+  4.2900E+07  2.9000E+06  5.0000E-02  8.0000E-03
+  5.0600E+07  2.6000E+06  7.1000E-02  1.0000E-02
+#---------------------------------------------------

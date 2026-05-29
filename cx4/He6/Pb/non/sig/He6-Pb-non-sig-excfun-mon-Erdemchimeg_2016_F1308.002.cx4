@@ -1,0 +1,24 @@
+# EXFOR #         : F1308.002  
+# EXFOR Ver.      : 20170113
+# TRANS #         : F064
+# Author          : B.Erdemchimeg et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 80 (2016) 223
+# DOI             : 10.3103/S1062873816030096
+# Quantity        : natPb(6He,non) cross section
+# REACTION        : 82-PB-0(2-HE-6,NON),,SIG
+# File ID         : He6-Pb-non-sig-excfun-mon-Erdemchimeg_2016_f1308.002
+#
+# npts            : 3           
+# xmin            :   1.4100E+08
+# xmax            :   1.8648E+08
+# ymin            :   3.5000E-12
+# ymax            :   4.2000E-12
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+08  0.0000E+00  3.5000E-12  7.0000E-13
+  1.6935E+08  0.0000E+00  3.9000E-12  8.0000E-13
+  1.8648E+08  0.0000E+00  4.2000E-12  8.0000E-13
+#---------------------------------------------------

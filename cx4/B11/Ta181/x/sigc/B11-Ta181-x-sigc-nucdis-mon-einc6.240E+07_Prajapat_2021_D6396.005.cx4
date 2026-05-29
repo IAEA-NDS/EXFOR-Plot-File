@@ -1,0 +1,26 @@
+# EXFOR #         : D6396.005  
+# EXFOR Ver.      : 20211206
+# TRANS #         : D134
+# Author          : R.Prajapat et al.
+# Reference       : Phys.Rev.C 103 (2021) 014608
+# DOI             : 10.1103/PhysRevC.103.014608
+# Quantity        : 181Ta(11B,x) cumulative production cross section
+# REACTION        : 73-TA-181(5-B-11,X)ELEM/MASS,CUM,SIG
+# File ID         : B11-Ta181-x-sigc-nucdis-mon-einc6.240E+07_Prajapat_2021_d6396.005
+#
+# Einc (eV)       :   6.2400E+07
+# dEinc (eV)      :   7.0000E+05
+#
+# npts            : 2           
+# xmin            : 77186.0     
+# xmax            : 77187.9     
+# ymin            :   7.0000E-03
+# ymax            :   7.3040E-01
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     77186.0  7.0000E-03  1.6000E-03
+     77187.9  7.3040E-01  9.0500E-02
+#---------------------------------------------------

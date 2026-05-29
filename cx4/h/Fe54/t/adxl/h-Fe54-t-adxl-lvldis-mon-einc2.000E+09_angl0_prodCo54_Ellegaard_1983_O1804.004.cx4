@@ -1,0 +1,26 @@
+# EXFOR #         : O1804.004  
+# EXFOR Ver.      : 20120613
+# TRANS #         : O048
+# Author          : C.Ellegaard et al.
+# Reference       : Phys.Rev.Lett. 50 (1983) 1745
+# DOI             : 10.1103/PhysRevLett.50.1745
+# Quantity        : 54Fe(he3,t)54Co partial angular differential cross section
+# REACTION        : 26-FE-54(HE3,T)27-CO-54,PAR,DA
+# File ID         : h-Fe54-t-adxl-lvldis-mon-einc2.000E+09_angl0_prodCo54_Ellegaard_1983_o1804.004
+#
+# Einc (eV)       :   2.0000E+09
+# dEinc (eV)      :   3.2000E+06
+# theta,lab (deg) :    0.0000000
+#
+# npts            : 1           
+# xmin            :   2.6174E+08
+# xmax            :   2.6174E+08
+# ymin            :   1.3000E-01
+# ymax            :   1.3000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.6174E+08  0.0000E+00  1.3000E-01  2.6000E-02
+#---------------------------------------------------

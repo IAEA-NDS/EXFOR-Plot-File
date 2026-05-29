@@ -1,0 +1,25 @@
+# EXFOR #         : D6069.021  
+# EXFOR Ver.      : 20091106
+# TRANS #         : D070
+# Author          : Unnati Gupta et al.
+# Reference       : Nucl.Phys.A 811 (2008) 77
+# DOI             : 10.1016/j.nuclphysa.2008.07.013
+# Quantity        : 103Rh(16O,x)106mAg independent production cross section
+# REACTION        : 45-RH-103(8-O-16,X)47-AG-106-M,,SIG
+# File ID         : O16-Rh103-x-sig-excfun-mon-prodAg106m_Unnati%Gupta_2008_d6069.021
+#
+# npts            : 4           
+# xmin            :   6.5800E+07
+# xmax            :   8.2800E+07
+# ymin            :   9.6000E-03
+# ymax            :   2.9100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.5800E+07  2.3000E+06  9.6000E-03  1.0000E-03
+  7.0800E+07  3.1000E+06  1.2400E-02  1.2000E-03
+  7.7100E+07  2.6000E+06  1.8900E-02  1.9000E-03
+  8.2800E+07  2.6000E+06  2.9100E-02  3.0000E-04
+#---------------------------------------------------

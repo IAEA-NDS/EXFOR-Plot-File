@@ -1,0 +1,22 @@
+# EXFOR #         : C0008.005  
+# EXFOR Ver.      : 20230116
+# TRANS #         : C227
+# Author          : J.P.Conner et al.
+# Reference       : Phys.Rev. 88 (1952) 468
+# DOI             : 10.1103/PhysRev.88.468
+# Quantity        : 3H(d,n)4He cross section
+# REACTION        : 1-H-3(D,N)2-HE-4,,SIG,,AV
+# File ID         : d-H3-n-sig-excfun-mon-prodHe4_Conner_1952_c0008.005
+#
+# npts            : 1           
+# xmin            :   1.0900E+05
+# xmax            :   1.0900E+05
+# ymin            :   5.1000E+00
+# ymax            :   5.1000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0900E+05  0.0000E+00  5.1000E+00  3.0000E-02
+#---------------------------------------------------

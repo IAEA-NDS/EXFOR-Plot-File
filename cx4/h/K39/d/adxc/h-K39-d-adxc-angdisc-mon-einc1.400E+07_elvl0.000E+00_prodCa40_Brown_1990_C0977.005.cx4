@@ -1,0 +1,28 @@
+# EXFOR #         : C0977.005  
+# EXFOR Ver.      : 20040813
+# TRANS #         : 0000
+# Author          : K.D.Brown
+# Reference       : Thesis  (1990)
+# DOI             : N/A
+# Quantity        : 39K(he3,d)40Ca partial angular differential cross section
+# REACTION        : 19-K-39(HE3,D)20-CA-40,PAR,DA
+# File ID         : h-K39-d-adxc-angdisc-mon-einc1.400E+07_elvl0.000E+00_prodCa40_Brown_1990_c0977.005
+#
+# Einc (eV)       :   1.4000E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :   10.7700000
+# xmax            :   32.2200000
+# ymin            :   2.5800E-04
+# ymax            :   5.5700E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.7700000   0.0000000  3.7200E-04  3.8000E-05
+  10.7700000   0.0000000  3.9200E-04  4.1000E-05
+  22.5900000   0.0000000  5.5700E-04  5.7000E-05
+  32.2200000   0.0000000  2.5800E-04  2.7000E-05
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : F1217.007  
+# EXFOR Ver.      : 20250929
+# TRANS #         : F102
+# Author          : V.S.Buttsev et al.
+# Reference       : Sov.J.Nucl.Phys. 44 (1986) 271
+# DOI             : N/A
+# Quantity        : 207Pb(d,x) independent production cross section
+# REACTION        : 82-PB-207(D,X)ELEM/MASS,,SIG
+# File ID         : d-Pb207-x-sig-nucdis-mon-einc7.300E+09_Buttsev_1986_f1217.007
+#
+# Einc (eV)       :   7.3000E+09
+#
+# npts            : 2           
+# xmin            : 42093.1     
+# xmax            : 81198.1     
+# ymin            :   1.6000E-03
+# ymax            :   1.5000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     42093.1  1.6000E-03  3.0000E-04
+     81198.1  1.5000E-02  4.0000E-03
+#---------------------------------------------------

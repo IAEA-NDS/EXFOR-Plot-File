@@ -1,0 +1,25 @@
+# EXFOR #         : O1088.007  
+# EXFOR Ver.      : 20040331
+# TRANS #         : 0000
+# Author          : F.Ballester et al.
+# Reference       : J.Phys.G 14 (1988) 1103
+# DOI             : 10.1088/0305-4616/14/8/013
+# Quantity        : 80Se(a,inl)80Se partial angular differential cross section
+# REACTION        : 34-SE-80(A,INL)34-SE-80,PAR,DA
+# File ID         : a-Se80-inl-adxl-lvldis-mon-einc2.500E+07_angc108_prodSe80_Ballester_1988_o1088.007
+#
+# Einc (eV)       :   2.5000E+07
+# theta,cm (deg)  :  107.5000000
+#
+# npts            : 1           
+# xmin            :   2.7200E+06
+# xmax            :   2.7200E+06
+# ymin            :   2.1700E-05
+# ymax            :   2.1700E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.7200E+06  0.0000E+00  2.1700E-05  1.9530E-06
+#---------------------------------------------------

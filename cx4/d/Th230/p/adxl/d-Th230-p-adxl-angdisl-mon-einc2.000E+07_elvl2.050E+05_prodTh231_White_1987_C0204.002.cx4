@@ -1,0 +1,29 @@
+# EXFOR #         : C0204.002  
+# EXFOR Ver.      : 20200508
+# TRANS #         : C193
+# Author          : D.H.White et al.
+# Reference       : Phys.Rev.C 35 (1987) 81
+# DOI             : 10.1103/PhysRevC.35.81
+# Quantity        : 230Th(d,p)231Th partial angular differential cross section
+# REACTION        : 90-TH-230(D,P)90-TH-231,PAR,DA
+# File ID         : d-Th230-p-adxl-angdisl-mon-einc2.000E+07_elvl2.050E+05_prodTh231_White_1987_c0204.002
+#
+# Einc (eV)       :   2.0000E+07
+# dEinc (eV)      :   1.0000E+04
+# Elvl (eV)       :   2.0500E+05
+#
+# npts            : 4           
+# xmin            :   40.0000000
+# xmax            :   75.0000000
+# ymin            :   2.0000E-06
+# ymax            :   5.0000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.0000000   0.0000000  5.0000E-06  1.2500E-06
+  55.0000000   0.0000000  3.0000E-06  7.5000E-07
+  60.0000000   0.0000000  2.0000E-06  5.0000E-07
+  75.0000000   0.0000000  5.0000E-06  1.2500E-06
+#---------------------------------------------------

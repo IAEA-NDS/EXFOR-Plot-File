@@ -1,0 +1,22 @@
+# EXFOR #         : A0431.057  
+# EXFOR Ver.      : 20190626
+# TRANS #         : A091
+# Author          : P.Kozma et al.
+# Reference       : J.Phys.G 17 (1991) 675
+# DOI             : 10.1088/0954-3899/17/5/014
+# Quantity        : 181Ta(12C,x)24Na cumulative production cross section
+# REACTION        : 73-TA-181(6-C-12,X)11-NA-24,CUM,SIG
+# File ID         : C12-Ta181-x-sigc-excfun-mon-prodNa24_Kozma_1991_a0431.057
+#
+# npts            : 1           
+# xmin            :   3.6500E+09
+# xmax            :   3.6500E+09
+# ymin            :   3.6400E-02
+# ymax            :   3.6400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6500E+09  0.0000E+00  3.6400E-02  3.3000E-03
+#---------------------------------------------------

@@ -1,0 +1,31 @@
+# EXFOR #         : E2050.003  
+# EXFOR Ver.      : 20080131
+# TRANS #         : E050
+# Author          : L.Heilbronn et al.
+# Reference       : Nucl.Sci.Eng. 157 No.2 (2007) 142
+# DOI             : 10.13182/NSE07-A2719
+# Quantity        : natCu(a,n+x) double differential cross section
+# REACTION        : 29-CU-0(A,X)0-NN-1,,DA/DE
+# File ID         : a-Cu-xn-ddxl-enedisl-mon-einc9.200E+08_angl80_Heilbronn_2007_e2050.003
+#
+# Einc (eV)       :   9.2000E+08
+# theta,lab (deg) :   80.0000000
+#
+# npts            : 7           
+# xmin            :   7.3100E+06
+# xmax            :   1.6146E+08
+# ymin            :   2.3440E-10
+# ymax            :   2.0590E-08
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.6146E+08  1.1474E+08  2.3440E-10  4.1450E-11
+  4.1995E+07  4.7250E+06  2.3450E-09  4.2110E-10
+  3.0620E+07  6.6500E+06  3.3260E-09  5.8190E-10
+  1.8170E+07  5.8000E+06  3.7730E-09  7.4260E-10
+  1.1368E+07  1.5115E+06  9.6790E-09  2.8750E-09
+  8.7025E+06  1.1545E+06  1.3620E-08  4.0750E-09
+  7.3100E+06  9.9800E+05  2.0590E-08  8.0450E-09
+#---------------------------------------------------

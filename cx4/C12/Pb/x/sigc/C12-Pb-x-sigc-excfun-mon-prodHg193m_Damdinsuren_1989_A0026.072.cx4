@@ -1,0 +1,22 @@
+# EXFOR #         : A0026.072  
+# EXFOR Ver.      : 20160207
+# TRANS #         : A084
+# Author          : C.Damdinsuren et al.
+# Reference       : Report JINR-E1-89-481, 1989
+# DOI             : N/A
+# Quantity        : natPb(12C,x)193mHg cumulative production cross section
+# REACTION        : 82-PB-0(6-C-12,X)80-HG-193-M,CUM,SIG
+# File ID         : C12-Pb-x-sigc-excfun-mon-prodHg193m_Damdinsuren_1989_a0026.072
+#
+# npts            : 1           
+# xmin            :   4.3800E+10
+# xmax            :   4.3800E+10
+# ymin            :   4.5000E-02
+# ymax            :   4.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3800E+10  0.0000E+00  4.5000E-02  1.7000E-02
+#---------------------------------------------------

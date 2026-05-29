@@ -1,0 +1,29 @@
+# EXFOR #         : O2154.002  
+# EXFOR Ver.      : 20130722
+# TRANS #         : O051
+# Author          : K.G.Leach et al.
+# Reference       : Phys.Rev.C 87 (2013) 064306
+# DOI             : 10.1103/PhysRevC.87.064306
+# Quantity        : 64Zn(d,t)63Zn partial angular differential cross section
+# REACTION        : 30-ZN-64(D,T)30-ZN-63,PAR,DA
+# File ID         : d-Zn64-t-adxc-angdisc-mon-einc2.200E+07_elvl4.482E+06_prodZn63_Leach_2013_o2154.002
+#
+# Einc (eV)       :   2.2000E+07
+# Elvl (eV)       :   4.4820E+06
+#
+# npts            : 5           
+# xmin            :   10.3233900
+# xmax            :   51.4106900
+# ymin            :   3.5467E-07
+# ymax            :   8.9329E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.3233900   0.0000000  8.9329E-06  8.8399E-07
+  15.4817100   0.0000000  8.7060E-06  1.6756E-06
+  20.6360100   0.0000000  8.8267E-06  6.3545E-07
+  25.7850200   0.0000000  3.8846E-06  4.8230E-07
+  51.4106900   0.0000000  3.5467E-07  5.7734E-07
+#---------------------------------------------------

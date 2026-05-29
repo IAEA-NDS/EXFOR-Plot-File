@@ -1,0 +1,26 @@
+# EXFOR #         : E2116.002  
+# EXFOR Ver.      : 20090706
+# TRANS #         : E057
+# Author          : T.Ohnishi et al.
+# Reference       : J.Phys.Soc.Jpn. 77 No.8 (2008) 083201
+# DOI             : 10.1143/JPSJ.77.083201
+# Quantity        : 9Be(238U,f) independent production cross section
+# REACTION        : 4-BE-9(92-U-238,F)ELEM/MASS,,SIG
+# File ID         : U238-Be9-x-sig-nucdis-mon-einc8.211E+10_Ohnishi_2008_e2116.002
+#
+# Einc (eV)       :   8.2110E+10
+#
+# npts            : 3           
+# xmin            : 46124.9     
+# xmax            : 46126.9     
+# ymin            :   7.0000E-10
+# ymax            :   8.0000E-08
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     46124.9  8.0000E-08  0.0000E+00
+     46125.9  7.0000E-09  0.0000E+00
+     46126.9  7.0000E-10  0.0000E+00
+#---------------------------------------------------

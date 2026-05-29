@@ -1,0 +1,25 @@
+# EXFOR #         : E1829.038  
+# EXFOR Ver.      : 20240608
+# TRANS #         : E149
+# Author          : H.Yashima et al.
+# Reference       : Radiochim.Acta 91 (2003) 689
+# DOI             : 10.1524/ract.91.12.689.23423
+# Quantity        : natC(20Ne,x) independent production cross section
+# REACTION        : 6-C-0(10-NE-20,X)ELEM/MASS,,SIG
+# File ID         : Ne20-C-x-sig-nucdis-mon-einc4.600E+09_Yashima_2003_e1829.038
+#
+# Einc (eV)       :   4.6000E+09
+#
+# npts            : 2           
+# xmin            : 4007.9      
+# xmax            : 6011.9      
+# ymin            :   4.0200E-02
+# ymax            :   9.6400E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      4007.9  4.0200E-02  3.3000E-03
+      6011.9  9.6400E-02  4.9000E-03
+#---------------------------------------------------

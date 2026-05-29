@@ -1,0 +1,26 @@
+# EXFOR #         : D0046.002.3
+# EXFOR Ver.      : 20170217
+# TRANS #         : D108
+# Author          : O.Bonesso et al.
+# Reference       : Report INDC(ARG)-14, 2017
+# DOI             : N/A
+# Quantity        : natCu(a,x)63Zn cumulative production cross section
+# REACTION        : 29-CU-0(A,X)30-ZN-63,CUM,SIG,,DAM
+# File ID         : a-Cu-x-sigc-excfun-mon-prodZn63_Bonesso_2017_d0046.002.3
+#
+# npts            : 5           
+# xmin            :   3.5980E+07
+# xmax            :   5.0020E+07
+# ymin            :   8.8964E-03
+# ymax            :   1.6522E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5980E+07  0.0000E+00  1.3535E-02  6.6088E-03
+  3.7720E+07  0.0000E+00  1.6268E-02  1.2646E-02
+  4.1760E+07  0.0000E+00  1.4552E-02  8.3881E-03
+  4.6000E+07  0.0000E+00  1.6522E-02  7.9433E-03
+  5.0020E+07  0.0000E+00  8.8964E-03  8.3245E-03
+#---------------------------------------------------

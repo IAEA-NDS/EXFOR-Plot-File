@@ -1,0 +1,28 @@
+# EXFOR #         : C1641.005  
+# EXFOR Ver.      : 20080804
+# TRANS #         : C088
+# Author          : A.V.Nero et al.
+# Reference       : Phys.Rev.C 24 (1981) 1864
+# DOI             : 10.1103/PhysRevC.24.1864
+# Quantity        : 16O(he3,n)18Ne partial angular differential cross section
+# REACTION        : 8-O-16(HE3,N)10-NE-18,PAR,DA
+# File ID         : h-O16-n-adxc-angdisc-mon-einc1.780E+07_elvl7.920E+06_prodNe18_Nero_1981_c1641.005
+#
+# Einc (eV)       :   1.7800E+07
+# Elvl (eV)       :   7.9200E+06
+#
+# npts            : 4           
+# xmin            :    6.2300000
+# xmax            :   47.6100000
+# ymin            :   8.3240E-04
+# ymax            :   2.8570E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.2300000   0.0000000  2.8570E-03  1.2770E-04
+  18.3100000   0.0000000  2.2850E-03  1.2160E-04
+  33.1100000   0.0000000  1.4340E-03  6.6900E-05
+  47.6100000   0.0000000  8.3240E-04  7.2970E-05
+#---------------------------------------------------

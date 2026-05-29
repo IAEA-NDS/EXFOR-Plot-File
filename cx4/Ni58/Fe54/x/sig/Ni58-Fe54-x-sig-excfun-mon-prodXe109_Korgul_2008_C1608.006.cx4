@@ -1,0 +1,24 @@
+# EXFOR #         : C1608.006  
+# EXFOR Ver.      : 20080403
+# TRANS #         : C086
+# Author          : A.Korgul et al.
+# Reference       : Phys.Rev.C 77 (2008) 034301
+# DOI             : 10.1103/PhysRevC.77.034301
+# Quantity        : 54Fe(58Ni,x)109Xe independent production cross section
+# REACTION        : 26-FE-54(28-NI-58,X)54-XE-109,,SIG
+# File ID         : Ni58-Fe54-x-sig-excfun-mon-prodXe109_Korgul_2008_c1608.006
+#
+# npts            : 3           
+# xmin            :   2.0470E+08
+# xmax            :   2.1980E+08
+# ymin            :   7.2080E-09
+# ymax            :   1.0800E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0470E+08  0.0000E+00  7.4190E-09  1.8620E-09
+  2.1480E+08  0.0000E+00  1.0800E-08  3.1660E-09
+  2.1980E+08  0.0000E+00  7.2080E-09  1.9630E-09
+#---------------------------------------------------

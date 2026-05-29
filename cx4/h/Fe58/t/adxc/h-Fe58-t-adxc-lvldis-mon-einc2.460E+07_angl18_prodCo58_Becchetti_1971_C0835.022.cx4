@@ -1,0 +1,27 @@
+# EXFOR #         : C0835.022  
+# EXFOR Ver.      : 20010831
+# TRANS #         : 0000
+# Author          : F.D.Becchetti et al.
+# Reference       : Nucl.Phys.A 168 (1971) 151
+# DOI             : 10.1016/0375-9474(71)90656-7
+# Quantity        : 58Fe(he3,t)58Co partial angular differential cross section
+# REACTION        : 26-FE-58(HE3,T)27-CO-58,PAR,DA
+# File ID         : h-Fe58-t-adxc-lvldis-mon-einc2.460E+07_angl18_prodCo58_Becchetti_1971_c0835.022
+#
+# Einc (eV)       :   2.4600E+07
+# dEinc (eV)      :   5.0000E+03
+# theta,lab (deg) :   18.0000000
+#
+# npts            : 2           
+# xmin            :   5.7390E+06
+# xmax            :   5.7590E+06
+# ymin            :   9.0000E-05
+# ymax            :   9.8000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.7390E+06  8.0000E+03  9.0000E-05  0.0000E+00
+  5.7590E+06  8.0000E+03  9.8000E-05  0.0000E+00
+#---------------------------------------------------

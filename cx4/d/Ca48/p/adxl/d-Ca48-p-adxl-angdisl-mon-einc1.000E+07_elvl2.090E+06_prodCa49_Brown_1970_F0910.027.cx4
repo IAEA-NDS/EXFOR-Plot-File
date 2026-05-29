@@ -1,0 +1,25 @@
+# EXFOR #         : F0910.027  
+# EXFOR Ver.      : 20101028
+# TRANS #         : F041
+# Author          : G.Brown et al.
+# Reference       : Nucl.Phys.A 153 (1970) 145
+# DOI             : 10.1016/0375-9474(70)90762-1
+# Quantity        : 48Ca(d,p)49Ca partial angular differential cross section
+# REACTION        : 20-CA-48(D,P)20-CA-49,PAR,DA
+# File ID         : d-Ca48-p-adxl-angdisl-mon-einc1.000E+07_elvl2.090E+06_prodCa49_Brown_1970_f0910.027
+#
+# Einc (eV)       :   1.0000E+07
+# Elvl (eV)       :   2.0900E+06
+#
+# npts            : 1           
+# xmin            :   12.5000000
+# xmax            :   12.5000000
+# ymin            :   2.7500E-02
+# ymax            :   2.7500E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.5000000   0.0000000  2.7500E-02  2.8000E-03
+#---------------------------------------------------

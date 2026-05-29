@@ -1,0 +1,25 @@
+# EXFOR #         : F1318.006  
+# EXFOR Ver.      : 20170718
+# TRANS #         : F065
+# Author          : S.A.Karamyan et al.
+# Reference       : Proceedings of Int.Conf.Nucl.Spectroscopy Nucl.Struct.,Alma-Ata 1992 page 291
+# DOI             : N/A
+# Quantity        : 27Al(a,x)28Mg independent production cross section
+# REACTION        : 13-AL-27(A,X)12-MG-28,,SIG
+# File ID         : a-Al27-x-sig-excfun-mon-prodMg28_Karamyan_1992_f1318.006
+#
+# npts            : 4           
+# xmin            :   2.7419E+07
+# xmax            :   3.5483E+07
+# ymin            :   1.0108E-06
+# ymax            :   4.1299E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7419E+07  0.0000E+00  1.1346E-06  6.7341E-07
+  2.8367E+07  0.0000E+00  1.0108E-06  5.9036E-07
+  3.2399E+07  0.0000E+00  1.3960E-06  6.2998E-07
+  3.5483E+07  0.0000E+00  4.1299E-06  1.5865E-06
+#---------------------------------------------------

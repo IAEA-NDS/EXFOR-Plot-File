@@ -1,0 +1,27 @@
+# EXFOR #         : O2219.002  
+# EXFOR Ver.      : 20220119
+# TRANS #         : O087
+# Author          : S.Tropea et al.
+# Reference       : Acta Phys.Pol.B 45 (2014) 565
+# DOI             : 10.5506/APhysPolB.45.565
+# Quantity        : 197Au(12C,a+x) angular differential cross section
+# REACTION        : 79-AU-197(6-C-12,X)2-HE-4,,DA
+# File ID         : C12-Au197-xa-adxl-angdisl-mon-einc7.440E+08_Tropea_2014_o2219.002
+#
+# Einc (eV)       :   7.4400E+08
+#
+# npts            : 4           
+# xmin            :    8.5500000
+# xmax            :   21.8000000
+# ymin            :   1.4600E-03
+# ymax            :   1.5700E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   8.5500000   3.5000000  1.5200E-03  1.0200E+01
+  14.3700000   3.5000000  1.5700E-03  3.3700E+00
+  17.9800000   3.5000000  1.5500E-03  1.9200E+00
+  21.8000000   3.5000000  1.4600E-03  1.3100E+00
+#---------------------------------------------------

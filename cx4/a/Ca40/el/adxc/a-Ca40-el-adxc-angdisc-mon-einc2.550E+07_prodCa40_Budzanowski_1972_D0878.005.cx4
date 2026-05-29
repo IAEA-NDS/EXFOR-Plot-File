@@ -1,0 +1,27 @@
+# EXFOR #         : D0878.005  
+# EXFOR Ver.      : 20180208
+# TRANS #         : D113
+# Author          : A.Budzanowski et al.
+# Reference       : Report INP-740, 1972
+# DOI             : N/A
+# Quantity        : 40Ca(a,el)40Ca angular differential cross section
+# REACTION        : 20-CA-40(A,EL)20-CA-40,,DA,,RTH
+# File ID         : a-Ca40-el-adxc-angdisc-mon-einc2.550E+07_prodCa40_Budzanowski_1972_d0878.005
+#
+# Einc (eV)       :   2.5500E+07
+# dEinc (eV)      :   5.0000E+04
+#
+# npts            : 3           
+# xmin            :  168.7400000
+# xmax            :  179.0000000
+# ymin            :   2.0776E-04
+# ymax            :   7.8360E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 168.7400000   0.0000000  2.0776E-04  0.0000E+00
+ 177.7500000   0.0000000  6.9525E-03  0.0000E+00
+ 179.0000000   0.0000000  7.8360E-03  0.0000E+00
+#---------------------------------------------------

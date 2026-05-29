@@ -1,0 +1,28 @@
+# EXFOR #         : C1300.002  
+# EXFOR Ver.      : 20050808
+# TRANS #         : C075
+# Author          : S.M.Mullins et al.
+# Reference       : Phys.Rev.C 37 (1988) 587
+# DOI             : 10.1103/PhysRevC.37.587
+# Quantity        : 82Se(t,p)84Se partial angular differential cross section
+# REACTION        : 34-SE-82(T,P)34-SE-84,PAR,DA
+# File ID         : t-Se82-p-adxc-angdisc-mon-einc1.700E+07_elvl2.716E+06_prodSe84_Mullins_1988_c1300.002
+#
+# Einc (eV)       :   1.7000E+07
+# Elvl (eV)       :   2.7160E+06
+#
+# npts            : 4           
+# xmin            :    5.5600000
+# xmax            :   51.6000000
+# ymin            :   9.8700E-07
+# ymax            :   5.0000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.5600000   0.0000000  5.0000E-05  0.0000E+00
+  13.6000000   0.0000000  8.5200E-06  2.9700E-06
+  28.9000000   0.0000000  3.5300E-06  1.8300E-06
+  51.6000000   0.0000000  9.8700E-07  9.7600E-07
+#---------------------------------------------------

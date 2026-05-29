@@ -1,0 +1,30 @@
+# EXFOR #         : O1562.002  
+# EXFOR Ver.      : 20070924
+# TRANS #         : O032
+# Author          : A.Boudard et al.
+# Reference       : Phys.Rev.C 13 (1976) 1123
+# DOI             : 10.1103/PhysRevC.13.1123
+# Quantity        : 60Ni(he3,d)61Cu partial angular differential cross section
+# REACTION        : 28-NI-60(HE3,D)29-CU-61,PAR,DA
+# File ID         : h-Ni60-d-adxc-angdisc-mon-einc3.020E+07_elvl8.580E+06_prodCu61_Boudard_1976_o1562.002
+#
+# Einc (eV)       :   3.0200E+07
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   8.5800E+06
+# dElvl (eV)      :   4.0000E+04
+#
+# npts            : 4           
+# xmin            :   13.2200000
+# xmax            :   36.3300000
+# ymin            :   5.2900E-04
+# ymax            :   3.1200E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  13.2200000   0.0000000  3.1200E-03  1.2480E-04
+  18.7000000   0.0000000  2.1800E-03  1.3080E-04
+  25.8500000   0.0000000  1.0700E-03  6.4200E-05
+  36.3300000   0.0000000  5.2900E-04  2.6450E-05
+#---------------------------------------------------

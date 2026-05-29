@@ -1,0 +1,26 @@
+# EXFOR #         : C2322.003  
+# EXFOR Ver.      : 20180618
+# TRANS #         : C177
+# Author          : F.L.Lisman et al.
+# Reference       : Phys.Rev. 140 (1965) B863
+# DOI             : 10.1103/PhysRev.140.B863
+# Quantity        : 197Au(a,f) cumulative production cross section
+# REACTION        : 79-AU-197(A,F)ELEM/MASS,CUM,SIG
+# File ID         : a-Au197-x-sigc-nucdis-mon-einc3.700E+07_Lisman_1965_c2322.003
+#
+# Einc (eV)       :   3.7000E+07
+# dEinc (eV)      :   4.0000E+05
+#
+# npts            : 2           
+# xmin            : 38091.9     
+# xmax            : 51127.9     
+# ymin            :   8.0000E-09
+# ymax            :   3.8300E-06
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     38091.9  3.8300E-06  6.9000E-07
+     51127.9  8.0000E-09  7.0000E-10
+#---------------------------------------------------

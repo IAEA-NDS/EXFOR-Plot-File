@@ -1,0 +1,23 @@
+# EXFOR #         : D4058.041  
+# EXFOR Ver.      : 20150504
+# TRANS #         : D099
+# Author          : P.Jung
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 352
+# DOI             : N/A
+# Quantity        : natV(d,x)51Cr independent production cross section
+# REACTION        : 23-V-0(D,X)24-CR-51,,SIG
+# File ID         : d-V-x-sig-excfun-mon-prodCr51_Jung_1991_d4058.041
+#
+# npts            : 2           
+# xmin            :   8.2000E+06
+# xmax            :   1.3400E+07
+# ymin            :   3.9900E-01
+# ymax            :   6.8700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.2000E+06  8.0000E+05  3.9900E-01  0.0000E+00
+  1.3400E+07  6.0000E+05  6.8700E-01  0.0000E+00
+#---------------------------------------------------

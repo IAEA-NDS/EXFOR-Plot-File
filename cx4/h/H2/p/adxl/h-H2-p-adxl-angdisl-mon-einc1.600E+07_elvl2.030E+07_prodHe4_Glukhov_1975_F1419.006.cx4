@@ -1,0 +1,26 @@
+# EXFOR #         : F1419.006  
+# EXFOR Ver.      : 20200623
+# TRANS #         : F081
+# Author          : Yu.A.Glukhov et al.
+# Reference       : Yad.Fiz. 22 (1975) 679
+# DOI             : N/A
+# Quantity        : 2H(he3,p)4He partial angular differential cross section
+# REACTION        : 1-H-2(HE3,P)2-HE-4,PAR,DA
+# File ID         : h-H2-p-adxl-angdisl-mon-einc1.600E+07_elvl2.030E+07_prodHe4_Glukhov_1975_f1419.006
+#
+# Einc (eV)       :   1.6000E+07
+# dEinc (eV)      :   4.0000E+06
+# Elvl (eV)       :   2.0300E+07
+#
+# npts            : 1           
+# xmin            :   12.0000000
+# xmax            :   12.0000000
+# ymin            :   6.0000E-04
+# ymax            :   6.0000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.0000000   2.0000000  6.0000E-04  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : O1543.002  
+# EXFOR Ver.      : 20070822
+# TRANS #         : O031
+# Author          : R.Kamermans et al.
+# Reference       : Phys.Rev.C 17 (1978) 1555
+# DOI             : 10.1103/PhysRevC.17.1555
+# Quantity        : 115Sn(he3,d)116Sb partial angular differential cross section
+# REACTION        : 50-SN-115(HE3,D)51-SB-116,PAR,DA
+# File ID         : h-Sn115-d-adxc-angdisc-mon-einc2.840E+07_elvl8.820E+05_prodSb116_Kamermans_1978_o1543.002
+#
+# Einc (eV)       :   2.8400E+07
+# Elvl (eV)       :   8.8200E+05
+#
+# npts            : 4           
+# xmin            :   13.4200000
+# xmax            :   26.1300000
+# ymin            :   2.4000E-05
+# ymax            :   1.0500E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  13.4200000   0.0000000  2.4000E-05  1.4400E-05
+  17.6200000   0.0000000  2.5000E-05  1.2500E-05
+  21.8800000   0.0000000  1.0500E-04  2.2050E-05
+  26.1300000   0.0000000  8.8000E-05  2.6400E-05
+#---------------------------------------------------

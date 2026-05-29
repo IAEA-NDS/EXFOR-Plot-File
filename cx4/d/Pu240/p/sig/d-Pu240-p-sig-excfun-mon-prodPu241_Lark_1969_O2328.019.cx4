@@ -1,0 +1,22 @@
+# EXFOR #         : O2328.019  
+# EXFOR Ver.      : 20191223
+# TRANS #         : O073
+# Author          : N.L.Lark et al.
+# Reference       : Nucl.Phys.A 139 (1969) 481
+# DOI             : 10.1016/0375-9474(69)90273-5
+# Quantity        : 240Pu(d,p)241Pu cross section
+# REACTION        : 94-PU-240(D,P)94-PU-241,,SIG
+# File ID         : d-Pu240-p-sig-excfun-mon-prodPu241_Lark_1969_o2328.019
+#
+# npts            : 1           
+# xmin            :   1.3000E+07
+# xmax            :   1.3000E+07
+# ymin            :   5.0000E-07
+# ymax            :   5.0000E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+07  0.0000E+00  5.0000E-07  8.0000E-08
+#---------------------------------------------------

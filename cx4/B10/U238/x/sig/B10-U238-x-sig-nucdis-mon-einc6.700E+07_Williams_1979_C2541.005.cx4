@@ -1,0 +1,27 @@
+# EXFOR #         : C2541.005  
+# EXFOR Ver.      : 20200501
+# TRANS #         : C196
+# Author          : K.E.Williams et al.
+# Reference       : Phys.Rev.C 19 (1979) 1794
+# DOI             : 10.1103/PhysRevC.19.1794
+# Quantity        : 238U(10B,x) independent production cross section
+# REACTION        : 92-U-238(5-B-10,X)ELEM/MASS,,SIG
+# File ID         : B10-U238-x-sig-nucdis-mon-einc6.700E+07_Williams_1979_c2541.005
+#
+# Einc (eV)       :   6.7000E+07
+#
+# npts            : 4           
+# xmin            : 96240.9     
+# xmax            : 97242.9     
+# ymin            :   1.2000E-07
+# ymax            :   6.0000E-05
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     96240.9  1.2000E-07  0.0000E+00
+     96242.9  5.1000E-05  0.0000E+00
+     96242.9  6.0000E-05  0.0000E+00
+     97242.9  8.9000E-06  0.0000E+00
+#---------------------------------------------------

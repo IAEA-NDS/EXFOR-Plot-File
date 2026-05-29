@@ -1,0 +1,26 @@
+# EXFOR #         : E0828.034  
+# EXFOR Ver.      : 20080612
+# TRANS #         : E053
+# Author          : T.Motobayashi et al.
+# Reference       : Nucl.Phys.A 413 No.2 (1984) 290
+# DOI             : 10.1016/0375-9474(84)90376-2
+# Quantity        : 167Er(he3,x) independent production cross section
+# REACTION        : 68-ER-167(HE3,X)ELEM/MASS,,SIG
+# File ID         : h-Er167-x-sig-nucdis-mon-einc1.000E+08_Motobayashi_1984_e0828.034
+#
+# Einc (eV)       :   1.0000E+08
+#
+# npts            : 3           
+# xmin            : 68002.9     
+# xmax            : 68006.9     
+# ymin            :   4.2890E-02
+# ymax            :   1.5410E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     68006.9  4.2890E-02  1.1570E-02
+     68004.9  7.9090E-02  2.1860E-02
+     68002.9  1.5410E-01  4.9260E-02
+#---------------------------------------------------

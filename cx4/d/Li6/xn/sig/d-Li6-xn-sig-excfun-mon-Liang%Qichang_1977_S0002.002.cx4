@@ -1,0 +1,23 @@
+# EXFOR #         : S0002.002  
+# EXFOR Ver.      : 20200409
+# TRANS #         : S028
+# Author          : Liang Qichang et al.
+# Reference       : At.En.Sci.Technol. 11 (1977) 10
+# DOI             : N/A
+# Quantity        : 6Li(d,n+x) cross section
+# REACTION        : 3-LI-6(D,X)0-NN-1,,SIG
+# File ID         : d-Li6-xn-sig-excfun-mon-Liang%Qichang_1977_s0002.002
+#
+# npts            : 2           
+# xmin            :   3.7000E+06
+# xmax            :   5.0300E+06
+# ymin            :   3.2220E-01
+# ymax            :   3.5960E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+06  0.0000E+00  3.5960E-01  4.0300E-02
+  5.0300E+06  0.0000E+00  3.2220E-01  4.5100E-02
+#---------------------------------------------------

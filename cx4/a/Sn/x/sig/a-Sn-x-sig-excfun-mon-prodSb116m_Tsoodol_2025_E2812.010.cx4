@@ -1,0 +1,25 @@
+# EXFOR #         : E2812.010  
+# EXFOR Ver.      : 20250930
+# TRANS #         : E154
+# Author          : Z.Tsoodol et al.
+# Reference       : Appl.Radiat.Isot. 225 (2025) 112053
+# DOI             : 10.1016/j.apradiso.2025.112053
+# Quantity        : natSn(a,x)116mSb independent production cross section
+# REACTION        : 50-SN-0(A,X)51-SB-116-M,,SIG
+# File ID         : a-Sn-x-sig-excfun-mon-prodSb116m_Tsoodol_2025_e2812.010
+#
+# npts            : 4           
+# xmin            :   4.5400E+07
+# xmax            :   5.0200E+07
+# ymin            :   2.3000E-03
+# ymax            :   1.1500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0200E+07  2.0000E+05  1.1500E-02  1.4000E-03
+  4.8600E+07  2.0000E+05  7.4000E-03  1.1000E-03
+  4.7000E+07  2.0000E+05  4.8000E-03  9.0000E-04
+  4.5400E+07  2.0000E+05  2.3000E-03  7.0000E-04
+#---------------------------------------------------

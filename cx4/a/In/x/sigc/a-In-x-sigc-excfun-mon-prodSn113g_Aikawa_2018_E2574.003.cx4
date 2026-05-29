@@ -1,0 +1,25 @@
+# EXFOR #         : E2574.003  
+# EXFOR Ver.      : 20181108
+# TRANS #         : E117
+# Author          : M.Aikawa et al.
+# Reference       : Nucl.Instrum.Meth.B 426 (2018) 18
+# DOI             : 10.1016/j.nimb.2018.04.023
+# Quantity        : natIn(a,x)113gSn cumulative production cross section
+# REACTION        : 49-IN-0(A,X)50-SN-113-G,CUM,SIG
+# File ID         : a-In-x-sigc-excfun-mon-prodSn113g_Aikawa_2018_e2574.003
+#
+# npts            : 4           
+# xmin            :   4.0500E+07
+# xmax            :   5.0300E+07
+# ymin            :   6.5000E-04
+# ymax            :   2.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0300E+07  1.4000E+06  2.6000E-02  2.0000E-03
+  4.7200E+07  1.4000E+06  1.3700E-02  1.1000E-03
+  4.3900E+07  1.5000E+06  4.4000E-03  4.0000E-04
+  4.0500E+07  1.6000E+06  6.5000E-04  8.0000E-05
+#---------------------------------------------------

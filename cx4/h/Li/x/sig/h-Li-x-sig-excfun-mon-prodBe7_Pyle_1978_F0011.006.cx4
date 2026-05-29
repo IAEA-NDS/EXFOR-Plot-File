@@ -1,0 +1,23 @@
+# EXFOR #         : F0011.006  
+# EXFOR Ver.      : 20240207
+# TRANS #         : F096
+# Author          : R.V.Pyle et al.
+# Reference       : Trans.Am.Nucl.Soc. 30 (1978) 623
+# DOI             : N/A
+# Quantity        : natLi(he3,x)7Be independent production cross section
+# REACTION        : 3-LI-0(HE3,X)4-BE-7,,SIG
+# File ID         : h-Li-x-sig-excfun-mon-prodBe7_Pyle_1978_f0011.006
+#
+# npts            : 2           
+# xmin            :   5.9000E+06
+# xmax            :   5.9000E+06
+# ymin            :   2.0300E-01
+# ymax            :   2.0800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+06  0.0000E+00  2.0800E-01  1.2000E-02
+  5.9000E+06  0.0000E+00  2.0300E-01  1.1000E-02
+#---------------------------------------------------

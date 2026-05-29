@@ -1,0 +1,28 @@
+# EXFOR #         : F0596.010  
+# EXFOR Ver.      : 20251216
+# TRANS #         : F105
+# Author          : A.Grzeszczuk et al.
+# Reference       : Acta Phys.Pol.B 25 (1994) 849
+# DOI             : N/A
+# Quantity        : 30Si(a,el)30Si angular differential cross section
+# REACTION        : 14-SI-30(A,EL)14-SI-30,,DA
+# File ID         : a-Si30-el-adxl-excfun-mon-angl179_prodSi30_Grzeszczuk_1994_f0596.010
+#
+# theta,lab (deg) :  179.0000000
+#
+# npts            : 5           
+# xmin            :   2.9824E+07
+# xmax            :   3.1753E+07
+# ymin            :   3.9890E-05
+# ymax            :   2.8360E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.9824E+07  2.0019E+05  7.3740E-05  0.0000E+00
+  3.0165E+07  2.0019E+05  4.9600E-05  0.0000E+00
+  3.0619E+07  2.0019E+05  1.5980E-04  0.0000E+00
+  3.1299E+07  2.0020E+05  2.8360E-04  0.0000E+00
+  3.1753E+07  2.0020E+05  3.9890E-05  0.0000E+00
+#---------------------------------------------------

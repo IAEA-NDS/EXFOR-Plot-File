@@ -1,0 +1,27 @@
+# EXFOR #         : C1991.012  
+# EXFOR Ver.      : 20130403
+# TRANS #         : C131
+# Author          : J.P.Schiffer et al.
+# Reference       : Phys.Rev.C 87 (2013) 034306
+# DOI             : 10.1103/PhysRevC.87.034306
+# Quantity        : 62Ni(he3,d)63Cu partial angular differential cross section
+# REACTION        : 28-NI-62(HE3,D)29-CU-63,PAR,DA
+# File ID         : h-Ni62-d-adxl-angdisl-mon-einc1.800E+07_elvl2.697E+06_prodCu63_Schiffer_2013_c1991.012
+#
+# Einc (eV)       :   1.8000E+07
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   2.6970E+06
+#
+# npts            : 2           
+# xmin            :   10.0000000
+# xmax            :   25.0000000
+# ymin            :   7.5000E-05
+# ymax            :   2.5000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.0000000   0.0000000  2.5000E-04  0.0000E+00
+  25.0000000   0.0000000  7.5000E-05  0.0000E+00
+#---------------------------------------------------

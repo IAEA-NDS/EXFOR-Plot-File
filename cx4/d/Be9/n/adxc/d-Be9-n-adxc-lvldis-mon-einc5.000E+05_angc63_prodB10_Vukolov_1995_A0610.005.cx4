@@ -1,0 +1,25 @@
+# EXFOR #         : A0610.005  
+# EXFOR Ver.      : 20210623
+# TRANS #         : A098
+# Author          : V.A.Vukolov et al.
+# Reference       : Yad.Fiz. 58 (1995) 1539
+# DOI             : N/A
+# Quantity        : 9Be(d,n)10B partial angular differential cross section
+# REACTION        : 4-BE-9(D,N)5-B-10,PAR,DA
+# File ID         : d-Be9-n-adxc-lvldis-mon-einc5.000E+05_angc63_prodB10_Vukolov_1995_a0610.005
+#
+# Einc (eV)       :   5.0000E+05
+# theta,cm (deg)  :   63.2000000
+#
+# npts            : 1           
+# xmin            :   2.1600E+06
+# xmax            :   2.1600E+06
+# ymin            :   5.7000E-04
+# ymax            :   5.7000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.1600E+06  0.0000E+00  5.7000E-04  8.0000E-05
+#---------------------------------------------------

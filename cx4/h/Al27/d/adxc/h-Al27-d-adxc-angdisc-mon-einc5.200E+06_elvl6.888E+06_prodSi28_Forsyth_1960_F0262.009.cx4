@@ -1,0 +1,25 @@
+# EXFOR #         : F0262.009  
+# EXFOR Ver.      : 20030626
+# TRANS #         : 0000
+# Author          : P.D.Forsyth et al.
+# Reference       : Proc.Phys.Soc.(UK) 75 (1960) 291
+# DOI             : 10.1088/0370-1328/75/2/316
+# Quantity        : 27Al(he3,d)28Si partial angular differential cross section
+# REACTION        : 13-AL-27(HE3,D)14-SI-28,PAR,DA
+# File ID         : h-Al27-d-adxc-angdisc-mon-einc5.200E+06_elvl6.888E+06_prodSi28_Forsyth_1960_f0262.009
+#
+# Einc (eV)       :   5.2000E+06
+# Elvl (eV)       :   6.8880E+06
+#
+# npts            : 1           
+# xmin            :   67.0000000
+# xmax            :   67.0000000
+# ymin            :   1.3000E-04
+# ymax            :   1.3000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  67.0000000   0.0000000  1.3000E-04  0.0000E+00
+#---------------------------------------------------

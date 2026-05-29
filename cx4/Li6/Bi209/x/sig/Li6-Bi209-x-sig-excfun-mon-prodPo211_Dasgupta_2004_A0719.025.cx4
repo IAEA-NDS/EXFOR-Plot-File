@@ -1,0 +1,24 @@
+# EXFOR #         : A0719.025  
+# EXFOR Ver.      : 20250728
+# TRANS #         : A122
+# Author          : M.Dasgupta et al.
+# Reference       : Phys.Rev.C 70 (2004) 024606
+# DOI             : 10.1103/PhysRevC.70.024606
+# Quantity        : 209Bi(6Li,x)211Po independent production cross section
+# REACTION        : 83-BI-209(3-LI-6,X)84-PO-211,,SIG
+# File ID         : Li6-Bi209-x-sig-excfun-mon-prodPo211_Dasgupta_2004_a0719.025
+#
+# npts            : 3           
+# xmin            :   3.9931E+07
+# xmax            :   4.7926E+07
+# ymin            :   1.8000E-03
+# ymax            :   4.7100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9931E+07  0.0000E+00  1.8000E-03  3.0000E-04
+  4.3934E+07  0.0000E+00  3.4900E-03  4.6000E-04
+  4.7926E+07  0.0000E+00  4.7100E-03  1.7000E-04
+#---------------------------------------------------

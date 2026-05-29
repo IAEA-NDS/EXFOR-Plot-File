@@ -1,0 +1,22 @@
+# EXFOR #         : E2451.002  
+# EXFOR Ver.      : 20140528
+# TRANS #         : E091
+# Author          : T.Nakamura et al.
+# Reference       : Phys.Rev.Lett. 112 (2014) 142501
+# DOI             : 10.1103/PhysRevLett.112.142501
+# Quantity        : natC(31Ne,x)30Ne independent production cross section
+# REACTION        : 6-C-0(10-NE-31,X)10-NE-30,,SIG
+# File ID         : Ne31-C-x-sig-excfun-mon-prodNe30_Nakamura_2014_e2451.002
+#
+# npts            : 1           
+# xmin            :   7.1300E+09
+# xmax            :   7.1300E+09
+# ymin            :   9.0000E-02
+# ymax            :   9.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.1300E+09  0.0000E+00  9.0000E-02  7.0000E-03
+#---------------------------------------------------

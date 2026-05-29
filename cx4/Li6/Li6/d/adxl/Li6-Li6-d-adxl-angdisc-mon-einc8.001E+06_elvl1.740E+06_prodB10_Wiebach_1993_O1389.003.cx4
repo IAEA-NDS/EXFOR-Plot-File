@@ -1,0 +1,27 @@
+# EXFOR #         : O1389.003  
+# EXFOR Ver.      : 20060505
+# TRANS #         : O026
+# Author          : S.Wiebach et al.
+# Reference       : Z.Phys.A 346 (1993) 173
+# DOI             : 10.1007/BF01306075
+# Quantity        : 6Li(6Li,d)10B partial angular differential cross section
+# REACTION        : 3-LI-6(3-LI-6,D)5-B-10,PAR,DA
+# File ID         : Li6-Li6-d-adxl-angdisc-mon-einc8.001E+06_elvl1.740E+06_prodB10_Wiebach_1993_o1389.003
+#
+# Einc (eV)       :   8.0014E+06
+# Elvl (eV)       :   1.7400E+06
+#
+# npts            : 3           
+# xmin            :   13.9000000
+# xmax            :   91.5000000
+# ymin            :   9.0000E-07
+# ymax            :   2.9000E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  13.9000000   0.0000000  2.9000E-06  9.0000E-07
+  48.0000000   0.0000000  1.9000E-06  9.0000E-07
+  91.5000000   0.0000000  9.0000E-07  9.0000E-07
+#---------------------------------------------------

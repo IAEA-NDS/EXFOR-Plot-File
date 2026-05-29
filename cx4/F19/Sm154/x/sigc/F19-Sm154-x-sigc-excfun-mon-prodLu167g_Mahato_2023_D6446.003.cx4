@@ -1,0 +1,22 @@
+# EXFOR #         : D6446.003  
+# EXFOR Ver.      : 20231115
+# TRANS #         : D141
+# Author          : A.Mahato et al.
+# Reference       : Phys.Rev.C 107 (2023) 014601
+# DOI             : 10.1103/PhysRevC.107.014601
+# Quantity        : 154Sm(19F,6n)167gLu cumulative production cross section
+# REACTION        : 62-SM-154(9-F-19,6N)71-LU-167-G,(M),SIG
+# File ID         : F19-Sm154-x-sigc-excfun-mon-prodLu167g_Mahato_2023_d6446.003
+#
+# npts            : 1           
+# xmin            :   1.0700E+08
+# xmax            :   1.0700E+08
+# ymin            :   5.4370E-01
+# ymax            :   5.4370E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0700E+08  0.0000E+00  5.4370E-01  7.6200E-02
+#---------------------------------------------------

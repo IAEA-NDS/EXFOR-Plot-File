@@ -1,0 +1,24 @@
+# EXFOR #         : D6291.004  
+# EXFOR Ver.      : 20180401
+# TRANS #         : D116
+# Author          : M.B.Chatterjee et al.
+# Reference       : Phys.Rev.C 42 (1990) 2737
+# DOI             : 10.1103/PhysRevC.42.2737
+# Quantity        : 116Cd(a,4n)116Sn cross section
+# REACTION        : 48-CD-116(A,4N)50-SN-116,,SIG
+# File ID         : a-Cd116-4n-sig-excfun-mon-prodSn116_Chatterjee_1990_d6291.004
+#
+# npts            : 3           
+# xmin            :   4.0000E+07
+# xmax            :   5.0000E+07
+# ymin            :   9.8200E-01
+# ymax            :   1.3600E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+07  0.0000E+00  9.8200E-01  1.1800E-01
+  4.5000E+07  0.0000E+00  1.1780E+00  1.3600E-01
+  5.0000E+07  0.0000E+00  1.3600E+00  1.6000E-01
+#---------------------------------------------------

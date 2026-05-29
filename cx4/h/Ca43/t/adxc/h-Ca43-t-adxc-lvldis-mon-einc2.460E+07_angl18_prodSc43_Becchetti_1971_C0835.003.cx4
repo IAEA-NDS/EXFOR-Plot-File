@@ -1,0 +1,26 @@
+# EXFOR #         : C0835.003  
+# EXFOR Ver.      : 20010831
+# TRANS #         : 0000
+# Author          : F.D.Becchetti et al.
+# Reference       : Nucl.Phys.A 168 (1971) 151
+# DOI             : 10.1016/0375-9474(71)90656-7
+# Quantity        : 43Ca(he3,t)43Sc partial angular differential cross section
+# REACTION        : 20-CA-43(HE3,T)21-SC-43,PAR,DA
+# File ID         : h-Ca43-t-adxc-lvldis-mon-einc2.460E+07_angl18_prodSc43_Becchetti_1971_c0835.003
+#
+# Einc (eV)       :   2.4600E+07
+# dEinc (eV)      :   5.0000E+03
+# theta,lab (deg) :   18.0000000
+#
+# npts            : 1           
+# xmin            :   4.2340E+06
+# xmax            :   4.2340E+06
+# ymin            :   3.5200E-04
+# ymax            :   3.5200E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.2340E+06  8.0000E+03  3.5200E-04  0.0000E+00
+#---------------------------------------------------

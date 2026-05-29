@@ -1,0 +1,25 @@
+# EXFOR #         : D6157.014  
+# EXFOR Ver.      : 20121022
+# TRANS #         : D086
+# Author          : M.Ismail et al.
+# Reference       : Pramana 52 No.6 (1999) 609
+# DOI             : 10.1007/BF02829867
+# Quantity        : 51V(16O,x)52gMn cumulative production cross section
+# REACTION        : 23-V-51(8-O-16,X)25-MN-52-G,CUM,SIG
+# File ID         : O16-V51-x-sigc-excfun-mon-prodMn52g_Ismail_1999_d6157.014
+#
+# npts            : 4           
+# xmin            :   6.0020E+07
+# xmax            :   9.2000E+07
+# ymin            :   0.0000E+00
+# ymax            :   4.4800E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.2000E+07  4.0000E+06  4.4800E-03  3.6000E-04
+  7.9810E+07  4.4000E+06  1.3800E-03  1.1000E-04
+  6.9010E+07  2.0000E+06  2.4000E-04  2.0000E-05
+  6.0020E+07  2.2000E+06  0.0000E+00  0.0000E+00
+#---------------------------------------------------

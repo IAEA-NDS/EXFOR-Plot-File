@@ -1,0 +1,29 @@
+# EXFOR #         : C1975.006  
+# EXFOR Ver.      : 20130122
+# TRANS #         : C127
+# Author          : D.K.Sharp et al.
+# Reference       : Phys.Rev.C 87 (2013) 014312
+# DOI             : 10.1103/PhysRevC.87.014312
+# Quantity        : 92Mo(d,p)93Mo partial angular differential cross section
+# REACTION        : 42-MO-92(D,P)42-MO-93,PAR,DA
+# File ID         : d-Mo92-p-adxl-angdisl-mon-einc1.500E+07_elvl2.311E+06_prodMo93_Sharp_2013_c1975.006
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   2.3110E+06
+# dElvl (eV)      :   1.0000E+03
+#
+# npts            : 4           
+# xmin            :    7.0000000
+# xmax            :   42.0000000
+# ymin            :   1.8400E-04
+# ymax            :   4.2900E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.0000000   0.0000000  1.8400E-04  1.5000E-05
+  18.0000000   0.0000000  1.9000E-04  1.1000E-05
+  34.0000000   0.0000000  3.8700E-04  6.0000E-06
+  42.0000000   0.0000000  4.2900E-04  6.0000E-06
+#---------------------------------------------------

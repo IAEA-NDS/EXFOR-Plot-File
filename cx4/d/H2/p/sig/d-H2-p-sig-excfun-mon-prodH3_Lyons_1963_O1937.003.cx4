@@ -1,0 +1,22 @@
+# EXFOR #         : O1937.003  
+# EXFOR Ver.      : 20120202
+# TRANS #         : O047
+# Author          : L.Lyons et al.
+# Reference       : Phys.Lett. 3 (1963) 359
+# DOI             : 10.1016/0031-9163(63)90190-2
+# Quantity        : 2H(d,p)3H cross section
+# REACTION        : 1-H-2(D,P)1-H-3,,SIG,,AV
+# File ID         : d-H2-p-sig-excfun-mon-prodH3_Lyons_1963_o1937.003
+#
+# npts            : 1           
+# xmin            :   3.5000E+07
+# xmax            :   3.5000E+07
+# ymin            :   4.0000E-02
+# ymax            :   4.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+07  1.5000E+07  4.0000E-02  1.0000E-02
+#---------------------------------------------------

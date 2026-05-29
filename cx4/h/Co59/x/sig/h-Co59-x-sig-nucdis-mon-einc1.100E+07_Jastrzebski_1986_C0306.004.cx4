@@ -1,0 +1,28 @@
+# EXFOR #         : C0306.004  
+# EXFOR Ver.      : 19980521
+# TRANS #         : 0000
+# Author          : J.Jastrzebski et al.
+# Reference       : Phys.Rev.C 34 (1986) 60
+# DOI             : 10.1103/PhysRevC.34.60
+# Quantity        : 59Co(he3,x) independent production cross section
+# REACTION        : 27-CO-59(HE3,X)ELEM/MASS,,SIG
+# File ID         : h-Co59-x-sig-nucdis-mon-einc1.100E+07_Jastrzebski_1986_c0306.004
+#
+# Einc (eV)       :   1.1000E+07
+#
+# npts            : 5           
+# xmin            : 27056.9     
+# xmax            : 29061.9     
+# ymin            :   4.0000E-04
+# ymax            :   1.5000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     27056.9  4.0000E-04  1.0000E-04
+     27057.9  1.5000E-02  2.0000E-03
+     27058.9  1.2000E-02  2.0000E-03
+     27060.9  7.8000E-03  7.0000E-04
+     29061.9  3.3000E-03  4.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : F0797.006  
+# EXFOR Ver.      : 20070125
+# TRANS #         : F026
+# Author          : W.Bohne et al.
+# Reference       : Nucl.Phys.A 284 (1977) 14
+# DOI             : 10.1016/0375-9474(77)90682-0
+# Quantity        : 42Ca(he3,n)44Ti partial angular differential cross section
+# REACTION        : 20-CA-42(HE3,N)22-TI-44,PAR,DA
+# File ID         : h-Ca42-n-adxc-angdisc-mon-einc1.300E+07_elvl1.046E+07_prodTi44_Bohne_1977_f0797.006
+#
+# Einc (eV)       :   1.3000E+07
+# Elvl (eV)       :   1.0460E+07
+#
+# npts            : 4           
+# xmin            :    0.6179600
+# xmax            :   16.4080000
+# ymin            :   8.9085E-05
+# ymax            :   2.6418E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.6179600   0.0000000  2.6418E-04  0.0000E+00
+   5.4936000   0.0000000  2.2573E-04  0.0000E+00
+  10.9500000   0.0000000  1.7079E-04  0.0000E+00
+  16.4080000   0.0000000  8.9085E-05  0.0000E+00
+#---------------------------------------------------

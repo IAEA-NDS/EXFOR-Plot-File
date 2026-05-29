@@ -1,0 +1,27 @@
+# EXFOR #         : C0373.004  
+# EXFOR Ver.      : 19881011
+# TRANS #         : 0000
+# Author          : H.G.Hicks et al.
+# Reference       : Phys.Rev. 100 (1955) 1286
+# DOI             : 10.1103/PhysRev.100.1286
+# Quantity        : natU(a,x) independent production cross section
+# REACTION        : 92-U-0(A,X)ELEM/MASS,,SIG
+# File ID         : a-U-x-sig-nucdis-mon-einc1.500E+08_Hicks_1955_c0373.004
+#
+# Einc (eV)       :   1.5000E+08
+#
+# npts            : 4           
+# xmin            : 41096.9     
+# xmax            : 55136.0     
+# ymin            :   7.0000E-03
+# ymax            :   2.1000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     41096.9  7.0000E-03  0.0000E+00
+     41096.9  1.0000E-02  0.0000E+00
+     55136.0  1.7000E-02  0.0000E+00
+     55136.0  2.1000E-02  0.0000E+00
+#---------------------------------------------------

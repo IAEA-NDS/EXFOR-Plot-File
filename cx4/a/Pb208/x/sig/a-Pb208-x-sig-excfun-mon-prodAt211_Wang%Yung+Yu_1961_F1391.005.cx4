@@ -1,0 +1,25 @@
+# EXFOR #         : F1391.005  
+# EXFOR Ver.      : 20240216
+# TRANS #         : F097
+# Author          : Wang Yung-Yu et al.
+# Reference       : J.Exp.Theor.Phys. 12 (1961) 370
+# DOI             : N/A
+# Quantity        : 208Pb(a,x)211At independent production cross section
+# REACTION        : 82-PB-208(A,X)85-AT-211,,SIG
+# File ID         : a-Pb208-x-sig-excfun-mon-prodAt211_Wang%Yung+Yu_1961_f1391.005
+#
+# npts            : 4           
+# xmin            :   2.1666E+08
+# xmax            :   8.2137E+08
+# ymin            :   2.9914E-07
+# ymax            :   3.7816E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1666E+08  0.0000E+00  3.2051E-07  0.0000E+00
+  4.0811E+08  0.0000E+00  2.9914E-07  2.9920E-08
+  5.9504E+08  0.0000E+00  3.7816E-07  5.8880E-08
+  8.2137E+08  0.0000E+00  3.7028E-07  5.2120E-08
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : C2461.003  
+# EXFOR Ver.      : 20200324
+# TRANS #         : C198
+# Author          : K.Setoodehnia et al.
+# Reference       : Phys.Rev.C 99 (2019) 055812
+# DOI             : 10.1103/PhysRevC.99.055812
+# Quantity        : 32S(a,p)35Cl partial angular differential cross section
+# REACTION        : 16-S-32(A,P)17-CL-35,PAR,DA
+# File ID         : a-S32-p-adxc-angdisc-mon-einc2.100E+07_elvl6.842E+06_prodCl35_Setoodehnia_2019_c2461.003
+#
+# Einc (eV)       :   2.1000E+07
+# Elvl (eV)       :   6.8420E+06
+#
+# npts            : 4           
+# xmin            :   11.0000000
+# xmax            :   32.0000000
+# ymin            :   1.9400E-05
+# ymax            :   9.9500E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  11.0000000   0.0000000  9.9500E-05  1.3100E-05
+  16.0000000   0.0000000  7.1000E-05  4.8000E-06
+  21.0000000   0.0000000  5.9200E-05  4.9000E-06
+  32.0000000   0.0000000  1.9400E-05  3.7000E-06
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : O0744.020  
+# EXFOR Ver.      : 20140205
+# TRANS #         : O052
+# Author          : J.Jaros et al.
+# Reference       : Phys.Rev.C 18 (1978) 2273
+# DOI             : 10.1103/PhysRevC.18.2273
+# Quantity        : 1H(12C,non) cross section
+# REACTION        : 1-H-1(6-C-12,NON),,SIG
+# File ID         : C12-H1-non-sig-excfun-mon-Jaros_1978_o0744.020
+#
+# npts            : 2           
+# xmin            :   1.0440E+10
+# xmax            :   2.5200E+10
+# ymin            :   2.6200E-01
+# ymax            :   2.6900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0440E+10  0.0000E+00  2.6200E-01  1.3500E-02
+  2.5200E+10  0.0000E+00  2.6900E-01  1.4000E-02
+#---------------------------------------------------

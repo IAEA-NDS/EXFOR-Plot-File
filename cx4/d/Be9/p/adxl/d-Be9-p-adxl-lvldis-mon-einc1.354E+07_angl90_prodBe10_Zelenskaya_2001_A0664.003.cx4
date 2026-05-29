@@ -1,0 +1,26 @@
+# EXFOR #         : A0664.003  
+# EXFOR Ver.      : 20040310
+# TRANS #         : 0000
+# Author          : N.S.Zelenskaya et al.
+# Reference       : Yad.Fiz. 64 (2001) 1995
+# DOI             : N/A
+# Quantity        : 9Be(d,p)10Be partial angular differential cross section
+# REACTION        : 4-BE-9(D,P)4-BE-10,PAR,DA
+# File ID         : d-Be9-p-adxl-lvldis-mon-einc1.354E+07_angl90_prodBe10_Zelenskaya_2001_a0664.003
+#
+# Einc (eV)       :   1.3540E+07
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   3.3700E+06
+# ymin            :   2.3126E-04
+# ymax            :   3.1992E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  2.3126E-04  1.1780E-05
+  3.3700E+06  0.0000E+00  3.1992E-04  2.0460E-05
+#---------------------------------------------------

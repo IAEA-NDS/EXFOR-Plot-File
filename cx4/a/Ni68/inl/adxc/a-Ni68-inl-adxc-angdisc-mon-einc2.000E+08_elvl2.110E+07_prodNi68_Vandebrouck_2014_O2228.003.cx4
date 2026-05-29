@@ -1,0 +1,30 @@
+# EXFOR #         : O2228.003  
+# EXFOR Ver.      : 20140731
+# TRANS #         : O053
+# Author          : M.Vandebrouck et al.
+# Reference       : Phys.Rev.Lett. 113 (2014) 032504
+# DOI             : 10.1103/PhysRevLett.113.032504
+# Quantity        : 68Ni(a,inl)68Ni partial angular differential cross section
+# REACTION        : 28-NI-68(A,INL)28-NI-68,PAR,DA
+# File ID         : a-Ni68-inl-adxc-angdisc-mon-einc2.000E+08_elvl2.110E+07_prodNi68_Vandebrouck_2014_o2228.003
+#
+# Einc (eV)       :   2.0000E+08
+# Elvl (eV)       :   2.1100E+07
+#
+# npts            : 6           
+# xmin            :    1.5500000
+# xmax            :    6.5300000
+# ymin            :   9.3600E-05
+# ymax            :   7.3300E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   1.5500000   0.0000000  7.3300E-02  5.0670E-02
+   2.5400000   0.0000000  1.2200E-02  1.1610E-02
+   3.5100000   0.0000000  9.3600E-05  3.6000E-03
+   4.5400000   0.0000000  1.0920E-02  8.2740E-03
+   5.5300000   0.0000000  9.1490E-03  7.2050E-03
+   6.5300000   0.0000000  2.2190E-03  2.2090E-03
+#---------------------------------------------------

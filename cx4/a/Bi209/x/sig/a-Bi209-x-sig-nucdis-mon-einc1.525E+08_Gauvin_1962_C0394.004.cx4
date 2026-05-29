@@ -1,0 +1,28 @@
+# EXFOR #         : C0394.004  
+# EXFOR Ver.      : 20220530
+# TRANS #         : C213
+# Author          : H.Gauvin et al.
+# Reference       : Nucl.Phys. 39 (1962) 447
+# DOI             : 10.1016/0029-5582(62)90403-0
+# Quantity        : 209Bi(a,x) independent production cross section
+# REACTION        : 83-BI-209(A,X)ELEM/MASS,,SIG
+# File ID         : a-Bi209-x-sig-nucdis-mon-einc1.525E+08_Gauvin_1962_c0394.004
+#
+# Einc (eV)       :   1.5250E+08
+# dEinc (eV)      :   2.5000E+06
+#
+# npts            : 4           
+# xmin            : 85208.9     
+# xmax            : 85211.9     
+# ymin            :   4.0000E-06
+# ymax            :   8.5000E-06
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     85211.9  8.5000E-06  7.0000E-07
+     85210.9  8.5000E-06  1.2000E-06
+     85209.9  7.0000E-06  1.0000E-06
+     85208.9  4.0000E-06  5.0000E-07
+#---------------------------------------------------

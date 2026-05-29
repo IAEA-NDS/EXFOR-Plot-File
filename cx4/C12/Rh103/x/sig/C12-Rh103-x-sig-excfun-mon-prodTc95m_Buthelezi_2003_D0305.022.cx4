@@ -1,0 +1,22 @@
+# EXFOR #         : D0305.022  
+# EXFOR Ver.      : 20220119
+# TRANS #         : D136
+# Author          : E.Z.Buthelezi et al.
+# Reference       : J.Rad.Nucl.Chem. 258 (2003) 649
+# DOI             : 10.1023/B:JRNC.0000011764.30879.fb
+# Quantity        : 103Rh(12C,x)95mTc independent production cross section
+# REACTION        : 45-RH-103(6-C-12,X)43-TC-95-M,,SIG
+# File ID         : C12-Rh103-x-sig-excfun-mon-prodTc95m_Buthelezi_2003_d0305.022
+#
+# npts            : 1           
+# xmin            :   3.9450E+08
+# xmax            :   3.9450E+08
+# ymin            :   1.0360E-02
+# ymax            :   1.0360E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9450E+08  1.0000E+06  1.0360E-02  1.5500E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : D0305.038  
+# EXFOR Ver.      : 20050315
+# TRANS #         : D041
+# Author          : E.Z.Buthelezi et al.
+# Reference       : J.Rad.Nucl.Chem. 258 (2003) 649
+# DOI             : 10.1023/B:JRNC.0000011764.30879.fb
+# Quantity        : 103Rh(16O,x)103Pd cumulative production cross section
+# REACTION        : 45-RH-103(8-O-16,X)46-PD-103,CUM,SIG
+# File ID         : O16-Rh103-x-sigc-excfun-mon-prodPd103_Buthelezi_2003_d0305.038
+#
+# npts            : 1           
+# xmin            :   3.9360E+08
+# xmax            :   3.9360E+08
+# ymin            :   1.1610E-01
+# ymax            :   1.1610E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9360E+08  1.0000E+06  1.1610E-01  2.3200E-02
+#---------------------------------------------------

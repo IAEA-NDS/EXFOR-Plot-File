@@ -1,0 +1,24 @@
+# EXFOR #         : E2728.005  
+# EXFOR Ver.      : 20230122
+# TRANS #         : E136
+# Author          : D.Gantumur et al.
+# Reference       : Appl.Radiat.Isot. 184 (2022) 110204
+# DOI             : 10.1016/j.apradiso.2022.110204
+# Quantity        : natV(a,x)48V cumulative production cross section
+# REACTION        : 23-V-0(A,X)23-V-48,CUM,SIG
+# File ID         : a-V-x-sigc-excfun-mon-prodV48_Gantumur_2022_e2728.005
+#
+# npts            : 3           
+# xmin            :   4.3800E+07
+# xmax            :   4.9600E+07
+# ymin            :   5.0700E-04
+# ymax            :   9.6900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9600E+07  2.0000E+05  9.6900E-03  7.0000E-04
+  4.6800E+07  2.0000E+05  2.1400E-03  2.0000E-04
+  4.3800E+07  2.0000E+05  5.0700E-04  1.0800E-04
+#---------------------------------------------------

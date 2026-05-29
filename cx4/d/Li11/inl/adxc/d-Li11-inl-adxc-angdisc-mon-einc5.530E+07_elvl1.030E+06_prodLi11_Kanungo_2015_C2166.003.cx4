@@ -1,0 +1,27 @@
+# EXFOR #         : C2166.003  
+# EXFOR Ver.      : 20150922
+# TRANS #         : C154
+# Author          : R.Kanungo et al.
+# Reference       : Phys.Rev.Lett. 114 (2015) 192502
+# DOI             : 10.1103/PhysRevLett.114.192502
+# Quantity        : 11Li(d,inl)11Li partial angular differential cross section
+# REACTION        : 3-LI-11(D,INL)3-LI-11,PAR,DA
+# File ID         : d-Li11-inl-adxc-angdisc-mon-einc5.530E+07_elvl1.030E+06_prodLi11_Kanungo_2015_c2166.003
+#
+# Einc (eV)       :   5.5300E+07
+# Elvl (eV)       :   1.0300E+06
+#
+# npts            : 3           
+# xmin            :   75.0200000
+# xmax            :  106.9700000
+# ymin            :   2.8000E-04
+# ymax            :   8.5000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  75.0200000   0.0000000  8.5000E-04  1.0000E-04
+  91.0200000   0.0000000  4.0000E-04  9.0000E-05
+ 106.9700000   0.0000000  2.8000E-04  7.0000E-05
+#---------------------------------------------------

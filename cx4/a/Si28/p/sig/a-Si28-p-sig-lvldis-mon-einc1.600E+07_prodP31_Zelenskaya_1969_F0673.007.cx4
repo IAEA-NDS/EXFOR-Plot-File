@@ -1,0 +1,26 @@
+# EXFOR #         : F0673.007  
+# EXFOR Ver.      : 20130409
+# TRANS #         : F051
+# Author          : N.S.Zelenskaya et al.
+# Reference       : Yad.Fiz. 9 (1969) 691
+# DOI             : N/A
+# Quantity        : 28Si(a,p)31P partial cross section
+# REACTION        : 14-SI-28(A,P)15-P-31,PAR,SIG
+# File ID         : a-Si28-p-sig-lvldis-mon-einc1.600E+07_prodP31_Zelenskaya_1969_f0673.007
+#
+# Einc (eV)       :   1.6000E+07
+#
+# npts            : 3           
+# xmin            :   0.0000E+00
+# xmax            :   2.2320E+06
+# ymin            :   3.7600E-03
+# ymax            :   6.8900E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  3.7600E-03  7.5200E-04
+  1.2650E+06  0.0000E+00  6.7100E-03  1.3420E-03
+  2.2320E+06  0.0000E+00  6.8900E-03  1.3780E-03
+#---------------------------------------------------

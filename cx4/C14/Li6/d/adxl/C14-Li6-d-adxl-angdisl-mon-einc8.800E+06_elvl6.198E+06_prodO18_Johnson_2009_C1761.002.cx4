@@ -1,0 +1,29 @@
+# EXFOR #         : C1761.002  
+# EXFOR Ver.      : 20091217
+# TRANS #         : C096
+# Author          : E.D.Johnson et al.
+# Reference       : Phys.Rev.C 80 (2009) 045805
+# DOI             : 10.1103/PhysRevC.80.045805
+# Quantity        : 6Li(14C,d)18O partial angular differential cross section
+# REACTION        : 3-LI-6(6-C-14,D)8-O-18,PAR,DA
+# File ID         : C14-Li6-d-adxl-angdisl-mon-einc8.800E+06_elvl6.198E+06_prodO18_Johnson_2009_c1761.002
+#
+# Einc (eV)       :   8.8000E+06
+# Elvl (eV)       :   6.1980E+06
+#
+# npts            : 5           
+# xmin            :  118.4000000
+# xmax            :  165.9500000
+# ymin            :   6.6250E-05
+# ymax            :   9.5120E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 165.9500000   0.0000000  6.6250E-05  1.2180E-05
+ 152.8000000   0.0000000  8.9200E-05  1.0600E-05
+ 138.9000000   0.0000000  9.5120E-05  1.4200E-05
+ 130.3000000   0.0000000  8.5500E-05  1.1600E-05
+ 118.4000000   0.0000000  7.5000E-05  1.4000E-05
+#---------------------------------------------------

@@ -1,0 +1,31 @@
+# EXFOR #         : D5176.002  
+# EXFOR Ver.      : 20230619
+# TRANS #         : D139
+# Author          : O.F.Nemets et al.
+# Reference       : JETP Lett. 32 (1980) 427
+# DOI             : N/A
+# Quantity        : 3He(a,p)6Li partial angular differential cross section
+# REACTION        : 2-HE-3(A,P)3-LI-6,PAR,DA
+# File ID         : a-He3-p-adxl-excfun-mon-angl40_elvl0.000E+00_prodLi6_Nemets_1980_d5176.002
+#
+# theta,lab (deg) :   40.0000000
+# dtheta,lab (deg):    1.1000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 6           
+# xmin            :   2.2180E+07
+# xmax            :   2.6426E+07
+# ymin            :   5.8733E-03
+# ymax            :   7.9088E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.2180E+07  1.5000E+05  7.9088E-03  4.6929E-04
+  2.3786E+07  1.5000E+05  5.8733E-03  3.4674E-04
+  2.4327E+07  1.5000E+05  5.9259E-03  3.8986E-04
+  2.4867E+07  1.5000E+05  6.4259E-03  3.1567E-04
+  2.5378E+07  1.5000E+05  6.2218E-03  3.0597E-04
+  2.6426E+07  1.5000E+05  6.7920E-03  3.8116E-04
+#---------------------------------------------------

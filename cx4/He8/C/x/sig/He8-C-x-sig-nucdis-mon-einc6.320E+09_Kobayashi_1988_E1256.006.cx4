@@ -1,0 +1,26 @@
+# EXFOR #         : E1256.006  
+# EXFOR Ver.      : 20070712
+# TRANS #         : E045
+# Author          : T.Kobayashi et al.
+# Reference       : Phys.Rev.Lett. 60 No.25 (1988) 2599
+# DOI             : 10.1103/PhysRevLett.60.2599
+# Quantity        : natC(8He,x) independent production cross section
+# REACTION        : 6-C-0(2-HE-8,X)ELEM/MASS,,SIG
+# File ID         : He8-C-x-sig-nucdis-mon-einc6.320E+09_Kobayashi_1988_e1256.006
+#
+# Einc (eV)       :   6.3200E+09
+# dEinc (eV)      :   1.6000E+08
+#
+# npts            : 2           
+# xmin            : 2004.9      
+# xmax            : 2006.9      
+# ymin            :   9.5000E-02
+# ymax            :   2.0200E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      2006.9  2.0200E-01  1.7000E-02
+      2004.9  9.5000E-02  9.0000E-03
+#---------------------------------------------------

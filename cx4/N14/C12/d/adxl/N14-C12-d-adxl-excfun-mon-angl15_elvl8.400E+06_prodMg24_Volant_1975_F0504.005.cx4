@@ -1,0 +1,29 @@
+# EXFOR #         : F0504.005  
+# EXFOR Ver.      : 20030508
+# TRANS #         : 0000
+# Author          : C.Volant et al.
+# Reference       : Nucl.Phys.A 238 (1975) 120
+# DOI             : 10.1016/0375-9474(75)90343-7
+# Quantity        : 12C(14N,d)24Mg partial angular differential cross section
+# REACTION        : 6-C-12(7-N-14,D)12-MG-24,PAR,DA
+# File ID         : N14-C12-d-adxl-excfun-mon-angl15_elvl8.400E+06_prodMg24_Volant_1975_f0504.005
+#
+# theta,lab (deg) :   15.0000000
+# Elvl (eV)       :   8.4000E+06
+# dElvl (eV)      :   4.0000E+04
+#
+# npts            : 4           
+# xmin            :   2.0510E+07
+# xmax            :   4.0340E+07
+# ymin            :   3.5720E-05
+# ymax            :   1.5200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.0510E+07  2.0000E+05  3.5720E-05  1.4288E-05
+  2.5220E+07  2.0000E+05  1.5200E-04  6.0800E-05
+  3.5240E+07  2.0000E+05  9.1990E-05  3.6796E-05
+  4.0340E+07  2.0000E+05  4.1680E-05  1.6672E-05
+#---------------------------------------------------

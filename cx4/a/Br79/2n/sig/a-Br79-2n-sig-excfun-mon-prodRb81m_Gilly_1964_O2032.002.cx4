@@ -1,0 +1,22 @@
+# EXFOR #         : O2032.002  
+# EXFOR Ver.      : 20220119
+# TRANS #         : O087
+# Author          : L.J.Gilly et al.
+# Reference       : Nucl.Phys. 55 (1964) 375
+# DOI             : 10.1016/0029-5582(64)90160-9
+# Quantity        : 79Br(a,2n)81mRb cross section
+# REACTION        : 35-BR-79(A,2N)37-RB-81-M,,SIG
+# File ID         : a-Br79-2n-sig-excfun-mon-prodRb81m_Gilly_1964_o2032.002
+#
+# npts            : 1           
+# xmin            :   2.4000E+07
+# xmax            :   2.4000E+07
+# ymin            :   2.8800E-01
+# ymax            :   2.8800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+07  0.0000E+00  2.8800E-01  2.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : D8031.037  
+# EXFOR Ver.      : 20210228
+# TRANS #         : D130
+# Author          : J.Diaz-Cortes et al.
+# Reference       : Phys.Lett.B 811 (2020) 135962
+# DOI             : 10.1016/j.physletb.2020.135962
+# Quantity        : 9Be(133Sn,x)132In independent production cross section
+# REACTION        : 4-BE-9(50-SN-133,X)49-IN-132,,SIG
+# File ID         : Sn133-Be9-x-sig-excfun-mon-prodIn132_Diaz+Cortes_2020_d8031.037
+#
+# npts            : 1           
+# xmin            :   1.3300E+11
+# xmax            :   1.3300E+11
+# ymin            :   7.3000E-03
+# ymax            :   7.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3300E+11  0.0000E+00  7.3000E-03  1.4000E-03
+#---------------------------------------------------

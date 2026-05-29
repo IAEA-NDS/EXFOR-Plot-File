@@ -1,0 +1,25 @@
+# EXFOR #         : C2875.003  
+# EXFOR Ver.      : 20221213
+# TRANS #         : C230
+# Author          : R.J.deBoer et al.
+# Reference       : Phys.Rev.C 106 (2022) 055808
+# DOI             : 10.1103/PhysRevC.106.055808
+# Quantity        : 13C(a,n)16O partial angular differential cross section
+# REACTION        : 6-C-13(A,N)8-O-16,PAR,DA
+# File ID         : a-C13-n-adxc-angdisc-mon-einc5.466E+06_elvl6.050E+06_prodO16_deBoer_2022_c2875.003
+#
+# Einc (eV)       :   5.4663E+06
+# Elvl (eV)       :   6.0500E+06
+#
+# npts            : 1           
+# xmin            :   30.0000000
+# xmax            :   30.0000000
+# ymin            :   2.6900E-02
+# ymax            :   2.6900E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  2.6900E-02  5.5000E-03
+#---------------------------------------------------

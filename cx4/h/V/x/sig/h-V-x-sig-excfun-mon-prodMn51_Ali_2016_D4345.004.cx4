@@ -1,0 +1,25 @@
+# EXFOR #         : D4345.004  
+# EXFOR Ver.      : 20160513
+# TRANS #         : D104
+# Author          : B.M.Ali et al.
+# Reference       : Nucl.Instrum.Meth.B 373 (2016) 76
+# DOI             : 10.1016/j.nimb.2016.03.011
+# Quantity        : natV(he3,x)51Mn independent production cross section
+# REACTION        : 23-V-0(HE3,X)25-MN-51,,SIG
+# File ID         : h-V-x-sig-excfun-mon-prodMn51_Ali_2016_d4345.004
+#
+# npts            : 4           
+# xmin            :   2.3900E+07
+# xmax            :   2.6700E+07
+# ymin            :   2.5000E-02
+# ymax            :   1.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6700E+07  3.0000E+05  1.0000E-01  3.8000E-02
+  2.5300E+07  4.0000E+05  5.9000E-02  1.9000E-02
+  2.4600E+07  4.0000E+05  2.5000E-02  1.7000E-02
+  2.3900E+07  4.0000E+05  3.1000E-02  2.0000E-02
+#---------------------------------------------------

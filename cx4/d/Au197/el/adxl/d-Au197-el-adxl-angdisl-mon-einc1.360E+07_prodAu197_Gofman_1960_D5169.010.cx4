@@ -1,0 +1,25 @@
+# EXFOR #         : D5169.010  
+# EXFOR Ver.      : 20190122
+# TRANS #         : D119
+# Author          : Yu.V.Gofman et al.
+# Reference       : Zh.Eksp.Teor.Fiz. 39 (1960) 1489
+# DOI             : N/A
+# Quantity        : 197Au(d,el)197Au angular differential cross section
+# REACTION        : 79-AU-197(D,EL)79-AU-197,,DA
+# File ID         : d-Au197-el-adxl-angdisl-mon-einc1.360E+07_prodAu197_Gofman_1960_d5169.010
+#
+# Einc (eV)       :   1.3600E+07
+#
+# npts            : 2           
+# xmin            :   44.2171000
+# xmax            :   49.6479000
+# ymin            :   2.9417E-01
+# ymax            :   3.0132E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  44.2171000   0.0000000  2.9417E-01  3.2278E-02
+  49.6479000   0.0000000  3.0132E-01  2.3965E-02
+#---------------------------------------------------

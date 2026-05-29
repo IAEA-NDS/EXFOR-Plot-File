@@ -1,0 +1,22 @@
+# EXFOR #         : D0378.011  
+# EXFOR Ver.      : 20110816
+# TRANS #         : D079
+# Author          : A.Shrivastava et al.
+# Reference       : Phys.Lett.B 633 (2006) 463
+# DOI             : 10.1016/j.physletb.2005.12.060
+# Quantity        : 65Cu(6Li,a+x) cross section
+# REACTION        : 29-CU-65(3-LI-6,X)2-HE-4,,SIG
+# File ID         : Li6-Cu65-xa-sig-excfun-mon-Shrivastava_2006_d0378.011
+#
+# npts            : 1           
+# xmin            :   2.5000E+07
+# xmax            :   2.5000E+07
+# ymin            :   6.1200E-01
+# ymax            :   6.1200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+07  0.0000E+00  6.1200E-01  4.0000E-02
+#---------------------------------------------------

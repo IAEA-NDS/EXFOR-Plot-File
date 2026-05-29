@@ -1,0 +1,25 @@
+# EXFOR #         : M0844.006  
+# EXFOR Ver.      : 20120423
+# TRANS #         : M063
+# Author          : P.Axel et al.
+# Reference       : J.Phys.(Paris) 27 (1966) 262
+# DOI             : 10.1051/jphys:01966002705-6026200
+# Quantity        : 165Ho(g,el)165Ho angular differential cross section
+# REACTION        : 67-HO-165(G,EL)67-HO-165,,DA
+# File ID         : g-Ho165-el-adxl-angdisl-mon-einc1.244E+07_prodHo165_Axel_1966_m0844.006
+#
+# Einc (eV)       :   1.2440E+07
+#
+# npts            : 2           
+# xmin            :   90.0000000
+# xmax            :  135.0000000
+# ymin            :   2.2900E-04
+# ymax            :   3.1900E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  2.2900E-04  1.9000E-05
+ 135.0000000   0.0000000  3.1900E-04  2.8000E-05
+#---------------------------------------------------

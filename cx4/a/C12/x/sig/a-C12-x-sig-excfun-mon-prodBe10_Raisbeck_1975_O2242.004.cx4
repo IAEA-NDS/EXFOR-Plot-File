@@ -1,0 +1,22 @@
+# EXFOR #         : O2242.004  
+# EXFOR Ver.      : 20150121
+# TRANS #         : O054
+# Author          : G.M.Raisbeck et al.
+# Reference       : Phys.Rev.Lett. 35 (1975) 155
+# DOI             : 10.1103/PhysRevLett.35.155
+# Quantity        : 12C(a,x)10Be independent production cross section
+# REACTION        : 6-C-12(A,X)4-BE-10,,SIG
+# File ID         : a-C12-x-sig-excfun-mon-prodBe10_Raisbeck_1975_o2242.004
+#
+# npts            : 1           
+# xmin            :   2.8000E+09
+# xmax            :   2.8000E+09
+# ymin            :   5.3800E-03
+# ymax            :   5.3800E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8000E+09  0.0000E+00  5.3800E-03  9.3000E-04
+#---------------------------------------------------

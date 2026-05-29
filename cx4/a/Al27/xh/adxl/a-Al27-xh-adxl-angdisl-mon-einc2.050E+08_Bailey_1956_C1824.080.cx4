@@ -1,0 +1,25 @@
+# EXFOR #         : C1824.080  
+# EXFOR Ver.      : 20110118
+# TRANS #         : C105
+# Author          : L.E.Bailey
+# Reference       : Report UCRL-3334, 1956
+# DOI             : N/A
+# Quantity        : 27Al(a,h+x) angular differential cross section
+# REACTION        : 13-AL-27(A,X)2-HE-3,,DA
+# File ID         : a-Al27-xh-adxl-angdisl-mon-einc2.050E+08_Bailey_1956_c1824.080
+#
+# Einc (eV)       :   2.0500E+08
+#
+# npts            : 2           
+# xmin            :   32.5000000
+# xmax            :  140.0000000
+# ymin            :   1.6000E-03
+# ymax            :   1.0600E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  32.5000000  32.5000000  1.0600E-02  0.0000E+00
+ 140.0000000  40.0000000  1.6000E-03  0.0000E+00
+#---------------------------------------------------

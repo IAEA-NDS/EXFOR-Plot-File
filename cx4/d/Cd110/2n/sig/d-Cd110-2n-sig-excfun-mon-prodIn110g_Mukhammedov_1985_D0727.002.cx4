@@ -1,0 +1,25 @@
+# EXFOR #         : D0727.002  
+# EXFOR Ver.      : 20131209
+# TRANS #         : D092
+# Author          : S.Mukhammedov et al.
+# Reference       : Izv.AN.Uz.,Fiz.Mat.  No.5 (1985) 81
+# DOI             : N/A
+# Quantity        : 110Cd(d,2n)110gIn cross section
+# REACTION        : 48-CD-110(D,2N)49-IN-110-G,,SIG
+# File ID         : d-Cd110-2n-sig-excfun-mon-prodIn110g_Mukhammedov_1985_d0727.002
+#
+# npts            : 4           
+# xmin            :   7.7100E+06
+# xmax            :   1.1860E+07
+# ymin            :   1.2388E-01
+# ymax            :   1.2558E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.7100E+06  0.0000E+00  1.2388E-01  0.0000E+00
+  9.0500E+06  0.0000E+00  3.2716E-01  0.0000E+00
+  1.0670E+07  0.0000E+00  7.2602E-01  0.0000E+00
+  1.1860E+07  0.0000E+00  1.2558E+00  0.0000E+00
+#---------------------------------------------------

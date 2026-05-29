@@ -1,0 +1,28 @@
+# EXFOR #         : F1265.002  
+# EXFOR Ver.      : 20150722
+# TRANS #         : F060
+# Author          : A.U.Abdurakhimov et al.
+# Reference       : Report JINR-E1-12730, 1979
+# DOI             : N/A
+# Quantity        : natLi(a,x) independent production cross section
+# REACTION        : 3-LI-0(A,X)ELEM/MASS,,SIG
+# File ID         : a-Li-x-sig-nucdis-mon-einc1.465E+10_Abdurakhimov_1979_f1265.002
+#
+# Einc (eV)       :   1.4650E+10
+#
+# npts            : 5           
+# xmin            : 1001.9      
+# xmax            : 2003.9      
+# ymin            :   4.3720E-02
+# ymax            :   2.1430E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      1001.9  2.1430E-01  1.4450E-02
+      1001.9  1.0160E-01  6.8610E-03
+      1002.9  7.5380E-02  1.0910E-02
+      1003.9  4.3720E-02  4.2510E-03
+      2003.9  4.8510E-02  4.9520E-03
+#---------------------------------------------------

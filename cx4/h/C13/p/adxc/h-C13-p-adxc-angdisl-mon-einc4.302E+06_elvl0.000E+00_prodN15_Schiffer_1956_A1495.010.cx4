@@ -1,0 +1,25 @@
+# EXFOR #         : A1495.010  
+# EXFOR Ver.      : 20140226
+# TRANS #         : A080
+# Author          : J.P.Schiffer et al.
+# Reference       : Phys.Rev. 104 (1956) 1064
+# DOI             : 10.1103/PhysRev.104.1064
+# Quantity        : 13C(he3,p)15N partial angular differential cross section
+# REACTION        : 6-C-13(HE3,P)7-N-15,PAR,DA
+# File ID         : h-C13-p-adxc-angdisl-mon-einc4.302E+06_elvl0.000E+00_prodN15_Schiffer_1956_a1495.010
+#
+# Einc (eV)       :   4.3020E+06
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   3.5020E-03
+# ymax            :   3.5020E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  3.5020E-03  7.0040E-04
+#---------------------------------------------------

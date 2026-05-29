@@ -1,0 +1,29 @@
+# EXFOR #         : D0903.002  
+# EXFOR Ver.      : 20180522
+# TRANS #         : D117
+# Author          : P.Adsley et al.
+# Reference       : Phys.Rev.C 96 (2017) 055802
+# DOI             : 10.1103/PhysRevC.96.055802
+# Quantity        : 26Mg(a,inl)26Mg partial angular differential cross section
+# REACTION        : 12-MG-26(A,INL)12-MG-26,PAR,DA
+# File ID         : a-Mg26-inl-adxl-angdisl-mon-einc2.000E+08_elvl1.129E+07_prodMg26_Adsley_2017_d0903.002
+#
+# Einc (eV)       :   2.0000E+08
+# Elvl (eV)       :   1.1290E+07
+#
+# npts            : 5           
+# xmin            :    1.0000000
+# xmax            :    5.5000000
+# ymin            :   4.8499E-05
+# ymax            :   1.5681E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   1.0000000   1.0000000  1.3995E-04  3.4151E-05
+   2.5000000   0.5000000  4.8499E-05  1.6970E-05
+   3.5000000   0.5000000  6.4884E-05  1.3852E-05
+   4.5000000   0.5000000  1.0270E-04  1.5009E-05
+   5.5000000   0.5000000  1.5681E-04  1.8578E-05
+#---------------------------------------------------

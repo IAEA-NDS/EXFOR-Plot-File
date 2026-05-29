@@ -1,0 +1,26 @@
+# EXFOR #         : D4379.013  
+# EXFOR Ver.      : 20171121
+# TRANS #         : D113
+# Author          : F.Tarkanyi et al.
+# Reference       : Nucl.Instrum.Meth.B 414 (2018) 18
+# DOI             : 10.1016/j.nimb.2017.09.022
+# Quantity        : natBa(d,x)129Cs cumulative production cross section
+# REACTION        : 56-BA-0(D,X)55-CS-129,CUM,SIG
+# File ID         : d-Ba-x-sigc-excfun-mon-prodCs129_Tarkanyi_2018_d4379.013
+#
+# npts            : 5           
+# xmin            :   3.9330E+07
+# xmax            :   4.9370E+07
+# ymin            :   2.3000E-03
+# ymax            :   3.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9370E+07  2.0000E+05  2.3000E-03  1.5000E-03
+  4.7460E+07  2.5000E+05  3.0000E-03  5.0000E-04
+  4.5510E+07  3.0000E+05  2.9000E-03  7.0000E-04
+  4.3510E+07  3.5000E+05  3.5000E-03  1.1000E-03
+  3.9330E+07  4.5000E+05  2.7000E-03  1.8000E-03
+#---------------------------------------------------

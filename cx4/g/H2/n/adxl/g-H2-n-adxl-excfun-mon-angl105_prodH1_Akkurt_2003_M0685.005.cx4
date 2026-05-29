@@ -1,0 +1,26 @@
+# EXFOR #         : M0685.005  
+# EXFOR Ver.      : 20060320
+# TRANS #         : M039
+# Author          : I.Akkurt
+# Reference       : Chin.J.Phys. 41 (2003) 111
+# DOI             : N/A
+# Quantity        : 2H(g,n)1H angular differential cross section
+# REACTION        : 1-H-2(G,N)1-H-1,,DA
+# File ID         : g-H2-n-adxl-excfun-mon-angl105_prodH1_Akkurt_2003_m0685.005
+#
+# theta,lab (deg) :  105.0000000
+#
+# npts            : 3           
+# xmin            :   1.5000E+07
+# xmax            :   3.0000E+07
+# ymin            :   5.3090E-05
+# ymax            :   6.4740E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.5000E+07  3.0000E+06  6.4320E-05  1.2520E-05
+  2.0000E+07  3.0000E+06  6.4740E-05  1.2950E-05
+  3.0000E+07  3.0000E+06  5.3090E-05  1.3380E-05
+#---------------------------------------------------

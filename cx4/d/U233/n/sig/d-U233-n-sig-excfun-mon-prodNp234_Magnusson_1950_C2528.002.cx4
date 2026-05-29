@@ -1,0 +1,23 @@
+# EXFOR #         : C2528.002  
+# EXFOR Ver.      : 20200425
+# TRANS #         : C195
+# Author          : L.B.Magnusson et al.
+# Reference       : Phys.Rev. 78 (1950) 363
+# DOI             : 10.1103/PhysRev.78.363
+# Quantity        : 233U(d,n)234Np cross section
+# REACTION        : 92-U-233(D,N)93-NP-234,,SIG
+# File ID         : d-U233-n-sig-excfun-mon-prodNp234_Magnusson_1950_c2528.002
+#
+# npts            : 2           
+# xmin            :   1.5000E+07
+# xmax            :   5.0000E+07
+# ymin            :   1.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  0.0000E+00  1.0000E-02  0.0000E+00
+  5.0000E+07  0.0000E+00  2.0000E-02  0.0000E+00
+#---------------------------------------------------

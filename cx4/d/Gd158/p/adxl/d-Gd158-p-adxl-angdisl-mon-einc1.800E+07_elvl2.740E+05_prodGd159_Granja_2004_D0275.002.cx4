@@ -1,0 +1,30 @@
+# EXFOR #         : D0275.002  
+# EXFOR Ver.      : 20120502
+# TRANS #         : D083
+# Author          : C.Granja et al.
+# Reference       : Phys.Rev.C 70 (2004) 034316
+# DOI             : 10.1103/PhysRevC.70.034316
+# Quantity        : 158Gd(d,p)159Gd partial angular differential cross section
+# REACTION        : 64-GD-158(D,P)64-GD-159,PAR,DA
+# File ID         : d-Gd158-p-adxl-angdisl-mon-einc1.800E+07_elvl2.740E+05_prodGd159_Granja_2004_d0275.002
+#
+# Einc (eV)       :   1.8000E+07
+# Elvl (eV)       :   2.7403E+05
+# dElvl (eV)      :   3.7000E+02
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :   55.0000000
+# ymin            :   3.3530E-06
+# ymax            :   5.7310E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  3.7890E-06  6.5800E-07
+  35.0000000   0.0000000  5.6840E-06  6.3500E-07
+  40.0000000   0.0000000  5.7310E-06  9.3600E-07
+  45.0000000   0.0000000  4.4230E-06  5.0600E-07
+  55.0000000   0.0000000  3.3530E-06  5.1000E-07
+#---------------------------------------------------

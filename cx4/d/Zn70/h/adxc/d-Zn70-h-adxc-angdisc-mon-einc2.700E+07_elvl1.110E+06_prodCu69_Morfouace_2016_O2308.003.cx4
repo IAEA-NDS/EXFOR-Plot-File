@@ -1,0 +1,28 @@
+# EXFOR #         : O2308.003  
+# EXFOR Ver.      : 20161009
+# TRANS #         : O060
+# Author          : P.Morfouace et al.
+# Reference       : Phys.Rev.C 93 (2016) 064308
+# DOI             : 10.1103/PhysRevC.93.064308
+# Quantity        : 70Zn(d,he3)69Cu partial angular differential cross section
+# REACTION        : 30-ZN-70(D,HE3)29-CU-69,PAR,DA
+# File ID         : d-Zn70-h-adxc-angdisc-mon-einc2.700E+07_elvl1.110E+06_prodCu69_Morfouace_2016_o2308.003
+#
+# Einc (eV)       :   2.7000E+07
+# Elvl (eV)       :   1.1100E+06
+#
+# npts            : 4           
+# xmin            :   15.5700000
+# xmax            :   24.6700000
+# ymin            :   3.2400E-05
+# ymax            :   1.0820E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.5700000   0.0000000  9.3840E-05  5.6764E-09
+  18.5800000   0.0000000  3.2400E-05  4.6105E-09
+  21.7700000   0.0000000  1.0820E-04  1.3785E-08
+  24.6700000   0.0000000  9.5080E-05  1.0649E-08
+#---------------------------------------------------

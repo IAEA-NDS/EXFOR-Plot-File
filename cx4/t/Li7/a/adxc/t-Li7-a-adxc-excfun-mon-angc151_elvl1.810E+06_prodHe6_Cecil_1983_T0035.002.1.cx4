@@ -1,0 +1,28 @@
+# EXFOR #         : T0035.002.1
+# EXFOR Ver.      : 19990603
+# TRANS #         : 0000
+# Author          : F.E.Cecil et al.
+# Reference       : Phys.Rev.C 27 (1983) 6
+# DOI             : 10.1103/PhysRevC.27.6
+# Quantity        : 7Li(t,a)6He partial angular differential cross section
+# REACTION        : 3-LI-7(T,A)2-HE-6,PAR,DA
+# File ID         : t-Li7-a-adxc-excfun-mon-angc151_elvl1.810E+06_prodHe6_Cecil_1983_t0035.002.1
+#
+# theta,cm (deg)  :  151.0000000
+# Elvl (eV)       :   1.8100E+06
+#
+# npts            : 4           
+# xmin            :   5.5051E+04
+# xmax            :   1.0510E+05
+# ymin            :   8.0000E-09
+# ymax            :   1.6700E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.5051E+04  2.5000E+01  8.0000E-09  0.0000E+00
+  8.1075E+04  2.5000E+01  2.9000E-07  0.0000E+00
+  9.5087E+04  2.5000E+01  1.0400E-06  0.0000E+00
+  1.0510E+05  2.5000E+01  1.6700E-06  0.0000E+00
+#---------------------------------------------------

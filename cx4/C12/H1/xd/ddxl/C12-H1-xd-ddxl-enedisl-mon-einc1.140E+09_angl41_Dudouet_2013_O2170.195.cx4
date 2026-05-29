@@ -1,0 +1,29 @@
+# EXFOR #         : O2170.195  
+# EXFOR Ver.      : 20161017
+# TRANS #         : O059
+# Author          : J.Dudouet et al.
+# Reference       : Phys.Rev.C 88 (2013) 024606
+# DOI             : 10.1103/PhysRevC.88.024606
+# Quantity        : 1H(12C,d+x) double differential cross section
+# REACTION        : 1-H-1(6-C-12,X)1-H-2,,DA/DE
+# File ID         : C12-H1-xd-ddxl-enedisl-mon-einc1.140E+09_angl41_Dudouet_2013_o2170.195
+#
+# Einc (eV)       :   1.1400E+09
+# theta,lab (deg) :   41.0000000
+#
+# npts            : 5           
+# xmin            :   5.7000E+08
+# xmax            :   1.5300E+09
+# ymin            :   4.7770E-13
+# ymax            :   1.5310E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  5.7000E+08  6.5791E+07  1.5310E-11 -4.8960E-11
+  6.9000E+08  8.9784E+07  4.7770E-13 -1.5280E-12
+  9.9000E+08  1.6182E+08  6.1350E-13 -1.9620E-12
+  1.0500E+09  1.7816E+08  7.5250E-13 -2.4060E-12
+  1.5300E+09  3.2835E+08  5.7750E-13 -1.8470E-12
+#---------------------------------------------------

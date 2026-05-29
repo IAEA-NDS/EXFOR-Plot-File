@@ -1,0 +1,28 @@
+# EXFOR #         : C1204.004  
+# EXFOR Ver.      : 20050405
+# TRANS #         : C073
+# Author          : C.Ellegaard et al.
+# Reference       : Nucl.Phys.A 406 (1983) 134
+# DOI             : 10.1016/0375-9474(83)90288-9
+# Quantity        : 48Ca(a,p)51Sc partial angular differential cross section
+# REACTION        : 20-CA-48(A,P)21-SC-51,PAR,DA
+# File ID         : a-Ca48-p-adxc-angdisc-mon-einc2.500E+07_elvl2.313E+06_prodSc51_Ellegaard_1983_c1204.004
+#
+# Einc (eV)       :   2.5000E+07
+# Elvl (eV)       :   2.3130E+06
+#
+# npts            : 4           
+# xmin            :    5.9100000
+# xmax            :   28.4000000
+# ymin            :   1.4300E-06
+# ymax            :   5.8900E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.9100000   0.0000000  5.8900E-06  0.0000E+00
+  11.8000000   0.0000000  2.6100E-06  0.0000E+00
+  17.3000000   0.0000000  1.6500E-06  0.0000E+00
+  28.4000000   0.0000000  1.4300E-06  0.0000E+00
+#---------------------------------------------------

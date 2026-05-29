@@ -1,0 +1,26 @@
+# EXFOR #         : O0893.002  
+# EXFOR Ver.      : 20030424
+# TRANS #         : 0000
+# Author          : S.Schmidt et al.
+# Reference       : Nucl.Phys.A 591 (1995) 227
+# DOI             : 10.1016/0375-9474(95)00164-V
+# Quantity        : 22Na(he3,d)23Mg partial angular differential cross section
+# REACTION        : 11-NA-22(HE3,D)12-MG-23,PAR,DA
+# File ID         : h-Na22-d-adxl-lvldis-mon-einc3.000E+07_angc12_prodMg23_Schmidt_1995_o0893.002
+#
+# Einc (eV)       :   3.0000E+07
+# theta,cm (deg)  :   12.3700000
+#
+# npts            : 2           
+# xmin            :   7.6210E+06
+# xmax            :   7.7800E+06
+# ymin            :   1.3600E-03
+# ymax            :   2.8000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.6210E+06  0.0000E+00  2.8000E-03  3.9200E-04
+  7.7800E+06  0.0000E+00  1.3600E-03  2.8560E-04
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : F0262.008  
+# EXFOR Ver.      : 20030626
+# TRANS #         : 0000
+# Author          : P.D.Forsyth et al.
+# Reference       : Proc.Phys.Soc.(UK) 75 (1960) 291
+# DOI             : 10.1088/0370-1328/75/2/316
+# Quantity        : 14N(he3,d)15O partial angular differential cross section
+# REACTION        : 7-N-14(HE3,D)8-O-15,PAR,DA
+# File ID         : h-N14-d-adxc-angdisc-mon-einc5.100E+06_elvl0.000E+00_prodO15_Forsyth_1960_f0262.008
+#
+# Einc (eV)       :   5.1000E+06
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   18.0000000
+# xmax            :   18.0000000
+# ymin            :   2.5000E-03
+# ymax            :   2.5000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  18.0000000   0.0000000  2.5000E-03  0.0000E+00
+#---------------------------------------------------

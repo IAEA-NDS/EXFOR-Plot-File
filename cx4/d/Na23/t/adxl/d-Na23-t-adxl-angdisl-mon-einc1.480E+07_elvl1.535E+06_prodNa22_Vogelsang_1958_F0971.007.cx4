@@ -1,0 +1,25 @@
+# EXFOR #         : F0971.007  
+# EXFOR Ver.      : 20090224
+# TRANS #         : F035
+# Author          : W.F.Vogelsang et al.
+# Reference       : Phys.Rev. 109 (1958) 1663
+# DOI             : 10.1103/PhysRev.109.1663
+# Quantity        : 23Na(d,t)22Na partial angular differential cross section
+# REACTION        : 11-NA-23(D,T)11-NA-22,PAR,DA
+# File ID         : d-Na23-t-adxl-angdisl-mon-einc1.480E+07_elvl1.535E+06_prodNa22_Vogelsang_1958_f0971.007
+#
+# Einc (eV)       :   1.4800E+07
+# Elvl (eV)       :   1.5350E+06
+#
+# npts            : 1           
+# xmin            :   19.6000000
+# xmax            :   19.6000000
+# ymin            :   3.9100E-04
+# ymax            :   3.9100E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  19.6000000   0.0000000  3.9100E-04  3.9100E-05
+#---------------------------------------------------

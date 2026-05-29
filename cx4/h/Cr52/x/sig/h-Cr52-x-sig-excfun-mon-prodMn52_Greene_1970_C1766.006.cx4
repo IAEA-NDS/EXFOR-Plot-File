@@ -1,0 +1,23 @@
+# EXFOR #         : C1766.006  
+# EXFOR Ver.      : 20171129
+# TRANS #         : C172
+# Author          : M.W.Greene et al.
+# Reference       : Appl.Radiat.Isot. 21 (1970) 719
+# DOI             : 10.1016/0020-708X(70)90081-5
+# Quantity        : 52Cr(he3,x)52Mn independent production cross section
+# REACTION        : 24-CR-52(HE3,X)25-MN-52,,SIG
+# File ID         : h-Cr52-x-sig-excfun-mon-prodMn52_Greene_1970_c1766.006
+#
+# npts            : 2           
+# xmin            :   1.6759E+07
+# xmax            :   2.2212E+07
+# ymin            :   1.2180E-02
+# ymax            :   2.1940E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6759E+07  9.1400E+05  1.2180E-02  7.4250E-04
+  2.2212E+07  1.1170E+06  2.1940E-02  1.4790E-03
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : C3090.002  
+# EXFOR Ver.      : 20251211
+# TRANS #         : C253
+# Author          : D.Walter et al.
+# Reference       : Phys.Lett.B 862 (2025) 139352
+# DOI             : 10.1016/j.physletb.2025.139352
+# Quantity        : 93Kr(d,p)94Kr partial angular differential cross section
+# REACTION        : 36-KR-93(D,P)36-KR-94,PAR,DA
+# File ID         : d-Kr93-p-adxc-angdisc-mon-einc1.600E+07_elvl1.500E+06_prodKr94_Walter_2025_c3090.002
+#
+# Einc (eV)       :   1.6000E+07
+# Elvl (eV)       :   1.5000E+06
+#
+# npts            : 5           
+# xmin            :   13.7870000
+# xmax            :  118.7230000
+# ymin            :   2.0880E-04
+# ymax            :   9.2540E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  13.7870000   0.0000000  9.2540E-03  4.2200E-03
+  18.1280000   0.0000000  1.1290E-03  7.5610E-04
+  21.7020000   0.0000000  3.5130E-03  2.5820E-03
+  98.5530000   0.0000000  3.1620E-04  2.4720E-04
+ 118.7230000   0.0000000  2.0880E-04  1.2950E-04
+#---------------------------------------------------

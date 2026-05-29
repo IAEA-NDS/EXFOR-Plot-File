@@ -1,0 +1,25 @@
+# EXFOR #         : A0366.130  
+# EXFOR Ver.      : 20240825
+# TRANS #         : A117
+# Author          : R.Kossakowski et al.
+# Reference       : Phys.Rev.C 32 (1985) 1612
+# DOI             : 10.1103/PhysRevC.32.1612
+# Quantity        : 144Sm(12C,x)148Dy independent production cross section
+# REACTION        : 62-SM-144(6-C-12,X)66-DY-148,,SIG
+# File ID         : C12-Sm144-x-sig-excfun-mon-prodDy148_Kossakowski_1985_a0366.130
+#
+# npts            : 4           
+# xmin            :   7.3500E+07
+# xmax            :   1.0250E+08
+# ymin            :   1.5000E-02
+# ymax            :   1.2400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.3500E+07  0.0000E+00  1.5000E-02  0.0000E+00
+  8.1900E+07  0.0000E+00  1.9000E-02  0.0000E+00
+  9.0300E+07  0.0000E+00  7.9000E-02  0.0000E+00
+  1.0250E+08  0.0000E+00  1.2400E-01  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : A0204.007  
+# EXFOR Ver.      : 20210120
+# TRANS #         : A096
+# Author          : D.P.Chowdhury et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 261
+# DOI             : 10.1016/0168-583X(95)00663-X
+# Quantity        : 53Cr(a,p)56Mn cross section
+# REACTION        : 24-CR-53(A,P)25-MN-56,,SIG
+# File ID         : a-Cr53-p-sig-excfun-mon-prodMn56_Chowdhury_1995_a0204.007
+#
+# npts            : 3           
+# xmin            :   1.1200E+07
+# xmax            :   1.5300E+07
+# ymin            :   3.2400E-02
+# ymax            :   5.8900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1200E+07  0.0000E+00  3.2400E-02  4.6000E-03
+  1.3400E+07  0.0000E+00  4.5600E-02  6.3000E-03
+  1.5300E+07  0.0000E+00  5.8900E-02  8.1000E-03
+#---------------------------------------------------

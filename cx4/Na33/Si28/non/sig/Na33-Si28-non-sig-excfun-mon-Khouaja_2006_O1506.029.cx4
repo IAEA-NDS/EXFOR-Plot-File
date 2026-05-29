@@ -1,0 +1,23 @@
+# EXFOR #         : O1506.029  
+# EXFOR Ver.      : 20071114
+# TRANS #         : O034
+# Author          : A.Khouaja et al.
+# Reference       : Nucl.Phys.A 780 (2006) 1
+# DOI             : N/A
+# Quantity        : 28Si(33Na,non) cross section
+# REACTION        : 14-SI-28(11-NA-33,NON),,SIG
+# File ID         : Na33-Si28-non-sig-excfun-mon-Khouaja_2006_o1506.029
+#
+# npts            : 2           
+# xmin            :   1.1151E+09
+# xmax            :   1.2801E+09
+# ymin            :   2.7550E+00
+# ymax            :   2.9160E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2801E+09  0.0000E+00  2.9160E+00  3.1100E-01
+  1.1151E+09  0.0000E+00  2.7550E+00  5.9000E-01
+#---------------------------------------------------

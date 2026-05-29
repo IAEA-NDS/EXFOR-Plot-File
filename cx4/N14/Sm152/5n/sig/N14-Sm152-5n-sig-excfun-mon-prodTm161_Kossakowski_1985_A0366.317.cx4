@@ -1,0 +1,24 @@
+# EXFOR #         : A0366.317  
+# EXFOR Ver.      : 20240825
+# TRANS #         : A117
+# Author          : R.Kossakowski et al.
+# Reference       : Phys.Rev.C 32 (1985) 1612
+# DOI             : 10.1103/PhysRevC.32.1612
+# Quantity        : 152Sm(14N,5n)161Tm cross section
+# REACTION        : 62-SM-152(7-N-14,5N)69-TM-161,,SIG
+# File ID         : N14-Sm152-5n-sig-excfun-mon-prodTm161_Kossakowski_1985_a0366.317
+#
+# npts            : 3           
+# xmin            :   7.1000E+07
+# xmax            :   1.0000E+08
+# ymin            :   6.3000E-02
+# ymax            :   2.7100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.1000E+07  0.0000E+00  2.3000E-01  0.0000E+00
+  8.7000E+07  0.0000E+00  2.7100E-01  0.0000E+00
+  1.0000E+08  0.0000E+00  6.3000E-02  0.0000E+00
+#---------------------------------------------------

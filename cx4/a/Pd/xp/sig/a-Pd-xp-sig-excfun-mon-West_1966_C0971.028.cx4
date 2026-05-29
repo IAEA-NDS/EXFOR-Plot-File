@@ -1,0 +1,22 @@
+# EXFOR #         : C0971.028  
+# EXFOR Ver.      : 20220629
+# TRANS #         : C223
+# Author          : R.W.West
+# Reference       : Phys.Rev. 141 (1966) 1033
+# DOI             : 10.1103/PhysRev.141.1033
+# Quantity        : natPd(a,p+x) cross section
+# REACTION        : 46-PD-0(A,X)1-H-1,,SIG
+# File ID         : a-Pd-xp-sig-excfun-mon-West_1966_c0971.028
+#
+# npts            : 1           
+# xmin            :   4.2000E+07
+# xmax            :   4.2000E+07
+# ymin            :   2.8400E-01
+# ymax            :   2.8400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.2000E+07  2.0000E+05  2.8400E-01  2.0000E-02
+#---------------------------------------------------

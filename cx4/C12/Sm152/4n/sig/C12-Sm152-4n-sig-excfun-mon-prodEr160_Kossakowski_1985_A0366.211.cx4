@@ -1,0 +1,23 @@
+# EXFOR #         : A0366.211  
+# EXFOR Ver.      : 20240825
+# TRANS #         : A117
+# Author          : R.Kossakowski et al.
+# Reference       : Phys.Rev.C 32 (1985) 1612
+# DOI             : 10.1103/PhysRevC.32.1612
+# Quantity        : 152Sm(12C,4n)160Er cross section
+# REACTION        : 62-SM-152(6-C-12,4N)68-ER-160,,SIG
+# File ID         : C12-Sm152-4n-sig-excfun-mon-prodEr160_Kossakowski_1985_a0366.211
+#
+# npts            : 2           
+# xmin            :   6.5500E+07
+# xmax            :   8.5200E+07
+# ymin            :   5.0000E-02
+# ymax            :   5.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.5500E+07  0.0000E+00  5.5000E-01  0.0000E+00
+  8.5200E+07  0.0000E+00  5.0000E-02  0.0000E+00
+#---------------------------------------------------

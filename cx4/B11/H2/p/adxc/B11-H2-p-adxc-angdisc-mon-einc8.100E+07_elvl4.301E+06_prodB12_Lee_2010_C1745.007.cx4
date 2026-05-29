@@ -1,0 +1,28 @@
+# EXFOR #         : C1745.007  
+# EXFOR Ver.      : 20100506
+# TRANS #         : C100
+# Author          : H.Y.Lee et al.
+# Reference       : Phys.Rev.C 81 (2010) 015802
+# DOI             : 10.1103/PhysRevC.81.015802
+# Quantity        : 2H(11B,p)12B partial angular differential cross section
+# REACTION        : 1-H-2(5-B-11,P)5-B-12,PAR,DA
+# File ID         : B11-H2-p-adxc-angdisc-mon-einc8.100E+07_elvl4.301E+06_prodB12_Lee_2010_c1745.007
+#
+# Einc (eV)       :   8.1000E+07
+# Elvl (eV)       :   4.3010E+06
+#
+# npts            : 4           
+# xmin            :    7.5000000
+# xmax            :   22.5000000
+# ymin            :   6.1000E-04
+# ymax            :   1.6100E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.5000000   2.5000000  6.1000E-04  4.4000E-04
+  12.5000000   2.5000000  6.6000E-04  4.4000E-04
+  17.5000000   2.5000000  1.6100E-03  5.0000E-04
+  22.5000000   2.5000000  1.1300E-03  4.0000E-04
+#---------------------------------------------------

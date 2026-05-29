@@ -1,0 +1,30 @@
+# EXFOR #         : E0828.027  
+# EXFOR Ver.      : 20080612
+# TRANS #         : E053
+# Author          : T.Motobayashi et al.
+# Reference       : Nucl.Phys.A 413 No.2 (1984) 290
+# DOI             : 10.1016/0375-9474(84)90376-2
+# Quantity        : 165Ho(he3,t+x) double differential cross section
+# REACTION        : 67-HO-165(HE3,X)1-H-3,,DA/DE
+# File ID         : h-Ho165-xt-ddxl-enedisl-mon-einc1.000E+08_angl120_Motobayashi_1984_e0828.027
+#
+# Einc (eV)       :   1.0000E+08
+# theta,lab (deg) :  120.0000000
+#
+# npts            : 6           
+# xmin            :   1.7310E+07
+# xmax            :   4.2300E+07
+# ymin            :   3.2050E-12
+# ymax            :   2.8870E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.7310E+07  0.0000E+00  2.8870E-11  0.0000E+00
+  2.2250E+07  0.0000E+00  1.8950E-11  0.0000E+00
+  2.7330E+07  0.0000E+00  1.1810E-11  0.0000E+00
+  3.2420E+07  0.0000E+00  7.5170E-12  0.0000E+00
+  3.7490E+07  0.0000E+00  4.9850E-12  0.0000E+00
+  4.2300E+07  0.0000E+00  3.2050E-12  0.0000E+00
+#---------------------------------------------------

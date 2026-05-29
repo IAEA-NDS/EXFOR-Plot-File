@@ -1,0 +1,26 @@
+# EXFOR #         : A1014.005  
+# EXFOR Ver.      : 20240229
+# TRANS #         : A109
+# Author          : M.Ivanovich et al.
+# Reference       : Nucl.Phys.A 110 (1968) 441
+# DOI             : 10.1016/0375-9474(68)90552-6
+# Quantity        : 3H(he3,el)3H angular differential cross section
+# REACTION        : 1-H-3(HE3,EL)1-H-3,,DA
+# File ID         : h-H3-el-adxc-angdisc-mon-einc7.310E+06_prodH3_Ivanovich_1968_a1014.005
+#
+# Einc (eV)       :   7.3100E+06
+#
+# npts            : 3           
+# xmin            :   40.0000000
+# xmax            :  140.0000000
+# ymin            :   2.6700E-02
+# ymax            :   5.1700E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.0000000   0.0000000  5.1700E-02  1.0340E-03
+  90.0000000   0.0000000  2.6700E-02  5.3400E-04
+ 140.0000000   0.0000000  3.2900E-02  6.5800E-04
+#---------------------------------------------------

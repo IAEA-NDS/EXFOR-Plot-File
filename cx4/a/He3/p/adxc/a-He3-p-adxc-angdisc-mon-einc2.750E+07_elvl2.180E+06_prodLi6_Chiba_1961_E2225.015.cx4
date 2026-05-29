@@ -1,0 +1,27 @@
+# EXFOR #         : E2225.015  
+# EXFOR Ver.      : 20160520
+# TRANS #         : E103
+# Author          : R.Chiba et al.
+# Reference       : J.Phys.Soc.Jpn. 16 (1961) 1077
+# DOI             : 10.1143/JPSJ.16.1077
+# Quantity        : 3He(a,p)6Li partial angular differential cross section
+# REACTION        : 2-HE-3(A,P)3-LI-6,PAR,DA
+# File ID         : a-He3-p-adxc-angdisc-mon-einc2.750E+07_elvl2.180E+06_prodLi6_Chiba_1961_e2225.015
+#
+# Einc (eV)       :   2.7500E+07
+# dEinc (eV)      :   5.0000E+05
+# Elvl (eV)       :   2.1800E+06
+#
+# npts            : 2           
+# xmin            :   89.4000000
+# xmax            :   93.3800000
+# ymin            :   7.3050E-03
+# ymax            :   1.2084E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  89.4000000   0.0000000  7.3050E-03  2.6380E-03
+  93.3800000   0.0000000  1.2084E-02  4.3900E-03
+#---------------------------------------------------

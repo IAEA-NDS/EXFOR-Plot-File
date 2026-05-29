@@ -1,0 +1,24 @@
+# EXFOR #         : L0065.004.1
+# EXFOR Ver.      : 20050420
+# TRANS #         : L007
+# Author          : J.T.Caldwell et al.
+# Reference       : Nucl.Sci.Eng. 56 (1975) 179
+# DOI             : 10.13182/NSE75-A26656
+# Quantity        : 234U(g,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-234(G,F),PR,NU
+# File ID         : g-U234-f-nup-excfun-mon-Caldwell_1975_l0065.004.1
+#
+# npts            : 3           
+# xmin            :   6.6700E+06
+# xmax            :   9.5400E+06
+# ymin            :   2.4990E+00
+# ymax            :   2.6230E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  6.6700E+06  0.0000E+00  2.5360E+00  1.1200E-01
+  8.6900E+06  0.0000E+00  2.4990E+00  1.0700E-01
+  9.5400E+06  0.0000E+00  2.6230E+00  1.0500E-01
+#---------------------------------------------------

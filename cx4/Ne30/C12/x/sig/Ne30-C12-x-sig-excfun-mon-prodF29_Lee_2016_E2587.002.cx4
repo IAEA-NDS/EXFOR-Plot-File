@@ -1,0 +1,22 @@
+# EXFOR #         : E2587.002  
+# EXFOR Ver.      : 20200117
+# TRANS #         : E124
+# Author          : J.Lee et al.
+# Reference       : Prog.Theor.Exp.Phys. 2016 (2016) 083D01
+# DOI             : 10.1093/ptep/ptw096
+# Quantity        : 12C(30Ne,x)29F independent production cross section
+# REACTION        : 6-C-12(10-NE-30,X)9-F-29,,SIG
+# File ID         : Ne30-C12-x-sig-excfun-mon-prodF29_Lee_2016_e2587.002
+#
+# npts            : 1           
+# xmin            :   6.9000E+09
+# xmax            :   6.9000E+09
+# ymin            :   5.8000E-03
+# ymax            :   5.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.9000E+09  0.0000E+00  5.8000E-03  3.0000E-03
+#---------------------------------------------------

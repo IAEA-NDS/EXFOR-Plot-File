@@ -1,0 +1,24 @@
+# EXFOR #         : O2178.002.2
+# EXFOR Ver.      : 20220119
+# TRANS #         : O087
+# Author          : L.Netterdon et al.
+# Reference       : Nucl.Phys.A 916 (2013) 149
+# DOI             : 10.1016/j.nuclphysa.2013.08.002
+# Quantity        : 168Yb(a,n)171Hf cross section
+# REACTION        : 70-YB-168(A,N)72-HF-171,,SIG
+# File ID         : a-Yb168-n-sig-excfun-mon-prodHf171_Netterdon_2013_o2178.002.2
+#
+# npts            : 3           
+# xmin            :   1.3726E+07
+# xmax            :   1.5084E+07
+# ymin            :   7.0000E-05
+# ymax            :   1.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3726E+07  2.8002E+04  7.0000E-05  7.0000E-06
+  1.4517E+07  2.8003E+04  3.8000E-04  4.0000E-05
+  1.5084E+07  2.6002E+04  1.3000E-03  1.2000E-04
+#---------------------------------------------------

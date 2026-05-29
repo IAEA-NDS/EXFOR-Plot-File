@@ -1,0 +1,27 @@
+# EXFOR #         : F0233.005  
+# EXFOR Ver.      : 20100216
+# TRANS #         : F038
+# Author          : N.Sakamoto et al.
+# Reference       : Bull.Inst.Chem.Res. 52 (1974) 146
+# DOI             : N/A
+# Quantity        : 9Be(he3,a)8Be partial cross section
+# REACTION        : 4-BE-9(HE3,A)4-BE-8,PAR,SIG
+# File ID         : h-Be9-a-sig-excfun-mon-elvl0.000E+00_prodBe8_Sakamoto_1974_f0233.005
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :   1.7627E+06
+# xmax            :   2.9727E+06
+# ymin            :   4.2680E-04
+# ymax            :   1.4446E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7627E+06  3.5000E+04  4.2680E-04  6.6567E-05
+  2.1233E+06  3.5000E+04  7.5821E-04  1.2174E-04
+  2.4297E+06  3.5000E+04  6.6339E-04  1.0725E-04
+  2.9727E+06  3.5000E+04  1.4446E-03  3.0145E-04
+#---------------------------------------------------

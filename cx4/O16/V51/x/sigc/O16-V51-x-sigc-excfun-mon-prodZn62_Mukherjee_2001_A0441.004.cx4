@@ -1,0 +1,24 @@
+# EXFOR #         : A0441.004  
+# EXFOR Ver.      : 20240909
+# TRANS #         : A117
+# Author          : S.Mukherjee et al.
+# Reference       : Eur.Phys.J.A 12 (2001) 199
+# DOI             : 10.1007/s100500170028
+# Quantity        : 51V(16O,x)62Zn cumulative production cross section
+# REACTION        : 23-V-51(8-O-16,X)30-ZN-62,CUM,SIG
+# File ID         : O16-V51-x-sigc-excfun-mon-prodZn62_Mukherjee_2001_a0441.004
+#
+# npts            : 3           
+# xmin            :   8.2060E+07
+# xmax            :   9.3280E+07
+# ymin            :   3.0110E-03
+# ymax            :   1.5820E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.2060E+07  0.0000E+00  3.0110E-03  4.3990E-04
+  8.7030E+07  0.0000E+00  1.5820E-02  2.1740E-03
+  9.3280E+07  0.0000E+00  1.2040E-02  1.6550E-03
+#---------------------------------------------------

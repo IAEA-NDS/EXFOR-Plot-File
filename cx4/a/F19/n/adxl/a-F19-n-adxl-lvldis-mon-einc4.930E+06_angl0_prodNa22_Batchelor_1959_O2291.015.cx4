@@ -1,0 +1,25 @@
+# EXFOR #         : O2291.015  
+# EXFOR Ver.      : 20160702
+# TRANS #         : O060
+# Author          : R.Batchelor et al.
+# Reference       : Proc.Phys.Soc.(UK) 73 (1959) 307
+# DOI             : 10.1088/0370-1328/73/2/420
+# Quantity        : 19F(a,n)22Na partial angular differential cross section
+# REACTION        : 9-F-19(A,N)11-NA-22,PAR,DA
+# File ID         : a-F19-n-adxl-lvldis-mon-einc4.930E+06_angl0_prodNa22_Batchelor_1959_o2291.015
+#
+# Einc (eV)       :   4.9300E+06
+# theta,lab (deg) :    0.0000000
+#
+# npts            : 1           
+# xmin            :   1.5400E+06
+# xmax            :   1.5400E+06
+# ymin            :   3.0000E-04
+# ymax            :   3.0000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.5400E+06  0.0000E+00  3.0000E-04  0.0000E+00
+#---------------------------------------------------

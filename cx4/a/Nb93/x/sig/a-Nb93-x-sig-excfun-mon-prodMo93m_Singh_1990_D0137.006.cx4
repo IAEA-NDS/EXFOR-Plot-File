@@ -1,0 +1,24 @@
+# EXFOR #         : D0137.006  
+# EXFOR Ver.      : 20210929
+# TRANS #         : D132
+# Author          : N.L.Singh et al.
+# Reference       : J.Phys.Soc.Jpn. 59 (1990) 3916
+# DOI             : 10.1143/JPSJ.59.3916
+# Quantity        : 93Nb(a,x)93mMo independent production cross section
+# REACTION        : 41-NB-93(A,X)42-MO-93-M,,SIG
+# File ID         : a-Nb93-x-sig-excfun-mon-prodMo93m_Singh_1990_d0137.006
+#
+# npts            : 3           
+# xmin            :   3.9800E+07
+# xmax            :   4.7000E+07
+# ymin            :   2.1000E-03
+# ymax            :   4.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9800E+07  1.2000E+06  2.1000E-03  3.0000E-04
+  4.3400E+07  1.0000E+06  1.6000E-02  2.3000E-03
+  4.7000E+07  1.0000E+06  4.5000E-02  6.0000E-03
+#---------------------------------------------------

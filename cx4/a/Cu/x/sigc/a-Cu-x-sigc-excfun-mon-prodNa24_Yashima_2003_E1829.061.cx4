@@ -1,0 +1,25 @@
+# EXFOR #         : E1829.061  
+# EXFOR Ver.      : 20190318
+# TRANS #         : E122
+# Author          : H.Yashima et al.
+# Reference       : Radiochim.Acta 91 (2003) 689
+# DOI             : 10.1524/ract.91.12.689.23423
+# Quantity        : natCu(a,x)24Na cumulative production cross section
+# REACTION        : 29-CU-0(A,X)11-NA-24,CUM,SIG
+# File ID         : a-Cu-x-sigc-excfun-mon-prodNa24_Yashima_2003_e1829.061
+#
+# npts            : 4           
+# xmin            :   4.0000E+08
+# xmax            :   8.0800E+08
+# ymin            :   9.6800E-04
+# ymax            :   1.4130E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  9.6800E-04  6.0000E-05
+  5.5600E+08  0.0000E+00  1.0850E-03  7.0000E-05
+  6.9200E+08  0.0000E+00  1.2630E-03  8.0000E-05
+  8.0800E+08  0.0000E+00  1.4130E-03  8.0000E-05
+#---------------------------------------------------

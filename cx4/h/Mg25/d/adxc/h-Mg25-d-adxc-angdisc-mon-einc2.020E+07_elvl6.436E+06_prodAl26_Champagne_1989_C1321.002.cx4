@@ -1,0 +1,28 @@
+# EXFOR #         : C1321.002  
+# EXFOR Ver.      : 20050816
+# TRANS #         : C075
+# Author          : A.E.Champagne et al.
+# Reference       : Nucl.Phys.A 505 (1989) 384
+# DOI             : 10.1016/0375-9474(89)90382-5
+# Quantity        : 25Mg(he3,d)26Al partial angular differential cross section
+# REACTION        : 12-MG-25(HE3,D)13-AL-26,PAR,DA
+# File ID         : h-Mg25-d-adxc-angdisc-mon-einc2.020E+07_elvl6.436E+06_prodAl26_Champagne_1989_c1321.002
+#
+# Einc (eV)       :   2.0200E+07
+# Elvl (eV)       :   6.4360E+06
+#
+# npts            : 4           
+# xmin            :   11.2000000
+# xmax            :   27.8000000
+# ymin            :   5.9800E-06
+# ymax            :   2.2000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  11.2000000   0.0000000  1.2800E-05  4.7200E-06
+  13.9000000   0.0000000  2.2000E-05  4.5700E-06
+  16.9000000   0.0000000  5.9800E-06  2.9600E-06
+  27.8000000   0.0000000  7.9300E-06  8.4400E-07
+#---------------------------------------------------

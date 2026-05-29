@@ -1,0 +1,23 @@
+# EXFOR #         : C2414.003  
+# EXFOR Ver.      : 20191126
+# TRANS #         : C187
+# Author          : M.Begemann-Blaich et al.
+# Reference       : Phys.Rev.C 45 (1992) 677
+# DOI             : 10.1103/PhysRevC.45.677
+# Quantity        : 181Ta(56Fe,f) cross section
+# REACTION        : 73-TA-181(26-FE-56,F),,SIG
+# File ID         : Fe56-Ta181-f-sig-excfun-mon-Begemann+Blaich_1992_c2414.003
+#
+# npts            : 2           
+# xmin            :   2.8000E+09
+# xmax            :   5.6000E+09
+# ymin            :   3.2000E-02
+# ymax            :   5.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8000E+09  0.0000E+00  5.2000E-02  1.7000E-02
+  5.6000E+09  0.0000E+00  3.2000E-02  1.1000E-02
+#---------------------------------------------------

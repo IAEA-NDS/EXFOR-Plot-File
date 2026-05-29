@@ -1,0 +1,28 @@
+# EXFOR #         : E2604.004  
+# EXFOR Ver.      : 20191216
+# TRANS #         : E124
+# Author          : J.Chen et al.
+# Reference       : Phys.Rev.C 98 (2018) 014616
+# DOI             : 10.1103/PhysRevC.98.014616
+# Quantity        : 11Be(d,p)12Be partial angular differential cross section
+# REACTION        : 4-BE-11(D,P)4-BE-12,PAR,DA
+# File ID         : d-Be11-p-adxc-angdisc-mon-einc5.380E+07_elvl0.000E+00_prodBe12_Chen_2018_e2604.004
+#
+# Einc (eV)       :   5.3800E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :    4.9068500
+# xmax            :   16.3848500
+# ymin            :   1.6200E-04
+# ymax            :   7.8235E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.3848500   0.0000000  1.6200E-04  7.2800E-05
+  12.1936500   0.0000000  3.0859E-04  8.1290E-05
+   8.3676500   0.0000000  4.1836E-04  9.5590E-05
+   4.9068500   0.0000000  7.8235E-04  1.9424E-04
+#---------------------------------------------------

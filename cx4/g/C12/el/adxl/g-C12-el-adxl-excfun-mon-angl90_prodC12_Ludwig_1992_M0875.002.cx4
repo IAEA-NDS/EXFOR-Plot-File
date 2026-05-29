@@ -1,0 +1,25 @@
+# EXFOR #         : M0875.002  
+# EXFOR Ver.      : 20140515
+# TRANS #         : M073
+# Author          : M.Ludwig et al.
+# Reference       : Phys.Lett.B 274 (1992) 275
+# DOI             : 10.1016/0370-2693(92)91986-J
+# Quantity        : 12C(g,el)12C angular differential cross section
+# REACTION        : 6-C-12(G,EL)6-C-12,,DA
+# File ID         : g-C12-el-adxl-excfun-mon-angl90_prodC12_Ludwig_1992_m0875.002
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 2           
+# xmin            :   6.1000E+07
+# xmax            :   7.7000E+07
+# ymin            :   3.3200E-07
+# ymax            :   5.2300E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.1000E+07  0.0000E+00  5.2300E-07  1.6000E-08
+  7.7000E+07  0.0000E+00  3.3200E-07  1.2000E-08
+#---------------------------------------------------

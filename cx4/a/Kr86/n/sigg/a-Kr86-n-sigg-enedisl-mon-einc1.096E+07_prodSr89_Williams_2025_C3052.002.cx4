@@ -1,0 +1,25 @@
+# EXFOR #         : C3052.002  
+# EXFOR Ver.      : 20250326
+# TRANS #         : C249
+# Author          : M.Williams
+# Reference       : Phys.Rev.Lett. 134 (2025) 112701
+# DOI             : 10.1103/PhysRevLett.134.112701
+# Quantity        : 86Kr(a,n)89Sr partial gamma production cross section
+# REACTION        : 36-KR-86(A,N)38-SR-89,PAR,SIG,G
+# File ID         : a-Kr86-n-sigg-enedisl-mon-einc1.096E+07_prodSr89_Williams_2025_c3052.002
+#
+# Einc (eV)       :   1.0958E+07
+# dEinc (eV)      :   6.0008E+04
+#
+# npts            : 1           
+# xmin            :   1.4730E+06
+# xmax            :   1.4730E+06
+# ymin            :   1.0500E-02
+# ymax            :   1.0500E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4730E+06  0.0000E+00  1.0500E-02  1.5000E-03
+#---------------------------------------------------

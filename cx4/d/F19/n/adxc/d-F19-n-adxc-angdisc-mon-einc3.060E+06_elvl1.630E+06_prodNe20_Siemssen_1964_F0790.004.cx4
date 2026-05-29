@@ -1,0 +1,26 @@
+# EXFOR #         : F0790.004  
+# EXFOR Ver.      : 20070126
+# TRANS #         : F026
+# Author          : R.H.Siemssen et al.
+# Reference       : Nucl.Phys. 52 (1964) 273
+# DOI             : 10.1016/0029-5582(64)90692-3
+# Quantity        : 19F(d,n)20Ne partial angular differential cross section
+# REACTION        : 9-F-19(D,N)10-NE-20,PAR,DA
+# File ID         : d-F19-n-adxc-angdisc-mon-einc3.060E+06_elvl1.630E+06_prodNe20_Siemssen_1964_f0790.004
+#
+# Einc (eV)       :   3.0600E+06
+# Elvl (eV)       :   1.6300E+06
+#
+# npts            : 2           
+# xmin            :   31.0000000
+# xmax            :  112.0000000
+# ymin            :   1.2500E-03
+# ymax            :   2.5000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  31.0000000   0.0000000  2.5000E-03  0.0000E+00
+ 112.0000000   0.0000000  1.2500E-03  0.0000E+00
+#---------------------------------------------------

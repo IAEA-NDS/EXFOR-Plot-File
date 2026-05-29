@@ -1,0 +1,29 @@
+# EXFOR #         : E2140.002  
+# EXFOR Ver.      : 20091026
+# TRANS #         : E059
+# Author          : T.Hashimoto et al.
+# Reference       : Phys.Lett.B 674 No.4-5 (2009) 276
+# DOI             : 10.1016/j.physletb.2009.03.031
+# Quantity        : 8Li(d,t)7Li angular differential cross section
+# REACTION        : 3-LI-8(D,T)3-LI-7,,DA
+# File ID         : d-Li8-t-adxc-angdisc-mon-einc1.501E+06_prodLi7_Hashimoto_2009_e2140.002
+#
+# Einc (eV)       :   1.5014E+06
+# dEinc (eV)      :   1.0202E+04
+#
+# npts            : 5           
+# xmin            :   86.0000000
+# xmax            :  118.0000000
+# ymin            :   7.8000E-03
+# ymax            :   1.1200E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  86.0000000   6.3000000  9.8000E-03  1.7000E-03
+  94.0000000   6.3000000  1.1200E-02  1.4000E-03
+ 102.0000000   6.3000000  8.1000E-03  1.4000E-03
+ 110.0000000   6.3000000  1.0200E-02  1.7000E-03
+ 118.0000000   6.3000000  7.8000E-03  1.7000E-03
+#---------------------------------------------------

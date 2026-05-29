@@ -1,0 +1,30 @@
+# EXFOR #         : D0183.002  
+# EXFOR Ver.      : 20040929
+# TRANS #         : 0000
+# Author          : L.B.Horodynski-Matsushigue et al.
+# Reference       : Nucl.Phys.A 709 (2002) 73
+# DOI             : 10.1016/S0375-9474(02)01039-4
+# Quantity        : 99Ru(d,p)100Ru partial angular differential cross section
+# REACTION        : 44-RU-99(D,P)44-RU-100,PAR,DA
+# File ID         : d-Ru99-p-adxc-angdisc-mon-einc1.500E+07_eoutl1.224E+09_prodRu100_Horodynski+Matsushigue_2002_d0183.002
+#
+# Einc (eV)       :   1.5000E+07
+# dEinc (eV)      :   1.5000E+04
+# Eout,lab (eV)   :   1.2240E+09
+#
+# npts            : 5           
+# xmin            :   15.1800000
+# xmax            :   45.5000000
+# ymin            :   3.4730E-05
+# ymax            :   1.6550E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.1800000   0.0000000  1.6550E-04  5.6830E-05
+  18.2200000   0.0000000  1.3470E-04  1.2750E-05
+  28.3300000   0.0000000  7.6010E-05  1.1100E-05
+  35.4000000   0.0000000  3.4730E-05  1.2250E-05
+  45.5000000   0.0000000  4.2120E-05  5.2190E-06
+#---------------------------------------------------

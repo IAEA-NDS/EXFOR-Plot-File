@@ -1,0 +1,24 @@
+# EXFOR #         : C1250.025  
+# EXFOR Ver.      : 20050607
+# TRANS #         : C074
+# Author          : R.E.Warner et al.
+# Reference       : Phys.Rev.C 64 (2001) 044611
+# DOI             : 10.1103/PhysRevC.64.044611
+# Quantity        : natSi(11Be,non) cross section
+# REACTION        : 14-SI-0(4-BE-11,NON),,SIG
+# File ID         : Be11-Si-non-sig-excfun-mon-Warner_2001_c1250.025
+#
+# npts            : 3           
+# xmin            :   5.2030E+08
+# xmax            :   5.9510E+08
+# ymin            :   2.0600E+00
+# ymax            :   2.1900E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2030E+08  0.0000E+00  2.1900E+00  1.1200E-01
+  5.5880E+08  0.0000E+00  2.0600E+00  1.4000E-01
+  5.9510E+08  0.0000E+00  2.0700E+00  1.1200E-01
+#---------------------------------------------------

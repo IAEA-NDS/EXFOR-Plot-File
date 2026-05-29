@@ -1,0 +1,30 @@
+# EXFOR #         : D5102.003  
+# EXFOR Ver.      : 20131111
+# TRANS #         : D092
+# Author          : Yu.N.Pavlenko et al.
+# Reference       : Proceedings of 4 Int.Conf.Cur.Prob.in Nucl.Phys.Atom.Ene.,Kyiv,2012 page 206
+# DOI             : N/A
+# Quantity        : 124Sn(d,p)125Sn angular differential cross section
+# REACTION        : 50-SN-124(D,P)50-SN-125,,DA
+# File ID         : d-Sn124-p-adxl-angdisl-mon-einc5.000E+06_prodSn125_Pavlenko_2013_d5102.003
+#
+# Einc (eV)       :   5.0000E+06
+#
+# npts            : 7           
+# xmin            :   80.5000000
+# xmax            :  160.0000000
+# ymin            :   4.1160E-03
+# ymax            :   5.2640E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  80.5000000   0.0000000  5.0420E-03  3.5900E-04
+  90.5000000   0.0000000  4.4040E-03  3.1800E-04
+ 100.5000000   0.0000000  4.2430E-03  2.9400E-04
+ 110.5000000   0.0000000  4.1160E-03  2.6100E-04
+ 120.5000000   0.0000000  4.3950E-03  2.6000E-04
+ 140.0000000   0.0000000  4.3060E-03  2.1000E-04
+ 160.0000000   0.0000000  5.2640E-03  5.2400E-04
+#---------------------------------------------------

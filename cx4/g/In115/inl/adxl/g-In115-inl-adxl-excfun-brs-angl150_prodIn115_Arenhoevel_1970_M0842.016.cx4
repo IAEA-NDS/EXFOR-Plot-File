@@ -1,0 +1,26 @@
+# EXFOR #         : M0842.016  
+# EXFOR Ver.      : 20120130
+# TRANS #         : M062
+# Author          : H.Arenhoevel et al.
+# Reference       : Nucl.Phys.A 147 (1970) 305
+# DOI             : 10.1016/0375-9474(70)90270-8
+# Quantity        : 115In(g,inl)115In angular differential cross section
+# REACTION        : 49-IN-115(G,INL)49-IN-115,,DA,,BRS
+# File ID         : g-In115-inl-adxl-excfun-brs-angl150_prodIn115_Arenhoevel_1970_m0842.016
+#
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 3           
+# xmin            :   1.4500E+07
+# xmax            :   1.8450E+07
+# ymin            :   3.0474E-05
+# ymax            :   5.4956E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4500E+07  1.0000E+06  3.3620E-05  4.3100E-06
+  1.6500E+07  1.0000E+06  5.4956E-05  4.5260E-06
+  1.8450E+07  9.5000E+05  3.0474E-05  5.3450E-06
+#---------------------------------------------------

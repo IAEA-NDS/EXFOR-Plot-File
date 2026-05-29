@@ -1,0 +1,27 @@
+# EXFOR #         : F0802.003  
+# EXFOR Ver.      : 20070130
+# TRANS #         : F027
+# Author          : M.J.A.De Voigt et al.
+# Reference       : Nucl.Phys.A 270 (1976) 141
+# DOI             : 10.1016/0375-9474(76)90131-7
+# Quantity        : 100Ru(a,inl)100Ru partial angular differential cross section
+# REACTION        : 44-RU-100(A,INL)44-RU-100,PAR,DA
+# File ID         : a-Ru100-inl-adxc-angdisc-mon-einc1.040E+08_elvl5.400E+05_prodRu100_De%Voigt_1976_f0802.003
+#
+# Einc (eV)       :   1.0400E+08
+# Elvl (eV)       :   5.4000E+05
+#
+# npts            : 3           
+# xmin            :   11.2370000
+# xmax            :   13.3410000
+# ymin            :   2.3394E-02
+# ymax            :   7.6682E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  11.2370000   0.0000000  7.6682E-02  6.9920E-03
+  12.3430000   0.0000000  6.6827E-02  7.3355E-03
+  13.3410000   0.0000000  2.3394E-02  2.5679E-03
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : F0236.002.1
+# EXFOR Ver.      : 20230126
+# TRANS #         : F094
+# Author          : A.Strzalkowski
+# Reference       : Nukleonica 8 (1963) 301
+# DOI             : N/A
+# Quantity        : 9Be(d,el)9Be angular differential cross section
+# REACTION        : 4-BE-9(D,EL)4-BE-9,,DA,,RTH
+# File ID         : d-Be9-el-adxc-angdisc-mon-einc1.280E+07_prodBe9_Strzalkowski_1963_f0236.002.1
+#
+# Einc (eV)       :   1.2800E+07
+#
+# npts            : 1           
+# xmin            :   88.0000000
+# xmax            :   88.0000000
+# ymin            :   3.4333E-03
+# ymax            :   3.4333E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  88.0000000   0.0000000  3.4333E-03  1.2016E-04
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : E2050.009  
+# EXFOR Ver.      : 20080131
+# TRANS #         : E050
+# Author          : L.Heilbronn et al.
+# Reference       : Nucl.Sci.Eng. 157 No.2 (2007) 142
+# DOI             : 10.13182/NSE07-A2719
+# Quantity        : 27Al(84Kr,n+x) double differential cross section
+# REACTION        : 13-AL-27(36-KR-84,X)0-NN-1,,DA/DE
+# File ID         : Kr84-Al27-xn-ddxl-enedisl-mon-einc3.360E+10_angl80_Heilbronn_2007_e2050.009
+#
+# Einc (eV)       :   3.3600E+10
+# theta,lab (deg) :   80.0000000
+#
+# npts            : 3           
+# xmin            :   4.7640E+07
+# xmax            :   2.6466E+08
+# ymin            :   7.5540E-10
+# ymax            :   3.1400E-09
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.6466E+08  1.7444E+08  7.5540E-10  2.0540E-10
+  1.4652E+08  5.6285E+07  2.2410E-09  6.1040E-10
+  4.7640E+07  4.2590E+07  3.1400E-09  2.0890E-09
+#---------------------------------------------------

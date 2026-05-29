@@ -1,0 +1,23 @@
+# EXFOR #         : 33066.002  
+# EXFOR Ver.      : 20211117
+# TRANS #         : 3203
+# Author          : K.Raghuraman et al.
+# Reference       : Radiochim.Acta 31 (1982) 65
+# DOI             : 10.1524/ract.1982.31.12.65
+# Quantity        : 244Cm(sf) cumulative fission product yield
+# REACTION        : 96-CM-244(0,F)ELEM/MASS,CUM,FY
+# File ID         : 0-Cm244-f-fyc-nucdis-mon-Raghuraman_1982_33066.002
+#
+# npts            : 2           
+# xmin            : 42099.9     
+# xmax            : 56140.9     
+# ymin            :   4.0300E-02
+# ymax            :   6.3000E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     42099.9  4.0300E-02  2.0000E-04
+     56140.9  6.3000E-02  1.0000E-03
+#---------------------------------------------------

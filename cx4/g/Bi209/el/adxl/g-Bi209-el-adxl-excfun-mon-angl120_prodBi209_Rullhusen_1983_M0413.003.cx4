@@ -1,0 +1,28 @@
+# EXFOR #         : M0413.003  
+# EXFOR Ver.      : 20161223
+# TRANS #         : M086
+# Author          : P.Rullhusen et al.
+# Reference       : Phys.Rev.C 27 (1983) 559
+# DOI             : 10.1103/PhysRevC.27.559
+# Quantity        : 209Bi(g,el)209Bi angular differential cross section
+# REACTION        : 83-BI-209(G,EL)83-BI-209,,DA
+# File ID         : g-Bi209-el-adxl-excfun-mon-angl120_prodBi209_Rullhusen_1983_m0413.003
+#
+# theta,lab (deg) :  120.0000000
+#
+# npts            : 5           
+# xmin            :   8.5330E+06
+# xmax            :   1.1388E+07
+# ymin            :   3.7000E-06
+# ymax            :   1.8900E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.5330E+06  0.0000E+00  3.7000E-06  2.6000E-06
+  8.8840E+06  0.0000E+00  4.2000E-06  1.7000E-06
+  8.9980E+06  0.0000E+00  9.6000E-06  1.3000E-06
+  9.7200E+06  0.0000E+00  1.4000E-05  4.2000E-06
+  1.1388E+07  0.0000E+00  1.8900E-04  4.7000E-05
+#---------------------------------------------------

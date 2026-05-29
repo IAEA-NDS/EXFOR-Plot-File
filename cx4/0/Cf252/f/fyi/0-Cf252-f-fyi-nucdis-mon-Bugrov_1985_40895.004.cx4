@@ -1,0 +1,25 @@
+# EXFOR #         : 40895.004  
+# EXFOR Ver.      : 20130222
+# TRANS #         : 4160
+# Author          : V.P.Bugrov et al.
+# Reference       : Yad.Reak.Konst. 1985 No.1 (1985) 66
+# DOI             : N/A
+# Quantity        : 252Cf(sf) independent fission product yield
+# REACTION        : 98-CF-252(0,F)ELEM/MASS,IND,FY
+# File ID         : 0-Cf252-f-fyi-nucdis-mon-Bugrov_1985_40895.004
+#
+# npts            : 4           
+# xmin            : 43108.9     
+# xmax            : 57144.9     
+# ymin            :   1.0000E-02
+# ymax            :   4.3000E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     43108.9  1.5000E-02  6.0000E-03
+     55140.9  4.3000E-02  1.2000E-02
+     56144.9  4.0000E-02  8.0000E-03
+     57144.9  1.0000E-02  4.0000E-03
+#---------------------------------------------------

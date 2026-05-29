@@ -1,0 +1,25 @@
+# EXFOR #         : F0454.003  
+# EXFOR Ver.      : 20031008
+# TRANS #         : 0000
+# Author          : R.A.Jarjis
+# Reference       : Nucl.Instrum.Meth.B 12 (1985) 331
+# DOI             : 10.1016/0168-583X(85)90030-8
+# Quantity        : 16O(a,el)16O angular differential cross section
+# REACTION        : 8-O-16(A,EL)8-O-16,,DA
+# File ID         : a-O16-el-adxl-angdisl-mon-einc3.042E+06_prodO16_Jarjis_1985_f0454.003
+#
+# Einc (eV)       :   3.0420E+06
+#
+# npts            : 2           
+# xmin            :  144.9000000
+# xmax            :  164.8000000
+# ymin            :   2.3860E-01
+# ymax            :   5.1430E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 144.9000000   0.0000000  2.3860E-01  8.5896E-03
+ 164.8000000   0.0000000  5.1430E-01  1.8515E-02
+#---------------------------------------------------

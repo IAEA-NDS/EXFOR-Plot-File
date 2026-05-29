@@ -1,0 +1,23 @@
+# EXFOR #         : D6021.007  
+# EXFOR Ver.      : 20260318
+# TRANS #         : D151
+# Author          : A.Navin et al.
+# Reference       : Phys.Rev.C 70 (2004) 044601
+# DOI             : 10.1103/PhysRevC.70.044601
+# Quantity        : 65Cu(a,x)66Cu independent production cross section
+# REACTION        : 29-CU-65(A,X)29-CU-66,,SIG
+# File ID         : a-Cu65-x-sig-excfun-mon-prodCu66_Navin_2004_d6021.007
+#
+# npts            : 2           
+# xmin            :   2.9966E+07
+# xmax            :   3.3939E+07
+# ymin            :   8.5950E-02
+# ymax            :   2.5950E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9966E+07  0.0000E+00  8.5950E-02  0.0000E+00
+  3.3939E+07  0.0000E+00  2.5950E-01  0.0000E+00
+#---------------------------------------------------

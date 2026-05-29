@@ -1,0 +1,22 @@
+# EXFOR #         : C2460.002  
+# EXFOR Ver.      : 20200329
+# TRANS #         : C199
+# Author          : M.Spieker et al.
+# Reference       : Phys.Rev.C 100 (2019) 061303
+# DOI             : 10.1103/PhysRevC.100.061303
+# Quantity        : 9Be(55Co,x)54Co independent production cross section
+# REACTION        : 4-BE-9(27-CO-55,X)27-CO-54,,SIG
+# File ID         : Co55-Be9-x-sig-excfun-mon-prodCo54_Spieker_2019_c2460.002
+#
+# npts            : 1           
+# xmin            :   8.8000E+09
+# xmax            :   8.8000E+09
+# ymin            :   3.9000E-02
+# ymax            :   3.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.8000E+09  0.0000E+00  3.9000E-02  4.0000E-04
+#---------------------------------------------------

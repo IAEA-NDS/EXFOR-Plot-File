@@ -1,0 +1,22 @@
+# EXFOR #         : B0114.004  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : B.Neumann et al.
+# Reference       : Nucl.Phys.A 329 (1979) 259
+# DOI             : 10.1016/0375-9474(79)90293-8
+# Quantity        : 209Bi(6Li,x)212mPo independent production cross section
+# REACTION        : 83-BI-209(3-LI-6,X)84-PO-212-M,IND,SIG,,,EXP
+# File ID         : Li6-Bi209-x-sig-excfun-mon-prodPo212m_Neumann_1979_b0114.004
+#
+# npts            : 1           
+# xmin            :   1.5600E+08
+# xmax            :   1.5600E+08
+# ymin            :   4.3000E-05
+# ymax            :   4.3000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5600E+08  0.0000E+00  4.3000E-05  8.0000E-06
+#---------------------------------------------------

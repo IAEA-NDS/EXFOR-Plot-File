@@ -1,0 +1,28 @@
+# EXFOR #         : C0198.002  
+# EXFOR Ver.      : 20070712
+# TRANS #         : C081
+# Author          : W.N.Lennard et al.
+# Reference       : Nucl.Instrum.Meth.B 43 (1989) 187
+# DOI             : 10.1016/0168-583X(89)90036-0
+# Quantity        : 16O(he3,p)18F partial angular differential cross section
+# REACTION        : 8-O-16(HE3,P)9-F-18,PAR,DA
+# File ID         : h-O16-p-adxl-angdisl-mon-einc2.392E+06_elvl9.370E+05_prodF18_Lennard_1989_c0198.002
+#
+# Einc (eV)       :   2.3920E+06
+# Elvl (eV)       :   9.3700E+05
+#
+# npts            : 4           
+# xmin            :   93.4000000
+# xmax            :  153.7000000
+# ymin            :   4.9600E-04
+# ymax            :   1.0800E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  93.4000000   1.2000000  4.9600E-04  1.9840E-05
+ 113.8000000   1.2000000  6.3200E-04  2.5280E-05
+ 133.9000000   1.2000000  8.6500E-04  3.4600E-05
+ 153.7000000   1.2000000  1.0800E-03  4.3200E-05
+#---------------------------------------------------

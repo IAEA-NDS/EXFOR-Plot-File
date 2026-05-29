@@ -1,0 +1,23 @@
+# EXFOR #         : A0202.002  
+# EXFOR Ver.      : 20160124
+# TRANS #         : A084
+# Author          : S.J.Nassiff et al.
+# Reference       : Radiochim.Acta 19 No.3 (1973) 97
+# DOI             : 10.1524/ract.1973.19.3.97
+# Quantity        : 66Zn(d,n)67Ga cross section
+# REACTION        : 30-ZN-66(D,N)31-GA-67,,SIG
+# File ID         : d-Zn66-n-sig-excfun-mon-prodGa67_Nassiff_1973_a0202.002
+#
+# npts            : 2           
+# xmin            :   6.9000E+06
+# xmax            :   8.8000E+06
+# ymin            :   2.2100E-01
+# ymax            :   2.2100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.9000E+06  0.0000E+00  2.2100E-01  0.0000E+00
+  8.8000E+06  0.0000E+00  2.2100E-01  0.0000E+00
+#---------------------------------------------------

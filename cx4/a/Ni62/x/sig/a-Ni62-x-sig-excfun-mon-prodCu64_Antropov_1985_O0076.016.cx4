@@ -1,0 +1,22 @@
+# EXFOR #         : O0076.016  
+# EXFOR Ver.      : 20190206
+# TRANS #         : O068
+# Author          : A.E.Antropov et al.
+# Reference       : Proceedings of 35.Conf.Nucl.Spectr.and Nucl.Struct.,Leningrad 1985 page 369
+# DOI             : N/A
+# Quantity        : 62Ni(a,x)64Cu independent production cross section
+# REACTION        : 28-NI-62(A,X)29-CU-64,,SIG
+# File ID         : a-Ni62-x-sig-excfun-mon-prodCu64_Antropov_1985_o0076.016
+#
+# npts            : 1           
+# xmin            :   2.4500E+07
+# xmax            :   2.4500E+07
+# ymin            :   5.4000E-01
+# ymax            :   5.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4500E+07  0.0000E+00  5.4000E-01  2.2000E-01
+#---------------------------------------------------

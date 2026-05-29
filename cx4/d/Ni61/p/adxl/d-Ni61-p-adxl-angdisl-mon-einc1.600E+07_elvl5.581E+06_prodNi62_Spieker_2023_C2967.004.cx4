@@ -1,0 +1,29 @@
+# EXFOR #         : C2967.004  
+# EXFOR Ver.      : 20241212
+# TRANS #         : C247
+# Author          : M.Spieker et al.
+# Reference       : Phys.Rev.C 108 (2023) 014311
+# DOI             : 10.1103/PhysRevC.108.014311
+# Quantity        : 61Ni(d,p)62Ni partial angular differential cross section
+# REACTION        : 28-NI-61(D,P)28-NI-62,PAR,DA
+# File ID         : d-Ni61-p-adxl-angdisl-mon-einc1.600E+07_elvl5.581E+06_prodNi62_Spieker_2023_c2967.004
+#
+# Einc (eV)       :   1.6000E+07
+# Elvl (eV)       :   5.5810E+06
+#
+# npts            : 5           
+# xmin            :   20.0000000
+# xmax            :   60.0000000
+# ymin            :   4.1000E-05
+# ymax            :   2.6300E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.0000000   0.0000000  2.6300E-04  7.9000E-05
+  30.0000000   0.0000000  4.7000E-05  1.1000E-05
+  40.0000000   0.0000000  7.1000E-05  2.7000E-05
+  50.0000000   0.0000000  6.2000E-05  2.0000E-05
+  60.0000000   0.0000000  4.1000E-05  7.0000E-06
+#---------------------------------------------------

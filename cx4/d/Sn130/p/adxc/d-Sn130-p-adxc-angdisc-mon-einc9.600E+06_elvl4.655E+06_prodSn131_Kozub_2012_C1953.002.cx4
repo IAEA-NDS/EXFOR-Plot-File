@@ -1,0 +1,29 @@
+# EXFOR #         : C1953.002  
+# EXFOR Ver.      : 20121102
+# TRANS #         : C124
+# Author          : R.L.Kozub et al.
+# Reference       : Phys.Rev.Lett. 109 (2012) 172501
+# DOI             : 10.1103/PhysRevLett.109.172501
+# Quantity        : 130Sn(d,p)131Sn partial angular differential cross section
+# REACTION        : 50-SN-130(D,P)50-SN-131,PAR,DA
+# File ID         : d-Sn130-p-adxc-angdisc-mon-einc9.600E+06_elvl4.655E+06_prodSn131_Kozub_2012_c1953.002
+#
+# Einc (eV)       :   9.6000E+06
+# Elvl (eV)       :   4.6550E+06
+#
+# npts            : 5           
+# xmin            :   28.0000000
+# xmax            :   59.4000000
+# ymin            :   4.6000E-03
+# ymax            :   5.9000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  28.0000000   0.0000000  5.5000E-03  7.0000E-04
+  32.0000000   0.0000000  4.6000E-03  6.0000E-04
+  46.9000000   0.0000000  5.5000E-03  9.0000E-04
+  52.9000000   0.0000000  5.9000E-03  8.0000E-04
+  59.4000000   0.0000000  5.1000E-03  8.0000E-04
+#---------------------------------------------------

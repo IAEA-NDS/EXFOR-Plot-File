@@ -1,0 +1,25 @@
+# EXFOR #         : C2020.004  
+# EXFOR Ver.      : 20160229
+# TRANS #         : C157
+# Author          : A.M.Vinodkumar et al.
+# Reference       : Phys.Rev.C 87 (2013) 044603
+# DOI             : 10.1103/PhysRevC.87.044603
+# Quantity        : 208Pb(11Li,x)214At independent production cross section
+# REACTION        : 82-PB-208(3-LI-11,X)85-AT-214,,SIG
+# File ID         : Li11-Pb208-x-sig-excfun-mon-prodAt214_Vinodkumar_2013_c2020.004
+#
+# npts            : 4           
+# xmin            :   2.8600E+07
+# xmax            :   3.9900E+07
+# ymin            :   1.2000E-02
+# ymax            :   2.4800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8600E+07  0.0000E+00  1.2000E-02  8.0000E-03
+  3.2700E+07  0.0000E+00  2.8000E-02  1.4000E-02
+  3.6500E+07  0.0000E+00  2.0900E-01  4.6000E-02
+  3.9900E+07  0.0000E+00  2.4800E-01  6.0000E-02
+#---------------------------------------------------

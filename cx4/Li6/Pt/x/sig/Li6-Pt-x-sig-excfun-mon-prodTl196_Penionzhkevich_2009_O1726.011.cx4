@@ -1,0 +1,24 @@
+# EXFOR #         : O1726.011  
+# EXFOR Ver.      : 20120614
+# TRANS #         : O048
+# Author          : Yu.E.Penionzhkevich et al.
+# Reference       : J.Phys.G 36 (2009) 025104
+# DOI             : 10.1088/0954-3899/36/2/025104
+# Quantity        : natPt(6Li,x)196Tl independent production cross section
+# REACTION        : 78-PT-0(3-LI-6,X)81-TL-196,,SIG
+# File ID         : Li6-Pt-x-sig-excfun-mon-prodTl196_Penionzhkevich_2009_o1726.011
+#
+# npts            : 3           
+# xmin            :   3.3970E+07
+# xmax            :   4.1460E+07
+# ymin            :   5.6000E-02
+# ymax            :   6.6500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.1460E+07  8.6000E+05  6.6500E-01  6.9000E-02
+  3.7840E+07  9.1000E+05  3.5400E-01  7.1000E-02
+  3.3970E+07  9.7000E+05  5.6000E-02  1.1000E-02
+#---------------------------------------------------

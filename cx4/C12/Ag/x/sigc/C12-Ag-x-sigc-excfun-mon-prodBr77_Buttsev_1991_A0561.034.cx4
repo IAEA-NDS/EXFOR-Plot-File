@@ -1,0 +1,22 @@
+# EXFOR #         : A0561.034  
+# EXFOR Ver.      : 20210312
+# TRANS #         : A097
+# Author          : V.S.Buttsev et al.
+# Reference       : Proceedings of 41.Conf.Nucl.Spectroscopy Nucl.Struct.,Minsk 1991 page 498
+# DOI             : N/A
+# Quantity        : natAg(12C,x)77Br cumulative production cross section
+# REACTION        : 47-AG-0(6-C-12,X)35-BR-77,CUM,SIG
+# File ID         : C12-Ag-x-sigc-excfun-mon-prodBr77_Buttsev_1991_a0561.034
+#
+# npts            : 1           
+# xmin            :   4.3800E+10
+# xmax            :   4.3800E+10
+# ymin            :   1.3400E-02
+# ymax            :   1.3400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3800E+10  0.0000E+00  1.3400E-02  1.8000E-03
+#---------------------------------------------------

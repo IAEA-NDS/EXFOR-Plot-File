@@ -1,0 +1,26 @@
+# EXFOR #         : O2307.015  
+# EXFOR Ver.      : 20160928
+# TRANS #         : O060
+# Author          : M.Toppi et al.
+# Reference       : Phys.Rev.C 93 (2016) 064601
+# DOI             : 10.1103/PhysRevC.93.064601
+# Quantity        : 197Au(12C,t+x) energy differential cross section
+# REACTION        : 79-AU-197(6-C-12,X)1-H-3,,DE
+# File ID         : C12-Au197-xt-edxl-enedisl-mon-einc4.800E+09_Toppi_2016_o2307.015
+#
+# Einc (eV)       :   4.8000E+09
+# dEinc (eV)      :   6.0000E+08
+#
+# npts            : 2           
+# xmin            :   7.8000E+09
+# xmax            :   9.0000E+09
+# ymin            :   4.0000E-11
+# ymax            :   4.2900E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   edx,lab     dedx,lab    
+#  eV          eV          b/eV        b/eV       
+#---------------------------------------------------
+  7.8000E+09  0.0000E+00  4.2900E-11  3.7500E-11
+  9.0000E+09  0.0000E+00  4.0000E-11  2.3600E-11
+#---------------------------------------------------

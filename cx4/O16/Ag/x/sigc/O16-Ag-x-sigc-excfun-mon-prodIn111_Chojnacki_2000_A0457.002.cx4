@@ -1,0 +1,25 @@
+# EXFOR #         : A0457.002  
+# EXFOR Ver.      : 20021209
+# TRANS #         : 0000
+# Author          : S.Chojnacki et al.
+# Reference       : Acta Phys.Pol.B 31 (2000) 693
+# DOI             : N/A
+# Quantity        : natAg(16O,x)111In cumulative production cross section
+# REACTION        : 47-AG-0(8-O-16,X)49-IN-111,CUM,SIG
+# File ID         : O16-Ag-x-sigc-excfun-mon-prodIn111_Chojnacki_2000_a0457.002
+#
+# npts            : 4           
+# xmin            :   5.6000E+07
+# xmax            :   8.0000E+07
+# ymin            :   6.4000E-06
+# ymax            :   1.8700E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.6000E+07  0.0000E+00  6.4000E-06  2.0000E-06
+  6.4300E+07  0.0000E+00  2.7800E-05  1.7000E-06
+  7.2100E+07  0.0000E+00  1.8700E-04  1.0000E-05
+  8.0000E+07  0.0000E+00  1.6000E-04  1.7000E-05
+#---------------------------------------------------

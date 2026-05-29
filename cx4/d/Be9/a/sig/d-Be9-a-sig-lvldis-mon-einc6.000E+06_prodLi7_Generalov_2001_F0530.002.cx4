@@ -1,0 +1,25 @@
+# EXFOR #         : F0530.002  
+# EXFOR Ver.      : 20051226
+# TRANS #         : F023
+# Author          : L.N.Generalov et al.
+# Reference       : Proceedings of Conf.Nucl.Spectrosc.Nucl.Struct.,Sarov, Russia,2001 page 187
+# DOI             : N/A
+# Quantity        : 9Be(d,a)7Li partial cross section
+# REACTION        : 4-BE-9(D,A)3-LI-7,PAR,SIG
+# File ID         : d-Be9-a-sig-lvldis-mon-einc6.000E+06_prodLi7_Generalov_2001_f0530.002
+#
+# Einc (eV)       :   6.0000E+06
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   4.7800E+05
+# ymin            :   1.3200E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  2.0000E-02  7.0000E-04
+  4.7800E+05  0.0000E+00  1.3200E-02  3.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : A0652.002  
+# EXFOR Ver.      : 20030715
+# TRANS #         : 0000
+# Author          : G.Roters et al.
+# Reference       : Eur.Phys.J.A 6 (1999) 451
+# DOI             : 10.1007/s100500050369
+# Quantity        : 12C(a,el)12C angular differential cross section
+# REACTION        : 6-C-12(A,EL)6-C-12,,DA,,RTH
+# File ID         : a-C12-el-adxl-angdisl-mon-einc4.343E+06_prodC12_Roters_1999_a0652.002
+#
+# Einc (eV)       :   4.3425E+06
+#
+# npts            : 2           
+# xmin            :   45.0000000
+# xmax            :   75.0000000
+# ymin            :   5.3028E-02
+# ymax            :   4.2234E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  45.0000000   0.0000000  4.2234E-01  0.0000E+00
+  75.0000000   0.0000000  5.3028E-02  0.0000E+00
+#---------------------------------------------------

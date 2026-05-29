@@ -1,0 +1,24 @@
+# EXFOR #         : C3088.002  
+# EXFOR Ver.      : 20251205
+# TRANS #         : C253
+# Author          : J.Bishop et al.
+# Reference       : Phys.Rev.C 112 (2025) 054318
+# DOI             : 10.1103/phgw-fxym
+# Quantity        : 10C(a,el)10C angular differential cross section
+# REACTION        : 6-C-10(A,EL)6-C-10,,DA
+# File ID         : a-C10-el-adxc-angdisc-mon-einc3.249E+06_prodC10_Bishop_2025_c3088.002
+#
+# Einc (eV)       :   3.2493E+06
+#
+# npts            : 1           
+# xmin            :  153.1700000
+# xmax            :  153.1700000
+# ymin            :   3.9052E-02
+# ymax            :   3.9052E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 153.1700000   0.0000000  3.9052E-02  8.3558E-03
+#---------------------------------------------------

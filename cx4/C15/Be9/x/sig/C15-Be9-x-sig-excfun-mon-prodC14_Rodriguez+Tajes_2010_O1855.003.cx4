@@ -1,0 +1,22 @@
+# EXFOR #         : O1855.003  
+# EXFOR Ver.      : 20220117
+# TRANS #         : O087
+# Author          : C.Rodriguez-Tajes et al.
+# Reference       : Phys.Rev.C 82 (2010) 024305
+# DOI             : 10.1103/PhysRevC.82.024305
+# Quantity        : 9Be(15C,x)14C independent production cross section
+# REACTION        : 4-BE-9(6-C-15,X)6-C-14,,SIG
+# File ID         : C15-Be9-x-sig-excfun-mon-prodC14_Rodriguez+Tajes_2010_o1855.003
+#
+# npts            : 1           
+# xmin            :   1.0500E+10
+# xmax            :   1.0500E+10
+# ymin            :   2.1700E-01
+# ymax            :   2.1700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0500E+10  0.0000E+00  2.1700E-01  2.3000E-02
+#---------------------------------------------------

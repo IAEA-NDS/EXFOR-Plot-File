@@ -1,0 +1,28 @@
+# EXFOR #         : C1116.005  
+# EXFOR Ver.      : 20171113
+# TRANS #         : C171
+# Author          : M.D.Glascock et al.
+# Reference       : Nucl.Phys.A 329 (1979) 73
+# DOI             : 10.1016/0375-9474(79)90281-1
+# Quantity        : 232Th(a,x) cumulative production cross section
+# REACTION        : 90-TH-232(A,X)ELEM/MASS,(CUM),SIG
+# File ID         : a-Th232-x-sigc-nucdis-mon-einc1.400E+08_Glascock_1979_c1116.005
+#
+# Einc (eV)       :   1.4000E+08
+#
+# npts            : 5           
+# xmin            : 89228.9     
+# xmax            : 91234.9     
+# ymin            :   7.0000E-04
+# ymax            :   9.9000E-03
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     89228.9  4.5000E-03  4.0000E-04
+     89229.9  3.0000E-03  1.2000E-03
+     89231.9  2.6000E-03  2.0000E-04
+     90232.9  9.9000E-03  9.0000E-04
+     91234.9  7.0000E-04  1.0000E-04
+#---------------------------------------------------

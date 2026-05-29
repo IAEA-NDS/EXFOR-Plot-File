@@ -1,0 +1,24 @@
+# EXFOR #         : O1238.006  
+# EXFOR Ver.      : 20201021
+# TRANS #         : O081
+# Author          : M.Afzal Ansari et al.
+# Reference       : Int.J.Mod.Phys.E 13 (2004) 585
+# DOI             : 10.1142/S0218301304002405
+# Quantity        : 59Co(a,x)60Co independent production cross section
+# REACTION        : 27-CO-59(A,X)27-CO-60,,SIG
+# File ID         : a-Co59-x-sig-excfun-mon-prodCo60_Afzal%Ansari_2004_o1238.006
+#
+# npts            : 3           
+# xmin            :   3.9520E+07
+# xmax            :   4.9460E+07
+# ymin            :   2.4490E-02
+# ymax            :   3.3200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9520E+07  8.2000E+05  2.4490E-02  5.9400E-03
+  4.4310E+07  7.8000E+05  3.3200E-02  1.4510E-02
+  4.9460E+07  7.4000E+05  3.0540E-02  8.4500E-03
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : C1304.002  
+# EXFOR Ver.      : 20050809
+# TRANS #         : C075
+# Author          : J.D.Zumbro et al.
+# Reference       : Phys.Rev.C 26 (1982) 965
+# DOI             : 10.1103/PhysRevC.26.965
+# Quantity        : 176Yb(t,p)178Yb partial angular differential cross section
+# REACTION        : 70-YB-176(T,P)70-YB-178,PAR,DA
+# File ID         : t-Yb176-p-adxc-angdisc-mon-einc1.500E+07_elvl2.996E+06_prodYb178_Zumbro_1982_c1304.002
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   2.9960E+06
+#
+# npts            : 5           
+# xmin            :   12.1000000
+# xmax            :   72.4000000
+# ymin            :   7.3200E-06
+# ymax            :   1.3600E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.1000000   0.0000000  1.1900E-05  0.0000E+00
+  34.9000000   0.0000000  1.3600E-05  0.0000E+00
+  49.7000000   0.0000000  1.0700E-05  0.0000E+00
+  64.8000000   0.0000000  8.9500E-06  1.1100E-06
+  72.4000000   0.0000000  7.3200E-06  1.1900E-06
+#---------------------------------------------------

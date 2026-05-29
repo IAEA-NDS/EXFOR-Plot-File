@@ -1,0 +1,23 @@
+# EXFOR #         : D8069.023  
+# EXFOR Ver.      : 20240919
+# TRANS #         : D144
+# Author          : J.Galin et al.
+# Reference       : Phys.Rev.C 9 (1974) 1113
+# DOI             : 10.1103/PhysRevC.9.1113
+# Quantity        : 77Se(40Ar,p+x) cross section
+# REACTION        : 34-SE-77(18-AR-40,X)1-H-1,,SIG
+# File ID         : Ar40-Se77-xp-sig-excfun-mon-Galin_1974_d8069.023
+#
+# npts            : 2           
+# xmin            :   1.4594E+08
+# xmax            :   2.0070E+08
+# ymin            :   4.1000E-01
+# ymax            :   1.0900E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4594E+08  0.0000E+00  4.1000E-01  6.0000E-02
+  2.0070E+08  0.0000E+00  1.0900E+00  1.1000E-01
+#---------------------------------------------------

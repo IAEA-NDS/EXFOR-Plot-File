@@ -1,0 +1,27 @@
+# EXFOR #         : A1499.003  
+# EXFOR Ver.      : 20110819
+# TRANS #         : A074
+# Author          : J.R.Erskine et al.
+# Reference       : Phys.Rev. 123 No.3 (1961) 958
+# DOI             : 10.1103/PhysRev.123.958
+# Quantity        : 10B(d,a)8Be partial angular differential cross section
+# REACTION        : 5-B-10(D,A)4-BE-8,PAR,DA
+# File ID         : d-B10-a-adxl-angdisl-mon-einc4.000E+06_elvl1.692E+07_prodBe8_Erskine_1961_a1499.003
+#
+# Einc (eV)       :   4.0000E+06
+# Elvl (eV)       :   1.6920E+07
+#
+# npts            : 3           
+# xmin            :   35.0000000
+# xmax            :   70.0000000
+# ymin            :   3.4000E-04
+# ymax            :   8.4000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  35.0000000   0.0000000  8.4000E-04  2.3000E-04
+  50.0000000   0.0000000  5.0000E-04  1.7000E-04
+  70.0000000   0.0000000  3.4000E-04  1.3000E-04
+#---------------------------------------------------

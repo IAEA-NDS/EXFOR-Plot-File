@@ -1,0 +1,25 @@
+# EXFOR #         : C0400.005  
+# EXFOR Ver.      : 20171029
+# TRANS #         : C169
+# Author          : G.V.S.Rayudu et al.
+# Reference       : Can.J.Chem. 41 (1963) 2544
+# DOI             : 10.1139/v63-374
+# Quantity        : 165Ho(a,x) independent production cross section
+# REACTION        : 67-HO-165(A,X)ELEM/MASS,,SIG
+# File ID         : a-Ho165-x-sig-nucdis-mon-einc2.000E+07_Rayudu_1963_c0400.005
+#
+# Einc (eV)       :   2.0000E+07
+#
+# npts            : 2           
+# xmin            : 69167.9     
+# xmax            : 69168.9     
+# ymin            :   2.5000E-02
+# ymax            :   3.9000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     69167.9  2.5000E-02  3.7500E-03
+     69168.9  3.9000E-02  5.8500E-03
+#---------------------------------------------------

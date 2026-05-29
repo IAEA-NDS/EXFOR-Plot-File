@@ -1,0 +1,24 @@
+# EXFOR #         : D6136.004  
+# EXFOR Ver.      : 20120430
+# TRANS #         : D083
+# Author          : K.Banerjee et al.
+# Reference       : Phys.Rev.C 83 (2011) 024605
+# DOI             : 10.1103/PhysRevC.83.024605
+# Quantity        : 238U(16O,f) total fission neutron multiplicity
+# REACTION        : 92-U-238(8-O-16,F),,NU
+# File ID         : O16-U238-f-nut-excfun-mon-Banerjee_2011_d6136.004
+#
+# npts            : 3           
+# xmin            :   8.5000E+07
+# xmax            :   1.0000E+08
+# ymin            :   2.4600E+00
+# ymax            :   4.4200E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-t        dnu-t       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  4.4200E+00  4.2426E-01
+  8.9000E+07  0.0000E+00  3.6200E+00  2.0616E-01
+  8.5000E+07  0.0000E+00  2.4600E+00  5.1962E-01
+#---------------------------------------------------

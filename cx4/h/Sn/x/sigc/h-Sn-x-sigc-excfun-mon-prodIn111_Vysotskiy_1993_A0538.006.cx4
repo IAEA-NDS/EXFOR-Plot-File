@@ -1,0 +1,26 @@
+# EXFOR #         : A0538.006  
+# EXFOR Ver.      : 20250629
+# TRANS #         : A121
+# Author          : O.N.Vysotskiy et al.
+# Reference       : Proceedings of 43.Int.Conf.Nucl.Spectrosc.Nucl.Struct.,Dubna 1993 page 257
+# DOI             : N/A
+# Quantity        : natSn(he3,x)111In cumulative production cross section
+# REACTION        : 50-SN-0(HE3,X)49-IN-111,CUM,SIG
+# File ID         : h-Sn-x-sigc-excfun-mon-prodIn111_Vysotskiy_1993_a0538.006
+#
+# npts            : 5           
+# xmin            :   4.2000E+07
+# xmax            :   9.4000E+07
+# ymin            :   7.9000E-03
+# ymax            :   7.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.4000E+07  0.0000E+00  7.8000E-02  1.2000E-02
+  7.9000E+07  0.0000E+00  5.7000E-02  9.0000E-03
+  6.0000E+07  0.0000E+00  3.0000E-02  5.0000E-03
+  5.1000E+07  0.0000E+00  2.0000E-02  3.0000E-03
+  4.2000E+07  0.0000E+00  7.9000E-03  1.1000E-03
+#---------------------------------------------------

@@ -1,0 +1,30 @@
+# EXFOR #         : C2823.004  
+# EXFOR Ver.      : 20221003
+# TRANS #         : C229
+# Author          : S.M.Grimes et al.
+# Reference       : Phys.Rev.C 3 (1971) 645
+# DOI             : 10.1103/PhysRevC.3.645
+# Quantity        : 56Fe(a,n)59Ni partial angular differential cross section
+# REACTION        : 26-FE-56(A,N)28-NI-59,PAR,DA
+# File ID         : a-Fe56-n-adxc-angdisc-mon-einc1.250E+07_elvl1.825E+06_prodNi59_Grimes_1971_c2823.004
+#
+# Einc (eV)       :   1.2500E+07
+# Elvl (eV)       :   1.8250E+06
+# dElvl (eV)      :   1.3500E+05
+#
+# npts            : 5           
+# xmin            :   19.9484400
+# xmax            :  136.3857000
+# ymin            :   1.1750E-03
+# ymax            :   1.5220E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 136.3857000   0.0000000  1.4000E-03  1.0750E-04
+ 108.3608000   0.0000000  1.2690E-03  1.0190E-04
+  78.9304700   0.0000000  1.1750E-03  8.7020E-05
+  49.0044800   0.0000000  1.2690E-03  9.4280E-05
+  19.9484400   0.0000000  1.5220E-03  1.2200E-04
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : M0425.004  
+# EXFOR Ver.      : 20130621
+# TRANS #         : M068
+# Author          : J.L.Matthews et al.
+# Reference       : Nucl.Phys.A 267 (1976) 51
+# DOI             : 10.1016/0375-9474(76)90643-6
+# Quantity        : 9Be(g,p)8Li partial angular differential cross section
+# REACTION        : 4-BE-9(G,P)3-LI-8,PAR,DA,,BRS
+# File ID         : g-Be9-p-adxl-excfun-brs-angl45_elvl4.500E+06_prodLi8_Matthews_1976_m0425.004
+#
+# theta,lab (deg) :   45.0000000
+# Elvl (eV)       :   4.5000E+06
+# dElvl (eV)      :   4.5000E+06
+#
+# npts            : 1           
+# xmin            :   6.0000E+07
+# xmax            :   6.0000E+07
+# ymin            :   3.1800E-05
+# ymax            :   3.1800E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.0000E+07  1.0000E+06  3.1800E-05  3.0000E-06
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : M0416.002  
+# EXFOR Ver.      : 20160905
+# TRANS #         : M084
+# Author          : P.Rullhusen et al.
+# Reference       : Nucl.Phys.A 382 (1982) 79
+# DOI             : 10.1016/0375-9474(82)90442-0
+# Quantity        : 238U(g,el)238U angular differential cross section
+# REACTION        : 92-U-238(G,EL)92-U-238,,DA
+# File ID         : g-U238-el-adxl-excfun-mon-angl60_prodU238_Rullhusen_1982_m0416.002
+#
+# theta,lab (deg) :   60.0000000
+#
+# npts            : 2           
+# xmin            :   2.7523E+06
+# xmax            :   8.9980E+06
+# ymin            :   5.5000E-05
+# ymax            :   7.3000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.7523E+06  0.0000E+00  7.3000E-05  6.0000E-06
+  8.9980E+06  0.0000E+00  5.5000E-05  8.0000E-07
+#---------------------------------------------------

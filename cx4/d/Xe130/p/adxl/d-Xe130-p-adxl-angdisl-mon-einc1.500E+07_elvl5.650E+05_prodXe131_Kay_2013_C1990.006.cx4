@@ -1,0 +1,26 @@
+# EXFOR #         : C1990.006  
+# EXFOR Ver.      : 20130403
+# TRANS #         : C131
+# Author          : B.P.Kay et al.
+# Reference       : Phys.Rev.C 87 (2013) 011302
+# DOI             : 10.1103/PhysRevC.87.011302
+# Quantity        : 130Xe(d,p)131Xe partial angular differential cross section
+# REACTION        : 54-XE-130(D,P)54-XE-131,PAR,DA
+# File ID         : d-Xe130-p-adxl-angdisl-mon-einc1.500E+07_elvl5.650E+05_prodXe131_Kay_2013_c1990.006
+#
+# Einc (eV)       :   1.5000E+07
+# dEinc (eV)      :   6.0000E+04
+# Elvl (eV)       :   5.6500E+05
+#
+# npts            : 1           
+# xmin            :    5.0000000
+# xmax            :    5.0000000
+# ymin            :   4.3000E-05
+# ymax            :   4.3000E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0000000   0.0000000  4.3000E-05  0.0000E+00
+#---------------------------------------------------

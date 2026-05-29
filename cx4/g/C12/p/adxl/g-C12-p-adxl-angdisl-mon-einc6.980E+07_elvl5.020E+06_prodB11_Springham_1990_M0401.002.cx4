@@ -1,0 +1,29 @@
+# EXFOR #         : M0401.002  
+# EXFOR Ver.      : 20161222
+# TRANS #         : M086
+# Author          : S.V.Springham et al.
+# Reference       : Nucl.Phys.A 517 (1990) 93
+# DOI             : 10.1016/0375-9474(90)90262-K
+# Quantity        : 12C(g,p)11B partial angular differential cross section
+# REACTION        : 6-C-12(G,P)5-B-11,PAR,DA
+# File ID         : g-C12-p-adxl-angdisl-mon-einc6.980E+07_elvl5.020E+06_prodB11_Springham_1990_m0401.002
+#
+# Einc (eV)       :   6.9800E+07
+# Elvl (eV)       :   5.0200E+06
+#
+# npts            : 5           
+# xmin            :   64.9000000
+# xmax            :  100.5000000
+# ymin            :   9.0000E-07
+# ymax            :   2.8000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  64.9000000   0.0000000  2.8000E-06  1.3000E-06
+  70.2000000   0.0000000  1.9000E-06  6.0000E-07
+  79.5000000   0.0000000  9.0000E-07  4.0000E-07
+  90.0000000   0.0000000  1.1500E-06  3.0000E-07
+ 100.5000000   0.0000000  9.0000E-07  4.0000E-07
+#---------------------------------------------------

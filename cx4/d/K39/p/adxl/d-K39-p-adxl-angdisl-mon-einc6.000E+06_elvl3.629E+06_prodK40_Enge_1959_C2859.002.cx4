@@ -1,0 +1,26 @@
+# EXFOR #         : C2859.002  
+# EXFOR Ver.      : 20221118
+# TRANS #         : C226
+# Author          : H.A.Enge et al.
+# Reference       : Phys.Rev. 115 (1959) 949
+# DOI             : 10.1103/PhysRev.115.949
+# Quantity        : 39K(d,p)40K partial angular differential cross section
+# REACTION        : 19-K-39(D,P)19-K-40,PAR,DA
+# File ID         : d-K39-p-adxl-angdisl-mon-einc6.000E+06_elvl3.629E+06_prodK40_Enge_1959_c2859.002
+#
+# Einc (eV)       :   6.0000E+06
+# Elvl (eV)       :   3.6290E+06
+# dElvl (eV)      :   8.0000E+03
+#
+# npts            : 1           
+# xmin            :   22.0000000
+# xmax            :   22.0000000
+# ymin            :   2.6200E-03
+# ymax            :   2.6200E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  22.0000000   0.0000000  2.6200E-03  7.8600E-04
+#---------------------------------------------------

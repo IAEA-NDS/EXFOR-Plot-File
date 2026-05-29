@@ -1,0 +1,26 @@
+# EXFOR #         : C3046.002  
+# EXFOR Ver.      : 20250228
+# TRANS #         : C249
+# Author          : S.N.Paneru
+# Reference       : Phys.Rev.C 110 (2024) 044603
+# DOI             : 10.1103/PhysRevC.110.044603
+# Quantity        : 12C(d,p)13C partial angular differential cross section
+# REACTION        : 6-C-12(D,P)6-C-13,PAR,DA
+# File ID         : d-C12-p-adxc-angdisc-mon-einc3.000E+06_elvl0.000E+00_prodC13_Paneru_2024_c3046.002
+#
+# Einc (eV)       :   3.0000E+06
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :   47.9800000
+# xmax            :  138.2300000
+# ymin            :   1.3370E-02
+# ymax            :   1.7340E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  47.9800000   0.0000000  1.7340E-02  6.1000E-04
+ 138.2300000   0.0000000  1.3370E-02  4.7000E-04
+#---------------------------------------------------

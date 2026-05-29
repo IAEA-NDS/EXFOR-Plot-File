@@ -1,0 +1,24 @@
+# EXFOR #         : C0193.004  
+# EXFOR Ver.      : 19981102
+# TRANS #         : 0000
+# Author          : J.A.Davies et al.
+# Reference       : Nucl.Intrum.Meth. 168 (1980) 611
+# DOI             : 10.1016/0029-554X(80)91319-1
+# Quantity        : 2H(he3,p)4He angular differential cross section
+# REACTION        : 1-H-2(HE3,P)2-HE-4,,DA
+# File ID         : h-H2-p-adxl-excfun-mon-angl150_prodHe4_Davies_1980_c0193.004
+#
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 1           
+# xmin            :   7.5000E+05
+# xmax            :   7.5000E+05
+# ymin            :   5.4500E-02
+# ymax            :   5.4500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.5000E+05  0.0000E+00  5.4500E-02  1.7000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C0038.004  
+# EXFOR Ver.      : 20020213
+# TRANS #         : 0000
+# Author          : J.E.Brolley Jr et al.
+# Reference       : Phys.Rev. 82 (1951) 502
+# DOI             : 10.1103/PhysRev.82.502
+# Quantity        : 3H(d,n)4He cross section
+# REACTION        : 1-H-3(D,N)2-HE-4,,SIG
+# File ID         : d-H3-n-sig-excfun-mon-prodHe4_Brolley%Jr_1951_c0038.004
+#
+# npts            : 1           
+# xmin            :   1.0500E+07
+# xmax            :   1.0500E+07
+# ymin            :   4.8000E-02
+# ymax            :   4.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0500E+07  3.0000E+05  4.8000E-02  6.0000E-03
+#---------------------------------------------------

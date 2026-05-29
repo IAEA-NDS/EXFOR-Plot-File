@@ -1,0 +1,24 @@
+# EXFOR #         : A0355.011  
+# EXFOR Ver.      : 20240909
+# TRANS #         : A117
+# Author          : K.Sueki et al.
+# Reference       : Radiochim.Acta 38 (1985) 117
+# DOI             : 10.1524/ract.1985.38.3.117
+# Quantity        : 62Ni(14N,x)44mSc independent production cross section
+# REACTION        : 28-NI-62(7-N-14,X)21-SC-44-M,,SIG
+# File ID         : N14-Ni62-x-sig-excfun-mon-prodSc44m_Sueki_1985_a0355.011
+#
+# npts            : 3           
+# xmin            :   9.7500E+07
+# xmax            :   1.2200E+08
+# ymin            :   2.4100E-05
+# ymax            :   2.4900E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.7500E+07  0.0000E+00  2.4100E-05  0.0000E+00
+  1.0600E+08  0.0000E+00  5.1700E-05  0.0000E+00
+  1.2200E+08  0.0000E+00  2.4900E-04  0.0000E+00
+#---------------------------------------------------

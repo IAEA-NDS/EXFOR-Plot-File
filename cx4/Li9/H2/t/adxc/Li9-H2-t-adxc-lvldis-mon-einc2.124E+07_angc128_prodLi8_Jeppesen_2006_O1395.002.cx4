@@ -1,0 +1,26 @@
+# EXFOR #         : O1395.002  
+# EXFOR Ver.      : 20060529
+# TRANS #         : O026
+# Author          : H.B.Jeppesen et al.
+# Reference       : Phys.Lett.B 635 (2006) 17
+# DOI             : 10.1016/j.physletb.2006.02.034
+# Quantity        : 2H(9Li,t)8Li partial angular differential cross section
+# REACTION        : 1-H-2(3-LI-9,T)3-LI-8,PAR,DA
+# File ID         : Li9-H2-t-adxc-lvldis-mon-einc2.124E+07_angc128_prodLi8_Jeppesen_2006_o1395.002
+#
+# Einc (eV)       :   2.1240E+07
+# theta,cm (deg)  :  127.8000000
+# dtheta,cm (deg) :    3.0000000
+#
+# npts            : 1           
+# xmin            :   9.8000E+05
+# xmax            :   9.8000E+05
+# ymin            :   1.1000E-02
+# ymax            :   1.1000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.8000E+05  0.0000E+00  1.1000E-02  6.0000E-03
+#---------------------------------------------------

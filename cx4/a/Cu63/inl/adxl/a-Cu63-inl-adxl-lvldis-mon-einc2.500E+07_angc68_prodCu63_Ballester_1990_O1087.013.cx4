@@ -1,0 +1,26 @@
+# EXFOR #         : O1087.013  
+# EXFOR Ver.      : 20040331
+# TRANS #         : 0000
+# Author          : F.Ballester et al.
+# Reference       : Nucl.Phys.A 513 (1990) 61
+# DOI             : 10.1016/0375-9474(90)90343-K
+# Quantity        : 63Cu(a,inl)63Cu partial angular differential cross section
+# REACTION        : 29-CU-63(A,INL)29-CU-63,PAR,DA
+# File ID         : a-Cu63-inl-adxl-lvldis-mon-einc2.500E+07_angc68_prodCu63_Ballester_1990_o1087.013
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   1.2500E+05
+# theta,cm (deg)  :   68.2000000
+#
+# npts            : 1           
+# xmin            :   6.7000E+05
+# xmax            :   6.7000E+05
+# ymin            :   3.1600E-05
+# ymax            :   3.1600E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.7000E+05  0.0000E+00  3.1600E-05  0.0000E+00
+#---------------------------------------------------

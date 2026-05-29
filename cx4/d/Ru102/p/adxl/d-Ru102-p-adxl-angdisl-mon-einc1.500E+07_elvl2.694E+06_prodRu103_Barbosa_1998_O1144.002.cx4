@@ -1,0 +1,29 @@
+# EXFOR #         : O1144.002  
+# EXFOR Ver.      : 20040317
+# TRANS #         : 0000
+# Author          : M.D.L.Barbosa et al.
+# Reference       : Phys.Rev.C 58 (1998) 2689
+# DOI             : 10.1103/PhysRevC.58.2689
+# Quantity        : 102Ru(d,p)103Ru partial angular differential cross section
+# REACTION        : 44-RU-102(D,P)44-RU-103,PAR,DA
+# File ID         : d-Ru102-p-adxl-angdisl-mon-einc1.500E+07_elvl2.694E+06_prodRu103_Barbosa_1998_o1144.002
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   2.6940E+06
+#
+# npts            : 5           
+# xmin            :   18.0000000
+# xmax            :   45.0000000
+# ymin            :   5.4000E-05
+# ymax            :   1.7600E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  18.0000000   0.0000000  1.7600E-04  5.2000E-05
+  24.0000000   0.0000000  5.9000E-05  2.7000E-05
+  28.0000000   0.0000000  7.4000E-05  3.0000E-05
+  34.0000000   0.0000000  5.6000E-05  2.0000E-05
+  45.0000000   0.0000000  5.4000E-05  1.5000E-05
+#---------------------------------------------------

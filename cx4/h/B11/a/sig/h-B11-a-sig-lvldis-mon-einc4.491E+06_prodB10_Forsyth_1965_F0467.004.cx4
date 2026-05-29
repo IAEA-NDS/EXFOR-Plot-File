@@ -1,0 +1,25 @@
+# EXFOR #         : F0467.004  
+# EXFOR Ver.      : 20010205
+# TRANS #         : 0000
+# Author          : P.D.Forsyth et al.
+# Reference       : Nucl.Phys. 66 (1965) 376
+# DOI             : 10.1016/0029-5582(65)90186-0
+# Quantity        : 11B(he3,a)10B partial cross section
+# REACTION        : 5-B-11(HE3,A)5-B-10,PAR,SIG
+# File ID         : h-B11-a-sig-lvldis-mon-einc4.491E+06_prodB10_Forsyth_1965_f0467.004
+#
+# Einc (eV)       :   4.4910E+06
+# dEinc (eV)      :   2.0000E+03
+#
+# npts            : 1           
+# xmin            :   1.7400E+06
+# xmax            :   1.7400E+06
+# ymin            :   3.9170E-03
+# ymax            :   3.9170E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7400E+06  0.0000E+00  3.9170E-03  5.8755E-04
+#---------------------------------------------------

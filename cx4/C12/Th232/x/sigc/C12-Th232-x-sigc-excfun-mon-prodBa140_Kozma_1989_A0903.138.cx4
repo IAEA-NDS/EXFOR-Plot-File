@@ -1,0 +1,22 @@
+# EXFOR #         : A0903.138  
+# EXFOR Ver.      : 20111201
+# TRANS #         : A075
+# Author          : P.Kozma et al.
+# Reference       : Report JINR-E1-89-482, 1989
+# DOI             : N/A
+# Quantity        : 232Th(12C,x)140Ba cumulative production cross section
+# REACTION        : 90-TH-232(6-C-12,X)56-BA-140,CUM,SIG
+# File ID         : C12-Th232-x-sigc-excfun-mon-prodBa140_Kozma_1989_a0903.138
+#
+# npts            : 1           
+# xmin            :   4.3800E+10
+# xmax            :   4.3800E+10
+# ymin            :   1.5000E-02
+# ymax            :   1.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3800E+10  0.0000E+00  1.5000E-02  1.0000E-03
+#---------------------------------------------------

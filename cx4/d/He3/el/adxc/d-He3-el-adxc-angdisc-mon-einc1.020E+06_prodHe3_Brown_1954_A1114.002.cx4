@@ -1,0 +1,25 @@
+# EXFOR #         : A1114.002  
+# EXFOR Ver.      : 20240709
+# TRANS #         : A113
+# Author          : R.J.S.Brown et al.
+# Reference       : Phys.Rev. 96 (1954) 80
+# DOI             : 10.1103/PhysRev.96.80
+# Quantity        : 3He(d,el)3He angular differential cross section
+# REACTION        : 2-HE-3(D,EL)2-HE-3,,DA
+# File ID         : d-He3-el-adxc-angdisc-mon-einc1.020E+06_prodHe3_Brown_1954_a1114.002
+#
+# Einc (eV)       :   1.0200E+06
+#
+# npts            : 2           
+# xmin            :   45.2500000
+# xmax            :   54.7300000
+# ymin            :   2.2600E-01
+# ymax            :   4.0600E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  45.2500000   0.0000000  4.0600E-01  2.4360E-02
+  54.7300000   0.0000000  2.2600E-01  9.0400E-03
+#---------------------------------------------------

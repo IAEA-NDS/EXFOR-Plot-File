@@ -1,0 +1,24 @@
+# EXFOR #         : F0052.005  
+# EXFOR Ver.      : 20200130
+# TRANS #         : F074
+# Author          : O.V.Bochkarev et al.
+# Reference       : Proceedings of 6.All-Union Conf.on Neutron Physics,Kiev,2-6 Oct.1983 3 page 116
+# DOI             : N/A
+# Quantity        : 7Li(a,n)10B partial cross section
+# REACTION        : 3-LI-7(A,N)5-B-10,PAR,SIG
+# File ID         : a-Li7-n-sig-excfun-mon-elvl2.150E+06_prodB10_Bochkarev_1983_f0052.005
+#
+# Elvl (eV)       :   2.1500E+06
+#
+# npts            : 1           
+# xmin            :   1.1200E+07
+# xmax            :   1.1200E+07
+# ymin            :   3.5000E-02
+# ymax            :   3.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1200E+07  0.0000E+00  3.5000E-02  1.5000E-02
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : D4104.019  
+# EXFOR Ver.      : 20210929
+# TRANS #         : D132
+# Author          : R.L.Wilson et al.
+# Reference       : Phys.Rev.C 13 (1976) 976
+# DOI             : 10.1103/PhysRevC.13.976
+# Quantity        : natMg(d,x)25Al independent production cross section
+# REACTION        : 12-MG-0(D,X)13-AL-25,,SIG
+# File ID         : d-Mg-x-sig-excfun-mon-prodAl25_Wilson_1976_d4104.019
+#
+# npts            : 3           
+# xmin            :   6.4000E+06
+# xmax            :   1.6750E+07
+# ymin            :   6.5000E-02
+# ymax            :   2.9000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.4000E+06  1.2000E+06  2.9000E-01  1.3100E-01
+  1.2500E+07  7.0000E+05  1.7800E-01  2.0000E-02
+  1.6750E+07  5.5000E+05  6.5000E-02  8.0000E-03
+#---------------------------------------------------

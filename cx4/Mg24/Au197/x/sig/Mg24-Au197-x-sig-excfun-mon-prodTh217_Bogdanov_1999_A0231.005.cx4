@@ -1,0 +1,25 @@
+# EXFOR #         : A0231.005  
+# EXFOR Ver.      : 20220401
+# TRANS #         : A100
+# Author          : D.D.Bogdanov et al.
+# Reference       : Yad.Fiz. 62 (1999) 1931
+# DOI             : N/A
+# Quantity        : 197Au(24Mg,x)217Th independent production cross section
+# REACTION        : 79-AU-197(12-MG-24,X)90-TH-217,,SIG
+# File ID         : Mg24-Au197-x-sig-excfun-mon-prodTh217_Bogdanov_1999_a0231.005
+#
+# npts            : 4           
+# xmin            :   4.0500E+07
+# xmax            :   5.8000E+07
+# ymin            :   2.0000E-07
+# ymax            :   2.8000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0500E+07  6.0750E+05  2.6000E-06  1.0400E-06
+  4.7000E+07  7.0500E+05  2.8000E-06  1.1200E-06
+  5.2000E+07  7.8000E+05  1.2000E-06  4.8000E-07
+  5.8000E+07  8.7000E+05  2.0000E-07  8.0000E-08
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : C3079.002  
+# EXFOR Ver.      : 20250825
+# TRANS #         : C252
+# Author          : J.Chen et al.
+# Reference       : Phys.Lett.B 853 (2024) 138678
+# DOI             : 10.1016/j.physletb.2024.138678
+# Quantity        : 32Si(d,p)33Si partial angular differential cross section
+# REACTION        : 14-SI-32(D,P)14-SI-33,PAR,DA
+# File ID         : d-Si32-p-adxc-angdisc-mon-einc1.660E+07_elvl0.000E+00_prodSi33_Chen_2024_c3079.002
+#
+# Einc (eV)       :   1.6600E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :   14.5000000
+# xmax            :   30.2000000
+# ymin            :   1.8625E-03
+# ymax            :   4.7301E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  14.5000000   0.0000000  4.7301E-03  1.1825E-03
+  18.8000000   0.0000000  4.6119E-03  9.0447E-04
+  23.1000000   0.0000000  2.6607E-03  6.8699E-04
+  25.9000000   0.0000000  2.6607E-03  6.8699E-04
+  30.2000000   0.0000000  1.8625E-03  4.0643E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : C2193.039  
+# EXFOR Ver.      : 20151102
+# TRANS #         : C155
+# Author          : T.A.Werke et al.
+# Reference       : Phys.Rev.C 92 (2015) 034613
+# DOI             : 10.1103/PhysRevC.92.034613
+# Quantity        : 162Dy(45Sc,x)201Rn independent production cross section
+# REACTION        : 66-DY-162(21-SC-45,X)86-RN-201,,SIG
+# File ID         : Sc45-Dy162-x-sig-excfun-mon-prodRn201_Werke_2015_c2193.039
+#
+# npts            : 2           
+# xmin            :   8.2932E+07
+# xmax            :   8.7278E+07
+# ymin            :   7.0000E-07
+# ymax            :   2.4000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.2932E+07  0.0000E+00  7.0000E-07  3.5000E-07
+  8.7278E+07  0.0000E+00  2.4000E-06  6.0000E-07
+#---------------------------------------------------

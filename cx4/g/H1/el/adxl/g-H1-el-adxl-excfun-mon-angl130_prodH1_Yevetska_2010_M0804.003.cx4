@@ -1,0 +1,27 @@
+# EXFOR #         : M0804.003  
+# EXFOR Ver.      : 20110224
+# TRANS #         : M057
+# Author          : O.Yevetska et al.
+# Reference       : Nucl.Instrum.Meth.A 618 (2010) 160
+# DOI             : 10.1016/j.nima.2010.02.091
+# Quantity        : 1H(g,el)1H angular differential cross section
+# REACTION        : 1-H-1(G,EL)1-H-1,,DA
+# File ID         : g-H1-el-adxl-excfun-mon-angl130_prodH1_Yevetska_2010_m0804.003
+#
+# theta,lab (deg) :  130.0000000
+#
+# npts            : 4           
+# xmin            :   3.2430E+07
+# xmax            :   5.1430E+07
+# ymin            :   1.3000E-08
+# ymax            :   1.4570E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.2430E+07  0.0000E+00  1.4380E-08  1.7800E-09
+  3.7000E+07  0.0000E+00  1.4260E-08  1.8000E-09
+  4.1100E+07  0.0000E+00  1.4570E-08  1.8200E-09
+  5.1430E+07  0.0000E+00  1.3000E-08  1.5300E-09
+#---------------------------------------------------

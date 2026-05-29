@@ -1,0 +1,23 @@
+# EXFOR #         : F1531.002  
+# EXFOR Ver.      : 20250714
+# TRANS #         : F101
+# Author          : A.V.Yeremin et al.
+# Reference       : Phys.Part.Nucl.Lett. 21 (2024) 518
+# DOI             : 10.1134/S1547477124700511
+# Quantity        : 242Pu(48Ca,3n)287Fl cross section
+# REACTION        : 94-PU-242(20-CA-48,3N)114-FL-287,,SIG
+# File ID         : Ca48-Pu242-3n-sig-excfun-mon-prodFl287_Yeremin_2024_f1531.002
+#
+# npts            : 2           
+# xmin            :   2.5200E+08
+# xmax            :   2.5600E+08
+# ymin            :   5.2000E-12
+# ymax            :   8.5000E-12
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5200E+08  0.0000E+00  8.5000E-12  0.0000E+00
+  2.5600E+08  0.0000E+00  5.2000E-12  0.0000E+00
+#---------------------------------------------------

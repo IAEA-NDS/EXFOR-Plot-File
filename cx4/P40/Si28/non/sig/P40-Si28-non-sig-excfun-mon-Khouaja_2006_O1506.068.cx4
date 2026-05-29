@@ -1,0 +1,23 @@
+# EXFOR #         : O1506.068  
+# EXFOR Ver.      : 20071114
+# TRANS #         : O034
+# Author          : A.Khouaja et al.
+# Reference       : Nucl.Phys.A 780 (2006) 1
+# DOI             : N/A
+# Quantity        : 28Si(40P,non) cross section
+# REACTION        : 14-SI-28(15-P-40,NON),,SIG
+# File ID         : P40-Si28-non-sig-excfun-mon-Khouaja_2006_o1506.068
+#
+# npts            : 2           
+# xmin            :   1.7008E+09
+# xmax            :   1.9512E+09
+# ymin            :   2.7100E+00
+# ymax            :   2.7160E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9512E+09  0.0000E+00  2.7160E+00  7.3000E-02
+  1.7008E+09  0.0000E+00  2.7100E+00  1.1100E-01
+#---------------------------------------------------

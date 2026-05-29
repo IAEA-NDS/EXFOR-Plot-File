@@ -1,0 +1,29 @@
+# EXFOR #         : E2248.002  
+# EXFOR Ver.      : 20151115
+# TRANS #         : E100
+# Author          : S.Kakigi
+# Reference       : J.Phys.Soc.Jpn. 20 (1965) 1967
+# DOI             : 10.1143/JPSJ.20.1967
+# Quantity        : 9Be(a,d)11B partial angular differential cross section
+# REACTION        : 4-BE-9(A,D)5-B-11,PAR,DA
+# File ID         : a-Be9-d-adxc-angdisc-mon-einc2.830E+07_elvl0.000E+00_prodB11_Kakigi_1965_e2248.002
+#
+# Einc (eV)       :   2.8300E+07
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :   13.6000000
+# xmax            :   47.0000000
+# ymin            :   3.6500E-04
+# ymax            :   1.4060E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  13.6000000   0.0000000  1.3030E-03  0.0000E+00
+  23.8000000   0.0000000  1.4060E-03  0.0000E+00
+  33.7000000   0.0000000  8.8500E-04  0.0000E+00
+  47.0000000   0.0000000  3.6500E-04  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : A0802.004  
+# EXFOR Ver.      : 20260205
+# TRANS #         : A131
+# Author          : Z.H.Liu et al.
+# Reference       : Phys.Rev.C 69 (2004) 034326
+# DOI             : 10.1103/PhysRevC.69.034326
+# Quantity        : 28Si(25Mg,non) cross section
+# REACTION        : 14-SI-28(12-MG-25,NON),,SIG
+# File ID         : Mg25-Si28-non-sig-excfun-mon-Liu_2004_a0802.004
+#
+# npts            : 2           
+# xmin            :   5.9750E+08
+# xmax            :   7.6000E+08
+# ymin            :   2.0260E+00
+# ymax            :   2.2370E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9750E+08  0.0000E+00  2.2370E+00  1.3300E-01
+  7.6000E+08  0.0000E+00  2.0260E+00  1.2100E-01
+#---------------------------------------------------

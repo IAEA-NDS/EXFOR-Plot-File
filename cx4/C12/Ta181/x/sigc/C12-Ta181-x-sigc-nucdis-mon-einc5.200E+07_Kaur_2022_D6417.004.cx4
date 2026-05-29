@@ -1,0 +1,25 @@
+# EXFOR #         : D6417.004  
+# EXFOR Ver.      : 20220215
+# TRANS #         : D136
+# Author          : P.Kaur et al.
+# Reference       : Phys.Rev.C 105 (2022) 014629
+# DOI             : 10.1103/PhysRevC.105.014629
+# Quantity        : 181Ta(12C,x) cumulative production cross section
+# REACTION        : 73-TA-181(6-C-12,X)ELEM/MASS,M+,SIG
+# File ID         : C12-Ta181-x-sigc-nucdis-mon-einc5.200E+07_Kaur_2022_d6417.004
+#
+# Einc (eV)       :   5.2000E+07
+# dEinc (eV)      :   8.0000E+05
+#
+# npts            : 1           
+# xmin            : 34073.0     
+# xmax            : 34073.0     
+# ymin            :   5.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     34073.0  5.0000E-04  1.0000E-04
+#---------------------------------------------------

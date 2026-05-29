@@ -1,0 +1,22 @@
+# EXFOR #         : F1274.004  
+# EXFOR Ver.      : 20151215
+# TRANS #         : F060
+# Author          : E.M.Kozulin et al.
+# Reference       : Phys.Rev.C 86 (2012) 044611
+# DOI             : 10.1103/PhysRevC.86.044611
+# Quantity        : 208Pb(136Xe,x)224Ra independent production cross section
+# REACTION        : 82-PB-208(54-XE-136,X)88-RA-224,,SIG
+# File ID         : Xe136-Pb208-x-sig-excfun-mon-prodRa224_Kozulin_2012_f1274.004
+#
+# npts            : 1           
+# xmin            :   8.5000E+08
+# xmax            :   8.5000E+08
+# ymin            :   2.5000E-06
+# ymax            :   2.5000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.5000E+08  4.0000E+04  2.5000E-06  2.0000E-06
+#---------------------------------------------------

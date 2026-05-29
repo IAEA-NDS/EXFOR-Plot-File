@@ -1,0 +1,24 @@
+# EXFOR #         : D6212.004  
+# EXFOR Ver.      : 20130807
+# TRANS #         : D090
+# Author          : Avinash Agarwal et al.
+# Reference       : EPJ Web Conf. 38 (2012) 17001
+# DOI             : 10.1051/epjconf/20123817001
+# Quantity        : 45Sc(16O,x)57Co cumulative production cross section
+# REACTION        : 21-SC-45(8-O-16,X)27-CO-57,CUM,SIG
+# File ID         : O16-Sc45-x-sigc-excfun-mon-prodCo57_Avinash%Agarwal_2012_d6212.004
+#
+# npts            : 3           
+# xmin            :   7.3160E+07
+# xmax            :   9.3770E+07
+# ymin            :   9.3390E-02
+# ymax            :   2.4392E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.3160E+07  0.0000E+00  2.4392E-01  2.1300E-02
+  8.3820E+07  0.0000E+00  1.7508E-01  1.4500E-02
+  9.3770E+07  0.0000E+00  9.3390E-02  8.6000E-03
+#---------------------------------------------------

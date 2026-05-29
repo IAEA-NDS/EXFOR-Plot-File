@@ -1,0 +1,28 @@
+# EXFOR #         : E2442.002  
+# EXFOR Ver.      : 20131128
+# TRANS #         : E084
+# Author          : G.L.Zhang et al.
+# Reference       : High En.Nucl.Phy.Ch. 29 (2005) 940
+# DOI             : N/A
+# Quantity        : 9Be(6He,t+x) angular differential cross section
+# REACTION        : 4-BE-9(2-HE-6,X)1-H-3,,DA
+# File ID         : He6-Be9-xt-adxl-angdisl-mon-einc1.500E+08_Zhang_2005_e2442.002
+#
+# Einc (eV)       :   1.5000E+08
+#
+# npts            : 5           
+# xmin            :   10.5000000
+# xmax            :   30.0900000
+# ymin            :   4.1520E-03
+# ymax            :   5.3060E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.5000000   1.3840000  5.3060E-02  3.9750E-03
+  13.4800000   1.3840000  2.8710E-02  2.9820E-03
+  18.5600000   1.5380000  1.8290E-02  0.0000E+00
+  22.0900000   1.5380000  1.9290E-02  3.2300E-03
+  30.0900000   4.4590000  4.1520E-03  0.0000E+00
+#---------------------------------------------------

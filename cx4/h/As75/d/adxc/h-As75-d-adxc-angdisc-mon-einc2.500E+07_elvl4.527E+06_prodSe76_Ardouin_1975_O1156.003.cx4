@@ -1,0 +1,30 @@
+# EXFOR #         : O1156.003  
+# EXFOR Ver.      : 20040425
+# TRANS #         : 0000
+# Author          : D.Ardouin et al.
+# Reference       : Phys.Rev.C 12 (1975) 1745
+# DOI             : 10.1103/PhysRevC.12.1745
+# Quantity        : 75As(he3,d)76Se partial angular differential cross section
+# REACTION        : 33-AS-75(HE3,D)34-SE-76,PAR,DA
+# File ID         : h-As75-d-adxc-angdisc-mon-einc2.500E+07_elvl4.527E+06_prodSe76_Ardouin_1975_o1156.003
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   1.0500E+04
+# Elvl (eV)       :   4.5270E+06
+#
+# npts            : 5           
+# xmin            :   21.5200000
+# xmax            :   37.8000000
+# ymin            :   3.4700E-05
+# ymax            :   7.8200E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  21.5200000   0.0000000  7.0800E-05  0.0000E+00
+  25.6200000   0.0000000  7.8200E-05  0.0000E+00
+  30.1100000   0.0000000  7.5000E-05  0.0000E+00
+  33.9100000   0.0000000  4.6100E-05  0.0000E+00
+  37.8000000   0.0000000  3.4700E-05  0.0000E+00
+#---------------------------------------------------

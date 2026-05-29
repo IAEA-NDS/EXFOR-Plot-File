@@ -1,0 +1,23 @@
+# EXFOR #         : D6079.008  
+# EXFOR Ver.      : 20091105
+# TRANS #         : D070
+# Author          : S.Santra et al.
+# Reference       : Phys.Lett.B 677 (2009) 139
+# DOI             : 10.1016/j.physletb.2009.05.016
+# Quantity        : 209Bi(6Li,p+a)210Bi cross section
+# REACTION        : 83-BI-209(3-LI-6,P+A)83-BI-210,,SIG
+# File ID         : Li6-Bi209-pa-sig-excfun-mon-prodBi210_Santra_2009_d6079.008
+#
+# npts            : 2           
+# xmin            :   3.6000E+07
+# xmax            :   4.0000E+07
+# ymin            :   2.6000E-02
+# ymax            :   2.7500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6000E+07  0.0000E+00  2.6000E-02  4.5000E-03
+  4.0000E+07  0.0000E+00  2.7500E-02  5.0000E-03
+#---------------------------------------------------

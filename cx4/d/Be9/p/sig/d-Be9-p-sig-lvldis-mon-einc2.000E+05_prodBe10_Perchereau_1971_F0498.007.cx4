@@ -1,0 +1,25 @@
+# EXFOR #         : F0498.007  
+# EXFOR Ver.      : 20190731
+# TRANS #         : F072
+# Author          : J.Perchereau
+# Reference       : Report CEA-R-4070, 1971
+# DOI             : N/A
+# Quantity        : 9Be(d,p)10Be partial cross section
+# REACTION        : 4-BE-9(D,P)4-BE-10,PAR,SIG
+# File ID         : d-Be9-p-sig-lvldis-mon-einc2.000E+05_prodBe10_Perchereau_1971_f0498.007
+#
+# Einc (eV)       :   2.0000E+05
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   3.3680E+06
+# ymin            :   2.2000E-04
+# ymax            :   2.7500E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  2.2000E-04  0.0000E+00
+  3.3680E+06  0.0000E+00  2.7500E-04  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : E2620.008  
+# EXFOR Ver.      : 20220621
+# TRANS #         : E135
+# Author          : K.Wimmer et al.
+# Reference       : Phys.Lett.B 785 (2018) 441
+# DOI             : 10.1016/j.physletb.2018.07.067
+# Quantity        : 9Be(71Br,x)70Se independent production cross section
+# REACTION        : 4-BE-9(35-BR-71,X)34-SE-70,,SIG
+# File ID         : Br71-Be9-x-sig-excfun-mon-prodSe70_Wimmer_2018_e2620.008
+#
+# npts            : 1           
+# xmin            :   9.9400E+09
+# xmax            :   9.9400E+09
+# ymin            :   1.0000E-01
+# ymax            :   1.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9400E+09  0.0000E+00  1.0000E-01  1.2000E-02
+#---------------------------------------------------

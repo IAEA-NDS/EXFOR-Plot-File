@@ -1,0 +1,28 @@
+# EXFOR #         : C1527.005  
+# EXFOR Ver.      : 20170109
+# TRANS #         : C164
+# Author          : M.Thoennessen et al.
+# Reference       : Nucl.Phys.A 746 (2004) 536
+# DOI             : 10.1016/j.nuclphysa.2004.09.109
+# Quantity        : 12C(25F,x) independent production cross section
+# REACTION        : 6-C-12(9-F-25,X)ELEM/MASS,,SIG
+# File ID         : F25-C12-x-sig-nucdis-mon-einc5.040E+07_Thoennessen_2004_c1527.005
+#
+# Einc (eV)       :   5.0400E+07
+#
+# npts            : 5           
+# xmin            : 8020.9      
+# xmax            : 8024.9      
+# ymin            :   3.8000E-03
+# ymax            :   1.3100E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      8020.9  8.9000E-03  1.3000E-03
+      8021.9  1.3000E-02  1.4000E-03
+      8022.9  1.3100E-02  1.5000E-03
+      8023.9  6.4000E-03  9.0000E-04
+      8024.9  3.8000E-03  6.0000E-04
+#---------------------------------------------------

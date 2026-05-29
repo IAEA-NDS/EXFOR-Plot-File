@@ -1,0 +1,25 @@
+# EXFOR #         : C0385.010  
+# EXFOR Ver.      : 19990917
+# TRANS #         : 0000
+# Author          : J.Jaenecke et al.
+# Reference       : Nucl.Phys.A 526 (1991) 1
+# DOI             : N/A
+# Quantity        : 117Sn(he3,t)117Sb partial angular differential cross section
+# REACTION        : 50-SN-117(HE3,T)51-SB-117,PAR,DA
+# File ID         : h-Sn117-t-adxl-lvldis-mon-einc2.000E+08_angl2_prodSb117_Jaenecke_1991_c0385.010
+#
+# Einc (eV)       :   2.0000E+08
+# theta,lab (deg) :    1.6000000
+#
+# npts            : 1           
+# xmin            :   1.1271E+07
+# xmax            :   1.1271E+07
+# ymin            :   4.3700E-03
+# ymax            :   4.3700E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1271E+07  0.0000E+00  4.3700E-03  8.0000E-05
+#---------------------------------------------------

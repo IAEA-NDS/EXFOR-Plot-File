@@ -1,0 +1,27 @@
+# EXFOR #         : M0418.016  
+# EXFOR Ver.      : 20161223
+# TRANS #         : M086
+# Author          : M.Schumacher et al.
+# Reference       : Z.Phys.A 300 (1981) 193
+# DOI             : 10.1007/BF01412295
+# Quantity        : natMo(g,el)natMo angular differential cross section
+# REACTION        : 42-MO-0(G,EL)42-MO-0,,DA
+# File ID         : g-Mo-el-adxl-excfun-mon-angl90_prodMo_Schumacher_1981_m0418.016
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 4           
+# xmin            :   6.4180E+06
+# xmax            :   7.1680E+06
+# ymin            :   8.5000E-06
+# ymax            :   1.4740E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.4180E+06  0.0000E+00  1.4740E-03  4.4000E-05
+  6.5550E+06  0.0000E+00  4.0700E-04  3.9000E-05
+  6.7590E+06  0.0000E+00  8.5000E-06  1.5000E-06
+  7.1680E+06  0.0000E+00  8.1700E-04  2.5800E-04
+#---------------------------------------------------

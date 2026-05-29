@@ -1,0 +1,27 @@
+# EXFOR #         : M0842.009  
+# EXFOR Ver.      : 20120130
+# TRANS #         : M062
+# Author          : H.Arenhoevel et al.
+# Reference       : Nucl.Phys.A 147 (1970) 305
+# DOI             : 10.1016/0375-9474(70)90270-8
+# Quantity        : 75As(g,inl)75As angular differential cross section
+# REACTION        : 33-AS-75(G,INL)33-AS-75,,DA,,BRS
+# File ID         : g-As75-inl-adxl-excfun-brs-angl150_prodAs75_Arenhoevel_1970_m0842.009
+#
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 4           
+# xmin            :   1.5200E+07
+# xmax            :   2.2050E+07
+# ymin            :   6.1400E-06
+# ymax            :   1.6725E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.5200E+07  1.3000E+06  1.6725E-05  1.7540E-06
+  1.7450E+07  9.5000E+05  1.4474E-05  1.4620E-06
+  1.9500E+07  1.0000E+06  7.6000E-06  1.2870E-06
+  2.2050E+07  1.5500E+06  6.1400E-06  1.4000E-06
+#---------------------------------------------------

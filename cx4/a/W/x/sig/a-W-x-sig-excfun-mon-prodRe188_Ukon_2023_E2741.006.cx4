@@ -1,0 +1,23 @@
+# EXFOR #         : E2741.006  
+# EXFOR Ver.      : 20230629
+# TRANS #         : E137
+# Author          : N.Ukon et al.
+# Reference       : Nucl.Instrum.Meth.B 539 (2023) 95
+# DOI             : 10.1016/j.nimb.2023.03.032
+# Quantity        : natW(a,x)188Re independent production cross section
+# REACTION        : 74-W-0(A,X)75-RE-188,,SIG
+# File ID         : a-W-x-sig-excfun-mon-prodRe188_Ukon_2023_e2741.006
+#
+# npts            : 2           
+# xmin            :   2.6700E+07
+# xmax            :   3.0200E+07
+# ymin            :   8.4300E-04
+# ymax            :   3.0700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0200E+07  4.0000E+05  3.0700E-03  4.9000E-04
+  2.6700E+07  4.0000E+05  8.4300E-04  1.1300E-04
+#---------------------------------------------------

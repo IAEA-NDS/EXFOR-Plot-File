@@ -1,0 +1,24 @@
+# EXFOR #         : A0210.017  
+# EXFOR Ver.      : 20241003
+# TRANS #         : A120
+# Author          : R.Michel et al.
+# Reference       : Nucl.Phys.A 404 (1983) 77
+# DOI             : 10.1016/0375-9474(83)90415-3
+# Quantity        : 59Co(he3,x)48Sc independent production cross section
+# REACTION        : 27-CO-59(HE3,X)21-SC-48,,SIG
+# File ID         : h-Co59-x-sig-excfun-mon-prodSc48_Michel_1983_a0210.017
+#
+# npts            : 3           
+# xmin            :   1.1320E+08
+# xmax            :   1.2810E+08
+# ymin            :   7.6000E-05
+# ymax            :   1.3100E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2810E+08  1.0000E+06  1.3100E-04  3.4000E-05
+  1.2090E+08  1.2000E+06  1.0300E-04  4.0000E-05
+  1.1320E+08  1.3000E+06  7.6000E-05  4.8000E-05
+#---------------------------------------------------

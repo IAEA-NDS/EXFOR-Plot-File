@@ -1,0 +1,24 @@
+# EXFOR #         : C0831.008  
+# EXFOR Ver.      : 20220805
+# TRANS #         : C216
+# Author          : F.H.Ruddy et al.
+# Reference       : Nucl.Phys.A 127 (1969) 305
+# DOI             : 10.1016/0375-9474(69)90573-9
+# Quantity        : 56Fe(12C,x)66Ga independent production cross section
+# REACTION        : 26-FE-56(6-C-12,X)31-GA-66,,SIG
+# File ID         : C12-Fe56-x-sig-excfun-mon-prodGa66_Ruddy_1969_c0831.008
+#
+# npts            : 3           
+# xmin            :   3.6900E+07
+# xmax            :   4.3800E+07
+# ymin            :   1.7200E-02
+# ymax            :   3.7000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6900E+07  0.0000E+00  3.7000E-01  0.0000E+00
+  3.9100E+07  0.0000E+00  9.0000E-02  0.0000E+00
+  4.3800E+07  0.0000E+00  1.7200E-02  0.0000E+00
+#---------------------------------------------------

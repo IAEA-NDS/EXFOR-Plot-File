@@ -1,0 +1,28 @@
+# EXFOR #         : D0510.017  
+# EXFOR Ver.      : 20080827
+# TRANS #         : D063
+# Author          : W.P.Alford et al.
+# Reference       : Nucl.Phys.A 243 (1975) 269
+# DOI             : 10.1016/0375-9474(75)90248-1
+# Quantity        : 50Ti(he3,n)52Cr partial angular differential cross section
+# REACTION        : 22-TI-50(HE3,N)24-CR-52,PAR,DA
+# File ID         : h-Ti50-n-adxc-angdisc-mon-einc1.500E+07_elvl9.460E+06_prodCr52_Alford_1975_d0510.017
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   9.4600E+06
+# dElvl (eV)      :   5.0000E+04
+#
+# npts            : 3           
+# xmin            :    0.4217800
+# xmax            :   10.3320000
+# ymin            :   1.0536E-04
+# ymax            :   1.8404E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.4217800   0.0000000  1.8404E-04  0.0000E+00
+   5.2818000   0.0000000  1.4447E-04  0.0000E+00
+  10.3320000   0.0000000  1.0536E-04  0.0000E+00
+#---------------------------------------------------

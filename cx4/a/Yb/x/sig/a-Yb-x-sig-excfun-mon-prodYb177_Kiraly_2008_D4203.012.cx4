@@ -1,0 +1,25 @@
+# EXFOR #         : D4203.012  
+# EXFOR Ver.      : 20080911
+# TRANS #         : D064
+# Author          : B.Kiraly et al.
+# Reference       : Nucl.Instrum.Meth.B 266 (2008) 3919
+# DOI             : 10.1016/j.nimb.2008.07.002
+# Quantity        : natYb(a,x)177Yb independent production cross section
+# REACTION        : 70-YB-0(A,X)70-YB-177,IND,SIG
+# File ID         : a-Yb-x-sig-excfun-mon-prodYb177_Kiraly_2008_d4203.012
+#
+# npts            : 4           
+# xmin            :   3.2300E+07
+# xmax            :   3.7700E+07
+# ymin            :   1.9000E-04
+# ymax            :   2.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7700E+07  3.0000E+05  2.3000E-04  1.1000E-04
+  3.5300E+07  4.0000E+05  2.9000E-04  1.5000E-04
+  3.4800E+07  4.0000E+05  2.2000E-04  1.8000E-04
+  3.2300E+07  4.0000E+05  1.9000E-04  1.2000E-04
+#---------------------------------------------------

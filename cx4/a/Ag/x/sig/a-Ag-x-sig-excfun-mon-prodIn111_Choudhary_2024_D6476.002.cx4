@@ -1,0 +1,26 @@
+# EXFOR #         : D6476.002  
+# EXFOR Ver.      : 20250402
+# TRANS #         : D148
+# Author          : M.Choudhary et al.
+# Reference       : Nucl.Phys.A 1050 (2024) 122917
+# DOI             : 10.1016/j.nuclphysa.2024.122917
+# Quantity        : natAg(a,x)111In independent production cross section
+# REACTION        : 47-AG-0(A,X)49-IN-111,,SIG
+# File ID         : a-Ag-x-sig-excfun-mon-prodIn111_Choudhary_2024_d6476.002
+#
+# npts            : 5           
+# xmin            :   2.3820E+07
+# xmax            :   3.8360E+07
+# ymin            :   7.6540E-02
+# ymax            :   6.8090E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3820E+07  1.2200E+06  4.7939E-01  3.2800E-02
+  2.7980E+07  9.2000E+05  6.8090E-01  3.6500E-02
+  3.1600E+07  1.7400E+06  4.0370E-01  2.1600E-02
+  3.5100E+07  1.5100E+06  1.8579E-01  9.6600E-03
+  3.8360E+07  1.0700E+06  7.6540E-02  3.9600E-03
+#---------------------------------------------------

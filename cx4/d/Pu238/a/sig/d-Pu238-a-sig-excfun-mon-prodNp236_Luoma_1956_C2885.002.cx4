@@ -1,0 +1,22 @@
+# EXFOR #         : C2885.002  
+# EXFOR Ver.      : 20230112
+# TRANS #         : C227
+# Author          : E.V.Luoma
+# Reference       : Report UCRL-3495, 1956
+# DOI             : N/A
+# Quantity        : 238Pu(d,a)236Np cross section
+# REACTION        : 94-PU-238(D,A)93-NP-236,,SIG
+# File ID         : d-Pu238-a-sig-excfun-mon-prodNp236_Luoma_1956_c2885.002
+#
+# npts            : 1           
+# xmin            :   2.0100E+07
+# xmax            :   2.0100E+07
+# ymin            :   5.5000E-03
+# ymax            :   5.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0100E+07  5.0000E+05  5.5000E-03  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : A1383.002  
+# EXFOR Ver.      : 20040630
+# TRANS #         : 0000
+# Author          : M.Manalis et al.
+# Reference       : Phys.Rev. 136 (1964) B1741
+# DOI             : 10.1103/PhysRev.136.B1741
+# Quantity        : 7Li(d,a)5He angular differential cross section
+# REACTION        : 3-LI-7(D,A)2-HE-5,,DA
+# File ID         : d-Li7-a-adxl-excfun-mon-angl90_prodHe5_Manalis_1964_a1383.002
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 5           
+# xmin            :   1.7500E+05
+# xmax            :   3.0000E+05
+# ymin            :   3.1000E-04
+# ymax            :   1.7100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7500E+05  0.0000E+00  3.1000E-04  1.0000E-04
+  2.1400E+05  0.0000E+00  6.4000E-04  2.2000E-04
+  2.4800E+05  0.0000E+00  1.0400E-03  3.6000E-04
+  2.8000E+05  0.0000E+00  1.4100E-03  4.9000E-04
+  3.0000E+05  0.0000E+00  1.7100E-03  6.0000E-04
+#---------------------------------------------------

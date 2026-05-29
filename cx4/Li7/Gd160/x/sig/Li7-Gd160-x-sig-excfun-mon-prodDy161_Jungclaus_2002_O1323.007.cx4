@@ -1,0 +1,25 @@
+# EXFOR #         : O1323.007  
+# EXFOR Ver.      : 20070607
+# TRANS #         : O030
+# Author          : A.Jungclaus et al.
+# Reference       : Phys.Rev.C 66 (2002) 014312
+# DOI             : 10.1103/PhysRevC.66.014312
+# Quantity        : 160Gd(7Li,x)161Dy independent production cross section
+# REACTION        : 64-GD-160(3-LI-7,X)66-DY-161,,SIG
+# File ID         : Li7-Gd160-x-sig-excfun-mon-prodDy161_Jungclaus_2002_o1323.007
+#
+# npts            : 4           
+# xmin            :   5.1130E+07
+# xmax            :   6.7100E+07
+# ymin            :   6.2000E-03
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.1130E+07  0.0000E+00  6.2000E-03  1.2400E-03
+  5.6150E+07  0.0000E+00  4.1900E-02  8.3800E-03
+  6.1030E+07  0.0000E+00  4.3000E-02  8.6000E-03
+  6.7100E+07  0.0000E+00  7.5000E-02  1.5000E-02
+#---------------------------------------------------

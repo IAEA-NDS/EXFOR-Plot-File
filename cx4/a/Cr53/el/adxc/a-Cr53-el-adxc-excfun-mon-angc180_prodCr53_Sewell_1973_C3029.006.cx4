@@ -1,0 +1,28 @@
+# EXFOR #         : C3029.006  
+# EXFOR Ver.      : 20250116
+# TRANS #         : C248
+# Author          : P.T.Sewell et al.
+# Reference       : Phys.Rev.C 7 (1973) 690
+# DOI             : 10.1103/PhysRevC.7.690
+# Quantity        : 53Cr(a,el)53Cr angular differential cross section
+# REACTION        : 24-CR-53(A,EL)24-CR-53,,DA
+# File ID         : a-Cr53-el-adxc-excfun-mon-angc180_prodCr53_Sewell_1973_c3029.006
+#
+# theta,cm (deg)  :  180.0000000
+#
+# npts            : 5           
+# xmin            :   2.1090E+06
+# xmax            :   2.6990E+06
+# ymin            :   4.3000E-05
+# ymax            :   3.2700E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.1090E+06  0.0000E+00  4.3000E-05  5.0000E-06
+  2.2020E+06  0.0000E+00  7.9000E-05  1.0000E-05
+  2.3600E+06  0.0000E+00  2.0800E-04  1.8000E-05
+  2.4910E+06  0.0000E+00  3.2700E-04  3.0000E-05
+  2.6990E+06  0.0000E+00  3.1700E-04  1.7000E-05
+#---------------------------------------------------

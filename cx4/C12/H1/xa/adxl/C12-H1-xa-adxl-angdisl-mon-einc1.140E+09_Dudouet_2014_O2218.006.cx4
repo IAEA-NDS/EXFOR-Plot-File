@@ -1,0 +1,25 @@
+# EXFOR #         : O2218.006  
+# EXFOR Ver.      : 20161017
+# TRANS #         : O059
+# Author          : J.Dudouet et al.
+# Reference       : Phys.Rev.C 89 (2014) 064615
+# DOI             : 10.1103/PhysRevC.89.064615
+# Quantity        : 1H(12C,a+x) angular differential cross section
+# REACTION        : 1-H-1(6-C-12,X)2-HE-4,,DA
+# File ID         : C12-H1-xa-adxl-angdisl-mon-einc1.140E+09_Dudouet_2014_o2218.006
+#
+# Einc (eV)       :   1.1398E+09
+# dEinc (eV)      :   1.0800E+06
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   8.8862E+00
+# ymax            :   8.8862E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   1.0000000  8.8862E+00  4.1603E+00
+#---------------------------------------------------

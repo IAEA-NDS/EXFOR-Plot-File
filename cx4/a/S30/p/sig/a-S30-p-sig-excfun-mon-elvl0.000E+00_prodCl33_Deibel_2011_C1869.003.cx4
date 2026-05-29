@@ -1,0 +1,25 @@
+# EXFOR #         : C1869.003  
+# EXFOR Ver.      : 20201103
+# TRANS #         : C199
+# Author          : C.M.Deibel et al.
+# Reference       : Phys.Rev.C 84 (2011) 045802
+# DOI             : 10.1103/PhysRevC.84.045802
+# Quantity        : 30S(a,p)33Cl partial cross section
+# REACTION        : 16-S-30(A,P)17-CL-33,PAR,SIG
+# File ID         : a-S30-p-sig-excfun-mon-elvl0.000E+00_prodCl33_Deibel_2011_c1869.003
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :   5.3391E+06
+# xmax            :   6.0647E+06
+# ymin            :   2.1800E-02
+# ymax            :   3.7800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0647E+06  4.0008E+05  2.1800E-02  4.0000E-03
+  5.3391E+06  4.0007E+05  3.7800E-02  1.2800E-02
+#---------------------------------------------------

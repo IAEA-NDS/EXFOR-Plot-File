@@ -1,0 +1,23 @@
+# EXFOR #         : O1593.006  
+# EXFOR Ver.      : 20080326
+# TRANS #         : O034
+# Author          : A.Pakou et al.
+# Reference       : Phys.Rev.C 76 (2007) 054601
+# DOI             : 10.1103/PhysRevC.76.054601
+# Quantity        : 28Si(6Li,p+a)29Si cross section
+# REACTION        : 14-SI-28(3-LI-6,P+A)14-SI-29,,SIG
+# File ID         : Li6-Si28-pa-sig-excfun-mon-prodSi29_Pakou_2007_o1593.006
+#
+# npts            : 2           
+# xmin            :   9.0000E+06
+# xmax            :   1.3000E+07
+# ymin            :   1.7700E-01
+# ymax            :   3.5500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+07  0.0000E+00  3.5500E-01  2.9000E-02
+  9.0000E+06  0.0000E+00  1.7700E-01  1.0000E-02
+#---------------------------------------------------

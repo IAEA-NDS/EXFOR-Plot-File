@@ -1,0 +1,22 @@
+# EXFOR #         : C2841.003  
+# EXFOR Ver.      : 20221025
+# TRANS #         : C224
+# Author          : M.C.Henderson
+# Reference       : Phys.Rev. 48 (1935) 855
+# DOI             : 10.1103/PhysRev.48.855
+# Quantity        : 26Mg(d,x)27Mg independent production cross section
+# REACTION        : 12-MG-26(D,X)12-MG-27,,SIG
+# File ID         : d-Mg26-x-sig-excfun-mon-prodMg27_Henderson_1935_c2841.003
+#
+# npts            : 1           
+# xmin            :   3.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   2.4000E-02
+# ymax            :   2.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  0.0000E+00  2.4000E-02  0.0000E+00
+#---------------------------------------------------

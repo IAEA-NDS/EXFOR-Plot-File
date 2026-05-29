@@ -1,0 +1,22 @@
+# EXFOR #         : C1840.005  
+# EXFOR Ver.      : 20110617
+# TRANS #         : C109
+# Author          : A.Gade et al.
+# Reference       : Phys.Rev.C 83 (2011) 054324
+# DOI             : 10.1103/PhysRevC.83.054324
+# Quantity        : 9Be(22Mg,x)23Mg independent production cross section
+# REACTION        : 4-BE-9(12-MG-22,X)12-MG-23,,SIG
+# File ID         : Mg22-Be9-x-sig-excfun-mon-prodMg23_Gade_2011_c1840.005
+#
+# npts            : 1           
+# xmin            :   1.8480E+09
+# xmax            :   1.8480E+09
+# ymin            :   2.5800E-03
+# ymax            :   2.5800E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8480E+09  0.0000E+00  2.5800E-03  1.6000E-04
+#---------------------------------------------------

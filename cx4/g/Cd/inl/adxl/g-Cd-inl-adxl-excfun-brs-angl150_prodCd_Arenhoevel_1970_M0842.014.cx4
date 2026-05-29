@@ -1,0 +1,27 @@
+# EXFOR #         : M0842.014  
+# EXFOR Ver.      : 20120130
+# TRANS #         : M062
+# Author          : H.Arenhoevel et al.
+# Reference       : Nucl.Phys.A 147 (1970) 305
+# DOI             : 10.1016/0375-9474(70)90270-8
+# Quantity        : natCd(g,inl)natCd angular differential cross section
+# REACTION        : 48-CD-0(G,INL)48-CD-0,,DA,,BRS
+# File ID         : g-Cd-inl-adxl-excfun-brs-angl150_prodCd_Arenhoevel_1970_m0842.014
+#
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 4           
+# xmin            :   1.4500E+07
+# xmax            :   2.1350E+07
+# ymin            :   8.9380E-06
+# ymax            :   5.9735E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4500E+07  1.0000E+06  4.2035E-05  4.2040E-06
+  1.6500E+07  1.0000E+06  5.9735E-05  4.6460E-06
+  1.8550E+07  1.0500E+06  1.4735E-05  3.3190E-06
+  2.1350E+07  1.8500E+06  8.9380E-06  2.6550E-06
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : E2451.003  
+# EXFOR Ver.      : 20140528
+# TRANS #         : E091
+# Author          : T.Nakamura et al.
+# Reference       : Phys.Rev.Lett. 112 (2014) 142501
+# DOI             : 10.1103/PhysRevLett.112.142501
+# Quantity        : natPb(31Ne,x)30Ne independent production cross section
+# REACTION        : 82-PB-0(10-NE-31,X)10-NE-30,,SIG
+# File ID         : Ne31-Pb-x-sig-excfun-mon-prodNe30_Nakamura_2014_e2451.003
+#
+# npts            : 1           
+# xmin            :   7.2540E+09
+# xmax            :   7.2540E+09
+# ymin            :   7.2000E-01
+# ymax            :   7.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.2540E+09  0.0000E+00  7.2000E-01  6.1000E-02
+#---------------------------------------------------

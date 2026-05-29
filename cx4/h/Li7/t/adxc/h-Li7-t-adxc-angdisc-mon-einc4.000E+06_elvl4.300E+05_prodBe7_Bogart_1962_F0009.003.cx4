@@ -1,0 +1,28 @@
+# EXFOR #         : F0009.003  
+# EXFOR Ver.      : 20200120
+# TRANS #         : F074
+# Author          : E.Bogart et al.
+# Reference       : Proceedings of Nucl. Reaction Mechanisms Conf., Padua 1962 page 960
+# DOI             : N/A
+# Quantity        : 7Li(he3,t)7Be partial angular differential cross section
+# REACTION        : 3-LI-7(HE3,T)4-BE-7,PAR,DA
+# File ID         : h-Li7-t-adxc-angdisc-mon-einc4.000E+06_elvl4.300E+05_prodBe7_Bogart_1962_f0009.003
+#
+# Einc (eV)       :   4.0000E+06
+# Elvl (eV)       :   4.3000E+05
+#
+# npts            : 4           
+# xmin            :   17.6000000
+# xmax            :   82.9000000
+# ymin            :   6.5300E-03
+# ymax            :   1.3730E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  17.6000000   0.0000000  1.3730E-02  2.1000E-04
+  32.2000000   0.0000000  9.1400E-03  2.1000E-04
+  61.8000000   0.0000000  6.5300E-03  2.1000E-04
+  82.9000000   0.0000000  8.0400E-03  2.1000E-04
+#---------------------------------------------------

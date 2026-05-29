@@ -1,0 +1,32 @@
+# EXFOR #         : D0310.002  
+# EXFOR Ver.      : 20050324
+# TRANS #         : D040
+# Author          : D.Bucurescu et al.
+# Reference       : Nucl.Phys.A 756 (2005) 54
+# DOI             : 10.1016/j.nuclphysa.2005.03.012
+# Quantity        : 114Cd(d,t)113Cd partial angular differential cross section
+# REACTION        : 48-CD-114(D,T)48-CD-113,PAR,DA
+# File ID         : d-Cd114-t-adxl-angdisl-mon-einc2.500E+07_elvl2.063E+06_prodCd113_Bucurescu_2005_d0310.002
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   2.5000E+03
+# Elvl (eV)       :   2.0629E+06
+# dElvl (eV)      :   2.5000E+03
+#
+# npts            : 6           
+# xmin            :   20.0000000
+# xmax            :   45.0000000
+# ymin            :   8.3232E-07
+# ymax            :   2.5282E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.0000000   0.0000000  2.1105E-06  4.4108E-07
+  23.0000000   0.0000000  2.0980E-06  4.2819E-07
+  26.0000000   0.0000000  2.5282E-06  3.7134E-07
+  30.0000000   0.0000000  1.1831E-06  2.4669E-07
+  40.0000000   0.0000000  1.1789E-06  2.0184E-07
+  45.0000000   0.0000000  8.3232E-07  1.8252E-07
+#---------------------------------------------------

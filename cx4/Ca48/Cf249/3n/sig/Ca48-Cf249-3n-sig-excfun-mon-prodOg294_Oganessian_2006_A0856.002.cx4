@@ -1,0 +1,23 @@
+# EXFOR #         : A0856.002  
+# EXFOR Ver.      : 20240919
+# TRANS #         : A119
+# Author          : Yu.Ts.Oganessian et al.
+# Reference       : Phys.Rev.C 74 (2006) 044602
+# DOI             : 10.1103/PhysRevC.74.044602
+# Quantity        : 249Cf(48Ca,3n)294Og cross section
+# REACTION        : 98-CF-249(20-CA-48,3N)118-OG-294,,SIG
+# File ID         : Ca48-Cf249-3n-sig-excfun-mon-prodOg294_Oganessian_2006_a0856.002
+#
+# npts            : 2           
+# xmin            :   2.4500E+08
+# xmax            :   2.5100E+08
+# ymin            :   3.0000E-13
+# ymax            :   5.0000E-13
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5100E+08  0.0000E+00  5.0000E-13  0.0000E+00
+  2.4500E+08  0.0000E+00  3.0000E-13  0.0000E+00
+#---------------------------------------------------

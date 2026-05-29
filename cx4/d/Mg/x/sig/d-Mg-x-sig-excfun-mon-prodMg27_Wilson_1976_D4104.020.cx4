@@ -1,0 +1,24 @@
+# EXFOR #         : D4104.020  
+# EXFOR Ver.      : 20210929
+# TRANS #         : D132
+# Author          : R.L.Wilson et al.
+# Reference       : Phys.Rev.C 13 (1976) 976
+# DOI             : 10.1103/PhysRevC.13.976
+# Quantity        : natMg(d,x)27Mg independent production cross section
+# REACTION        : 12-MG-0(D,X)12-MG-27,,SIG
+# File ID         : d-Mg-x-sig-excfun-mon-prodMg27_Wilson_1976_d4104.020
+#
+# npts            : 3           
+# xmin            :   6.4000E+06
+# xmax            :   1.6750E+07
+# ymin            :   2.2000E-02
+# ymax            :   8.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.4000E+06  1.2000E+06  8.3000E-02  1.0000E-02
+  1.2500E+07  7.0000E+05  5.6000E-02  5.0000E-03
+  1.6750E+07  5.5000E+05  2.2000E-02  3.0000E-03
+#---------------------------------------------------

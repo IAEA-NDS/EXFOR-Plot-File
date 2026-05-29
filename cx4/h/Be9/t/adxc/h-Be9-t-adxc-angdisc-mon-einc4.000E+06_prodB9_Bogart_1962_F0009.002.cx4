@@ -1,0 +1,29 @@
+# EXFOR #         : F0009.002  
+# EXFOR Ver.      : 20200120
+# TRANS #         : F074
+# Author          : E.Bogart et al.
+# Reference       : Proceedings of Nucl. Reaction Mechanisms Conf., Padua 1962 page 960
+# DOI             : N/A
+# Quantity        : 9Be(he3,t)9B angular differential cross section
+# REACTION        : 4-BE-9(HE3,T)5-B-9,,DA
+# File ID         : h-Be9-t-adxc-angdisc-mon-einc4.000E+06_prodB9_Bogart_1962_f0009.002
+#
+# Einc (eV)       :   4.0000E+06
+#
+# npts            : 6           
+# xmin            :   15.3000000
+# xmax            :  114.2000000
+# ymin            :   9.8300E-04
+# ymax            :   4.4060E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.3000000   0.0000000  4.4060E-03  2.6000E-05
+  21.9000000   0.0000000  3.4740E-03  2.6000E-05
+  29.9000000   0.0000000  2.4280E-03  2.6000E-05
+  56.0000000   0.0000000  9.8300E-04  2.6000E-05
+  75.1000000   0.0000000  1.2220E-03  2.6000E-05
+ 114.2000000   0.0000000  1.3140E-03  2.6000E-05
+#---------------------------------------------------

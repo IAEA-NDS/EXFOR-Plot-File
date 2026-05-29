@@ -1,0 +1,22 @@
+# EXFOR #         : C2458.003  
+# EXFOR Ver.      : 20200807
+# TRANS #         : C199
+# Author          : C.Wolf et al.
+# Reference       : Phys.Rev.Lett. 122 (2019) 232701
+# DOI             : 10.1103/PhysRevLett.122.232701
+# Quantity        : 23Al(d,n)24Si cross section
+# REACTION        : 13-AL-23(D,N)14-SI-24,,SIG
+# File ID         : d-Al23-n-sig-excfun-mon-prodSi24_Wolf_2019_c2458.003
+#
+# npts            : 1           
+# xmin            :   9.6000E+07
+# xmax            :   9.6000E+07
+# ymin            :   5.6300E-04
+# ymax            :   5.6300E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.6000E+07  0.0000E+00  5.6300E-04  6.7000E-05
+#---------------------------------------------------

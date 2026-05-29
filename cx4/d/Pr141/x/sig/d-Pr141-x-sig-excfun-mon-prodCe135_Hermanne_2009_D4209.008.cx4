@@ -1,0 +1,23 @@
+# EXFOR #         : D4209.008  
+# EXFOR Ver.      : 20090325
+# TRANS #         : D066
+# Author          : A.Hermanne et al.
+# Reference       : Nucl.Instrum.Meth.B 267 (2009) 727
+# DOI             : 10.1016/j.nimb.2008.12.017
+# Quantity        : 141Pr(d,x)135Ce independent production cross section
+# REACTION        : 59-PR-141(D,X)58-CE-135,,SIG
+# File ID         : d-Pr141-x-sig-excfun-mon-prodCe135_Hermanne_2009_d4209.008
+#
+# npts            : 2           
+# xmin            :   3.3000E+07
+# xmax            :   3.6800E+07
+# ymin            :   2.9000E-03
+# ymax            :   1.7800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6800E+07  3.0000E+05  1.7800E-02  5.5000E-03
+  3.3000E+07  4.0000E+05  2.9000E-03  6.0000E-04
+#---------------------------------------------------

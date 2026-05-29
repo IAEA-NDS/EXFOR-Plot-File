@@ -1,0 +1,23 @@
+# EXFOR #         : A0574.004  
+# EXFOR Ver.      : 20190714
+# TRANS #         : A092
+# Author          : A.V.Gonchar et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 58 (1994) 778
+# DOI             : N/A
+# Quantity        : 209Bi(d,x)207Bi independent production cross section
+# REACTION        : 83-BI-209(D,X)83-BI-207,,SIG
+# File ID         : d-Bi209-x-sig-excfun-mon-prodBi207_Gonchar_1994_a0574.004
+#
+# npts            : 2           
+# xmin            :   4.2500E+07
+# xmax            :   4.6800E+07
+# ymin            :   1.9000E-01
+# ymax            :   3.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.6800E+07  0.0000E+00  3.0000E-01  6.0000E-02
+  4.2500E+07  0.0000E+00  1.9000E-01  6.0000E-02
+#---------------------------------------------------

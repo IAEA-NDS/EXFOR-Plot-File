@@ -1,0 +1,31 @@
+# EXFOR #         : E1897.013  
+# EXFOR Ver.      : 20050914
+# TRANS #         : E032
+# Author          : T.Yamagata et al.
+# Reference       : Phys.Rev.C 69 No.4 (2004) 044313
+# DOI             : 10.1103/PhysRevC.69.044313
+# Quantity        : 6Li(he3,t)6Be partial angular differential cross section
+# REACTION        : 3-LI-6(HE3,T)4-BE-6,PAR,DA
+# File ID         : h-Li6-t-adxc-angdisc-mon-einc4.500E+08_elvl8.500E+06_prodBe6_Yamagata_2004_e1897.013
+#
+# Einc (eV)       :   4.5000E+08
+# Elvl (eV)       :   8.5000E+06
+# dElvl (eV)      :   1.0000E+06
+#
+# npts            : 6           
+# xmin            :    0.0000000
+# xmax            :    5.8000000
+# ymin            :   7.5000E-04
+# ymax            :   1.9300E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  7.5000E-04  1.8750E-04
+   1.3000000   0.0000000  8.3000E-04  2.0750E-04
+   3.1000000   0.0000000  1.6400E-03  4.1000E-04
+   4.0000000   0.0000000  1.8100E-03  4.5250E-04
+   4.9000000   0.0000000  1.9300E-03  4.8250E-04
+   5.8000000   0.0000000  1.6400E-03  4.1000E-04
+#---------------------------------------------------

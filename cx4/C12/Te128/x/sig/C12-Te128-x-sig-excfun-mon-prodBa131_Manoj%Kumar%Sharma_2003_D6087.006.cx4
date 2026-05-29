@@ -1,0 +1,23 @@
+# EXFOR #         : D6087.006  
+# EXFOR Ver.      : 20091104
+# TRANS #         : D070
+# Author          : Manoj Kumar Sharma et al.
+# Reference       : J.Phys.Soc.Jpn. 72 (2003) 1917
+# DOI             : 10.1143/JPSJ.72.1917
+# Quantity        : 128Te(12C,x)131Ba independent production cross section
+# REACTION        : 52-TE-128(6-C-12,X)56-BA-131,,SIG
+# File ID         : C12-Te128-x-sig-excfun-mon-prodBa131_Manoj%Kumar%Sharma_2003_d6087.006
+#
+# npts            : 2           
+# xmin            :   7.0800E+07
+# xmax            :   8.2000E+07
+# ymin            :   7.3000E-04
+# ymax            :   7.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0800E+07  1.0000E+06  7.3000E-04  1.7000E-04
+  8.2000E+07  9.0000E+05  7.1000E-03  8.0000E-04
+#---------------------------------------------------

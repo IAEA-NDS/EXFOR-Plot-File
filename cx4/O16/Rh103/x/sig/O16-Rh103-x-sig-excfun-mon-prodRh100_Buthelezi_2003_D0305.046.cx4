@@ -1,0 +1,22 @@
+# EXFOR #         : D0305.046  
+# EXFOR Ver.      : 20050315
+# TRANS #         : D041
+# Author          : E.Z.Buthelezi et al.
+# Reference       : J.Rad.Nucl.Chem. 258 (2003) 649
+# DOI             : 10.1023/B:JRNC.0000011764.30879.fb
+# Quantity        : 103Rh(16O,x)100Rh independent production cross section
+# REACTION        : 45-RH-103(8-O-16,X)45-RH-100,IND,SIG
+# File ID         : O16-Rh103-x-sig-excfun-mon-prodRh100_Buthelezi_2003_d0305.046
+#
+# npts            : 1           
+# xmin            :   3.9360E+08
+# xmax            :   3.9360E+08
+# ymin            :   9.2430E-02
+# ymax            :   9.2430E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9360E+08  1.0000E+06  9.2430E-02  1.3900E-02
+#---------------------------------------------------

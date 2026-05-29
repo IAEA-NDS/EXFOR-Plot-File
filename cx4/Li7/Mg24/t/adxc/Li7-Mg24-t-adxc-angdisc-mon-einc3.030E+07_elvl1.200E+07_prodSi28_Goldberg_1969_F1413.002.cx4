@@ -1,0 +1,30 @@
+# EXFOR #         : F1413.002  
+# EXFOR Ver.      : 20200616
+# TRANS #         : F081
+# Author          : V.Z.Goldberg et al.
+# Reference       : Izv.Ross.AN,Fiz. 33 (1969) 587
+# DOI             : N/A
+# Quantity        : 24Mg(7Li,t)28Si partial angular differential cross section
+# REACTION        : 12-MG-24(3-LI-7,T)14-SI-28,PAR,DA
+# File ID         : Li7-Mg24-t-adxc-angdisc-mon-einc3.030E+07_elvl1.200E+07_prodSi28_Goldberg_1969_f1413.002
+#
+# Einc (eV)       :   3.0300E+07
+# Elvl (eV)       :   1.2000E+07
+#
+# npts            : 6           
+# xmin            :    0.3900000
+# xmax            :   35.6900000
+# ymin            :   3.8150E-05
+# ymax            :   4.3004E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.3900000   0.0000000  4.3004E-04  2.8355E-05
+   6.6800000   0.0000000  3.5513E-04  3.1899E-05
+  14.5200000   0.0000000  2.9789E-04  3.5444E-05
+  21.7200000   0.0000000  2.7260E-04  3.1899E-05
+  29.0700000   0.0000000  3.8150E-05  2.1266E-05
+  35.6900000   0.0000000  6.6074E-05  3.1899E-05
+#---------------------------------------------------

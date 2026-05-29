@@ -1,0 +1,26 @@
+# EXFOR #         : M0747.011  
+# EXFOR Ver.      : 20210519
+# TRANS #         : M112
+# Author          : P.Golubev et al.
+# Reference       : Nucl.Phys.A 806 (2008) 216
+# DOI             : 10.1016/j.nuclphysa.2008.02.308
+# Quantity        : 12C(g,pi++x) double differential cross section
+# REACTION        : 6-C-12(G,X)1-PP-0,,DA/DE
+# File ID         : g-C12-xpip-ddxl-enedisl-mon-einc1.760E+08_angl90_Golubev_2008_m0747.011
+#
+# Einc (eV)       :   1.7600E+08
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 2           
+# xmin            :   1.1000E+07
+# xmax            :   1.7000E+07
+# ymin            :   9.0000E-14
+# ymax            :   2.4100E-13
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.1000E+07  0.0000E+00  2.4100E-13  4.8000E-14
+  1.7000E+07  0.0000E+00  9.0000E-14  2.1000E-14
+#---------------------------------------------------

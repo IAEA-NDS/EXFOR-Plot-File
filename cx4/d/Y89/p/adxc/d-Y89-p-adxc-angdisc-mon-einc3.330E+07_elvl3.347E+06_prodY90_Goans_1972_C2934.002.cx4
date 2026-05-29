@@ -1,0 +1,29 @@
+# EXFOR #         : C2934.002  
+# EXFOR Ver.      : 20231113
+# TRANS #         : C237
+# Author          : R.E.Goans et al.
+# Reference       : Phys.Rev.C 5 (1972) 914
+# DOI             : 10.1103/PhysRevC.5.914
+# Quantity        : 89Y(d,p)90Y partial angular differential cross section
+# REACTION        : 39-Y-89(D,P)39-Y-90,PAR,DA
+# File ID         : d-Y89-p-adxc-angdisc-mon-einc3.330E+07_elvl3.347E+06_prodY90_Goans_1972_c2934.002
+#
+# Einc (eV)       :   3.3300E+07
+# Elvl (eV)       :   3.3470E+06
+#
+# npts            : 5           
+# xmin            :   12.3610000
+# xmax            :   37.6360000
+# ymin            :   2.0030E-05
+# ymax            :   2.1020E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.3610000   0.0000000  2.1020E-04  0.0000E+00
+  17.1020000   0.0000000  1.7800E-04  0.0000E+00
+  27.4730000   0.0000000  6.0570E-05  0.0000E+00
+  32.0070000   0.0000000  5.0790E-05  0.0000E+00
+  37.6360000   0.0000000  2.0030E-05  0.0000E+00
+#---------------------------------------------------

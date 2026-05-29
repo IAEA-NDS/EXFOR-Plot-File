@@ -1,0 +1,22 @@
+# EXFOR #         : C2296.023  
+# EXFOR Ver.      : 20180514
+# TRANS #         : C175
+# Author          : R.A.Glass et al.
+# Reference       : Phys.Rev. 104 (1956) 434
+# DOI             : 10.1103/PhysRev.104.434
+# Quantity        : 239Pu(a,f)83Br cumulative production cross section
+# REACTION        : 94-PU-239(A,F)35-BR-83,(CUM),SIG
+# File ID         : a-Pu239-x-sigc-excfun-mon-prodBr83_Glass_1956_c2296.023
+#
+# npts            : 1           
+# xmin            :   2.4000E+07
+# xmax            :   2.4000E+07
+# ymin            :   2.3000E-04
+# ymax            :   2.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+07  0.0000E+00  2.3000E-04  5.7500E-05
+#---------------------------------------------------

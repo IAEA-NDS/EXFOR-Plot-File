@@ -1,0 +1,23 @@
+# EXFOR #         : D5082.016  
+# EXFOR Ver.      : 20110822
+# TRANS #         : D079
+# Author          : V.V.Sotnikov et al.
+# Reference       : Proceedings of 3 Int.Conf.Cur.Prob.in Nucl.Phys.Atom.Ene.,Kyiv,2010 page 250
+# DOI             : N/A
+# Quantity        : 209Bi(d,x)203Bi cumulative production cross section
+# REACTION        : 83-BI-209(D,X)83-BI-203,CUM,SIG
+# File ID         : d-Bi209-x-sigc-excfun-mon-prodBi203_Sotnikov_2010_d5082.016
+#
+# npts            : 2           
+# xmin            :   1.6000E+09
+# xmax            :   4.0000E+09
+# ymin            :   2.8000E-02
+# ymax            :   3.7500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+09  0.0000E+00  3.7500E-02  3.0000E-03
+  4.0000E+09  0.0000E+00  2.8000E-02  3.0000E-03
+#---------------------------------------------------

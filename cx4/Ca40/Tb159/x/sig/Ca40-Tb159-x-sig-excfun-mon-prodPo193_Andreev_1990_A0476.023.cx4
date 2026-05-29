@@ -1,0 +1,23 @@
+# EXFOR #         : A0476.023  
+# EXFOR Ver.      : 20240914
+# TRANS #         : A118
+# Author          : A.N.Andreev et al.
+# Reference       : Sov.J.Nucl.Phys. 52 (1990) 412
+# DOI             : N/A
+# Quantity        : 159Tb(40Ca,x)193Po independent production cross section
+# REACTION        : 65-TB-159(20-CA-40,X)84-PO-193,,SIG
+# File ID         : Ca40-Tb159-x-sig-excfun-mon-prodPo193_Andreev_1990_a0476.023
+#
+# npts            : 2           
+# xmin            :   1.9990E+08
+# xmax            :   2.0500E+08
+# ymin            :   3.0000E-07
+# ymax            :   3.0000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9990E+08  0.0000E+00  3.0000E-07  1.2000E-07
+  2.0500E+08  0.0000E+00  3.0000E-06  1.2000E-06
+#---------------------------------------------------

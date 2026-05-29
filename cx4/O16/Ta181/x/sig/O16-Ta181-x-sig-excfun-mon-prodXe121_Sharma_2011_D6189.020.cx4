@@ -1,0 +1,23 @@
+# EXFOR #         : D6189.020  
+# EXFOR Ver.      : 20131124
+# TRANS #         : D091
+# Author          : Vijay R.Sharma et al.
+# Reference       : Phys.Rev.C 84 (2011) 014612
+# DOI             : 10.1103/PhysRevC.84.014612
+# Quantity        : 181Ta(16O,x)121Xe independent production cross section
+# REACTION        : 73-TA-181(8-O-16,X)54-XE-121,IND,SIG
+# File ID         : O16-Ta181-x-sig-excfun-mon-prodXe121_Sharma_2011_d6189.020
+#
+# npts            : 2           
+# xmin            :   9.7000E+07
+# xmax            :   1.0000E+08
+# ymin            :   2.6600E-02
+# ymax            :   3.2300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  3.2300E-02  5.0000E-04
+  9.7000E+07  0.0000E+00  2.6600E-02  1.1000E-04
+#---------------------------------------------------

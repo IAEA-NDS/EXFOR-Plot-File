@@ -1,0 +1,29 @@
+# EXFOR #         : E2351.004  
+# EXFOR Ver.      : 20180420
+# TRANS #         : E115
+# Author          : C.Scholl et al.
+# Reference       : Phys.Rev.C 84 (2011) 014308
+# DOI             : 10.1103/PhysRevC.84.014308
+# Quantity        : 9Be(he3,t)9B partial angular differential cross section
+# REACTION        : 4-BE-9(HE3,T)5-B-9,PAR,DA
+# File ID         : h-Be9-t-adxc-angdisc-mon-einc4.200E+08_elvl2.730E+06_prodB9_Scholl_2011_e2351.004
+#
+# Einc (eV)       :   4.2000E+08
+# Elvl (eV)       :   2.7300E+06
+# dElvl (eV)      :   7.0000E+04
+#
+# npts            : 4           
+# xmin            :    0.4800000
+# xmax            :    2.4300000
+# ymin            :   8.2300E-03
+# ymax            :   1.8130E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.4800000   0.0000000  1.8130E-02  2.6100E-03
+   1.0900000   0.0000000  1.5050E-02  2.1500E-03
+   1.7500000   0.0000000  1.1960E-02  1.7100E-03
+   2.4300000   0.0000000  8.2300E-03  1.1800E-03
+#---------------------------------------------------

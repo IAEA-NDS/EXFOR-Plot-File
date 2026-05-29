@@ -1,0 +1,22 @@
+# EXFOR #         : C0884.017.2
+# EXFOR Ver.      : 20130117
+# TRANS #         : C129
+# Author          : J.R.Wu et al.
+# Reference       : Phys.Rev.C 19 (1979) 659
+# DOI             : 10.1103/PhysRevC.19.659
+# Quantity        : 232Th(a,d+x) cross section
+# REACTION        : 90-TH-232(A,X)1-H-2,,SIG
+# File ID         : a-Th232-xd-sig-excfun-mon-Wu_1979_c0884.017.2
+#
+# npts            : 1           
+# xmin            :   1.4000E+08
+# xmax            :   1.4000E+08
+# ymin            :   4.1200E-01
+# ymax            :   4.1200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+08  0.0000E+00  4.1200E-01  4.1200E-02
+#---------------------------------------------------

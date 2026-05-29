@@ -1,0 +1,27 @@
+# EXFOR #         : A1379.006  
+# EXFOR Ver.      : 20180615
+# TRANS #         : A090
+# Author          : E.W.Hamburger et al.
+# Reference       : Phys.Rev. 117 (1960) 781
+# DOI             : 10.1103/PhysRev.117.781
+# Quantity        : 7Li(d,t)6Li partial angular differential cross section
+# REACTION        : 3-LI-7(D,T)3-LI-6,PAR,DA
+# File ID         : d-Li7-t-adxc-lvldis-mon-einc1.500E+07_angc17_prodLi6_Hamburger_1960_a1379.006
+#
+# Einc (eV)       :   1.5000E+07
+# dEinc (eV)      :   1.0000E+05
+# theta,cm (deg)  :   17.0000000
+# dtheta,cm (deg) :    0.5000000
+#
+# npts            : 1           
+# xmin            :   3.5700E+06
+# xmax            :   3.5700E+06
+# ymin            :   4.0000E-03
+# ymax            :   4.0000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.5700E+06  0.0000E+00  4.0000E-03  4.0000E-04
+#---------------------------------------------------

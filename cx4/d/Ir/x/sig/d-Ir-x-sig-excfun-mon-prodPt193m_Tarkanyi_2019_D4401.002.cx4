@@ -1,0 +1,22 @@
+# EXFOR #         : D4401.002  
+# EXFOR Ver.      : 20200207
+# TRANS #         : D125
+# Author          : F.Tarkanyi et al.
+# Reference       : Nucl.Instrum.Meth.B 458 (2019) 105
+# DOI             : 10.1016/j.nimb.2019.08.009
+# Quantity        : natIr(d,x)193mPt independent production cross section
+# REACTION        : 77-IR-0(D,X)78-PT-193-M,,SIG
+# File ID         : d-Ir-x-sig-excfun-mon-prodPt193m_Tarkanyi_2019_d4401.002
+#
+# npts            : 1           
+# xmin            :   1.9630E+07
+# xmax            :   1.9630E+07
+# ymin            :   8.9520E-02
+# ymax            :   8.9520E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9630E+07  1.4200E+06  8.9520E-02  1.4530E-02
+#---------------------------------------------------

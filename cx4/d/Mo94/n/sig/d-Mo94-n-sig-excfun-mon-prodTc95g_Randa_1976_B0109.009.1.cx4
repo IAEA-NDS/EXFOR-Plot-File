@@ -1,0 +1,23 @@
+# EXFOR #         : B0109.009.1
+# EXFOR Ver.      : 20180516
+# TRANS #         : B027
+# Author          : Z.Randa et al.
+# Reference       : J.Inorg.Nucl.Chem. 38 (1976) 2289
+# DOI             : 10.1016/0022-1902(76)80213-8
+# Quantity        : 94Mo(d,n)95gTc cross section
+# REACTION        : 42-MO-94(D,N)43-TC-95-G,,SIG
+# File ID         : d-Mo94-n-sig-excfun-mon-prodTc95g_Randa_1976_b0109.009.1
+#
+# npts            : 2           
+# xmin            :   3.4000E+06
+# xmax            :   4.9000E+06
+# ymin            :   1.6400E-03
+# ymax            :   3.5500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9000E+06  0.0000E+00  3.5500E-02  0.0000E+00
+  3.4000E+06  0.0000E+00  1.6400E-03  0.0000E+00
+#---------------------------------------------------

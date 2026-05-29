@@ -1,0 +1,24 @@
+# EXFOR #         : A0887.004  
+# EXFOR Ver.      : 20110715
+# TRANS #         : A072
+# Author          : V.A.Zagryadskii et al.
+# Reference       : At.En. 110 (2011) 88
+# DOI             : N/A
+# Quantity        : 83Kr(a,5n)82Sr cross section
+# REACTION        : 36-KR-83(A,5N)38-SR-82,,SIG
+# File ID         : a-Kr83-5n-sig-excfun-mon-prodSr82_Zagryadskii_2011_a0887.004
+#
+# npts            : 3           
+# xmin            :   4.1830E+07
+# xmax            :   5.2450E+07
+# ymin            :   1.4900E-02
+# ymax            :   7.3220E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.1830E+07  0.0000E+00  1.4900E-02  3.9690E-03
+  4.7200E+07  0.0000E+00  3.3030E-02  8.4970E-03
+  5.2450E+07  0.0000E+00  7.3220E-02  1.0080E-02
+#---------------------------------------------------

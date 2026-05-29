@@ -1,0 +1,23 @@
+# EXFOR #         : A0730.004  
+# EXFOR Ver.      : 20051207
+# TRANS #         : A061
+# Author          : A.Shrivastava et al.
+# Reference       : Phys.Rev.C 63 (2001) 054602
+# DOI             : 10.1103/PhysRevC.63.054602
+# Quantity        : 194Pt(12C,5n)201Po cross section
+# REACTION        : 78-PT-194(6-C-12,5N)84-PO-201,,SIG
+# File ID         : C12-Pt194-5n-sig-excfun-mon-prodPo201_Shrivastava_2001_a0730.004
+#
+# npts            : 2           
+# xmin            :   6.9564E+07
+# xmax            :   7.2963E+07
+# ymin            :   2.3800E-02
+# ymax            :   9.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.9564E+07  0.0000E+00  2.3800E-02  0.0000E+00
+  7.2963E+07  0.0000E+00  9.2000E-02  1.0000E-02
+#---------------------------------------------------

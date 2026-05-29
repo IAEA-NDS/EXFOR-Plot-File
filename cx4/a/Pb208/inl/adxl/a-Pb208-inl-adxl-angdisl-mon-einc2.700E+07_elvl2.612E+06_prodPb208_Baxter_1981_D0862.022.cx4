@@ -1,0 +1,25 @@
+# EXFOR #         : D0862.022  
+# EXFOR Ver.      : 20180117
+# TRANS #         : D113
+# Author          : A.M.Baxter et al.
+# Reference       : Nucl.Phys.A 369 (1981) 25
+# DOI             : 10.1016/0375-9474(81)90004-X
+# Quantity        : 208Pb(a,inl)208Pb partial angular differential cross section
+# REACTION        : 82-PB-208(A,INL)82-PB-208,PAR,DA
+# File ID         : a-Pb208-inl-adxl-angdisl-mon-einc2.700E+07_elvl2.612E+06_prodPb208_Baxter_1981_d0862.022
+#
+# Einc (eV)       :   2.7000E+07
+# Elvl (eV)       :   2.6120E+06
+#
+# npts            : 1           
+# xmin            :  171.0000000
+# xmax            :  171.0000000
+# ymin            :   1.5600E-04
+# ymax            :   1.5600E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 171.0000000   0.0000000  1.5600E-04  8.0000E-06
+#---------------------------------------------------

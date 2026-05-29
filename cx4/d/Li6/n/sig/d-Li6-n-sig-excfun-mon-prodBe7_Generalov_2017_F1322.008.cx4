@@ -1,0 +1,24 @@
+# EXFOR #         : F1322.008  
+# EXFOR Ver.      : 20210626
+# TRANS #         : F085
+# Author          : L.N.Generalov et al.
+# Reference       : Izv.Ross.AN,Fiz. 81 (2017) 717
+# DOI             : N/A
+# Quantity        : 6Li(d,n)7Be cross section
+# REACTION        : 3-LI-6(D,N)4-BE-7,,SIG
+# File ID         : d-Li6-n-sig-excfun-mon-prodBe7_Generalov_2017_f1322.008
+#
+# npts            : 3           
+# xmin            :   8.4500E+06
+# xmax            :   9.7800E+06
+# ymin            :   4.3000E-02
+# ymax            :   4.6800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.4500E+06  0.0000E+00  4.6800E-02  2.4336E-03
+  9.1300E+06  0.0000E+00  4.3000E-02  6.0200E-04
+  9.7800E+06  0.0000E+00  4.4200E-02  1.2818E-03
+#---------------------------------------------------

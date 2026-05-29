@@ -1,0 +1,31 @@
+# EXFOR #         : T0174.003  
+# EXFOR Ver.      : 20020724
+# TRANS #         : 0000
+# Author          : T.G.Dzubay et al.
+# Reference       : Nucl.Phys.A 142 (1970) 488
+# DOI             : 10.1016/0375-9474(70)90807-9
+# Quantity        : 58Fe(he3,t)58Co partial angular differential cross section
+# REACTION        : 26-FE-58(HE3,T)27-CO-58,PAR,DA
+# File ID         : h-Fe58-t-adxc-angdisc-mon-einc2.460E+07_eoutl5.759E+06_prodCo58_Dzubay_1970_t0174.003
+#
+# Einc (eV)       :   2.4600E+07
+# dEinc (eV)      :   5.0000E+03
+# Eout,lab (eV)   :   5.7590E+06
+# dEout,lab (eV)  :   1.2000E+04
+#
+# npts            : 5           
+# xmin            :    7.3000000
+# xmax            :   35.2000000
+# ymin            :   8.5200E-06
+# ymax            :   1.4500E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.3000000   0.0000000  1.4500E-04  2.1750E-05
+  11.4000000   0.0000000  2.3900E-05  3.5850E-06
+  18.1000000   0.0000000  9.5000E-05  1.4250E-05
+  28.1000000   0.0000000  8.5200E-06  1.2780E-06
+  35.2000000   0.0000000  4.0900E-05  6.1350E-06
+#---------------------------------------------------

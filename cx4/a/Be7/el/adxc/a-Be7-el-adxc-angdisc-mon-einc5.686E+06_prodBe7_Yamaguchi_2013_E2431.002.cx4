@@ -1,0 +1,25 @@
+# EXFOR #         : E2431.002  
+# EXFOR Ver.      : 20131029
+# TRANS #         : E081
+# Author          : H.Yamaguchi et al.
+# Reference       : Phys.Rev.C 87 (2013) 034303
+# DOI             : 10.1103/PhysRevC.87.034303
+# Quantity        : 7Be(a,el)7Be angular differential cross section
+# REACTION        : 4-BE-7(A,EL)4-BE-7,,DA
+# File ID         : a-Be7-el-adxc-angdisc-mon-einc5.686E+06_prodBe7_Yamaguchi_2013_e2431.002
+#
+# Einc (eV)       :   5.6859E+06
+# dEinc (eV)      :   6.0033E+04
+#
+# npts            : 1           
+# xmin            :  169.4000000
+# xmax            :  169.4000000
+# ymin            :   3.8500E-02
+# ymax            :   3.8500E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 169.4000000   0.0000000  3.8500E-02  1.7700E-02
+#---------------------------------------------------

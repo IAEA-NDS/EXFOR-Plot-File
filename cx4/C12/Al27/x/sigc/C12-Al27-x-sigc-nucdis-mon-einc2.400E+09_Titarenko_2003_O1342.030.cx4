@@ -1,0 +1,25 @@
+# EXFOR #         : O1342.030  
+# EXFOR Ver.      : 20070516
+# TRANS #         : O028
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Int.Meet.on Nucl.Appl.of Accel.Tech., San Diego 2003 page 59
+# DOI             : N/A
+# Quantity        : 27Al(12C,x) cumulative production cross section
+# REACTION        : 13-AL-27(6-C-12,X)ELEM/MASS,CUM,SIG
+# File ID         : C12-Al27-x-sigc-nucdis-mon-einc2.400E+09_Titarenko_2003_o1342.030
+#
+# Einc (eV)       :   2.4000E+09
+#
+# npts            : 2           
+# xmin            : 11022.9     
+# xmax            : 11024.9     
+# ymin            :   3.4400E-02
+# ymax            :   3.6500E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     11024.9  3.4400E-02  2.8000E-03
+     11022.9  3.6500E-02  3.6000E-03
+#---------------------------------------------------

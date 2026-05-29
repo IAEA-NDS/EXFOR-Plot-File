@@ -1,0 +1,25 @@
+# EXFOR #         : D6425.009  
+# EXFOR Ver.      : 20220719
+# TRANS #         : D137
+# Author          : A.Agarwal et al.
+# Reference       : Phys.Rev.C 105 (2022) 034609
+# DOI             : 10.1103/PhysRevC.105.034609
+# Quantity        : 93Nb(13C,x)97gRh cumulative production cross section
+# REACTION        : 41-NB-93(6-C-13,X)45-RH-97-G,M+,SIG
+# File ID         : C13-Nb93-x-sigc-excfun-mon-prodRh97g_Agarwal_2022_d6425.009
+#
+# npts            : 4           
+# xmin            :   7.8500E+07
+# xmax            :   8.7100E+07
+# ymin            :   4.5000E-03
+# ymax            :   1.0780E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.7100E+07  1.1000E+06  1.0780E-01  1.8300E-02
+  8.2800E+07  1.1000E+06  4.5700E-02  7.7000E-03
+  7.9200E+07  1.0000E+06  6.9000E-03  1.1000E-03
+  7.8500E+07  1.2000E+06  4.5000E-03  7.0000E-04
+#---------------------------------------------------

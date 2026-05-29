@@ -1,0 +1,25 @@
+# EXFOR #         : A1495.003  
+# EXFOR Ver.      : 20140226
+# TRANS #         : A080
+# Author          : J.P.Schiffer et al.
+# Reference       : Phys.Rev. 104 (1956) 1064
+# DOI             : 10.1103/PhysRev.104.1064
+# Quantity        : 6Li(he3,p)8Be partial angular differential cross section
+# REACTION        : 3-LI-6(HE3,P)4-BE-8,PAR,DA
+# File ID         : h-Li6-p-adxc-angdisl-mon-einc4.313E+06_elvl2.900E+06_prodBe8_Schiffer_1956_a1495.003
+#
+# Einc (eV)       :   4.3130E+06
+# Elvl (eV)       :   2.9000E+06
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   5.0910E-03
+# ymax            :   5.0910E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  5.0910E-03  1.0182E-03
+#---------------------------------------------------

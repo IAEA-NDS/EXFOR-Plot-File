@@ -1,0 +1,22 @@
+# EXFOR #         : A0932.003  
+# EXFOR Ver.      : 20250729
+# TRANS #         : A122
+# Author          : G.H.Hovhannisyan et al.
+# Reference       : Phys.At.Nucl. 75 (2012) 136
+# DOI             : 10.1134/S1063778812020172
+# Quantity        : 118Sn(12C,x)115Sb cumulative production cross section
+# REACTION        : 50-SN-118(6-C-12,X)51-SB-115,CUM,SIG
+# File ID         : C12-Sn118-x-sigc-excfun-mon-prodSb115_Hovhannisyan_2012_a0932.003
+#
+# npts            : 1           
+# xmin            :   2.6400E+10
+# xmax            :   2.6400E+10
+# ymin            :   1.4400E-02
+# ymax            :   1.4400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6400E+10  0.0000E+00  1.4400E-02  1.0000E-03
+#---------------------------------------------------

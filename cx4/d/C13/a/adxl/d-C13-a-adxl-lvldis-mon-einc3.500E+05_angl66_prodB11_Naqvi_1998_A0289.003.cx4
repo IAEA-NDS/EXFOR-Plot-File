@@ -1,0 +1,26 @@
+# EXFOR #         : A0289.003  
+# EXFOR Ver.      : 20120110
+# TRANS #         : A075
+# Author          : A.A.Naqvi et al.
+# Reference       : Australian J.Physics 51 (1998) 903
+# DOI             : 10.1071/P98035
+# Quantity        : 13C(d,a)11B partial angular differential cross section
+# REACTION        : 6-C-13(D,A)5-B-11,PAR,DA
+# File ID         : d-C13-a-adxl-lvldis-mon-einc3.500E+05_angl66_prodB11_Naqvi_1998_a0289.003
+#
+# Einc (eV)       :   3.5000E+05
+# theta,lab (deg) :   65.8000000
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   2.1240E+06
+# ymin            :   2.0900E-05
+# ymax            :   6.3800E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  6.3800E-05  1.0000E-06
+  2.1240E+06  0.0000E+00  2.0900E-05  9.0000E-07
+#---------------------------------------------------

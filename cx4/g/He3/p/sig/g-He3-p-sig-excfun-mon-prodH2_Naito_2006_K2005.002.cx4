@@ -1,0 +1,23 @@
+# EXFOR #         : K2005.002  
+# EXFOR Ver.      : 20070310
+# TRANS #         : K001
+# Author          : S.Naito et al.
+# Reference       : Phys.Rev.C 73 No.3 (2006) 034003
+# DOI             : 10.1103/PhysRevC.73.034003
+# Quantity        : 3He(g,p)2H cross section
+# REACTION        : 2-HE-3(G,P)1-H-2,,SIG
+# File ID         : g-He3-p-sig-excfun-mon-prodH2_Naito_2006_k2005.002
+#
+# npts            : 2           
+# xmin            :   1.0200E+07
+# xmax            :   1.6000E+07
+# ymin            :   6.5000E-04
+# ymax            :   7.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0200E+07  1.7500E+05  7.7000E-04  5.0000E-05
+  1.6000E+07  4.3000E+05  6.5000E-04  5.0000E-05
+#---------------------------------------------------

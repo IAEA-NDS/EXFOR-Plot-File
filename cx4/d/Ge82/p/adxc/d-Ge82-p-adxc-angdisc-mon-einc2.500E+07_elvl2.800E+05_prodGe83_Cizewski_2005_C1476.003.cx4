@@ -1,0 +1,28 @@
+# EXFOR #         : C1476.003  
+# EXFOR Ver.      : 20061206
+# TRANS #         : C079
+# Author          : J.A.Cizewski et al.
+# Reference       : Proceedings of Symp.on Capt.Gamma Ray Spectroscopy, Notre Dame 2005 page 209
+# DOI             : N/A
+# Quantity        : 82Ge(d,p)83Ge partial angular differential cross section
+# REACTION        : 32-GE-82(D,P)32-GE-83,PAR,DA
+# File ID         : d-Ge82-p-adxc-angdisc-mon-einc2.500E+07_elvl2.800E+05_prodGe83_Cizewski_2005_c1476.003
+#
+# Einc (eV)       :   2.5000E+07
+# Elvl (eV)       :   2.8000E+05
+#
+# npts            : 4           
+# xmin            :   13.4320000
+# xmax            :   31.8330000
+# ymin            :   4.4000E-03
+# ymax            :   8.5500E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  13.4320000   0.0000000  8.5500E-03  9.3500E-04
+  19.0010000   0.0000000  4.9930E-03  5.8100E-04
+  25.7850000   0.0000000  4.4000E-03  5.1000E-04
+  31.8330000   0.0000000  4.5850E-03  5.3900E-04
+#---------------------------------------------------

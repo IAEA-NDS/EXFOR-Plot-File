@@ -1,0 +1,22 @@
+# EXFOR #         : M0504.008  
+# EXFOR Ver.      : 20190603
+# TRANS #         : M100
+# Author          : A.M.Khan et al.
+# Reference       : Nucl.Phys.A 179 (1972) 333
+# DOI             : 10.1016/0375-9474(72)90374-0
+# Quantity        : 238U(g,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-238(G,F),PR,NU
+# File ID         : g-U238-f-nup-excfun-mon-Khan_1972_m0504.008
+#
+# npts            : 1           
+# xmin            :   8.0000E+06
+# xmax            :   8.0000E+06
+# ymin            :   2.7600E+00
+# ymax            :   2.7600E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  8.0000E+06  1.5000E+05  2.7600E+00  1.0000E-01
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : D0737.010.2
+# EXFOR Ver.      : 20141020
+# TRANS #         : D095
+# Author          : N.K.Skobelev et al.
+# Reference       : Phys.Part.Nucl.Lett. 11 (2014) 114
+# DOI             : 10.1134/S1547477114020265
+# Quantity        : 197Au(he3,x)197gHg cumulative production cross section
+# REACTION        : 79-AU-197(HE3,X)80-HG-197-G,(CUM),SIG
+# File ID         : h-Au197-x-sigc-excfun-mon-prodHg197g_Skobelev_2014_d0737.010.2
+#
+# npts            : 4           
+# xmin            :   1.8970E+07
+# xmax            :   2.4200E+07
+# ymin            :   2.5625E-02
+# ymax            :   5.7039E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4200E+07  0.0000E+00  5.7039E-01  3.5600E-02
+  2.2410E+07  0.0000E+00  3.5242E-01  1.2887E-02
+  2.0780E+07  0.0000E+00  1.3967E-01  3.5000E-03
+  1.8970E+07  0.0000E+00  2.5625E-02  2.9375E-03
+#---------------------------------------------------

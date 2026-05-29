@@ -1,0 +1,27 @@
+# EXFOR #         : C0762.004  
+# EXFOR Ver.      : 20181008
+# TRANS #         : C179
+# Author          : F.E.Cecil et al.
+# Reference       : Phys.Rev.C 24 (1981) 1769
+# DOI             : 10.1103/PhysRevC.24.1769
+# Quantity        : 10B(d,p)11B partial angular differential cross section
+# REACTION        : 5-B-10(D,P)5-B-11,PAR,DA
+# File ID         : d-B10-p-adxl-excfun-mon-angl150_elvl5.020E+06_prodB11_Cecil_1981_c0762.004
+#
+# theta,lab (deg) :  150.0000000
+# Elvl (eV)       :   5.0200E+06
+#
+# npts            : 3           
+# xmin            :   1.1400E+05
+# xmax            :   1.6100E+05
+# ymin            :   4.0000E-05
+# ymax            :   9.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.6100E+05  0.0000E+00  9.9000E-04  2.5000E-04
+  1.3700E+05  0.0000E+00  2.5000E-04  1.0000E-04
+  1.1400E+05  0.0000E+00  4.0000E-05  2.0000E-05
+#---------------------------------------------------

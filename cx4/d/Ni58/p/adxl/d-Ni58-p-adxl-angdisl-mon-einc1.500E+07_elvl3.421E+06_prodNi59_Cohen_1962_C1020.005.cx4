@@ -1,0 +1,27 @@
+# EXFOR #         : C1020.005  
+# EXFOR Ver.      : 20220629
+# TRANS #         : C224
+# Author          : B.L.Cohen et al.
+# Reference       : Phys.Rev. 126 (1962) 698
+# DOI             : 10.1103/PhysRev.126.698
+# Quantity        : 58Ni(d,p)59Ni partial angular differential cross section
+# REACTION        : 28-NI-58(D,P)28-NI-59,PAR,DA
+# File ID         : d-Ni58-p-adxl-angdisl-mon-einc1.500E+07_elvl3.421E+06_prodNi59_Cohen_1962_c1020.005
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   3.4210E+06
+#
+# npts            : 3           
+# xmin            :    9.5670000
+# xmax            :   40.0000000
+# ymin            :   3.4320E-03
+# ymax            :   7.3140E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.5670000   0.0000000  7.3140E-02  0.0000E+00
+  14.9040000   0.0000000  1.6390E-02  0.0000E+00
+  40.0000000   0.0000000  3.4320E-03  0.0000E+00
+#---------------------------------------------------

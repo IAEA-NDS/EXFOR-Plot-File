@@ -1,0 +1,25 @@
+# EXFOR #         : D6431.005  
+# EXFOR Ver.      : 20220725
+# TRANS #         : D137
+# Author          : M.Choudhary et al.
+# Reference       : Eur.Phys.J.A 58 (2022) 95
+# DOI             : 10.1140/epja/s10050-022-00741-7
+# Quantity        : natMo(a,x)96Tc independent production cross section
+# REACTION        : 42-MO-0(A,X)43-TC-96,,SIG
+# File ID         : a-Mo-x-sig-excfun-mon-prodTc96_Choudhary_2022_d6431.005
+#
+# npts            : 4           
+# xmin            :   1.8810E+07
+# xmax            :   3.1010E+07
+# ymin            :   2.0000E-04
+# ymax            :   3.6410E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8810E+07  2.9000E+05  2.0000E-04  3.0000E-05
+  2.2370E+07  2.8000E+05  1.1300E-03  1.2000E-04
+  2.6390E+07  2.2000E+05  2.0830E-02  2.3300E-03
+  3.1010E+07  2.2000E+05  3.6410E-02  4.1100E-03
+#---------------------------------------------------

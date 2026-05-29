@@ -1,0 +1,26 @@
+# EXFOR #         : C1749.005  
+# EXFOR Ver.      : 20091019
+# TRANS #         : C096
+# Author          : B.M.Oginni et al.
+# Reference       : Phys.Rev.C 80 (2009) 034305
+# DOI             : 10.1103/PhysRevC.80.034305
+# Quantity        : 57Fe(7Li,p+x) angular differential cross section
+# REACTION        : 26-FE-57(3-LI-7,X)1-H-1,,DA
+# File ID         : Li7-Fe57-xp-adxc-angdisc-mon-einc1.500E+07_Oginni_2009_c1749.005
+#
+# Einc (eV)       :   1.5000E+07
+#
+# npts            : 3           
+# xmin            :   42.0000000
+# xmax            :  160.2000000
+# ymin            :   5.5500E-03
+# ymax            :   8.5300E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  42.0000000   0.0000000  8.5300E-03  4.3000E-04
+ 146.8000000   0.0000000  5.5500E-03  2.6000E-04
+ 160.2000000   0.0000000  6.9000E-03  3.2000E-04
+#---------------------------------------------------

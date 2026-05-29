@@ -1,0 +1,22 @@
+# EXFOR #         : O1455.002  
+# EXFOR Ver.      : 20160805
+# TRANS #         : O058
+# Author          : C.Agodi et al.
+# Reference       : Nucl.Instrum.Meth.A 565 (2006) 406
+# DOI             : 10.1016/j.nima.2006.06.053
+# Quantity        : 8Li(a,n)11B cross section
+# REACTION        : 3-LI-8(A,N)5-B-11,,SIG
+# File ID         : a-Li8-n-sig-excfun-mon-prodB11_Agodi_2006_o1455.002
+#
+# npts            : 1           
+# xmin            :   1.8738E+06
+# xmax            :   1.8738E+06
+# ymin            :   5.0000E-01
+# ymax            :   5.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8738E+06  2.0003E+05  5.0000E-01  1.6000E-01
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : F0629.005  
+# EXFOR Ver.      : 20050615
+# TRANS #         : F022
+# Author          : H.J.Apell et al.
+# Reference       : Nucl.Phys.A 246 (1975) 477
+# DOI             : 10.1016/0375-9474(75)90660-0
+# Quantity        : 40Ca(he3,a)39Ca partial angular differential cross section
+# REACTION        : 20-CA-40(HE3,A)20-CA-39,PAR,DA
+# File ID         : h-Ca40-a-adxc-angdisc-mon-einc1.900E+07_elvl2.470E+06_prodCa39_Apell_1975_f0629.005
+#
+# Einc (eV)       :   1.9000E+07
+# Elvl (eV)       :   2.4700E+06
+#
+# npts            : 4           
+# xmin            :   16.4710000
+# xmax            :   33.3870000
+# ymin            :   6.7028E-04
+# ymax            :   5.9981E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.4710000   0.0000000  5.9981E-03  7.8487E-04
+  22.1440000   0.0000000  5.2240E-03  3.2532E-04
+  27.6470000   0.0000000  1.1122E-03  6.9260E-05
+  33.3870000   0.0000000  6.7028E-04  4.1741E-05
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : E1829.055  
+# EXFOR Ver.      : 20240608
+# TRANS #         : E149
+# Author          : H.Yashima et al.
+# Reference       : Radiochim.Acta 91 (2003) 689
+# DOI             : 10.1524/ract.91.12.689.23423
+# Quantity        : natCu(20Ne,x)39Cl cumulative production cross section
+# REACTION        : 29-CU-0(10-NE-20,X)17-CL-39,CUM,SIG
+# File ID         : Ne20-Cu-x-sigc-excfun-mon-prodCl39_Yashima_2003_e1829.055
+#
+# npts            : 2           
+# xmin            :   5.6000E+07
+# xmax            :   1.5000E+08
+# ymin            :   8.5600E-04
+# ymax            :   1.1130E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.6000E+07  0.0000E+00  8.5600E-04  3.0400E-04
+  1.5000E+08  0.0000E+00  1.1130E-03  1.6100E-04
+#---------------------------------------------------

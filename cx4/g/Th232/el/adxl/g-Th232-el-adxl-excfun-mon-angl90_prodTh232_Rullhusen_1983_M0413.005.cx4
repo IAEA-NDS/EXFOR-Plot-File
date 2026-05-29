@@ -1,0 +1,28 @@
+# EXFOR #         : M0413.005  
+# EXFOR Ver.      : 20161223
+# TRANS #         : M086
+# Author          : P.Rullhusen et al.
+# Reference       : Phys.Rev.C 27 (1983) 559
+# DOI             : 10.1103/PhysRevC.27.559
+# Quantity        : 232Th(g,el)232Th angular differential cross section
+# REACTION        : 90-TH-232(G,EL)90-TH-232,,DA
+# File ID         : g-Th232-el-adxl-excfun-mon-angl90_prodTh232_Rullhusen_1983_m0413.005
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 5           
+# xmin            :   8.5330E+06
+# xmax            :   1.1388E+07
+# ymin            :   2.1400E-05
+# ymax            :   2.1900E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.5330E+06  0.0000E+00  2.5500E-05  8.4000E-06
+  8.8840E+06  0.0000E+00  2.1400E-05  4.6000E-06
+  8.9980E+06  0.0000E+00  2.2100E-05  4.0000E-06
+  9.7200E+06  0.0000E+00  4.7600E-05  9.1000E-06
+  1.1388E+07  0.0000E+00  2.1900E-04  8.6000E-05
+#---------------------------------------------------

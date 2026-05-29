@@ -1,0 +1,22 @@
+# EXFOR #         : A0903.070  
+# EXFOR Ver.      : 20111201
+# TRANS #         : A075
+# Author          : P.Kozma et al.
+# Reference       : Report JINR-E1-89-482, 1989
+# DOI             : N/A
+# Quantity        : 238U(12C,x)175Hf cumulative production cross section
+# REACTION        : 92-U-238(6-C-12,X)72-HF-175,CUM,SIG
+# File ID         : C12-U238-x-sigc-excfun-mon-prodHf175_Kozma_1989_a0903.070
+#
+# npts            : 1           
+# xmin            :   4.3800E+10
+# xmax            :   4.3800E+10
+# ymin            :   2.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3800E+10  0.0000E+00  2.0000E-02  3.0000E-03
+#---------------------------------------------------

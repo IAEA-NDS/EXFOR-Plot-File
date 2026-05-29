@@ -1,0 +1,28 @@
+# EXFOR #         : C2139.002  
+# EXFOR Ver.      : 20150212
+# TRANS #         : C150
+# Author          : V.Morcelle et al.
+# Reference       : Phys.Rev.C 89 (2014) 044611
+# DOI             : 10.1103/PhysRevC.89.044611
+# Quantity        : 27Al(7Be,el)27Al angular differential cross section
+# REACTION        : 13-AL-27(4-BE-7,EL)13-AL-27,,DA,,RTH
+# File ID         : Be7-Al27-el-adxc-angdisc-mon-einc1.380E+07_prodAl27_Morcelle_2014_c2139.002
+#
+# Einc (eV)       :   1.3800E+07
+#
+# npts            : 5           
+# xmin            :    9.5000000
+# xmax            :   69.6000000
+# ymin            :   9.3632E-02
+# ymax            :   3.6037E+02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.5000000   0.0000000  3.6037E+02  0.0000E+00
+  35.8000000   0.0000000  2.0952E+00  1.3095E-01
+  42.4000000   0.0000000  9.3961E-01  1.0250E-01
+  60.3000000   0.0000000  1.7445E-01  5.0498E-02
+  69.6000000   0.0000000  9.3632E-02  1.6523E-02
+#---------------------------------------------------

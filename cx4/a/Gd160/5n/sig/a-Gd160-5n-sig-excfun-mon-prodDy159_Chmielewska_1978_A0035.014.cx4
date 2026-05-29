@@ -1,0 +1,24 @@
+# EXFOR #         : A0035.014  
+# EXFOR Ver.      : 20260202
+# TRANS #         : A130
+# Author          : D.Chmielewska et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 42 No.11 (1978) 132
+# DOI             : N/A
+# Quantity        : 160Gd(a,5n)159Dy cross section
+# REACTION        : 64-GD-160(A,5N)66-DY-159,,SIG
+# File ID         : a-Gd160-5n-sig-excfun-mon-prodDy159_Chmielewska_1978_a0035.014
+#
+# npts            : 3           
+# xmin            :   4.7000E+07
+# xmax            :   8.0000E+07
+# ymin            :   2.8000E-01
+# ymax            :   1.3000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.7000E+07  0.0000E+00  2.8000E-01  0.0000E+00
+  5.6000E+07  0.0000E+00  1.3000E+00  0.0000E+00
+  8.0000E+07  0.0000E+00  3.3000E-01  0.0000E+00
+#---------------------------------------------------

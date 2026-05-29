@@ -1,0 +1,30 @@
+# EXFOR #         : F0174.002  
+# EXFOR Ver.      : 20200611
+# TRANS #         : F078
+# Author          : P.G.Ivanitskiy
+# Reference       : Ukr.Fiz.Zh. 7 (1962) 1160
+# DOI             : N/A
+# Quantity        : 9Be(d,a)7Li partial angular differential cross section
+# REACTION        : 4-BE-9(D,A)3-LI-7,PAR,DA
+# File ID         : d-Be9-a-adxc-angdisc-mon-einc1.360E+07_elvl7.500E+06_prodLi7_Ivanitskiy_1962_f0174.002
+#
+# Einc (eV)       :   1.3600E+07
+# Elvl (eV)       :   7.5000E+06
+#
+# npts            : 6           
+# xmin            :   10.1000000
+# xmax            :   33.7000000
+# ymin            :   7.0460E-03
+# ymax            :   2.6660E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.1000000   0.0000000  2.6660E-02  1.4000E-04
+  13.5000000   0.0000000  2.3610E-02  1.4000E-04
+  16.8000000   0.0000000  1.4690E-02  1.4000E-04
+  20.2000000   0.0000000  1.1420E-02  1.4000E-04
+  27.0000000   0.0000000  8.7980E-03  1.4000E-04
+  33.7000000   0.0000000  7.0460E-03  1.4000E-04
+#---------------------------------------------------

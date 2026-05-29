@@ -1,0 +1,22 @@
+# EXFOR #         : A0561.021  
+# EXFOR Ver.      : 20210312
+# TRANS #         : A097
+# Author          : V.S.Buttsev et al.
+# Reference       : Proceedings of 41.Conf.Nucl.Spectroscopy Nucl.Struct.,Minsk 1991 page 498
+# DOI             : N/A
+# Quantity        : natAg(12C,x)101mRh cumulative production cross section
+# REACTION        : 47-AG-0(6-C-12,X)45-RH-101-M,(CUM),SIG
+# File ID         : C12-Ag-x-sigc-excfun-mon-prodRh101m_Buttsev_1991_a0561.021
+#
+# npts            : 1           
+# xmin            :   4.3800E+10
+# xmax            :   4.3800E+10
+# ymin            :   3.8300E-02
+# ymax            :   3.8300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3800E+10  0.0000E+00  3.8300E-02  1.6000E-03
+#---------------------------------------------------

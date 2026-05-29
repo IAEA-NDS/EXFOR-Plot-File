@@ -1,0 +1,24 @@
+# EXFOR #         : D6317.003  
+# EXFOR Ver.      : 20220906
+# TRANS #         : D137
+# Author          : K.Sudarshan et al.
+# Reference       : Phys.Rev.C 95 (2017) 024604
+# DOI             : 10.1103/PhysRevC.95.024604
+# Quantity        : 176Yb(28Si,x)200m1Bi independent production cross section
+# REACTION        : 70-YB-176(14-SI-28,X)83-BI-200-M1,,SIG
+# File ID         : Si28-Yb176-x-sig-excfun-mon-prodBi200m_Sudarshan_2017_d6317.003
+#
+# npts            : 3           
+# xmin            :   1.3800E+08
+# xmax            :   1.4900E+08
+# ymin            :   2.7000E-03
+# ymax            :   5.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3800E+08  0.0000E+00  3.8000E-03  3.0000E-03
+  1.4500E+08  0.0000E+00  5.4000E-03  1.3000E-03
+  1.4900E+08  0.0000E+00  2.7000E-03  8.0000E-04
+#---------------------------------------------------

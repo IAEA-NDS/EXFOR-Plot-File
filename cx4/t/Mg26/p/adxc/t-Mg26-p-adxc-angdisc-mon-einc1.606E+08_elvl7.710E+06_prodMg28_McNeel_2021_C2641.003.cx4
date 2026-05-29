@@ -1,0 +1,29 @@
+# EXFOR #         : C2641.003  
+# EXFOR Ver.      : 20210621
+# TRANS #         : C207
+# Author          : D.G.McNeel et al.
+# Reference       : Phys.Rev.C 103 (2021) 064320
+# DOI             : 10.1103/PhysRevC.103.064320
+# Quantity        : 26Mg(t,p)28Mg partial angular differential cross section
+# REACTION        : 12-MG-26(T,P)12-MG-28,PAR,DA
+# File ID         : t-Mg26-p-adxc-angdisc-mon-einc1.606E+08_elvl7.710E+06_prodMg28_McNeel_2021_c2641.003
+#
+# Einc (eV)       :   1.6060E+08
+# Elvl (eV)       :   7.7100E+06
+#
+# npts            : 5           
+# xmin            :   21.4100000
+# xmax            :   42.6800000
+# ymin            :   3.3400E-06
+# ymax            :   8.5700E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  21.4100000   0.0000000  7.2900E-06  2.3800E-06
+  27.4300000   0.0000000  3.9300E-06  1.5600E-06
+  32.9400000   0.0000000  8.5700E-06  3.1100E-06
+  37.4700000   0.0000000  7.8500E-06  2.5000E-06
+  42.6800000   0.0000000  3.3400E-06  1.7300E-06
+#---------------------------------------------------

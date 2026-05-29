@@ -1,0 +1,28 @@
+# EXFOR #         : F1185.013  
+# EXFOR Ver.      : 20130402
+# TRANS #         : F051
+# Author          : V.P.Kondratev et al.
+# Reference       : Izv.Ross.AN,Fiz. 49 No.1 (1985) 147
+# DOI             : N/A
+# Quantity        : 58Ni(d,p+x) angular differential cross section
+# REACTION        : 28-NI-58(D,X)1-H-1,,DA
+# File ID         : d-Ni58-xp-adxl-angdisl-mon-einc6.700E+09_Kondratev_1985_f1185.013
+#
+# Einc (eV)       :   6.7000E+09
+#
+# npts            : 5           
+# xmin            :   29.5200000
+# xmax            :  149.2300000
+# ymin            :   1.3769E-01
+# ymax            :   1.5731E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  29.5200000   0.0000000  1.5731E-01  2.0200E-03
+  59.8100000   0.0000000  1.5564E-01  2.0300E-03
+  89.8200000   0.0000000  1.5093E-01  2.7800E-03
+ 119.1500000   0.0000000  1.4519E-01  2.5300E-03
+ 149.2300000   0.0000000  1.3769E-01  1.5200E-03
+#---------------------------------------------------

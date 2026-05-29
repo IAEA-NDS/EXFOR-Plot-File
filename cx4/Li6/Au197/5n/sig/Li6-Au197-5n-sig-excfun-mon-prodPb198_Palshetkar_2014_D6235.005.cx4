@@ -1,0 +1,23 @@
+# EXFOR #         : D6235.005  
+# EXFOR Ver.      : 20210505
+# TRANS #         : D130
+# Author          : C.S.Palshetkar et al.
+# Reference       : Phys.Rev.C 89 (2014) 024607
+# DOI             : 10.1103/PhysRevC.89.024607
+# Quantity        : 197Au(6Li,5n)198Pb cross section
+# REACTION        : 79-AU-197(3-LI-6,5N)82-PB-198,,SIG
+# File ID         : Li6-Au197-5n-sig-excfun-mon-prodPb198_Palshetkar_2014_d6235.005
+#
+# npts            : 2           
+# xmin            :   3.8031E+07
+# xmax            :   3.9783E+07
+# ymin            :   1.1000E-02
+# ymax            :   4.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9783E+07  2.0004E+05  4.5000E-02  2.0000E-03
+  3.8031E+07  2.0004E+05  1.1000E-02  1.0000E-03
+#---------------------------------------------------

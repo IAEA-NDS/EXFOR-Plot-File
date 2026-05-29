@@ -1,0 +1,23 @@
+# EXFOR #         : M0402.002  
+# EXFOR Ver.      : 20161222
+# TRANS #         : M086
+# Author          : J.B.Martins et al.
+# Reference       : Nuovo Cim.A 101 (1989) 789
+# DOI             : 10.1007/BF02844870
+# Quantity        : 209Bi(g,f) cross section
+# REACTION        : 83-BI-209(G,F),,SIG
+# File ID         : g-Bi209-f-sig-excfun-mon-Martins_1989_m0402.002
+#
+# npts            : 2           
+# xmin            :   6.0000E+07
+# xmax            :   6.4000E+07
+# ymin            :   9.0000E-05
+# ymax            :   4.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+07  0.0000E+00  9.0000E-05  2.0000E-05
+  6.4000E+07  3.2000E+06  4.1000E-04  9.0000E-05
+#---------------------------------------------------

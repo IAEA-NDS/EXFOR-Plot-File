@@ -1,0 +1,23 @@
+# EXFOR #         : A0480.015  
+# EXFOR Ver.      : 20200311
+# TRANS #         : A094
+# Author          : R.Vandenbosch et al.
+# Reference       : Phys.Rev. 111 (1958) 1358
+# DOI             : 10.1103/PhysRev.111.1358
+# Quantity        : 235U(a,5n)234Pu cross section
+# REACTION        : 92-U-235(A,5N)94-PU-234,,SIG
+# File ID         : a-U235-5n-sig-excfun-mon-prodPu234_Vandenbosch_1958_a0480.015
+#
+# npts            : 2           
+# xmin            :   4.2800E+07
+# xmax            :   4.5400E+07
+# ymin            :   2.0000E-06
+# ymax            :   3.4000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.2800E+07  0.0000E+00  2.0000E-06  3.0000E-07
+  4.5400E+07  0.0000E+00  3.4000E-05  5.1000E-06
+#---------------------------------------------------

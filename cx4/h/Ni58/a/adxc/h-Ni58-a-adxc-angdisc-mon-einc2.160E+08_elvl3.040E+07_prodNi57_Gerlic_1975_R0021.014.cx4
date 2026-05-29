@@ -1,0 +1,30 @@
+# EXFOR #         : R0021.014  
+# EXFOR Ver.      : 20070909
+# TRANS #         : R022
+# Author          : E.Gerlic et al.
+# Reference       : Phys.Rev.C 12 No.6 (1975) 2106
+# DOI             : 10.1103/PhysRevC.12.2106
+# Quantity        : 58Ni(he3,a)57Ni partial angular differential cross section
+# REACTION        : 28-NI-58(HE3,A)28-NI-57,PAR,DA
+# File ID         : h-Ni58-a-adxc-angdisc-mon-einc2.160E+08_elvl3.040E+07_prodNi57_Gerlic_1975_r0021.014
+#
+# Einc (eV)       :   2.1600E+08
+# Elvl (eV)       :   3.0400E+07
+# dElvl (eV)      :   1.9600E+07
+#
+# npts            : 5           
+# xmin            :    6.4000000
+# xmax            :   17.1000000
+# ymin            :   1.6000E-03
+# ymax            :   6.9000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.4000000   0.0000000  6.9000E-03  5.0000E-04
+   8.6000000   0.0000000  6.5000E-03  5.0000E-04
+  11.1000000   0.0000000  4.2000E-03  3.0000E-04
+  14.0000000   0.0000000  3.6000E-03  3.0000E-04
+  17.1000000   0.0000000  1.6000E-03  1.0000E-04
+#---------------------------------------------------

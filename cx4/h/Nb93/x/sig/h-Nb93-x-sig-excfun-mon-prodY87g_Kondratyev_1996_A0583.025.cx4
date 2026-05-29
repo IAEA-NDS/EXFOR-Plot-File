@@ -1,0 +1,24 @@
+# EXFOR #         : A0583.025  
+# EXFOR Ver.      : 20260202
+# TRANS #         : A130
+# Author          : S.N.Kondratyev et al.
+# Reference       : Phys.At.Nucl. 59 (1996) 2041
+# DOI             : N/A
+# Quantity        : 93Nb(he3,x)87gY independent production cross section
+# REACTION        : 41-NB-93(HE3,X)39-Y-87-G,,SIG
+# File ID         : h-Nb93-x-sig-excfun-mon-prodY87g_Kondratyev_1996_a0583.025
+#
+# npts            : 3           
+# xmin            :   3.7100E+07
+# xmax            :   6.9100E+07
+# ymin            :   1.2000E-03
+# ymax            :   5.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.9100E+07  7.0000E+05  5.1000E-03  3.4000E-03
+  4.2800E+07  8.0000E+05  1.2000E-03  8.0000E-04
+  3.7100E+07  9.0000E+05  1.2000E-03  7.0000E-04
+#---------------------------------------------------

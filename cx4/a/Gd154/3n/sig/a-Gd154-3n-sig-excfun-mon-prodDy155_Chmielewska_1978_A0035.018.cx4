@@ -1,0 +1,23 @@
+# EXFOR #         : A0035.018  
+# EXFOR Ver.      : 20260202
+# TRANS #         : A130
+# Author          : D.Chmielewska et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 42 No.11 (1978) 132
+# DOI             : N/A
+# Quantity        : 154Gd(a,3n)155Dy cross section
+# REACTION        : 64-GD-154(A,3N)66-DY-155,,SIG
+# File ID         : a-Gd154-3n-sig-excfun-mon-prodDy155_Chmielewska_1978_a0035.018
+#
+# npts            : 2           
+# xmin            :   4.7000E+07
+# xmax            :   5.6000E+07
+# ymin            :   2.3000E-01
+# ymax            :   5.8500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.7000E+07  0.0000E+00  5.8500E-01  0.0000E+00
+  5.6000E+07  0.0000E+00  2.3000E-01  0.0000E+00
+#---------------------------------------------------

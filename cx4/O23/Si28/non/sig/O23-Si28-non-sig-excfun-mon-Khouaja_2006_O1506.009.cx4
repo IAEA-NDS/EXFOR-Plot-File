@@ -1,0 +1,23 @@
+# EXFOR #         : O1506.009  
+# EXFOR Ver.      : 20071114
+# TRANS #         : O034
+# Author          : A.Khouaja et al.
+# Reference       : Nucl.Phys.A 780 (2006) 1
+# DOI             : N/A
+# Quantity        : 28Si(23O,non) cross section
+# REACTION        : 14-SI-28(8-O-23,NON),,SIG
+# File ID         : O23-Si28-non-sig-excfun-mon-Khouaja_2006_o1506.009
+#
+# npts            : 2           
+# xmin            :   8.5445E+08
+# xmax            :   9.7819E+08
+# ymin            :   2.1090E+00
+# ymax            :   2.3420E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.7819E+08  0.0000E+00  2.1090E+00  4.2000E-02
+  8.5445E+08  0.0000E+00  2.3420E+00  5.9000E-02
+#---------------------------------------------------

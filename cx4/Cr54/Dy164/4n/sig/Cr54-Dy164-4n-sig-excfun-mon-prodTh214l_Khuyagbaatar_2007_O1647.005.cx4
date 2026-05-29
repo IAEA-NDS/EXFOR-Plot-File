@@ -1,0 +1,23 @@
+# EXFOR #         : O1647.005  
+# EXFOR Ver.      : 20080331
+# TRANS #         : O036
+# Author          : J.Khuyagbaatar et al.
+# Reference       : Eur.Phys.J.A 34 (2007) 355
+# DOI             : 10.1140/epja/i2007-10512-5
+# Quantity        : 164Dy(54Cr,4n)214lTh cross section
+# REACTION        : 66-DY-164(24-CR-54,4N)90-TH-214-L,,SIG
+# File ID         : Cr54-Dy164-4n-sig-excfun-mon-prodTh214l_Khuyagbaatar_2007_o1647.005
+#
+# npts            : 2           
+# xmin            :   2.4600E+08
+# xmax            :   2.5800E+08
+# ymin            :   3.0000E-07
+# ymax            :   1.2000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4600E+08  0.0000E+00  1.2000E-06  3.0000E-07
+  2.5800E+08  0.0000E+00  3.0000E-07  1.0000E-07
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : F1252.003  
+# EXFOR Ver.      : 20150411
+# TRANS #         : F058
+# Author          : A.N.Andreev et al.
+# Reference       : JINR Rapid Comm.  No.6/45 (1990) 66
+# DOI             : N/A
+# Quantity        : 209Bi(22Ne,x)227Np independent production cross section
+# REACTION        : 83-BI-209(10-NE-22,X)93-NP-227,,SIG
+# File ID         : Ne22-Bi209-x-sig-excfun-mon-prodNp227_Andreev_1990_f1252.003
+#
+# npts            : 1           
+# xmin            :   1.0900E+08
+# xmax            :   1.0900E+08
+# ymin            :   3.0000E-07
+# ymax            :   3.0000E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0900E+08  1.0000E+06  3.0000E-07  1.5000E-07
+#---------------------------------------------------

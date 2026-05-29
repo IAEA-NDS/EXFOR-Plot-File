@@ -1,0 +1,25 @@
+# EXFOR #         : D0005.004  
+# EXFOR Ver.      : 20161110
+# TRANS #         : D107
+# Author          : M.Drosg
+# Reference       : Nucl.Sci.Eng. 67 (1978) 190
+# DOI             : 10.13182/NSE67-190
+# Quantity        : 1H(t,n)3He angular differential cross section
+# REACTION        : 1-H-1(T,N)2-HE-3,,DA
+# File ID         : t-H1-n-adxl-excfun-mon-angl0_prodHe3_Drosg_1978_d0005.004
+#
+# theta,lab (deg) :    0.0000000
+#
+# npts            : 2           
+# xmin            :   1.4880E+07
+# xmax            :   1.6190E+07
+# ymin            :   4.6700E-01
+# ymax            :   5.0700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4880E+07  0.0000E+00  5.0700E-01  0.0000E+00
+  1.6190E+07  0.0000E+00  4.6700E-01  0.0000E+00
+#---------------------------------------------------

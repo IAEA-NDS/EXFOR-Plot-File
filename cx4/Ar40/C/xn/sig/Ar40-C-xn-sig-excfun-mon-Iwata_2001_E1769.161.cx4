@@ -1,0 +1,23 @@
+# EXFOR #         : E1769.161  
+# EXFOR Ver.      : 20061121
+# TRANS #         : E039
+# Author          : Y.Iwata et al.
+# Reference       : Phys.Rev.C 64 No.5 (2001) 054609
+# DOI             : 10.1103/PhysRevC.64.054609
+# Quantity        : natC(40Ar,n+x) cross section
+# REACTION        : 6-C-0(18-AR-40,X)0-NN-1,,SIG
+# File ID         : Ar40-C-xn-sig-excfun-mon-Iwata_2001_e1769.161
+#
+# npts            : 2           
+# xmin            :   1.6000E+10
+# xmax            :   2.2400E+10
+# ymin            :   1.1900E+01
+# ymax            :   1.4400E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+10  0.0000E+00  1.4400E+01  0.0000E+00
+  2.2400E+10  0.0000E+00  1.1900E+01  0.0000E+00
+#---------------------------------------------------

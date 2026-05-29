@@ -1,0 +1,25 @@
+# EXFOR #         : D6177.008  
+# EXFOR Ver.      : 20131124
+# TRANS #         : D091
+# Author          : Tauseef Ahmad et al.
+# Reference       : Int.J.Mod.Phys.E 20 (2011) 645
+# DOI             : 10.1142/S0218301311018137
+# Quantity        : 93Nb(12C,x)101Rh cumulative production cross section
+# REACTION        : 41-NB-93(6-C-12,X)45-RH-101,CUM,SIG
+# File ID         : C12-Nb93-x-sigc-excfun-mon-prodRh101_Tauseef%Ahmad_2011_d6177.008
+#
+# npts            : 4           
+# xmin            :   5.4000E+07
+# xmax            :   7.3900E+07
+# ymin            :   2.8000E-03
+# ymax            :   2.2800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.4000E+07  1.4000E+06  2.8000E-03  4.0000E-04
+  6.1200E+07  1.3000E+06  9.7000E-03  1.9000E-03
+  6.7800E+07  1.2000E+06  1.8400E-02  2.2000E-03
+  7.3900E+07  1.1000E+06  2.2800E-02  2.5000E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : D4272.003.2
+# EXFOR Ver.      : 20130111
+# TRANS #         : D086
+# Author          : T.Rauscher et al.
+# Reference       : Phys.Rev.C 86 (2012) 015804
+# DOI             : 10.1103/PhysRevC.86.015804
+# Quantity        : 169Tm(a,n)172Lu cross section
+# REACTION        : 69-TM-169(A,N)71-LU-172,,SIG,,SFC
+# File ID         : a-Tm169-n-sig-excfun-mon-prodLu172_Rauscher_2012_d4272.003.2
+#
+# npts            : 2           
+# xmin            :   1.2571E+07
+# xmax            :   1.2981E+07
+# ymin            :   7.0837E-06
+# ymax            :   2.1362E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2571E+07  8.7007E+04  7.0837E-06  6.6371E-07
+  1.2981E+07  6.6005E+04  2.1362E-05  2.0274E-06
+#---------------------------------------------------

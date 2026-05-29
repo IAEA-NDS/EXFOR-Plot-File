@@ -1,0 +1,24 @@
+# EXFOR #         : 30948.002  
+# EXFOR Ver.      : 20010419
+# TRANS #         : 0000
+# Author          : A.V.Jadhav et al.
+# Reference       : Nukleonik 9 (1967) 43
+# DOI             : N/A
+# Quantity        : 238U(sf) cumulative fission product yield
+# REACTION        : 92-U-238(0,F)ELEM/MASS,CUM,FY
+# File ID         : 0-U238-f-fyc-nucdis-mon-Jadhav_1967_30948.002
+#
+# npts            : 3           
+# xmin            : 42099.9     
+# xmax            : 52132.9     
+# ymin            :   1.1500E-02
+# ymax            :   6.9400E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     42099.9  6.9400E-02  1.0200E-02
+     45105.0  1.1500E-02  1.8000E-03
+     52132.9  4.0000E-02  6.0000E-03
+#---------------------------------------------------

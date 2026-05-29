@@ -1,0 +1,29 @@
+# EXFOR #         : D0836.003  
+# EXFOR Ver.      : 20170330
+# TRANS #         : D109
+# Author          : P.Adsley et al.
+# Reference       : Phys.Rev.C 95 (2017) 024319
+# DOI             : 10.1103/PhysRevC.95.024319
+# Quantity        : natSi(a,inl)natSi partial angular differential cross section
+# REACTION        : 14-SI-0(A,INL)14-SI-0,PAR,DA
+# File ID         : a-Si-inl-adxl-angdisl-mon-einc2.000E+08_elvl9.710E+06_prodSi_Adsley_2017_d0836.003
+#
+# Einc (eV)       :   2.0000E+08
+# Elvl (eV)       :   9.7100E+06
+#
+# npts            : 5           
+# xmin            :    1.0000000
+# xmax            :    5.5000000
+# ymin            :   3.5655E-04
+# ymax            :   2.4192E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   1.0000000   1.0000000  2.4192E-03  4.9656E-05
+   2.5000000   0.5000000  9.7140E-04  1.1732E-04
+   3.5000000   0.5000000  3.5655E-04  1.0055E-04
+   4.5000000   0.5000000  3.5655E-04  3.3914E-05
+   5.5000000   0.5000000  1.3613E-03  9.7013E-05
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : M0522.005  
+# EXFOR Ver.      : 20160205
+# TRANS #         : M082
+# Author          : B.E.Macgibbon et al.
+# Reference       : Phys.Rev.C 52 (1995) 2097
+# DOI             : 10.1103/PhysRevC.52.2097
+# Quantity        : 1H(g,el)1H angular differential cross section
+# REACTION        : 1-H-1(G,EL)1-H-1,,DA,,BRS
+# File ID         : g-H1-el-adxl-excfun-brs-angl90_prodH1_Macgibbon_1995_m0522.005
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 5           
+# xmin            :   1.0500E+08
+# xmax            :   1.4500E+08
+# ymin            :   9.4800E-09
+# ymax            :   1.3070E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.0500E+08  5.0000E+06  9.4800E-09  1.4400E-09
+  1.1500E+08  5.0000E+06  1.2070E-08  1.5600E-09
+  1.2500E+08  5.0000E+06  1.1190E-08  1.0200E-09
+  1.3500E+08  5.0000E+06  1.1400E-08  1.5900E-09
+  1.4500E+08  5.0000E+06  1.3070E-08  2.4200E-09
+#---------------------------------------------------

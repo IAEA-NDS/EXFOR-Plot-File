@@ -1,0 +1,25 @@
+# EXFOR #         : E1923.098  
+# EXFOR Ver.      : 20060411
+# TRANS #         : E036
+# Author          : H.Yashima et al.
+# Reference       : Nucl.Instrum.Meth.B 226 (2004) 243
+# DOI             : 10.1016/j.nimb.2004.06.025
+# Quantity        : natPb(12C,x) independent production cross section
+# REACTION        : 82-PB-0(6-C-12,X)ELEM/MASS,IND,SIG
+# File ID         : C12-Pb-x-sig-nucdis-mon-einc1.200E+09_Yashima_2004_e1923.098
+#
+# Einc (eV)       :   1.2000E+09
+#
+# npts            : 2           
+# xmin            : 25054.9     
+# xmax            : 27058.0     
+# ymin            :   2.7900E-03
+# ymax            :   3.1900E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     25054.9  2.7900E-03  1.2000E-04
+     27058.0  3.1900E-03  1.0000E-04
+#---------------------------------------------------

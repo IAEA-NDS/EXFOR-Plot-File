@@ -1,0 +1,25 @@
+# EXFOR #         : M0579.005  
+# EXFOR Ver.      : 20190625
+# TRANS #         : M101
+# Author          : R.A.Schumacher et al.
+# Reference       : Phys.Rev.C 33 (1986) 50
+# DOI             : 10.1103/PhysRevC.33.50
+# Quantity        : 4He(g,p)3H angular differential cross section
+# REACTION        : 2-HE-4(G,P)1-H-3,,DA,,BRS
+# File ID         : g-He4-p-adxc-angdisc-brs-einc2.170E+08_prodH3_Schumacher_1986_m0579.005
+#
+# Einc (eV)       :   2.1700E+08
+# dEinc (eV)      :   5.0000E+06
+#
+# npts            : 1           
+# xmin            :   62.2000000
+# xmax            :   62.2000000
+# ymin            :   1.1060E-06
+# ymax            :   1.1060E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  62.2000000   0.0000000  1.1060E-06  5.6000E-08
+#---------------------------------------------------

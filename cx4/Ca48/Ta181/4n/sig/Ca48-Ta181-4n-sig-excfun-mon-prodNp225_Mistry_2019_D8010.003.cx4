@@ -1,0 +1,22 @@
+# EXFOR #         : D8010.003  
+# EXFOR Ver.      : 20200428
+# TRANS #         : D127
+# Author          : A.K.Mistry et al.
+# Reference       : Nucl.Phys.A 987 (2019) 337
+# DOI             : 10.1016/j.nuclphysa.2019.05.003
+# Quantity        : 181Ta(48Ca,4n)225Np cross section
+# REACTION        : 73-TA-181(20-CA-48,4N)93-NP-225,,SIG
+# File ID         : Ca48-Ta181-4n-sig-excfun-mon-prodNp225_Mistry_2019_d8010.003
+#
+# npts            : 1           
+# xmin            :   2.1700E+08
+# xmax            :   2.1700E+08
+# ymin            :   4.0000E-11
+# ymax            :   4.0000E-11
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1700E+08  0.0000E+00  4.0000E-11  3.0000E-11
+#---------------------------------------------------

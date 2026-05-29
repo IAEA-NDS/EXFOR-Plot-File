@@ -1,0 +1,28 @@
+# EXFOR #         : C1310.002  
+# EXFOR Ver.      : 20050811
+# TRANS #         : C075
+# Author          : S.Mordechai et al.
+# Reference       : Phys.Rev.C 25 (1982) 1276
+# DOI             : 10.1103/PhysRevC.25.1276
+# Quantity        : 82Se(t,a)81As partial angular differential cross section
+# REACTION        : 34-SE-82(T,A)33-AS-81,PAR,DA
+# File ID         : t-Se82-a-adxc-angdisc-mon-einc1.800E+07_elvl7.270E+05_prodAs81_Mordechai_1982_c1310.002
+#
+# Einc (eV)       :   1.8000E+07
+# Elvl (eV)       :   7.2700E+05
+#
+# npts            : 4           
+# xmin            :   27.4000000
+# xmax            :   50.4000000
+# ymin            :   7.8500E-06
+# ymax            :   2.7600E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  27.4000000   0.0000000  1.8200E-05  4.3500E-06
+  35.2000000   0.0000000  2.7600E-05  5.0000E-06
+  42.7000000   0.0000000  1.0300E-05  2.8800E-06
+  50.4000000   0.0000000  7.8500E-06  2.5800E-06
+#---------------------------------------------------

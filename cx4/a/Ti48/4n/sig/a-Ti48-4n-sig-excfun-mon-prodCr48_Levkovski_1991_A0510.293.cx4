@@ -1,0 +1,25 @@
+# EXFOR #         : A0510.293  
+# EXFOR Ver.      : 20231226
+# TRANS #         : A105
+# Author          : V.N.Levkovski
+# Reference       : Levkovskij,Act.Cs.By Protons and Alphas,Moscow 1991 page  (1991)
+# DOI             : N/A
+# Quantity        : 48Ti(a,4n)48Cr cross section
+# REACTION        : 22-TI-48(A,4N)24-CR-48,,SIG
+# File ID         : a-Ti48-4n-sig-excfun-mon-prodCr48_Levkovski_1991_a0510.293
+#
+# npts            : 4           
+# xmin            :   4.3200E+07
+# xmax            :   4.5800E+07
+# ymin            :   8.0000E-05
+# ymax            :   1.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3200E+07  0.0000E+00  8.0000E-05  8.0000E-06
+  4.4100E+07  0.0000E+00  1.2000E-04  1.2000E-05
+  4.5000E+07  0.0000E+00  1.5000E-04  1.5000E-05
+  4.5800E+07  0.0000E+00  1.9000E-04  1.9000E-05
+#---------------------------------------------------

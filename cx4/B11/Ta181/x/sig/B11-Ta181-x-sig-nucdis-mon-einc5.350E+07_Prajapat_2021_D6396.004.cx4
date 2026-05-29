@@ -1,0 +1,28 @@
+# EXFOR #         : D6396.004  
+# EXFOR Ver.      : 20211206
+# TRANS #         : D134
+# Author          : R.Prajapat et al.
+# Reference       : Phys.Rev.C 103 (2021) 014608
+# DOI             : 10.1103/PhysRevC.103.014608
+# Quantity        : 181Ta(11B,x) independent production cross section
+# REACTION        : 73-TA-181(5-B-11,X)ELEM/MASS,,SIG
+# File ID         : B11-Ta181-x-sig-nucdis-mon-einc5.350E+07_Prajapat_2021_d6396.004
+#
+# Einc (eV)       :   5.3500E+07
+# dEinc (eV)      :   6.0000E+05
+#
+# npts            : 4           
+# xmin            : 77188.9     
+# xmax            : 78189.9     
+# ymin            :   2.0600E-02
+# ymax            :   3.7200E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     77188.9  2.0600E-02  3.4000E-03
+     78187.9  2.1500E-02  3.5000E-03
+     78188.9  3.7200E-01  4.6400E-02
+     78189.9  2.1500E-02  4.4000E-03
+#---------------------------------------------------

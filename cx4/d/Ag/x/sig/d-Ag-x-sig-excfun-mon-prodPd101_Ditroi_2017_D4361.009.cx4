@@ -1,0 +1,25 @@
+# EXFOR #         : D4361.009  
+# EXFOR Ver.      : 20170411
+# TRANS #         : D109
+# Author          : F.Ditroi et al.
+# Reference       : Appl.Radiat.Isot. 120 (2017) 60
+# DOI             : 10.1016/j.apradiso.2016.11.018
+# Quantity        : natAg(d,x)101Pd independent production cross section
+# REACTION        : 47-AG-0(D,X)46-PD-101,,SIG
+# File ID         : d-Ag-x-sig-excfun-mon-prodPd101_Ditroi_2017_d4361.009
+#
+# npts            : 4           
+# xmin            :   4.4100E+07
+# xmax            :   4.8800E+07
+# ymin            :   9.0000E-04
+# ymax            :   9.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.8800E+07  3.0000E+05  9.5000E-03  1.1000E-03
+  4.7300E+07  3.0000E+05  5.1000E-03  6.0000E-04
+  4.5700E+07  4.0000E+05  2.4000E-03  3.0000E-04
+  4.4100E+07  5.0000E+05  9.0000E-04  2.0000E-04
+#---------------------------------------------------

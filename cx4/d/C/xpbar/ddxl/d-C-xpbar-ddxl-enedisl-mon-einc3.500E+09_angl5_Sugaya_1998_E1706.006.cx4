@@ -1,0 +1,28 @@
+# EXFOR #         : E1706.006  
+# EXFOR Ver.      : 20061121
+# TRANS #         : E039
+# Author          : Y.Sugaya et al.
+# Reference       : Nucl.Phys.A 634 No.1-2 (1998) 115
+# DOI             : 10.1016/S0375-9474(98)00122-5
+# Quantity        : natC(d,p-bar+x) double differential cross section
+# REACTION        : 6-C-0(D,X)1-AP-1,,DA/DP
+# File ID         : d-C-xpbar-ddxl-enedisl-mon-einc3.500E+09_angl5_Sugaya_1998_e1706.006
+#
+# Einc (eV)       :   3.5000E+09
+# theta,lab (deg) :    5.1000000
+#
+# npts            : 4           
+# xmin            :   2.2981E+09
+# xmax            :   3.5994E+09
+# ymin            :   2.7580E-17
+# ymax            :   1.3990E-16
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.2981E+09  0.0000E+00  1.3990E-16  1.4120E-17
+  2.6972E+09  0.0000E+00  1.3480E-16  1.1600E-17
+  3.1378E+09  0.0000E+00  7.4830E-17  5.7790E-18
+  3.5994E+09  0.0000E+00  2.7580E-17  2.4300E-18
+#---------------------------------------------------

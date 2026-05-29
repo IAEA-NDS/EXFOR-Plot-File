@@ -1,0 +1,28 @@
+# EXFOR #         : A0421.009  
+# EXFOR Ver.      : 20240914
+# TRANS #         : A118
+# Author          : N.N.Abu Issa et al.
+# Reference       : Proceedings of 39.Conf.Nucl.Spectrosc.and Nucl.Struct.,Tashkent 1989 page 350
+# DOI             : N/A
+# Quantity        : 64Zn(a,x)63Zn independent production cross section
+# REACTION        : 30-ZN-64(A,X)30-ZN-63,,SIG
+# File ID         : a-Zn64-x-sig-excfun-mon-prodZn63_Abu%Issa_1989_a0421.009
+#
+# npts            : 7           
+# xmin            :   2.0600E+07
+# xmax            :   2.4400E+07
+# ymin            :   1.0000E-03
+# ymax            :   4.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0600E+07  0.0000E+00  1.0000E-03  2.0000E-04
+  2.1800E+07  0.0000E+00  1.0000E-02  2.0000E-03
+  2.2400E+07  0.0000E+00  1.3000E-02  3.0000E-03
+  2.2900E+07  0.0000E+00  2.0000E-02  4.0000E-03
+  2.3400E+07  0.0000E+00  2.6000E-02  5.0000E-03
+  2.3900E+07  0.0000E+00  3.3000E-02  6.0000E-03
+  2.4400E+07  0.0000E+00  4.0000E-02  8.0000E-03
+#---------------------------------------------------

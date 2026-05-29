@@ -1,0 +1,24 @@
+# EXFOR #         : O0950.002  
+# EXFOR Ver.      : 20030428
+# TRANS #         : 0000
+# Author          : J.J.Lawrie et al.
+# Reference       : Z.Phys.A 325 (1986) 175
+# DOI             : 10.1007/BF01289648
+# Quantity        : 28Si(a,el)28Si angular differential cross section
+# REACTION        : 14-SI-28(A,EL)14-SI-28,,DA,,RTH
+# File ID         : a-Si28-el-adxc-angdisc-mon-einc1.039E+07_prodSi28_Lawrie_1986_o0950.002
+#
+# Einc (eV)       :   1.0394E+07
+#
+# npts            : 1           
+# xmin            :   98.0000000
+# xmax            :   98.0000000
+# ymin            :   3.3330E-02
+# ymax            :   3.3330E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  98.0000000   0.0000000  3.3330E-02  1.5150E-03
+#---------------------------------------------------

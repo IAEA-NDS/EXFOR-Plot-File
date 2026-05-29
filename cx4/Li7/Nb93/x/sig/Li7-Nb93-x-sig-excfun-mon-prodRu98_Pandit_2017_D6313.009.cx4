@@ -1,0 +1,25 @@
+# EXFOR #         : D6313.009  
+# EXFOR Ver.      : 20190405
+# TRANS #         : D120
+# Author          : S.K.Pandit et al.
+# Reference       : Phys.Rev.C 96 (2017) 044616
+# DOI             : 10.1103/PhysRevC.96.044616
+# Quantity        : 93Nb(7Li,x)98Ru independent production cross section
+# REACTION        : 41-NB-93(3-LI-7,X)44-RU-98,,SIG
+# File ID         : Li7-Nb93-x-sig-excfun-mon-prodRu98_Pandit_2017_d6313.009
+#
+# npts            : 4           
+# xmin            :   2.3600E+07
+# xmax            :   2.9700E+07
+# ymin            :   4.2000E-03
+# ymax            :   4.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3600E+07  0.0000E+00  4.4000E-02  8.5000E-03
+  2.5700E+07  0.0000E+00  2.2000E-02  5.5000E-03
+  2.7700E+07  0.0000E+00  1.3000E-02  2.0000E-03
+  2.9700E+07  0.0000E+00  4.2000E-03  5.0000E-04
+#---------------------------------------------------

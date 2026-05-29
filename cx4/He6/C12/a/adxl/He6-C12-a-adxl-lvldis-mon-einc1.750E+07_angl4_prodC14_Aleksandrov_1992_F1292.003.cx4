@@ -1,0 +1,25 @@
+# EXFOR #         : F1292.003  
+# EXFOR Ver.      : 20161008
+# TRANS #         : F063
+# Author          : D.V.Aleksandrov et al.
+# Reference       : Proceedings of Int.Conf.Nucl.Spectroscopy Nucl.Struct.,Alma-Ata 1992 page 301
+# DOI             : N/A
+# Quantity        : 12C(6He,a)14C partial angular differential cross section
+# REACTION        : 6-C-12(2-HE-6,A)6-C-14,PAR,DA
+# File ID         : He6-C12-a-adxl-lvldis-mon-einc1.750E+07_angl4_prodC14_Aleksandrov_1992_f1292.003
+#
+# Einc (eV)       :   1.7500E+07
+# theta,lab (deg) :    4.0000000
+#
+# npts            : 1           
+# xmin            :   1.0000E+07
+# xmax            :   1.0000E+07
+# ymin            :   2.6000E-02
+# ymax            :   2.6000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.0000E+07  0.0000E+00  2.6000E-02  1.2000E-02
+#---------------------------------------------------

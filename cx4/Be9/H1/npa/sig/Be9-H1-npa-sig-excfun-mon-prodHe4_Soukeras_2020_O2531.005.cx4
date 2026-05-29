@@ -1,0 +1,23 @@
+# EXFOR #         : O2531.005  
+# EXFOR Ver.      : 20210720
+# TRANS #         : O084
+# Author          : V.Soukeras et al.
+# Reference       : Phys.Rev.C 102 (2020) 064622
+# DOI             : 10.1103/PhysRevC.102.064622
+# Quantity        : 1H(9Be,n+p+a)4He cross section
+# REACTION        : 1-H-1(4-BE-9,N+P+A)2-HE-4,,SIG
+# File ID         : Be9-H1-npa-sig-excfun-mon-prodHe4_Soukeras_2020_o2531.005
+#
+# npts            : 2           
+# xmin            :   2.4480E+07
+# xmax            :   5.1030E+07
+# ymin            :   2.5000E-03
+# ymax            :   1.4200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4480E+07  0.0000E+00  2.5000E-03  1.0000E-03
+  5.1030E+07  0.0000E+00  1.4200E-01  2.0000E-02
+#---------------------------------------------------

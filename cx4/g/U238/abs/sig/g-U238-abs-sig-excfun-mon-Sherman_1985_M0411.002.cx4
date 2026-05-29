@@ -1,0 +1,23 @@
+# EXFOR #         : M0411.002  
+# EXFOR Ver.      : 20100127
+# TRANS #         : M051
+# Author          : N.K.Sherman et al.
+# Reference       : Phys.Rev.Lett. 54 (1985) 1649
+# DOI             : 10.1103/PhysRevLett.54.1649
+# Quantity        : 238U(g,abs) cross section
+# REACTION        : 92-U-238(G,ABS),,SIG
+# File ID         : g-U238-abs-sig-excfun-mon-Sherman_1985_m0411.002
+#
+# npts            : 2           
+# xmin            :   1.0000E+07
+# xmax            :   2.0000E+07
+# ymin            :   2.1023E-02
+# ymax            :   2.6036E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+07  1.2900E+05  2.1023E-02  6.2000E-05
+  2.0000E+07  3.3800E+05  2.6036E-02  6.8000E-05
+#---------------------------------------------------

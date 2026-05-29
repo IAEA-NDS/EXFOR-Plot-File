@@ -1,0 +1,25 @@
+# EXFOR #         : C0385.019  
+# EXFOR Ver.      : 19991004
+# TRANS #         : 0000
+# Author          : J.Jaenecke et al.
+# Reference       : Nucl.Phys.A 526 (1991) 1
+# DOI             : N/A
+# Quantity        : 230Th(he3,t)230Pa partial angular differential cross section
+# REACTION        : 90-TH-230(HE3,T)91-PA-230,PAR,DA
+# File ID         : h-Th230-t-adxl-lvldis-mon-einc7.650E+07_angl0_prodPa230_Jaenecke_1991_c0385.019
+#
+# Einc (eV)       :   7.6500E+07
+# theta,lab (deg) :    0.0000000
+#
+# npts            : 1           
+# xmin            :   1.7763E+07
+# xmax            :   1.7763E+07
+# ymin            :   1.0800E-02
+# ymax            :   1.0800E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7763E+07  0.0000E+00  1.0800E-02  8.0000E-04
+#---------------------------------------------------

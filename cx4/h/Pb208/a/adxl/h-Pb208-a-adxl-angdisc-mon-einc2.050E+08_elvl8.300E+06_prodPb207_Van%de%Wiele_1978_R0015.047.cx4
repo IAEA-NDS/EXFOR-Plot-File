@@ -1,0 +1,27 @@
+# EXFOR #         : R0015.047  
+# EXFOR Ver.      : 20040830
+# TRANS #         : 0000
+# Author          : J.Van de Wiele et al.
+# Reference       : Nucl.Phys.A 297 (1978) 61
+# DOI             : 10.1016/0375-9474(78)90199-9
+# Quantity        : 208Pb(he3,a)207Pb partial angular differential cross section
+# REACTION        : 82-PB-208(HE3,A)82-PB-207,PAR,DA
+# File ID         : h-Pb208-a-adxl-angdisc-mon-einc2.050E+08_elvl8.300E+06_prodPb207_Van%de%Wiele_1978_r0015.047
+#
+# Einc (eV)       :   2.0500E+08
+# Elvl (eV)       :   8.3000E+06
+#
+# npts            : 3           
+# xmin            :    2.0000000
+# xmax            :    7.1000000
+# ymin            :   3.2000E-03
+# ymax            :   9.5000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.0000000   0.0000000  9.5000E-03  0.0000E+00
+   5.4000000   0.0000000  5.5000E-03  0.0000E+00
+   7.1000000   0.0000000  3.2000E-03  0.0000E+00
+#---------------------------------------------------

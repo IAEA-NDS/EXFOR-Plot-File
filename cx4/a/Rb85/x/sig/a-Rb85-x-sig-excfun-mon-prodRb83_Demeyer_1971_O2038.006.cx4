@@ -1,0 +1,24 @@
+# EXFOR #         : O2038.006  
+# EXFOR Ver.      : 20120914
+# TRANS #         : O049
+# Author          : A.Demeyer et al.
+# Reference       : J.Phys.(Paris) 32 (1971) 583
+# DOI             : 10.1051/jphys:01971003208-9058300
+# Quantity        : 85Rb(a,x)83Rb independent production cross section
+# REACTION        : 37-RB-85(A,X)37-RB-83,,SIG
+# File ID         : a-Rb85-x-sig-excfun-mon-prodRb83_Demeyer_1971_o2038.006
+#
+# npts            : 3           
+# xmin            :   4.1500E+07
+# xmax            :   5.3600E+07
+# ymin            :   5.9000E-02
+# ymax            :   1.2500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.1500E+07  0.0000E+00  5.9000E-02  0.0000E+00
+  4.7000E+07  0.0000E+00  1.0400E-01  0.0000E+00
+  5.3600E+07  0.0000E+00  1.2500E-01  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : B0113.008  
+# EXFOR Ver.      : 20190123
+# TRANS #         : B029
+# Author          : D.Gardes et al.
+# Reference       : Phys.Rev.C 18 (1978) 1298
+# DOI             : 10.1103/PhysRevC.18.1298
+# Quantity        : 209Bi(16O,x)210At cumulative production cross section
+# REACTION        : 83-BI-209(8-O-16,X)85-AT-210,(CUM),SIG
+# File ID         : O16-Bi209-x-sigc-excfun-mon-prodAt210_Gardes_1978_b0113.008
+#
+# npts            : 4           
+# xmin            :   8.3000E+07
+# xmax            :   9.9000E+07
+# ymin            :   2.4000E-04
+# ymax            :   2.2600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.3000E+07  2.0000E+06  2.4000E-04  1.2000E-04
+  8.8000E+07  4.0000E+06  6.8000E-03  9.0000E-04
+  9.4000E+07  3.0000E+06  1.8200E-02  1.6000E-03
+  9.9000E+07  2.5000E+06  2.2600E-02  2.2000E-03
+#---------------------------------------------------

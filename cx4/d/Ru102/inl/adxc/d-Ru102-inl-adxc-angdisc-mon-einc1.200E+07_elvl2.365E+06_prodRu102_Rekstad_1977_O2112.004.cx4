@@ -1,0 +1,27 @@
+# EXFOR #         : O2112.004  
+# EXFOR Ver.      : 20130114
+# TRANS #         : O050
+# Author          : J.Rekstad et al.
+# Reference       : J.Phys.G 3 (1977) 411
+# DOI             : 10.1088/0305-4616/3/3/016
+# Quantity        : 102Ru(d,inl)102Ru partial angular differential cross section
+# REACTION        : 44-RU-102(D,INL)44-RU-102,PAR,DA
+# File ID         : d-Ru102-inl-adxc-angdisc-mon-einc1.200E+07_elvl2.365E+06_prodRu102_Rekstad_1977_o2112.004
+#
+# Einc (eV)       :   1.2000E+07
+# Elvl (eV)       :   2.3650E+06
+#
+# npts            : 3           
+# xmin            :   91.2600000
+# xmax            :  149.9900000
+# ymin            :   3.8280E-02
+# ymax            :   5.2860E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  91.2600000   0.0000000  5.2860E-02  1.0680E-02
+ 125.5800000   0.0000000  4.2680E-02  7.9170E-03
+ 149.9900000   0.0000000  3.8280E-02  9.1100E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : B0092.003.2
+# EXFOR Ver.      : 20190120
+# TRANS #         : B029
+# Author          : P.Fontes
+# Reference       : Phys.Rev.C 15 (1977) 2159
+# DOI             : 10.1103/PhysRevC.15.2159
+# Quantity        : 12C(a,x)10B cumulative production cross section
+# REACTION        : 6-C-12(A,X)5-B-10,CUM,SIG
+# File ID         : a-C12-x-sigc-excfun-mon-prodB10_Fontes_1977_b0092.003.2
+#
+# npts            : 1           
+# xmin            :   1.3000E+08
+# xmax            :   1.3000E+08
+# ymin            :   3.8000E-02
+# ymax            :   3.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  3.0000E+07  3.8000E-02  7.0000E-03
+#---------------------------------------------------

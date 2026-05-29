@@ -1,0 +1,27 @@
+# EXFOR #         : A0369.003  
+# EXFOR Ver.      : 20260127
+# TRANS #         : A130
+# Author          : A.Stolz et al.
+# Reference       : Phys.Rev.C 65 (2002) 064603
+# DOI             : 10.1103/PhysRevC.65.064603
+# Quantity        : natCu(112Sn,x) independent production cross section
+# REACTION        : 29-CU-0(50-SN-112,X)ELEM/MASS,,SIG
+# File ID         : Sn112-Cu-x-sig-nucdis-mon-einc1.120E+08_Stolz_2002_a0369.003
+#
+# Einc (eV)       :   1.1200E+08
+#
+# npts            : 4           
+# xmin            : 51106.9     
+# xmax            : 52109.9     
+# ymin            :   1.2000E-09
+# ymax            :   4.2000E-06
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     51106.9  2.0000E-07  9.0000E-08
+     51107.9  4.2000E-06  1.8000E-06
+     52108.9  1.2000E-09  0.0000E+00
+     52109.9  3.9000E-08  1.8000E-08
+#---------------------------------------------------

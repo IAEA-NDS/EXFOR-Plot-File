@@ -1,0 +1,24 @@
+# EXFOR #         : B0159.002  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : L.Ruby et al.
+# Reference       : Trans.Am.Nucl.Soc. 30 (1978) 623
+# DOI             : N/A
+# Quantity        : 6Li(he3,d)7Be cross section
+# REACTION        : 3-LI-6(HE3,D)4-BE-7,,SIG,,,EXP
+# File ID         : h-Li6-d-sig-excfun-mon-prodBe7_Ruby_1978_b0159.002
+#
+# npts            : 3           
+# xmin            :   2.0000E+06
+# xmax            :   6.0000E+06
+# ymin            :   2.8300E-01
+# ymax            :   3.8900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  2.8300E-01  1.6000E-02
+  3.0000E+06  0.0000E+00  3.8400E-01  2.2000E-02
+  6.0000E+06  0.0000E+00  3.8900E-01  2.3000E-02
+#---------------------------------------------------

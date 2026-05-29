@@ -1,0 +1,27 @@
+# EXFOR #         : C3121.044  
+# EXFOR Ver.      : 20260318
+# TRANS #         : C257
+# Author          : H.L.O.Ekeberg et al.
+# Reference       : Appl.Radiat.Isot. 229 (2026) 112311
+# DOI             : 10.1016/j.apradiso.2025.112311
+# Quantity        : natCu(d,x)59Fe cumulative production cross section
+# REACTION        : 29-CU-0(D,X)26-FE-59,CUM,SIG
+# File ID         : d-Cu-x-sigc-excfun-mon-prodFe59_Ekeberg_2026_c3121.044
+#
+# npts            : 6           
+# xmin            :   1.8140E+07
+# xmax            :   3.0030E+07
+# ymin            :   3.0000E-05
+# ymax            :   2.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0030E+07  0.0000E+00  2.1000E-04  3.0000E-05
+  2.7740E+07  0.0000E+00  1.8000E-04  2.0000E-05
+  2.5320E+07  0.0000E+00  1.7000E-04  2.0000E-05
+  2.2770E+07  0.0000E+00  1.2000E-04  1.0000E-05
+  2.0570E+07  0.0000E+00  7.0000E-05  1.0000E-05
+  1.8140E+07  0.0000E+00  3.0000E-05  1.0000E-05
+#---------------------------------------------------

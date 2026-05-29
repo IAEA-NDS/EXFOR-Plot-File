@@ -1,0 +1,28 @@
+# EXFOR #         : C0024.004.2
+# EXFOR Ver.      : 20181107
+# TRANS #         : C181
+# Author          : K.G.McNeill et al.
+# Reference       : Phys.Rev. 81 (1951) 602
+# DOI             : 10.1103/PhysRev.81.602
+# Quantity        : 2H(d,p)3H angular differential cross section
+# REACTION        : 1-H-2(D,P)1-H-3,,DA
+# File ID         : d-H2-p-adxl-excfun-mon-angl90_prodH3_McNeill_1951_c0024.004.2
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 5           
+# xmin            :   1.2000E+05
+# xmax            :   3.0000E+05
+# ymin            :   1.3000E-03
+# ymax            :   2.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.2000E+05  0.0000E+00  1.3000E-03  3.9000E-05
+  1.4000E+05  0.0000E+00  1.7000E-03  8.5000E-05
+  1.6000E+05  0.0000E+00  1.6000E-03  4.8000E-05
+  2.5000E+05  0.0000E+00  2.1000E-03  6.3000E-05
+  3.0000E+05  0.0000E+00  2.3000E-03  1.3800E-04
+#---------------------------------------------------

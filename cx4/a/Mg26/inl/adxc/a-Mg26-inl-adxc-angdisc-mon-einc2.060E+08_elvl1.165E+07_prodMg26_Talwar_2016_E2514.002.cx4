@@ -1,0 +1,28 @@
+# EXFOR #         : E2514.002  
+# EXFOR Ver.      : 20191216
+# TRANS #         : E124
+# Author          : R.Talwar et al.
+# Reference       : Phys.Rev.C 93 (2016) 055803
+# DOI             : 10.1103/PhysRevC.93.055803
+# Quantity        : 26Mg(a,inl)26Mg partial angular differential cross section
+# REACTION        : 12-MG-26(A,INL)12-MG-26,PAR,DA
+# File ID         : a-Mg26-inl-adxc-angdisc-mon-einc2.060E+08_elvl1.165E+07_prodMg26_Talwar_2016_e2514.002
+#
+# Einc (eV)       :   2.0600E+08
+# Elvl (eV)       :   1.1648E+07
+#
+# npts            : 4           
+# xmin            :    0.5300000
+# xmax            :   13.0400000
+# ymin            :   4.0620E-05
+# ymax            :   3.3250E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.5300000   0.0000000  8.6060E-05  4.4170E-06
+   4.6800000   0.0000000  3.3250E-04  1.7070E-05
+  10.0000000   0.0000000  6.3730E-05  3.1120E-06
+  13.0400000   0.0000000  4.0620E-05  2.0850E-06
+#---------------------------------------------------

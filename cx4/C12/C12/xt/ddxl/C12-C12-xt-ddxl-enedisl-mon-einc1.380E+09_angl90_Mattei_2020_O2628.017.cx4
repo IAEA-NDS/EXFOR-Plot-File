@@ -1,0 +1,30 @@
+# EXFOR #         : O2628.017  
+# EXFOR Ver.      : 20240914
+# TRANS #         : O100
+# Author          : I.Mattei et al.
+# Reference       : IEEE Rad.Pl.Med.Sci. 4 (2020) 269
+# DOI             : N/A
+# Quantity        : 12C(12C,t+x) double differential cross section
+# REACTION        : 6-C-12(6-C-12,X)1-H-3,,DA/DE
+# File ID         : C12-C12-xt-ddxl-enedisl-mon-einc1.380E+09_angl90_Mattei_2020_o2628.017
+#
+# Einc (eV)       :   1.3800E+09
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 6           
+# xmin            :   5.0000E+07
+# xmax            :   1.6000E+08
+# ymin            :   1.0000E-13
+# ymax            :   6.9000E-12
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  5.0000E+07  0.0000E+00  6.9000E-12  9.0000E-13
+  7.0000E+07  2.0000E+06  1.8000E-12  6.0000E-13
+  9.0000E+07  4.0000E+06  1.2000E-12  5.0000E-13
+  1.1000E+08  6.0000E+06  9.0000E-13  3.0000E-13
+  1.3000E+08  8.0000E+06  1.0000E-13  3.0000E-13
+  1.6000E+08  1.1000E+07  1.0000E-13  1.0000E-13
+#---------------------------------------------------

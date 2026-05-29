@@ -1,0 +1,27 @@
+# EXFOR #         : E2239.019  
+# EXFOR Ver.      : 20160520
+# TRANS #         : E103
+# Author          : T.Yamazaki et al.
+# Reference       : J.Phys.Soc.Jpn. 18 (1963) 620
+# DOI             : 10.1143/JPSJ.18.620
+# Quantity        : 23Na(a,p)26Mg partial cross section
+# REACTION        : 11-NA-23(A,P)12-MG-26,PAR,SIG
+# File ID         : a-Na23-p-sig-lvldis-mon-einc2.220E+07_prodMg26_Yamazaki_1963_e2239.019
+#
+# Einc (eV)       :   2.2200E+07
+#
+# npts            : 4           
+# xmin            :   0.0000E+00
+# xmax            :   4.3500E+06
+# ymin            :   3.0000E-05
+# ymax            :   1.6900E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  3.0000E-05  0.0000E+00
+  1.8300E+06  0.0000E+00  4.7000E-04  0.0000E+00
+  2.9700E+06  0.0000E+00  3.4000E-04  0.0000E+00
+  4.3500E+06  0.0000E+00  1.6900E-03  0.0000E+00
+#---------------------------------------------------

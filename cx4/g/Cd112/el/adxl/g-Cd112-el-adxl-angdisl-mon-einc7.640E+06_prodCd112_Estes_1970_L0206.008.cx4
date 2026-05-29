@@ -1,0 +1,24 @@
+# EXFOR #         : L0206.008  
+# EXFOR Ver.      : 20150320
+# TRANS #         : L027
+# Author          : G.P.Estes et al.
+# Reference       : Phys.Rev.C 1 (1970) 201
+# DOI             : 10.1103/PhysRevC.1.201
+# Quantity        : 112Cd(g,el)112Cd angular differential cross section
+# REACTION        : 48-CD-112(G,EL)48-CD-112,,DA
+# File ID         : g-Cd112-el-adxl-angdisl-mon-einc7.640E+06_prodCd112_Estes_1970_l0206.008
+#
+# Einc (eV)       :   7.6400E+06
+#
+# npts            : 1           
+# xmin            :  135.0000000
+# xmax            :  135.0000000
+# ymin            :   1.5200E-02
+# ymax            :   1.5200E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 135.0000000   0.0000000  1.5200E-02  3.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : R0015.011  
+# EXFOR Ver.      : 20040830
+# TRANS #         : 0000
+# Author          : J.Van de Wiele et al.
+# Reference       : Nucl.Phys.A 297 (1978) 61
+# DOI             : 10.1016/0375-9474(78)90199-9
+# Quantity        : 124Sn(he3,a)123Sn partial angular differential cross section
+# REACTION        : 50-SN-124(HE3,A)50-SN-123,PAR,DA
+# File ID         : h-Sn124-a-adxl-angdisc-mon-einc2.050E+08_elvl0.000E+00_prodSn123_Van%de%Wiele_1978_r0015.011
+#
+# Einc (eV)       :   2.0500E+08
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :    2.1000000
+# xmax            :   16.4000000
+# ymin            :   5.9000E-04
+# ymax            :   1.6600E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.1000000   0.0000000  1.6600E-02  0.0000E+00
+   7.4000000   0.0000000  4.3000E-03  0.0000E+00
+  12.4000000   0.0000000  1.1500E-03  0.0000E+00
+  16.4000000   0.0000000  5.9000E-04  0.0000E+00
+#---------------------------------------------------

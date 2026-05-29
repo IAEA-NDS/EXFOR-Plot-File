@@ -1,0 +1,25 @@
+# EXFOR #         : C2206.009  
+# EXFOR Ver.      : 20160118
+# TRANS #         : C157
+# Author          : T.A.Werke et al.
+# Reference       : Phys.Rev.C 92 (2015) 054617
+# DOI             : 10.1103/PhysRevC.92.054617
+# Quantity        : 159Tb(44Ca,x)199mPo cumulative production cross section
+# REACTION        : 65-TB-159(20-CA-44,X)84-PO-199-M,(CUM),SIG
+# File ID         : Ca44-Tb159-x-sigc-excfun-mon-prodPo199m_Werke_2015_c2206.009
+#
+# npts            : 4           
+# xmin            :   1.8980E+08
+# xmax            :   2.0800E+08
+# ymin            :   1.6000E-04
+# ymax            :   2.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8980E+08  0.0000E+00  1.7000E-04  8.5000E-05
+  1.9630E+08  0.0000E+00  2.2000E-04  1.1000E-04
+  2.0050E+08  0.0000E+00  2.0000E-04  1.0000E-04
+  2.0800E+08  0.0000E+00  1.6000E-04  8.0000E-05
+#---------------------------------------------------

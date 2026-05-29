@@ -1,0 +1,24 @@
+# EXFOR #         : C1675.004  
+# EXFOR Ver.      : 20090519
+# TRANS #         : C091
+# Author          : L.R.Gasques et al.
+# Reference       : Phys.Rev.C 79 (2009) 034605
+# DOI             : 10.1103/PhysRevC.79.034605
+# Quantity        : 209Bi(11B,x) independent production cross section
+# REACTION        : 83-BI-209(5-B-11,X)ELEM/MASS,,SIG
+# File ID         : B11-Bi209-x-sig-excfun-mon-prodRa214_Gasques_2009_c1675.004
+#
+# npts            : 3           
+# xmin            :   6.4834E+07
+# xmax            :   7.4985E+07
+# ymin            :   2.0600E-03
+# ymax            :   1.1796E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.4834E+07  0.0000E+00  2.0600E-03  6.2000E-04
+  6.9836E+07  0.0000E+00  1.7460E-02  2.6100E-03
+  7.4985E+07  0.0000E+00  1.1796E-01  1.0920E-02
+#---------------------------------------------------

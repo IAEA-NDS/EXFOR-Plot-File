@@ -1,0 +1,22 @@
+# EXFOR #         : C1603.003  
+# EXFOR Ver.      : 20080315
+# TRANS #         : C085
+# Author          : A.Stolz et al.
+# Reference       : Phys.Lett.B 627 (2005) 32
+# DOI             : 10.1016/j.physletb.2005.08.130
+# Quantity        : 9Be(78Kr,x)61Ge independent production cross section
+# REACTION        : 4-BE-9(36-KR-78,X)32-GE-61,,SIG
+# File ID         : Kr78-Be9-x-sig-excfun-mon-prodGe61_Stolz_2005_c1603.003
+#
+# npts            : 1           
+# xmin            :   1.0920E+10
+# xmax            :   1.0920E+10
+# ymin            :   1.0000E-10
+# ymax            :   1.0000E-10
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0920E+10  0.0000E+00  1.0000E-10  5.0000E-11
+#---------------------------------------------------

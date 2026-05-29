@@ -1,0 +1,27 @@
+# EXFOR #         : E2528.004  
+# EXFOR Ver.      : 20180420
+# TRANS #         : E113
+# Author          : H.Yamaguchi et al.
+# Reference       : Phys.Lett.B 766 (2017) 11
+# DOI             : 10.1016/j.physletb.2016.12.050
+# Quantity        : 10Be(a,el)10Be angular differential cross section
+# REACTION        : 4-BE-10(A,EL)4-BE-10,,DA
+# File ID         : a-Be10-el-adxc-angdisl-mon-einc1.620E+07_prodBe10_Yamaguchi_2017_e2528.004
+#
+# Einc (eV)       :   1.6200E+07
+#
+# npts            : 4           
+# xmin            :    1.5000000
+# xmax            :   10.5000000
+# ymin            :   5.7520E-02
+# ymax            :   2.4072E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   1.5000000   1.5000000  2.4072E-01  3.1888E-02
+   4.5000000   1.5000000  1.6020E-01  2.8417E-02
+   7.5000000   1.5000000  9.8767E-02  2.1120E-02
+  10.5000000   1.5000000  5.7520E-02  1.7713E-02
+#---------------------------------------------------

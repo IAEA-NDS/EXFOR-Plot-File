@@ -1,0 +1,22 @@
+# EXFOR #         : A0173.020  
+# EXFOR Ver.      : 20240818
+# TRANS #         : A116
+# Author          : D.Lee et al.
+# Reference       : Phys.Rev.C 25 (1982) 286
+# DOI             : 10.1103/PhysRevC.25.286
+# Quantity        : 248Cm(16O,x)252Fm independent production cross section
+# REACTION        : 96-CM-248(8-O-16,X)100-FM-252,,SIG
+# File ID         : O16-Cm248-x-sig-excfun-mon-prodFm252_Lee_1982_a0173.020
+#
+# npts            : 1           
+# xmin            :   9.8000E+07
+# xmax            :   9.8000E+07
+# ymin            :   3.5000E-06
+# ymax            :   3.5000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.8000E+07  3.0000E+06  3.5000E-06  7.0000E-07
+#---------------------------------------------------

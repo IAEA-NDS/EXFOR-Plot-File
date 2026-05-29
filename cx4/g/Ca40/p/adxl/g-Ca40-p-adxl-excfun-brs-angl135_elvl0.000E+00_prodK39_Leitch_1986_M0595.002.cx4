@@ -1,0 +1,29 @@
+# EXFOR #         : M0595.002  
+# EXFOR Ver.      : 20230614
+# TRANS #         : M125
+# Author          : M.J.Leitch et al.
+# Reference       : Phys.Rev.C 33 (1986) 1511
+# DOI             : 10.1103/PhysRevC.33.1511
+# Quantity        : 40Ca(g,p)39K partial angular differential cross section
+# REACTION        : 20-CA-40(G,P)19-K-39,PAR,DA,,BRS
+# File ID         : g-Ca40-p-adxl-excfun-brs-angl135_elvl0.000E+00_prodK39_Leitch_1986_m0595.002
+#
+# theta,lab (deg) :  135.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :   1.0150E+08
+# xmax            :   2.0120E+08
+# ymin            :   1.3000E-10
+# ymax            :   1.0200E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.0150E+08  0.0000E+00  1.0200E-08  1.8000E-09
+  1.2640E+08  0.0000E+00  2.6000E-09  7.0000E-10
+  1.5130E+08  0.0000E+00  7.7000E-10  3.9000E-10
+  1.7620E+08  0.0000E+00  5.2000E-10  2.6000E-10
+  2.0120E+08  0.0000E+00  1.3000E-10  9.0000E-11
+#---------------------------------------------------

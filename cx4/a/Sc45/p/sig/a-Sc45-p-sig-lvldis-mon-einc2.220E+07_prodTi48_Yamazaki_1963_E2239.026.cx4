@@ -1,0 +1,27 @@
+# EXFOR #         : E2239.026  
+# EXFOR Ver.      : 20160520
+# TRANS #         : E103
+# Author          : T.Yamazaki et al.
+# Reference       : J.Phys.Soc.Jpn. 18 (1963) 620
+# DOI             : 10.1143/JPSJ.18.620
+# Quantity        : 45Sc(a,p)48Ti partial cross section
+# REACTION        : 21-SC-45(A,P)22-TI-48,PAR,SIG
+# File ID         : a-Sc45-p-sig-lvldis-mon-einc2.220E+07_prodTi48_Yamazaki_1963_e2239.026
+#
+# Einc (eV)       :   2.2200E+07
+#
+# npts            : 4           
+# xmin            :   0.0000E+00
+# xmax            :   3.5000E+06
+# ymin            :   1.0000E-05
+# ymax            :   2.0000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.0000E-05  0.0000E+00
+  9.9000E+05  0.0000E+00  3.0000E-05  0.0000E+00
+  2.3700E+06  7.0000E+04  6.0000E-05  0.0000E+00
+  3.5000E+06  0.0000E+00  2.0000E-04  0.0000E+00
+#---------------------------------------------------

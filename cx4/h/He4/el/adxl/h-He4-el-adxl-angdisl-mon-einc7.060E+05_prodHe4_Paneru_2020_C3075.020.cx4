@@ -1,0 +1,27 @@
+# EXFOR #         : C3075.020  
+# EXFOR Ver.      : 20250825
+# TRANS #         : C252
+# Author          : S.N.Paneru
+# Reference       : Thesis  (2020)
+# DOI             : N/A
+# Quantity        : 4He(he3,el)4He angular differential cross section
+# REACTION        : 2-HE-4(HE3,EL)2-HE-4,,DA
+# File ID         : h-He4-el-adxl-angdisl-mon-einc7.060E+05_prodHe4_Paneru_2020_c3075.020
+#
+# Einc (eV)       :   7.0600E+05
+#
+# npts            : 4           
+# xmin            :   40.0000000
+# xmax            :   65.0000000
+# ymin            :   4.4787E-01
+# ymax            :   2.8475E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.0000000   0.0000000  2.8475E+00  6.4660E-02
+  55.0000000   0.0000000  8.3672E-01  1.9610E-02
+  60.0000000   0.0000000  6.1653E-01  1.4440E-02
+  65.0000000   0.0000000  4.4787E-01  1.1390E-02
+#---------------------------------------------------

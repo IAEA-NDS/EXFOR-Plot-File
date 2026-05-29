@@ -1,0 +1,29 @@
+# EXFOR #         : O2568.002  
+# EXFOR Ver.      : 20230428
+# TRANS #         : O097
+# Author          : T.L.Tang et al.
+# Reference       : Phys.Rev.Lett. 124 (2020) 062502
+# DOI             : 10.1103/PhysRevLett.124.062502
+# Quantity        : 206Hg(d,p)207Hg partial angular differential cross section
+# REACTION        : 80-HG-206(D,P)80-HG-207,PAR,DA
+# File ID         : d-Hg206-p-adxc-angdisc-mon-einc1.476E+07_elvl2.335E+06_prodHg207_Tang_2020_o2568.002
+#
+# Einc (eV)       :   1.4760E+07
+# Elvl (eV)       :   2.3350E+06
+#
+# npts            : 5           
+# xmin            :   20.0000000
+# xmax            :   37.0000000
+# ymin            :   2.3700E-03
+# ymax            :   7.6300E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.0000000   0.0000000  2.3700E-03  3.1000E-04
+  23.0000000   0.0000000  2.5600E-03  3.0000E-04
+  27.0000000   0.0000000  4.0300E-03  3.3000E-04
+  33.0000000   0.0000000  6.4300E-03  4.0000E-04
+  37.0000000   0.0000000  7.6300E-03  5.0000E-04
+#---------------------------------------------------

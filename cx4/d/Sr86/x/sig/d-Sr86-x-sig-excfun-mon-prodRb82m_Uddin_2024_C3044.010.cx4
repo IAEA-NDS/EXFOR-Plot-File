@@ -1,0 +1,24 @@
+# EXFOR #         : C3044.010  
+# EXFOR Ver.      : 20250228
+# TRANS #         : C249
+# Author          : M.S.Uddin
+# Reference       : Phys.Rev.C 110 (2024) 064608
+# DOI             : 10.1103/PhysRevC.110.064608
+# Quantity        : 86Sr(d,x)82mRb independent production cross section
+# REACTION        : 38-SR-86(D,X)37-RB-82-M,,SIG
+# File ID         : d-Sr86-x-sig-excfun-mon-prodRb82m_Uddin_2024_c3044.010
+#
+# npts            : 3           
+# xmin            :   2.8100E+07
+# xmax            :   3.1100E+07
+# ymin            :   8.0000E-03
+# ymax            :   2.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.1100E+07  3.0000E+05  2.9000E-02  4.4000E-03
+  2.8200E+07  3.0000E+05  1.0000E-02  1.5000E-03
+  2.8100E+07  4.0000E+05  8.0000E-03  9.0000E-04
+#---------------------------------------------------

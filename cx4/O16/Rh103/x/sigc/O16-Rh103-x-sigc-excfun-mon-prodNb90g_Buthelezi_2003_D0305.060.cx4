@@ -1,0 +1,22 @@
+# EXFOR #         : D0305.060  
+# EXFOR Ver.      : 20050315
+# TRANS #         : D041
+# Author          : E.Z.Buthelezi et al.
+# Reference       : J.Rad.Nucl.Chem. 258 (2003) 649
+# DOI             : 10.1023/B:JRNC.0000011764.30879.fb
+# Quantity        : 103Rh(16O,x)90gNb cumulative production cross section
+# REACTION        : 45-RH-103(8-O-16,X)41-NB-90-G,CUM,SIG
+# File ID         : O16-Rh103-x-sigc-excfun-mon-prodNb90g_Buthelezi_2003_d0305.060
+#
+# npts            : 1           
+# xmin            :   3.9360E+08
+# xmax            :   3.9360E+08
+# ymin            :   5.0000E-02
+# ymax            :   5.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9360E+08  1.0000E+06  5.0000E-02  7.5000E-03
+#---------------------------------------------------

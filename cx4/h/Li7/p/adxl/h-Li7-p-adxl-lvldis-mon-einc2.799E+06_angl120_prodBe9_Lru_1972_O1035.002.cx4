@@ -1,0 +1,25 @@
+# EXFOR #         : O1035.002  
+# EXFOR Ver.      : 20030409
+# TRANS #         : 0000
+# Author          : Y.C.Lru
+# Reference       : Chin.J.Phys. 10 (1972) 76
+# DOI             : N/A
+# Quantity        : 7Li(he3,p)9Be partial angular differential cross section
+# REACTION        : 3-LI-7(HE3,P)4-BE-9,PAR,DA
+# File ID         : h-Li7-p-adxl-lvldis-mon-einc2.799E+06_angl120_prodBe9_Lru_1972_o1035.002
+#
+# Einc (eV)       :   2.7990E+06
+# theta,lab (deg) :  120.0000000
+#
+# npts            : 1           
+# xmin            :   1.6700E+06
+# xmax            :   1.6700E+06
+# ymin            :   2.2500E-04
+# ymax            :   2.2500E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.6700E+06  0.0000E+00  2.2500E-04  1.8000E-05
+#---------------------------------------------------

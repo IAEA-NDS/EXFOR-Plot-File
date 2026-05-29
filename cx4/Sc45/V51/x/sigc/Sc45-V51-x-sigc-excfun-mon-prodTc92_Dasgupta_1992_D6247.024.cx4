@@ -1,0 +1,24 @@
+# EXFOR #         : D6247.024  
+# EXFOR Ver.      : 20170626
+# TRANS #         : D111
+# Author          : M.Dasgupta et al.
+# Reference       : Pramana 38 (1992) 291
+# DOI             : 10.1007/BF02875375
+# Quantity        : 51V(45Sc,x)92Tc cumulative production cross section
+# REACTION        : 23-V-51(21-SC-45,X)43-TC-92,(CUM),SIG
+# File ID         : Sc45-V51-x-sigc-excfun-mon-prodTc92_Dasgupta_1992_d6247.024
+#
+# npts            : 3           
+# xmin            :   5.9400E+07
+# xmax            :   7.1100E+07
+# ymin            :   1.3000E-04
+# ymax            :   3.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9400E+07  0.0000E+00  1.3000E-04  7.0000E-05
+  6.1000E+07  0.0000E+00  4.4000E-03  1.8000E-03
+  7.1100E+07  0.0000E+00  3.5000E-02  1.0000E-02
+#---------------------------------------------------

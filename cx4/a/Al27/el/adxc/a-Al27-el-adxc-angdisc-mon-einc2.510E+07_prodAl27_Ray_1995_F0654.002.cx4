@@ -1,0 +1,28 @@
+# EXFOR #         : F0654.002  
+# EXFOR Ver.      : 20040527
+# TRANS #         : 0000
+# Author          : A.Ray et al.
+# Reference       : Phys.Rev.C 51 (1995) 1604
+# DOI             : 10.1103/PhysRevC.51.R1604
+# Quantity        : 27Al(a,el)27Al angular differential cross section
+# REACTION        : 13-AL-27(A,EL)13-AL-27,,DA
+# File ID         : a-Al27-el-adxc-angdisc-mon-einc2.510E+07_prodAl27_Ray_1995_f0654.002
+#
+# Einc (eV)       :   2.5100E+07
+# dEinc (eV)      :   5.0000E+05
+#
+# npts            : 4           
+# xmin            :  155.8700000
+# xmax            :  167.2100000
+# ymin            :   5.2041E-02
+# ymax            :   9.8568E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 155.8700000   0.0000000  5.2041E-02  0.0000E+00
+ 160.8600000   0.0000000  7.2353E-02  0.0000E+00
+ 163.9300000   0.0000000  6.8462E-02  0.0000E+00
+ 167.2100000   0.0000000  9.8568E-02  0.0000E+00
+#---------------------------------------------------

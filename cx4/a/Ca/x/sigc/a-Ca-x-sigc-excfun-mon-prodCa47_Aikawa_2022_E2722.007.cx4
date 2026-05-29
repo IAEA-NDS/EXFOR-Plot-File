@@ -1,0 +1,22 @@
+# EXFOR #         : E2722.007  
+# EXFOR Ver.      : 20220620
+# TRANS #         : E135
+# Author          : M.Aikawa et al.
+# Reference       : Nucl.Instrum.Meth.B 515 (2022) 1
+# DOI             : N/A
+# Quantity        : natCa(a,x)47Ca cumulative production cross section
+# REACTION        : 20-CA-0(A,X)20-CA-47,CUM,SIG
+# File ID         : a-Ca-x-sigc-excfun-mon-prodCa47_Aikawa_2022_e2722.007
+#
+# npts            : 1           
+# xmin            :   2.8600E+07
+# xmax            :   2.8600E+07
+# ymin            :   7.2400E-05
+# ymax            :   7.2400E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8600E+07  2.0000E+05  7.2400E-05  2.5400E-05
+#---------------------------------------------------

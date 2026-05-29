@@ -1,0 +1,25 @@
+# EXFOR #         : D0737.012.2
+# EXFOR Ver.      : 20141020
+# TRANS #         : D095
+# Author          : N.K.Skobelev et al.
+# Reference       : Phys.Part.Nucl.Lett. 11 (2014) 114
+# DOI             : 10.1134/S1547477114020265
+# Quantity        : natPt(he3,x)196gAu cumulative production cross section
+# REACTION        : 78-PT-0(HE3,X)79-AU-196-G,(M),SIG
+# File ID         : h-Pt-x-sigc-excfun-mon-prodAu196g_Skobelev_2014_d0737.012.2
+#
+# npts            : 4           
+# xmin            :   1.3770E+07
+# xmax            :   1.9610E+07
+# ymin            :   1.1875E-04
+# ymax            :   2.3750E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9610E+07  0.0000E+00  2.3750E-02  6.8750E-04
+  1.7490E+07  0.0000E+00  5.5625E-03  1.8750E-04
+  1.5700E+07  0.0000E+00  9.2500E-04  3.1250E-04
+  1.3770E+07  0.0000E+00  1.1875E-04  4.4370E-05
+#---------------------------------------------------

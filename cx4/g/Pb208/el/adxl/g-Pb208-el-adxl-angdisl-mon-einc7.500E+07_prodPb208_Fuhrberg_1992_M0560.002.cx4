@@ -1,0 +1,26 @@
+# EXFOR #         : M0560.002  
+# EXFOR Ver.      : 19990308
+# TRANS #         : 0000
+# Author          : K.Fuhrberg et al.
+# Reference       : Nucl.Phys.A 548 (1992) 579
+# DOI             : 10.1016/0375-9474(92)90643-X
+# Quantity        : 208Pb(g,el)208Pb angular differential cross section
+# REACTION        : 82-PB-208(G,EL)82-PB-208,,DA
+# File ID         : g-Pb208-el-adxl-angdisl-mon-einc7.500E+07_prodPb208_Fuhrberg_1992_m0560.002
+#
+# Einc (eV)       :   7.5000E+07
+#
+# npts            : 3           
+# xmin            :   63.0000000
+# xmax            :  154.0000000
+# ymin            :   5.0000E-07
+# ymax            :   1.6000E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  63.0000000   0.0000000  1.6000E-05  3.0000E-06
+ 127.0000000   0.0000000  5.0000E-07  4.0000E-07
+ 154.0000000   0.0000000  6.0000E-07  4.0000E-07
+#---------------------------------------------------

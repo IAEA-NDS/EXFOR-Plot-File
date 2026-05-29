@@ -1,0 +1,28 @@
+# EXFOR #         : M0308.005  
+# EXFOR Ver.      : 20130614
+# TRANS #         : M067
+# Author          : B.Schoch et al.
+# Reference       : Phys.Lett.B 109 (1982) 11
+# DOI             : 10.1016/0370-2693(82)90451-8
+# Quantity        : 16O(g,n)15O partial angular differential cross section
+# REACTION        : 8-O-16(G,N)8-O-15,PAR,DA,,BRS
+# File ID         : g-O16-n-adxl-excfun-brs-angl90_elvl6.200E+06_prodO15_Schoch_1982_m0308.005
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   6.2000E+06
+#
+# npts            : 4           
+# xmin            :   5.8260E+07
+# xmax            :   1.5890E+08
+# ymin            :   2.1800E-07
+# ymax            :   9.7487E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.8260E+07  0.0000E+00  9.7487E-06  0.0000E+00
+  7.8340E+07  0.0000E+00  2.2001E-06  0.0000E+00
+  1.1914E+08  0.0000E+00  4.3720E-07  0.0000E+00
+  1.5890E+08  0.0000E+00  2.1800E-07  0.0000E+00
+#---------------------------------------------------

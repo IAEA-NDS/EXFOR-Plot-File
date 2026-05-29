@@ -1,0 +1,25 @@
+# EXFOR #         : F1217.009  
+# EXFOR Ver.      : 20250929
+# TRANS #         : F102
+# Author          : V.S.Buttsev et al.
+# Reference       : Sov.J.Nucl.Phys. 44 (1986) 271
+# DOI             : N/A
+# Quantity        : 209Bi(d,x) independent production cross section
+# REACTION        : 83-BI-209(D,X)ELEM/MASS,,SIG
+# File ID         : d-Bi209-x-sig-nucdis-mon-einc7.300E+09_Buttsev_1986_f1217.009
+#
+# Einc (eV)       :   7.3000E+09
+#
+# npts            : 2           
+# xmin            : 42093.1     
+# xmax            : 81198.1     
+# ymin            :   2.1000E-03
+# ymax            :   2.2000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     42093.1  2.1000E-03  4.0000E-04
+     81198.1  2.2000E-02  4.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : M0410.002  
+# EXFOR Ver.      : 20160905
+# TRANS #         : M084
+# Author          : Z.Berant et al.
+# Reference       : Phys.Rev.C 31 (1985) 1553
+# DOI             : 10.1103/PhysRevC.31.1553
+# Quantity        : 208Pb(g,el)208Pb angular differential cross section
+# REACTION        : 82-PB-208(G,EL)82-PB-208,,DA
+# File ID         : g-Pb208-el-adxl-excfun-mon-angl130_prodPb208_Berant_1985_m0410.002
+#
+# theta,lab (deg) :  130.0000000
+#
+# npts            : 3           
+# xmin            :   8.9990E+06
+# xmax            :   1.1388E+07
+# ymin            :   7.7000E-06
+# ymax            :   3.3400E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.9990E+06  0.0000E+00  7.7000E-06  1.7000E-06
+  1.0055E+07  0.0000E+00  3.3400E-04  4.3000E-05
+  1.1388E+07  0.0000E+00  2.2100E-04  2.5000E-05
+#---------------------------------------------------

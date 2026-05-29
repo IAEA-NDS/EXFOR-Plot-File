@@ -1,0 +1,22 @@
+# EXFOR #         : C1802.002  
+# EXFOR Ver.      : 20100525
+# TRANS #         : C101
+# Author          : P.Fallon et al.
+# Reference       : Phys.Rev.C 81 (2010) 041302
+# DOI             : 10.1103/PhysRevC.81.041302
+# Quantity        : 9Be(32Mg,x)30Ne independent production cross section
+# REACTION        : 4-BE-9(12-MG-32,X)10-NE-30,,SIG,,AV
+# File ID         : Mg32-Be9-x-sig-excfun-mon-prodNe30_Fallon_2010_c1802.002
+#
+# npts            : 1           
+# xmin            :   2.9824E+09
+# xmax            :   2.9824E+09
+# ymin            :   2.2000E-04
+# ymax            :   2.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9824E+09  2.0800E+08  2.2000E-04  4.0000E-05
+#---------------------------------------------------

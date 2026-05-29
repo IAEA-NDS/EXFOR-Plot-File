@@ -1,0 +1,23 @@
+# EXFOR #         : D8105.003  
+# EXFOR Ver.      : 20260424
+# TRANS #         : D152
+# Author          : A.Samark-Roth et al.
+# Reference       : Phys.Rev.C 107 (2023) 024301
+# DOI             : 10.1103/PhysRevC.107.024301
+# Quantity        : 244Pu(48Ca,4n)288Fl cross section
+# REACTION        : 94-PU-244(20-CA-48,4N)114-FL-288,,SIG
+# File ID         : Ca48-Pu244-4n-sig-excfun-mon-prodFl288_Samark+Roth_2023_d8105.003
+#
+# npts            : 2           
+# xmin            :   2.3740E+08
+# xmax            :   2.4060E+08
+# ymin            :   3.5000E-12
+# ymax            :   5.1000E-12
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4060E+08  0.0000E+00  5.1000E-12  0.0000E+00
+  2.3740E+08  0.0000E+00  3.5000E-12  0.0000E+00
+#---------------------------------------------------

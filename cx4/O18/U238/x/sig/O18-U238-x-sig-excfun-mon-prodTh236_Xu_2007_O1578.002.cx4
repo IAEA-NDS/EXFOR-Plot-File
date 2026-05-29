@@ -1,0 +1,22 @@
+# EXFOR #         : O1578.002  
+# EXFOR Ver.      : 20071121
+# TRANS #         : O034
+# Author          : Y.B.Xu et al.
+# Reference       : J.Rad.Nucl.Chem. 272 (2007) 227
+# DOI             : 10.1007/s10967-007-0505-6
+# Quantity        : 238U(18O,x)236Th independent production cross section
+# REACTION        : 92-U-238(8-O-18,X)90-TH-236,,SIG,,AV
+# File ID         : O18-U238-x-sig-excfun-mon-prodTh236_Xu_2007_o1578.002
+#
+# npts            : 1           
+# xmin            :   1.0800E+09
+# xmax            :   1.0800E+09
+# ymin            :   2.5000E-04
+# ymax            :   2.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0800E+09  1.0500E+03  2.5000E-04  5.0000E-05
+#---------------------------------------------------

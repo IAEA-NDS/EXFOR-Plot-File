@@ -1,0 +1,25 @@
+# EXFOR #         : C0370.004  
+# EXFOR Ver.      : 20240303
+# TRANS #         : C235
+# Author          : P.C.Stevenson et al.
+# Reference       : Phys.Rev. 111 (1958) 886
+# DOI             : 10.1103/PhysRev.111.886
+# Quantity        : 238U(d,f) independent production cross section
+# REACTION        : 92-U-238(D,F)ELEM/MASS,,SIG
+# File ID         : d-U238-x-sig-nucdis-mon-einc5.000E+07_Stevenson_1958_c0370.004
+#
+# Einc (eV)       :   5.0000E+07
+#
+# npts            : 2           
+# xmin            : 39091.9     
+# xmax            : 57140.9     
+# ymin            :   4.0000E-03
+# ymax            :   4.7000E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     39091.9  4.7000E-03  0.0000E+00
+     57140.9  4.0000E-03  0.0000E+00
+#---------------------------------------------------

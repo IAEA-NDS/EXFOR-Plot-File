@@ -1,0 +1,27 @@
+# EXFOR #         : O2436.002  
+# EXFOR Ver.      : 20191109
+# TRANS #         : O075
+# Author          : S.A.Gillespie et al.
+# Reference       : Phys.Rev.C 96 (2017) 025801
+# DOI             : 10.1103/PhysRevC.96.025801
+# Quantity        : 34S(he3,d)35Cl partial angular differential cross section
+# REACTION        : 16-S-34(HE3,D)17-CL-35,PAR,DA
+# File ID         : h-S34-d-adxc-angdisc-mon-einc2.000E+07_elvl6.491E+06_prodCl35_Gillespie_2017_o2436.002
+#
+# Einc (eV)       :   2.0000E+07
+# Elvl (eV)       :   6.4910E+06
+#
+# npts            : 3           
+# xmin            :    4.5740000
+# xmax            :   26.7265000
+# ymin            :   4.1480E-04
+# ymax            :   1.4321E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.5740000   2.1525000  1.4321E-03  3.4600E-05
+  15.6054000   2.0628000  1.0272E-03  2.9600E-05
+  26.7265000   1.9731000  4.1480E-04  0.0000E+00
+#---------------------------------------------------

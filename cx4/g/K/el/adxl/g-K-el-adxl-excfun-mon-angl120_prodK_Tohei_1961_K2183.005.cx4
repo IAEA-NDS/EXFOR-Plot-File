@@ -1,0 +1,28 @@
+# EXFOR #         : K2183.005  
+# EXFOR Ver.      : 20101108
+# TRANS #         : K009
+# Author          : T.Tohei et al.
+# Reference       : J.Phys.Soc.Jpn. 16 No.9 (1961) 1657
+# DOI             : 10.1143/JPSJ.16.1657
+# Quantity        : natK(g,el)natK angular differential cross section
+# REACTION        : 19-K-0(G,EL)19-K-0,,DA,,4PI
+# File ID         : g-K-el-adxl-excfun-mon-angl120_prodK_Tohei_1961_k2183.005
+#
+# theta,lab (deg) :  120.0000000
+#
+# npts            : 5           
+# xmin            :   6.0000E+06
+# xmax            :   1.2000E+07
+# ymin            :   6.3662E-06
+# ymax            :   2.0292E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.0000E+06  1.0000E+06  1.0106E-04  2.9444E-05
+  7.0000E+06  1.0000E+06  2.0292E-04  3.5014E-05
+  8.0000E+06  1.0000E+06  4.1380E-05  2.1486E-05
+  1.0000E+07  1.0000E+06  7.9577E-06  6.3662E-06
+  1.2000E+07  1.0000E+06  6.3662E-06  4.7746E-06
+#---------------------------------------------------

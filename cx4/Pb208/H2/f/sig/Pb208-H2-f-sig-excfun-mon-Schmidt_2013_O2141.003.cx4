@@ -1,0 +1,22 @@
+# EXFOR #         : O2141.003  
+# EXFOR Ver.      : 20131007
+# TRANS #         : O051
+# Author          : K.-H.Schmidt et al.
+# Reference       : Phys.Rev.C 87 (2013) 034601
+# DOI             : 10.1103/PhysRevC.87.034601
+# Quantity        : 2H(208Pb,f) cross section
+# REACTION        : 1-H-2(82-PB-208,F),,SIG
+# File ID         : Pb208-H2-f-sig-excfun-mon-Schmidt_2013_o2141.003
+#
+# npts            : 1           
+# xmin            :   1.0400E+11
+# xmax            :   1.0400E+11
+# ymin            :   2.0300E-01
+# ymax            :   2.0300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0400E+11  0.0000E+00  2.0300E-01  9.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : E2712.003  
+# EXFOR Ver.      : 20230705
+# TRANS #         : E139
+# Author          : H.Suzuki et al.
+# Reference       : Nucl.Instrum.Meth.B 317 (2013) 756
+# DOI             : 10.1016/j.nimb.2013.08.049
+# Quantity        : 9Be(48Ca,x) independent production cross section
+# REACTION        : 4-BE-9(20-CA-48,X)ELEM/MASS,,SIG
+# File ID         : Ca48-Be9-x-sig-nucdis-mon-einc1.656E+10_Suzuki_2013_e2712.003
+#
+# Einc (eV)       :   1.6560E+10
+#
+# npts            : 5           
+# xmin            : 10021.9     
+# xmax            : 12032.9     
+# ymin            :   7.0400E-08
+# ymax            :   7.0400E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     10021.9  7.0400E-02  0.0000E+00
+     10029.9  7.0400E-08  0.0000E+00
+     12025.9  7.1400E-03  2.7900E-05
+     12027.9  5.8400E-03  5.4100E-05
+     12032.9  9.6400E-06  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : M0689.002  
+# EXFOR Ver.      : 20060505
+# TRANS #         : M040
+# Author          : S.A.Morrow et al.
+# Reference       : Phys.Rev.C 73 (2006) 044611
+# DOI             : 10.1103/PhysRevC.73.044611
+# Quantity        : 12C(g,p)11B partial angular differential cross section
+# REACTION        : 6-C-12(G,P)5-B-11,PAR,DA
+# File ID         : g-C12-p-adxl-lvldis-mon-einc5.990E+07_angl70_prodB11_Morrow_2006_m0689.002
+#
+# Einc (eV)       :   5.9900E+07
+# dEinc (eV)      :   1.0400E+07
+# theta,lab (deg) :   70.0000000
+#
+# npts            : 3           
+# xmin            :   6.7400E+06
+# xmax            :   7.2900E+06
+# ymin            :   7.8000E-07
+# ymax            :   5.6100E-06
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.7400E+06  0.0000E+00  5.6100E-06  1.1800E-06
+  6.7900E+06  0.0000E+00  1.1200E-06  7.5000E-07
+  7.2900E+06  0.0000E+00  7.8000E-07  7.8000E-07
+#---------------------------------------------------

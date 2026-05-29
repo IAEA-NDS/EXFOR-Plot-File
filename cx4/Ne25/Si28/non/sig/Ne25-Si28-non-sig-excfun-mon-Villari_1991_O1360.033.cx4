@@ -1,0 +1,23 @@
+# EXFOR #         : O1360.033  
+# EXFOR Ver.      : 20071114
+# TRANS #         : O034
+# Author          : A.C.C.Villari et al.
+# Reference       : Phys.Lett.B 268 (1991) 345
+# DOI             : 10.1016/0370-2693(91)91588-M
+# Quantity        : 28Si(25Ne,non) cross section
+# REACTION        : 14-SI-28(10-NE-25,NON),,SIG
+# File ID         : Ne25-Si28-non-sig-excfun-mon-Villari_1991_o1360.033
+#
+# npts            : 2           
+# xmin            :   1.1154E+09
+# xmax            :   1.3452E+09
+# ymin            :   2.1740E+00
+# ymax            :   2.3410E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1154E+09  0.0000E+00  2.1740E+00  7.0000E-02
+  1.3452E+09  0.0000E+00  2.3410E+00  2.2000E-01
+#---------------------------------------------------

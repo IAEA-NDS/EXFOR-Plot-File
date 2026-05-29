@@ -1,0 +1,28 @@
+# EXFOR #         : E2351.015  
+# EXFOR Ver.      : 20180420
+# TRANS #         : E115
+# Author          : C.Scholl et al.
+# Reference       : Phys.Rev.C 84 (2011) 014308
+# DOI             : 10.1103/PhysRevC.84.014308
+# Quantity        : 13C(he3,t)13N partial angular differential cross section
+# REACTION        : 6-C-13(HE3,T)7-N-13,PAR,DA
+# File ID         : h-C13-t-adxc-angdisc-mon-einc4.200E+08_elvl3.501E+06_prodN13_Scholl_2011_e2351.015
+#
+# Einc (eV)       :   4.2000E+08
+# Elvl (eV)       :   3.5012E+06
+#
+# npts            : 4           
+# xmin            :    0.4500000
+# xmax            :    2.2300000
+# ymin            :   1.8000E-02
+# ymax            :   3.1100E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.4500000   0.0000000  3.1100E-02  4.5000E-03
+   1.0000000   0.0000000  2.8200E-02  4.0000E-03
+   1.6100000   0.0000000  2.3500E-02  3.3000E-03
+   2.2300000   0.0000000  1.8000E-02  2.6000E-03
+#---------------------------------------------------

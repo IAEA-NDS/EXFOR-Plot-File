@@ -1,0 +1,29 @@
+# EXFOR #         : B0132.008  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : J.G.Fleissner et al.
+# Reference       : Phys.Rev.C 17 (1978) 1001
+# DOI             : 10.1103/PhysRevC.17.1001
+# Quantity        : 150Sm(6Li,x) independent production cross section
+# REACTION        : 62-SM-150(3-LI-6,X)ELEM/MASS,,SIG,,,EXP
+# File ID         : Li6-Sm150-x-sig-nucdis-mon-einc7.700E+07_Fleissner_1978_b0132.008
+#
+# Einc (eV)       :   7.7000E+07
+#
+# npts            : 6           
+# xmin            : 63146.9     
+# xmax            : 63151.9     
+# ymin            :   2.4000E-02
+# ymax            :   9.0000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     63151.9  2.4000E-02  0.0000E+00
+     63150.9  3.4000E-02  0.0000E+00
+     63149.9  8.8000E-02  0.0000E+00
+     63148.9  9.0000E-02  0.0000E+00
+     63147.9  5.8000E-02  0.0000E+00
+     63146.9  4.2000E-02  0.0000E+00
+#---------------------------------------------------

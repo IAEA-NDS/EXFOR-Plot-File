@@ -1,0 +1,23 @@
+# EXFOR #         : O0744.025  
+# EXFOR Ver.      : 20140205
+# TRANS #         : O052
+# Author          : J.Jaros et al.
+# Reference       : Phys.Rev.C 18 (1978) 2273
+# DOI             : 10.1103/PhysRevC.18.2273
+# Quantity        : 4He(a,non) cross section
+# REACTION        : 2-HE-4(A,NON),,SIG
+# File ID         : a-He4-non-sig-excfun-mon-Jaros_1978_o0744.025
+#
+# npts            : 2           
+# xmin            :   3.4800E+09
+# xmax            :   8.4000E+09
+# ymin            :   2.6200E-01
+# ymax            :   2.7600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4800E+09  0.0000E+00  2.6200E-01  1.8500E-02
+  8.4000E+09  0.0000E+00  2.7600E-01  1.5000E-02
+#---------------------------------------------------

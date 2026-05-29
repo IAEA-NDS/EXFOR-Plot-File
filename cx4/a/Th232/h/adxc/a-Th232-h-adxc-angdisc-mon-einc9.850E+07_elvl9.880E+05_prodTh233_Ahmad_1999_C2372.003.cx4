@@ -1,0 +1,27 @@
+# EXFOR #         : C2372.003  
+# EXFOR Ver.      : 20191119
+# TRANS #         : C195
+# Author          : I.Ahmad et al.
+# Reference       : Nucl.Phys.A 646 (1999) 175
+# DOI             : 10.1016/S0375-9474(98)00618-6
+# Quantity        : 232Th(a,he3)233Th partial angular differential cross section
+# REACTION        : 90-TH-232(A,HE3)90-TH-233,PAR,DA
+# File ID         : a-Th232-h-adxc-angdisc-mon-einc9.850E+07_elvl9.880E+05_prodTh233_Ahmad_1999_c2372.003
+#
+# Einc (eV)       :   9.8500E+07
+# Elvl (eV)       :   9.8800E+05
+#
+# npts            : 3           
+# xmin            :    7.1300000
+# xmax            :   25.6600000
+# ymin            :   2.1200E-03
+# ymax            :   4.5300E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.1300000   0.0000000  2.9200E-03  0.0000E+00
+  10.0600000   0.0000000  2.1200E-03  0.0000E+00
+  25.6600000   0.0000000  4.5300E-03  0.0000E+00
+#---------------------------------------------------

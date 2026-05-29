@@ -1,0 +1,28 @@
+# EXFOR #         : K2188.002  
+# EXFOR Ver.      : 20101108
+# TRANS #         : K009
+# Author          : M.Sugawara et al.
+# Reference       : J.Phys.Soc.Jpn. 18 No.1 (1963) 17
+# DOI             : 10.1143/JPSJ.18.17
+# Quantity        : natMg(g,el)natMg angular differential cross section
+# REACTION        : 12-MG-0(G,EL)12-MG-0,,DA,,4PI
+# File ID         : g-Mg-el-adxl-excfun-mon-angl120_prodMg_Sugawara_1963_k2188.002
+#
+# theta,lab (deg) :  120.0000000
+#
+# npts            : 5           
+# xmin            :   9.5000E+06
+# xmax            :   1.1500E+07
+# ymin            :   5.5704E-06
+# ymax            :   3.9789E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.5000E+06  1.0000E+06  5.5704E-06  3.9789E-06
+  1.0000E+07  1.0000E+06  2.4669E-05  7.1620E-06
+  1.0500E+07  1.0000E+06  3.9789E-05  9.5493E-06
+  1.1000E+07  1.0000E+06  3.4218E-05  7.9577E-06
+  1.1500E+07  1.0000E+06  1.0345E-05  4.7746E-06
+#---------------------------------------------------

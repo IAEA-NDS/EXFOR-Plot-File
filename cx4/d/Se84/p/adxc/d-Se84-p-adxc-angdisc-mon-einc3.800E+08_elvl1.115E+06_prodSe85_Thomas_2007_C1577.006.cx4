@@ -1,0 +1,28 @@
+# EXFOR #         : C1577.006  
+# EXFOR Ver.      : 20071202
+# TRANS #         : C083
+# Author          : J.S.Thomas et al.
+# Reference       : Phys.Rev.C 76 (2007) 044302
+# DOI             : 10.1103/PhysRevC.76.044302
+# Quantity        : 84Se(d,p)85Se partial angular differential cross section
+# REACTION        : 34-SE-84(D,P)34-SE-85,PAR,DA
+# File ID         : d-Se84-p-adxc-angdisc-mon-einc3.800E+08_elvl1.115E+06_prodSe85_Thomas_2007_c1577.006
+#
+# Einc (eV)       :   3.8000E+08
+# Elvl (eV)       :   1.1150E+06
+#
+# npts            : 4           
+# xmin            :   12.6800000
+# xmax            :   33.4600000
+# ymin            :   2.5490E-04
+# ymax            :   7.1880E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.6800000   0.0000000  2.5490E-04  1.7750E-04
+  18.9000000   0.0000000  3.0640E-04  1.4890E-04
+  26.3400000   0.0000000  7.1880E-04  2.1190E-04
+  33.4600000   0.0000000  5.9280E-04  1.6610E-04
+#---------------------------------------------------

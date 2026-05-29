@@ -1,0 +1,23 @@
+# EXFOR #         : C1889.002  
+# EXFOR Ver.      : 20120401
+# TRANS #         : C117
+# Author          : A.Goasduff et al.
+# Reference       : EPJ Web Conf. 17 (2011) 06002
+# DOI             : 10.1051/epjconf/20111706002
+# Quantity        : 12C(16O,g)28Si cross section
+# REACTION        : 6-C-12(8-O-16,G)14-SI-28,,SIG
+# File ID         : O16-C12-g-sig-excfun-mon-prodSi28_Goasduff_2011_c1889.002
+#
+# npts            : 2           
+# xmin            :   6.6000E+06
+# xmax            :   7.2000E+06
+# ymin            :   1.5000E-04
+# ymax            :   5.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+06  0.0000E+00  1.5000E-04  7.5000E-05
+  7.2000E+06  0.0000E+00  5.4000E-04  2.6000E-04
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : B0087.002.G
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : D.C.Aumann et al.
+# Reference       : Phys.Rev.C 16 (1977) 254
+# DOI             : 10.1103/PhysRevC.16.254
+# Quantity        : 232Th(a,f)148gPm independent production cross section
+# REACTION        : 90-TH-232(A,F)61-PM-148-G,IND,SIG,,,EXP
+# File ID         : a-Th232-x-sig-excfun-mon-prodPm148g_Aumann_1977_b0087.002.g
+#
+# npts            : 5           
+# xmin            :   2.5800E+07
+# xmax            :   4.1400E+07
+# ymin            :   2.1000E-09
+# ymax            :   1.4000E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5800E+07  1.7000E+06  2.1000E-09  4.0000E-10
+  2.9100E+07  1.4000E+06  1.2000E-08  2.0000E-09
+  3.1800E+07  1.5000E+06  3.6000E-08  5.0000E-09
+  3.7000E+07  1.0000E+06  1.4000E-07  2.0000E-08
+  4.1400E+07  1.0000E+06  1.2000E-07  2.0000E-08
+#---------------------------------------------------

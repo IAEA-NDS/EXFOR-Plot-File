@@ -1,0 +1,28 @@
+# EXFOR #         : O1870.002.1
+# EXFOR Ver.      : 20101126
+# TRANS #         : O044
+# Author          : G.Suliman et al.
+# Reference       : Eur.Phys.J.A 46 (2010) 187
+# DOI             : 10.1140/epja/i2010-11046-5
+# Quantity        : 132Ba(d,t)131Ba partial angular differential cross section
+# REACTION        : 56-BA-132(D,T)56-BA-131,PAR,DA
+# File ID         : d-Ba132-t-adxc-angdisc-mon-einc2.400E+07_elvl2.297E+06_prodBa131_Suliman_2010_o1870.002.1
+#
+# Einc (eV)       :   2.4000E+07
+# Elvl (eV)       :   2.2970E+06
+#
+# npts            : 4           
+# xmin            :   15.0000000
+# xmax            :   30.0000000
+# ymin            :   6.4146E-06
+# ymax            :   1.1557E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.0000000   0.0000000  6.4146E-06  1.1267E-06
+  20.0000000   0.0000000  8.4084E-06  8.5804E-07
+  25.0000000   0.0000000  1.1557E-05  8.9481E-07
+  30.0000000   0.0000000  8.9313E-06  8.1703E-07
+#---------------------------------------------------

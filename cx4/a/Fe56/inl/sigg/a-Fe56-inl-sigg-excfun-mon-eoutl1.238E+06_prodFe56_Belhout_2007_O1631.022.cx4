@@ -1,0 +1,28 @@
+# EXFOR #         : O1631.022  
+# EXFOR Ver.      : 20201024
+# TRANS #         : O081
+# Author          : A.Belhout et al.
+# Reference       : Phys.Rev.C 76 (2007) 034607
+# DOI             : 10.1103/PhysRevC.76.034607
+# Quantity        : 56Fe(a,inl)56Fe partial gamma production cross section
+# REACTION        : 26-FE-56(A,INL)26-FE-56,PAR,SIG,G
+# File ID         : a-Fe56-inl-sigg-excfun-mon-eoutl1.238E+06_prodFe56_Belhout_2007_o1631.022
+#
+# Eout,lab (eV)   :   1.2383E+06
+#
+# npts            : 5           
+# xmin            :   1.3670E+07
+# xmax            :   3.9370E+07
+# ymin            :   2.1740E-02
+# ymax            :   1.3325E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3670E+07  1.3300E+06  2.1740E-02  0.0000E+00
+  1.8940E+07  1.0600E+06  7.0760E-02  0.0000E+00
+  2.4040E+07  9.6000E+05  1.3325E-01  0.0000E+00
+  2.9170E+07  8.3000E+05  1.0464E-01  0.0000E+00
+  3.9370E+07  6.3000E+05  5.6840E-02  0.0000E+00
+#---------------------------------------------------

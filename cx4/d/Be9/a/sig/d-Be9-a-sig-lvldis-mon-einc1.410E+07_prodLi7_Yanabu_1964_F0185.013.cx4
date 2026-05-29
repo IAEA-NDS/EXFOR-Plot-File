@@ -1,0 +1,26 @@
+# EXFOR #         : F0185.013  
+# EXFOR Ver.      : 20200625
+# TRANS #         : F079
+# Author          : T.Yanabu et al.
+# Reference       : J.Phys.Soc.Jpn. 19 (1964) 1818
+# DOI             : 10.1143/JPSJ.19.1818
+# Quantity        : 9Be(d,a)7Li partial cross section
+# REACTION        : 4-BE-9(D,A)3-LI-7,PAR,SIG
+# File ID         : d-Be9-a-sig-lvldis-mon-einc1.410E+07_prodLi7_Yanabu_1964_f0185.013
+#
+# Einc (eV)       :   1.4100E+07
+#
+# npts            : 3           
+# xmin            :   0.0000E+00
+# xmax            :   4.6300E+06
+# ymin            :   3.8000E-03
+# ymax            :   9.6000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  6.8000E-03  0.0000E+00
+  4.8000E+05  0.0000E+00  3.8000E-03  0.0000E+00
+  4.6300E+06  0.0000E+00  9.6000E-03  0.0000E+00
+#---------------------------------------------------

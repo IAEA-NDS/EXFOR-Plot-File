@@ -1,0 +1,24 @@
+# EXFOR #         : E2394.005  
+# EXFOR Ver.      : 20240504
+# TRANS #         : E144
+# Author          : T.Mikumo et al.
+# Reference       : Phys.Lett. 23 (1966) 586
+# DOI             : 10.1016/0031-9163(66)91011-0
+# Quantity        : 16O(he3,x)7Be independent production cross section
+# REACTION        : 8-O-16(HE3,X)4-BE-7,,SIG
+# File ID         : h-O16-x-sig-excfun-mon-prodBe7_Mikumo_1966_e2394.005
+#
+# npts            : 3           
+# xmin            :   1.5918E+07
+# xmax            :   2.8064E+07
+# ymin            :   2.2750E-03
+# ymax            :   1.2840E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5918E+07  0.0000E+00  2.2750E-03  0.0000E+00
+  2.4157E+07  8.6700E+05  5.4640E-03  1.0180E-03
+  2.8064E+07  0.0000E+00  1.2840E-02  0.0000E+00
+#---------------------------------------------------

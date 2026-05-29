@@ -1,0 +1,26 @@
+# EXFOR #         : F1244.002  
+# EXFOR Ver.      : 20141203
+# TRANS #         : F056
+# Author          : A.D.Gedeonov et al.
+# Reference       : Proceedings of 4.Int.Worksh.on Targetry, Villigen, Switzerland,1991 page 82
+# DOI             : N/A
+# Quantity        : 235U(he3,n)237Pu cross section
+# REACTION        : 92-U-235(HE3,N)94-PU-237,,SIG
+# File ID         : h-U235-n-sig-excfun-mon-prodPu237_Gedeonov_1991_f1244.002
+#
+# npts            : 5           
+# xmin            :   1.7200E+07
+# xmax            :   4.1600E+07
+# ymin            :   4.2000E-06
+# ymax            :   1.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.1600E+07  0.0000E+00  1.3000E-04  2.0000E-05
+  3.6800E+07  0.0000E+00  1.2000E-04  2.0000E-05
+  3.1400E+07  0.0000E+00  9.0000E-05  1.0000E-05
+  2.5500E+07  0.0000E+00  3.6000E-05  4.0000E-06
+  1.7200E+07  0.0000E+00  4.2000E-06  6.0000E-07
+#---------------------------------------------------

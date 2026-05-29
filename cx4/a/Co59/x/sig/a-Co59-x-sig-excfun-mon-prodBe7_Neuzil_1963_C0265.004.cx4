@@ -1,0 +1,23 @@
+# EXFOR #         : C0265.004  
+# EXFOR Ver.      : 20111118
+# TRANS #         : C113
+# Author          : E.F.Neuzil et al.
+# Reference       : Phys.Rev. 131 (1963) 1697
+# DOI             : 10.1103/PhysRev.131.1697
+# Quantity        : 59Co(a,x)7Be independent production cross section
+# REACTION        : 27-CO-59(A,X)4-BE-7,,SIG
+# File ID         : a-Co59-x-sig-excfun-mon-prodBe7_Neuzil_1963_c0265.004
+#
+# npts            : 2           
+# xmin            :   3.6800E+07
+# xmax            :   4.0500E+07
+# ymin            :   3.7000E-06
+# ymax            :   8.5000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0500E+07  0.0000E+00  8.5000E-06  1.7000E-06
+  3.6800E+07  0.0000E+00  3.7000E-06  7.4000E-07
+#---------------------------------------------------

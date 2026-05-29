@@ -1,0 +1,22 @@
+# EXFOR #         : C0971.019  
+# EXFOR Ver.      : 20220629
+# TRANS #         : C223
+# Author          : R.W.West
+# Reference       : Phys.Rev. 141 (1966) 1033
+# DOI             : 10.1103/PhysRev.141.1033
+# Quantity        : 65Cu(a,p+x) cross section
+# REACTION        : 29-CU-65(A,X)1-H-1,,SIG
+# File ID         : a-Cu65-xp-sig-excfun-mon-West_1966_c0971.019
+#
+# npts            : 1           
+# xmin            :   4.2000E+07
+# xmax            :   4.2000E+07
+# ymin            :   5.8000E-01
+# ymax            :   5.8000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.2000E+07  2.0000E+05  5.8000E-01  6.0000E-02
+#---------------------------------------------------

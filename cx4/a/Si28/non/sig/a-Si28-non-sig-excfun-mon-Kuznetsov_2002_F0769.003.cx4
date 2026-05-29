@@ -1,0 +1,23 @@
+# EXFOR #         : F0769.003  
+# EXFOR Ver.      : 20190814
+# TRANS #         : F072
+# Author          : I.V.Kuznetsov et al.
+# Reference       : Yad.Fiz. 65 (2002) 1609
+# DOI             : N/A
+# Quantity        : 28Si(a,non) cross section
+# REACTION        : 14-SI-28(A,NON),,SIG
+# File ID         : a-Si28-non-sig-excfun-mon-Kuznetsov_2002_f0769.003
+#
+# npts            : 2           
+# xmin            :   9.2800E+07
+# xmax            :   1.0600E+08
+# ymin            :   1.2650E+00
+# ymax            :   1.3400E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.2800E+07  2.0000E+06  1.3400E+00  4.0000E-02
+  1.0600E+08  1.2000E+06  1.2650E+00  5.0000E-02
+#---------------------------------------------------

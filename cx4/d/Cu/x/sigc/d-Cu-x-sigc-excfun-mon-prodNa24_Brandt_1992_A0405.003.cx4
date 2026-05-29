@@ -1,0 +1,22 @@
+# EXFOR #         : A0405.003  
+# EXFOR Ver.      : 20120110
+# TRANS #         : A075
+# Author          : R.Brandt et al.
+# Reference       : Phys.Rev.C 45 (1992) 1194
+# DOI             : 10.1103/PhysRevC.45.1194
+# Quantity        : natCu(d,x)24Na cumulative production cross section
+# REACTION        : 29-CU-0(D,X)11-NA-24,CUM,SIG
+# File ID         : d-Cu-x-sigc-excfun-mon-prodNa24_Brandt_1992_a0405.003
+#
+# npts            : 1           
+# xmin            :   7.3000E+09
+# xmax            :   7.3000E+09
+# ymin            :   5.4000E-03
+# ymax            :   5.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.3000E+09  0.0000E+00  5.4000E-03  9.0000E-04
+#---------------------------------------------------

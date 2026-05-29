@@ -1,0 +1,27 @@
+# EXFOR #         : A0175.003  
+# EXFOR Ver.      : 20241002
+# TRANS #         : A120
+# Author          : H.Backhausen et al.
+# Reference       : Report INDC(GER)-23 page 32, 1981
+# DOI             : N/A
+# Quantity        : 20Ne(he3,x)18F cumulative production cross section
+# REACTION        : 10-NE-20(HE3,X)9-F-18,CUM,SIG
+# File ID         : h-Ne20-x-sigc-excfun-mon-prodF18_Backhausen_1981_a0175.003
+#
+# npts            : 6           
+# xmin            :   1.7270E+07
+# xmax            :   3.2400E+07
+# ymin            :   1.1800E-01
+# ymax            :   2.5200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7270E+07  0.0000E+00  2.3200E-01  4.6000E-02
+  2.0250E+07  0.0000E+00  2.5000E-01  5.0000E-02
+  2.3100E+07  0.0000E+00  2.5200E-01  5.8000E-02
+  2.9140E+07  0.0000E+00  1.6000E-01  2.4000E-02
+  3.1010E+07  0.0000E+00  1.3000E-01  2.8000E-02
+  3.2400E+07  0.0000E+00  1.1800E-01  2.5000E-02
+#---------------------------------------------------

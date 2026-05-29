@@ -1,0 +1,26 @@
+# EXFOR #         : C2728.002  
+# EXFOR Ver.      : 20241030
+# TRANS #         : C247
+# Author          : E.Ubersedera et al.
+# Reference       : Phys.Lett.B 754 (2016) 323
+# DOI             : 10.1016/j.physletb.2016.01.014
+# Quantity        : 1H(8He,el)1H angular differential cross section
+# REACTION        : 1-H-1(2-HE-8,EL)1-H-1,,DA
+# File ID         : He8-H1-el-adxl-angdisl-mon-einc1.492E+06_prodH1_Ubersedera_2016_c2728.002
+#
+# Einc (eV)       :   1.4918E+06
+#
+# npts            : 3           
+# xmin            :  114.6187000
+# xmax            :  161.5953000
+# ymin            :   9.4500E-03
+# ymax            :   1.3729E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 114.6187000   0.0000000  1.3729E-02  6.7600E-04
+ 133.0510000   0.0000000  1.1184E-02  5.2000E-04
+ 161.5953000   0.0000000  9.4500E-03  4.2600E-04
+#---------------------------------------------------

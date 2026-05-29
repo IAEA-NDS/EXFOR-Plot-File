@@ -1,0 +1,24 @@
+# EXFOR #         : F1247.065  
+# EXFOR Ver.      : 20240228
+# TRANS #         : F098
+# Author          : M.Suchopar et al.
+# Reference       : Nucl.Instrum.Meth.B 344 (2015) 63
+# DOI             : 10.1016/j.nimb.2014.12.006
+# Quantity        : natCu(d,x)44gSc independent production cross section
+# REACTION        : 29-CU-0(D,X)21-SC-44-G,,SIG
+# File ID         : d-Cu-x-sig-excfun-mon-prodSc44g_Suchopar_2015_f1247.065
+#
+# npts            : 3           
+# xmin            :   1.3000E+09
+# xmax            :   4.0000E+09
+# ymin            :   6.8000E-03
+# ymax            :   7.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+09  0.0000E+00  6.8000E-03  4.0000E-04
+  2.0000E+09  0.0000E+00  7.1000E-03  4.0000E-04
+  4.0000E+09  0.0000E+00  6.9000E-03  4.0000E-04
+#---------------------------------------------------

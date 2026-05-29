@@ -1,0 +1,23 @@
+# EXFOR #         : D0474.006  
+# EXFOR Ver.      : 20080715
+# TRANS #         : D064
+# Author          : A.Lepine-Szily et al.
+# Reference       : Nucl.Phys.A 787 (2007) 94C
+# DOI             : 10.1016/j.nuclphysa.2006.12.019
+# Quantity        : 51V(6He,non) cross section
+# REACTION        : 23-V-51(2-HE-6,NON),,SIG
+# File ID         : He6-V51-non-sig-excfun-mon-Lepine+Szily_2007_d0474.006
+#
+# npts            : 2           
+# xmin            :   1.5400E+07
+# xmax            :   2.3000E+07
+# ymin            :   1.8360E+00
+# ymax            :   2.2190E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5400E+07  0.0000E+00  1.8360E+00  1.3000E-01
+  2.3000E+07  0.0000E+00  2.2190E+00  1.4500E-01
+#---------------------------------------------------

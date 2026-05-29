@@ -1,0 +1,26 @@
+# EXFOR #         : A1495.007  
+# EXFOR Ver.      : 20140226
+# TRANS #         : A080
+# Author          : J.P.Schiffer et al.
+# Reference       : Phys.Rev. 104 (1956) 1064
+# DOI             : 10.1103/PhysRev.104.1064
+# Quantity        : 10B(he3,p)12C partial angular differential cross section
+# REACTION        : 5-B-10(HE3,P)6-C-12,PAR,DA
+# File ID         : h-B10-p-adxc-angdisl-mon-einc3.228E+06_elvl4.430E+06_prodC12_Schiffer_1956_a1495.007
+#
+# Einc (eV)       :   3.2280E+06
+# Elvl (eV)       :   4.4300E+06
+#
+# npts            : 2           
+# xmin            :    0.0000000
+# xmax            :   90.0000000
+# ymin            :   8.0060E-04
+# ymax            :   8.0850E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  8.0850E-04  1.2127E-04
+  90.0000000   0.0000000  8.0060E-04  1.2009E-04
+#---------------------------------------------------

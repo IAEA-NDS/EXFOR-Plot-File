@@ -1,0 +1,27 @@
+# EXFOR #         : E2743.002  
+# EXFOR Ver.      : 20231003
+# TRANS #         : E138
+# Author          : D.S.Ahn et al.
+# Reference       : Phys.Rev.Lett. 129 (2022) 212502
+# DOI             : 10.1103/PhysRevLett.129.212502
+# Quantity        : 9Be(48Ca,x) independent production cross section
+# REACTION        : 4-BE-9(20-CA-48,X)ELEM/MASS,,SIG
+# File ID         : Ca48-Be9-x-sig-nucdis-mon-einc1.656E+10_Ahn_2022_e2743.002
+#
+# Einc (eV)       :   1.6560E+10
+#
+# npts            : 4           
+# xmin            : 20030.9     
+# xmax            : 20034.9     
+# ymin            :   2.3400E-13
+# ymax            :   1.4300E-08
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     20030.9  1.4300E-08  1.1900E-10
+     20031.9  2.7200E-10  3.1400E-12
+     20032.9  1.6500E-10  2.0800E-12
+     20034.9  2.3400E-13  1.5300E-14
+#---------------------------------------------------

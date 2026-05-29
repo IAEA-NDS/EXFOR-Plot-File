@@ -1,0 +1,30 @@
+# EXFOR #         : C2386.002  
+# EXFOR Ver.      : 20190424
+# TRANS #         : C186
+# Author          : K.Setoodehnia et al.
+# Reference       : Phys.Rev.C 98 (2018) 055804
+# DOI             : 10.1103/PhysRevC.98.055804
+# Quantity        : 40Ca(he3,a)39Ca partial angular differential cross section
+# REACTION        : 20-CA-40(HE3,A)20-CA-39,PAR,DA
+# File ID         : h-Ca40-a-adxc-angdisc-mon-einc2.100E+07_elvl2.796E+06_prodCa39_Setoodehnia_2018_c2386.002
+#
+# Einc (eV)       :   2.1000E+07
+# Elvl (eV)       :   2.7960E+06
+#
+# npts            : 6           
+# xmin            :   20.5680000
+# xmax            :   47.3480000
+# ymin            :   7.2900E-05
+# ymax            :   3.6910E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.5680000   0.0000000  3.6910E-04  5.8000E-06
+  22.7270000   0.0000000  2.9820E-04  2.3000E-06
+  24.8820000   0.0000000  1.8330E-04  4.3000E-06
+  27.0360000   0.0000000  1.1890E-04  2.5000E-06
+  43.0980000   0.0000000  7.3900E-05  9.0000E-07
+  47.3480000   0.0000000  7.2900E-05  1.4000E-06
+#---------------------------------------------------

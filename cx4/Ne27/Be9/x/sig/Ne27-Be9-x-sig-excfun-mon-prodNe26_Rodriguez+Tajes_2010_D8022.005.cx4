@@ -1,0 +1,22 @@
+# EXFOR #         : D8022.005  
+# EXFOR Ver.      : 20200715
+# TRANS #         : D128
+# Author          : C.Rodriguez-Tajes et al.
+# Reference       : Phys.Lett.B 687 (2010) 26
+# DOI             : 10.1016/j.physletb.2010.03.006
+# Quantity        : 9Be(27Ne,x)26Ne independent production cross section
+# REACTION        : 4-BE-9(10-NE-27,X)10-NE-26,,SIG
+# File ID         : Ne27-Be9-x-sig-excfun-mon-prodNe26_Rodriguez+Tajes_2010_d8022.005
+#
+# npts            : 1           
+# xmin            :   1.8900E+10
+# xmax            :   1.8900E+10
+# ymin            :   1.0200E-01
+# ymax            :   1.0200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8900E+10  0.0000E+00  1.0200E-01  1.2000E-02
+#---------------------------------------------------

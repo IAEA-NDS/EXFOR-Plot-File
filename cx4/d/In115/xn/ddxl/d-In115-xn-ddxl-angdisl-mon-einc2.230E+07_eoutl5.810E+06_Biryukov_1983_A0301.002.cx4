@@ -1,0 +1,30 @@
+# EXFOR #         : A0301.002  
+# EXFOR Ver.      : 20220613
+# TRANS #         : A101
+# Author          : N.S.Biryukov et al.
+# Reference       : Proceedings of 6.All-Union Conf.on Neutron Physics,Kiev,2-6 Oct.1983 3 page 283
+# DOI             : N/A
+# Quantity        : 115In(d,n+x) double differential cross section
+# REACTION        : 49-IN-115(D,X)0-NN-1,,DA/DE
+# File ID         : d-In115-xn-ddxl-angdisl-mon-einc2.230E+07_eoutl5.810E+06_Biryukov_1983_a0301.002
+#
+# Einc (eV)       :   2.2300E+07
+# dEinc (eV)      :   3.0000E+05
+# Eout,lab (eV)   :   5.8100E+06
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   4.9400E-09
+# ymax            :   1.6600E-08
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  30.0000000   0.0000000  1.6600E-08  7.1000E-10
+  60.0000000   0.0000000  1.0710E-08  4.8000E-10
+  90.0000000   0.0000000  7.5900E-09  3.6000E-10
+ 120.0000000   0.0000000  4.9400E-09  2.6000E-10
+ 150.0000000   0.0000000  5.8800E-09  3.8000E-10
+#---------------------------------------------------

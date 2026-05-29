@@ -1,0 +1,23 @@
+# EXFOR #         : C2882.009  
+# EXFOR Ver.      : 20230112
+# TRANS #         : C227
+# Author          : W.M.Gibson
+# Reference       : Report UCRL-3493, 1956
+# DOI             : N/A
+# Quantity        : 239Pu(d,f)105Ru independent production cross section
+# REACTION        : 94-PU-239(D,F)44-RU-105,,SIG
+# File ID         : d-Pu239-x-sig-excfun-mon-prodRu105_Gibson_1956_c2882.009
+#
+# npts            : 2           
+# xmin            :   1.5000E+07
+# xmax            :   2.0600E+07
+# ymin            :   1.8300E-02
+# ymax            :   3.6600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  5.0000E+05  1.8300E-02  0.0000E+00
+  2.0600E+07  5.0000E+05  3.6600E-02  0.0000E+00
+#---------------------------------------------------

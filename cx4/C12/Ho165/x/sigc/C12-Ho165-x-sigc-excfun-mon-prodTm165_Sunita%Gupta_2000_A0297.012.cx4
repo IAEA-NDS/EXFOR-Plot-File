@@ -1,0 +1,24 @@
+# EXFOR #         : A0297.012  
+# EXFOR Ver.      : 20241003
+# TRANS #         : A120
+# Author          : Sunita Gupta et al.
+# Reference       : Phys.Rev.C 61 (2000) 064613
+# DOI             : 10.1103/PhysRevC.61.064613
+# Quantity        : 165Ho(12C,x)165Tm cumulative production cross section
+# REACTION        : 67-HO-165(6-C-12,X)69-TM-165,CUM,SIG
+# File ID         : C12-Ho165-x-sigc-excfun-mon-prodTm165_Sunita%Gupta_2000_a0297.012
+#
+# npts            : 3           
+# xmin            :   6.2000E+07
+# xmax            :   8.0000E+07
+# ymin            :   9.9000E-02
+# ymax            :   3.3600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.2000E+07  9.0000E+05  9.9000E-02  1.4000E-02
+  7.1000E+07  1.0000E+06  3.3600E-01  4.7000E-02
+  8.0000E+07  9.0000E+05  2.5200E-01  3.7000E-02
+#---------------------------------------------------

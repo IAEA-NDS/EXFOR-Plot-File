@@ -1,0 +1,23 @@
+# EXFOR #         : C2324.008  
+# EXFOR Ver.      : 20180618
+# TRANS #         : C177
+# Author          : J.A.Powers et al.
+# Reference       : Phys.Rev. 152 (1966) 1096
+# DOI             : 10.1103/PhysRev.152.1096
+# Quantity        : 239Pu(a,f) cross section
+# REACTION        : 94-PU-239(A,F),,SIG
+# File ID         : a-Pu239-f-sig-excfun-mon-Powers_1966_c2324.008
+#
+# npts            : 2           
+# xmin            :   2.1500E+07
+# xmax            :   3.2000E+07
+# ymin            :   4.8000E-02
+# ymax            :   9.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1500E+07  0.0000E+00  4.8000E-02  0.0000E+00
+  3.2000E+07  0.0000E+00  9.0000E-01  0.0000E+00
+#---------------------------------------------------

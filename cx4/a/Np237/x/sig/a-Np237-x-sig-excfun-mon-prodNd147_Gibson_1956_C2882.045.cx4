@@ -1,0 +1,23 @@
+# EXFOR #         : C2882.045  
+# EXFOR Ver.      : 20230113
+# TRANS #         : C227
+# Author          : W.M.Gibson
+# Reference       : Report UCRL-3493, 1956
+# DOI             : N/A
+# Quantity        : 237Np(a,f)147Nd independent production cross section
+# REACTION        : 93-NP-237(A,F)60-ND-147,,SIG
+# File ID         : a-Np237-x-sig-excfun-mon-prodNd147_Gibson_1956_c2882.045
+#
+# npts            : 2           
+# xmin            :   2.2700E+07
+# xmax            :   3.1500E+07
+# ymin            :   3.4500E-03
+# ymax            :   1.6200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2700E+07  5.0000E+05  3.4500E-03  0.0000E+00
+  3.1500E+07  5.0000E+05  1.6200E-02  0.0000E+00
+#---------------------------------------------------

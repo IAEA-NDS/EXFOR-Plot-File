@@ -1,0 +1,24 @@
+# EXFOR #         : A0284.010  
+# EXFOR Ver.      : 20210303
+# TRANS #         : A097
+# Author          : Y.Homma et al.
+# Reference       : Appl.Radiat.Isot. 31 (1980) 399
+# DOI             : 10.1016/0020-708X(80)90076-9
+# Quantity        : natRb(a,x)85mY independent production cross section
+# REACTION        : 37-RB-0(A,X)39-Y-85-M,,SIG
+# File ID         : a-Rb-x-sig-excfun-mon-prodY85m_Homma_1980_a0284.010
+#
+# npts            : 3           
+# xmin            :   4.5090E+07
+# xmax            :   5.9290E+07
+# ymin            :   4.1300E-03
+# ymax            :   3.6800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5090E+07  0.0000E+00  4.1300E-03  0.0000E+00
+  5.2280E+07  0.0000E+00  2.1100E-02  0.0000E+00
+  5.9290E+07  0.0000E+00  3.6800E-02  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : C1975.003  
+# EXFOR Ver.      : 20130122
+# TRANS #         : C127
+# Author          : D.K.Sharp et al.
+# Reference       : Phys.Rev.C 87 (2013) 014312
+# DOI             : 10.1103/PhysRevC.87.014312
+# Quantity        : 88Sr(a,he3)89Sr partial angular differential cross section
+# REACTION        : 38-SR-88(A,HE3)38-SR-89,PAR,DA
+# File ID         : a-Sr88-h-adxl-angdisl-mon-einc5.000E+07_elvl2.008E+06_prodSr89_Sharp_2013_c1975.003
+#
+# Einc (eV)       :   5.0000E+07
+# Elvl (eV)       :   2.0080E+06
+# dElvl (eV)      :   4.0000E+03
+#
+# npts            : 2           
+# xmin            :    5.0000000
+# xmax            :   22.5000000
+# ymin            :   6.2000E-05
+# ymax            :   1.0200E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0000000   0.0000000  1.0200E-04  2.3000E-05
+  22.5000000   0.0000000  6.2000E-05  5.0000E-05
+#---------------------------------------------------

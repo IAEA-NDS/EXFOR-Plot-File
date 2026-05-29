@@ -1,0 +1,25 @@
+# EXFOR #         : T0214.003  
+# EXFOR Ver.      : 20030625
+# TRANS #         : 0000
+# Author          : D.R.F.Cochran et al.
+# Reference       : Phys.Rev. 128 (1962) 1281
+# DOI             : 10.1103/PhysRev.128.1281
+# Quantity        : 27Al(he3,x)7Be independent production cross section
+# REACTION        : 13-AL-27(HE3,X)4-BE-7,,SIG,,AV
+# File ID         : h-Al27-x-sig-excfun-mon-prodBe7_Cochran_1962_t0214.003
+#
+# npts            : 4           
+# xmin            :   1.7490E+07
+# xmax            :   2.3290E+07
+# ymin            :   4.0000E-05
+# ymax            :   1.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7490E+07  0.0000E+00  5.0000E-05  1.0000E-05
+  1.9590E+07  0.0000E+00  4.0000E-05  1.0000E-05
+  2.1500E+07  0.0000E+00  1.5000E-04  2.0000E-05
+  2.3290E+07  0.0000E+00  1.2000E-04  3.0000E-05
+#---------------------------------------------------

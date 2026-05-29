@@ -1,0 +1,25 @@
+# EXFOR #         : M0427.002  
+# EXFOR Ver.      : 20161223
+# TRANS #         : M086
+# Author          : H.E.Jackson et al.
+# Reference       : Phys.Rev.C 11 (1975) 1664
+# DOI             : 10.1103/PhysRevC.11.1664
+# Quantity        : 238U(g,el)238U angular differential cross section
+# REACTION        : 92-U-238(G,EL)92-U-238,,DA
+# File ID         : g-U238-el-adxl-angdisl-mon-einc1.139E+07_prodU238_Jackson_1975_m0427.002
+#
+# Einc (eV)       :   1.1387E+07
+#
+# npts            : 2           
+# xmin            :   90.0000000
+# xmax            :  150.0000000
+# ymin            :   1.6900E-04
+# ymax            :   3.5500E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  1.6900E-04  1.1000E-05
+ 150.0000000   0.0000000  3.5500E-04  4.1000E-05
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : E2224.008  
+# EXFOR Ver.      : 20160520
+# TRANS #         : E103
+# Author          : Y.Ishizaki
+# Reference       : J.Phys.Soc.Jpn. 16 (1961) 1056
+# DOI             : 10.1143/JPSJ.16.1056
+# Quantity        : 12C(d,inl)12C partial cross section
+# REACTION        : 6-C-12(D,INL)6-C-12,PAR,SIG
+# File ID         : d-C12-inl-sig-excfun-mon-elvl4.430E+06_prodC12_Ishizaki_1961_e2224.008
+#
+# Elvl (eV)       :   4.4300E+06
+#
+# npts            : 3           
+# xmin            :   1.4760E+07
+# xmax            :   1.8160E+07
+# ymin            :   1.0604E-01
+# ymax            :   1.1430E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4760E+07  1.0000E+05  1.1430E-01  2.0000E-02
+  1.5870E+07  1.0000E+05  1.1193E-01  1.2690E-02
+  1.8160E+07  1.0000E+05  1.0604E-01  1.3300E-02
+#---------------------------------------------------

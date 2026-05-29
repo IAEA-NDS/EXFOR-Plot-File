@@ -1,0 +1,25 @@
+# EXFOR #         : O1901.003  
+# EXFOR Ver.      : 20110801
+# TRANS #         : O046
+# Author          : A.Lemasson et al.
+# Reference       : Phys.Lett.B 697 (2011) 454
+# DOI             : 10.1016/j.physletb.2011.02.038
+# Quantity        : 197Au(8He,x)198mAu independent production cross section
+# REACTION        : 79-AU-197(2-HE-8,X)79-AU-198-M,,SIG
+# File ID         : He8-Au197-x-sig-excfun-mon-prodAu198m_Lemasson_2011_o1901.003
+#
+# npts            : 4           
+# xmin            :   1.8246E+07
+# xmax            :   2.8998E+07
+# ymin            :   1.4300E-04
+# ymax            :   1.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8998E+07  7.0011E+04  1.3000E-02  5.0000E-03
+  2.5709E+07  1.8002E+05  8.0000E-03  3.0000E-03
+  2.2763E+07  3.6004E+05  1.0000E-02  3.0000E-03
+  1.8246E+07  5.0005E+04  1.4300E-04  6.0000E-05
+#---------------------------------------------------

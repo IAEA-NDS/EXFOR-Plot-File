@@ -1,0 +1,26 @@
+# EXFOR #         : O2182.004  
+# EXFOR Ver.      : 20140304
+# TRANS #         : O052
+# Author          : D.Schmidt et al.
+# Reference       : Report PTB-N-7, 1992
+# DOI             : N/A
+# Quantity        : 9Be(a,n)12C partial cross section
+# REACTION        : 4-BE-9(A,N)6-C-12,PAR,SIG
+# File ID         : a-Be9-n-sig-excfun-mon-elvl1.183E+07_prodC12_Schmidt_1992_o2182.004
+#
+# Elvl (eV)       :   1.1830E+07
+#
+# npts            : 3           
+# xmin            :   1.3700E+07
+# xmax            :   1.5700E+07
+# ymin            :   8.4848E-03
+# ymax            :   1.2054E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3700E+07  0.0000E+00  1.2054E-02  1.5779E-03
+  1.4320E+07  0.0000E+00  9.8038E-03  3.3039E-04
+  1.5700E+07  0.0000E+00  8.4848E-03  2.3333E-04
+#---------------------------------------------------

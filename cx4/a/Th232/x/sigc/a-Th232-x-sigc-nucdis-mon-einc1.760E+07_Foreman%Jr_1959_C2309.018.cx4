@@ -1,0 +1,31 @@
+# EXFOR #         : C2309.018  
+# EXFOR Ver.      : 20180601
+# TRANS #         : C177
+# Author          : B.M.Foreman Jr et al.
+# Reference       : Phys.Rev. 116 (1959) 382
+# DOI             : 10.1103/PhysRev.116.382
+# Quantity        : 232Th(a,f) cumulative production cross section
+# REACTION        : 90-TH-232(A,F)ELEM/MASS,CUM,SIG
+# File ID         : a-Th232-x-sigc-nucdis-mon-einc1.760E+07_Foreman%Jr_1959_c2309.018
+#
+# Einc (eV)       :   1.7600E+07
+# dEinc (eV)      :   5.0000E+05
+#
+# npts            : 7           
+# xmin            : 38089.9     
+# xmax            : 56140.9     
+# ymin            :   4.7000E-06
+# ymax            :   1.1000E-04
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     38089.9  5.1000E-05  1.0000E-05
+     38091.9  4.9000E-05  1.0000E-05
+     40095.9  1.1000E-04  4.0000E-05
+     40097.9  5.8000E-05  2.0000E-05
+     48115.9  4.7000E-06  3.0000E-06
+     48115.9  5.2000E-06  4.0000E-06
+     56140.9  3.7000E-05  1.9000E-05
+#---------------------------------------------------

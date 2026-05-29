@@ -1,0 +1,22 @@
+# EXFOR #         : O0570.023  
+# EXFOR Ver.      : 20190307
+# TRANS #         : O068
+# Author          : G.R.Choppin et al.
+# Reference       : J.Inorg.Nucl.Chem. 33 (1971) 897
+# DOI             : 10.1016/0022-1902(71)80155-0
+# Quantity        : 238U(d,f)133I cumulative production cross section
+# REACTION        : 92-U-238(D,F)53-I-133,(CUM),SIG
+# File ID         : d-U238-x-sigc-excfun-mon-prodI133_Choppin_1971_o0570.023
+#
+# npts            : 1           
+# xmin            :   1.0600E+07
+# xmax            :   1.0600E+07
+# ymin            :   5.6500E-03
+# ymax            :   5.6500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0600E+07  0.0000E+00  5.6500E-03  3.3900E-04
+#---------------------------------------------------

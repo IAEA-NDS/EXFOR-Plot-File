@@ -1,0 +1,23 @@
+# EXFOR #         : A0366.165  
+# EXFOR Ver.      : 20240825
+# TRANS #         : A117
+# Author          : R.Kossakowski et al.
+# Reference       : Phys.Rev.C 32 (1985) 1612
+# DOI             : 10.1103/PhysRevC.32.1612
+# Quantity        : 147Sm(12C,x)148Gd independent production cross section
+# REACTION        : 62-SM-147(6-C-12,X)64-GD-148,,SIG
+# File ID         : C12-Sm147-x-sig-excfun-mon-prodGd148_Kossakowski_1985_a0366.165
+#
+# npts            : 2           
+# xmin            :   9.3400E+07
+# xmax            :   1.0580E+08
+# ymin            :   2.7000E-02
+# ymax            :   4.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.3400E+07  0.0000E+00  2.7000E-02  0.0000E+00
+  1.0580E+08  0.0000E+00  4.3000E-02  0.0000E+00
+#---------------------------------------------------

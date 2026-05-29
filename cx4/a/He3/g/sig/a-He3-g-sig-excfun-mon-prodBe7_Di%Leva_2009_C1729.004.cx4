@@ -1,0 +1,24 @@
+# EXFOR #         : C1729.004  
+# EXFOR Ver.      : 20150429
+# TRANS #         : C148
+# Author          : A.Di Leva et al.
+# Reference       : Phys.Rev.Lett. 102 (2009) 232502
+# DOI             : 10.1103/PhysRevLett.102.232502
+# Quantity        : 3He(a,g)7Be cross section
+# REACTION        : 2-HE-3(A,G)4-BE-7,,SIG
+# File ID         : a-He3-g-sig-excfun-mon-prodBe7_Di%Leva_2009_c1729.004
+#
+# npts            : 3           
+# xmin            :   1.5127E+06
+# xmax            :   5.8282E+06
+# ymin            :   9.3000E-07
+# ymax            :   6.3000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5127E+06  0.0000E+00  9.3000E-07  3.0000E-08
+  2.5670E+06  0.0000E+00  2.2100E-06  8.0000E-08
+  5.8282E+06  0.0000E+00  6.3000E-06  2.0000E-07
+#---------------------------------------------------

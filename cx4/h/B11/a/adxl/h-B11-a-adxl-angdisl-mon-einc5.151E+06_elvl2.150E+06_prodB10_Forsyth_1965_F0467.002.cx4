@@ -1,0 +1,26 @@
+# EXFOR #         : F0467.002  
+# EXFOR Ver.      : 20010205
+# TRANS #         : 0000
+# Author          : P.D.Forsyth et al.
+# Reference       : Nucl.Phys. 66 (1965) 376
+# DOI             : 10.1016/0029-5582(65)90186-0
+# Quantity        : 11B(he3,a)10B partial angular differential cross section
+# REACTION        : 5-B-11(HE3,A)5-B-10,PAR,DA
+# File ID         : h-B11-a-adxl-angdisl-mon-einc5.151E+06_elvl2.150E+06_prodB10_Forsyth_1965_f0467.002
+#
+# Einc (eV)       :   5.1510E+06
+# dEinc (eV)      :   2.0000E+03
+# Elvl (eV)       :   2.1500E+06
+#
+# npts            : 1           
+# xmin            :   15.0000000
+# xmax            :   15.0000000
+# ymin            :   6.5500E-04
+# ymax            :   6.5500E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.0000000   0.0000000  6.5500E-04  9.8250E-05
+#---------------------------------------------------

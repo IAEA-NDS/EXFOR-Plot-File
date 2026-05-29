@@ -1,0 +1,23 @@
+# EXFOR #         : O2013.019  
+# EXFOR Ver.      : 20120815
+# TRANS #         : O049
+# Author          : R.Bimbot et al.
+# Reference       : J.Phys.(Paris) 32 (1971) 243
+# DOI             : 10.1051/jphys:01971003204024300
+# Quantity        : 206Pb(a,6n)204Po cross section
+# REACTION        : 82-PB-206(A,6N)84-PO-204,,SIG
+# File ID         : a-Pb206-6n-sig-excfun-mon-prodPo204_Bimbot_1971_o2013.019
+#
+# npts            : 2           
+# xmin            :   7.8500E+07
+# xmax            :   1.0900E+08
+# ymin            :   1.3900E-01
+# ymax            :   7.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.8500E+07  0.0000E+00  7.1000E-01  9.0000E-02
+  1.0900E+08  0.0000E+00  1.3900E-01  2.0000E-02
+#---------------------------------------------------

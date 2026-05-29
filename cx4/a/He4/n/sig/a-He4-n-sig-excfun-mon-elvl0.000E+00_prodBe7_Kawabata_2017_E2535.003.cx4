@@ -1,0 +1,27 @@
+# EXFOR #         : E2535.003  
+# EXFOR Ver.      : 20181224
+# TRANS #         : E118
+# Author          : T.Kawabata et al.
+# Reference       : Phys.Rev.Lett. 118 (2017) 052701
+# DOI             : 10.1103/PhysRevLett.118.052701
+# Quantity        : 4He(a,n)7Be partial cross section
+# REACTION        : 2-HE-4(A,N)4-BE-7,PAR,SIG
+# File ID         : a-He4-n-sig-excfun-mon-elvl0.000E+00_prodBe7_Kawabata_2017_e2535.003
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :   3.8501E+07
+# xmax            :   3.9644E+07
+# ymin            :   1.6200E-03
+# ymax            :   1.9520E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8501E+07  7.0000E+03  1.6200E-03  7.4000E-04
+  3.8903E+07  1.1000E+04  5.3900E-03  1.3000E-04
+  3.9300E+07  9.0000E+03  1.1140E-02  4.3000E-04
+  3.9644E+07  1.5000E+04  1.9520E-02  2.2300E-03
+#---------------------------------------------------

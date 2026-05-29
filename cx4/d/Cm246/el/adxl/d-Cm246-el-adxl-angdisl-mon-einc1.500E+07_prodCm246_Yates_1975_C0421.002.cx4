@@ -1,0 +1,26 @@
+# EXFOR #         : C0421.002  
+# EXFOR Ver.      : 19970425
+# TRANS #         : 0000
+# Author          : S.W.Yates et al.
+# Reference       : Phys.Rev.C 12 (1975) 795
+# DOI             : 10.1103/PhysRevC.12.795
+# Quantity        : 246Cm(d,el)246Cm angular differential cross section
+# REACTION        : 96-CM-246(D,EL)96-CM-246,,DA
+# File ID         : d-Cm246-el-adxl-angdisl-mon-einc1.500E+07_prodCm246_Yates_1975_c0421.002
+#
+# Einc (eV)       :   1.5000E+07
+#
+# npts            : 3           
+# xmin            :   90.0000000
+# xmax            :  140.0000000
+# ymin            :   1.1100E-02
+# ymax            :   7.8800E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  7.8800E-02  3.9000E-03
+ 125.0000000   0.0000000  1.6800E-02  3.4000E-03
+ 140.0000000   0.0000000  1.1100E-02  8.0000E-04
+#---------------------------------------------------

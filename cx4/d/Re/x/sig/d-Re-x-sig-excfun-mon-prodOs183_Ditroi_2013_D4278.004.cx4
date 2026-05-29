@@ -1,0 +1,26 @@
+# EXFOR #         : D4278.004  
+# EXFOR Ver.      : 20130410
+# TRANS #         : D088
+# Author          : F.Ditroi et al.
+# Reference       : Nucl.Instrum.Meth.B 296 (2013) 92
+# DOI             : 10.1016/j.nimb.2012.11.020
+# Quantity        : natRe(d,x)183Os independent production cross section
+# REACTION        : 75-RE-0(D,X)76-OS-183,,SIG
+# File ID         : d-Re-x-sig-excfun-mon-prodOs183_Ditroi_2013_d4278.004
+#
+# npts            : 5           
+# xmin            :   2.5200E+07
+# xmax            :   3.8500E+07
+# ymin            :   9.6800E-02
+# ymax            :   3.4200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8500E+07  3.0000E+05  2.5100E-01  2.8300E-02
+  3.5600E+07  3.0000E+05  3.0130E-01  3.3900E-02
+  3.2400E+07  4.0000E+05  3.4200E-01  3.8500E-02
+  2.9000E+07  4.0000E+05  2.6540E-01  2.9900E-02
+  2.5200E+07  5.0000E+05  9.6800E-02  1.1000E-02
+#---------------------------------------------------

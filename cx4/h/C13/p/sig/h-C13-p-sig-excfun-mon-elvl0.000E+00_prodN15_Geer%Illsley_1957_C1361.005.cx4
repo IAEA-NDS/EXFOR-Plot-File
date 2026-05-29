@@ -1,0 +1,25 @@
+# EXFOR #         : C1361.005  
+# EXFOR Ver.      : 20120627
+# TRANS #         : C120
+# Author          : E.Geer Illsley et al.
+# Reference       : Phys.Rev. 107 (1957) 538
+# DOI             : 10.1103/PhysRev.107.538
+# Quantity        : 13C(he3,p)15N partial cross section
+# REACTION        : 6-C-13(HE3,P)7-N-15,PAR,SIG
+# File ID         : h-C13-p-sig-excfun-mon-elvl0.000E+00_prodN15_Geer%Illsley_1957_c1361.005
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :   2.0000E+06
+# xmax            :   4.5000E+06
+# ymin            :   2.1000E-03
+# ymax            :   1.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  2.1000E-03  4.2000E-04
+  4.5000E+06  0.0000E+00  1.4000E-02  2.8000E-03
+#---------------------------------------------------

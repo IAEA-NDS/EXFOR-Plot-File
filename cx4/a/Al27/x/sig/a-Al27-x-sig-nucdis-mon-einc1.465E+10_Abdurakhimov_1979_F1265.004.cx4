@@ -1,0 +1,28 @@
+# EXFOR #         : F1265.004  
+# EXFOR Ver.      : 20150722
+# TRANS #         : F060
+# Author          : A.U.Abdurakhimov et al.
+# Reference       : Report JINR-E1-12730, 1979
+# DOI             : N/A
+# Quantity        : 27Al(a,x) independent production cross section
+# REACTION        : 13-AL-27(A,X)ELEM/MASS,,SIG
+# File ID         : a-Al27-x-sig-nucdis-mon-einc1.465E+10_Abdurakhimov_1979_f1265.004
+#
+# Einc (eV)       :   1.4650E+10
+#
+# npts            : 5           
+# xmin            : 1001.9      
+# xmax            : 2003.9      
+# ymin            :   6.9490E-02
+# ymax            :   4.1740E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      1001.9  4.1740E-01  2.6080E-02
+      1001.9  1.8410E-01  1.8770E-02
+      1002.9  1.0210E-01  1.7110E-02
+      1003.9  6.9490E-02  1.4070E-02
+      2003.9  7.0580E-02  1.3690E-02
+#---------------------------------------------------

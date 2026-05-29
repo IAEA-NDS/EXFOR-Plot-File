@@ -1,0 +1,22 @@
+# EXFOR #         : D5082.015  
+# EXFOR Ver.      : 20110822
+# TRANS #         : D079
+# Author          : V.V.Sotnikov et al.
+# Reference       : Proceedings of 3 Int.Conf.Cur.Prob.in Nucl.Phys.Atom.Ene.,Kyiv,2010 page 250
+# DOI             : N/A
+# Quantity        : 209Bi(d,x)203Bi independent production cross section
+# REACTION        : 83-BI-209(D,X)83-BI-203,IND,SIG
+# File ID         : d-Bi209-x-sig-excfun-mon-prodBi203_Sotnikov_2010_d5082.015
+#
+# npts            : 1           
+# xmin            :   1.6000E+09
+# xmax            :   1.6000E+09
+# ymin            :   3.3000E-02
+# ymax            :   3.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+09  0.0000E+00  3.3000E-02  3.0000E-03
+#---------------------------------------------------

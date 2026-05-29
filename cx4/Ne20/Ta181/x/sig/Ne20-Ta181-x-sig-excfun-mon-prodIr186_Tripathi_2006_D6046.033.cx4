@@ -1,0 +1,23 @@
+# EXFOR #         : D6046.033  
+# EXFOR Ver.      : 20090528
+# TRANS #         : D069
+# Author          : R.Tripathi et al.
+# Reference       : Phys.Rev.C 74 (2006) 014610
+# DOI             : 10.1103/PhysRevC.74.014610
+# Quantity        : 181Ta(20Ne,x)186Ir independent production cross section
+# REACTION        : 73-TA-181(10-NE-20,X)77-IR-186,,SIG
+# File ID         : Ne20-Ta181-x-sig-excfun-mon-prodIr186_Tripathi_2006_d6046.033
+#
+# npts            : 2           
+# xmin            :   1.5000E+08
+# xmax            :   1.8000E+08
+# ymin            :   2.7000E-03
+# ymax            :   1.0400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  2.7000E-03  2.4000E-04
+  1.8000E+08  0.0000E+00  1.0400E-02  1.4000E-03
+#---------------------------------------------------

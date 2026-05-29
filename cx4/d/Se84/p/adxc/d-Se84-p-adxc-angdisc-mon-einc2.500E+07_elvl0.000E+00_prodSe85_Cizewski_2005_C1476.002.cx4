@@ -1,0 +1,30 @@
+# EXFOR #         : C1476.002  
+# EXFOR Ver.      : 20061206
+# TRANS #         : C079
+# Author          : J.A.Cizewski et al.
+# Reference       : Proceedings of Symp.on Capt.Gamma Ray Spectroscopy, Notre Dame 2005 page 209
+# DOI             : N/A
+# Quantity        : 84Se(d,p)85Se partial angular differential cross section
+# REACTION        : 34-SE-84(D,P)34-SE-85,PAR,DA
+# File ID         : d-Se84-p-adxc-angdisc-mon-einc2.500E+07_elvl0.000E+00_prodSe85_Cizewski_2005_c1476.002
+#
+# Einc (eV)       :   2.5000E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 6           
+# xmin            :    4.3290000
+# xmax            :   35.7570000
+# ymin            :   1.5360E-03
+# ymax            :   4.0760E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.3290000   0.0000000  1.5360E-03  1.0120E-03
+   5.9980000   0.0000000  3.6840E-03  1.6300E-03
+  14.3410000   0.0000000  4.0280E-03  6.5200E-04
+  21.3480000   0.0000000  3.9740E-03  5.4900E-04
+  28.6370000   0.0000000  4.0760E-03  4.4600E-04
+  35.7570000   0.0000000  2.4100E-03  3.0900E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : E2646.003  
+# EXFOR Ver.      : 20200818
+# TRANS #         : E128
+# Author          : V.Vaquero et al.
+# Reference       : Phys.Rev.Lett. 124 (2020) 022501
+# DOI             : 10.1103/PhysRevLett.124.022501
+# Quantity        : 132Sn(a,x)131Sn independent production cross section
+# REACTION        : 50-SN-132(A,X)50-SN-131,,SIG
+# File ID         : a-Sn132-x-sig-excfun-mon-prodSn131_Vaquero_2020_e2646.003
+#
+# npts            : 1           
+# xmin            :   8.1200E+08
+# xmax            :   8.1200E+08
+# ymin            :   1.2000E-01
+# ymax            :   1.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.1200E+08  0.0000E+00  1.2000E-01  1.5000E-02
+#---------------------------------------------------

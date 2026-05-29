@@ -1,0 +1,23 @@
+# EXFOR #         : C2444.032  
+# EXFOR Ver.      : 20200130
+# TRANS #         : C189
+# Author          : J.Jungerman
+# Reference       : Phys.Rev. 79 (1950) 632
+# DOI             : 10.1103/PhysRev.79.632
+# Quantity        : 209Bi(a,f) cross section
+# REACTION        : 83-BI-209(A,F),,SIG
+# File ID         : a-Bi209-f-sig-excfun-mon-Jungerman_1950_c2444.032
+#
+# npts            : 2           
+# xmin            :   2.0159E+08
+# xmax            :   3.0043E+08
+# ymin            :   5.1100E-01
+# ymax            :   5.5100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0159E+08  0.0000E+00  5.1100E-01  0.0000E+00
+  3.0043E+08  0.0000E+00  5.5100E-01  0.0000E+00
+#---------------------------------------------------

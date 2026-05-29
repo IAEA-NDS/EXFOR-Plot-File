@@ -1,0 +1,28 @@
+# EXFOR #         : F1265.005  
+# EXFOR Ver.      : 20150722
+# TRANS #         : F060
+# Author          : A.U.Abdurakhimov et al.
+# Reference       : Report JINR-E1-12730, 1979
+# DOI             : N/A
+# Quantity        : natCu(a,x) independent production cross section
+# REACTION        : 29-CU-0(A,X)ELEM/MASS,,SIG
+# File ID         : a-Cu-x-sig-nucdis-mon-einc1.465E+10_Abdurakhimov_1979_f1265.005
+#
+# Einc (eV)       :   1.4650E+10
+#
+# npts            : 5           
+# xmin            : 1001.9      
+# xmax            : 2003.9      
+# ymin            :   8.9800E-02
+# ymax            :   6.5810E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      1001.9  6.5810E-01  6.3910E-02
+      1001.9  3.0140E-01  2.7810E-02
+      1002.9  1.6460E-01  3.4780E-02
+      1003.9  9.4330E-02  1.9920E-02
+      2003.9  8.9800E-02  2.0470E-02
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : A0619.003  
+# EXFOR Ver.      : 19990318
+# TRANS #         : 0000
+# Author          : O.N.Vysotskii et al.
+# Reference       : Proceedings of 40.Conf.Nucl.Spectroscopy Nucl.Struct.,Leningrad 1990 page 338
+# DOI             : N/A
+# Quantity        : 7Li(d,2n)7Be cross section
+# REACTION        : 3-LI-7(D,2N)4-BE-7,,SIG
+# File ID         : d-Li7-2n-sig-excfun-mon-prodBe7_Vysotskii_1990_a0619.003
+#
+# npts            : 7           
+# xmin            :   5.5000E+06
+# xmax            :   1.3150E+07
+# ymin            :   4.7000E-03
+# ymax            :   8.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3150E+07  0.0000E+00  8.7000E-02  9.0000E-03
+  1.1900E+07  0.0000E+00  8.5000E-02  8.0000E-03
+  1.0600E+07  0.0000E+00  8.2000E-02  8.0000E-03
+  9.1000E+06  0.0000E+00  6.6000E-02  7.0000E-03
+  7.9000E+06  0.0000E+00  4.1000E-02  4.0000E-03
+  6.5600E+06  0.0000E+00  1.2100E-02  1.2000E-03
+  5.5000E+06  0.0000E+00  4.7000E-03  5.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : M0842.005  
+# EXFOR Ver.      : 20120130
+# TRANS #         : M062
+# Author          : H.Arenhoevel et al.
+# Reference       : Nucl.Phys.A 147 (1970) 305
+# DOI             : 10.1016/0375-9474(70)90270-8
+# Quantity        : 51V(g,inl)51V angular differential cross section
+# REACTION        : 23-V-51(G,INL)23-V-51,,DA,,BRS
+# File ID         : g-V51-inl-adxl-excfun-brs-angl150_prodV51_Arenhoevel_1970_m0842.005
+#
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 4           
+# xmin            :   1.7400E+07
+# xmax            :   2.3600E+07
+# ymin            :   3.7000E-06
+# ymax            :   6.0000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7400E+07  1.0000E+06  4.7330E-06  1.0660E-06
+  1.9400E+07  9.0000E+05  6.0000E-06  1.1330E-06
+  2.1300E+07  1.0000E+06  4.1070E-06  1.2000E-06
+  2.3600E+07  1.3000E+06  3.7000E-06  3.6660E-06
+#---------------------------------------------------

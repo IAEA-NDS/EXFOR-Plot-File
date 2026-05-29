@@ -1,0 +1,25 @@
+# EXFOR #         : O1321.005  
+# EXFOR Ver.      : 20070606
+# TRANS #         : O030
+# Author          : H.Langevin-Joliot et al.
+# Reference       : Phys.Rev.C 66 (2002) 054303
+# DOI             : 10.1103/PhysRevC.66.054303
+# Quantity        : 116Sn(d,t)115Sn partial angular differential cross section
+# REACTION        : 50-SN-116(D,T)50-SN-115,PAR,DA
+# File ID         : d-Sn116-t-adxc-lvldis-mon-einc2.000E+08_angc3_prodSn115_Langevin+Joliot_2002_o1321.005
+#
+# Einc (eV)       :   2.0000E+08
+# theta,cm (deg)  :    3.3900000
+#
+# npts            : 1           
+# xmin            :   2.0250E+07
+# xmax            :   2.0250E+07
+# ymin            :   3.5000E-04
+# ymax            :   3.5000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.0250E+07  0.0000E+00  3.5000E-04  0.0000E+00
+#---------------------------------------------------

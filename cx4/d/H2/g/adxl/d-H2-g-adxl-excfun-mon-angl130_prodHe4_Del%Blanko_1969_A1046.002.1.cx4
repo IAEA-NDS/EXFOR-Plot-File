@@ -1,0 +1,25 @@
+# EXFOR #         : A1046.002.1
+# EXFOR Ver.      : 20240425
+# TRANS #         : A111
+# Author          : W.Del Blanko et al.
+# Reference       : Phys.Lett.B 29 (1969) 299
+# DOI             : 10.1016/0370-2693(69)90548-6
+# Quantity        : 2H(d,g)4He angular differential cross section
+# REACTION        : 1-H-2(D,G)2-HE-4,,DA
+# File ID         : d-H2-g-adxl-excfun-mon-angl130_prodHe4_Del%Blanko_1969_a1046.002.1
+#
+# theta,lab (deg) :  130.0000000
+#
+# npts            : 2           
+# xmin            :   6.0000E+06
+# xmax            :   8.0000E+06
+# ymin            :   1.0640E-08
+# ymax            :   1.4630E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.0000E+06  0.0000E+00  1.0640E-08  2.6880E-09
+  8.0000E+06  0.0000E+00  1.4630E-08  2.4700E-09
+#---------------------------------------------------

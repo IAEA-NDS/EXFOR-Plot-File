@@ -1,0 +1,30 @@
+# EXFOR #         : E1923.023  
+# EXFOR Ver.      : 20060411
+# TRANS #         : E036
+# Author          : H.Yashima et al.
+# Reference       : Nucl.Instrum.Meth.B 226 (2004) 243
+# DOI             : 10.1016/j.nimb.2004.06.025
+# Quantity        : natCr(12C,x) cumulative production cross section
+# REACTION        : 24-CR-0(6-C-12,X)ELEM/MASS,CUM,SIG
+# File ID         : C12-Cr-x-sigc-nucdis-mon-einc1.200E+09_Yashima_2004_e1923.023
+#
+# Einc (eV)       :   1.2000E+09
+#
+# npts            : 7           
+# xmin            : 11022.9     
+# xmax            : 24051.9     
+# ymin            :   5.8900E-04
+# ymax            :   4.7400E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     11022.9  1.7600E-03  1.8000E-04
+     11024.9  3.1400E-03  7.3000E-05
+     12028.9  2.7600E-03  1.8000E-04
+     19043.9  1.5000E-03  5.0000E-05
+     21043.9  4.7500E-03  1.1000E-04
+     24048.9  5.8900E-04  1.6000E-05
+     24051.9  4.7400E-02  2.1000E-03
+#---------------------------------------------------

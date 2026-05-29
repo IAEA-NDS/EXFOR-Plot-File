@@ -1,0 +1,22 @@
+# EXFOR #         : D4435.003  
+# EXFOR Ver.      : 20260123
+# TRANS #         : D151
+# Author          : S.R.Kovacs et al.
+# Reference       : Nucl.Instrum.Meth.A 1073 (2025) 170272
+# DOI             : 10.1016/j.nima.2025.170272
+# Quantity        : 86Kr(a,n)89Sr cross section
+# REACTION        : 36-KR-86(A,N)38-SR-89,,SIG
+# File ID         : a-Kr86-n-sig-excfun-mon-prodSr89_Kovacs_2025_d4435.003
+#
+# npts            : 1           
+# xmin            :   1.1576E+07
+# xmax            :   1.1576E+07
+# ymin            :   8.6350E-02
+# ymax            :   8.6350E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1576E+07  5.0007E+04  8.6350E-02  1.2270E-02
+#---------------------------------------------------

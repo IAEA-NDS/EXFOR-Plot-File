@@ -1,0 +1,30 @@
+# EXFOR #         : O1568.002  
+# EXFOR Ver.      : 20071121
+# TRANS #         : O034
+# Author          : A.Cunsolo et al.
+# Reference       : Phys.Rev.C 24 (1981) 2127
+# DOI             : 10.1103/PhysRevC.24.2127
+# Quantity        : 14C(6Li,t)17O partial angular differential cross section
+# REACTION        : 6-C-14(3-LI-6,T)8-O-17,PAR,DA
+# File ID         : Li6-C14-t-adxc-angdisc-mon-einc3.400E+07_elvl7.750E+06_prodO17_Cunsolo_1981_o1568.002
+#
+# Einc (eV)       :   3.4000E+07
+# dEinc (eV)      :   4.0000E+04
+# Elvl (eV)       :   7.7500E+06
+#
+# npts            : 5           
+# xmin            :    7.2700000
+# xmax            :   38.0100000
+# ymin            :   3.6000E-05
+# ymax            :   3.2000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.2700000   0.0000000  2.5000E-04  5.0000E-05
+  12.6500000   0.0000000  3.2000E-04  6.4000E-05
+  18.6300000   0.0000000  2.4400E-04  4.8800E-05
+  31.9500000   0.0000000  7.5000E-05  1.5000E-05
+  38.0100000   0.0000000  3.6000E-05  7.2000E-06
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : E2535.002  
+# EXFOR Ver.      : 20181224
+# TRANS #         : E118
+# Author          : T.Kawabata et al.
+# Reference       : Phys.Rev.Lett. 118 (2017) 052701
+# DOI             : 10.1103/PhysRevLett.118.052701
+# Quantity        : 4He(a,n)7Be partial angular differential cross section
+# REACTION        : 2-HE-4(A,N)4-BE-7,PAR,DA
+# File ID         : a-He4-n-adxl-angdisc-mon-einc3.964E+07_elvl4.290E+05_prodBe7_Kawabata_2017_e2535.002
+#
+# Einc (eV)       :   3.9640E+07
+# Elvl (eV)       :   4.2900E+05
+#
+# npts            : 4           
+# xmin            :    0.0000000
+# xmax            :   60.4000000
+# ymin            :   2.4000E-04
+# ymax            :   1.0000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  2.4000E-04  1.7280E-05
+  18.9000000   0.0000000  3.5000E-04  2.8350E-05
+  38.5000000   0.0000000  7.1000E-04  4.8280E-05
+  60.4000000   0.0000000  1.0000E-03  5.3000E-05
+#---------------------------------------------------

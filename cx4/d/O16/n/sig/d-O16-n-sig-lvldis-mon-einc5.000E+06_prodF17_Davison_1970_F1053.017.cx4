@@ -1,0 +1,25 @@
+# EXFOR #         : F1053.017  
+# EXFOR Ver.      : 20100210
+# TRANS #         : F038
+# Author          : N.E.Davison et al.
+# Reference       : Can.J.Phys. 48 (1970) 2235
+# DOI             : 10.1139/p70-282
+# Quantity        : 16O(d,n)17F partial cross section
+# REACTION        : 8-O-16(D,N)9-F-17,PAR,SIG
+# File ID         : d-O16-n-sig-lvldis-mon-einc5.000E+06_prodF17_Davison_1970_f1053.017
+#
+# Einc (eV)       :   5.0000E+06
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   5.0000E+05
+# ymin            :   1.8000E-01
+# ymax            :   1.9000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.8000E-01  3.0000E-02
+  5.0000E+05  0.0000E+00  1.9000E-01  3.0000E-02
+#---------------------------------------------------

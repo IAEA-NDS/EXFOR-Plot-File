@@ -1,0 +1,24 @@
+# EXFOR #         : C2417.012  
+# EXFOR Ver.      : 20191204
+# TRANS #         : C187
+# Author          : K.Eskola et al.
+# Reference       : Phys.Rev.C 29 (1984) 2160
+# DOI             : 10.1103/PhysRevC.29.2160
+# Quantity        : 205Tl(18O,x)212m1Bi independent production cross section
+# REACTION        : 81-TL-205(8-O-18,X)83-BI-212-M1,,SIG
+# File ID         : O18-Tl205-x-sig-excfun-mon-prodBi212m_Eskola_1984_c2417.012
+#
+# npts            : 3           
+# xmin            :   8.6606E+07
+# xmax            :   1.8832E+08
+# ymin            :   2.0880E-09
+# ymax            :   3.1730E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.6606E+07  0.0000E+00  2.0880E-09  0.0000E+00
+  1.5177E+08  0.0000E+00  2.9670E-08  0.0000E+00
+  1.8832E+08  0.0000E+00  3.1730E-08  0.0000E+00
+#---------------------------------------------------

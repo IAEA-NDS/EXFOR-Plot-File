@@ -1,0 +1,24 @@
+# EXFOR #         : C2309.013  
+# EXFOR Ver.      : 20180815
+# TRANS #         : C177
+# Author          : B.M.Foreman Jr et al.
+# Reference       : Phys.Rev. 116 (1959) 382
+# DOI             : 10.1103/PhysRev.116.382
+# Quantity        : 232Th(a,x)231Th cumulative production cross section
+# REACTION        : 90-TH-232(A,X)90-TH-231,CUM,SIG
+# File ID         : a-Th232-x-sigc-excfun-mon-prodTh231_Foreman%Jr_1959_c2309.013
+#
+# npts            : 3           
+# xmin            :   3.2300E+07
+# xmax            :   3.8900E+07
+# ymin            :   3.5000E-03
+# ymax            :   1.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2300E+07  5.0000E+05  3.5000E-03  1.2000E-03
+  3.5900E+07  5.0000E+05  1.6000E-02  3.0000E-03
+  3.8900E+07  5.0000E+05  1.1000E-02  2.0000E-03
+#---------------------------------------------------

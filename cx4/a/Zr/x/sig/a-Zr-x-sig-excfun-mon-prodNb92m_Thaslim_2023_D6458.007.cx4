@@ -1,0 +1,25 @@
+# EXFOR #         : D6458.007  
+# EXFOR Ver.      : 20231115
+# TRANS #         : D141
+# Author          : T.T.V.Thaslim et al.
+# Reference       : Eur.Phys.J.A 59 (2023) 167
+# DOI             : 10.1140/epja/s10050-023-01086-5
+# Quantity        : natZr(a,x)92mNb independent production cross section
+# REACTION        : 40-ZR-0(A,X)41-NB-92-M,,SIG
+# File ID         : a-Zr-x-sig-excfun-mon-prodNb92m_Thaslim_2023_d6458.007
+#
+# npts            : 4           
+# xmin            :   2.0400E+07
+# xmax            :   3.9700E+07
+# ymin            :   6.6000E-04
+# ymax            :   2.6140E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0400E+07  5.0000E+05  6.6000E-04  8.0000E-05
+  2.9600E+07  4.0000E+05  1.8290E-02  3.3900E-03
+  3.2300E+07  4.0000E+05  2.6140E-02  4.8400E-03
+  3.9700E+07  3.0000E+05  1.7400E-02  3.2300E-03
+#---------------------------------------------------

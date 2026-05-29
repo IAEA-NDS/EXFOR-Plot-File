@@ -1,0 +1,28 @@
+# EXFOR #         : F0654.003  
+# EXFOR Ver.      : 20040527
+# TRANS #         : 0000
+# Author          : A.Ray et al.
+# Reference       : Phys.Rev.C 51 (1995) 1604
+# DOI             : 10.1103/PhysRevC.51.R1604
+# Quantity        : 27Al(a,p)30Si angular differential cross section
+# REACTION        : 13-AL-27(A,P)14-SI-30,,DA
+# File ID         : a-Al27-p-adxc-angdisc-mon-einc2.510E+07_prodSi30_Ray_1995_f0654.003
+#
+# Einc (eV)       :   2.5100E+07
+# dEinc (eV)      :   5.0000E+05
+#
+# npts            : 4           
+# xmin            :  152.5100000
+# xmax            :  165.3900000
+# ymin            :   2.3947E-02
+# ymax            :   2.5519E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 152.5100000   0.0000000  2.3947E-02  0.0000E+00
+ 158.1000000   0.0000000  2.4585E-02  0.0000E+00
+ 161.7100000   0.0000000  2.4018E-02  0.0000E+00
+ 165.3900000   0.0000000  2.5519E-02  0.0000E+00
+#---------------------------------------------------

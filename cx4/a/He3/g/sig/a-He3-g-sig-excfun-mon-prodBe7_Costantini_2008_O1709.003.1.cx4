@@ -1,0 +1,24 @@
+# EXFOR #         : O1709.003.1
+# EXFOR Ver.      : 20090312
+# TRANS #         : O038
+# Author          : H.Costantini et al.
+# Reference       : Nucl.Phys.A 814 (2008) 144
+# DOI             : 10.1016/j.nuclphysa.2008.09.014
+# Quantity        : 3He(a,g)7Be cross section
+# REACTION        : 2-HE-3(A,G)4-BE-7,,SIG
+# File ID         : a-He3-g-sig-excfun-mon-prodBe7_Costantini_2008_o1709.003.1
+#
+# npts            : 3           
+# xmin            :   2.1712E+05
+# xmax            :   3.9585E+05
+# ymin            :   2.3500E-10
+# ymax            :   1.0250E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1712E+05  0.0000E+00  2.3500E-10  0.0000E+00
+  2.4784E+05  0.0000E+00  5.8800E-10  0.0000E+00
+  3.9585E+05  0.0000E+00  1.0250E-08  0.0000E+00
+#---------------------------------------------------

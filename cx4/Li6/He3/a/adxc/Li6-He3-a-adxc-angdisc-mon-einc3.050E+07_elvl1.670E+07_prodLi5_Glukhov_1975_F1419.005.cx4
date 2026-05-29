@@ -1,0 +1,25 @@
+# EXFOR #         : F1419.005  
+# EXFOR Ver.      : 20200623
+# TRANS #         : F081
+# Author          : Yu.A.Glukhov et al.
+# Reference       : Yad.Fiz. 22 (1975) 679
+# DOI             : N/A
+# Quantity        : 3He(6Li,a)5Li partial angular differential cross section
+# REACTION        : 2-HE-3(3-LI-6,A)3-LI-5,PAR,DA
+# File ID         : Li6-He3-a-adxc-angdisc-mon-einc3.050E+07_elvl1.670E+07_prodLi5_Glukhov_1975_f1419.005
+#
+# Einc (eV)       :   3.0500E+07
+# Elvl (eV)       :   1.6700E+07
+#
+# npts            : 1           
+# xmin            :   24.0000000
+# xmax            :   24.0000000
+# ymin            :   1.2000E-03
+# ymax            :   1.2000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  24.0000000   0.0000000  1.2000E-03  0.0000E+00
+#---------------------------------------------------

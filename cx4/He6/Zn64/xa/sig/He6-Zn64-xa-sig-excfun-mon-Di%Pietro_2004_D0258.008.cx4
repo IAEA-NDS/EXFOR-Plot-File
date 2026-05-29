@@ -1,0 +1,23 @@
+# EXFOR #         : D0258.008  
+# EXFOR Ver.      : 20211001
+# TRANS #         : D132
+# Author          : A.Di Pietro et al.
+# Reference       : Phys.Rev.C 69 (2004) 044613
+# DOI             : 10.1103/PhysRevC.69.044613
+# Quantity        : 64Zn(6He,a+x) cross section
+# REACTION        : 30-ZN-64(2-HE-6,X)2-HE-4,,SIG
+# File ID         : He6-Zn64-xa-sig-excfun-mon-Di%Pietro_2004_d0258.008
+#
+# npts            : 2           
+# xmin            :   1.0000E+07
+# xmax            :   1.3600E+07
+# ymin            :   3.0000E-01
+# ymax            :   1.2000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+07  0.0000E+00  3.0000E-01  1.0000E-01
+  1.3600E+07  0.0000E+00  1.2000E+00  1.5000E-01
+#---------------------------------------------------

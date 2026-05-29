@@ -1,0 +1,29 @@
+# EXFOR #         : C1930.009  
+# EXFOR Ver.      : 20120718
+# TRANS #         : C121
+# Author          : C.R.Hoffman et al.
+# Reference       : Phys.Rev.C 85 (2012) 054318
+# DOI             : 10.1103/PhysRevC.85.054318
+# Quantity        : 19O(d,p)20O partial angular differential cross section
+# REACTION        : 8-O-19(D,P)8-O-20,PAR,DA
+# File ID         : d-O19-p-adxc-angdisc-mon-einc1.322E+07_elvl5.640E+06_prodO20_Hoffman_2012_c1930.009
+#
+# Einc (eV)       :   1.3220E+07
+# dEinc (eV)      :   3.0000E+04
+# Elvl (eV)       :   5.6400E+06
+#
+# npts            : 4           
+# xmin            :   13.2000000
+# xmax            :   31.4000000
+# ymin            :   4.3300E-04
+# ymax            :   1.2540E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  13.2000000   0.0000000  1.2540E-03  2.0300E-04
+  19.6000000   0.0000000  6.1400E-04  1.6800E-04
+  26.2000000   0.0000000  4.3300E-04  1.2300E-04
+  31.4000000   0.0000000  4.6700E-04  1.6200E-04
+#---------------------------------------------------

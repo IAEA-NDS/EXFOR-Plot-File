@@ -1,0 +1,25 @@
+# EXFOR #         : D0862.012  
+# EXFOR Ver.      : 20180117
+# TRANS #         : D113
+# Author          : A.M.Baxter et al.
+# Reference       : Nucl.Phys.A 369 (1981) 25
+# DOI             : 10.1016/0375-9474(81)90004-X
+# Quantity        : 200Hg(a,inl)200Hg partial angular differential cross section
+# REACTION        : 80-HG-200(A,INL)80-HG-200,PAR,DA
+# File ID         : a-Hg200-inl-adxl-lvldis-mon-einc2.700E+07_angl171_prodHg200_Baxter_1981_d0862.012
+#
+# Einc (eV)       :   2.7000E+07
+# theta,lab (deg) :  171.0000000
+#
+# npts            : 1           
+# xmin            :   2.6090E+06
+# xmax            :   2.6090E+06
+# ymin            :   4.0000E-05
+# ymax            :   4.0000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.6090E+06  0.0000E+00  4.0000E-05  4.0000E-06
+#---------------------------------------------------

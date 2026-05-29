@@ -1,0 +1,23 @@
+# EXFOR #         : A0118.005  
+# EXFOR Ver.      : 20240304
+# TRANS #         : A109
+# Author          : H.Freiesleben et al.
+# Reference       : Report COO-3496-44 page 97, 1974
+# DOI             : N/A
+# Quantity        : 209Bi(7Li,x)210Po independent production cross section
+# REACTION        : 83-BI-209(3-LI-7,X)84-PO-210,,SIG
+# File ID         : Li7-Bi209-x-sig-excfun-mon-prodPo210_Freiesleben_1974_a0118.005
+#
+# npts            : 2           
+# xmin            :   3.0000E+07
+# xmax            :   3.2000E+07
+# ymin            :   7.1000E-02
+# ymax            :   1.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2000E+07  0.0000E+00  1.4000E-01  2.0000E-02
+  3.0000E+07  0.0000E+00  7.1000E-02  1.0000E-02
+#---------------------------------------------------

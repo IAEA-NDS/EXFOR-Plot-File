@@ -1,0 +1,27 @@
+# EXFOR #         : O2623.002  
+# EXFOR Ver.      : 20240801
+# TRANS #         : O100
+# Author          : D.S.Harrouz et al.
+# Reference       : Phys.Rev.C 105 (2022) 015805
+# DOI             : 10.1103/PhysRevC.105.015805
+# Quantity        : 30Si(he3,d)31P partial angular differential cross section
+# REACTION        : 14-SI-30(HE3,D)15-P-31,PAR,DA
+# File ID         : h-Si30-d-adxc-angdisc-mon-einc2.500E+07_elvl8.105E+06_prodP31_Harrouz_2022_o2623.002
+#
+# Einc (eV)       :   2.5000E+07
+# Elvl (eV)       :   8.1050E+06
+#
+# npts            : 3           
+# xmin            :   21.4000000
+# xmax            :   34.3000000
+# ymin            :   4.2250E-05
+# ymax            :   8.4910E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  21.4000000   0.5000000  8.4910E-05  1.7040E-05
+  24.6000000   0.4000000  5.9010E-05  9.8600E-06
+  34.3000000   0.4000000  4.2250E-05  7.1710E-06
+#---------------------------------------------------

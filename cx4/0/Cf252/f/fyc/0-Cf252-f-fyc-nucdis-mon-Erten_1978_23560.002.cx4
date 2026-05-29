@@ -1,0 +1,23 @@
+# EXFOR #         : 23560.002  
+# EXFOR Ver.      : 20200415
+# TRANS #         : 2287
+# Author          : H.N.Erten et al.
+# Reference       : J.Inorg.Nucl.Chem. 40 (1978) 183
+# DOI             : 10.1016/0022-1902(78)80107-9
+# Quantity        : 252Cf(sf) cumulative fission product yield
+# REACTION        : 98-CF-252(0,F)ELEM/MASS,CUM,FY
+# File ID         : 0-Cf252-f-fyc-nucdis-mon-Erten_1978_23560.002
+#
+# npts            : 2           
+# xmin            : 52134.9     
+# xmax            : 53134.9     
+# ymin            :   3.1000E-02
+# ymax            :   3.7000E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     52134.9  3.1000E-02  4.0000E-03
+     53134.9  3.7000E-02  5.0000E-03
+#---------------------------------------------------

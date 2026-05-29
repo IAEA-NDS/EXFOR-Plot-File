@@ -1,0 +1,24 @@
+# EXFOR #         : A1111.004.2
+# EXFOR Ver.      : 20240708
+# TRANS #         : A113
+# Author          : H.B.Burrows et al.
+# Reference       : Proc.R.Soc.Lond.A 209 (1951) 489
+# DOI             : 10.1098/rspa.1951.0221
+# Quantity        : 2H(d,p)3H angular differential cross section
+# REACTION        : 1-H-2(D,P)1-H-3,,DA
+# File ID         : d-H2-p-adxc-angdisc-mon-einc7.940E+06_prodH3_Burrows_1951_a1111.004.2
+#
+# Einc (eV)       :   7.9400E+06
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   4.8000E-03
+# ymax            :   4.8000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  4.8000E-03  2.8800E-04
+#---------------------------------------------------

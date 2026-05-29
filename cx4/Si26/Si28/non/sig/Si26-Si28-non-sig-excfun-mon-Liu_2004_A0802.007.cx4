@@ -1,0 +1,23 @@
+# EXFOR #         : A0802.007  
+# EXFOR Ver.      : 20260205
+# TRANS #         : A131
+# Author          : Z.H.Liu et al.
+# Reference       : Phys.Rev.C 69 (2004) 034326
+# DOI             : 10.1103/PhysRevC.69.034326
+# Quantity        : 28Si(26Si,non) cross section
+# REACTION        : 14-SI-28(14-SI-26,NON),,SIG
+# File ID         : Si26-Si28-non-sig-excfun-mon-Liu_2004_a0802.007
+#
+# npts            : 2           
+# xmin            :   6.0060E+08
+# xmax            :   8.2420E+08
+# ymin            :   2.2840E+00
+# ymax            :   2.3510E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0060E+08  0.0000E+00  2.3510E+00  1.9000E-01
+  8.2420E+08  0.0000E+00  2.2840E+00  1.9000E-01
+#---------------------------------------------------

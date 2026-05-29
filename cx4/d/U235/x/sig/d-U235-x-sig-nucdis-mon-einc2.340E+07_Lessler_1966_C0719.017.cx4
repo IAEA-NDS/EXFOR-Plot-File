@@ -1,0 +1,25 @@
+# EXFOR #         : C0719.017  
+# EXFOR Ver.      : 20220625
+# TRANS #         : C222
+# Author          : R.M.Lessler et al.
+# Reference       : Nucl.Phys. 81 (1966) 401
+# DOI             : 10.1016/S0029-5582(66)80031-7
+# Quantity        : 235U(d,f) independent production cross section
+# REACTION        : 92-U-235(D,F)ELEM/MASS,,SIG
+# File ID         : d-U235-x-sig-nucdis-mon-einc2.340E+07_Lessler_1966_c0719.017
+#
+# Einc (eV)       :   2.3400E+07
+# dEinc (eV)      :   5.0000E+05
+#
+# npts            : 1           
+# xmin            : 57140.9     
+# xmax            : 57140.9     
+# ymin            :   3.5000E-03
+# ymax            :   3.5000E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     57140.9  3.5000E-03  0.0000E+00
+#---------------------------------------------------

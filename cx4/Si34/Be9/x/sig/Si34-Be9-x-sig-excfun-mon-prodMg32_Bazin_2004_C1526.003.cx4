@@ -1,0 +1,22 @@
+# EXFOR #         : C1526.003  
+# EXFOR Ver.      : 20181107
+# TRANS #         : C181
+# Author          : D.Bazin et al.
+# Reference       : Nucl.Phys.A 746 (2004) 173
+# DOI             : 10.1016/j.nuclphysa.2004.09.031
+# Quantity        : 9Be(34Si,x)32Mg independent production cross section
+# REACTION        : 4-BE-9(14-SI-34,X)12-MG-32,,SIG
+# File ID         : Si34-Be9-x-sig-excfun-mon-prodMg32_Bazin_2004_c1526.003
+#
+# npts            : 1           
+# xmin            :   2.2814E+09
+# xmax            :   2.2814E+09
+# ymin            :   7.6000E-04
+# ymax            :   7.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2814E+09  0.0000E+00  7.6000E-04  1.0000E-04
+#---------------------------------------------------

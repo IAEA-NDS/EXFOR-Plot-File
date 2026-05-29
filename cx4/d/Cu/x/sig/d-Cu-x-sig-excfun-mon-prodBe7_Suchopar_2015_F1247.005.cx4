@@ -1,0 +1,24 @@
+# EXFOR #         : F1247.005  
+# EXFOR Ver.      : 20240228
+# TRANS #         : F098
+# Author          : M.Suchopar et al.
+# Reference       : Nucl.Instrum.Meth.B 344 (2015) 63
+# DOI             : 10.1016/j.nimb.2014.12.006
+# Quantity        : natCu(d,x)7Be independent production cross section
+# REACTION        : 29-CU-0(D,X)4-BE-7,,SIG
+# File ID         : d-Cu-x-sig-excfun-mon-prodBe7_Suchopar_2015_f1247.005
+#
+# npts            : 3           
+# xmin            :   2.0000E+09
+# xmax            :   8.0000E+09
+# ymin            :   1.2900E-02
+# ymax            :   2.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+09  0.0000E+00  1.2900E-02  2.1000E-03
+  4.0000E+09  0.0000E+00  1.6200E-02  1.6000E-03
+  8.0000E+09  0.0000E+00  2.4000E-02  1.0000E-02
+#---------------------------------------------------

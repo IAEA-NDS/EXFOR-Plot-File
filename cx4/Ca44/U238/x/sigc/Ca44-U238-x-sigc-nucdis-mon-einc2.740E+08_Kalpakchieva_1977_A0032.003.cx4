@@ -1,0 +1,29 @@
+# EXFOR #         : A0032.003  
+# EXFOR Ver.      : 20241001
+# TRANS #         : A120
+# Author          : R.Kalpakchieva et al.
+# Reference       : Sov.J.Nucl.Phys. 26 (1977) 131
+# DOI             : N/A
+# Quantity        : 238U(44Ca,x) cumulative production cross section
+# REACTION        : 92-U-238(20-CA-44,X)ELEM/MASS,CUM,SIG
+# File ID         : Ca44-U238-x-sigc-nucdis-mon-einc2.740E+08_Kalpakchieva_1977_a0032.003
+#
+# Einc (eV)       :   2.7400E+08
+#
+# npts            : 6           
+# xmin            : 79192.9     
+# xmax            : 79199.9     
+# ymin            :   1.2500E-04
+# ymax            :   1.0000E-03
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     79192.9  5.1800E-04  0.0000E+00
+     79193.9  6.1700E-04  0.0000E+00
+     79194.9  8.5800E-04  0.0000E+00
+     79196.9  1.0000E-03  0.0000E+00
+     79198.9  3.7300E-04  0.0000E+00
+     79199.9  1.2500E-04  0.0000E+00
+#---------------------------------------------------

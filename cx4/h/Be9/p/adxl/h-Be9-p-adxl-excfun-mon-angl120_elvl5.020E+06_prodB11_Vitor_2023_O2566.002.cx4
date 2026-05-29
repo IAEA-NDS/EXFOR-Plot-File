@@ -1,0 +1,29 @@
+# EXFOR #         : O2566.002  
+# EXFOR Ver.      : 20230425
+# TRANS #         : O097
+# Author          : C.M.Vitor et al.
+# Reference       : Phys.Scr. 98 (2023) 035306
+# DOI             : 10.1088/1402-4896/acbb5d
+# Quantity        : 9Be(he3,p)11B partial angular differential cross section
+# REACTION        : 4-BE-9(HE3,P)5-B-11,PAR,DA
+# File ID         : h-Be9-p-adxl-excfun-mon-angl120_elvl5.020E+06_prodB11_Vitor_2023_o2566.002
+#
+# theta,lab (deg) :  120.0000000
+# Elvl (eV)       :   5.0200E+06
+#
+# npts            : 5           
+# xmin            :   1.4620E+06
+# xmax            :   2.4810E+06
+# ymin            :   1.2300E-04
+# ymax            :   4.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.4810E+06  8.0000E+03  4.1000E-04  6.1000E-05
+  2.2020E+06  7.0000E+03  2.5500E-04  4.1000E-05
+  1.9520E+06  6.0000E+03  1.7400E-04  4.2000E-05
+  1.7220E+06  5.0000E+03  1.9900E-04  3.9000E-05
+  1.4620E+06  4.0000E+03  1.2300E-04  2.3000E-05
+#---------------------------------------------------

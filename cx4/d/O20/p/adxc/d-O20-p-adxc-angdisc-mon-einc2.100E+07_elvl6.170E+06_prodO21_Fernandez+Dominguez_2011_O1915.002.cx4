@@ -1,0 +1,29 @@
+# EXFOR #         : O1915.002  
+# EXFOR Ver.      : 20110928
+# TRANS #         : O046
+# Author          : B.Fernandez-Dominguez et al.
+# Reference       : Phys.Rev.C 84 (2011) 011301
+# DOI             : 10.1103/PhysRevC.84.011301
+# Quantity        : 20O(d,p)21O partial angular differential cross section
+# REACTION        : 8-O-20(D,P)8-O-21,PAR,DA
+# File ID         : d-O20-p-adxc-angdisc-mon-einc2.100E+07_elvl6.170E+06_prodO21_Fernandez+Dominguez_2011_o1915.002
+#
+# Einc (eV)       :   2.1000E+07
+# dEinc (eV)      :   4.0000E+05
+# Elvl (eV)       :   6.1700E+06
+#
+# npts            : 4           
+# xmin            :    9.3949200
+# xmax            :   21.8587000
+# ymin            :   6.8187E-03
+# ymax            :   2.8754E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  21.8587000   2.9600000  6.8187E-03  9.6629E-04
+  16.6728000   2.2700000  1.4156E-02  2.0385E-03
+  12.6401000   1.8000000  1.4820E-02  2.6869E-03
+   9.3949200   1.4800000  2.8754E-02  4.7804E-03
+#---------------------------------------------------

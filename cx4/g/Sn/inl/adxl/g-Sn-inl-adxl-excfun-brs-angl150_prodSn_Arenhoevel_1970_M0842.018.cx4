@@ -1,0 +1,27 @@
+# EXFOR #         : M0842.018  
+# EXFOR Ver.      : 20120130
+# TRANS #         : M062
+# Author          : H.Arenhoevel et al.
+# Reference       : Nucl.Phys.A 147 (1970) 305
+# DOI             : 10.1016/0375-9474(70)90270-8
+# Quantity        : natSn(g,inl)natSn angular differential cross section
+# REACTION        : 50-SN-0(G,INL)50-SN-0,,DA,,BRS
+# File ID         : g-Sn-inl-adxl-excfun-brs-angl150_prodSn_Arenhoevel_1970_m0842.018
+#
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 4           
+# xmin            :   1.5050E+07
+# xmax            :   2.2100E+07
+# ymin            :   8.2240E-06
+# ymax            :   3.8377E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.5050E+07  1.0500E+06  3.8377E-05  4.3860E-06
+  1.7050E+07  1.0500E+06  2.3026E-05  4.0540E-06
+  1.9100E+07  1.1000E+06  1.6447E-05  4.5000E-06
+  2.2100E+07  2.1000E+06  8.2240E-06  2.3000E-06
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : O1110.005  
+# EXFOR Ver.      : 20040401
+# TRANS #         : 0000
+# Author          : M.Siemaszko et al.
+# Reference       : J.Phys.G 20 (1994) 1789
+# DOI             : 10.1088/0954-3899/20/11/008
+# Quantity        : 30Si(a,inl)30Si partial angular differential cross section
+# REACTION        : 14-SI-30(A,INL)14-SI-30,PAR,DA
+# File ID         : a-Si30-inl-adxl-lvldis-mon-einc2.660E+07_angc129_prodSi30_Siemaszko_1994_o1110.005
+#
+# Einc (eV)       :   2.6600E+07
+# dEinc (eV)      :   2.0000E+04
+# theta,cm (deg)  :  128.8000000
+#
+# npts            : 1           
+# xmin            :   3.5100E+06
+# xmax            :   3.5100E+06
+# ymin            :   2.9000E-05
+# ymax            :   2.9000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.5100E+06  0.0000E+00  2.9000E-05  6.9600E-06
+#---------------------------------------------------

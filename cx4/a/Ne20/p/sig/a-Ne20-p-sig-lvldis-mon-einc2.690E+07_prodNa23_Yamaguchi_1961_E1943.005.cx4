@@ -1,0 +1,26 @@
+# EXFOR #         : E1943.005  
+# EXFOR Ver.      : 20060906
+# TRANS #         : E038
+# Author          : H.Yamaguchi
+# Reference       : J.Phys.Soc.Jpn. 16 No.4 (1961) 583
+# DOI             : 10.1143/JPSJ.16.583
+# Quantity        : 20Ne(a,p)23Na partial cross section
+# REACTION        : 10-NE-20(A,P)11-NA-23,PAR,SIG
+# File ID         : a-Ne20-p-sig-lvldis-mon-einc2.690E+07_prodNa23_Yamaguchi_1961_e1943.005
+#
+# Einc (eV)       :   2.6900E+07
+# dEinc (eV)      :   1.3450E+05
+#
+# npts            : 2           
+# xmin            :   2.1950E+05
+# xmax            :   2.5290E+06
+# ymin            :   1.3300E-03
+# ymax            :   2.6600E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1950E+05  2.1950E+05  1.3300E-03  0.0000E+00
+  2.5290E+06  4.5100E+05  2.6600E-03  0.0000E+00
+#---------------------------------------------------

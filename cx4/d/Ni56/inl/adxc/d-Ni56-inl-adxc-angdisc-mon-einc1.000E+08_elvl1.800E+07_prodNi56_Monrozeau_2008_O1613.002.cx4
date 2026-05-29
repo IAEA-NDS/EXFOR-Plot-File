@@ -1,0 +1,29 @@
+# EXFOR #         : O1613.002  
+# EXFOR Ver.      : 20080213
+# TRANS #         : O035
+# Author          : C.Monrozeau et al.
+# Reference       : Phys.Rev.Lett. 100 (2008) 042501
+# DOI             : 10.1103/PhysRevLett.100.042501
+# Quantity        : 56Ni(d,inl)56Ni partial angular differential cross section
+# REACTION        : 28-NI-56(D,INL)28-NI-56,PAR,DA
+# File ID         : d-Ni56-inl-adxc-angdisc-mon-einc1.000E+08_elvl1.800E+07_prodNi56_Monrozeau_2008_o1613.002
+#
+# Einc (eV)       :   1.0000E+08
+# Elvl (eV)       :   1.8000E+07
+# dElvl (eV)      :   1.0000E+06
+#
+# npts            : 4           
+# xmin            :    3.5000000
+# xmax            :    6.5100000
+# ymin            :   5.6000E-03
+# ymax            :   1.7000E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   3.5000000   0.0000000  1.7000E-02  6.8000E-03
+   4.5100000   0.0000000  8.0000E-03  4.0000E-03
+   5.5200000   0.0000000  1.0000E-02  3.0000E-03
+   6.5100000   0.0000000  5.6000E-03  2.2400E-03
+#---------------------------------------------------

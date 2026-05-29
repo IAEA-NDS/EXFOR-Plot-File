@@ -1,0 +1,24 @@
+# EXFOR #         : C3121.020  
+# EXFOR Ver.      : 20260318
+# TRANS #         : C257
+# Author          : H.L.O.Ekeberg et al.
+# Reference       : Appl.Radiat.Isot. 229 (2026) 112311
+# DOI             : 10.1016/j.apradiso.2025.112311
+# Quantity        : natFe(d,x)54Mn independent production cross section
+# REACTION        : 26-FE-0(D,X)25-MN-54,,SIG
+# File ID         : d-Fe-x-sig-excfun-mon-prodMn54_Ekeberg_2026_c3121.020
+#
+# npts            : 3           
+# xmin            :   2.4800E+07
+# xmax            :   2.9570E+07
+# ymin            :   2.3580E-02
+# ymax            :   2.6120E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9570E+07  0.0000E+00  2.3580E-02  7.0000E-04
+  2.7250E+07  0.0000E+00  2.4180E-02  7.2000E-04
+  2.4800E+07  0.0000E+00  2.6120E-02  7.9000E-04
+#---------------------------------------------------

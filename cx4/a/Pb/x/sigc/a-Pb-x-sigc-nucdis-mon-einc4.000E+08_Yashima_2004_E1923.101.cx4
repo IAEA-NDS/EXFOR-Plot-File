@@ -1,0 +1,29 @@
+# EXFOR #         : E1923.101  
+# EXFOR Ver.      : 20060411
+# TRANS #         : E036
+# Author          : H.Yashima et al.
+# Reference       : Nucl.Instrum.Meth.B 226 (2004) 243
+# DOI             : 10.1016/j.nimb.2004.06.025
+# Quantity        : natPb(a,x) cumulative production cross section
+# REACTION        : 82-PB-0(A,X)ELEM/MASS,CUM,SIG
+# File ID         : a-Pb-x-sigc-nucdis-mon-einc4.000E+08_Yashima_2004_e1923.101
+#
+# Einc (eV)       :   4.0000E+08
+#
+# npts            : 6           
+# xmin            : 12028.9     
+# xmax            : 83205.9     
+# ymin            :   7.3300E-04
+# ymax            :   8.9900E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     12028.9  1.4300E-03  1.1000E-04
+     26059.9  7.3300E-04  3.3000E-05
+     81202.9  1.7400E-02  7.0000E-04
+     82201.9  8.9900E-02  3.5000E-03
+     83204.9  2.8500E-02  1.3000E-03
+     83205.9  4.6200E-02  3.5000E-03
+#---------------------------------------------------

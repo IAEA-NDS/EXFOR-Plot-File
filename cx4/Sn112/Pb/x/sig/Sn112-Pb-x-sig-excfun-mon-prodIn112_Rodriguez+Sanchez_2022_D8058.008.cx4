@@ -1,0 +1,22 @@
+# EXFOR #         : D8058.008  
+# EXFOR Ver.      : 20230408
+# TRANS #         : D139
+# Author          : J.L.Rodriguez-Sanchez et al.
+# Reference       : Phys.Rev.C 106 (2022) 014618
+# DOI             : 10.1103/PhysRevC.106.014618
+# Quantity        : natPb(112Sn,x)112In independent production cross section
+# REACTION        : 82-PB-0(50-SN-112,X)49-IN-112,,SIG
+# File ID         : Sn112-Pb-x-sig-excfun-mon-prodIn112_Rodriguez+Sanchez_2022_d8058.008
+#
+# npts            : 1           
+# xmin            :   1.1200E+11
+# xmax            :   1.1200E+11
+# ymin            :   1.0000E-03
+# ymax            :   1.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1200E+11  0.0000E+00  1.0000E-03  3.1000E-05
+#---------------------------------------------------

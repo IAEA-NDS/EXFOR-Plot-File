@@ -1,0 +1,29 @@
+# EXFOR #         : F1109.005  
+# EXFOR Ver.      : 20110128
+# TRANS #         : F041
+# Author          : W.J.Naude et al.
+# Reference       : Nucl.Phys.A 114 (1968) 551
+# DOI             : 10.1016/0375-9474(68)90284-4
+# Quantity        : 39K(d,a)37Ar partial angular differential cross section
+# REACTION        : 19-K-39(D,A)18-AR-37,PAR,DA,,AV
+# File ID         : d-K39-a-adxc-angdisc-mon-einc4.935E+06_elvl2.220E+06_prodAr37_Naude_1968_f1109.005
+#
+# Einc (eV)       :   4.9350E+06
+# dEinc (eV)      :   3.8500E+05
+# Elvl (eV)       :   2.2200E+06
+#
+# npts            : 4           
+# xmin            :   63.2370000
+# xmax            :  156.9400000
+# ymin            :   1.4411E-04
+# ymax            :   1.9087E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  63.2370000   0.0000000  1.6468E-04  1.6020E-05
+  92.9170000   0.0000000  1.4411E-04  1.3240E-05
+ 123.2200000   0.0000000  1.9087E-04  1.2130E-05
+ 156.9400000   0.0000000  1.6698E-04  1.3250E-05
+#---------------------------------------------------

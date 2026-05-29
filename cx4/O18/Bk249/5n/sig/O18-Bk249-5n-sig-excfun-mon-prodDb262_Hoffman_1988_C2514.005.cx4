@@ -1,0 +1,22 @@
+# EXFOR #         : C2514.005  
+# EXFOR Ver.      : 20200327
+# TRANS #         : C194
+# Author          : D.C.Hoffman et al.
+# Reference       : J.Rad.Nucl.Chem. 124 (1988) 135
+# DOI             : 10.1007/BF02035512
+# Quantity        : 249Bk(18O,5n)262Db cross section
+# REACTION        : 97-BK-249(8-O-18,5N)105-DB-262,,SIG
+# File ID         : O18-Bk249-5n-sig-excfun-mon-prodDb262_Hoffman_1988_c2514.005
+#
+# npts            : 1           
+# xmin            :   1.0000E+08
+# xmax            :   1.0000E+08
+# ymin            :   5.0000E-09
+# ymax            :   5.0000E-09
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  5.0000E-09  0.0000E+00
+#---------------------------------------------------

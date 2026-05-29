@@ -1,0 +1,28 @@
+# EXFOR #         : O2615.002  
+# EXFOR Ver.      : 20240624
+# TRANS #         : O100
+# Author          : F.Hammache et al.
+# Reference       : Phys.Rev.Lett. 132 (2024) 182701
+# DOI             : 10.1103/PhysRevLett.132.182701
+# Quantity        : 17O(7Li,t)21Ne partial angular differential cross section
+# REACTION        : 8-O-17(3-LI-7,T)10-NE-21,PAR,DA
+# File ID         : Li7-O17-t-adxc-angdisc-mon-einc2.800E+07_elvl7.820E+06_prodNe21_Hammache_2024_o2615.002
+#
+# Einc (eV)       :   2.8000E+07
+# Elvl (eV)       :   7.8200E+06
+#
+# npts            : 4           
+# xmin            :   16.4000000
+# xmax            :   44.9200000
+# ymin            :   2.7320E-05
+# ymax            :   1.3368E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.4000000   0.0000000  1.3368E-04  2.3760E-05
+  35.1100000   0.0000000  4.7280E-05  4.4400E-06
+  40.0300000   0.0000000  3.8390E-05  3.3500E-06
+  44.9200000   0.0000000  2.7320E-05  0.0000E+00
+#---------------------------------------------------

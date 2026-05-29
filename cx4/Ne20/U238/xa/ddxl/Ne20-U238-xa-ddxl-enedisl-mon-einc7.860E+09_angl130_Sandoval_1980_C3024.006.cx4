@@ -1,0 +1,29 @@
+# EXFOR #         : C3024.006  
+# EXFOR Ver.      : 20250207
+# TRANS #         : C248
+# Author          : A.Sandoval
+# Reference       : Phys.Rev.C 21 (1980) 1321
+# DOI             : 10.1103/PhysRevC.21.1321
+# Quantity        : 238U(20Ne,a+x) double differential cross section
+# REACTION        : 92-U-238(10-NE-20,X)2-HE-4,,DA/DE
+# File ID         : Ne20-U238-xa-ddxl-enedisl-mon-einc7.860E+09_angl130_Sandoval_1980_c3024.006
+#
+# Einc (eV)       :   7.8600E+09
+# theta,lab (deg) :  130.0000000
+#
+# npts            : 5           
+# xmin            :   3.0000E+08
+# xmax            :   7.8000E+08
+# ymin            :   7.6600E-12
+# ymax            :   3.1500E-10
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  3.0000E+08  0.0000E+00  3.1500E-10  1.3800E-10
+  4.2000E+08  0.0000E+00  1.3200E-10  5.8000E-11
+  5.4000E+08  0.0000E+00  5.7300E-11  1.8900E-11
+  6.6000E+08  0.0000E+00  2.3300E-11  3.0000E-12
+  7.8000E+08  0.0000E+00  7.6600E-12  1.7100E-12
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : O1392.012  
+# EXFOR Ver.      : 20060529
+# TRANS #         : O026
+# Author          : A.Chakrabarti et al.
+# Reference       : Z.Phys.A 345 (1993) 401
+# DOI             : 10.1007/BF01282901
+# Quantity        : 232Th(a,f)118Ag cumulative production cross section
+# REACTION        : 90-TH-232(A,F)47-AG-118,CUM,SIG
+# File ID         : a-Th232-x-sigc-excfun-mon-prodAg118_Chakrabarti_1993_o1392.012
+#
+# npts            : 4           
+# xmin            :   2.8500E+07
+# xmax            :   7.1400E+07
+# ymin            :   3.6000E-03
+# ymax            :   1.0400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8500E+07  0.0000E+00  3.6000E-03  0.0000E+00
+  3.9700E+07  0.0000E+00  5.4000E-03  0.0000E+00
+  5.0800E+07  0.0000E+00  1.0000E-02  0.0000E+00
+  7.1400E+07  0.0000E+00  1.0400E-02  0.0000E+00
+#---------------------------------------------------

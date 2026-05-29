@@ -1,0 +1,26 @@
+# EXFOR #         : E2781.003  
+# EXFOR Ver.      : 20240622
+# TRANS #         : E145
+# Author          : M.Aikawa et al.
+# Reference       : Nucl.Instrum.Meth.B 550 (2024) 165315
+# DOI             : 10.1016/j.nimb.2024.165315
+# Quantity        : 45Sc(a,x)45Ti cumulative production cross section
+# REACTION        : 21-SC-45(A,X)22-TI-45,CUM,SIG
+# File ID         : a-Sc45-x-sigc-excfun-mon-prodTi45_Aikawa_2024_e2781.003
+#
+# npts            : 5           
+# xmin            :   3.8300E+07
+# xmax            :   5.0700E+07
+# ymin            :   8.8000E-03
+# ymax            :   7.6900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0700E+07  2.0000E+05  7.6900E-02  6.3000E-03
+  4.7800E+07  2.0000E+05  5.4200E-02  4.6000E-03
+  4.4800E+07  2.0000E+05  3.8100E-02  3.7000E-03
+  4.1700E+07  3.0000E+05  1.5700E-02  2.2000E-03
+  3.8300E+07  3.0000E+05  8.8000E-03  1.7000E-03
+#---------------------------------------------------

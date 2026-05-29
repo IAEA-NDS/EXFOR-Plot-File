@@ -1,0 +1,26 @@
+# EXFOR #         : A0538.002  
+# EXFOR Ver.      : 20250629
+# TRANS #         : A121
+# Author          : O.N.Vysotskiy et al.
+# Reference       : Proceedings of 43.Int.Conf.Nucl.Spectrosc.Nucl.Struct.,Dubna 1993 page 257
+# DOI             : N/A
+# Quantity        : natSn(he3,x)119Te independent production cross section
+# REACTION        : 50-SN-0(HE3,X)52-TE-119,,SIG
+# File ID         : h-Sn-x-sig-excfun-mon-prodTe119_Vysotskiy_1993_a0538.002
+#
+# npts            : 5           
+# xmin            :   4.2000E+07
+# xmax            :   9.4000E+07
+# ymin            :   3.7000E-02
+# ymax            :   2.6000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.4000E+07  0.0000E+00  3.7000E-02  6.0000E-03
+  7.9000E+07  0.0000E+00  4.8000E-02  7.0000E-03
+  6.0000E+07  0.0000E+00  7.3000E-02  1.1000E-02
+  5.1000E+07  0.0000E+00  1.0400E-01  1.5000E-02
+  4.2000E+07  0.0000E+00  2.6000E-01  4.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : B0101.007  
+# EXFOR Ver.      : 20220622
+# TRANS #         : B034
+# Author          : W.E.Crandall et al.
+# Reference       : Phys.Rev. 101 (1956) 329
+# DOI             : 10.1103/PhysRev.101.329
+# Quantity        : 27Al(a,x)24Na cumulative production cross section
+# REACTION        : 13-AL-27(A,X)11-NA-24,CUM,SIG
+# File ID         : a-Al27-x-sigc-excfun-mon-prodNa24_Crandall_1956_b0101.007
+#
+# npts            : 1           
+# xmin            :   3.8000E+08
+# xmax            :   3.8000E+08
+# ymin            :   2.4200E-02
+# ymax            :   2.4200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8000E+08  0.0000E+00  2.4200E-02  3.0000E-04
+#---------------------------------------------------

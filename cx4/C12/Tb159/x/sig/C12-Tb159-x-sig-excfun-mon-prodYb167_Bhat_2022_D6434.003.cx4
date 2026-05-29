@@ -1,0 +1,23 @@
+# EXFOR #         : D6434.003  
+# EXFOR Ver.      : 20220801
+# TRANS #         : D137
+# Author          : I.M.Bhat et al.
+# Reference       : Phys.Rev.C 105 (2022) 054607
+# DOI             : 10.1103/PhysRevC.105.054607
+# Quantity        : 159Tb(12C,x)167Yb independent production cross section
+# REACTION        : 65-TB-159(6-C-12,X)70-YB-167,,SIG
+# File ID         : C12-Tb159-x-sig-excfun-mon-prodYb167_Bhat_2022_d6434.003
+#
+# npts            : 2           
+# xmin            :   6.9150E+07
+# xmax            :   7.7770E+07
+# ymin            :   2.9010E-02
+# ymax            :   5.5340E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.7770E+07  6.2000E+05  2.9010E-02  4.7100E-03
+  6.9150E+07  8.5000E+05  5.5340E-02  8.3800E-03
+#---------------------------------------------------

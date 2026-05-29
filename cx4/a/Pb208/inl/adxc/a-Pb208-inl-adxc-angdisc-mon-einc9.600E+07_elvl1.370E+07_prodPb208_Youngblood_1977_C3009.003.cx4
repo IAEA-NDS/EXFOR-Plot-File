@@ -1,0 +1,32 @@
+# EXFOR #         : C3009.003  
+# EXFOR Ver.      : 20241220
+# TRANS #         : C246
+# Author          : D.H.Youngblood et al.
+# Reference       : Phys.Rev.Lett. 39 (1977) 1188
+# DOI             : 10.1103/PhysRevLett.39.1188
+# Quantity        : 208Pb(a,inl)208Pb partial angular differential cross section
+# REACTION        : 82-PB-208(A,INL)82-PB-208,PAR,DA
+# File ID         : a-Pb208-inl-adxc-angdisc-mon-einc9.600E+07_elvl1.370E+07_prodPb208_Youngblood_1977_c3009.003
+#
+# Einc (eV)       :   9.6000E+07
+# Elvl (eV)       :   1.3700E+07
+# dElvl (eV)      :   4.0000E+05
+#
+# npts            : 7           
+# xmin            :    3.0550000
+# xmax            :    7.0870000
+# ymin            :   5.1840E-03
+# ymax            :   1.1660E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   3.0550000   0.0000000  1.1660E-02  2.3210E-03
+   3.4940000   0.0000000  8.1950E-03  1.3260E-03
+   4.1430000   0.0000000  5.6320E-03  8.2980E-04
+   4.5290000   0.0000000  7.7930E-03  9.5610E-04
+   5.0760000   0.0000000  1.1030E-02  1.6790E-03
+   6.1110000   0.0000000  1.1430E-02  1.3450E-03
+   7.0870000   0.0000000  5.1840E-03  7.1330E-04
+#---------------------------------------------------

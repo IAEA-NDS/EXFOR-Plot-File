@@ -1,0 +1,24 @@
+# EXFOR #         : D1050.002  
+# EXFOR Ver.      : 20231030
+# TRANS #         : D139
+# Author          : E.Simeckova et al.
+# Reference       : EPJ Web Conf. 146 (2017) 11049
+# DOI             : 10.1051/epjconf/201714611049
+# Quantity        : natW(d,x)179Re independent production cross section
+# REACTION        : 74-W-0(D,X)75-RE-179,,SIG
+# File ID         : d-W-x-sig-excfun-mon-prodRe179_Simeckova_2017_d1050.002
+#
+# npts            : 3           
+# xmin            :   1.6700E+07
+# xmax            :   1.9600E+07
+# ymin            :   1.2230E-04
+# ymax            :   6.3080E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6700E+07  5.0000E+05  1.2230E-04  3.1610E-05
+  1.8200E+07  5.0000E+05  3.3300E-04  3.1890E-05
+  1.9600E+07  5.0000E+05  6.3080E-04  0.0000E+00
+#---------------------------------------------------

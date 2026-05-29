@@ -1,0 +1,29 @@
+# EXFOR #         : E2248.012  
+# EXFOR Ver.      : 20151115
+# TRANS #         : E100
+# Author          : S.Kakigi
+# Reference       : J.Phys.Soc.Jpn. 20 (1965) 1967
+# DOI             : 10.1143/JPSJ.20.1967
+# Quantity        : 27Al(a,d)29Si partial angular differential cross section
+# REACTION        : 13-AL-27(A,D)14-SI-29,PAR,DA
+# File ID         : a-Al27-d-adxc-angdisc-mon-einc2.840E+07_elvl0.000E+00_prodSi29_Kakigi_1965_e2248.012
+#
+# Einc (eV)       :   2.8400E+07
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :   22.3000000
+# xmax            :   54.9000000
+# ymin            :   3.7800E-05
+# ymax            :   1.5490E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  22.3000000   0.0000000  1.4580E-04  0.0000E+00
+  33.2000000   0.0000000  1.5490E-04  0.0000E+00
+  43.9000000   0.0000000  6.7200E-05  0.0000E+00
+  54.9000000   0.0000000  3.7800E-05  0.0000E+00
+#---------------------------------------------------

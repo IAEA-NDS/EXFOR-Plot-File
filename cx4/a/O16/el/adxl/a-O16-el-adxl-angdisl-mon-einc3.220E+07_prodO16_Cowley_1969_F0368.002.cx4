@@ -1,0 +1,24 @@
+# EXFOR #         : F0368.002  
+# EXFOR Ver.      : 20120201
+# TRANS #         : F045
+# Author          : A.A.Cowley et al.
+# Reference       : Phys.Lett.B 30 (1969) 618
+# DOI             : 10.1016/0370-2693(69)90074-4
+# Quantity        : 16O(a,el)16O angular differential cross section
+# REACTION        : 8-O-16(A,EL)8-O-16,,DA
+# File ID         : a-O16-el-adxl-angdisl-mon-einc3.220E+07_prodO16_Cowley_1969_f0368.002
+#
+# Einc (eV)       :   3.2200E+07
+#
+# npts            : 1           
+# xmin            :  150.0000000
+# xmax            :  150.0000000
+# ymin            :   7.4770E-03
+# ymax            :   7.4770E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 150.0000000   0.0000000  7.4770E-03  5.3800E-04
+#---------------------------------------------------

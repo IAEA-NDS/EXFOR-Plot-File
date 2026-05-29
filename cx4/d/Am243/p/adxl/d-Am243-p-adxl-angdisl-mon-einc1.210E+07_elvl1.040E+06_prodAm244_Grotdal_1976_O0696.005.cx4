@@ -1,0 +1,25 @@
+# EXFOR #         : O0696.005  
+# EXFOR Ver.      : 20040214
+# TRANS #         : 0000
+# Author          : T.Grotdal et al.
+# Reference       : Phys.Scr. 14 (1976) 263
+# DOI             : 10.1088/0031-8949/14/6/003
+# Quantity        : 243Am(d,p)244Am partial angular differential cross section
+# REACTION        : 95-AM-243(D,P)95-AM-244,PAR,DA
+# File ID         : d-Am243-p-adxl-angdisl-mon-einc1.210E+07_elvl1.040E+06_prodAm244_Grotdal_1976_o0696.005
+#
+# Einc (eV)       :   1.2100E+07
+# Elvl (eV)       :   1.0400E+06
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   6.4000E-05
+# ymax            :   6.4000E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  6.4000E-05  0.0000E+00
+#---------------------------------------------------

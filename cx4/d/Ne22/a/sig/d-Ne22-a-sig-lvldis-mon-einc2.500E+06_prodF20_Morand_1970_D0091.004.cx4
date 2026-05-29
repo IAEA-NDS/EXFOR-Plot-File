@@ -1,0 +1,27 @@
+# EXFOR #         : D0091.004  
+# EXFOR Ver.      : 20040220
+# TRANS #         : 0000
+# Author          : C.Morand et al.
+# Reference       : J.Phys.Colloq. 31 (1970) C2-205
+# DOI             : N/A
+# Quantity        : 22Ne(d,a)20F partial cross section
+# REACTION        : 10-NE-22(D,A)9-F-20,PAR,SIG,,AV
+# File ID         : d-Ne22-a-sig-lvldis-mon-einc2.500E+06_prodF20_Morand_1970_d0091.004
+#
+# Einc (eV)       :   2.5000E+06
+# dEinc (eV)      :   5.0000E+05
+#
+# npts            : 3           
+# xmin            :   0.0000E+00
+# xmax            :   1.3100E+06
+# ymin            :   4.4190E-03
+# ymax            :   1.0130E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.0130E-02  3.6764E-04
+  1.0600E+06  0.0000E+00  6.5329E-03  8.3328E-04
+  1.3100E+06  0.0000E+00  4.4190E-03  3.6761E-04
+#---------------------------------------------------

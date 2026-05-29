@@ -1,0 +1,25 @@
+# EXFOR #         : A0565.011  
+# EXFOR Ver.      : 20250705
+# TRANS #         : A121
+# Author          : A.V.Gonchar et al.
+# Reference       : At.Energy 75 (1993) 711
+# DOI             : 10.1007/BF00750080
+# Quantity        : natZr(d,x)89mNb independent production cross section
+# REACTION        : 40-ZR-0(D,X)41-NB-89-M,,SIG
+# File ID         : d-Zr-x-sig-excfun-mon-prodNb89m_Gonchar_1993_a0565.011
+#
+# npts            : 4           
+# xmin            :   3.2400E+07
+# xmax            :   4.5900E+07
+# ymin            :   8.0000E-03
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2400E+07  5.0000E+05  2.0000E-02  7.0000E-03
+  3.7300E+07  5.0000E+05  1.4000E-02  5.0000E-03
+  4.1800E+07  5.0000E+05  1.1000E-02  5.0000E-03
+  4.5900E+07  5.0000E+05  8.0000E-03  4.0000E-03
+#---------------------------------------------------

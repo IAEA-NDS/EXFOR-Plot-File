@@ -1,0 +1,22 @@
+# EXFOR #         : E1887.002  
+# EXFOR Ver.      : 20050914
+# TRANS #         : E032
+# Author          : K.Tsukada et al.
+# Reference       : Phys.Rev.C 57 No.4 (1998) 2057
+# DOI             : 10.1103/PhysRevC.57.2057
+# Quantity        : 235U(6Li,5n)236Am cross section
+# REACTION        : 92-U-235(3-LI-6,5N)95-AM-236,,SIG,,AV
+# File ID         : Li6-U235-5n-sig-excfun-mon-prodAm236_Tsukada_1998_e1887.002
+#
+# npts            : 1           
+# xmin            :   4.8000E+07
+# xmax            :   4.8000E+07
+# ymin            :   7.0000E-05
+# ymax            :   7.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.8000E+07  2.0000E+06  7.0000E-05  0.0000E+00
+#---------------------------------------------------

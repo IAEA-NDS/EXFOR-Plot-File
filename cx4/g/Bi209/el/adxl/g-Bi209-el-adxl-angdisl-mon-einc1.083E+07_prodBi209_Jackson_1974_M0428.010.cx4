@@ -1,0 +1,24 @@
+# EXFOR #         : M0428.010  
+# EXFOR Ver.      : 20220228
+# TRANS #         : M118
+# Author          : H.E.Jackson et al.
+# Reference       : Phys.Rev.C 9 (1974) 1153
+# DOI             : 10.1103/PhysRevC.9.1153
+# Quantity        : 209Bi(g,el)209Bi angular differential cross section
+# REACTION        : 83-BI-209(G,EL)83-BI-209,,DA
+# File ID         : g-Bi209-el-adxl-angdisl-mon-einc1.083E+07_prodBi209_Jackson_1974_m0428.010
+#
+# Einc (eV)       :   1.0830E+07
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   1.0100E-04
+# ymax            :   1.0100E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  1.0100E-04  6.2000E-06
+#---------------------------------------------------

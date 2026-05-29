@@ -1,0 +1,24 @@
+# EXFOR #         : A0231.015  
+# EXFOR Ver.      : 20220401
+# TRANS #         : A100
+# Author          : D.D.Bogdanov et al.
+# Reference       : Yad.Fiz. 62 (1999) 1931
+# DOI             : N/A
+# Quantity        : 197Au(26Mg,x)216Th independent production cross section
+# REACTION        : 79-AU-197(12-MG-26,X)90-TH-216,,SIG
+# File ID         : Mg26-Au197-x-sig-excfun-mon-prodTh216_Bogdanov_1999_a0231.015
+#
+# npts            : 3           
+# xmin            :   5.7000E+07
+# xmax            :   6.8500E+07
+# ymin            :   3.0000E-07
+# ymax            :   6.4000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.7000E+07  8.5500E+05  3.0000E-07  1.2000E-07
+  6.4000E+07  9.6000E+05  2.2000E-06  8.8000E-07
+  6.8500E+07  1.0275E+06  6.4000E-06  2.5600E-06
+#---------------------------------------------------

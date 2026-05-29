@@ -1,0 +1,22 @@
+# EXFOR #         : D8037.003  
+# EXFOR Ver.      : 20210810
+# TRANS #         : D131
+# Author          : J.Khuyagbaatar et al.
+# Reference       : Phys.Rev.C 103 (2021) 064303
+# DOI             : 10.1103/PhysRevC.103.064303
+# Quantity        : 207Pb(50Ti,n)256Rf cross section
+# REACTION        : 82-PB-207(22-TI-50,N)104-RF-256,,SIG
+# File ID         : Ti50-Pb207-n-sig-excfun-mon-prodRf256_Khuyagbaatar_2021_d8037.003
+#
+# npts            : 1           
+# xmin            :   2.3750E+05
+# xmax            :   2.3750E+05
+# ymin            :   3.0000E-09
+# ymax            :   3.0000E-09
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3750E+05  0.0000E+00  3.0000E-09  1.0000E-09
+#---------------------------------------------------

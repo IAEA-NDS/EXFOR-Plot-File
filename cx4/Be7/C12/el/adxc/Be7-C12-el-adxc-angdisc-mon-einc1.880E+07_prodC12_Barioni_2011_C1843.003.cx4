@@ -1,0 +1,27 @@
+# EXFOR #         : C1843.003  
+# EXFOR Ver.      : 20110719
+# TRANS #         : C109
+# Author          : A.Barioni et al.
+# Reference       : Phys.Rev.C 84 (2011) 014603
+# DOI             : 10.1103/PhysRevC.84.014603
+# Quantity        : 12C(7Be,el)12C angular differential cross section
+# REACTION        : 6-C-12(4-BE-7,EL)6-C-12,,DA,,RTH
+# File ID         : Be7-C12-el-adxc-angdisc-mon-einc1.880E+07_prodC12_Barioni_2011_c1843.003
+#
+# Einc (eV)       :   1.8800E+07
+#
+# npts            : 4           
+# xmin            :   20.5900000
+# xmax            :   45.0900000
+# ymin            :   3.4608E-02
+# ymax            :   3.2028E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.5900000   0.0000000  3.2028E+00  4.2635E-01
+  29.4900000   0.0000000  5.1949E-01  4.9295E-02
+  36.6100000   0.0000000  1.2537E-01  1.2537E-02
+  45.0900000   0.0000000  3.4608E-02  5.3999E-03
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : F1329.002  
+# EXFOR Ver.      : 20171113
+# TRANS #         : F066
+# Author          : A.I.Svirikhin et al.
+# Reference       : Fiz.El.Ch.At.Yad.Lt. 14 (2017) 382
+# DOI             : N/A
+# Quantity        : 204Pb(48Ca,2n)250gNo cross section
+# REACTION        : 82-PB-204(20-CA-48,2N)102-NO-250-G,,SIG
+# File ID         : Ca48-Pb204-2n-sig-excfun-mon-prodNo250g_Svirikhin_2017_f1329.002
+#
+# npts            : 3           
+# xmin            :   2.1500E+08
+# xmax            :   2.2911E+08
+# ymin            :   1.2070E-10
+# ymax            :   7.1553E-09
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1500E+08  0.0000E+00  7.1553E-09  0.0000E+00
+  2.2213E+08  0.0000E+00  1.5895E-09  1.9770E-10
+  2.2911E+08  0.0000E+00  1.2070E-10  9.1080E-11
+#---------------------------------------------------

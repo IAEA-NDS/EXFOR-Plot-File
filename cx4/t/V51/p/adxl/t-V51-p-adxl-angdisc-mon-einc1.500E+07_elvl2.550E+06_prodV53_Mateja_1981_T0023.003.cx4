@@ -1,0 +1,29 @@
+# EXFOR #         : T0023.003  
+# EXFOR Ver.      : 19990930
+# TRANS #         : 0000
+# Author          : J.F.Mateja et al.
+# Reference       : Phys.Rev.C 23 (1981) 2435
+# DOI             : 10.1103/PhysRevC.23.2435
+# Quantity        : 51V(t,p)53V partial angular differential cross section
+# REACTION        : 23-V-51(T,P)23-V-53,PAR,DA
+# File ID         : t-V51-p-adxl-angdisc-mon-einc1.500E+07_elvl2.550E+06_prodV53_Mateja_1981_t0023.003
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   2.5500E+06
+#
+# npts            : 5           
+# xmin            :   12.1100000
+# xmax            :   50.4700000
+# ymin            :   3.5800E-03
+# ymax            :   8.2700E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.1100000   0.4670000  8.2700E-03  0.0000E+00
+  27.7700000   0.4670000  7.1200E-03  0.0000E+00
+  35.1400000   0.4670000  7.9800E-03  0.0000E+00
+  42.6000000   0.4670000  5.1400E-03  0.0000E+00
+  50.4700000   0.4670000  3.5800E-03  0.0000E+00
+#---------------------------------------------------

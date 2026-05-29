@@ -1,0 +1,23 @@
+# EXFOR #         : M0402.004  
+# EXFOR Ver.      : 20161222
+# TRANS #         : M086
+# Author          : J.B.Martins et al.
+# Reference       : Nuovo Cim.A 101 (1989) 789
+# DOI             : 10.1007/BF02844870
+# Quantity        : 197Au(g,f) cross section
+# REACTION        : 79-AU-197(G,F),,SIG
+# File ID         : g-Au197-f-sig-excfun-mon-Martins_1989_m0402.004
+#
+# npts            : 2           
+# xmin            :   6.0000E+07
+# xmax            :   6.4000E+07
+# ymin            :   7.0000E-05
+# ymax            :   1.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+07  0.0000E+00  1.6000E-04  3.0000E-05
+  6.4000E+07  3.2000E+06  7.0000E-05  2.0000E-05
+#---------------------------------------------------

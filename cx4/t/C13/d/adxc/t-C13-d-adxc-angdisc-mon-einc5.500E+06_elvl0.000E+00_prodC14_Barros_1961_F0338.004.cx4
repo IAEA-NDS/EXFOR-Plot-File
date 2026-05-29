@@ -1,0 +1,25 @@
+# EXFOR #         : F0338.004  
+# EXFOR Ver.      : 20210626
+# TRANS #         : F086
+# Author          : F.de S.Barros et al.
+# Reference       : Proc.Phys.Soc.(UK) 77 (1961) 853
+# DOI             : 10.1088/0370-1328/77/4/306
+# Quantity        : 13C(t,d)14C partial angular differential cross section
+# REACTION        : 6-C-13(T,D)6-C-14,PAR,DA
+# File ID         : t-C13-d-adxc-angdisc-mon-einc5.500E+06_elvl0.000E+00_prodC14_Barros_1961_f0338.004
+#
+# Einc (eV)       :   5.5000E+06
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   18.0000000
+# xmax            :   18.0000000
+# ymin            :   2.2300E-02
+# ymax            :   2.2300E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  18.0000000   0.0000000  2.2300E-02  3.3450E-03
+#---------------------------------------------------

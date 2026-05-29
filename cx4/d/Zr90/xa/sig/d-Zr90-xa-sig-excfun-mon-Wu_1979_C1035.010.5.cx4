@@ -1,0 +1,22 @@
+# EXFOR #         : C1035.010.5
+# EXFOR Ver.      : 20130117
+# TRANS #         : C129
+# Author          : J.R.Wu et al.
+# Reference       : Phys.Rev.C 19 (1979) 370
+# DOI             : 10.1103/PhysRevC.19.370
+# Quantity        : 90Zr(d,a+x) cross section
+# REACTION        : 40-ZR-90(D,X)2-HE-4,,SIG
+# File ID         : d-Zr90-xa-sig-excfun-mon-Wu_1979_c1035.010.5
+#
+# npts            : 1           
+# xmin            :   7.0000E+07
+# xmax            :   7.0000E+07
+# ymin            :   2.5100E-01
+# ymax            :   2.5100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0000E+07  0.0000E+00  2.5100E-01  2.5100E-02
+#---------------------------------------------------

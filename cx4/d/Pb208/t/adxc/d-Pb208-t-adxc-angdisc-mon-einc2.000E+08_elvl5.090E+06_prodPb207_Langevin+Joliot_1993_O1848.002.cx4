@@ -1,0 +1,31 @@
+# EXFOR #         : O1848.002  
+# EXFOR Ver.      : 20100307
+# TRANS #         : O041
+# Author          : H.Langevin-Joliot et al.
+# Reference       : Phys.Rev.C 47 (1993) 1571
+# DOI             : 10.1103/PhysRevC.47.1571
+# Quantity        : 208Pb(d,t)207Pb partial angular differential cross section
+# REACTION        : 82-PB-208(D,T)82-PB-207,PAR,DA
+# File ID         : d-Pb208-t-adxc-angdisc-mon-einc2.000E+08_elvl5.090E+06_prodPb207_Langevin+Joliot_1993_o1848.002
+#
+# Einc (eV)       :   2.0000E+08
+# dEinc (eV)      :   1.4000E+05
+# Elvl (eV)       :   5.0900E+06
+#
+# npts            : 6           
+# xmin            :    3.8000000
+# xmax            :   18.7600000
+# ymin            :   2.0500E-05
+# ymax            :   3.1900E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   3.8000000   0.0000000  3.1900E-04  3.1900E-05
+   6.7300000   0.0000000  2.0000E-04  2.0000E-05
+   9.6500000   0.0000000  1.0430E-04  1.0430E-05
+  12.6800000   0.0000000  5.6700E-05  5.6700E-06
+  15.6700000   0.0000000  3.9300E-05  3.9300E-06
+  18.7600000   0.0000000  2.0500E-05  2.0500E-06
+#---------------------------------------------------

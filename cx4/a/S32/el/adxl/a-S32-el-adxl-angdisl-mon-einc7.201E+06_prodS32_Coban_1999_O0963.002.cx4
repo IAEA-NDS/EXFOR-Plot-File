@@ -1,0 +1,24 @@
+# EXFOR #         : O0963.002  
+# EXFOR Ver.      : 20021127
+# TRANS #         : 0000
+# Author          : A.Coban et al.
+# Reference       : Nucl.Phys.A 645 (1999) 3
+# DOI             : 10.1016/S0375-9474(98)00573-9
+# Quantity        : 32S(a,el)32S angular differential cross section
+# REACTION        : 16-S-32(A,EL)16-S-32,,DA,,RTH
+# File ID         : a-S32-el-adxl-angdisl-mon-einc7.201E+06_prodS32_Coban_1999_o0963.002
+#
+# Einc (eV)       :   7.2010E+06
+#
+# npts            : 1           
+# xmin            :  175.0000000
+# xmax            :  175.0000000
+# ymin            :   1.7916E-01
+# ymax            :   1.7916E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 175.0000000   0.0000000  1.7916E-01  1.2442E-02
+#---------------------------------------------------

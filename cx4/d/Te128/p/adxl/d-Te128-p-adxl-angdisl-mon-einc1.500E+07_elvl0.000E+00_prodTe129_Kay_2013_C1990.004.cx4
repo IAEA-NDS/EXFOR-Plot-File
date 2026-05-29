@@ -1,0 +1,29 @@
+# EXFOR #         : C1990.004  
+# EXFOR Ver.      : 20130403
+# TRANS #         : C131
+# Author          : B.P.Kay et al.
+# Reference       : Phys.Rev.C 87 (2013) 011302
+# DOI             : 10.1103/PhysRevC.87.011302
+# Quantity        : 128Te(d,p)129Te partial angular differential cross section
+# REACTION        : 52-TE-128(D,P)52-TE-129,PAR,DA
+# File ID         : d-Te128-p-adxl-angdisl-mon-einc1.500E+07_elvl0.000E+00_prodTe129_Kay_2013_c1990.004
+#
+# Einc (eV)       :   1.5000E+07
+# dEinc (eV)      :   3.0000E+04
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :    7.0000000
+# xmax            :   42.0000000
+# ymin            :   4.4000E-04
+# ymax            :   1.3500E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.0000000   0.0000000  4.8000E-04  0.0000E+00
+  18.0000000   0.0000000  1.3500E-03  0.0000E+00
+  34.0000000   0.0000000  4.4000E-04  0.0000E+00
+  42.0000000   0.0000000  6.1000E-04  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : S0002.004  
+# EXFOR Ver.      : 20200409
+# TRANS #         : S028
+# Author          : Liang Qichang et al.
+# Reference       : At.En.Sci.Technol. 11 (1977) 10
+# DOI             : N/A
+# Quantity        : 16O(d,n+x) cross section
+# REACTION        : 8-O-16(D,X)0-NN-1,,SIG
+# File ID         : d-O16-xn-sig-excfun-mon-Liang%Qichang_1977_s0002.004
+#
+# npts            : 2           
+# xmin            :   3.7000E+06
+# xmax            :   5.0300E+06
+# ymin            :   3.1570E-01
+# ymax            :   4.3210E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+06  0.0000E+00  3.1570E-01  4.1000E-02
+  5.0300E+06  0.0000E+00  4.3210E-01  3.8900E-02
+#---------------------------------------------------

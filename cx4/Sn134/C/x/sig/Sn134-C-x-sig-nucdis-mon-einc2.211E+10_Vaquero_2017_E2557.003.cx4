@@ -1,0 +1,29 @@
+# EXFOR #         : E2557.003  
+# EXFOR Ver.      : 20200528
+# TRANS #         : E126
+# Author          : V.Vaquero et al.
+# Reference       : Phys.Rev.Lett. 118 (2017) 202502
+# DOI             : 10.1103/PhysRevLett.118.202502
+# Quantity        : natC(134Sn,x) independent production cross section
+# REACTION        : 6-C-0(50-SN-134,X)ELEM/MASS,,SIG
+# File ID         : Sn134-C-x-sig-nucdis-mon-einc2.211E+10_Vaquero_2017_e2557.003
+#
+# Einc (eV)       :   2.2110E+10
+#
+# npts            : 6           
+# xmin            : 50128.9     
+# xmax            : 50133.9     
+# ymin            :   3.9000E-02
+# ymax            :   1.8400E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     50133.9  6.9000E-02  1.0000E-02
+     50132.9  1.8400E-01  1.7000E-02
+     50131.9  7.9000E-02  8.0000E-03
+     50130.9  6.2000E-02  6.0000E-03
+     50129.9  4.9000E-02  7.0000E-03
+     50128.9  3.9000E-02  5.0000E-03
+#---------------------------------------------------

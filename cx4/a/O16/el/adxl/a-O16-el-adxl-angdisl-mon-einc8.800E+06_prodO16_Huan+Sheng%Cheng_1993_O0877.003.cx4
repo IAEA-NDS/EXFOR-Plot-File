@@ -1,0 +1,27 @@
+# EXFOR #         : O0877.003  
+# EXFOR Ver.      : 20090504
+# TRANS #         : O040
+# Author          : Huan-Sheng Cheng et al.
+# Reference       : Nucl.Instrum.Meth.B 83 (1993) 449
+# DOI             : 10.1016/0168-583X(93)95870-B
+# Quantity        : 16O(a,el)16O angular differential cross section
+# REACTION        : 8-O-16(A,EL)8-O-16,,DA,,RTH
+# File ID         : a-O16-el-adxl-angdisl-mon-einc8.800E+06_prodO16_Huan+Sheng%Cheng_1993_o0877.003
+#
+# Einc (eV)       :   8.8000E+06
+#
+# npts            : 4           
+# xmin            :  160.0000000
+# xmax            :  175.0000000
+# ymin            :   8.9041E-02
+# ymax            :   1.2768E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 160.0000000   0.0000000  8.9041E-02  2.8203E-03
+ 165.0000000   0.0000000  1.0751E-01  3.1276E-03
+ 170.0000000   0.0000000  1.1862E-01  3.4439E-03
+ 175.0000000   0.0000000  1.2768E-01  3.7776E-03
+#---------------------------------------------------

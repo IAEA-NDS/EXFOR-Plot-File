@@ -1,0 +1,29 @@
+# EXFOR #         : O2320.002  
+# EXFOR Ver.      : 20170131
+# TRANS #         : O060
+# Author          : S.Bagchi et al.
+# Reference       : Phys.Lett.B 751 (2015) 371
+# DOI             : 10.1016/j.physletb.2015.10.060
+# Quantity        : 56Ni(a,inl)56Ni partial angular differential cross section
+# REACTION        : 28-NI-56(A,INL)28-NI-56,PAR,DA
+# File ID         : a-Ni56-inl-adxc-angdisc-mon-einc2.000E+08_elvl1.100E+07_prodNi56_Bagchi_2015_o2320.002
+#
+# Einc (eV)       :   2.0000E+08
+# Elvl (eV)       :   1.1000E+07
+#
+# npts            : 5           
+# xmin            :    4.4900000
+# xmax            :    8.5000000
+# ymin            :   4.0480E-02
+# ymax            :   1.9880E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.4900000   0.4700000  1.9880E-01  1.8040E-01
+   5.5100000   0.4500000  1.9150E-01  9.9040E-02
+   6.5000000   0.5000000  1.6280E-01  7.1380E-02
+   7.4800000   0.4100000  4.0480E-02  5.9450E-02
+   8.5000000   0.4700000  6.2830E-02  5.1980E-02
+#---------------------------------------------------

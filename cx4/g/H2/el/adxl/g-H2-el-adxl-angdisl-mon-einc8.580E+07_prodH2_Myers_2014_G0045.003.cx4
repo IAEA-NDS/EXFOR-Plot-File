@@ -1,0 +1,26 @@
+# EXFOR #         : G0045.003  
+# EXFOR Ver.      : 20150105
+# TRANS #         : G032
+# Author          : L.S.Myers et al.
+# Reference       : Phys.Rev.Lett. 113 (2014) 262506
+# DOI             : 10.1103/PhysRevLett.113.262506
+# Quantity        : 2H(g,el)2H angular differential cross section
+# REACTION        : 1-H-2(G,EL)1-H-2,,DA
+# File ID         : g-H2-el-adxl-angdisl-mon-einc8.580E+07_prodH2_Myers_2014_g0045.003
+#
+# Einc (eV)       :   8.5800E+07
+#
+# npts            : 3           
+# xmin            :   60.0000000
+# xmax            :  150.0000000
+# ymin            :   1.3500E-08
+# ymax            :   1.6800E-08
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  60.0000000   0.0000000  1.3800E-08  1.7000E-09
+ 120.0000000   0.0000000  1.3500E-08  1.0000E-09
+ 150.0000000   0.0000000  1.6800E-08  2.1000E-09
+#---------------------------------------------------

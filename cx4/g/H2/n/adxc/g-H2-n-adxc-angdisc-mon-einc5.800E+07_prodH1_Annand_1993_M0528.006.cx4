@@ -1,0 +1,26 @@
+# EXFOR #         : M0528.006  
+# EXFOR Ver.      : 20160209
+# TRANS #         : M082
+# Author          : J.R.M.Annand et al.
+# Reference       : Phys.Rev.Lett. 71 (1993) 2703
+# DOI             : 10.1103/PhysRevLett.71.2703
+# Quantity        : 2H(g,n)1H angular differential cross section
+# REACTION        : 1-H-2(G,N)1-H-1,,DA
+# File ID         : g-H2-n-adxc-angdisc-mon-einc5.800E+07_prodH1_Annand_1993_m0528.006
+#
+# Einc (eV)       :   5.8000E+07
+# dEinc (eV)      :   3.0000E+05
+#
+# npts            : 2           
+# xmin            :   34.0000000
+# xmax            :   87.0000000
+# ymin            :   8.0000E-06
+# ymax            :   1.0400E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  34.0000000   0.0000000  8.0000E-06  1.5000E-06
+  87.0000000   0.0000000  1.0400E-05  2.3000E-06
+#---------------------------------------------------

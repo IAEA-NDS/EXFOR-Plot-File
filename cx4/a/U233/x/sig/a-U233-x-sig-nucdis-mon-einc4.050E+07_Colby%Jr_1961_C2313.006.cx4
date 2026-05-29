@@ -1,0 +1,26 @@
+# EXFOR #         : C2313.006  
+# EXFOR Ver.      : 20180611
+# TRANS #         : C176
+# Author          : L.J.Colby Jr et al.
+# Reference       : Phys.Rev. 121 (1961) 1410
+# DOI             : 10.1103/PhysRev.121.1410
+# Quantity        : 233U(a,f) independent production cross section
+# REACTION        : 92-U-233(A,F)ELEM/MASS,,SIG
+# File ID         : a-U233-x-sig-nucdis-mon-einc4.050E+07_Colby%Jr_1961_c2313.006
+#
+# Einc (eV)       :   4.0500E+07
+#
+# npts            : 3           
+# xmin            : 35082.9     
+# xmax            : 59142.9     
+# ymin            :   5.9000E-04
+# ymax            :   2.2100E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     35082.9  5.9000E-04  0.0000E+00
+     53130.9  2.2100E-02  0.0000E+00
+     59142.9  1.4100E-03  0.0000E+00
+#---------------------------------------------------

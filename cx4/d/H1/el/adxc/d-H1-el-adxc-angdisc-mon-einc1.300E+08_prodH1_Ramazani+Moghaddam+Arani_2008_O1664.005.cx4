@@ -1,0 +1,27 @@
+# EXFOR #         : O1664.005  
+# EXFOR Ver.      : 20081022
+# TRANS #         : O037
+# Author          : A.Ramazani-Moghaddam-Arani et al.
+# Reference       : Phys.Rev.C 78 (2008) 014006
+# DOI             : 10.1103/PhysRevC.78.014006
+# Quantity        : 1H(d,el)1H angular differential cross section
+# REACTION        : 1-H-1(D,EL)1-H-1,,DA
+# File ID         : d-H1-el-adxc-angdisc-mon-einc1.300E+08_prodH1_Ramazani+Moghaddam+Arani_2008_o1664.005
+#
+# Einc (eV)       :   1.3000E+08
+#
+# npts            : 4           
+# xmin            :   56.8706500
+# xmax            :   79.2451700
+# ymin            :   2.1465E-03
+# ymax            :   5.7522E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  56.8706500   0.0000000  5.7522E-03  1.3115E-04
+  63.9069900   0.0000000  3.9158E-03  1.0021E-04
+  71.3069600   0.0000000  2.9227E-03  8.1890E-05
+  79.2451700   0.0000000  2.1465E-03  6.6990E-05
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : E1722.002  
+# EXFOR Ver.      : 20050224
+# TRANS #         : 0000
+# Author          : M.Tanifuji et al.
+# Reference       : Phys.Rev.C 61 No.2 (2000) 024602
+# DOI             : N/A
+# Quantity        : 2H(he3,el)2H angular differential cross section
+# REACTION        : 1-H-2(HE3,EL)1-H-2,,DA
+# File ID         : h-H2-el-adxl-excfun-mon-angl1_prodH2_Tanifuji_2000_e1722.002
+#
+# theta,lab (deg) :    0.7000000
+# dtheta,lab (deg):    0.7000000
+#
+# npts            : 3           
+# xmin            :   1.4000E+08
+# xmax            :   2.7000E+08
+# ymin            :   9.7000E-04
+# ymax            :   1.6300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4000E+08  0.0000E+00  1.6300E-02  1.0000E-04
+  2.0000E+08  0.0000E+00  8.5600E-03  3.0000E-05
+  2.7000E+08  0.0000E+00  9.7000E-04  8.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : D6203.004  
+# EXFOR Ver.      : 20131124
+# TRANS #         : D091
+# Author          : Rohit Sandal et al.
+# Reference       : Phys.Rev.C 87 (2013) 014604
+# DOI             : 10.1103/PhysRevC.87.014604
+# Quantity        : 198Pt(16O,f) total fission neutron multiplicity
+# REACTION        : 78-PT-198(8-O-16,F),,NU
+# File ID         : O16-Pt198-f-nut-excfun-mon-Rohit%Sandal_2013_d6203.004
+#
+# npts            : 4           
+# xmin            :   8.6900E+07
+# xmax            :   1.1820E+08
+# ymin            :   3.4300E+00
+# ymax            :   5.2020E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-t        dnu-t       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  8.6900E+07  0.0000E+00  3.4300E+00  1.0000E-01
+  9.8750E+07  0.0000E+00  4.3200E+00  1.1000E-01
+  1.1025E+08  0.0000E+00  4.9100E+00  1.3000E-01
+  1.1820E+08  0.0000E+00  5.2020E+00  1.4000E-01
+#---------------------------------------------------

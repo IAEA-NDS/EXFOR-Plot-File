@@ -1,0 +1,24 @@
+# EXFOR #         : C0947.002  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : G.H.Bouchard Jr et al.
+# Reference       : Phys.Rev. 116 (1959) 160
+# DOI             : 10.1103/PhysRev.116.160
+# Quantity        : 16O(a,x)7Be independent production cross section
+# REACTION        : 8-O-16(A,X)4-BE-7,,SIG
+# File ID         : a-O16-x-sig-excfun-mon-prodBe7_Bouchard%Jr_1959_c0947.002
+#
+# npts            : 3           
+# xmin            :   3.3800E+07
+# xmax            :   3.9400E+07
+# ymin            :   1.2000E-04
+# ymax            :   2.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3800E+07  0.0000E+00  2.1000E-04  0.0000E+00
+  3.3800E+07  0.0000E+00  1.2000E-04  0.0000E+00
+  3.9400E+07  0.0000E+00  2.4000E-03  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : C3121.023  
+# EXFOR Ver.      : 20260318
+# TRANS #         : C257
+# Author          : H.L.O.Ekeberg et al.
+# Reference       : Appl.Radiat.Isot. 229 (2026) 112311
+# DOI             : 10.1016/j.apradiso.2025.112311
+# Quantity        : natFe(d,x)48V cumulative production cross section
+# REACTION        : 26-FE-0(D,X)23-V-48,CUM,SIG
+# File ID         : d-Fe-x-sigc-excfun-mon-prodV48_Ekeberg_2026_c3121.023
+#
+# npts            : 3           
+# xmin            :   2.4800E+07
+# xmax            :   2.9570E+07
+# ymin            :   7.0000E-05
+# ymax            :   1.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9570E+07  0.0000E+00  1.2000E-04  1.0000E-05
+  2.7250E+07  0.0000E+00  9.0000E-05  1.0000E-05
+  2.4800E+07  0.0000E+00  7.0000E-05  1.0000E-05
+#---------------------------------------------------

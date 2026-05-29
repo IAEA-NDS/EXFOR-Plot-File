@@ -1,0 +1,25 @@
+# EXFOR #         : O1181.005  
+# EXFOR Ver.      : 20190419
+# TRANS #         : O068
+# Author          : D.J.Shah et al.
+# Reference       : Pramana 44 (1995) 535
+# DOI             : 10.1007/BF02878864
+# Quantity        : 197Au(a,x)198gAu cumulative production cross section
+# REACTION        : 79-AU-197(A,X)79-AU-198-G,(M),SIG
+# File ID         : a-Au197-x-sigc-excfun-mon-prodAu198g_Shah_1995_o1181.005
+#
+# npts            : 4           
+# xmin            :   3.7800E+07
+# xmax            :   4.7200E+07
+# ymin            :   1.2500E-03
+# ymax            :   3.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7800E+07  0.0000E+00  1.2500E-03  1.5000E-04
+  3.8000E+07  0.0000E+00  1.3000E-03  1.5000E-04
+  4.2800E+07  0.0000E+00  2.1000E-03  2.5000E-04
+  4.7200E+07  0.0000E+00  3.4000E-03  4.0000E-04
+#---------------------------------------------------

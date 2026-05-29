@@ -1,0 +1,25 @@
+# EXFOR #         : M0329.019  
+# EXFOR Ver.      : 20130620
+# TRANS #         : M067
+# Author          : H.Goringer et al.
+# Reference       : Nucl.Phys.A 384 (1982) 414
+# DOI             : 10.1016/0375-9474(82)90344-X
+# Quantity        : 16O(g,n)15O partial angular differential cross section
+# REACTION        : 8-O-16(G,N)8-O-15,PAR,DA,,BRS
+# File ID         : g-O16-n-adxl-angdisl-brs-einc1.200E+08_elvl0.000E+00_prodO15_Goringer_1982_m0329.019
+#
+# Einc (eV)       :   1.2000E+08
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   4.9000E-08
+# ymax            :   4.9000E-08
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  4.9000E-08  5.8800E-09
+#---------------------------------------------------

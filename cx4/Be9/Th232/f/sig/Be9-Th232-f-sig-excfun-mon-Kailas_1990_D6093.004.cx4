@@ -1,0 +1,23 @@
+# EXFOR #         : D6093.004  
+# EXFOR Ver.      : 20091203
+# TRANS #         : D070
+# Author          : S.Kailas et al.
+# Reference       : Phys.Rev.C 42 No.5 (1990) 2239
+# DOI             : 10.1103/PhysRevC.42.2239
+# Quantity        : 232Th(9Be,f) cross section
+# REACTION        : 90-TH-232(4-BE-9,F),,SIG
+# File ID         : Be9-Th232-f-sig-excfun-mon-Kailas_1990_d6093.004
+#
+# npts            : 2           
+# xmin            :   5.0000E+07
+# xmax            :   5.3000E+07
+# ymin            :   5.9800E-01
+# ymax            :   7.8900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+07  0.0000E+00  5.9800E-01  0.0000E+00
+  5.3000E+07  0.0000E+00  7.8900E-01  0.0000E+00
+#---------------------------------------------------

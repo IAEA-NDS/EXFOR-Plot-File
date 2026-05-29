@@ -1,0 +1,22 @@
+# EXFOR #         : O1342.021  
+# EXFOR Ver.      : 20070516
+# TRANS #         : O028
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Int.Meet.on Nucl.Appl.of Accel.Tech., San Diego 2003 page 59
+# DOI             : N/A
+# Quantity        : natCu(12C,x)38Cl independent production cross section
+# REACTION        : 29-CU-0(6-C-12,X)17-CL-38,IND,SIG
+# File ID         : C12-Cu-x-sig-excfun-mon-prodCl38_Titarenko_2003_o1342.021
+#
+# npts            : 1           
+# xmin            :   2.4000E+09
+# xmax            :   2.4000E+09
+# ymin            :   2.9300E-03
+# ymax            :   2.9300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+09  0.0000E+00  2.9300E-03  3.9000E-04
+#---------------------------------------------------

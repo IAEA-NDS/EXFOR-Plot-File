@@ -1,0 +1,24 @@
+# EXFOR #         : B0113.046.2
+# EXFOR Ver.      : 20190123
+# TRANS #         : B029
+# Author          : D.Gardes et al.
+# Reference       : Phys.Rev.C 18 (1978) 1298
+# DOI             : 10.1103/PhysRevC.18.1298
+# Quantity        : 205Tl(40Ar,x)211Rn independent production cross section
+# REACTION        : 81-TL-205(18-AR-40,X)86-RN-211,,SIG
+# File ID         : Ar40-Tl205-x-sig-excfun-mon-prodRn211_Gardes_1978_b0113.046.2
+#
+# npts            : 3           
+# xmin            :   2.3900E+08
+# xmax            :   2.8400E+08
+# ymin            :   6.0000E-04
+# ymax            :   1.4800E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3900E+08  1.3000E+07  6.0000E-04  1.4000E-04
+  2.6200E+08  7.0000E+06  1.0000E-03  1.0000E-04
+  2.8400E+08  7.0000E+06  1.4800E-03  3.7000E-04
+#---------------------------------------------------

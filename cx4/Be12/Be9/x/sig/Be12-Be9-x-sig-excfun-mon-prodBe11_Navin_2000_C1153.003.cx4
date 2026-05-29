@@ -1,0 +1,22 @@
+# EXFOR #         : C1153.003  
+# EXFOR Ver.      : 20130528
+# TRANS #         : C130
+# Author          : A.Navin et al.
+# Reference       : Phys.Rev.Lett. 85 No.2 (2000) 266
+# DOI             : 10.1103/PhysRevLett.85.266
+# Quantity        : 9Be(12Be,x)11Be independent production cross section
+# REACTION        : 4-BE-9(4-BE-12,X)4-BE-11,,SIG
+# File ID         : Be12-Be9-x-sig-excfun-mon-prodBe11_Navin_2000_c1153.003
+#
+# npts            : 1           
+# xmin            :   9.3600E+08
+# xmax            :   9.3600E+08
+# ymin            :   4.9500E-02
+# ymax            :   4.9500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.3600E+08  0.0000E+00  4.9500E-02  4.5000E-03
+#---------------------------------------------------

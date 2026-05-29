@@ -1,0 +1,23 @@
+# EXFOR #         : D0112.004  
+# EXFOR Ver.      : 20190819
+# TRANS #         : D121
+# Author          : M.Guillaume
+# Reference       : Nucl.Intrum.Meth. 136 (1976) 185
+# DOI             : 10.1016/0029-554X(76)90415-8
+# Quantity        : 20Ne(d,a)18F cross section
+# REACTION        : 10-NE-20(D,A)9-F-18,,SIG
+# File ID         : d-Ne20-a-sig-excfun-mon-prodF18_Guillaume_1976_d0112.004
+#
+# npts            : 2           
+# xmin            :   7.0000E+06
+# xmax            :   1.2500E+07
+# ymin            :   1.0000E-01
+# ymax            :   2.9300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0000E+06  0.0000E+00  2.9300E-01  0.0000E+00
+  1.2500E+07  0.0000E+00  1.0000E-01  0.0000E+00
+#---------------------------------------------------

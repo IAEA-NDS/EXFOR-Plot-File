@@ -1,0 +1,26 @@
+# EXFOR #         : F1077.011  
+# EXFOR Ver.      : 20101026
+# TRANS #         : F041
+# Author          : R.L.A.Cottrell et al.
+# Reference       : Nucl.Phys.A 109 (1968) 288
+# DOI             : 10.1016/0375-9474(68)90594-0
+# Quantity        : 13C(d,p)14C partial angular differential cross section
+# REACTION        : 6-C-13(D,P)6-C-14,PAR,DA
+# File ID         : d-C13-p-adxl-excfun-mon-angl70_elvl6.090E+06_prodC14_Cottrell_1968_f1077.011
+#
+# theta,lab (deg) :   70.0000000
+# dtheta,lab (deg):    0.2000000
+# Elvl (eV)       :   6.0900E+06
+#
+# npts            : 1           
+# xmin            :   4.6600E+06
+# xmax            :   4.6600E+06
+# ymin            :   1.7600E-02
+# ymax            :   1.7600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.6600E+06  0.0000E+00  1.7600E-02  1.9000E-03
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : C0335.018.1
+# EXFOR Ver.      : 20160709
+# TRANS #         : C159
+# Author          : R.G.Korteling et al.
+# Reference       : Phys.Rev. 136 (1964) B425
+# DOI             : 10.1103/PhysRev.136.B425
+# Quantity        : 93Nb(a,x)88Zr independent production cross section
+# REACTION        : 41-NB-93(A,X)40-ZR-88,,SIG
+# File ID         : a-Nb93-x-sig-excfun-mon-prodZr88_Korteling_1964_c0335.018.1
+#
+# npts            : 4           
+# xmin            :   3.2000E+08
+# xmax            :   8.8000E+08
+# ymin            :   7.9700E-02
+# ymax            :   1.4500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2000E+08  1.0000E+07  1.4500E-01  2.9000E-02
+  5.0000E+08  1.0000E+07  1.0500E-01  2.1000E-02
+  7.2000E+08  1.0000E+07  9.3100E-02  1.8620E-02
+  8.8000E+08  1.0000E+07  7.9700E-02  1.5940E-02
+#---------------------------------------------------

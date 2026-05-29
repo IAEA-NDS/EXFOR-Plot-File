@@ -1,0 +1,26 @@
+# EXFOR #         : F1401.002  
+# EXFOR Ver.      : 20190924
+# TRANS #         : F075
+# Author          : K.P.Artemov et al.
+# Reference       : Zh.Eksp.Teor.Fiz. 39 (1960) 1612
+# DOI             : N/A
+# Quantity        : 4He(d,p+x) double differential cross section
+# REACTION        : 2-HE-4(D,X)1-H-1,,DA/DE
+# File ID         : d-He4-xp-ddxc-enedisl-mon-einc2.020E+07_angc135_Artemov_1960_f1401.002
+#
+# Einc (eV)       :   2.0200E+07
+# theta,cm (deg)  :  135.0000000
+#
+# npts            : 2           
+# xmin            :   3.0193E+06
+# xmax            :   8.3627E+06
+# ymin            :   2.4959E-09
+# ymax            :   4.6940E-09
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,cm      dddx,cm     
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  3.0193E+06  0.0000E+00  4.6940E-09  5.2660E-10
+  8.3627E+06  0.0000E+00  2.4959E-09  4.0420E-10
+#---------------------------------------------------

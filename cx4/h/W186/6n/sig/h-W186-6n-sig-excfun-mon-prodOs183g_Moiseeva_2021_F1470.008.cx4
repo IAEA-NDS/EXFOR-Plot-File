@@ -1,0 +1,23 @@
+# EXFOR #         : F1470.008  
+# EXFOR Ver.      : 20221103
+# TRANS #         : F094
+# Author          : A.N.Moiseeva et al.
+# Reference       : Appl.Radiat.Isot. 170 (2021) 109609
+# DOI             : 10.1016/j.apradiso.2021.109609
+# Quantity        : 186W(he3,6n)183gOs cross section
+# REACTION        : 74-W-186(HE3,6N)76-OS-183-G,,SIG
+# File ID         : h-W186-6n-sig-excfun-mon-prodOs183g_Moiseeva_2021_f1470.008
+#
+# npts            : 2           
+# xmin            :   3.7700E+07
+# xmax            :   4.3800E+07
+# ymin            :   7.3000E-03
+# ymax            :   1.2650E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7700E+07  1.8000E+06  7.3000E-03  1.5000E-03
+  4.3800E+07  1.7000E+06  1.2650E-01  2.5300E-02
+#---------------------------------------------------

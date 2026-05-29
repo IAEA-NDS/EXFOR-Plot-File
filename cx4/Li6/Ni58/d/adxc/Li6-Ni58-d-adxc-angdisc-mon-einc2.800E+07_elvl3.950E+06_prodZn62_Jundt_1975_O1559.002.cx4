@@ -1,0 +1,31 @@
+# EXFOR #         : O1559.002  
+# EXFOR Ver.      : 20070925
+# TRANS #         : O032
+# Author          : F.Jundt et al.
+# Reference       : Phys.Rev.C 12 (1975) 1366
+# DOI             : 10.1103/PhysRevC.12.1366
+# Quantity        : 58Ni(6Li,d)62Zn partial angular differential cross section
+# REACTION        : 28-NI-58(3-LI-6,D)30-ZN-62,PAR,DA
+# File ID         : Li6-Ni58-d-adxc-angdisc-mon-einc2.800E+07_elvl3.950E+06_prodZn62_Jundt_1975_o1559.002
+#
+# Einc (eV)       :   2.8000E+07
+# dEinc (eV)      :   1.7500E+05
+# Elvl (eV)       :   3.9500E+06
+# dElvl (eV)      :   9.0000E+04
+#
+# npts            : 5           
+# xmin            :   33.3000000
+# xmax            :  169.2000000
+# ymin            :   2.1000E-07
+# ymax            :   1.5100E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  33.3000000   0.0000000  1.5100E-05  2.5670E-06
+  47.8000000   0.0000000  2.9000E-06  6.0900E-07
+ 103.4000000   0.0000000  2.4000E-07  7.2000E-08
+ 137.2000000   0.0000000  2.1000E-07  6.0900E-08
+ 169.2000000   0.0000000  2.7000E-07  8.1000E-08
+#---------------------------------------------------

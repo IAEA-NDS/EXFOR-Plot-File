@@ -1,0 +1,23 @@
+# EXFOR #         : 13353.003  
+# EXFOR Ver.      : 20171128
+# TRANS #         : 1437
+# Author          : H.R.Von Gunten et al.
+# Reference       : J.Inorg.Nucl.Chem. 31 (1969) 3357
+# DOI             : 10.1016/0022-1902(69)80318-0
+# Quantity        : 252Cf(sf) independent fission product yield
+# REACTION        : 98-CF-252(0,F)ELEM/MASS,IND,FY
+# File ID         : 0-Cf252-f-fyi-nucdis-mon-Von%Gunten_1969_13353.003
+#
+# npts            : 2           
+# xmin            : 55136.9     
+# xmax            : 61150.9     
+# ymin            :   2.0000E-04
+# ymax            :   2.1000E-04
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     55136.9  2.1000E-04  2.0000E-05
+     61150.9  2.0000E-04  9.0000E-05
+#---------------------------------------------------

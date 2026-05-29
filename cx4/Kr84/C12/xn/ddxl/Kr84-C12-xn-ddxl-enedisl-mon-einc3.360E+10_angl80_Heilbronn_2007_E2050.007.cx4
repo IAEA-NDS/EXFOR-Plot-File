@@ -1,0 +1,28 @@
+# EXFOR #         : E2050.007  
+# EXFOR Ver.      : 20080131
+# TRANS #         : E050
+# Author          : L.Heilbronn et al.
+# Reference       : Nucl.Sci.Eng. 157 No.2 (2007) 142
+# DOI             : 10.13182/NSE07-A2719
+# Quantity        : 12C(84Kr,n+x) double differential cross section
+# REACTION        : 6-C-12(36-KR-84,X)0-NN-1,,DA/DE
+# File ID         : Kr84-C12-xn-ddxl-enedisl-mon-einc3.360E+10_angl80_Heilbronn_2007_e2050.007
+#
+# Einc (eV)       :   3.3600E+10
+# theta,lab (deg) :   80.0000000
+#
+# npts            : 4           
+# xmin            :   5.3735E+07
+# xmax            :   2.6466E+08
+# ymin            :   3.0750E-10
+# ymax            :   2.8830E-09
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.3185E+08  2.2250E+07  1.1550E-09  4.1110E-10
+  2.6466E+08  1.7444E+08  3.0750E-10  8.7710E-11
+  8.7085E+07  2.2515E+07  1.7400E-09  6.1160E-10
+  5.3735E+07  1.0835E+07  2.8830E-09  1.1320E-09
+#---------------------------------------------------

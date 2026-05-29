@@ -1,0 +1,24 @@
+# EXFOR #         : F1247.097  
+# EXFOR Ver.      : 20150610
+# TRANS #         : F058
+# Author          : M.Suchopar et al.
+# Reference       : Nucl.Instrum.Meth.B 344 (2015) 63
+# DOI             : 10.1016/j.nimb.2014.12.006
+# Quantity        : natCu(d,x)51Cr cumulative production cross section
+# REACTION        : 29-CU-0(D,X)24-CR-51,CUM,SIG
+# File ID         : d-Cu-x-sigc-excfun-mon-prodCr51_Suchopar_2015_f1247.097
+#
+# npts            : 3           
+# xmin            :   1.0000E+09
+# xmax            :   8.0000E+09
+# ymin            :   2.0900E-02
+# ymax            :   3.8200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  3.8200E-02  1.2000E-03
+  4.0000E+09  0.0000E+00  2.7100E-02  8.0000E-04
+  8.0000E+09  0.0000E+00  2.0900E-02  8.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : C0385.009  
+# EXFOR Ver.      : 19990917
+# TRANS #         : 0000
+# Author          : J.Jaenecke et al.
+# Reference       : Nucl.Phys.A 526 (1991) 1
+# DOI             : N/A
+# Quantity        : 90Zr(he3,t)90Nb partial angular differential cross section
+# REACTION        : 40-ZR-90(HE3,T)41-NB-90,PAR,DA
+# File ID         : h-Zr90-t-adxl-lvldis-mon-einc2.000E+08_angl1_prodNb90_Jaenecke_1991_c0385.009
+#
+# Einc (eV)       :   2.0000E+08
+# theta,lab (deg) :    1.4000000
+#
+# npts            : 5           
+# xmin            :   3.8200E+05
+# xmax            :   5.0720E+06
+# ymin            :   2.3400E-04
+# ymax            :   3.9100E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.8200E+05  0.0000E+00  3.1400E-04  2.3000E-05
+  6.5100E+05  0.0000E+00  2.5800E-04  2.1000E-05
+  8.5400E+05  0.0000E+00  2.3400E-04  2.0000E-05
+  2.1260E+06  0.0000E+00  1.0500E-03  4.0000E-05
+  5.0720E+06  0.0000E+00  3.9100E-03  8.0000E-05
+#---------------------------------------------------

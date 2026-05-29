@@ -1,0 +1,25 @@
+# EXFOR #         : F1077.008  
+# EXFOR Ver.      : 20101026
+# TRANS #         : F041
+# Author          : R.L.A.Cottrell et al.
+# Reference       : Nucl.Phys.A 109 (1968) 288
+# DOI             : 10.1016/0375-9474(68)90594-0
+# Quantity        : 12C(d,el)12C angular differential cross section
+# REACTION        : 6-C-12(D,EL)6-C-12,,DA
+# File ID         : d-C12-el-adxl-excfun-mon-angl70_prodC12_Cottrell_1968_f1077.008
+#
+# theta,lab (deg) :   70.0000000
+# dtheta,lab (deg):    0.2000000
+#
+# npts            : 1           
+# xmin            :   4.6600E+06
+# xmax            :   4.6600E+06
+# ymin            :   2.9000E-02
+# ymax            :   2.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.6600E+06  0.0000E+00  2.9000E-02  3.0000E-03
+#---------------------------------------------------

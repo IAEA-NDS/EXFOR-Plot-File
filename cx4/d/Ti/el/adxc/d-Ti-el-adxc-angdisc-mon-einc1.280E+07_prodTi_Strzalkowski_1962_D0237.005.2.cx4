@@ -1,0 +1,24 @@
+# EXFOR #         : D0237.005.2
+# EXFOR Ver.      : 20230126
+# TRANS #         : D138
+# Author          : A.Strzalkowski
+# Reference       : Phys.Lett. 2 (1962) 121
+# DOI             : 10.1016/0031-9163(62)90207-X
+# Quantity        : natTi(d,el)natTi angular differential cross section
+# REACTION        : 22-TI-0(D,EL)22-TI-0,,DA
+# File ID         : d-Ti-el-adxc-angdisc-mon-einc1.280E+07_prodTi_Strzalkowski_1962_d0237.005.2
+#
+# Einc (eV)       :   1.2800E+07
+#
+# npts            : 1           
+# xmin            :   26.0000000
+# xmax            :   26.0000000
+# ymin            :   1.0400E+00
+# ymax            :   1.0400E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  26.0000000   0.2000000  1.0400E+00  4.0000E-02
+#---------------------------------------------------

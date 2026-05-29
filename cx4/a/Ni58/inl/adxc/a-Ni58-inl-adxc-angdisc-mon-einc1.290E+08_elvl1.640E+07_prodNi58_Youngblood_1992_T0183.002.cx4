@@ -1,0 +1,28 @@
+# EXFOR #         : T0183.002  
+# EXFOR Ver.      : 20020723
+# TRANS #         : 0000
+# Author          : D.H.Youngblood et al.
+# Reference       : Phys.Rev.C 45 (1992) 2172
+# DOI             : 10.1103/PhysRevC.45.2172
+# Quantity        : 58Ni(a,inl)58Ni partial angular differential cross section
+# REACTION        : 28-NI-58(A,INL)28-NI-58,PAR,DA
+# File ID         : a-Ni58-inl-adxc-angdisc-mon-einc1.290E+08_elvl1.640E+07_prodNi58_Youngblood_1992_t0183.002
+#
+# Einc (eV)       :   1.2900E+08
+# Elvl (eV)       :   1.6400E+07
+#
+# npts            : 4           
+# xmin            :    4.1000000
+# xmax            :   18.0000000
+# ymin            :   5.5837E-03
+# ymax            :   3.7333E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.1000000   0.0000000  3.7333E-02  5.9030E-03
+   7.4000000   0.0000000  3.0764E-02  4.6669E-03
+  13.8000000   0.0000000  7.3861E-03  1.1929E-03
+  18.0000000   0.0000000  5.5837E-03  8.4680E-04
+#---------------------------------------------------

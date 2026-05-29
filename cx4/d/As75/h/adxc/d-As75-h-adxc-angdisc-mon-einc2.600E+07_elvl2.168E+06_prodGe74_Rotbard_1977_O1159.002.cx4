@@ -1,0 +1,29 @@
+# EXFOR #         : O1159.002  
+# EXFOR Ver.      : 20040512
+# TRANS #         : 0000
+# Author          : G.Rotbard et al.
+# Reference       : Phys.Rev.C 16 (1977) 1825
+# DOI             : 10.1103/PhysRevC.16.1825
+# Quantity        : 75As(d,he3)74Ge partial angular differential cross section
+# REACTION        : 33-AS-75(D,HE3)32-GE-74,PAR,DA
+# File ID         : d-As75-h-adxc-angdisc-mon-einc2.600E+07_elvl2.168E+06_prodGe74_Rotbard_1977_o1159.002
+#
+# Einc (eV)       :   2.6000E+07
+# Elvl (eV)       :   2.1680E+06
+#
+# npts            : 5           
+# xmin            :   15.9900000
+# xmax            :   45.1900000
+# ymin            :   2.6000E-06
+# ymax            :   9.9000E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.9900000   0.0000000  5.9000E-06  7.0800E-07
+  20.3400000   0.0000000  9.1000E-06  9.1000E-07
+  24.3600000   0.0000000  9.9000E-06  6.9300E-07
+  28.1100000   0.0000000  5.8000E-06  6.9600E-07
+  45.1900000   0.0000000  2.6000E-06  4.9400E-07
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : A0300.014  
+# EXFOR Ver.      : 20020613
+# TRANS #         : 0000
+# Author          : Xu Yanbing et al.
+# Reference       : J.Rad.Nucl.Chem. 251 (2002) 341
+# DOI             : 10.1023/A:1014801302057
+# Quantity        : 238U(18O,f)142Ba cumulative production cross section
+# REACTION        : 92-U-238(8-O-18,F)56-BA-142,CUM,SIG
+# File ID         : O18-U238-x-sigc-excfun-mon-prodBa142_Xu%Yanbing_2002_a0300.014
+#
+# npts            : 1           
+# xmin            :   1.0800E+09
+# xmax            :   1.0800E+09
+# ymin            :   1.1500E-02
+# ymax            :   1.1500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0800E+09  0.0000E+00  1.1500E-02  1.7000E-03
+#---------------------------------------------------

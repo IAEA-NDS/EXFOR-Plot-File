@@ -1,0 +1,24 @@
+# EXFOR #         : D4344.011  
+# EXFOR Ver.      : 20160512
+# TRANS #         : D104
+# Author          : F.Ditroi et al.
+# Reference       : Nucl.Instrum.Meth.B 373 (2016) 17
+# DOI             : 10.1016/j.nimb.2016.02.037
+# Quantity        : 93Nb(d,x)87gY cumulative production cross section
+# REACTION        : 41-NB-93(D,X)39-Y-87-G,(CUM),SIG
+# File ID         : d-Nb93-x-sigc-excfun-mon-prodY87g_Ditroi_2016_d4344.011
+#
+# npts            : 3           
+# xmin            :   4.4100E+07
+# xmax            :   4.8300E+07
+# ymin            :   4.5000E-04
+# ymax            :   4.0900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.8300E+07  3.0000E+05  4.0900E-03  4.7000E-04
+  4.6200E+07  4.0000E+05  1.2700E-03  1.7000E-04
+  4.4100E+07  4.0000E+05  4.5000E-04  8.0000E-05
+#---------------------------------------------------

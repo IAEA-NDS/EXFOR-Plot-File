@@ -1,0 +1,30 @@
+# EXFOR #         : E0803.005  
+# EXFOR Ver.      : 19881020
+# TRANS #         : 0000
+# Author          : S.I.Hayakawa et al.
+# Reference       : Phys.Rev.Lett. 49 (1982) 1624
+# DOI             : 10.1103/PhysRevLett.49.1624
+# Quantity        : 209Bi(d,he3)208Pb partial angular differential cross section
+# REACTION        : 83-BI-209(D,HE3)82-PB-208,PAR,DA
+# File ID         : d-Bi209-h-adxl-angdisc-mon-einc5.000E+07_elvl5.845E+06_prodPb208_Hayakawa_1982_e0803.005
+#
+# Einc (eV)       :   5.0000E+07
+# Elvl (eV)       :   5.8450E+06
+#
+# npts            : 6           
+# xmin            :   10.1350000
+# xmax            :   23.9530000
+# ymin            :   2.0960E-06
+# ymax            :   7.7390E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.1350000   0.0000000  2.0960E-06  4.4600E-07
+  14.0260000   0.0000000  4.6550E-06  1.3100E-06
+  18.0630000   0.0000000  7.7390E-06  1.7800E-06
+  19.8510000   0.0000000  6.2880E-06  2.4700E-06
+  22.0170000   0.0000000  7.1110E-06  1.8800E-06
+  23.9530000   0.0000000  5.2460E-06  1.3900E-06
+#---------------------------------------------------

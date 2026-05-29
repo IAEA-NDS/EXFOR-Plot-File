@@ -1,0 +1,24 @@
+# EXFOR #         : D6397.010  
+# EXFOR Ver.      : 20210808
+# TRANS #         : D131
+# Author          : A.Agarwal et al.
+# Reference       : Phys.Rev.C 103 (2021) 034602
+# DOI             : 10.1103/PhysRevC.103.034602
+# Quantity        : 93Nb(18O,x)102Ag cumulative production cross section
+# REACTION        : 41-NB-93(8-O-18,X)47-AG-102,(CUM),SIG
+# File ID         : O18-Nb93-x-sigc-excfun-mon-prodAg102_Agarwal_2021_d6397.010
+#
+# npts            : 3           
+# xmin            :   8.9280E+07
+# xmax            :   9.9200E+07
+# ymin            :   2.0470E-02
+# ymax            :   1.3672E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9200E+07  1.3000E+06  1.3672E-01  2.3240E-02
+  9.2190E+07  1.3000E+06  3.3790E-02  5.7400E-03
+  8.9280E+07  1.3000E+06  2.0470E-02  3.4800E-03
+#---------------------------------------------------

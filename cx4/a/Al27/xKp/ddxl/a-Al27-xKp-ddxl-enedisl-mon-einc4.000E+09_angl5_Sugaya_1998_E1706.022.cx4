@@ -1,0 +1,28 @@
+# EXFOR #         : E1706.022  
+# EXFOR Ver.      : 20070514
+# TRANS #         : E044
+# Author          : Y.Sugaya et al.
+# Reference       : Nucl.Phys.A 634 No.1-2 (1998) 115
+# DOI             : 10.1016/S0375-9474(98)00122-5
+# Quantity        : 27Al(a,K++x) double differential cross section
+# REACTION        : 13-AL-27(A,X)1-KP-0,,DA/DP
+# File ID         : a-Al27-xKp-ddxl-enedisl-mon-einc4.000E+09_angl5_Sugaya_1998_e1706.022
+#
+# Einc (eV)       :   4.0000E+09
+# theta,lab (deg) :    5.1000000
+#
+# npts            : 4           
+# xmin            :   2.2981E+09
+# xmax            :   3.5994E+09
+# ymin            :   1.3900E-14
+# ymax            :   5.7070E-14
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.2981E+09  0.0000E+00  5.7070E-14  6.7990E-15
+  2.6972E+09  0.0000E+00  4.1910E-14  4.0750E-15
+  3.1378E+09  0.0000E+00  2.7010E-14  2.2050E-15
+  3.5994E+09  0.0000E+00  1.3900E-14  1.3670E-15
+#---------------------------------------------------

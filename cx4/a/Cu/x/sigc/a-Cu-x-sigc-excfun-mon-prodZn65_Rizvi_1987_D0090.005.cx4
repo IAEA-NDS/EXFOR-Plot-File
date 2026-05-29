@@ -1,0 +1,23 @@
+# EXFOR #         : D0090.005  
+# EXFOR Ver.      : 20040126
+# TRANS #         : 0000
+# Author          : I.A.Rizvi et al.
+# Reference       : J.Phys.Soc.Jpn. 56 (1987) 3135
+# DOI             : 10.1143/JPSJ.56.3135
+# Quantity        : natCu(a,x)65Zn cumulative production cross section
+# REACTION        : 29-CU-0(A,X)30-ZN-65,CUM,SIG
+# File ID         : a-Cu-x-sigc-excfun-mon-prodZn65_Rizvi_1987_d0090.005
+#
+# npts            : 2           
+# xmin            :   3.2700E+07
+# xmax            :   3.9400E+07
+# ymin            :   5.3423E-01
+# ymax            :   6.6395E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2700E+07  1.0000E+06  6.6395E-01  5.0340E-02
+  3.9400E+07  9.0000E+05  5.3423E-01  7.4390E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C2581.003  
+# EXFOR Ver.      : 20201011
+# TRANS #         : C207
+# Author          : A.Pakou et al.
+# Reference       : Phys.Rev.C 102 (2020) 031601
+# DOI             : 10.1103/PhysRevC.102.031601
+# Quantity        : 208Pb(8B,x)7Be independent production cross section
+# REACTION        : 82-PB-208(5-B-8,X)4-BE-7,,SIG
+# File ID         : B8-Pb208-x-sig-excfun-mon-prodBe7_Pakou_2020_c2581.003
+#
+# npts            : 1           
+# xmin            :   3.0000E+07
+# xmax            :   3.0000E+07
+# ymin            :   3.2600E-01
+# ymax            :   3.2600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+07  0.0000E+00  3.2600E-01  8.4000E-02
+#---------------------------------------------------

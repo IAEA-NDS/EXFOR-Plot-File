@@ -1,0 +1,23 @@
+# EXFOR #         : F1429.002  
+# EXFOR Ver.      : 20200708
+# TRANS #         : F081
+# Author          : Yu.G.Sobolev et al.
+# Reference       : Izv.Ross.AN,Fiz. 83 (2019) 451
+# DOI             : 10.1134/S0367676519040264
+# Quantity        : 28Si(6He,non) cross section
+# REACTION        : 14-SI-28(2-HE-6,NON),,SIG
+# File ID         : He6-Si28-non-sig-excfun-mon-Sobolev_2019_f1429.002
+#
+# npts            : 2           
+# xmin            :   2.3280E+08
+# xmax            :   2.3280E+08
+# ymin            :   1.4900E+00
+# ymax            :   1.6240E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3280E+08  1.8000E+06  1.4900E+00  1.1100E-01
+  2.3280E+08  1.8000E+06  1.6240E+00  1.2100E-01
+#---------------------------------------------------

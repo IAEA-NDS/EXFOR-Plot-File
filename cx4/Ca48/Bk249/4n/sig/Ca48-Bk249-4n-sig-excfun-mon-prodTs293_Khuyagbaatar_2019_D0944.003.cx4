@@ -1,0 +1,23 @@
+# EXFOR #         : D0944.003  
+# EXFOR Ver.      : 20190722
+# TRANS #         : D122
+# Author          : J.Khuyagbaatar et al.
+# Reference       : Phys.Rev.C 99 (2019) 054306
+# DOI             : 10.1103/PhysRevC.99.054306
+# Quantity        : 249Bk(48Ca,4n)293Ts cross section
+# REACTION        : 97-BK-249(20-CA-48,4N)117-TS-293,,SIG
+# File ID         : Ca48-Bk249-4n-sig-excfun-mon-prodTs293_Khuyagbaatar_2019_d0944.003
+#
+# npts            : 2           
+# xmin            :   2.5400E+08
+# xmax            :   2.5800E+08
+# ymin            :   7.0000E-13
+# ymax            :   9.0000E-13
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5400E+08  0.0000E+00  7.0000E-13  0.0000E+00
+  2.5800E+08  0.0000E+00  9.0000E-13  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : C2372.005  
+# EXFOR Ver.      : 20191119
+# TRANS #         : C195
+# Author          : I.Ahmad et al.
+# Reference       : Nucl.Phys.A 646 (1999) 175
+# DOI             : 10.1016/S0375-9474(98)00618-6
+# Quantity        : 248Cm(a,he3)249Cm partial angular differential cross section
+# REACTION        : 96-CM-248(A,HE3)96-CM-249,PAR,DA
+# File ID         : a-Cm248-h-adxc-angdisc-mon-einc9.850E+07_elvl1.898E+06_prodCm249_Ahmad_1999_c2372.005
+#
+# Einc (eV)       :   9.8500E+07
+# Elvl (eV)       :   1.8980E+06
+#
+# npts            : 2           
+# xmin            :   12.0600000
+# xmax            :   16.0200000
+# ymin            :   3.6000E-04
+# ymax            :   8.8000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.0600000   0.0000000  8.8000E-04  0.0000E+00
+  16.0200000   0.0000000  3.6000E-04  0.0000E+00
+#---------------------------------------------------

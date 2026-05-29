@@ -1,0 +1,23 @@
+# EXFOR #         : D1058.004  
+# EXFOR Ver.      : 20250310
+# TRANS #         : D149
+# Author          : B.Paes et al.
+# Reference       : Phys.Rev.C 110 (2024) 054606
+# DOI             : 10.1103/PhysRevC.110.054606
+# Quantity        : 197Au(d,x)196Au independent production cross section
+# REACTION        : 79-AU-197(D,X)79-AU-196,,SIG
+# File ID         : d-Au197-x-sig-excfun-mon-prodAu196_Paes_2024_d1058.004
+#
+# npts            : 2           
+# xmin            :   1.0000E+07
+# xmax            :   1.2500E+07
+# ymin            :   1.9000E-03
+# ymax            :   1.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2500E+07  0.0000E+00  1.7000E-02  2.0000E-03
+  1.0000E+07  0.0000E+00  1.9000E-03  2.0000E-04
+#---------------------------------------------------

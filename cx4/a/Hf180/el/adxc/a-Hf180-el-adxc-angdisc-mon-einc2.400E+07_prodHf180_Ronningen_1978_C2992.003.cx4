@@ -1,0 +1,27 @@
+# EXFOR #         : C2992.003  
+# EXFOR Ver.      : 20241003
+# TRANS #         : C240
+# Author          : R.M.Ronningen et al.
+# Reference       : Phys.Rev.Lett. 40 (1978) 364
+# DOI             : 10.1103/PhysRevLett.40.364
+# Quantity        : 180Hf(a,el)180Hf angular differential cross section
+# REACTION        : 72-HF-180(A,EL)72-HF-180,,DA
+# File ID         : a-Hf180-el-adxc-angdisc-mon-einc2.400E+07_prodHf180_Ronningen_1978_c2992.003
+#
+# Einc (eV)       :   2.4000E+07
+#
+# npts            : 4           
+# xmin            :   99.8090000
+# xmax            :  130.1190000
+# ymin            :   2.7350E-03
+# ymax            :   2.4610E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  99.8090000   0.0000000  2.4610E-02  0.0000E+00
+ 110.2090000   0.0000000  1.1920E-02  0.0000E+00
+ 119.8990000   0.0000000  5.4730E-03  0.0000E+00
+ 130.1190000   0.0000000  2.7350E-03  0.0000E+00
+#---------------------------------------------------

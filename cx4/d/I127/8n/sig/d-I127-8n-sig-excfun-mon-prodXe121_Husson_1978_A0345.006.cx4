@@ -1,0 +1,24 @@
+# EXFOR #         : A0345.006  
+# EXFOR Ver.      : 20240109
+# TRANS #         : A107
+# Author          : J.P.Husson et al.
+# Reference       : Report IPNO-PHN-78-27 page 1, 1978
+# DOI             : N/A
+# Quantity        : 127I(d,8n)121Xe cross section
+# REACTION        : 53-I-127(D,8N)54-XE-121,,SIG
+# File ID         : d-I127-8n-sig-excfun-mon-prodXe121_Husson_1978_a0345.006
+#
+# npts            : 3           
+# xmin            :   7.1290E+07
+# xmax            :   7.7120E+07
+# ymin            :   1.2510E-03
+# ymax            :   8.1600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.1290E+07  7.0000E+04  1.2510E-03  1.6000E-05
+  7.4340E+07  7.0000E+04  3.2000E-03  9.0000E-04
+  7.7120E+07  7.0000E+04  8.1600E-03  1.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : C1092.003  
+# EXFOR Ver.      : 20170926
+# TRANS #         : C170
+# Author          : E.T.Chulick et al.
+# Reference       : Nucl.Phys.A 173 (1971) 497
+# DOI             : 10.1016/0375-9474(71)90967-5
+# Quantity        : 232Th(a,f)99Mo cumulative production cross section
+# REACTION        : 90-TH-232(A,F)42-MO-99,CUM,SIG
+# File ID         : a-Th232-x-sigc-excfun-mon-prodMo99_Chulick_1971_c1092.003
+#
+# npts            : 3           
+# xmin            :   2.0000E+07
+# xmax            :   2.8600E+07
+# ymin            :   2.9000E-04
+# ymax            :   3.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+07  0.0000E+00  2.9000E-04  9.0000E-05
+  2.4500E+07  0.0000E+00  9.7000E-03  2.9000E-03
+  2.8600E+07  0.0000E+00  3.1000E-02  9.0000E-03
+#---------------------------------------------------

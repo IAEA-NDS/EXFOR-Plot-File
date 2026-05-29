@@ -1,0 +1,23 @@
+# EXFOR #         : O1506.081  
+# EXFOR Ver.      : 20071114
+# TRANS #         : O034
+# Author          : A.Khouaja et al.
+# Reference       : Nucl.Phys.A 780 (2006) 1
+# DOI             : N/A
+# Quantity        : 28Si(44Cl,non) cross section
+# REACTION        : 14-SI-28(17-CL-44,NON),,SIG
+# File ID         : Cl44-Si28-non-sig-excfun-mon-Khouaja_2006_o1506.081
+#
+# npts            : 2           
+# xmin            :   1.9791E+09
+# xmax            :   2.2713E+09
+# ymin            :   2.6300E+00
+# ymax            :   2.9230E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2713E+09  0.0000E+00  2.9230E+00  2.0700E-01
+  1.9791E+09  0.0000E+00  2.6300E+00  6.5000E-02
+#---------------------------------------------------

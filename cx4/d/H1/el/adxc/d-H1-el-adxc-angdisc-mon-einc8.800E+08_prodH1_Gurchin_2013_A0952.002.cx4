@@ -1,0 +1,27 @@
+# EXFOR #         : A0952.002  
+# EXFOR Ver.      : 20130129
+# TRANS #         : A079
+# Author          : Yu.V.Gurchin et al.
+# Reference       : Phys.Part.Nucl.Lett. 10 (2013) 243
+# DOI             : 10.1134/S1547477113030060
+# Quantity        : 1H(d,el)1H angular differential cross section
+# REACTION        : 1-H-1(D,EL)1-H-1,,DA
+# File ID         : d-H1-el-adxc-angdisc-mon-einc8.800E+08_prodH1_Gurchin_2013_a0952.002
+#
+# Einc (eV)       :   8.8000E+08
+#
+# npts            : 4           
+# xmin            :   60.6410000
+# xmax            :  110.5820000
+# ymin            :   2.6240E-05
+# ymax            :   1.3650E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  60.6410000   0.0000000  1.3650E-04  0.0000E+00
+  70.5710000   0.0000000  8.5900E-05  0.0000E+00
+  86.8040000   0.0000000  7.1620E-05  0.0000E+00
+ 110.5820000   0.0000000  2.6240E-05  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : A1404.003  
+# EXFOR Ver.      : 20250921
+# TRANS #         : A126
+# Author          : S.Kato et al.
+# Reference       : Nucl.Phys.A 195 (1972) 534
+# DOI             : 10.1016/0375-9474(72)91075-5
+# Quantity        : 6Li(d,t)5Li partial angular differential cross section
+# REACTION        : 3-LI-6(D,T)3-LI-5,PAR,DA
+# File ID         : d-Li6-t-adxl-angdisl-mon-einc1.300E+05_elvl0.000E+00_prodLi5_Kato_1972_a1404.003
+#
+# Einc (eV)       :   1.3000E+05
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   35.0000000
+# xmax            :   35.0000000
+# ymin            :   7.5000E-06
+# ymax            :   7.5000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  35.0000000   0.0000000  7.5000E-06  7.5000E-06
+#---------------------------------------------------

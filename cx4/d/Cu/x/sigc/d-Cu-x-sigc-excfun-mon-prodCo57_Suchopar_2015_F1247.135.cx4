@@ -1,0 +1,25 @@
+# EXFOR #         : F1247.135  
+# EXFOR Ver.      : 20150610
+# TRANS #         : F058
+# Author          : M.Suchopar et al.
+# Reference       : Nucl.Instrum.Meth.B 344 (2015) 63
+# DOI             : 10.1016/j.nimb.2014.12.006
+# Quantity        : natCu(d,x)57Co cumulative production cross section
+# REACTION        : 29-CU-0(D,X)27-CO-57,CUM,SIG
+# File ID         : d-Cu-x-sigc-excfun-mon-prodCo57_Suchopar_2015_f1247.135
+#
+# npts            : 4           
+# xmin            :   2.0000E+09
+# xmax            :   6.0000E+09
+# ymin            :   2.0600E-02
+# ymax            :   2.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+09  0.0000E+00  2.5300E-02  1.6000E-03
+  2.3300E+09  0.0000E+00  2.6000E-02  4.0000E-03
+  4.0000E+09  0.0000E+00  2.5200E-02  1.1000E-03
+  6.0000E+09  0.0000E+00  2.0600E-02  1.2000E-03
+#---------------------------------------------------

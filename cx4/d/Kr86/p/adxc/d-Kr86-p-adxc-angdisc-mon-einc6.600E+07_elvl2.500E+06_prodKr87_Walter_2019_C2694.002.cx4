@@ -1,0 +1,28 @@
+# EXFOR #         : C2694.002  
+# EXFOR Ver.      : 20211115
+# TRANS #         : C211
+# Author          : D.Walter et al.
+# Reference       : Phys.Rev.C 99 (2019) 054625
+# DOI             : 10.1103/PhysRevC.99.054625
+# Quantity        : 86Kr(d,p)87Kr partial angular differential cross section
+# REACTION        : 36-KR-86(D,P)36-KR-87,PAR,DA
+# File ID         : d-Kr86-p-adxc-angdisc-mon-einc6.600E+07_elvl2.500E+06_prodKr87_Walter_2019_c2694.002
+#
+# Einc (eV)       :   6.6000E+07
+# Elvl (eV)       :   2.5000E+06
+#
+# npts            : 4           
+# xmin            :   13.3000000
+# xmax            :   21.2000000
+# ymin            :   7.0400E-04
+# ymax            :   1.7000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  13.3000000   0.0000000  1.7000E-03  1.6400E-04
+  16.6000000   0.0000000  1.0700E-03  1.7300E-04
+  18.5000000   0.0000000  9.6400E-04  1.3300E-04
+  21.2000000   0.0000000  7.0400E-04  8.2800E-05
+#---------------------------------------------------

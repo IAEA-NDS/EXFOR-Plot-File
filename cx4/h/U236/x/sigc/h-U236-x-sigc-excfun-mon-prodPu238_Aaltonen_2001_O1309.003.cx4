@@ -1,0 +1,26 @@
+# EXFOR #         : O1309.003  
+# EXFOR Ver.      : 20060526
+# TRANS #         : O026
+# Author          : J.Aaltonen et al.
+# Reference       : Radiokhimiya 43 (2001) 389
+# DOI             : N/A
+# Quantity        : 236U(he3,x)238Pu cumulative production cross section
+# REACTION        : 92-U-236(HE3,X)94-PU-238,(CUM),SIG
+# File ID         : h-U236-x-sigc-excfun-mon-prodPu238_Aaltonen_2001_o1309.003
+#
+# npts            : 5           
+# xmin            :   2.1100E+07
+# xmax            :   5.6300E+07
+# ymin            :   1.2000E-03
+# ymax            :   5.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1100E+07  0.0000E+00  1.2000E-03  6.0000E-04
+  2.6400E+07  0.0000E+00  2.6000E-03  4.0000E-04
+  3.1000E+07  0.0000E+00  5.2000E-03  1.0000E-03
+  3.8800E+07  0.0000E+00  5.6000E-03  1.4000E-03
+  5.6300E+07  0.0000E+00  4.1000E-03  5.0000E-04
+#---------------------------------------------------

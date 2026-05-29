@@ -1,0 +1,31 @@
+# EXFOR #         : D0686.002  
+# EXFOR Ver.      : 20120627
+# TRANS #         : D085
+# Author          : M.R.D.Rodrigues et al.
+# Reference       : Report (proceedings) AIP-1351 page 125, 2011
+# DOI             : N/A
+# Quantity        : 9Be(6Li,d)13C partial angular differential cross section
+# REACTION        : 4-BE-9(3-LI-6,D)6-C-13,PAR,DA
+# File ID         : Li6-Be9-d-adxl-angdisc-mon-einc2.550E+07_elvl1.230E+07_prodC13_Rodrigues_2011_d0686.002
+#
+# Einc (eV)       :   2.5500E+07
+# Elvl (eV)       :   1.2300E+07
+#
+# npts            : 7           
+# xmin            :    4.1000000
+# xmax            :   27.1000000
+# ymin            :   4.9100E-06
+# ymax            :   3.1200E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.1000000   0.0000000  3.1200E-05  6.1900E-06
+   6.8000000   0.0000000  2.2500E-05  5.9500E-06
+  11.0000000   0.0000000  1.9400E-05  4.4100E-06
+  15.0000000   0.0000000  1.6300E-05  3.9000E-06
+  19.1000000   0.0000000  9.4800E-06  4.2100E-06
+  23.2000000   0.0000000  9.7100E-06  3.9400E-06
+  27.1000000   0.0000000  4.9100E-06  3.0900E-06
+#---------------------------------------------------

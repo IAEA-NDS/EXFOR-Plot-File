@@ -1,0 +1,23 @@
+# EXFOR #         : E1885.004  
+# EXFOR Ver.      : 20050914
+# TRANS #         : E032
+# Author          : K.Nishio et al.
+# Reference       : Phys.Rev.C 68 No.6 (2003) 064305
+# DOI             : 10.1103/PhysRevC.68.064305
+# Quantity        : 198Pt(34S,3n+a)225U cross section
+# REACTION        : 78-PT-198(16-S-34,3N+A)92-U-225,,SIG
+# File ID         : S34-Pt198-3na-sig-excfun-mon-prodU225_Nishio_2003_e1885.004
+#
+# npts            : 2           
+# xmin            :   1.6525E+08
+# xmax            :   1.6759E+08
+# ymin            :   2.7310E-09
+# ymax            :   5.5370E-09
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6525E+08  0.0000E+00  5.5370E-09  0.0000E+00
+  1.6759E+08  0.0000E+00  2.7310E-09  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : B0021.065  
+# EXFOR Ver.      : 20220321
+# TRANS #         : B033
+# Author          : Y.Eyal et al.
+# Reference       : Phys.Rev.C 8 (1973) 1109
+# DOI             : 10.1103/PhysRevC.8.1109
+# Quantity        : 197Au(16O,x)196g+m1Au independent production cross section
+# REACTION        : 79-AU-197(8-O-16,X)79-AU-196-G+M1,,SIG
+# File ID         : O16-Au197-x-sig-excfun-mon-prodAu196p_Eyal_1973_b0021.065
+#
+# npts            : 2           
+# xmin            :   1.3500E+08
+# xmax            :   1.6600E+08
+# ymin            :   9.3100E-02
+# ymax            :   1.2440E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+08  0.0000E+00  9.3100E-02  6.9000E-03
+  1.6600E+08  0.0000E+00  1.2440E-01  9.2000E-03
+#---------------------------------------------------

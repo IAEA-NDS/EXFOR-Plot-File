@@ -1,0 +1,25 @@
+# EXFOR #         : C1602.003  
+# EXFOR Ver.      : 20080304
+# TRANS #         : C086
+# Author          : H.Werle et al.
+# Reference       : Z.Phys. 259 (1973) 275
+# DOI             : N/A
+# Quantity        : 9Be(a,n)12C partial angular differential cross section
+# REACTION        : 4-BE-9(A,N)6-C-12,PAR,DA
+# File ID         : a-Be9-n-adxl-angdisl-mon-einc5.010E+06_elvl7.650E+06_prodC12_Werle_1973_c1602.003
+#
+# Einc (eV)       :   5.0100E+06
+# Elvl (eV)       :   7.6500E+06
+#
+# npts            : 1           
+# xmin            :   60.0000000
+# xmax            :   60.0000000
+# ymin            :   5.2000E-03
+# ymax            :   5.2000E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  60.0000000   0.0000000  5.2000E-03  1.0000E-03
+#---------------------------------------------------

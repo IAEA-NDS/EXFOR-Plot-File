@@ -1,0 +1,29 @@
+# EXFOR #         : F0881.002  
+# EXFOR Ver.      : 20071207
+# TRANS #         : F030
+# Author          : O.D.Brill et al.
+# Reference       : Yad.Fiz. 16 (1972) 640
+# DOI             : N/A
+# Quantity        : 12C(he3,n)14O partial angular differential cross section
+# REACTION        : 6-C-12(HE3,N)8-O-14,PAR,DA
+# File ID         : h-C12-n-adxc-angdisc-mon-einc1.330E+07_elvl7.780E+06_prodO14_Brill_1972_f0881.002
+#
+# Einc (eV)       :   1.3300E+07
+# Elvl (eV)       :   7.7800E+06
+#
+# npts            : 5           
+# xmin            :    7.7326000
+# xmax            :   38.3720000
+# ymin            :   8.0884E-04
+# ymax            :   4.4565E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.7326000   0.0000000  4.4565E-03  1.1031E-03
+  13.1220000   0.0000000  3.7864E-03  1.1037E-03
+  21.2330000   0.0000000  2.4709E-03  9.6523E-04
+  28.3290000   0.0000000  1.3242E-03  4.4814E-04
+  38.3720000   0.0000000  8.0884E-04  4.4814E-04
+#---------------------------------------------------

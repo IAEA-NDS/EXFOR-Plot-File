@@ -1,0 +1,25 @@
+# EXFOR #         : F0910.029  
+# EXFOR Ver.      : 20101028
+# TRANS #         : F041
+# Author          : G.Brown et al.
+# Reference       : Nucl.Phys.A 153 (1970) 145
+# DOI             : 10.1016/0375-9474(70)90762-1
+# Quantity        : 52Cr(d,p)53Cr partial angular differential cross section
+# REACTION        : 24-CR-52(D,P)24-CR-53,PAR,DA
+# File ID         : d-Cr52-p-adxl-angdisl-mon-einc1.000E+07_elvl4.680E+06_prodCr53_Brown_1970_f0910.029
+#
+# Einc (eV)       :   1.0000E+07
+# Elvl (eV)       :   4.6800E+06
+#
+# npts            : 1           
+# xmin            :   35.0000000
+# xmax            :   35.0000000
+# ymin            :   6.4000E-04
+# ymax            :   6.4000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  35.0000000   0.0000000  6.4000E-04  0.0000E+00
+#---------------------------------------------------

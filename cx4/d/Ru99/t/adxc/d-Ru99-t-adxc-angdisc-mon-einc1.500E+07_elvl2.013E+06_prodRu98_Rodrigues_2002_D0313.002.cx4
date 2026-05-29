@@ -1,0 +1,29 @@
+# EXFOR #         : D0313.002  
+# EXFOR Ver.      : 20051011
+# TRANS #         : D044
+# Author          : M.R.D.Rodrigues et al.
+# Reference       : Phys.Rev.C 66 (2002) 034314
+# DOI             : 10.1103/PhysRevC.66.034314
+# Quantity        : 99Ru(d,t)98Ru partial angular differential cross section
+# REACTION        : 44-RU-99(D,T)44-RU-98,PAR,DA
+# File ID         : d-Ru99-t-adxc-angdisc-mon-einc1.500E+07_elvl2.013E+06_prodRu98_Rodrigues_2002_d0313.002
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   2.0130E+06
+#
+# npts            : 5           
+# xmin            :   16.4500000
+# xmax            :   40.0200000
+# ymin            :   3.7600E-05
+# ymax            :   9.4000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.4500000   0.0000000  7.0000E-05  1.0000E-05
+  21.5800000   0.0000000  9.4000E-05  2.0000E-05
+  27.7400000   0.0000000  3.7600E-05  5.1000E-06
+  35.9300000   0.0000000  4.3600E-05  8.0000E-06
+  40.0200000   0.0000000  4.4600E-05  6.1000E-06
+#---------------------------------------------------

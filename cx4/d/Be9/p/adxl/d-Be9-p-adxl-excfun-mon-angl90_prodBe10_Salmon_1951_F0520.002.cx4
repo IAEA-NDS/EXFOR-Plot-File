@@ -1,0 +1,25 @@
+# EXFOR #         : F0520.002  
+# EXFOR Ver.      : 20180115
+# TRANS #         : F067
+# Author          : A.J.Salmon
+# Reference       : Proc.Phys.Soc.(UK) A 64 (1951) 848
+# DOI             : 10.1088/0370-1298/64/9/114
+# Quantity        : 9Be(d,p)10Be angular differential cross section
+# REACTION        : 4-BE-9(D,P)4-BE-10,,DA
+# File ID         : d-Be9-p-adxl-excfun-mon-angl90_prodBe10_Salmon_1951_f0520.002
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 2           
+# xmin            :   3.0100E+05
+# xmax            :   4.4000E+05
+# ymin            :   4.3000E-05
+# ymax            :   2.9600E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.0100E+05  0.0000E+00  4.3000E-05  9.0000E-06
+  4.4000E+05  0.0000E+00  2.9600E-04  5.9000E-05
+#---------------------------------------------------

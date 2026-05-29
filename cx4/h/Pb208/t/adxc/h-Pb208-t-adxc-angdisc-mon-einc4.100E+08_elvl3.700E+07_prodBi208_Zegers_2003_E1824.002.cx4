@@ -1,0 +1,30 @@
+# EXFOR #         : E1824.002  
+# EXFOR Ver.      : 20050517
+# TRANS #         : E031
+# Author          : R.G.T.Zegers et al.
+# Reference       : Phys.Rev.Lett. 90 No.20 (2003) 202501
+# DOI             : 10.1103/PhysRevLett.90.202501
+# Quantity        : 208Pb(he3,t)208Bi partial angular differential cross section
+# REACTION        : 82-PB-208(HE3,T)83-BI-208,PAR,DA
+# File ID         : h-Pb208-t-adxc-angdisc-mon-einc4.100E+08_elvl3.700E+07_prodBi208_Zegers_2003_e1824.002
+#
+# Einc (eV)       :   4.1000E+08
+# Elvl (eV)       :   3.7000E+07
+# dElvl (eV)      :   1.0000E+06
+#
+# npts            : 5           
+# xmin            :    0.1615000
+# xmax            :    1.5380000
+# ymin            :   3.0850E-03
+# ymax            :   1.9150E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.1615000   0.0000000  1.9150E-02  0.0000E+00
+   0.5052000   0.0000000  1.6110E-02  0.0000E+00
+   0.8574000   0.0000000  1.2590E-02  0.0000E+00
+   1.2020000   0.0000000  5.7170E-03  0.0000E+00
+   1.5380000   0.0000000  3.0850E-03  6.7320E-04
+#---------------------------------------------------

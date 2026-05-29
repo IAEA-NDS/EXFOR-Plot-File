@@ -1,0 +1,25 @@
+# EXFOR #         : B0118.002.1
+# EXFOR Ver.      : 20211221
+# TRANS #         : B032
+# Author          : M.De Saint-Simon et al.
+# Reference       : Phys.Rev.C 18 (1978) 1651
+# DOI             : 10.1103/PhysRevC.18.1651
+# Quantity        : 238U(40Ar,f) independent production cross section
+# REACTION        : 92-U-238(18-AR-40,F)ELEM/MASS,,SIG,,AV
+# File ID         : Ar40-U238-x-sig-nucdis-mon-einc2.400E+08_De%Saint+Simon_1978_b0118.002.1
+#
+# Einc (eV)       :   2.4000E+08
+#
+# npts            : 2           
+# xmin            : 53124.9     
+# xmax            : 53126.9     
+# ymin            :   6.8300E-04
+# ymax            :   2.3400E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     53124.9  6.8300E-04  2.8000E-05
+     53126.9  2.3400E-03  6.9000E-05
+#---------------------------------------------------

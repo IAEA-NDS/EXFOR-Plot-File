@@ -1,0 +1,22 @@
+# EXFOR #         : O0734.025  
+# EXFOR Ver.      : 20001221
+# TRANS #         : 0000
+# Author          : J.Feng et al.
+# Reference       : Phys.Rev.C 50 (1994) 2420
+# DOI             : 10.1103/PhysRevC.50.2420
+# Quantity        : 197Au(129Xe,x)104Cd independent production cross section
+# REACTION        : 79-AU-197(54-XE-129,X)48-CD-104,,SIG
+# File ID         : Xe129-Au197-x-sig-excfun-mon-prodCd104_Feng_1994_o0734.025
+#
+# npts            : 1           
+# xmin            :   5.6760E+09
+# xmax            :   5.6760E+09
+# ymin            :   3.1100E-04
+# ymax            :   3.1100E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.6760E+09  0.0000E+00  3.1100E-04  1.2440E-05
+#---------------------------------------------------

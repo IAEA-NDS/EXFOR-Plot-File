@@ -1,0 +1,22 @@
+# EXFOR #         : D0076.005  
+# EXFOR Ver.      : 20220429
+# TRANS #         : D137
+# Author          : M.Cogneau et al.
+# Reference       : Nucl.Phys.A 99 (1967) 686
+# DOI             : 10.1016/0375-9474(67)90379-X
+# Quantity        : 60Ni(d,n)61Cu cross section
+# REACTION        : 28-NI-60(D,N)29-CU-61,,SIG
+# File ID         : d-Ni60-n-sig-excfun-mon-prodCu61_Cogneau_1967_d0076.005
+#
+# npts            : 1           
+# xmin            :   6.3000E+06
+# xmax            :   6.3000E+06
+# ymin            :   4.6000E-01
+# ymax            :   4.6000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.3000E+06  0.0000E+00  4.6000E-01  9.2000E-02
+#---------------------------------------------------

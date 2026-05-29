@@ -1,0 +1,30 @@
+# EXFOR #         : A0302.002  
+# EXFOR Ver.      : 20180125
+# TRANS #         : A088
+# Author          : N.S.Biryukov et al.
+# Reference       : Yad.Reak.Konst.  No.2 (1986) 6
+# DOI             : N/A
+# Quantity        : 27Al(d,n+x) double differential cross section
+# REACTION        : 13-AL-27(D,X)0-NN-1,,DA/DE
+# File ID         : d-Al27-xn-ddxl-angdisl-mon-einc2.230E+07_eoutl9.850E+06_Biryukov_1986_a0302.002
+#
+# Einc (eV)       :   2.2300E+07
+# dEinc (eV)      :   3.0000E+05
+# Eout,lab (eV)   :   9.8500E+06
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   1.7000E-09
+# ymax            :   5.4000E-09
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  30.0000000   0.0000000  5.4000E-09  2.5000E-10
+  60.0000000   0.0000000  3.0000E-09  1.5000E-10
+  90.0000000   0.0000000  2.2000E-09  1.2000E-10
+ 120.0000000   0.0000000  1.7500E-09  1.2000E-10
+ 150.0000000   0.0000000  1.7000E-09  1.6000E-10
+#---------------------------------------------------

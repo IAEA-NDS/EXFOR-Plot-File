@@ -1,0 +1,26 @@
+# EXFOR #         : F0752.007  
+# EXFOR Ver.      : 20130402
+# TRANS #         : F050
+# Author          : A.U.Aldzhauakhiri et al.
+# Reference       : Yad.Fiz. 6 (1967) 248
+# DOI             : N/A
+# Quantity        : 10B(a,d)12C partial cross section
+# REACTION        : 5-B-10(A,D)6-C-12,PAR,SIG
+# File ID         : a-B10-d-sig-excfun-mon-elvl0.000E+00_prodC12_Aldzhauakhiri_1967_f0752.007
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :   2.1200E+07
+# xmax            :   2.5000E+07
+# ymin            :   3.6000E-03
+# ymax            :   6.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1200E+07  0.0000E+00  6.2000E-03  1.2400E-03
+  2.3000E+07  0.0000E+00  4.2000E-03  8.4000E-04
+  2.5000E+07  0.0000E+00  3.6000E-03  7.2000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : D0737.004.1
+# EXFOR Ver.      : 20141020
+# TRANS #         : D095
+# Author          : N.K.Skobelev et al.
+# Reference       : Phys.Part.Nucl.Lett. 11 (2014) 114
+# DOI             : 10.1134/S1547477114020265
+# Quantity        : 194Pt(he3,2n)195mHg cross section
+# REACTION        : 78-PT-194(HE3,2N)80-HG-195-M,,SIG
+# File ID         : h-Pt194-2n-sig-excfun-mon-prodHg195m_Skobelev_2014_d0737.004.1
+#
+# npts            : 2           
+# xmin            :   2.2300E+07
+# xmax            :   2.4100E+07
+# ymin            :   2.7375E-02
+# ymax            :   4.3375E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4100E+07  0.0000E+00  4.3375E-02  1.2500E-03
+  2.2300E+07  0.0000E+00  2.7375E-02  3.7500E-04
+#---------------------------------------------------

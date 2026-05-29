@@ -1,0 +1,28 @@
+# EXFOR #         : C1186.002  
+# EXFOR Ver.      : 20050311
+# TRANS #         : C073
+# Author          : J.S.Thomas et al.
+# Reference       : Phys.Rev.C 71 (2005) 021302
+# DOI             : 10.1103/PhysRevC.71.021302
+# Quantity        : 2H(82Ge,p)83Ge partial angular differential cross section
+# REACTION        : 1-H-2(32-GE-82,P)32-GE-83,PAR,DA
+# File ID         : Ge82-H2-p-adxc-angdisc-mon-einc3.300E+08_elvl0.000E+00_prodGe83_Thomas_2005_c1186.002
+#
+# Einc (eV)       :   3.3000E+08
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :   12.9000000
+# xmax            :   31.5000000
+# ymin            :   4.5000E-03
+# ymax            :   8.7500E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.9000000   0.0000000  8.7500E-03  1.0000E-03
+  18.6000000   0.0000000  5.1100E-03  5.9000E-04
+  25.3000000   0.0000000  4.5000E-03  5.3000E-04
+  31.5000000   0.0000000  4.6600E-03  5.5000E-04
+#---------------------------------------------------

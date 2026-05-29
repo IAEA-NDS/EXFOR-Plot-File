@@ -1,0 +1,28 @@
+# EXFOR #         : C2948.002  
+# EXFOR Ver.      : 20250506
+# TRANS #         : C251
+# Author          : F.Portillo et al.
+# Reference       : Phys.Rev.C 107 (2023) 035809
+# DOI             : 10.1103/PhysRevC.107.035809
+# Quantity        : 20Ne(he3,a)19Ne partial angular differential cross section
+# REACTION        : 10-NE-20(HE3,A)10-NE-19,PAR,DA
+# File ID         : h-Ne20-a-adxc-angdisc-mon-einc2.100E+07_elvl6.288E+06_prodNe19_Portillo_2023_c2948.002
+#
+# Einc (eV)       :   2.1000E+07
+# Elvl (eV)       :   6.2880E+06
+#
+# npts            : 4           
+# xmin            :   23.7700000
+# xmax            :   32.0100000
+# ymin            :   8.7900E-06
+# ymax            :   1.8650E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  23.7700000   0.0000000  1.8030E-05  2.8700E-06
+  26.1300000   0.0000000  1.8650E-05  4.0200E-06
+  29.6600000   0.0000000  1.1670E-05  3.0900E-06
+  32.0100000   0.0000000  8.7900E-06  2.1000E-06
+#---------------------------------------------------

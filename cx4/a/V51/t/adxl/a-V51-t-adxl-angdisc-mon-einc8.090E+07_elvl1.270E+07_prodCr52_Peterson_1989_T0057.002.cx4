@@ -1,0 +1,29 @@
+# EXFOR #         : T0057.002  
+# EXFOR Ver.      : 20001018
+# TRANS #         : 0000
+# Author          : R.J.Peterson et al.
+# Reference       : Phys.Rev.C 40 (1989) 553
+# DOI             : 10.1103/PhysRevC.40.553
+# Quantity        : 51V(a,t)52Cr partial angular differential cross section
+# REACTION        : 23-V-51(A,T)24-CR-52,PAR,DA
+# File ID         : a-V51-t-adxl-angdisc-mon-einc8.090E+07_elvl1.270E+07_prodCr52_Peterson_1989_t0057.002
+#
+# Einc (eV)       :   8.0900E+07
+# dEinc (eV)      :   4.0000E+04
+# Elvl (eV)       :   1.2700E+07
+#
+# npts            : 4           
+# xmin            :    7.2000000
+# xmax            :   11.5000000
+# ymin            :   2.2400E-05
+# ymax            :   1.1910E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.2000000   1.0000000  7.2300E-05  0.0000E+00
+   7.2000000   1.0000000  1.1910E-04  0.0000E+00
+   9.4000000   1.0000000  2.3400E-05  0.0000E+00
+  11.5000000   1.0000000  2.2400E-05  0.0000E+00
+#---------------------------------------------------

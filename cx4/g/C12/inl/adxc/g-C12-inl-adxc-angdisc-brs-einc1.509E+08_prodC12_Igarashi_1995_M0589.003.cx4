@@ -1,0 +1,26 @@
+# EXFOR #         : M0589.003  
+# EXFOR Ver.      : 20260120
+# TRANS #         : M143
+# Author          : R.Igarashi et al.
+# Reference       : Phys.Rev.C 52 (1995) 755
+# DOI             : 10.1103/PhysRevC.52.755
+# Quantity        : 12C(g,inl)12C angular differential cross section
+# REACTION        : 6-C-12(G,INL)6-C-12,,DA,,BRS
+# File ID         : g-C12-inl-adxc-angdisc-brs-einc1.509E+08_prodC12_Igarashi_1995_m0589.003
+#
+# Einc (eV)       :   1.5090E+08
+#
+# npts            : 3           
+# xmin            :   20.3000000
+# xmax            :   60.4000000
+# ymin            :   2.2600E-07
+# ymax            :   4.1800E-07
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.3000000   0.0000000  4.1800E-07  9.1000E-08
+  40.7000000   0.0000000  3.1400E-07  2.9000E-08
+  60.4000000   0.0000000  2.2600E-07  1.1000E-08
+#---------------------------------------------------

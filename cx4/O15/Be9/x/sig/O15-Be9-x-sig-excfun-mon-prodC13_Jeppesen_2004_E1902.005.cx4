@@ -1,0 +1,22 @@
+# EXFOR #         : E1902.005  
+# EXFOR Ver.      : 20051025
+# TRANS #         : E033
+# Author          : H.Jeppesen et al.
+# Reference       : Nucl.Phys.A 739 No.1-2 (2004) 57
+# DOI             : 10.1016/j.nuclphysa.2004.03.145
+# Quantity        : 9Be(15O,x)13C independent production cross section
+# REACTION        : 4-BE-9(8-O-15,X)6-C-13,,SIG
+# File ID         : O15-Be9-x-sig-excfun-mon-prodC13_Jeppesen_2004_e1902.005
+#
+# npts            : 1           
+# xmin            :   8.4000E+08
+# xmax            :   8.4000E+08
+# ymin            :   5.4000E-02
+# ymax            :   5.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.4000E+08  0.0000E+00  5.4000E-02  1.4000E-02
+#---------------------------------------------------

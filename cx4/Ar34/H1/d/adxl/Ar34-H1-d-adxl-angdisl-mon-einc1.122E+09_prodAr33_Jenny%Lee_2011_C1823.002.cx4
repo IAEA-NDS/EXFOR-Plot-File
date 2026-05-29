@@ -1,0 +1,24 @@
+# EXFOR #         : C1823.002  
+# EXFOR Ver.      : 20110209
+# TRANS #         : C106
+# Author          : Jenny Lee et al.
+# Reference       : Phys.Rev.C 83 (2011) 014606
+# DOI             : 10.1103/PhysRevC.83.014606
+# Quantity        : 1H(34Ar,d)33Ar angular differential cross section
+# REACTION        : 1-H-1(18-AR-34,D)18-AR-33,,DA
+# File ID         : Ar34-H1-d-adxl-angdisl-mon-einc1.122E+09_prodAr33_Jenny%Lee_2011_c1823.002
+#
+# Einc (eV)       :   1.1220E+09
+#
+# npts            : 1           
+# xmin            :    9.0000000
+# xmax            :    9.0000000
+# ymin            :   9.0100E-03
+# ymax            :   9.0100E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.0000000   0.0000000  9.0100E-03  0.0000E+00
+#---------------------------------------------------

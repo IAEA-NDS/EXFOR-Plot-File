@@ -1,0 +1,31 @@
+# EXFOR #         : M0114.008  
+# EXFOR Ver.      : 20210404
+# TRANS #         : M111
+# Author          : V.P.Denisov et al.
+# Reference       : Izv.Ross.AN,Fiz. 37 (1973) 107
+# DOI             : N/A
+# Quantity        : 6Li(g,p)5He partial angular differential cross section
+# REACTION        : 3-LI-6(G,P)2-HE-5,PAR,DA
+# File ID         : g-Li6-p-adxl-excfun-mon-angl90_elvl0.000E+00_prodHe5_Denisov_1973_m0114.008
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 7           
+# xmin            :   1.6000E+07
+# xmax            :   2.6000E+07
+# ymin            :   7.0000E-06
+# ymax            :   5.2000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.6000E+07  0.0000E+00  7.0000E-06  3.8000E-05
+  1.7000E+07  0.0000E+00  3.0000E-05  1.5000E-05
+  1.8000E+07  0.0000E+00  4.7000E-05  1.0000E-05
+  2.0000E+07  0.0000E+00  5.2000E-05  1.1000E-05
+  2.1000E+07  0.0000E+00  3.5000E-05  1.2000E-05
+  2.4000E+07  0.0000E+00  2.1000E-05  7.0000E-06
+  2.6000E+07  0.0000E+00  2.0000E-05  1.3000E-05
+#---------------------------------------------------

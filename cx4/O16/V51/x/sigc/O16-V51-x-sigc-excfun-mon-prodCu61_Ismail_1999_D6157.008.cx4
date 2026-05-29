@@ -1,0 +1,25 @@
+# EXFOR #         : D6157.008  
+# EXFOR Ver.      : 20121022
+# TRANS #         : D086
+# Author          : M.Ismail et al.
+# Reference       : Pramana 52 No.6 (1999) 609
+# DOI             : 10.1007/BF02829867
+# Quantity        : 51V(16O,x)61Cu cumulative production cross section
+# REACTION        : 23-V-51(8-O-16,X)29-CU-61,CUM,SIG
+# File ID         : O16-V51-x-sigc-excfun-mon-prodCu61_Ismail_1999_d6157.008
+#
+# npts            : 4           
+# xmin            :   6.0020E+07
+# xmax            :   9.2000E+07
+# ymin            :   9.4300E-02
+# ymax            :   2.6700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.2000E+07  4.0000E+06  9.4300E-02  7.5000E-03
+  7.9810E+07  4.4000E+06  2.0490E-01  1.6400E-02
+  6.9010E+07  2.0000E+06  2.6700E-01  2.1400E-02
+  6.0020E+07  2.2000E+06  2.1360E-01  1.7100E-02
+#---------------------------------------------------

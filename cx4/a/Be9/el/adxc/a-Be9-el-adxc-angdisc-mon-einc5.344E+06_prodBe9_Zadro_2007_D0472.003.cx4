@@ -1,0 +1,24 @@
+# EXFOR #         : D0472.003  
+# EXFOR Ver.      : 20080711
+# TRANS #         : D062
+# Author          : M.Zadro et al.
+# Reference       : Nucl.Instrum.Meth.B 259 (2007) 836
+# DOI             : 10.1016/j.nimb.2007.02.078
+# Quantity        : 9Be(a,el)9Be angular differential cross section
+# REACTION        : 4-BE-9(A,EL)4-BE-9,,DA
+# File ID         : a-Be9-el-adxc-angdisc-mon-einc5.344E+06_prodBe9_Zadro_2007_d0472.003
+#
+# Einc (eV)       :   5.3441E+06
+#
+# npts            : 1           
+# xmin            :  175.4000000
+# xmax            :  175.4000000
+# ymin            :   4.9900E-02
+# ymax            :   4.9900E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 175.4000000   0.0000000  4.9900E-02  7.6000E-03
+#---------------------------------------------------

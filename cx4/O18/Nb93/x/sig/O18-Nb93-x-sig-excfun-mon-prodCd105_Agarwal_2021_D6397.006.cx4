@@ -1,0 +1,24 @@
+# EXFOR #         : D6397.006  
+# EXFOR Ver.      : 20210808
+# TRANS #         : D131
+# Author          : A.Agarwal et al.
+# Reference       : Phys.Rev.C 103 (2021) 034602
+# DOI             : 10.1103/PhysRevC.103.034602
+# Quantity        : 93Nb(18O,x)105Cd independent production cross section
+# REACTION        : 41-NB-93(8-O-18,X)48-CD-105,,SIG
+# File ID         : O18-Nb93-x-sig-excfun-mon-prodCd105_Agarwal_2021_d6397.006
+#
+# npts            : 3           
+# xmin            :   8.9280E+07
+# xmax            :   9.9200E+07
+# ymin            :   1.8760E-02
+# ymax            :   1.5290E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9200E+07  1.3000E+06  1.5290E-01  2.5990E-02
+  9.2190E+07  1.3000E+06  5.7030E-02  9.6900E-03
+  8.9280E+07  1.3000E+06  1.8760E-02  3.1900E-03
+#---------------------------------------------------

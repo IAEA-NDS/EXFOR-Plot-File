@@ -1,0 +1,29 @@
+# EXFOR #         : T0021.002  
+# EXFOR Ver.      : 19991109
+# TRANS #         : 0000
+# Author          : Z.Q.Mao et al.
+# Reference       : Phys.Rev.C 50 (1994) 2116
+# DOI             : 10.1103/PhysRevC.50.2116
+# Quantity        : 20Ne(t,p)22Ne partial angular differential cross section
+# REACTION        : 10-NE-20(T,P)10-NE-22,PAR,DA
+# File ID         : t-Ne20-p-adxl-angdisl-mon-einc1.500E+07_elvl1.338E+07_prodNe22_Mao_1994_t0021.002
+#
+# Einc (eV)       :   1.5000E+07
+# dEinc (eV)      :   1.0000E+04
+# Elvl (eV)       :   1.3384E+07
+#
+# npts            : 4           
+# xmin            :    8.1810000
+# xmax            :   57.3300000
+# ymin            :   9.4000E-05
+# ymax            :   1.9700E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   8.1810000   0.8000000  1.9700E-04  1.3900E-04
+  16.5140000   0.8000000  1.2500E-04  7.2000E-05
+  49.1670000   0.8000000  9.4000E-05  2.8000E-05
+  57.3300000   0.8000000  1.0000E-04  2.5000E-05
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : C0835.032  
+# EXFOR Ver.      : 20010831
+# TRANS #         : 0000
+# Author          : F.D.Becchetti et al.
+# Reference       : Nucl.Phys.A 168 (1971) 151
+# DOI             : 10.1016/0375-9474(71)90656-7
+# Quantity        : 66Zn(he3,t)66Ga partial angular differential cross section
+# REACTION        : 30-ZN-66(HE3,T)31-GA-66,PAR,DA
+# File ID         : h-Zn66-t-adxc-lvldis-mon-einc2.460E+07_angl18_prodGa66_Becchetti_1971_c0835.032
+#
+# Einc (eV)       :   2.4600E+07
+# dEinc (eV)      :   5.0000E+03
+# theta,lab (deg) :   18.0000000
+#
+# npts            : 1           
+# xmin            :   3.8550E+06
+# xmax            :   3.8550E+06
+# ymin            :   8.1000E-05
+# ymax            :   8.1000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.8550E+06  7.0000E+03  8.1000E-05  0.0000E+00
+#---------------------------------------------------

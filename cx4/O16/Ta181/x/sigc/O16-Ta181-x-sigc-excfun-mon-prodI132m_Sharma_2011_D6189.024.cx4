@@ -1,0 +1,22 @@
+# EXFOR #         : D6189.024  
+# EXFOR Ver.      : 20131124
+# TRANS #         : D091
+# Author          : Vijay R.Sharma et al.
+# Reference       : Phys.Rev.C 84 (2011) 014612
+# DOI             : 10.1103/PhysRevC.84.014612
+# Quantity        : 181Ta(16O,x)132mI cumulative production cross section
+# REACTION        : 73-TA-181(8-O-16,X)53-I-132-M,CUM,SIG
+# File ID         : O16-Ta181-x-sigc-excfun-mon-prodI132m_Sharma_2011_d6189.024
+#
+# npts            : 1           
+# xmin            :   1.0000E+08
+# xmax            :   1.0000E+08
+# ymin            :   1.6000E-03
+# ymax            :   1.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  1.6000E-03  3.8000E-04
+#---------------------------------------------------

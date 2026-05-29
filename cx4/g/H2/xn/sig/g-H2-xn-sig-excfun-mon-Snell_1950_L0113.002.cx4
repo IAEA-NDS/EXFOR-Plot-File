@@ -1,0 +1,23 @@
+# EXFOR #         : L0113.002  
+# EXFOR Ver.      : 20060406
+# TRANS #         : L009
+# Author          : A.H.Snell et al.
+# Reference       : Phys.Rev. 80 (1950) 637
+# DOI             : 10.1103/PhysRev.80.637
+# Quantity        : 2H(g,n+x) cross section
+# REACTION        : 1-H-2(G,X)0-NN-1,,SIG
+# File ID         : g-H2-xn-sig-excfun-mon-Snell_1950_l0113.002
+#
+# npts            : 2           
+# xmin            :   2.5000E+06
+# xmax            :   2.7600E+06
+# ymin            :   6.7400E-04
+# ymax            :   1.4300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7600E+06  0.0000E+00  1.4300E-03  2.0000E-04
+  2.5000E+06  0.0000E+00  6.7400E-04  4.0000E-06
+#---------------------------------------------------

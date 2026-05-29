@@ -1,0 +1,29 @@
+# EXFOR #         : C0043.003  
+# EXFOR Ver.      : 20020213
+# TRANS #         : 0000
+# Author          : M.D.Goldberg et al.
+# Reference       : Phys.Rev. 119 (1960) 1992
+# DOI             : 10.1103/PhysRev.119.1992
+# Quantity        : 2H(d,n)3He angular differential cross section
+# REACTION        : 1-H-2(D,N)2-HE-3,,DA
+# File ID         : d-H2-n-adxl-excfun-mon-angl0_prodHe3_Goldberg_1960_c0043.003
+#
+# theta,lab (deg) :    0.0000000
+# dtheta,lab (deg):    1.0000000
+#
+# npts            : 5           
+# xmin            :   3.4000E+06
+# xmax            :   1.0200E+07
+# ymin            :   5.9600E-02
+# ymax            :   1.0330E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.4000E+06  6.8000E+04  5.9600E-02  2.9800E-03
+  5.3000E+06  1.0600E+05  8.0900E-02  4.0450E-03
+  7.2000E+06  1.4400E+05  9.0100E-02  4.5050E-03
+  8.5000E+06  1.7000E+05  9.9300E-02  4.9650E-03
+  1.0200E+07  2.0400E+05  1.0330E-01  5.1650E-03
+#---------------------------------------------------

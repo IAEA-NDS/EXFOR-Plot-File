@@ -1,0 +1,25 @@
+# EXFOR #         : A0596.003  
+# EXFOR Ver.      : 20240917
+# TRANS #         : A118
+# Author          : G.K.Gubbi et al.
+# Reference       : Phys.Rev.C 53 (1996) 796
+# DOI             : 10.1103/PhysRevC.53.796
+# Quantity        : 232Th(19F,f) independent production cross section
+# REACTION        : 90-TH-232(9-F-19,F)ELEM/MASS,,SIG
+# File ID         : F19-Th232-x-sig-nucdis-mon-einc9.500E+07_Gubbi_1996_a0596.003
+#
+# Einc (eV)       :   9.5000E+07
+#
+# npts            : 2           
+# xmin            : 53130.9     
+# xmax            : 55136.9     
+# ymin            :   3.4000E-04
+# ymax            :   3.7000E-04
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     53130.9  3.4000E-04  3.0000E-05
+     55136.9  3.7000E-04  9.0000E-05
+#---------------------------------------------------

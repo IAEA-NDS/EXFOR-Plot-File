@@ -1,0 +1,25 @@
+# EXFOR #         : C2545.002  
+# EXFOR Ver.      : 20200502
+# TRANS #         : C197
+# Author          : D.Lee et al.
+# Reference       : Phys.Rev.C 27 (1983) 2656
+# DOI             : 10.1103/PhysRevC.27.2656
+# Quantity        : 248Cm(18O,x) independent production cross section
+# REACTION        : 96-CM-248(8-O-18,X)ELEM/MASS,,SIG
+# File ID         : O18-Cm248-x-sig-excfun-mon-prodEs255_Lee_1983_c2545.002
+#
+# npts            : 4           
+# xmin            :   9.7000E+07
+# xmax            :   1.2200E+08
+# ymin            :   8.0000E-08
+# ymax            :   3.1000E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.7000E+07  0.0000E+00  2.5000E-07  7.0000E-08
+  1.0400E+08  0.0000E+00  3.1000E-07  7.1300E-08
+  1.1300E+08  0.0000E+00  2.0000E-07  7.6000E-08
+  1.2200E+08  0.0000E+00  8.0000E-08  3.0400E-08
+#---------------------------------------------------

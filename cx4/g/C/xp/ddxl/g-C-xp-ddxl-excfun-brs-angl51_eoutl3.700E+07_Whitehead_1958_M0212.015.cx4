@@ -1,0 +1,29 @@
+# EXFOR #         : M0212.015  
+# EXFOR Ver.      : 20130606
+# TRANS #         : M067
+# Author          : C.Whitehead et al.
+# Reference       : Phys.Rev. 110 No.4 (1958) 941
+# DOI             : 10.1103/PhysRev.110.941
+# Quantity        : natC(g,p+x) double differential cross section
+# REACTION        : 6-C-0(G,X)1-H-1,,DA/DE,,BRS
+# File ID         : g-C-xp-ddxl-excfun-brs-angl51_eoutl3.700E+07_Whitehead_1958_m0212.015
+#
+# theta,lab (deg) :   51.0000000
+# Eout,lab (eV)   :   3.7000E+07
+#
+# npts            : 5           
+# xmin            :   4.7000E+07
+# xmax            :   9.9000E+07
+# ymin            :   8.4000E-13
+# ymax            :   4.7600E-12
+#
+#---------------------------------------------------
+# Einc        dEinc       ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  4.7000E+07  0.0000E+00  4.7600E-12  3.3000E-13
+  5.4000E+07  0.0000E+00  2.6100E-12  3.6000E-13
+  6.4000E+07  0.0000E+00  1.8700E-12  4.9000E-13
+  7.8000E+07  0.0000E+00  1.3400E-12  2.7000E-13
+  9.9000E+07  0.0000E+00  8.4000E-13  3.5000E-13
+#---------------------------------------------------

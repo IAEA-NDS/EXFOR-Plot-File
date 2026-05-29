@@ -1,0 +1,28 @@
+# EXFOR #         : C2541.006  
+# EXFOR Ver.      : 20200501
+# TRANS #         : C196
+# Author          : K.E.Williams et al.
+# Reference       : Phys.Rev.C 19 (1979) 1794
+# DOI             : 10.1103/PhysRevC.19.1794
+# Quantity        : 232Th(14N,x) independent production cross section
+# REACTION        : 90-TH-232(7-N-14,X)ELEM/MASS,,SIG
+# File ID         : N14-Th232-x-sig-nucdis-mon-einc7.700E+07_Williams_1979_c2541.006
+#
+# Einc (eV)       :   7.7000E+07
+#
+# npts            : 5           
+# xmin            : 95240.9     
+# xmax            : 97242.9     
+# ymin            :   5.5000E-08
+# ymax            :   2.0000E-04
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     95240.9  2.0000E-04  0.0000E+00
+     96240.9  5.5000E-08  0.0000E+00
+     96242.9  5.2000E-07  0.0000E+00
+     96242.9  1.0000E-06  0.0000E+00
+     97242.9  4.8000E-07  0.0000E+00
+#---------------------------------------------------

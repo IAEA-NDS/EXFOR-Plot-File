@@ -1,0 +1,28 @@
+# EXFOR #         : E2532.002  
+# EXFOR Ver.      : 20180416
+# TRANS #         : E113
+# Author          : N.Nakatsuka et al.
+# Reference       : Phys.Lett.B 768 (2017) 387
+# DOI             : 10.1016/j.physletb.2017.03.017
+# Quantity        : 20O(a,inl)20O partial cross section
+# REACTION        : 8-O-20(A,INL)8-O-20,PAR,SIG
+# File ID         : a-O20-inl-sig-lvldis-mon-einc1.104E+09_prodO20_Nakatsuka_2017_e2532.002
+#
+# Einc (eV)       :   1.1040E+09
+# dEinc (eV)      :   3.6000E+07
+#
+# npts            : 4           
+# xmin            :   4.0700E+06
+# xmax            :   6.8400E+06
+# ymin            :   7.9000E-05
+# ymax            :   3.1000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0700E+06  4.0000E+06  1.1100E-03  1.6000E-02
+  5.3600E+06  5.0000E+06  3.7600E-04  4.3000E-02
+  5.6200E+06  5.0000E+06  3.1000E-03  2.8000E-02
+  6.8400E+06  7.0000E+06  7.9000E-05  1.3000E-02
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : D0878.002  
+# EXFOR Ver.      : 20180208
+# TRANS #         : D113
+# Author          : A.Budzanowski et al.
+# Reference       : Report INP-740, 1972
+# DOI             : N/A
+# Quantity        : 24Mg(a,el)24Mg angular differential cross section
+# REACTION        : 12-MG-24(A,EL)12-MG-24,,DA
+# File ID         : a-Mg24-el-adxc-angdisc-mon-einc2.550E+07_prodMg24_Budzanowski_1972_d0878.002
+#
+# Einc (eV)       :   2.5500E+07
+# dEinc (eV)      :   5.0000E+04
+#
+# npts            : 4           
+# xmin            :  169.5700000
+# xmax            :  179.0000000
+# ymin            :   8.1970E-04
+# ymax            :   8.2400E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 169.5700000   0.0000000  8.1970E-04  3.2400E-05
+ 171.6600000   0.0000000  9.9470E-04  4.1000E-05
+ 177.9200000   0.0000000  6.2200E-03  1.6200E-04
+ 179.0000000   0.0000000  8.2400E-03  1.4000E-04
+#---------------------------------------------------

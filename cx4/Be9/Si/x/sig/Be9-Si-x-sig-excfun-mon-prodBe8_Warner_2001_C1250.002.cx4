@@ -1,0 +1,22 @@
+# EXFOR #         : C1250.002  
+# EXFOR Ver.      : 20050607
+# TRANS #         : C074
+# Author          : R.E.Warner et al.
+# Reference       : Phys.Rev.C 64 (2001) 044611
+# DOI             : 10.1103/PhysRevC.64.044611
+# Quantity        : natSi(9Be,x)8Be independent production cross section
+# REACTION        : 14-SI-0(4-BE-9,X)4-BE-8,,SIG
+# File ID         : Be9-Si-x-sig-excfun-mon-prodBe8_Warner_2001_c1250.002
+#
+# npts            : 1           
+# xmin            :   4.9950E+08
+# xmax            :   4.9950E+08
+# ymin            :   8.5000E-02
+# ymax            :   8.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9950E+08  6.7500E+07  8.5000E-02  6.0000E-03
+#---------------------------------------------------

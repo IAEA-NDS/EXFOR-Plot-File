@@ -1,0 +1,29 @@
+# EXFOR #         : M0877.005  
+# EXFOR Ver.      : 20141030
+# TRANS #         : M075
+# Author          : J.F.Dias et al.
+# Reference       : Phys.Rev.C 55 (1997) 942
+# DOI             : 10.1103/PhysRevC.55.942
+# Quantity        : 6Li(g,t)3He partial angular differential cross section
+# REACTION        : 3-LI-6(G,T)2-HE-3,PAR,DA
+# File ID         : g-Li6-t-adxl-angdisl-mon-einc7.500E+07_elvl0.000E+00_prodHe3_Dias_1997_m0877.005
+#
+# Einc (eV)       :   7.5000E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   1.6000E-07
+# ymax            :   5.2000E-07
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  2.4000E-07  3.0000E-08
+  60.0000000   0.0000000  3.3000E-07  3.0000E-08
+  90.0000000   0.0000000  5.2000E-07  3.0000E-08
+ 120.0000000   0.0000000  3.4000E-07  3.0000E-08
+ 150.0000000   0.0000000  1.6000E-07  3.0000E-08
+#---------------------------------------------------

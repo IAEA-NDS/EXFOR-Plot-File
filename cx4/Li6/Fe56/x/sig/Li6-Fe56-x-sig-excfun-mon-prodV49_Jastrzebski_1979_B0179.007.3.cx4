@@ -1,0 +1,24 @@
+# EXFOR #         : B0179.007.3
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : J.Jastrzebski et al.
+# Reference       : Phys.Rev.C 19 (1979) 724
+# DOI             : 10.1103/PhysRevC.19.724
+# Quantity        : 56Fe(6Li,x)49V independent production cross section
+# REACTION        : 26-FE-56(3-LI-6,X)23-V-49,IND,SIG,,,EXP
+# File ID         : Li6-Fe56-x-sig-excfun-mon-prodV49_Jastrzebski_1979_b0179.007.3
+#
+# npts            : 3           
+# xmin            :   8.4100E+07
+# xmax            :   9.9100E+07
+# ymin            :   1.2000E-02
+# ymax            :   2.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.4100E+07  0.0000E+00  1.2000E-02  0.0000E+00
+  9.7000E+07  0.0000E+00  2.6000E-02  0.0000E+00
+  9.9100E+07  0.0000E+00  2.5000E-02  0.0000E+00
+#---------------------------------------------------

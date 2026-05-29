@@ -1,0 +1,22 @@
+# EXFOR #         : A1085.003  
+# EXFOR Ver.      : 20220323
+# TRANS #         : A099
+# Author          : J.M.Blair et al.
+# Reference       : Phys.Rev. 96 (1954) 1023
+# DOI             : 10.1103/PhysRev.96.1023
+# Quantity        : 3He(d,g)5Li cross section
+# REACTION        : 2-HE-3(D,G)3-LI-5,,SIG
+# File ID         : d-He3-g-sig-excfun-mon-prodLi5_Blair_1954_a1085.003
+#
+# npts            : 1           
+# xmin            :   4.5000E+05
+# xmax            :   4.5000E+05
+# ymin            :   5.0000E-05
+# ymax            :   5.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+05  0.0000E+00  5.0000E-05  1.0000E-05
+#---------------------------------------------------

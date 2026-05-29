@@ -1,0 +1,26 @@
+# EXFOR #         : E1923.017  
+# EXFOR Ver.      : 20060411
+# TRANS #         : E036
+# Author          : H.Yashima et al.
+# Reference       : Nucl.Instrum.Meth.B 226 (2004) 243
+# DOI             : 10.1016/j.nimb.2004.06.025
+# Quantity        : 27Al(12C,x) cumulative production cross section
+# REACTION        : 13-AL-27(6-C-12,X)ELEM/MASS,CUM,SIG
+# File ID         : C12-Al27-x-sigc-nucdis-mon-einc4.800E+09_Yashima_2004_e1923.017
+#
+# Einc (eV)       :   4.8000E+09
+#
+# npts            : 3           
+# xmin            : 11022.9     
+# xmax            : 12027.9     
+# ymin            :   1.4100E-02
+# ymax            :   4.3300E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     11022.9  1.4100E-02  5.0000E-04
+     11024.9  4.3300E-02  1.0000E-03
+     12027.9  2.5900E-02  1.0000E-03
+#---------------------------------------------------

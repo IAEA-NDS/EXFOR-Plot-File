@@ -1,0 +1,26 @@
+# EXFOR #         : C0978.003  
+# EXFOR Ver.      : 20040902
+# TRANS #         : 0000
+# Author          : B.Braizinha et al.
+# Reference       : Phys.Rev.C 69 (2004) 024608
+# DOI             : 10.1103/PhysRevC.69.024608
+# Quantity        : 3He(d,p)4He angular differential cross section
+# REACTION        : 2-HE-3(D,P)2-HE-4,,DA
+# File ID         : d-He3-p-adxl-excfun-mon-angl0_prodHe4_Braizinha_2004_c0978.003
+#
+# theta,lab (deg) :    0.0000000
+#
+# npts            : 3           
+# xmin            :   5.2000E+05
+# xmax            :   1.4900E+06
+# ymin            :   1.8800E-02
+# ymax            :   5.4900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.2000E+05  0.0000E+00  5.4900E-02  7.0000E-04
+  8.9000E+05  0.0000E+00  3.1900E-02  4.0000E-04
+  1.4900E+06  0.0000E+00  1.8800E-02  4.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : O2549.002  
+# EXFOR Ver.      : 20220308
+# TRANS #         : O089
+# Author          : M.Spieker et al.
+# Reference       : Phys.Rev.Lett. 125 (2020) 102503
+# DOI             : 10.1103/PhysRevLett.125.102503
+# Quantity        : 207Pb(d,p)208Pb partial angular differential cross section
+# REACTION        : 82-PB-207(D,P)82-PB-208,PAR,DA
+# File ID         : d-Pb207-p-adxl-angdisl-mon-einc2.200E+07_elvl7.636E+06_prodPb208_Spieker_2020_o2549.002
+#
+# Einc (eV)       :   2.2000E+07
+# Elvl (eV)       :   7.6360E+06
+#
+# npts            : 3           
+# xmin            :   20.0000000
+# xmax            :   30.0000000
+# ymin            :   1.1000E-05
+# ymax            :   1.7000E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.0000000   1.6000000  1.1000E-05  2.0000E-06
+  25.0000000   1.6000000  1.7000E-05  2.0000E-06
+  30.0000000   1.6000000  1.7000E-05  2.0000E-06
+#---------------------------------------------------

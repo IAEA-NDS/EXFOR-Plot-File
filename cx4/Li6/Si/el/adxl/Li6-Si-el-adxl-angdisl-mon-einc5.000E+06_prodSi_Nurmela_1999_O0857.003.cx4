@@ -1,0 +1,25 @@
+# EXFOR #         : O0857.003  
+# EXFOR Ver.      : 20030501
+# TRANS #         : 0000
+# Author          : A.Nurmela et al.
+# Reference       : Nucl.Instrum.Meth.B 155 (1999) 211
+# DOI             : 10.1016/S0168-583X(99)00462-0
+# Quantity        : natSi(6Li,el)natSi angular differential cross section
+# REACTION        : 14-SI-0(3-LI-6,EL)14-SI-0,,DA,,RTH
+# File ID         : Li6-Si-el-adxl-angdisl-mon-einc5.000E+06_prodSi_Nurmela_1999_o0857.003
+#
+# Einc (eV)       :   5.0000E+06
+#
+# npts            : 2           
+# xmin            :  140.0000000
+# xmax            :  170.0000000
+# ymin            :   8.4619E-02
+# ymax            :   1.1002E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 140.0000000   0.0000000  1.1002E-01  0.0000E+00
+ 170.0000000   0.0000000  8.4619E-02  0.0000E+00
+#---------------------------------------------------

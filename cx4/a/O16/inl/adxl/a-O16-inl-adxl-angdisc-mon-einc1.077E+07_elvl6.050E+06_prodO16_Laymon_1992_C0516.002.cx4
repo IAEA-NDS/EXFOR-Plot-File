@@ -1,0 +1,25 @@
+# EXFOR #         : C0516.002  
+# EXFOR Ver.      : 19990420
+# TRANS #         : 0000
+# Author          : C.M.Laymon et al.
+# Reference       : Phys.Rev.C 45 (1992) 576
+# DOI             : 10.1103/PhysRevC.45.576
+# Quantity        : 16O(a,inl)16O partial angular differential cross section
+# REACTION        : 8-O-16(A,INL)8-O-16,PAR,DA
+# File ID         : a-O16-inl-adxl-angdisc-mon-einc1.077E+07_elvl6.050E+06_prodO16_Laymon_1992_c0516.002
+#
+# Einc (eV)       :   1.0770E+07
+# Elvl (eV)       :   6.0500E+06
+#
+# npts            : 1           
+# xmin            :   25.4200000
+# xmax            :   25.4200000
+# ymin            :   2.9500E-04
+# ymax            :   2.9500E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  25.4200000   0.0000000  2.9500E-04  5.0000E-05
+#---------------------------------------------------

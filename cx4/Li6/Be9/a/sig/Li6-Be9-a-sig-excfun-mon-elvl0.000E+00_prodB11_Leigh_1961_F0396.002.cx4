@@ -1,0 +1,26 @@
+# EXFOR #         : F0396.002  
+# EXFOR Ver.      : 20220603
+# TRANS #         : F091
+# Author          : J.J.Leigh et al.
+# Reference       : Phys.Rev. 121 (1961) 246
+# DOI             : 10.1103/PhysRev.121.246
+# Quantity        : 9Be(6Li,a)11B partial cross section
+# REACTION        : 4-BE-9(3-LI-6,A)5-B-11,PAR,SIG
+# File ID         : Li6-Be9-a-sig-excfun-mon-elvl0.000E+00_prodB11_Leigh_1961_f0396.002
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :   3.0000E+06
+# xmax            :   3.5000E+06
+# ymin            :   4.9000E-04
+# ymax            :   9.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  0.0000E+00  4.9000E-04  1.9600E-04
+  3.2500E+06  0.0000E+00  7.0000E-04  2.8000E-04
+  3.5000E+06  0.0000E+00  9.7000E-04  3.8800E-04
+#---------------------------------------------------

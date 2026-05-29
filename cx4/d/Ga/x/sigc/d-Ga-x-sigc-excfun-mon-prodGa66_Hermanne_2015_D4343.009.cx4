@@ -1,0 +1,26 @@
+# EXFOR #         : D4343.009  
+# EXFOR Ver.      : 20150312
+# TRANS #         : D106
+# Author          : A.Hermanne et al.
+# Reference       : Nucl.Instrum.Meth.B 359 (2015) 145
+# DOI             : 10.1016/j.nimb.2015.07.008
+# Quantity        : natGa(d,x)66Ga cumulative production cross section
+# REACTION        : 31-GA-0(D,X)31-GA-66,CUM,SIG
+# File ID         : d-Ga-x-sigc-excfun-mon-prodGa66_Hermanne_2015_d4343.009
+#
+# npts            : 5           
+# xmin            :   4.1700E+07
+# xmax            :   4.9500E+07
+# ymin            :   1.4000E-03
+# ymax            :   3.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9500E+07  2.0000E+05  3.7000E-02  6.0000E-03
+  4.7600E+07  2.0000E+05  2.3000E-02  4.0000E-03
+  4.5700E+07  3.0000E+05  1.4000E-02  2.0000E-03
+  4.3700E+07  3.0000E+05  6.4000E-03  1.0000E-03
+  4.1700E+07  4.0000E+05  1.4000E-03  3.0000E-04
+#---------------------------------------------------

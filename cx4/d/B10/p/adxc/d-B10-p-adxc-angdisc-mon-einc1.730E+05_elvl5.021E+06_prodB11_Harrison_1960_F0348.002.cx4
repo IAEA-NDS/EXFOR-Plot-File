@@ -1,0 +1,27 @@
+# EXFOR #         : F0348.002  
+# EXFOR Ver.      : 20210726
+# TRANS #         : F086
+# Author          : G.R.Harrison et al.
+# Reference       : Phys.Rev. 117 (1960) 532
+# DOI             : 10.1103/PhysRev.117.532
+# Quantity        : 10B(d,p)11B partial angular differential cross section
+# REACTION        : 5-B-10(D,P)5-B-11,PAR,DA
+# File ID         : d-B10-p-adxc-angdisc-mon-einc1.730E+05_elvl5.021E+06_prodB11_Harrison_1960_f0348.002
+#
+# Einc (eV)       :   1.7300E+05
+# Elvl (eV)       :   5.0210E+06
+#
+# npts            : 3           
+# xmin            :    0.1000000
+# xmax            :  140.9000000
+# ymin            :   2.2100E-07
+# ymax            :   2.9670E-07
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.1000000   0.0000000  2.2100E-07  1.0530E-08
+  91.6000000   0.0000000  2.2910E-07  5.3550E-09
+ 140.9000000   0.0000000  2.9670E-07  5.5670E-09
+#---------------------------------------------------

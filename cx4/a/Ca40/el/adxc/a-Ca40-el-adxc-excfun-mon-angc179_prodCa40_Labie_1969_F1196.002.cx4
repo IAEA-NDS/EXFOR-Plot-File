@@ -1,0 +1,24 @@
+# EXFOR #         : F1196.002  
+# EXFOR Ver.      : 20130924
+# TRANS #         : F052
+# Author          : E.Labie et al.
+# Reference       : Nucl.Phys.A 135 (1969) 145
+# DOI             : 10.1016/0375-9474(69)90153-5
+# Quantity        : 40Ca(a,el)40Ca angular differential cross section
+# REACTION        : 20-CA-40(A,EL)20-CA-40,,DA
+# File ID         : a-Ca40-el-adxc-excfun-mon-angc179_prodCa40_Labie_1969_f1196.002
+#
+# theta,cm (deg)  :  179.0000000
+#
+# npts            : 1           
+# xmin            :   2.3059E+07
+# xmax            :   2.3059E+07
+# ymin            :   8.5561E-03
+# ymax            :   8.5561E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.3059E+07  1.8000E+05  8.5561E-03  7.2940E-04
+#---------------------------------------------------

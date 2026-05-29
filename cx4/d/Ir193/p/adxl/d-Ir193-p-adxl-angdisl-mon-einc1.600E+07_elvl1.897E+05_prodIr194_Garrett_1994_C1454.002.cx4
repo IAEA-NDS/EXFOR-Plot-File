@@ -1,0 +1,29 @@
+# EXFOR #         : C1454.002  
+# EXFOR Ver.      : 20060727
+# TRANS #         : C078
+# Author          : P.E.Garrett et al.
+# Reference       : Nucl.Phys.A 579 (1994) 103
+# DOI             : 10.1016/0375-9474(94)90796-X
+# Quantity        : 193Ir(d,p)194Ir partial angular differential cross section
+# REACTION        : 77-IR-193(D,P)77-IR-194,PAR,DA
+# File ID         : d-Ir193-p-adxl-angdisl-mon-einc1.600E+07_elvl1.897E+05_prodIr194_Garrett_1994_c1454.002
+#
+# Einc (eV)       :   1.6000E+07
+# Elvl (eV)       :   1.8970E+05
+#
+# npts            : 5           
+# xmin            :    8.4010000
+# xmax            :   70.0700000
+# ymin            :   9.2540E-06
+# ymax            :   1.7380E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   8.4010000   0.0000000  9.2540E-06  4.3740E-06
+  10.2500000   0.0000000  9.7130E-06  4.2310E-06
+  22.8800000   0.0000000  1.7380E-05  3.4740E-06
+  40.1500000   0.0000000  1.5620E-05  3.4800E-06
+  70.0700000   0.0000000  1.2380E-05  2.6640E-06
+#---------------------------------------------------

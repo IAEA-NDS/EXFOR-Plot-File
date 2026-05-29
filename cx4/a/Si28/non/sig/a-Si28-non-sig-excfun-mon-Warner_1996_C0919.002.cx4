@@ -1,0 +1,23 @@
+# EXFOR #         : C0919.002  
+# EXFOR Ver.      : 20091001
+# TRANS #         : C097
+# Author          : R.E.Warner et al.
+# Reference       : Phys.Rev.C 54 (1996) 1700
+# DOI             : 10.1103/PhysRevC.54.1700
+# Quantity        : 28Si(a,non) cross section
+# REACTION        : 14-SI-28(A,NON),,SIG
+# File ID         : a-Si28-non-sig-excfun-mon-Warner_1996_c0919.002
+#
+# npts            : 2           
+# xmin            :   1.4840E+08
+# xmax            :   2.0120E+08
+# ymin            :   9.9000E-01
+# ymax            :   1.0800E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4840E+08  2.9600E+07  1.0800E+00  0.0000E+00
+  2.0120E+08  2.3200E+07  9.9000E-01  0.0000E+00
+#---------------------------------------------------

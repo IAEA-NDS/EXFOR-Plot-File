@@ -1,0 +1,22 @@
+# EXFOR #         : O2329.002  
+# EXFOR Ver.      : 20191223
+# TRANS #         : O073
+# Author          : S.M.Polikanov et al.
+# Reference       : Nucl.Phys.A 151 (1970) 656
+# DOI             : 10.1016/0375-9474(70)90403-3
+# Quantity        : 238U(d,x)238lU independent production cross section
+# REACTION        : 92-U-238(D,X)92-U-238-L,,SIG
+# File ID         : d-U238-x-sig-excfun-mon-prodU238l_Polikanov_1970_o2329.002
+#
+# npts            : 1           
+# xmin            :   1.3000E+07
+# xmax            :   1.3000E+07
+# ymin            :   4.0000E-07
+# ymax            :   4.0000E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+07  0.0000E+00  4.0000E-07  2.0000E-07
+#---------------------------------------------------

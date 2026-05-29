@@ -1,0 +1,24 @@
+# EXFOR #         : T0196.019  
+# EXFOR Ver.      : 20020104
+# TRANS #         : 0000
+# Author          : C.M.Castaneda et al.
+# Reference       : Phys.Rev.C 16 (1977) 1437
+# DOI             : 10.1103/PhysRevC.16.1437
+# Quantity        : 106Pd(6Li,6n)106gIn cumulative production cross section
+# REACTION        : 46-PD-106(3-LI-6,6N)49-IN-106-G,M+,SIG
+# File ID         : Li6-Pd106-x-sigc-excfun-mon-prodIn106g_Castaneda_1977_t0196.019
+#
+# npts            : 3           
+# xmin            :   6.6000E+07
+# xmax            :   9.1000E+07
+# ymin            :   1.9000E-02
+# ymax            :   4.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+07  0.0000E+00  4.5000E-02  1.1250E-02
+  7.7000E+07  0.0000E+00  3.1000E-02  7.7500E-03
+  9.1000E+07  0.0000E+00  1.9000E-02  4.7500E-03
+#---------------------------------------------------

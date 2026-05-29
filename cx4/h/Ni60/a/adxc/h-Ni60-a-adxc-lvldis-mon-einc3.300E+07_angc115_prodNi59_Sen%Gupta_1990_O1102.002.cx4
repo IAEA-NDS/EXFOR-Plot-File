@@ -1,0 +1,26 @@
+# EXFOR #         : O1102.002  
+# EXFOR Ver.      : 20040326
+# TRANS #         : 0000
+# Author          : H.M.Sen Gupta et al.
+# Reference       : J.Phys.G 16 (1990) 1039
+# DOI             : 10.1088/0954-3899/16/7/015
+# Quantity        : 60Ni(he3,a)59Ni partial angular differential cross section
+# REACTION        : 28-NI-60(HE3,A)28-NI-59,PAR,DA
+# File ID         : h-Ni60-a-adxc-lvldis-mon-einc3.300E+07_angc115_prodNi59_Sen%Gupta_1990_o1102.002
+#
+# Einc (eV)       :   3.3000E+07
+# dEinc (eV)      :   3.0000E+04
+# theta,cm (deg)  :  115.1200000
+#
+# npts            : 1           
+# xmin            :   2.6270E+06
+# xmax            :   2.6270E+06
+# ymin            :   1.2700E-06
+# ymax            :   1.2700E-06
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.6270E+06  0.0000E+00  1.2700E-06  1.2700E-07
+#---------------------------------------------------

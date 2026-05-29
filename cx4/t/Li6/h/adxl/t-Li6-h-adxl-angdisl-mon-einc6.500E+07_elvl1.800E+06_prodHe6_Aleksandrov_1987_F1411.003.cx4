@@ -1,0 +1,28 @@
+# EXFOR #         : F1411.003  
+# EXFOR Ver.      : 20200131
+# TRANS #         : F075
+# Author          : D.V.Aleksandrov et al.
+# Reference       : Yad.Fiz. 46 (1987) 385
+# DOI             : N/A
+# Quantity        : 6Li(t,he3)6He partial angular differential cross section
+# REACTION        : 3-LI-6(T,HE3)2-HE-6,PAR,DA
+# File ID         : t-Li6-h-adxl-angdisl-mon-einc6.500E+07_elvl1.800E+06_prodHe6_Aleksandrov_1987_f1411.003
+#
+# Einc (eV)       :   6.5000E+07
+# Elvl (eV)       :   1.8000E+06
+#
+# npts            : 4           
+# xmin            :   17.5060000
+# xmax            :   43.0300000
+# ymin            :   9.3490E-04
+# ymax            :   2.9629E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  17.5060000   0.0000000  2.9629E-03  0.0000E+00
+  21.8840000   0.0000000  2.7759E-03  0.0000E+00
+  32.2640000   0.0000000  1.3681E-03  0.0000E+00
+  43.0300000   0.0000000  9.3490E-04  0.0000E+00
+#---------------------------------------------------

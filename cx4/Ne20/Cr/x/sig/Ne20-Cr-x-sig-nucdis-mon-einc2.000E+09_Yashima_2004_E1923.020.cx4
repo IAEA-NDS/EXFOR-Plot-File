@@ -1,0 +1,29 @@
+# EXFOR #         : E1923.020  
+# EXFOR Ver.      : 20140916
+# TRANS #         : E092
+# Author          : H.Yashima et al.
+# Reference       : Nucl.Instrum.Meth.B 226 (2004) 243
+# DOI             : 10.1016/j.nimb.2004.06.025
+# Quantity        : natCr(20Ne,x) independent production cross section
+# REACTION        : 24-CR-0(10-NE-20,X)ELEM/MASS,IND,SIG
+# File ID         : Ne20-Cr-x-sig-nucdis-mon-einc2.000E+09_Yashima_2004_e1923.020
+#
+# Einc (eV)       :   2.0000E+09
+#
+# npts            : 6           
+# xmin            : 19042.9     
+# xmax            : 21048.9     
+# ymin            :   7.5600E-04
+# ymax            :   9.1600E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     19042.9  4.3200E-03  4.2000E-04
+     21044.0  9.1600E-03  7.3000E-04
+     21044.1  8.7400E-03  6.9000E-04
+     21046.0  8.7800E-03  6.9000E-04
+     21047.9  4.3200E-03  3.3000E-04
+     21048.9  7.5600E-04  7.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : A0559.002  
+# EXFOR Ver.      : 20190626
+# TRANS #         : A091
+# Author          : Yu.Ts.Oganessian et al.
+# Reference       : Proceedings of Conf.Nucl.Spectrosc.Nucl.Struct.,St.Petersburg 1995 page 222
+# DOI             : N/A
+# Quantity        : 176Yb(a,x)175Yb cumulative production cross section
+# REACTION        : 70-YB-176(A,X)70-YB-175,(CUM),SIG
+# File ID         : a-Yb176-x-sigc-excfun-mon-prodYb175_Oganessian_1995_a0559.002
+#
+# npts            : 1           
+# xmin            :   3.2000E+07
+# xmax            :   3.2000E+07
+# ymin            :   1.1000E-02
+# ymax            :   1.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2000E+07  4.0000E+06  1.1000E-02  1.0000E-03
+#---------------------------------------------------

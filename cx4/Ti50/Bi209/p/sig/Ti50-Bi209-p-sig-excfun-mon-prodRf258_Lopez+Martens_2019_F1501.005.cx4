@@ -1,0 +1,24 @@
+# EXFOR #         : F1501.005  
+# EXFOR Ver.      : 20240408
+# TRANS #         : F099
+# Author          : A.Lopez-Martens et al.
+# Reference       : Phys.Lett.B 795 (2019) 271
+# DOI             : 10.1016/j.physletb.2019.06.010
+# Quantity        : 209Bi(50Ti,p)258Rf cross section
+# REACTION        : 83-BI-209(22-TI-50,P)104-RF-258,,SIG
+# File ID         : Ti50-Bi209-p-sig-excfun-mon-prodRf258_Lopez+Martens_2019_f1501.005
+#
+# npts            : 3           
+# xmin            :   2.3790E+08
+# xmax            :   2.5840E+08
+# ymin            :   5.8800E-12
+# ymax            :   4.7000E-11
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3790E+08  3.0000E+06  4.7000E-11  0.0000E+00
+  2.4850E+08  3.0000E+06  2.7000E-11  0.0000E+00
+  2.5840E+08  3.0000E+06  5.8800E-12  0.0000E+00
+#---------------------------------------------------

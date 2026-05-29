@@ -1,0 +1,23 @@
+# EXFOR #         : A0222.006.M
+# EXFOR Ver.      : 20160708
+# TRANS #         : A085
+# Author          : C.Necheva et al.
+# Reference       : Appl.Radiat.Isot. 48 (1997) 807
+# DOI             : 10.1016/S0969-8043(96)00277-1
+# Quantity        : 197Au(a,x)197mHg independent production cross section
+# REACTION        : 79-AU-197(A,X)80-HG-197-M,,SIG
+# File ID         : a-Au197-x-sig-excfun-mon-prodHg197m_Necheva_1997_a0222.006.m
+#
+# npts            : 2           
+# xmin            :   3.3400E+07
+# xmax            :   3.5900E+07
+# ymin            :   1.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5900E+07  0.0000E+00  5.0000E-04  1.0000E-04
+  3.3400E+07  0.0000E+00  1.0000E-04  2.0000E-05
+#---------------------------------------------------

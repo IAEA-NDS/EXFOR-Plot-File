@@ -1,0 +1,23 @@
+# EXFOR #         : B0170.003  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : R.G.Stokstad et al.
+# Reference       : Phys.Rev.C 16 (1977) 2249
+# DOI             : 10.1103/PhysRevC.16.2249
+# Quantity        : 12C(14N,x)7Li independent production cross section
+# REACTION        : 6-C-12(7-N-14,X)3-LI-7,IND,SIG,,,EXP
+# File ID         : N14-C12-x-sig-excfun-mon-prodLi7_Stokstad_1977_b0170.003
+#
+# npts            : 2           
+# xmin            :   8.6900E+07
+# xmax            :   1.5740E+08
+# ymin            :   4.3000E-03
+# ymax            :   3.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.6900E+07  0.0000E+00  4.3000E-03  5.0000E-04
+  1.5740E+08  0.0000E+00  3.8000E-02  5.0000E-03
+#---------------------------------------------------

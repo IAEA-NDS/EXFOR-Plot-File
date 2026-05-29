@@ -1,0 +1,22 @@
+# EXFOR #         : E2620.006  
+# EXFOR Ver.      : 20220621
+# TRANS #         : E135
+# Author          : K.Wimmer et al.
+# Reference       : Phys.Lett.B 785 (2018) 441
+# DOI             : 10.1016/j.physletb.2018.07.067
+# Quantity        : 9Be(72Kr,x)70Kr independent production cross section
+# REACTION        : 4-BE-9(36-KR-72,X)36-KR-70,,SIG
+# File ID         : Kr72-Be9-x-sig-excfun-mon-prodKr70_Wimmer_2018_e2620.006
+#
+# npts            : 1           
+# xmin            :   1.0080E+10
+# xmax            :   1.0080E+10
+# ymin            :   5.9000E-04
+# ymax            :   5.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0080E+10  0.0000E+00  5.9000E-04  7.0000E-05
+#---------------------------------------------------

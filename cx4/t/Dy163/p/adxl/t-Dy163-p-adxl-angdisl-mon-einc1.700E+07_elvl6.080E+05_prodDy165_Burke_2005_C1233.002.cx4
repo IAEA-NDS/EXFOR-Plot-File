@@ -1,0 +1,26 @@
+# EXFOR #         : C1233.002  
+# EXFOR Ver.      : 20200508
+# TRANS #         : C193
+# Author          : D.G.Burke et al.
+# Reference       : Nucl.Phys.A 750 (2005) 185
+# DOI             : 10.1016/j.nuclphysa.2004.12.066
+# Quantity        : 163Dy(t,p)165Dy partial angular differential cross section
+# REACTION        : 66-DY-163(T,P)66-DY-165,PAR,DA
+# File ID         : t-Dy163-p-adxl-angdisl-mon-einc1.700E+07_elvl6.080E+05_prodDy165_Burke_2005_c1233.002
+#
+# Einc (eV)       :   1.7000E+07
+# Elvl (eV)       :   6.0800E+05
+# dElvl (eV)      :   1.0000E+03
+#
+# npts            : 1           
+# xmin            :   30.0000000
+# xmax            :   30.0000000
+# ymin            :   1.1000E-05
+# ymax            :   1.1000E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  1.1000E-05  1.0000E-06
+#---------------------------------------------------

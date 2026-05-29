@@ -1,0 +1,25 @@
+# EXFOR #         : F1510.002  
+# EXFOR Ver.      : 20240423
+# TRANS #         : F099
+# Author          : A.A.Bezbakh et al.
+# Reference       : Phys.Rev.Lett. 124 (2020) 022502
+# DOI             : 10.1103/PhysRevLett.124.022502
+# Quantity        : 2H(8He,he3)7H partial angular differential cross section
+# REACTION        : 1-H-2(2-HE-8,HE3)1-H-7,PAR,DA
+# File ID         : He8-H2-h-adxc-angdisc-mon-einc2.080E+08_elvl0.000E+00_prodH7_Bezbakh_2020_f1510.002
+#
+# Einc (eV)       :   2.0800E+08
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   22.0000000
+# xmax            :   22.0000000
+# ymin            :   2.5000E-05
+# ymax            :   2.5000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  22.0000000   5.0000000  2.5000E-05  0.0000E+00
+#---------------------------------------------------

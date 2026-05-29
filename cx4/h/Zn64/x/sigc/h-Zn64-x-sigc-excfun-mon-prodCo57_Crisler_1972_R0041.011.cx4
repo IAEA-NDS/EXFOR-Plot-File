@@ -1,0 +1,23 @@
+# EXFOR #         : R0041.011  
+# EXFOR Ver.      : 20241119
+# TRANS #         : R031
+# Author          : D.F.Crisler et al.
+# Reference       : Phys.Rev.C 5 (1972) 419
+# DOI             : 10.1103/PhysRevC.5.419
+# Quantity        : 64Zn(he3,x)57Co cumulative production cross section
+# REACTION        : 30-ZN-64(HE3,X)27-CO-57,(CUM),SIG
+# File ID         : h-Zn64-x-sigc-excfun-mon-prodCo57_Crisler_1972_r0041.011
+#
+# npts            : 2           
+# xmin            :   3.7000E+07
+# xmax            :   4.2800E+07
+# ymin            :   3.3600E-03
+# ymax            :   1.3200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+07  0.0000E+00  3.3600E-03  3.9000E-04
+  4.2800E+07  0.0000E+00  1.3200E-02  1.4000E-03
+#---------------------------------------------------

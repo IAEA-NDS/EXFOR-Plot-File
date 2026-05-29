@@ -1,0 +1,27 @@
+# EXFOR #         : O1626.002  
+# EXFOR Ver.      : 20160719
+# TRANS #         : O058
+# Author          : K.W.Potthast et al.
+# Reference       : Nucl.Phys.A 614 (1997) 95
+# DOI             : 10.1016/S0375-9474(96)00445-9
+# Quantity        : 6Li(6Li,el)6Li angular differential cross section
+# REACTION        : 3-LI-6(3-LI-6,EL)3-LI-6,,DA
+# File ID         : Li6-Li6-el-adxc-angdisc-mon-einc5.000E+06_prodLi6_Potthast_1997_o1626.002
+#
+# Einc (eV)       :   5.0000E+06
+#
+# npts            : 4           
+# xmin            :   59.3000000
+# xmax            :   89.5000000
+# ymin            :   6.9000E-02
+# ymax            :   1.2700E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  59.3000000   0.0000000  1.2700E-01  0.0000E+00
+  69.4000000   0.0000000  8.6000E-02  0.0000E+00
+  79.8000000   0.0000000  7.5000E-02  0.0000E+00
+  89.5000000   0.0000000  6.9000E-02  0.0000E+00
+#---------------------------------------------------

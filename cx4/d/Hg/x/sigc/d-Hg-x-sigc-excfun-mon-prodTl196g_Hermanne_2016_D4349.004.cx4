@@ -1,0 +1,26 @@
+# EXFOR #         : D4349.004  
+# EXFOR Ver.      : 20160517
+# TRANS #         : D105
+# Author          : A.Hermanne et al.
+# Reference       : J.Rad.Nucl.Chem. 308 (2016) 221
+# DOI             : 10.1007/s10967-015-4322-z
+# Quantity        : natHg(d,x)196gTl cumulative production cross section
+# REACTION        : 80-HG-0(D,X)81-TL-196-G,M+,SIG
+# File ID         : d-Hg-x-sigc-excfun-mon-prodTl196g_Hermanne_2016_d4349.004
+#
+# npts            : 5           
+# xmin            :   4.2000E+07
+# xmax            :   4.9700E+07
+# ymin            :   1.6000E-03
+# ymax            :   1.6300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.2000E+07  4.0000E+05  1.6000E-03  3.0000E-04
+  4.3800E+07  3.0000E+05  4.1000E-03  7.0000E-04
+  4.5700E+07  3.0000E+05  7.6000E-02  1.1000E-02
+  4.7400E+07  2.0000E+05  1.6300E-01  2.4000E-02
+  4.9700E+07  2.0000E+05  1.4000E-01  2.1000E-02
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : C1233.003  
+# EXFOR Ver.      : 20200508
+# TRANS #         : C193
+# Author          : D.G.Burke et al.
+# Reference       : Nucl.Phys.A 750 (2005) 185
+# DOI             : 10.1016/j.nuclphysa.2004.12.066
+# Quantity        : 177Hf(t,p)179Hf partial angular differential cross section
+# REACTION        : 72-HF-177(T,P)72-HF-179,PAR,DA
+# File ID         : t-Hf177-p-adxl-angdisl-mon-einc1.700E+07_elvl4.870E+05_prodHf179_Burke_2005_c1233.003
+#
+# Einc (eV)       :   1.7000E+07
+# Elvl (eV)       :   4.8700E+05
+# dElvl (eV)      :   1.0000E+03
+#
+# npts            : 1           
+# xmin            :   30.0000000
+# xmax            :   30.0000000
+# ymin            :   8.0000E-06
+# ymax            :   8.0000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  8.0000E-06  1.0000E-06
+#---------------------------------------------------

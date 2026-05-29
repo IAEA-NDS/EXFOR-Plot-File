@@ -1,0 +1,25 @@
+# EXFOR #         : E2239.027  
+# EXFOR Ver.      : 20160520
+# TRANS #         : E103
+# Author          : T.Yamazaki et al.
+# Reference       : J.Phys.Soc.Jpn. 18 (1963) 620
+# DOI             : 10.1143/JPSJ.18.620
+# Quantity        : 55Mn(a,p)58Fe partial cross section
+# REACTION        : 25-MN-55(A,P)26-FE-58,PAR,SIG
+# File ID         : a-Mn55-p-sig-lvldis-mon-einc2.230E+07_prodFe58_Yamazaki_1963_e2239.027
+#
+# Einc (eV)       :   2.2300E+07
+#
+# npts            : 2           
+# xmin            :   8.1000E+05
+# xmax            :   1.9300E+06
+# ymin            :   7.0000E-05
+# ymax            :   1.2000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.1000E+05  0.0000E+00  7.0000E-05  0.0000E+00
+  1.9300E+06  2.7000E+05  1.2000E-04  0.0000E+00
+#---------------------------------------------------

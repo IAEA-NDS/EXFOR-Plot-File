@@ -1,0 +1,27 @@
+# EXFOR #         : C2271.002  
+# EXFOR Ver.      : 20170918
+# TRANS #         : C170
+# Author          : E.F.Aguilera et al.
+# Reference       : Phys.Rev.C 96 (2017) 024616
+# DOI             : 10.1103/PhysRevC.96.024616
+# Quantity        : 58Ni(6Li,p+x) angular differential cross section
+# REACTION        : 28-NI-58(3-LI-6,X)1-H-1,,DA
+# File ID         : Li6-Ni58-xp-adxl-angdisl-mon-einc1.214E+07_Aguilera_2017_c2271.002
+#
+# Einc (eV)       :   1.2143E+07
+#
+# npts            : 4           
+# xmin            :  114.2400000
+# xmax            :  159.3100000
+# ymin            :   4.4600E-03
+# ymax            :   4.6200E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 114.2400000   0.0000000  4.4900E-03  7.5000E-04
+ 129.3900000   0.0000000  4.4600E-03  7.8000E-04
+ 144.1600000   0.0000000  4.6100E-03  7.5000E-04
+ 159.3100000   0.0000000  4.6200E-03  8.2000E-04
+#---------------------------------------------------

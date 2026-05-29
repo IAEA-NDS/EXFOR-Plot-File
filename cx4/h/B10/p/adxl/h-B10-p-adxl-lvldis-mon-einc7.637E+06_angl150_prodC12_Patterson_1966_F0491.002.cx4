@@ -1,0 +1,26 @@
+# EXFOR #         : F0491.002  
+# EXFOR Ver.      : 20010201
+# TRANS #         : 0000
+# Author          : J.R.Patterson et al.
+# Reference       : Proc.Phys.Soc.(UK) 88 (1966) 641
+# DOI             : 10.1088/0370-1328/88/3/312
+# Quantity        : 10B(he3,p)12C partial angular differential cross section
+# REACTION        : 5-B-10(HE3,P)6-C-12,PAR,DA
+# File ID         : h-B10-p-adxl-lvldis-mon-einc7.637E+06_angl150_prodC12_Patterson_1966_f0491.002
+#
+# Einc (eV)       :   7.6370E+06
+# dEinc (eV)      :   5.0000E+04
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 1           
+# xmin            :   9.6400E+06
+# xmax            :   9.6400E+06
+# ymin            :   3.9340E-04
+# ymax            :   3.9340E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.6400E+06  0.0000E+00  3.9340E-04  5.9010E-05
+#---------------------------------------------------

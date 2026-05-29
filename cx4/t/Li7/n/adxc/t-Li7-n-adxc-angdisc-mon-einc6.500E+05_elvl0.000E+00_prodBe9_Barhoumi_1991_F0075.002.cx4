@@ -1,0 +1,29 @@
+# EXFOR #         : F0075.002  
+# EXFOR Ver.      : 20200428
+# TRANS #         : F076
+# Author          : S.Barhoumi et al.
+# Reference       : Nucl.Phys.A 535 (1991) 107
+# DOI             : 10.1016/0375-9474(91)90518-B
+# Quantity        : 7Li(t,n)9Be partial angular differential cross section
+# REACTION        : 3-LI-7(T,N)4-BE-9,PAR,DA
+# File ID         : t-Li7-n-adxc-angdisc-mon-einc6.500E+05_elvl0.000E+00_prodBe9_Barhoumi_1991_f0075.002
+#
+# Einc (eV)       :   6.5000E+05
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :    1.0000000
+# xmax            :  139.7000000
+# ymin            :   2.0000E-04
+# ymax            :   3.4000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   1.0000000   0.0000000  3.4000E-04  1.3600E-05
+  50.7000000   0.0000000  2.0000E-04  8.0000E-06
+  93.2000000   0.0000000  2.8000E-04  1.1200E-05
+  95.7000000   0.0000000  2.4000E-04  9.6000E-06
+ 139.7000000   0.0000000  3.3000E-04  1.3200E-05
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : D0849.005  
+# EXFOR Ver.      : 20180131
+# TRANS #         : D113
+# Author          : D.K.Nauruzbayev et al.
+# Reference       : Phys.Rev.C 96 (2017) 014322
+# DOI             : 10.1103/PhysRevC.96.014322
+# Quantity        : 16O(a,el)16O angular differential cross section
+# REACTION        : 8-O-16(A,EL)8-O-16,,DA
+# File ID         : a-O16-el-adxc-angdisc-mon-einc2.777E+06_prodO16_Nauruzbayev_2017_d0849.005
+#
+# Einc (eV)       :   2.7769E+06
+#
+# npts            : 1           
+# xmin            :  139.3810000
+# xmax            :  139.3810000
+# ymin            :   1.0026E-01
+# ymax            :   1.0026E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 139.3810000   0.0000000  1.0026E-01  1.0687E-02
+#---------------------------------------------------

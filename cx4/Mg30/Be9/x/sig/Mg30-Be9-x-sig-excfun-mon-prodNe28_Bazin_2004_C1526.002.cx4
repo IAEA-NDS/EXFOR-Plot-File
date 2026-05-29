@@ -1,0 +1,22 @@
+# EXFOR #         : C1526.002  
+# EXFOR Ver.      : 20181107
+# TRANS #         : C181
+# Author          : D.Bazin et al.
+# Reference       : Nucl.Phys.A 746 (2004) 173
+# DOI             : 10.1016/j.nuclphysa.2004.09.031
+# Quantity        : 9Be(30Mg,x)28Ne independent production cross section
+# REACTION        : 4-BE-9(12-MG-30,X)10-NE-28,,SIG
+# File ID         : Mg30-Be9-x-sig-excfun-mon-prodNe28_Bazin_2004_c1526.002
+#
+# npts            : 1           
+# xmin            :   2.6550E+09
+# xmax            :   2.6550E+09
+# ymin            :   4.9000E-04
+# ymax            :   4.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6550E+09  0.0000E+00  4.9000E-04  5.0000E-05
+#---------------------------------------------------

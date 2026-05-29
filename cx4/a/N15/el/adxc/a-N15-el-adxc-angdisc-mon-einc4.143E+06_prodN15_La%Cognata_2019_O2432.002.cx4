@@ -1,0 +1,27 @@
+# EXFOR #         : O2432.002  
+# EXFOR Ver.      : 20190602
+# TRANS #         : O070
+# Author          : M.La Cognata et al.
+# Reference       : Phys.Rev.C 99 (2019) 034301
+# DOI             : 10.1103/PhysRevC.99.034301
+# Quantity        : 15N(a,el)15N angular differential cross section
+# REACTION        : 7-N-15(A,EL)7-N-15,,DA
+# File ID         : a-N15-el-adxc-angdisc-mon-einc4.143E+06_prodN15_La%Cognata_2019_o2432.002
+#
+# Einc (eV)       :   4.1429E+06
+#
+# npts            : 4           
+# xmin            :  138.2000000
+# xmax            :  172.7000000
+# ymin            :   7.0400E-02
+# ymax            :   2.3450E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 138.2000000   0.0000000  7.0400E-02  2.9000E-03
+ 145.4000000   0.0000000  1.0390E-01  3.5000E-03
+ 151.9000000   0.0000000  1.4330E-01  4.2000E-03
+ 172.7000000   0.0000000  2.3450E-01  6.5000E-03
+#---------------------------------------------------

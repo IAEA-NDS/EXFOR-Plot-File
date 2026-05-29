@@ -1,0 +1,22 @@
+# EXFOR #         : A0820.019  
+# EXFOR Ver.      : 20250728
+# TRANS #         : A122
+# Author          : A.R.Balabekyan et al.
+# Reference       : Phys.At.Nucl. 68 (2005) 171
+# DOI             : 10.1134/1.1866372
+# Quantity        : 120Sn(d,x)117mSn cumulative production cross section
+# REACTION        : 50-SN-120(D,X)50-SN-117-M,CUM,SIG
+# File ID         : d-Sn120-x-sigc-excfun-mon-prodSn117m_Balabekyan_2005_a0820.019
+#
+# npts            : 1           
+# xmin            :   7.3000E+09
+# xmax            :   7.3000E+09
+# ymin            :   3.3900E-02
+# ymax            :   3.3900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.3000E+09  0.0000E+00  3.3900E-02  1.2000E-03
+#---------------------------------------------------

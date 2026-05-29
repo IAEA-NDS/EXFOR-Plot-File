@@ -1,0 +1,28 @@
+# EXFOR #         : E1706.045  
+# EXFOR Ver.      : 20061121
+# TRANS #         : E039
+# Author          : Y.Sugaya et al.
+# Reference       : Nucl.Phys.A 634 No.1-2 (1998) 115
+# DOI             : 10.1016/S0375-9474(98)00122-5
+# Quantity        : natCu(a,pi++x) double differential cross section
+# REACTION        : 29-CU-0(A,X)1-PP-0,,DA/DP
+# File ID         : a-Cu-xpip-ddxl-enedisl-mon-einc2.000E+09_angl5_Sugaya_1998_e1706.045
+#
+# Einc (eV)       :   2.0000E+09
+# theta,lab (deg) :    5.1000000
+#
+# npts            : 4           
+# xmin            :   2.2981E+09
+# xmax            :   3.5994E+09
+# ymin            :   2.8920E-15
+# ymax            :   7.6850E-13
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.2981E+09  0.0000E+00  7.6850E-13  8.2410E-15
+  2.6972E+09  0.0000E+00  1.2400E-13  3.4920E-15
+  3.1378E+09  0.0000E+00  2.1130E-14  1.6540E-15
+  3.5994E+09  0.0000E+00  2.8920E-15  7.0100E-16
+#---------------------------------------------------

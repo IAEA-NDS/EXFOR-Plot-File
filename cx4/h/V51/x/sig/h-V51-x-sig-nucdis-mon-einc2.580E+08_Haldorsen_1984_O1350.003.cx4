@@ -1,0 +1,26 @@
+# EXFOR #         : O1350.003  
+# EXFOR Ver.      : 20070528
+# TRANS #         : O029
+# Author          : I.R.Haldorsen et al.
+# Reference       : Z.Phys.A 315 (1984) 355
+# DOI             : 10.1007/BF01438461
+# Quantity        : 51V(he3,x) independent production cross section
+# REACTION        : 23-V-51(HE3,X)ELEM/MASS,IND,SIG
+# File ID         : h-V51-x-sig-nucdis-mon-einc2.580E+08_Haldorsen_1984_o1350.003
+#
+# Einc (eV)       :   2.5800E+08
+#
+# npts            : 3           
+# xmin            : 21044.1     
+# xmax            : 21048.9     
+# ymin            :   5.1000E-03
+# ymax            :   3.8000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     21044.1  1.9400E-02  2.0000E-03
+     21046.9  3.8000E-02  2.2000E-03
+     21048.9  5.1000E-03  3.0000E-04
+#---------------------------------------------------

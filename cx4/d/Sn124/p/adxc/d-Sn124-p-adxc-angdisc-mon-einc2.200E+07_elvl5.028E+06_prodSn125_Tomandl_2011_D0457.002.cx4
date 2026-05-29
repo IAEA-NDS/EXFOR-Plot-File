@@ -1,0 +1,28 @@
+# EXFOR #         : D0457.002  
+# EXFOR Ver.      : 20080125
+# TRANS #         : D059
+# Author          : I.Tomandl et al.
+# Reference       : Phys.Rev.C 83 (2011) 044326
+# DOI             : 10.1103/PhysRevC.83.044326
+# Quantity        : 124Sn(d,p)125Sn partial angular differential cross section
+# REACTION        : 50-SN-124(D,P)50-SN-125,PAR,DA
+# File ID         : d-Sn124-p-adxc-angdisc-mon-einc2.200E+07_elvl5.028E+06_prodSn125_Tomandl_2011_d0457.002
+#
+# Einc (eV)       :   2.2000E+07
+# dEinc (eV)      :   4.0000E+03
+# Elvl (eV)       :   5.0282E+06
+#
+# npts            : 3           
+# xmin            :   25.2500000
+# xmax            :   45.4100000
+# ymin            :   7.8000E-06
+# ymax            :   1.3900E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  25.2500000   0.0000000  1.1000E-05  3.2000E-06
+  30.2900000   0.0000000  1.3900E-05  3.9000E-06
+  45.4100000   0.0000000  7.8000E-06  1.5000E-06
+#---------------------------------------------------

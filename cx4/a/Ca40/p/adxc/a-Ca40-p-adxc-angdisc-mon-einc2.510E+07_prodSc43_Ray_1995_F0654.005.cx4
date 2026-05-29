@@ -1,0 +1,28 @@
+# EXFOR #         : F0654.005  
+# EXFOR Ver.      : 20040527
+# TRANS #         : 0000
+# Author          : A.Ray et al.
+# Reference       : Phys.Rev.C 51 (1995) 1604
+# DOI             : 10.1103/PhysRevC.51.R1604
+# Quantity        : 40Ca(a,p)43Sc angular differential cross section
+# REACTION        : 20-CA-40(A,P)21-SC-43,,DA
+# File ID         : a-Ca40-p-adxc-angdisc-mon-einc2.510E+07_prodSc43_Ray_1995_f0654.005
+#
+# Einc (eV)       :   2.5100E+07
+# dEinc (eV)      :   5.0000E+05
+#
+# npts            : 4           
+# xmin            :  152.3200000
+# xmax            :  165.1900000
+# ymin            :   5.5505E-02
+# ymax            :   5.8536E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 152.3200000   0.0000000  5.5505E-02  0.0000E+00
+ 157.9100000   0.0000000  5.5636E-02  0.0000E+00
+ 161.5100000   0.0000000  5.6419E-02  0.0000E+00
+ 165.1900000   0.0000000  5.8536E-02  0.0000E+00
+#---------------------------------------------------

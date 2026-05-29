@@ -1,0 +1,23 @@
+# EXFOR #         : 32661.002  
+# EXFOR Ver.      : 20190826
+# TRANS #         : 3190
+# Author          : Zhao Xin et al.
+# Reference       : J.Rad.Nucl.Chem. 170 (1993) 99
+# DOI             : 10.1007/BF02134580
+# Quantity        : 252Cf(sf) cumulative fission product yield
+# REACTION        : 98-CF-252(0,F)ELEM/MASS,CUM,FY
+# File ID         : 0-Cf252-f-fyc-nucdis-mon-Zhao%Xin_1993_32661.002
+#
+# npts            : 2           
+# xmin            : 50127.0     
+# xmax            : 50128.9     
+# ymin            :   4.3700E-04
+# ymax            :   1.8200E-03
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     50127.0  4.3700E-04  2.1000E-05
+     50128.9  1.8200E-03  9.0000E-05
+#---------------------------------------------------

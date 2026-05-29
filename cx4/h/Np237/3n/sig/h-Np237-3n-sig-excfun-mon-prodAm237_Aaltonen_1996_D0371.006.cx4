@@ -1,0 +1,23 @@
+# EXFOR #         : D0371.006  
+# EXFOR Ver.      : 20060216
+# TRANS #         : D045
+# Author          : J.Aaltonen et al.
+# Reference       : J.Rad.Nucl.Chem. 203 (1996) 67
+# DOI             : 10.1007/BF02060381
+# Quantity        : 237Np(he3,3n)237Am cross section
+# REACTION        : 93-NP-237(HE3,3N)95-AM-237,,SIG
+# File ID         : h-Np237-3n-sig-excfun-mon-prodAm237_Aaltonen_1996_d0371.006
+#
+# npts            : 2           
+# xmin            :   2.5300E+07
+# xmax            :   2.6000E+07
+# ymin            :   2.0000E-04
+# ymax            :   2.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E+07  0.0000E+00  2.0000E-04  1.1000E-04
+  2.6000E+07  0.0000E+00  2.3000E-04  5.0000E-05
+#---------------------------------------------------

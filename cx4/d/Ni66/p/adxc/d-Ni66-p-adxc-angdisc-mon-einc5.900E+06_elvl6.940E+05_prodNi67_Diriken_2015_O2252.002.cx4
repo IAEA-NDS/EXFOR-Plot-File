@@ -1,0 +1,28 @@
+# EXFOR #         : O2252.002  
+# EXFOR Ver.      : 20151102
+# TRANS #         : O055
+# Author          : J.Diriken et al.
+# Reference       : Phys.Rev.C 91 (2015) 054321
+# DOI             : 10.1103/PhysRevC.91.054321
+# Quantity        : 66Ni(d,p)67Ni partial angular differential cross section
+# REACTION        : 28-NI-66(D,P)28-NI-67,PAR,DA
+# File ID         : d-Ni66-p-adxc-angdisc-mon-einc5.900E+06_elvl6.940E+05_prodNi67_Diriken_2015_o2252.002
+#
+# Einc (eV)       :   5.9000E+06
+# Elvl (eV)       :   6.9400E+05
+#
+# npts            : 4           
+# xmin            :   18.5000000
+# xmax            :  111.0000000
+# ymin            :   7.8000E-05
+# ymax            :   1.0000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  18.5000000   0.0000000  7.8000E-05  7.0000E-06
+  32.1000000   0.0000000  8.0000E-05  8.0000E-06
+  87.0000000   0.0000000  1.0000E-04  9.0000E-06
+ 111.0000000   0.0000000  8.9000E-05  1.1000E-05
+#---------------------------------------------------

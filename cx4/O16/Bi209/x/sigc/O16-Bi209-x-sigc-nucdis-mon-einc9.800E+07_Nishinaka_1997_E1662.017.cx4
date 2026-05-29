@@ -1,0 +1,27 @@
+# EXFOR #         : E1662.017  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : I.Nishinaka et al.
+# Reference       : Phys.Rev.C 56 No.2 (1997) 891
+# DOI             : 10.1103/PhysRevC.56.891
+# Quantity        : 209Bi(16O,f) cumulative production cross section
+# REACTION        : 83-BI-209(8-O-16,F)ELEM/MASS,CUM,SIG
+# File ID         : O16-Bi209-x-sigc-nucdis-mon-einc9.800E+07_Nishinaka_1997_e1662.017
+#
+# Einc (eV)       :   9.8000E+07
+#
+# npts            : 4           
+# xmin            : 40095.9     
+# xmax            : 44105.9     
+# ymin            :   2.4100E-02
+# ymax            :   3.8000E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     40095.9  2.4100E-02  5.0000E-04
+     42099.9  3.2800E-02  3.0000E-04
+     44103.9  3.8000E-02  2.0000E-04
+     44105.9  2.8400E-02  7.0000E-04
+#---------------------------------------------------

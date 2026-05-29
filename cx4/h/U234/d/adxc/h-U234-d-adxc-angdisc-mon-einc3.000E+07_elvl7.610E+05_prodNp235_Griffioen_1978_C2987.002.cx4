@@ -1,0 +1,28 @@
+# EXFOR #         : C2987.002  
+# EXFOR Ver.      : 20240914
+# TRANS #         : C240
+# Author          : R.D.Griffioen et al.
+# Reference       : Phys.Rev.C 18 (1978) 671
+# DOI             : 10.1103/PhysRevC.18.671
+# Quantity        : 234U(he3,d)235Np partial angular differential cross section
+# REACTION        : 92-U-234(HE3,D)93-NP-235,PAR,DA
+# File ID         : h-U234-d-adxc-angdisc-mon-einc3.000E+07_elvl7.610E+05_prodNp235_Griffioen_1978_c2987.002
+#
+# Einc (eV)       :   3.0000E+07
+# Elvl (eV)       :   7.6100E+05
+# dElvl (eV)      :   2.0000E+03
+#
+# npts            : 3           
+# xmin            :   45.0000000
+# xmax            :   75.0000000
+# ymin            :   3.6000E-06
+# ymax            :   4.4200E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  45.0000000   0.0000000  4.1700E-06  3.5000E-07
+  60.0000000   0.0000000  3.6000E-06  2.8000E-07
+  75.0000000   0.0000000  4.4200E-06  3.3000E-07
+#---------------------------------------------------

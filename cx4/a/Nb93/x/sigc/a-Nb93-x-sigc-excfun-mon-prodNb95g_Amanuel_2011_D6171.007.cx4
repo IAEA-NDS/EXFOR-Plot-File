@@ -1,0 +1,24 @@
+# EXFOR #         : D6171.007  
+# EXFOR Ver.      : 20160518
+# TRANS #         : D104
+# Author          : F.K.Amanuel et al.
+# Reference       : Chin.J.Phys. 49 (2011) 884
+# DOI             : N/A
+# Quantity        : 93Nb(a,x)95gNb cumulative production cross section
+# REACTION        : 41-NB-93(A,X)41-NB-95-G,(CUM),SIG
+# File ID         : a-Nb93-x-sigc-excfun-mon-prodNb95g_Amanuel_2011_d6171.007
+#
+# npts            : 3           
+# xmin            :   3.3200E+07
+# xmax            :   3.7400E+07
+# ymin            :   9.0000E-05
+# ymax            :   2.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3200E+07  0.0000E+00  9.0000E-05  0.0000E+00
+  3.5300E+07  0.0000E+00  1.0000E-04  0.0000E+00
+  3.7400E+07  0.0000E+00  2.4000E-04  0.0000E+00
+#---------------------------------------------------

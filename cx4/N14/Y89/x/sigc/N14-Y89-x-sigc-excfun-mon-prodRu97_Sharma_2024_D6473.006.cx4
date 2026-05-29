@@ -1,0 +1,25 @@
+# EXFOR #         : D6473.006  
+# EXFOR Ver.      : 20250228
+# TRANS #         : D146
+# Author          : H.Sharma et al.
+# Reference       : Phys.Rev.C 110 (2024) 054603
+# DOI             : 10.1103/PhysRevC.110.054603
+# Quantity        : 89Y(14N,x)97Ru cumulative production cross section
+# REACTION        : 39-Y-89(7-N-14,X)44-RU-97,CUM,SIG
+# File ID         : N14-Y89-x-sigc-excfun-mon-prodRu97_Sharma_2024_d6473.006
+#
+# npts            : 4           
+# xmin            :   4.3400E+07
+# xmax            :   5.7900E+07
+# ymin            :   1.1000E-02
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.7900E+07  0.0000E+00  7.5000E-02  7.9000E-03
+  5.3200E+07  0.0000E+00  6.2000E-02  6.8000E-03
+  4.8700E+07  0.0000E+00  4.7800E-02  5.1000E-03
+  4.3400E+07  0.0000E+00  1.1000E-02  1.5000E-03
+#---------------------------------------------------

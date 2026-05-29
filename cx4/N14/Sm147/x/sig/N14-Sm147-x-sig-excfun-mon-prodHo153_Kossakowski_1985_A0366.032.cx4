@@ -1,0 +1,25 @@
+# EXFOR #         : A0366.032  
+# EXFOR Ver.      : 20240825
+# TRANS #         : A117
+# Author          : R.Kossakowski et al.
+# Reference       : Phys.Rev.C 32 (1985) 1612
+# DOI             : 10.1103/PhysRevC.32.1612
+# Quantity        : 147Sm(14N,x)153Ho independent production cross section
+# REACTION        : 62-SM-147(7-N-14,X)67-HO-153,,SIG
+# File ID         : N14-Sm147-x-sig-excfun-mon-prodHo153_Kossakowski_1985_a0366.032
+#
+# npts            : 4           
+# xmin            :   7.3000E+07
+# xmax            :   1.1450E+08
+# ymin            :   8.0000E-03
+# ymax            :   1.5100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.3000E+07  0.0000E+00  8.0000E-03  0.0000E+00
+  8.8500E+07  0.0000E+00  1.0400E-01  0.0000E+00
+  1.0100E+08  0.0000E+00  1.5100E-01  0.0000E+00
+  1.1450E+08  0.0000E+00  7.0000E-02  0.0000E+00
+#---------------------------------------------------

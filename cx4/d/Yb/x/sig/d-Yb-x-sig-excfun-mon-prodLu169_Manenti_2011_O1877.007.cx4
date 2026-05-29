@@ -1,0 +1,25 @@
+# EXFOR #         : O1877.007  
+# EXFOR Ver.      : 20140429
+# TRANS #         : O057
+# Author          : S.Manenti et al.
+# Reference       : Appl.Radiat.Isot. 69 (2011) 37
+# DOI             : 10.1016/j.apradiso.2010.08.008
+# Quantity        : natYb(d,x)169Lu independent production cross section
+# REACTION        : 70-YB-0(D,X)71-LU-169,,SIG
+# File ID         : d-Yb-x-sig-excfun-mon-prodLu169_Manenti_2011_o1877.007
+#
+# npts            : 4           
+# xmin            :   1.5420E+07
+# xmax            :   1.8180E+07
+# ymin            :   1.0100E-03
+# ymax            :   1.2940E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5420E+07  2.2000E+05  1.0100E-03  1.5000E-04
+  1.6370E+07  2.1000E+05  4.1900E-03  2.7000E-04
+  1.7290E+07  2.1000E+05  7.7500E-03  3.8000E-04
+  1.8180E+07  2.0000E+05  1.2940E-02  5.9000E-04
+#---------------------------------------------------

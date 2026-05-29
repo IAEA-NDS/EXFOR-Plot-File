@@ -1,0 +1,23 @@
+# EXFOR #         : C2580.002  
+# EXFOR Ver.      : 20201126
+# TRANS #         : C200
+# Author          : J.Fallis et al.
+# Reference       : Phys.Lett.B 807 (2020) 135575
+# DOI             : 10.1016/j.physletb.2020.135575
+# Quantity        : 76Se(a,g)80Kr cross section
+# REACTION        : 34-SE-76(A,G)36-KR-80,,SIG
+# File ID         : a-Se76-g-sig-excfun-mon-prodKr80_Fallis_2020_c2580.002
+#
+# npts            : 2           
+# xmin            :   5.7007E+06
+# xmax            :   6.0144E+06
+# ymin            :   9.7000E-07
+# ymax            :   4.6000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.7007E+06  1.2001E+04  9.7000E-07  2.7000E-07
+  6.0144E+06  1.2001E+04  4.6000E-06  8.0000E-07
+#---------------------------------------------------

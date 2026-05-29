@@ -1,0 +1,22 @@
+# EXFOR #         : D4368.008  
+# EXFOR Ver.      : 20170418
+# TRANS #         : D109
+# Author          : F.Tarkanyi et al.
+# Reference       : Nucl.Instrum.Meth.B 399 (2017) 83
+# DOI             : 10.1016/j.nimb.2017.03.043
+# Quantity        : natMo(a,x)90Nb cumulative production cross section
+# REACTION        : 42-MO-0(A,X)41-NB-90,CUM,SIG
+# File ID         : a-Mo-x-sigc-excfun-mon-prodNb90_Tarkanyi_2017_d4368.008
+#
+# npts            : 1           
+# xmin            :   3.9400E+07
+# xmax            :   3.9400E+07
+# ymin            :   3.6000E-03
+# ymax            :   3.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9400E+07  3.0000E+05  3.6000E-03  5.0000E-04
+#---------------------------------------------------

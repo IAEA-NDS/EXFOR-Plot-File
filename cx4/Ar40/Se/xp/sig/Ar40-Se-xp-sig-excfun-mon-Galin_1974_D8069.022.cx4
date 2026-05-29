@@ -1,0 +1,22 @@
+# EXFOR #         : D8069.022  
+# EXFOR Ver.      : 20240919
+# TRANS #         : D144
+# Author          : J.Galin et al.
+# Reference       : Phys.Rev.C 9 (1974) 1113
+# DOI             : 10.1103/PhysRevC.9.1113
+# Quantity        : natSe(40Ar,p+x) cross section
+# REACTION        : 34-SE-0(18-AR-40,X)1-H-1,,SIG
+# File ID         : Ar40-Se-xp-sig-excfun-mon-Galin_1974_d8069.022
+#
+# npts            : 1           
+# xmin            :   1.9892E+08
+# xmax            :   1.9892E+08
+# ymin            :   8.8000E-01
+# ymax            :   8.8000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9892E+08  0.0000E+00  8.8000E-01  9.0000E-02
+#---------------------------------------------------

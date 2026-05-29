@@ -1,0 +1,22 @@
+# EXFOR #         : D0473.005  
+# EXFOR Ver.      : 20080711
+# TRANS #         : D064
+# Author          : H.Simon et al.
+# Reference       : Nucl.Phys.A 791 (2007) 267
+# DOI             : 10.1016/j.nuclphysa.2007.04.021
+# Quantity        : 12C(14Be,x)13Be independent production cross section
+# REACTION        : 6-C-12(4-BE-14,X)4-BE-13,,SIG
+# File ID         : Be14-C12-x-sig-excfun-mon-prodBe13_Simon_2007_d0473.005
+#
+# npts            : 1           
+# xmin            :   4.0180E+09
+# xmax            :   4.0180E+09
+# ymin            :   1.4500E-01
+# ymax            :   1.4500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0180E+09  0.0000E+00  1.4500E-01  2.9000E-02
+#---------------------------------------------------

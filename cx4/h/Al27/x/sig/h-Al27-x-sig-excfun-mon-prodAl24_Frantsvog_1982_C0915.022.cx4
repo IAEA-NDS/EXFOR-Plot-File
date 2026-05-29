@@ -1,0 +1,24 @@
+# EXFOR #         : C0915.022  
+# EXFOR Ver.      : 20030625
+# TRANS #         : 0000
+# Author          : D.J.Frantsvog et al.
+# Reference       : Phys.Rev.C 25 (1982) 770
+# DOI             : 10.1103/PhysRevC.25.770
+# Quantity        : 27Al(he3,x)24Al independent production cross section
+# REACTION        : 13-AL-27(HE3,X)13-AL-24,,SIG,,AV
+# File ID         : h-Al27-x-sig-excfun-mon-prodAl24_Frantsvog_1982_c0915.022
+#
+# npts            : 3           
+# xmin            :   1.9550E+07
+# xmax            :   3.6600E+07
+# ymin            :   3.0000E-05
+# ymax            :   1.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9550E+07  1.9550E+07  3.0000E-05  3.0000E-05
+  2.8150E+07  1.5500E+06  6.0000E-05  6.0000E-05
+  3.6600E+07  2.5000E+06  1.2000E-04  4.0000E-05
+#---------------------------------------------------

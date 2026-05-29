@@ -1,0 +1,23 @@
+# EXFOR #         : O1407.014  
+# EXFOR Ver.      : 20071127
+# TRANS #         : O034
+# Author          : P.Misaelides
+# Reference       : Radiochim.Acta 28 (1981) 1
+# DOI             : N/A
+# Quantity        : 93Nb(12C,x)95Ru independent production cross section
+# REACTION        : 41-NB-93(6-C-12,X)44-RU-95,,SIG
+# File ID         : C12-Nb93-x-sig-excfun-mon-prodRu95_Misaelides_1981_o1407.014
+#
+# npts            : 2           
+# xmin            :   1.0260E+08
+# xmax            :   1.0780E+08
+# ymin            :   1.0500E-02
+# ymax            :   2.4900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0260E+08  0.0000E+00  1.0500E-02  1.0500E-03
+  1.0780E+08  0.0000E+00  2.4900E-02  2.7390E-03
+#---------------------------------------------------

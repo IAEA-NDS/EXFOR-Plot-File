@@ -1,0 +1,24 @@
+# EXFOR #         : M0427.003  
+# EXFOR Ver.      : 20161223
+# TRANS #         : M086
+# Author          : H.E.Jackson et al.
+# Reference       : Phys.Rev.C 11 (1975) 1664
+# DOI             : 10.1103/PhysRevC.11.1664
+# Quantity        : 232Th(g,el)232Th angular differential cross section
+# REACTION        : 90-TH-232(G,EL)90-TH-232,,DA
+# File ID         : g-Th232-el-adxl-angdisl-mon-einc1.139E+07_prodTh232_Jackson_1975_m0427.003
+#
+# Einc (eV)       :   1.1387E+07
+#
+# npts            : 1           
+# xmin            :  150.0000000
+# xmax            :  150.0000000
+# ymin            :   3.3100E-04
+# ymax            :   3.3100E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 150.0000000   0.0000000  3.3100E-04  3.5000E-05
+#---------------------------------------------------

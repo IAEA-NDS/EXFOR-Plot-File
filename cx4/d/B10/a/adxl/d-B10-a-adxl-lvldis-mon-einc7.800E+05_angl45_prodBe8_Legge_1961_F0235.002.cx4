@@ -1,0 +1,26 @@
+# EXFOR #         : F0235.002  
+# EXFOR Ver.      : 20200702
+# TRANS #         : F080
+# Author          : G.J.F.Legge
+# Reference       : Nucl.Phys. 26 (1961) 608
+# DOI             : 10.1016/0029-5582(61)90209-7
+# Quantity        : 10B(d,a)8Be partial angular differential cross section
+# REACTION        : 5-B-10(D,A)4-BE-8,PAR,DA
+# File ID         : d-B10-a-adxl-lvldis-mon-einc7.800E+05_angl45_prodBe8_Legge_1961_f0235.002
+#
+# Einc (eV)       :   7.8000E+05
+# theta,lab (deg) :   45.0000000
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   3.0400E+06
+# ymin            :   2.4000E-04
+# ymax            :   1.2500E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  2.4000E-04  5.0000E-05
+  3.0400E+06  0.0000E+00  1.2500E-03  4.0000E-04
+#---------------------------------------------------

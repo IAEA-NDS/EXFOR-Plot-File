@@ -1,0 +1,22 @@
+# EXFOR #         : O0076.012  
+# EXFOR Ver.      : 20190206
+# TRANS #         : O068
+# Author          : A.E.Antropov et al.
+# Reference       : Proceedings of 35.Conf.Nucl.Spectr.and Nucl.Struct.,Leningrad 1985 page 369
+# DOI             : N/A
+# Quantity        : 66Zn(a,x)68Ga independent production cross section
+# REACTION        : 30-ZN-66(A,X)31-GA-68,,SIG
+# File ID         : a-Zn66-x-sig-excfun-mon-prodGa68_Antropov_1985_o0076.012
+#
+# npts            : 1           
+# xmin            :   2.4500E+07
+# xmax            :   2.4500E+07
+# ymin            :   7.0000E-02
+# ymax            :   7.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4500E+07  0.0000E+00  7.0000E-02  2.0000E-02
+#---------------------------------------------------

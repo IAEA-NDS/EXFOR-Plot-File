@@ -1,0 +1,22 @@
+# EXFOR #         : C2563.003  
+# EXFOR Ver.      : 20200812
+# TRANS #         : C198
+# Author          : K.L.Wolf et al.
+# Reference       : Phys.Rev.C 1 (1970) 2096
+# DOI             : 10.1103/PhysRevC.1.2096
+# Quantity        : 238U(d,x)238lU independent production cross section
+# REACTION        : 92-U-238(D,X)92-U-238-L,,SIG
+# File ID         : d-U238-x-sig-excfun-mon-prodU238l_Wolf_1970_c2563.003
+#
+# npts            : 1           
+# xmin            :   1.8011E+07
+# xmax            :   1.8011E+07
+# ymin            :   5.5640E-06
+# ymax            :   5.5640E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8011E+07  0.0000E+00  5.5640E-06  4.0000E-07
+#---------------------------------------------------

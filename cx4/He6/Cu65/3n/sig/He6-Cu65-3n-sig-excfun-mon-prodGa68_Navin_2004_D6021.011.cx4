@@ -1,0 +1,23 @@
+# EXFOR #         : D6021.011  
+# EXFOR Ver.      : 20260318
+# TRANS #         : D151
+# Author          : A.Navin et al.
+# Reference       : Phys.Rev.C 70 (2004) 044601
+# DOI             : 10.1103/PhysRevC.70.044601
+# Quantity        : 65Cu(6He,3n)68Ga cross section
+# REACTION        : 29-CU-65(2-HE-6,3N)31-GA-68,,SIG
+# File ID         : He6-Cu65-3n-sig-excfun-mon-prodGa68_Navin_2004_d6021.011
+#
+# npts            : 2           
+# xmin            :   1.9529E+07
+# xmax            :   3.0012E+07
+# ymin            :   5.0240E-01
+# ymax            :   6.5700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9529E+07  0.0000E+00  6.5700E-01  6.2310E-02
+  3.0012E+07  0.0000E+00  5.0240E-01  4.9430E-02
+#---------------------------------------------------

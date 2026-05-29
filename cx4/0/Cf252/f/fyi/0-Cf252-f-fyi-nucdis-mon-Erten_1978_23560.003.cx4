@@ -1,0 +1,24 @@
+# EXFOR #         : 23560.003  
+# EXFOR Ver.      : 20200415
+# TRANS #         : 2287
+# Author          : H.N.Erten et al.
+# Reference       : J.Inorg.Nucl.Chem. 40 (1978) 183
+# DOI             : 10.1016/0022-1902(78)80107-9
+# Quantity        : 252Cf(sf) independent fission product yield
+# REACTION        : 98-CF-252(0,F)ELEM/MASS,IND,FY
+# File ID         : 0-Cf252-f-fyi-nucdis-mon-Erten_1978_23560.003
+#
+# npts            : 3           
+# xmin            : 53134.0     
+# xmax            : 53134.9     
+# ymin            :   4.1000E-03
+# ymax            :   1.1000E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     53134.9  1.1000E-02  3.0000E-03
+     53134.1  6.9000E-03  5.0000E-04
+     53134.0  4.1000E-03  5.0000E-04
+#---------------------------------------------------

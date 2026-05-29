@@ -1,0 +1,31 @@
+# EXFOR #         : F0103.003  
+# EXFOR Ver.      : 20120126
+# TRANS #         : F045
+# Author          : T.Ishimatsu et al.
+# Reference       : J.Phys.Soc.Jpn. 16 (1961) 367
+# DOI             : 10.1143/JPSJ.16.367
+# Quantity        : 9Be(d,p)10Be partial angular differential cross section
+# REACTION        : 4-BE-9(D,P)4-BE-10,PAR,DA
+# File ID         : d-Be9-p-adxc-excfun-mon-angl30_elvl0.000E+00_prodBe10_Ishimatsu_1961_f0103.003
+#
+# theta,lab (deg) :   30.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 7           
+# xmin            :   1.7210E+06
+# xmax            :   3.0230E+06
+# ymin            :   7.4510E-04
+# ymax            :   1.6700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7210E+06  0.0000E+00  7.4510E-04  2.2353E-05
+  1.9710E+06  0.0000E+00  9.5610E-04  2.8683E-05
+  2.2320E+06  0.0000E+00  1.1270E-03  3.3810E-05
+  2.5120E+06  0.0000E+00  1.3680E-03  4.1040E-05
+  2.6520E+06  0.0000E+00  1.4790E-03  4.4370E-05
+  2.7930E+06  0.0000E+00  1.5090E-03  4.5270E-05
+  3.0230E+06  0.0000E+00  1.6700E-03  5.0100E-05
+#---------------------------------------------------

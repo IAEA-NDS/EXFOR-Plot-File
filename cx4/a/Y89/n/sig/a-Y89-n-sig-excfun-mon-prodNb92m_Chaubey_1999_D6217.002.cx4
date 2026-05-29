@@ -1,0 +1,24 @@
+# EXFOR #         : D6217.002  
+# EXFOR Ver.      : 20140526
+# TRANS #         : D094
+# Author          : A.K.Chaubey et al.
+# Reference       : Ind.J.Pure Appl.Phy. 37 (1999) 791
+# DOI             : N/A
+# Quantity        : 89Y(a,n)92mNb cross section
+# REACTION        : 39-Y-89(A,N)41-NB-92-M,,SIG
+# File ID         : a-Y89-n-sig-excfun-mon-prodNb92m_Chaubey_1999_d6217.002
+#
+# npts            : 3           
+# xmin            :   1.7800E+07
+# xmax            :   2.9900E+07
+# ymin            :   8.9400E-03
+# ymax            :   6.0200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7800E+07  0.0000E+00  6.0200E-02  0.0000E+00
+  2.5000E+07  0.0000E+00  1.8600E-02  0.0000E+00
+  2.9900E+07  0.0000E+00  8.9400E-03  0.0000E+00
+#---------------------------------------------------

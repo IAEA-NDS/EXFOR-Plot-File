@@ -1,0 +1,25 @@
+# EXFOR #         : D6439.008  
+# EXFOR Ver.      : 20230125
+# TRANS #         : D138
+# Author          : A.Mahato et al.
+# Reference       : Phys.Rev.C 106 (2022) 014613
+# DOI             : 10.1103/PhysRevC.106.014613
+# Quantity        : 154Sm(19F,x)164mTm independent production cross section
+# REACTION        : 62-SM-154(9-F-19,X)69-TM-164-M,,SIG
+# File ID         : F19-Sm154-x-sig-excfun-mon-prodTm164m_Mahato_2022_d6439.008
+#
+# npts            : 4           
+# xmin            :   9.0700E+07
+# xmax            :   1.0940E+08
+# ymin            :   1.4000E-02
+# ymax            :   1.8340E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.0700E+07  9.0000E+05  1.4000E-02  1.4000E-03
+  9.6500E+07  9.0000E+05  6.1200E-02  6.1000E-03
+  1.0270E+08  1.1000E+06  1.2900E-01  1.2900E-02
+  1.0940E+08  1.1000E+06  1.8340E-01  1.8300E-02
+#---------------------------------------------------

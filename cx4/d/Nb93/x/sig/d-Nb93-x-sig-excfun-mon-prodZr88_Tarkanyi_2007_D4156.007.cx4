@@ -1,0 +1,24 @@
+# EXFOR #         : D4156.007  
+# EXFOR Ver.      : 20210929
+# TRANS #         : D132
+# Author          : F.Tarkanyi et al.
+# Reference       : Nucl.Instrum.Meth.B 255 (2007) 297
+# DOI             : 10.1016/j.nimb.2006.11.121
+# Quantity        : 93Nb(d,x)88Zr independent production cross section
+# REACTION        : 41-NB-93(D,X)40-ZR-88,,SIG
+# File ID         : d-Nb93-x-sig-excfun-mon-prodZr88_Tarkanyi_2007_d4156.007
+#
+# npts            : 3           
+# xmin            :   3.4390E+07
+# xmax            :   3.8240E+07
+# ymin            :   2.8200E-03
+# ymax            :   1.8700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4390E+07  5.5000E+05  2.8200E-03  4.4000E-04
+  3.6360E+07  4.2000E+05  9.0000E-03  1.1000E-03
+  3.8240E+07  3.0000E+05  1.8700E-02  2.3000E-03
+#---------------------------------------------------

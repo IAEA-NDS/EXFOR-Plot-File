@@ -1,0 +1,25 @@
+# EXFOR #         : C1377.017  
+# EXFOR Ver.      : 20051121
+# TRANS #         : C076
+# Author          : B.Dasmahapatra et al.
+# Reference       : Nucl.Phys.A 526 (1991) 395
+# DOI             : 10.1016/0375-9474(91)90292-E
+# Quantity        : 16O(13C,x)24Ne independent production cross section
+# REACTION        : 8-O-16(6-C-13,X)10-NE-24,,SIG
+# File ID         : C13-O16-x-sig-excfun-mon-prodNe24_Dasmahapatra_1991_c1377.017
+#
+# npts            : 4           
+# xmin            :   1.5177E+07
+# xmax            :   1.7643E+07
+# ymin            :   3.8800E-05
+# ymax            :   1.1600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5177E+07  0.0000E+00  3.8800E-05  1.9300E-05
+  1.6029E+07  0.0000E+00  3.0300E-04  8.0000E-05
+  1.6864E+07  0.0000E+00  5.7800E-04  1.0900E-04
+  1.7643E+07  0.0000E+00  1.1600E-03  2.0200E-04
+#---------------------------------------------------

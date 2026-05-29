@@ -1,0 +1,26 @@
+# EXFOR #         : M0651.008  
+# EXFOR Ver.      : 20050221
+# TRANS #         : 0000
+# Author          : S.Kahane et al.
+# Reference       : Phys.Rev.C 50 (1994) 2000
+# DOI             : 10.1103/PhysRevC.50.2000
+# Quantity        : 206Pb(g,el)206Pb angular differential cross section
+# REACTION        : 82-PB-206(G,EL)82-PB-206,,DA
+# File ID         : g-Pb206-el-adxl-excfun-mon-angl140_prodPb206_Kahane_1994_m0651.008
+#
+# theta,lab (deg) :  140.0000000
+#
+# npts            : 3           
+# xmin            :   9.0000E+06
+# xmax            :   1.1400E+07
+# ymin            :   7.9000E-06
+# ymax            :   2.6400E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.0000E+06  0.0000E+00  7.9000E-06  2.0000E-06
+  1.1400E+07  0.0000E+00  2.5400E-04  2.7900E-05
+  1.1400E+07  0.0000E+00  2.6400E-04  3.4300E-05
+#---------------------------------------------------

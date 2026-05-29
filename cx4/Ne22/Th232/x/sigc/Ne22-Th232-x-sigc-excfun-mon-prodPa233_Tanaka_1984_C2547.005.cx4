@@ -1,0 +1,22 @@
+# EXFOR #         : C2547.005  
+# EXFOR Ver.      : 20200909
+# TRANS #         : C197
+# Author          : S.Tanaka et al.
+# Reference       : Phys.Rev.C 30 (1984) 911
+# DOI             : 10.1103/PhysRevC.30.911
+# Quantity        : 232Th(22Ne,x)233Pa cumulative production cross section
+# REACTION        : 90-TH-232(10-NE-22,X)91-PA-233,CUM,SIG
+# File ID         : Ne22-Th232-x-sigc-excfun-mon-prodPa233_Tanaka_1984_c2547.005
+#
+# npts            : 1           
+# xmin            :   1.1400E+08
+# xmax            :   1.1400E+08
+# ymin            :   1.2900E-03
+# ymax            :   1.2900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1400E+08  0.0000E+00  1.2900E-03  9.0000E-05
+#---------------------------------------------------

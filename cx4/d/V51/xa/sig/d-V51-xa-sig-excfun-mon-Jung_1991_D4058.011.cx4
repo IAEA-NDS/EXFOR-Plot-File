@@ -1,0 +1,23 @@
+# EXFOR #         : D4058.011  
+# EXFOR Ver.      : 20150504
+# TRANS #         : D099
+# Author          : P.Jung
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 352
+# DOI             : N/A
+# Quantity        : 51V(d,a+x) cross section
+# REACTION        : 23-V-51(D,X)2-HE-4,,SIG
+# File ID         : d-V51-xa-sig-excfun-mon-Jung_1991_d4058.011
+#
+# npts            : 2           
+# xmin            :   8.2000E+06
+# xmax            :   1.3400E+07
+# ymin            :   3.2000E-02
+# ymax            :   5.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.2000E+06  8.0000E+05  3.2000E-02  0.0000E+00
+  1.3400E+07  6.0000E+05  5.0000E-02  0.0000E+00
+#---------------------------------------------------

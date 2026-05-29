@@ -1,0 +1,25 @@
+# EXFOR #         : C0385.017  
+# EXFOR Ver.      : 19991004
+# TRANS #         : 0000
+# Author          : J.Jaenecke et al.
+# Reference       : Nucl.Phys.A 526 (1991) 1
+# DOI             : N/A
+# Quantity        : 238U(he3,t)238Np partial angular differential cross section
+# REACTION        : 92-U-238(HE3,T)93-NP-238,PAR,DA
+# File ID         : h-U238-t-adxl-lvldis-mon-einc2.000E+08_angl1_prodNp238_Jaenecke_1991_c0385.017
+#
+# Einc (eV)       :   2.0000E+08
+# theta,lab (deg) :    1.4000000
+#
+# npts            : 1           
+# xmin            :   1.9115E+07
+# xmax            :   1.9115E+07
+# ymin            :   4.2900E-03
+# ymax            :   4.2900E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.9115E+07  0.0000E+00  4.2900E-03  4.0000E-05
+#---------------------------------------------------

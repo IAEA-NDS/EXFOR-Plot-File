@@ -1,0 +1,29 @@
+# EXFOR #         : C2935.002  
+# EXFOR Ver.      : 20231113
+# TRANS #         : C237
+# Author          : M.L.Halbert et al.
+# Reference       : Phys.Rev.C 8 (1973) 1621
+# DOI             : 10.1103/PhysRevC.8.1621
+# Quantity        : 3He(a,p)6Li partial angular differential cross section
+# REACTION        : 2-HE-3(A,P)3-LI-6,PAR,DA
+# File ID         : a-He3-p-adxc-angdisc-mon-einc8.140E+07_elvl0.000E+00_prodLi6_Halbert_1973_c2935.002
+#
+# Einc (eV)       :   8.1400E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :   16.1720000
+# xmax            :   45.9580000
+# ymin            :   2.1540E-04
+# ymax            :   5.7280E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.1720000   0.0000000  5.7280E-04  5.2520E-05
+  20.3770000   0.0000000  4.2100E-04  4.3700E-05
+  28.4720000   0.0000000  2.1540E-04  2.4970E-05
+  37.0620000   0.0000000  2.5360E-04  2.9400E-05
+  45.9580000   0.0000000  2.5600E-04  3.2830E-05
+#---------------------------------------------------

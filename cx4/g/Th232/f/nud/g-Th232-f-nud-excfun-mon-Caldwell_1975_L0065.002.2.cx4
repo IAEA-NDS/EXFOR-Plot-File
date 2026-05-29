@@ -1,0 +1,25 @@
+# EXFOR #         : L0065.002.2
+# EXFOR Ver.      : 20050420
+# TRANS #         : L007
+# Author          : J.T.Caldwell et al.
+# Reference       : Nucl.Sci.Eng. 56 (1975) 179
+# DOI             : 10.13182/NSE75-A26656
+# Quantity        : 232Th(g,f) delayed fission neutron multiplicity
+# REACTION        : 90-TH-232(G,F),DL,NU
+# File ID         : g-Th232-f-nud-excfun-mon-Caldwell_1975_l0065.002.2
+#
+# npts            : 4           
+# xmin            :   6.4400E+06
+# xmax            :   8.0600E+06
+# ymin            :   2.5900E-02
+# ymax            :   3.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-d        dnu-d       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  6.4400E+06  0.0000E+00  3.1000E-02  2.8000E-03
+  7.0200E+06  0.0000E+00  3.0600E-02  3.1000E-03
+  7.1000E+06  0.0000E+00  2.6700E-02  2.1000E-03
+  8.0600E+06  0.0000E+00  2.5900E-02  3.1000E-03
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : C2906.011  
+# EXFOR Ver.      : 20231107
+# TRANS #         : C237
+# Author          : C.R.Bingham et al.
+# Reference       : Phys.Rev. 180 (1969) 1197
+# DOI             : 10.1103/PhysRev.180.1197
+# Quantity        : 89Y(a,inl)89Y partial angular differential cross section
+# REACTION        : 39-Y-89(A,INL)39-Y-89,PAR,DA
+# File ID         : a-Y89-inl-adxc-angdisc-mon-einc6.570E+07_elvl3.750E+06_prodY89_Bingham_1969_c2906.011
+#
+# Einc (eV)       :   6.5700E+07
+# Elvl (eV)       :   3.7500E+06
+#
+# npts            : 4           
+# xmin            :   35.8450000
+# xmax            :   38.8010000
+# ymin            :   5.3870E-05
+# ymax            :   1.5600E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  35.8450000   0.0000000  1.5600E-04  0.0000E+00
+  36.8210000   0.0000000  6.4440E-05  0.0000E+00
+  37.8030000   0.0000000  5.3870E-05  0.0000E+00
+  38.8010000   0.0000000  1.3200E-04  0.0000E+00
+#---------------------------------------------------

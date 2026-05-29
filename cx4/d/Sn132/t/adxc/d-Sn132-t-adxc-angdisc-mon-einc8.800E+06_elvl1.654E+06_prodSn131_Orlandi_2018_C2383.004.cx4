@@ -1,0 +1,27 @@
+# EXFOR #         : C2383.004  
+# EXFOR Ver.      : 20190606
+# TRANS #         : C186
+# Author          : R.Orlandi et al.
+# Reference       : Phys.Lett.B 785 (2018) 615
+# DOI             : 10.1016/j.physletb.2018.08.005
+# Quantity        : 132Sn(d,t)131Sn partial angular differential cross section
+# REACTION        : 50-SN-132(D,T)50-SN-131,PAR,DA
+# File ID         : d-Sn132-t-adxc-angdisc-mon-einc8.800E+06_elvl1.654E+06_prodSn131_Orlandi_2018_c2383.004
+#
+# Einc (eV)       :   8.8000E+06
+# Elvl (eV)       :   1.6540E+06
+#
+# npts            : 3           
+# xmin            :   46.0000000
+# xmax            :   74.7300000
+# ymin            :   1.3000E-04
+# ymax            :   1.6000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  46.0000000   8.0000000  1.6000E-04  8.1000E-05
+  62.7400000   8.8000000  1.3000E-04  5.0000E-05
+  74.7300000   4.8400000  1.6000E-04  8.2000E-05
+#---------------------------------------------------

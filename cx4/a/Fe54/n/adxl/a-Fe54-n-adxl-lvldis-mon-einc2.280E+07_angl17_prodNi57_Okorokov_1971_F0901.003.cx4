@@ -1,0 +1,29 @@
+# EXFOR #         : F0901.003  
+# EXFOR Ver.      : 20080421
+# TRANS #         : F031
+# Author          : V.V.Okorokov et al.
+# Reference       : Yad.Fiz. 14 (1971) 287
+# DOI             : N/A
+# Quantity        : 54Fe(a,n)57Ni partial angular differential cross section
+# REACTION        : 26-FE-54(A,N)28-NI-57,PAR,DA
+# File ID         : a-Fe54-n-adxl-lvldis-mon-einc2.280E+07_angl17_prodNi57_Okorokov_1971_f0901.003
+#
+# Einc (eV)       :   2.2800E+07
+# theta,lab (deg) :   17.0000000
+#
+# npts            : 5           
+# xmin            :   0.0000E+00
+# xmax            :   5.9200E+06
+# ymin            :   4.0000E-05
+# ymax            :   3.5000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.5000E-04  0.0000E+00
+  1.1000E+06  0.0000E+00  1.3000E-04  0.0000E+00
+  2.5300E+06  0.0000E+00  4.0000E-05  0.0000E+00
+  3.8600E+06  0.0000E+00  2.3000E-04  0.0000E+00
+  5.9200E+06  0.0000E+00  3.5000E-04  0.0000E+00
+#---------------------------------------------------

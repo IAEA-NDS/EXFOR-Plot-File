@@ -1,0 +1,22 @@
+# EXFOR #         : C2140.012  
+# EXFOR Ver.      : 20141203
+# TRANS #         : C147
+# Author          : S.R.Stroberg et al.
+# Reference       : Phys.Rev.C 90 (2014) 034301
+# DOI             : 10.1103/PhysRevC.90.034301
+# Quantity        : 9Be(40Si,x)39Si independent production cross section
+# REACTION        : 4-BE-9(14-SI-40,X)14-SI-39,,SIG
+# File ID         : Si40-Be9-x-sig-excfun-mon-prodSi39_Stroberg_2014_c2140.012
+#
+# npts            : 1           
+# xmin            :   3.1600E+09
+# xmax            :   3.1600E+09
+# ymin            :   1.1600E-01
+# ymax            :   1.1600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.1600E+09  0.0000E+00  1.1600E-01  5.0000E-03
+#---------------------------------------------------

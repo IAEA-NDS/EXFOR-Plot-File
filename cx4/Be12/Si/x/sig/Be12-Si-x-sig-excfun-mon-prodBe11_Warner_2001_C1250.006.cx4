@@ -1,0 +1,22 @@
+# EXFOR #         : C1250.006  
+# EXFOR Ver.      : 20050607
+# TRANS #         : C074
+# Author          : R.E.Warner et al.
+# Reference       : Phys.Rev.C 64 (2001) 044611
+# DOI             : 10.1103/PhysRevC.64.044611
+# Quantity        : natSi(12Be,x)11Be independent production cross section
+# REACTION        : 14-SI-0(4-BE-12,X)4-BE-11,,SIG
+# File ID         : Be12-Si-x-sig-excfun-mon-prodBe11_Warner_2001_c1250.006
+#
+# npts            : 1           
+# xmin            :   6.0600E+08
+# xmax            :   6.0600E+08
+# ymin            :   1.0000E-01
+# ymax            :   1.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0600E+08  7.8000E+07  1.0000E-01  1.2000E-02
+#---------------------------------------------------

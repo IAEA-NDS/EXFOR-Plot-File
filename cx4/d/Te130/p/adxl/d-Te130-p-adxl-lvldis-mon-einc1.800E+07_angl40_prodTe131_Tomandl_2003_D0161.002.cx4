@@ -1,0 +1,27 @@
+# EXFOR #         : D0161.002  
+# EXFOR Ver.      : 20040709
+# TRANS #         : 0000
+# Author          : I.Tomandl et al.
+# Reference       : Nucl.Phys.A 717 (2003) 149
+# DOI             : 10.1016/S0375-9474(02)01390-8
+# Quantity        : 130Te(d,p)131Te partial angular differential cross section
+# REACTION        : 52-TE-130(D,P)52-TE-131,PAR,DA
+# File ID         : d-Te130-p-adxl-lvldis-mon-einc1.800E+07_angl40_prodTe131_Tomandl_2003_d0161.002
+#
+# Einc (eV)       :   1.8000E+07
+# dEinc (eV)      :   5.0000E+03
+# theta,lab (deg) :   40.0000000
+#
+# npts            : 2           
+# xmin            :   1.8754E+06
+# xmax            :   3.8420E+06
+# ymin            :   2.0000E-06
+# ymax            :   3.2000E-06
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.8754E+06  2.0000E+02  3.2000E-06  9.0000E-07
+  3.8420E+06  6.0000E+02  2.0000E-06  1.0000E-06
+#---------------------------------------------------

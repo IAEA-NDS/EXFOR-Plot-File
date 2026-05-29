@@ -1,0 +1,27 @@
+# EXFOR #         : F0225.004  
+# EXFOR Ver.      : 20200701
+# TRANS #         : F080
+# Author          : V.V.Verbinski et al.
+# Reference       : Phys.Rev. 170 (1968) 916
+# DOI             : 10.1103/PhysRev.170.916
+# Quantity        : 9Be(a,n)12C partial cross section
+# REACTION        : 4-BE-9(A,N)6-C-12,PAR,SIG
+# File ID         : a-Be9-n-sig-excfun-mon-elvl4.440E+06_prodC12_Verbinski_1968_f0225.004
+#
+# Elvl (eV)       :   4.4400E+06
+#
+# npts            : 4           
+# xmin            :   6.7900E+06
+# xmax            :   9.9200E+06
+# ymin            :   6.6000E-02
+# ymax            :   1.3800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.7900E+06  0.0000E+00  1.3800E-01  0.0000E+00
+  7.9600E+06  0.0000E+00  1.1300E-01  0.0000E+00
+  8.9100E+06  0.0000E+00  6.6000E-02  0.0000E+00
+  9.9200E+06  0.0000E+00  7.4000E-02  0.0000E+00
+#---------------------------------------------------

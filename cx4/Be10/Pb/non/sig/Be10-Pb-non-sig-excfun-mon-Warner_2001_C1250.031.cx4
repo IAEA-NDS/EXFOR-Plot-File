@@ -1,0 +1,24 @@
+# EXFOR #         : C1250.031  
+# EXFOR Ver.      : 20050607
+# TRANS #         : C074
+# Author          : R.E.Warner et al.
+# Reference       : Phys.Rev.C 64 (2001) 044611
+# DOI             : 10.1103/PhysRevC.64.044611
+# Quantity        : natPb(10Be,non) cross section
+# REACTION        : 82-PB-0(4-BE-10,NON),,SIG
+# File ID         : Be10-Pb-non-sig-excfun-mon-Warner_2001_c1250.031
+#
+# npts            : 3           
+# xmin            :   4.2700E+08
+# xmax            :   6.5100E+08
+# ymin            :   3.8400E+00
+# ymax            :   4.2100E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.2700E+08  0.0000E+00  4.2100E+00  2.0200E-01
+  5.4600E+08  0.0000E+00  3.8400E+00  2.0200E-01
+  6.5100E+08  0.0000E+00  3.9200E+00  2.3100E-01
+#---------------------------------------------------

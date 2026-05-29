@@ -1,0 +1,27 @@
+# EXFOR #         : D4132.005.G
+# EXFOR Ver.      : 20060613
+# TRANS #         : D050
+# Author          : A.Hermanne et al.
+# Reference       : Nucl.Instrum.Meth.B 251 (2006) 333
+# DOI             : 10.1016/j.nimb.2006.06.021
+# Quantity        : natPt(a,x)193gHg independent production cross section
+# REACTION        : 78-PT-0(A,X)80-HG-193-G,IND,SIG
+# File ID         : a-Pt-x-sig-excfun-mon-prodHg193g_Hermanne_2006_d4132.005.g
+#
+# npts            : 6           
+# xmin            :   3.0900E+07
+# xmax            :   3.8100E+07
+# ymin            :   2.0000E-04
+# ymax            :   1.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8100E+07  2.0000E+05  1.3000E-03  1.0000E-04
+  3.7100E+07  2.0000E+05  9.0000E-04  4.0000E-04
+  3.5700E+07  3.0000E+05  1.3000E-03  1.0000E-04
+  3.4100E+07  3.0000E+05  6.0000E-04  4.0000E-04
+  3.3100E+07  4.0000E+05  7.0000E-04  1.0000E-04
+  3.0900E+07  4.0000E+05  2.0000E-04  1.0000E-04
+#---------------------------------------------------

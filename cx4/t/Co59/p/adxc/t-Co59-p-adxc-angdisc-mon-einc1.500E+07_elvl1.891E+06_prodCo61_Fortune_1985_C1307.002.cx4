@@ -1,0 +1,29 @@
+# EXFOR #         : C1307.002  
+# EXFOR Ver.      : 20050811
+# TRANS #         : C075
+# Author          : H.T.Fortune et al.
+# Reference       : Phys.Rev.C 31 (1985) 392
+# DOI             : 10.1103/PhysRevC.31.392
+# Quantity        : 59Co(t,p)61Co partial angular differential cross section
+# REACTION        : 27-CO-59(T,P)27-CO-61,PAR,DA
+# File ID         : t-Co59-p-adxc-angdisc-mon-einc1.500E+07_elvl1.891E+06_prodCo61_Fortune_1985_c1307.002
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   1.8910E+06
+#
+# npts            : 5           
+# xmin            :   10.8000000
+# xmax            :   41.5000000
+# ymin            :   1.3700E-06
+# ymax            :   8.6100E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.8000000   0.0000000  6.2400E-06  1.1800E-06
+  18.7000000   0.0000000  8.6100E-06  1.6300E-06
+  26.3000000   0.0000000  3.5300E-06  7.7400E-07
+  33.9000000   0.0000000  3.5300E-06  8.8200E-07
+  41.5000000   0.0000000  1.3700E-06  4.7700E-07
+#---------------------------------------------------

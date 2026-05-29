@@ -1,0 +1,25 @@
+# EXFOR #         : C0335.027.1
+# EXFOR Ver.      : 20160709
+# TRANS #         : C159
+# Author          : R.G.Korteling et al.
+# Reference       : Phys.Rev. 136 (1964) B425
+# DOI             : 10.1103/PhysRev.136.B425
+# Quantity        : 93Nb(a,x)22Na independent production cross section
+# REACTION        : 41-NB-93(A,X)11-NA-22,,SIG
+# File ID         : a-Nb93-x-sig-excfun-mon-prodNa22_Korteling_1964_c0335.027.1
+#
+# npts            : 4           
+# xmin            :   3.2000E+08
+# xmax            :   8.8000E+08
+# ymin            :   4.6800E-05
+# ymax            :   2.5400E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2000E+08  1.0000E+07  4.6800E-05  9.3600E-06
+  5.0000E+08  1.0000E+07  8.6400E-05  1.7280E-05
+  7.2000E+08  1.0000E+07  1.9600E-04  3.9200E-05
+  8.8000E+08  1.0000E+07  2.5400E-04  5.0800E-05
+#---------------------------------------------------

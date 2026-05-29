@@ -1,0 +1,25 @@
+# EXFOR #         : A0751.010  
+# EXFOR Ver.      : 20070528
+# TRANS #         : A062
+# Author          : Manoj Kumar Sharma et al.
+# Reference       : Nucl.Phys.A 776 (2006) 83
+# DOI             : 10.1016/j.nuclphysa.2006.06.171
+# Quantity        : 159Tb(16O,x)170Lu independent production cross section
+# REACTION        : 65-TB-159(8-O-16,X)71-LU-170,,SIG
+# File ID         : O16-Tb159-x-sig-excfun-mon-prodLu170_Manoj%Kumar%Sharma_2006_a0751.010
+#
+# npts            : 4           
+# xmin            :   8.3200E+07
+# xmax            :   9.5000E+07
+# ymin            :   6.5400E-03
+# ymax            :   4.9810E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.3200E+07  8.0000E+05  6.5400E-03  1.0500E-03
+  8.7200E+07  8.0000E+05  4.9810E-02  6.7400E-03
+  9.0000E+07  1.0000E+06  3.1330E-02  5.4400E-03
+  9.5000E+07  4.0000E+05  3.1330E-02  5.4000E-03
+#---------------------------------------------------

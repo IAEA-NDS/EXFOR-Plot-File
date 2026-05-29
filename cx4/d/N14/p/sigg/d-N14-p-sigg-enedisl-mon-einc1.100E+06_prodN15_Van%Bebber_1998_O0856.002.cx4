@@ -1,0 +1,27 @@
+# EXFOR #         : O0856.002  
+# EXFOR Ver.      : 20030501
+# TRANS #         : 0000
+# Author          : H.Van Bebber et al.
+# Reference       : Nucl.Instrum.Meth.B 136-138 (1998) 72
+# DOI             : 10.1016/S0168-583X(97)00672-1
+# Quantity        : 14N(d,p)15N partial gamma production cross section
+# REACTION        : 7-N-14(D,P)7-N-15,PAR,SIG,G
+# File ID         : d-N14-p-sigg-enedisl-mon-einc1.100E+06_prodN15_Van%Bebber_1998_o0856.002
+#
+# Einc (eV)       :   1.1000E+06
+#
+# npts            : 4           
+# xmin            :   7.3000E+06
+# xmax            :   8.3000E+06
+# ymin            :   3.7280E-02
+# ymax            :   7.1990E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.3000E+06  0.0000E+00  7.0810E-02  5.7000E-03
+  7.3000E+06  0.0000E+00  7.1990E-02  5.7000E-03
+  8.3000E+06  0.0000E+00  3.7280E-02  1.8000E-03
+  8.3000E+06  0.0000E+00  3.7710E-02  1.9000E-03
+#---------------------------------------------------

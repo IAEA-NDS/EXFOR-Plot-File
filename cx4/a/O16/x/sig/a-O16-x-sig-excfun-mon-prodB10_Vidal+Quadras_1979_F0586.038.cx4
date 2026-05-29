@@ -1,0 +1,24 @@
+# EXFOR #         : F0586.038  
+# EXFOR Ver.      : 20240227
+# TRANS #         : F098
+# Author          : A.Vidal-Quadras et al.
+# Reference       : Nuovo Cim.A 49 (1979) 235
+# DOI             : 10.1007/BF02896725
+# Quantity        : 16O(a,x)10B independent production cross section
+# REACTION        : 8-O-16(A,X)5-B-10,,SIG,,AV
+# File ID         : a-O16-x-sig-excfun-mon-prodB10_Vidal+Quadras_1979_f0586.038
+#
+# npts            : 3           
+# xmin            :   5.0600E+07
+# xmax            :   5.0600E+07
+# ymin            :   2.0000E-03
+# ymax            :   3.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0600E+07  2.6000E+06  3.0000E-03  0.0000E+00
+  5.0600E+07  2.6000E+06  3.0000E-03  0.0000E+00
+  5.0600E+07  2.6000E+06  2.0000E-03  0.0000E+00
+#---------------------------------------------------

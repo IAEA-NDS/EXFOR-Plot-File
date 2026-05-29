@@ -1,0 +1,30 @@
+# EXFOR #         : O1802.005  
+# EXFOR Ver.      : 20120614
+# TRANS #         : O048
+# Author          : G.Lovhoiden et al.
+# Reference       : Nucl.Phys.A 160 (1971) 305
+# DOI             : 10.1016/0375-9474(71)90133-3
+# Quantity        : 158Gd(he3,a)157Gd partial angular differential cross section
+# REACTION        : 64-GD-158(HE3,A)64-GD-157,PAR,DA
+# File ID         : h-Gd158-a-adxl-angdisl-mon-einc2.030E+07_elvl3.610E+05_prodGd157_Lovhoiden_1971_o1802.005
+#
+# Einc (eV)       :   2.0300E+07
+# dEinc (eV)      :   3.0000E+04
+# Elvl (eV)       :   3.6100E+05
+# dElvl (eV)      :   1.5000E+04
+#
+# npts            : 4           
+# xmin            :   43.9000000
+# xmax            :   89.4000000
+# ymin            :   1.0400E-05
+# ymax            :   3.1500E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  43.9000000   0.0000000  3.1400E-05  1.8840E-06
+  59.5000000   0.0000000  3.1500E-05  2.2050E-06
+  70.0000000   0.0000000  2.9800E-05  2.0860E-06
+  89.4000000   0.0000000  1.0400E-05  7.2800E-07
+#---------------------------------------------------

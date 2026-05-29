@@ -1,0 +1,23 @@
+# EXFOR #         : A0450.004  
+# EXFOR Ver.      : 20250703
+# TRANS #         : A121
+# Author          : S.S.Rattan et al.
+# Reference       : Radiochim.Acta 38 (1985) 69
+# DOI             : 10.1524/ract.1985.38.2.69
+# Quantity        : 27Al(a,3p)28Mg cross section
+# REACTION        : 13-AL-27(A,3P)12-MG-28,,SIG
+# File ID         : a-Al27-3p-sig-excfun-mon-prodMg28_Rattan_1985_a0450.004
+#
+# npts            : 2           
+# xmin            :   4.5400E+07
+# xmax            :   4.9600E+07
+# ymin            :   2.0600E-04
+# ymax            :   2.9900E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5400E+07  0.0000E+00  2.0600E-04  3.0000E-06
+  4.9600E+07  0.0000E+00  2.9900E-04  3.0000E-06
+#---------------------------------------------------

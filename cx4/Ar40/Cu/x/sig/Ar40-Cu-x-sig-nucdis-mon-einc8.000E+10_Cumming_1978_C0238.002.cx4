@@ -1,0 +1,28 @@
+# EXFOR #         : C0238.002  
+# EXFOR Ver.      : 20220530
+# TRANS #         : C213
+# Author          : J.B.Cumming et al.
+# Reference       : Phys.Rev.C 17 (1978) 1632
+# DOI             : 10.1103/PhysRevC.17.1632
+# Quantity        : natCu(40Ar,x) independent production cross section
+# REACTION        : 29-CU-0(18-AR-40,X)ELEM/MASS,,SIG
+# File ID         : Ar40-Cu-x-sig-nucdis-mon-einc8.000E+10_Cumming_1978_c0238.002
+#
+# Einc (eV)       :   8.0000E+10
+#
+# npts            : 5           
+# xmin            : 4007.9      
+# xmax            : 27058.9     
+# ymin            :   1.5300E-03
+# ymax            :   8.4800E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      4007.9  7.6000E-02  2.0000E-03
+     21046.9  1.8000E-02  8.0000E-04
+     21048.9  1.5300E-03  1.4000E-04
+     25054.9  5.1000E-02  1.4000E-03
+     27058.9  8.4800E-02  1.4000E-03
+#---------------------------------------------------

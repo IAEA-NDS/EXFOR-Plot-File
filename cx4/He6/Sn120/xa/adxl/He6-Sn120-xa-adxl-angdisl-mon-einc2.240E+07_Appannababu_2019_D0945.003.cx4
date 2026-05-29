@@ -1,0 +1,24 @@
+# EXFOR #         : D0945.003  
+# EXFOR Ver.      : 20200904
+# TRANS #         : D128
+# Author          : S.Appannababu et al.
+# Reference       : Phys.Rev.C 99 (2019) 014601
+# DOI             : 10.1103/PhysRevC.99.014601
+# Quantity        : 120Sn(6He,a+x) angular differential cross section
+# REACTION        : 50-SN-120(2-HE-6,X)2-HE-4,,DA
+# File ID         : He6-Sn120-xa-adxl-angdisl-mon-einc2.240E+07_Appannababu_2019_d0945.003
+#
+# Einc (eV)       :   2.2400E+07
+#
+# npts            : 1           
+# xmin            :   60.0000000
+# xmax            :   60.0000000
+# ymin            :   2.0800E-01
+# ymax            :   2.0800E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  60.0000000   0.0000000  2.0800E-01  1.5000E-02
+#---------------------------------------------------

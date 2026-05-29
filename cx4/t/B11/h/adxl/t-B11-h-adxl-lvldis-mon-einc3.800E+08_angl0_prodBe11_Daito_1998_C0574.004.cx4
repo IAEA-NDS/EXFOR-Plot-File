@@ -1,0 +1,28 @@
+# EXFOR #         : C0574.004  
+# EXFOR Ver.      : 19990924
+# TRANS #         : 0000
+# Author          : I.Daito et al.
+# Reference       : Phys.Lett.B 418 (1998) 27
+# DOI             : 10.1016/S0370-2693(97)01393-2
+# Quantity        : 11B(t,he3)11Be partial angular differential cross section
+# REACTION        : 5-B-11(T,HE3)4-BE-11,PAR,DA
+# File ID         : t-B11-h-adxl-lvldis-mon-einc3.800E+08_angl0_prodBe11_Daito_1998_c0574.004
+#
+# Einc (eV)       :   3.8000E+08
+# dEinc (eV)      :   7.8000E+05
+# theta,lab (deg) :    0.0000000
+#
+# npts            : 3           
+# xmin            :   3.2000E+05
+# xmax            :   3.8900E+06
+# ymin            :   8.4000E-04
+# ymax            :   2.8000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.2000E+05  0.0000E+00  2.8000E-03  4.0000E-04
+  2.6900E+06  0.0000E+00  2.1000E-03  4.0000E-04
+  3.8900E+06  0.0000E+00  8.4000E-04  3.0000E-04
+#---------------------------------------------------

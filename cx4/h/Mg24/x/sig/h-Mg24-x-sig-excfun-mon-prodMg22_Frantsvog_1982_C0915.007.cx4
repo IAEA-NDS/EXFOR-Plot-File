@@ -1,0 +1,26 @@
+# EXFOR #         : C0915.007  
+# EXFOR Ver.      : 20030625
+# TRANS #         : 0000
+# Author          : D.J.Frantsvog et al.
+# Reference       : Phys.Rev.C 25 (1982) 770
+# DOI             : 10.1103/PhysRevC.25.770
+# Quantity        : 24Mg(he3,x)22Mg independent production cross section
+# REACTION        : 12-MG-24(HE3,X)12-MG-22,,SIG,,AV
+# File ID         : h-Mg24-x-sig-excfun-mon-prodMg22_Frantsvog_1982_c0915.007
+#
+# npts            : 5           
+# xmin            :   1.9550E+07
+# xmax            :   3.7100E+07
+# ymin            :   2.1000E-03
+# ymax            :   8.7000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9550E+07  1.9550E+07  3.8000E-03  8.0000E-04
+  1.9850E+07  2.7500E+06  2.1000E-03  7.0000E-04
+  2.7550E+07  2.1500E+06  7.7000E-03  6.0000E-04
+  3.3650E+07  1.8500E+06  8.7000E-03  2.0000E-04
+  3.7100E+07  2.0000E+06  6.4000E-03  3.0000E-04
+#---------------------------------------------------

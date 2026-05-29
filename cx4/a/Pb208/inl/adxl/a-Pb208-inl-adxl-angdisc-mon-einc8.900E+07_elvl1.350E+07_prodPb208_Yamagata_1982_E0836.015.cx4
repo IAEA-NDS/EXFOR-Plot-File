@@ -1,0 +1,28 @@
+# EXFOR #         : E0836.015  
+# EXFOR Ver.      : 19881021
+# TRANS #         : 0000
+# Author          : T.Yamagata et al.
+# Reference       : Nucl.Phys.A 381 (1982) 277
+# DOI             : 10.1016/0375-9474(82)90144-0
+# Quantity        : 208Pb(a,inl)208Pb partial angular differential cross section
+# REACTION        : 82-PB-208(A,INL)82-PB-208,PAR,DA
+# File ID         : a-Pb208-inl-adxl-angdisc-mon-einc8.900E+07_elvl1.350E+07_prodPb208_Yamagata_1982_e0836.015
+#
+# Einc (eV)       :   8.9000E+07
+# Elvl (eV)       :   1.3500E+07
+#
+# npts            : 4           
+# xmin            :    1.8750000
+# xmax            :    3.3790000
+# ymin            :   3.5010E-03
+# ymax            :   7.7440E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   1.8750000   0.0000000  6.6980E-03  2.5200E-03
+   2.3470000   0.0000000  7.7440E-03  2.6900E-03
+   2.9330000   0.0000000  3.5010E-03  1.6400E-03
+   3.3790000   0.0000000  6.7550E-03  1.7800E-03
+#---------------------------------------------------

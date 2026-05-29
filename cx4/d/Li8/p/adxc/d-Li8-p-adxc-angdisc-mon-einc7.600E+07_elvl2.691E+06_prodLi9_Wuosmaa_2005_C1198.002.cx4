@@ -1,0 +1,29 @@
+# EXFOR #         : C1198.002  
+# EXFOR Ver.      : 20050406
+# TRANS #         : C073
+# Author          : A.H.Wuosmaa et al.
+# Reference       : Phys.Rev.Lett. 94 (2005) 082502
+# DOI             : 10.1103/PhysRevLett.94.082502
+# Quantity        : 8Li(d,p)9Li partial angular differential cross section
+# REACTION        : 3-LI-8(D,P)3-LI-9,PAR,DA
+# File ID         : d-Li8-p-adxc-angdisc-mon-einc7.600E+07_elvl2.691E+06_prodLi9_Wuosmaa_2005_c1198.002
+#
+# Einc (eV)       :   7.6000E+07
+# Elvl (eV)       :   2.6910E+06
+#
+# npts            : 5           
+# xmin            :    9.7400000
+# xmax            :   29.0000000
+# ymin            :   7.9400E-04
+# ymax            :   3.2900E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.7400000   0.0000000  2.8500E-03  1.1500E-03
+  13.2000000   0.0000000  3.2900E-03  6.1200E-04
+  17.4000000   0.0000000  2.5600E-03  5.6200E-04
+  24.3000000   0.0000000  1.3700E-03  3.5000E-04
+  29.0000000   0.0000000  7.9400E-04  3.7000E-04
+#---------------------------------------------------

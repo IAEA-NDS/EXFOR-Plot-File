@@ -1,0 +1,22 @@
+# EXFOR #         : B0113.044  
+# EXFOR Ver.      : 20190123
+# TRANS #         : B029
+# Author          : D.Gardes et al.
+# Reference       : Phys.Rev.C 18 (1978) 1298
+# DOI             : 10.1103/PhysRevC.18.1298
+# Quantity        : 205Tl(19F,x)210Po cumulative production cross section
+# REACTION        : 81-TL-205(9-F-19,X)84-PO-210,CUM,SIG
+# File ID         : F19-Tl205-x-sigc-excfun-mon-prodPo210_Gardes_1978_b0113.044
+#
+# npts            : 1           
+# xmin            :   1.7800E+08
+# xmax            :   1.7800E+08
+# ymin            :   2.7500E-02
+# ymax            :   2.7500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7800E+08  6.0000E+06  2.7500E-02  5.4000E-03
+#---------------------------------------------------

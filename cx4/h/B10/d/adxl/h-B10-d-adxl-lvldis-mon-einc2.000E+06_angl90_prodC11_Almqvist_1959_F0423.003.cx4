@@ -1,0 +1,26 @@
+# EXFOR #         : F0423.003  
+# EXFOR Ver.      : 20220605
+# TRANS #         : F092
+# Author          : E.Almqvist et al.
+# Reference       : Phys.Rev. 114 (1959) 1040
+# DOI             : 10.1103/PhysRev.114.1040
+# Quantity        : 10B(he3,d)11C partial angular differential cross section
+# REACTION        : 5-B-10(HE3,D)6-C-11,PAR,DA
+# File ID         : h-B10-d-adxl-lvldis-mon-einc2.000E+06_angl90_prodC11_Almqvist_1959_f0423.003
+#
+# Einc (eV)       :   2.0000E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   0.0000E+00
+# xmax            :   0.0000E+00
+# ymin            :   9.1000E-04
+# ymax            :   9.1000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  9.1000E-04  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : A0440.029  
+# EXFOR Ver.      : 20250624
+# TRANS #         : A121
+# Author          : Li Wenxin et al.
+# Reference       : Phys.Rev.C 46 (1992) 1538
+# DOI             : 10.1103/PhysRevC.46.1538
+# Quantity        : natIn(12C,x)83Sr cumulative production cross section
+# REACTION        : 49-IN-0(6-C-12,X)38-SR-83,CUM,SIG
+# File ID         : C12-In-x-sigc-excfun-mon-prodSr83_Li%Wenxin_1992_a0440.029
+#
+# npts            : 1           
+# xmin            :   5.0400E+08
+# xmax            :   5.0400E+08
+# ymin            :   6.3500E-03
+# ymax            :   6.3500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0400E+08  0.0000E+00  6.3500E-03  0.0000E+00
+#---------------------------------------------------

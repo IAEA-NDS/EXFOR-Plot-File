@@ -1,0 +1,26 @@
+# EXFOR #         : F0102.003  
+# EXFOR Ver.      : 20200502
+# TRANS #         : F077
+# Author          : R.Bardes et al.
+# Reference       : Phys.Rev. 120 (1960) 1369
+# DOI             : 10.1103/PhysRev.120.1369
+# Quantity        : 9Be(d,n)10B partial cross section
+# REACTION        : 4-BE-9(D,N)5-B-10,PAR,SIG
+# File ID         : d-Be9-n-sig-excfun-mon-elvl0.000E+00_prodB10_Bardes_1960_f0102.003
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :   1.4100E+06
+# xmax            :   2.3500E+06
+# ymin            :   7.1000E-02
+# ymax            :   7.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+06  0.0000E+00  7.1000E-02  2.1000E-02
+  1.8800E+06  0.0000E+00  7.9000E-02  2.3000E-02
+  2.3500E+06  0.0000E+00  7.4000E-02  2.2000E-02
+#---------------------------------------------------

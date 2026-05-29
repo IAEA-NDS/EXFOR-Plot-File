@@ -1,0 +1,26 @@
+# EXFOR #         : D6052.004  
+# EXFOR Ver.      : 20071031
+# TRANS #         : D058
+# Author          : Manoj Kumar Sharma et al.
+# Reference       : Phys.Rev.C 75 (2007) 064608
+# DOI             : 10.1103/PhysRevC.75.064608
+# Quantity        : 27Al(16O,x)27Mg independent production cross section
+# REACTION        : 13-AL-27(8-O-16,X)12-MG-27,,SIG
+# File ID         : O16-Al27-x-sig-excfun-mon-prodMg27_Manoj%Kumar%Sharma_2007_d6052.004
+#
+# npts            : 5           
+# xmin            :   8.8200E+07
+# xmax            :   9.4400E+07
+# ymin            :   8.0000E-05
+# ymax            :   2.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.8200E+07  6.0000E+05  2.2000E-04  5.0000E-05
+  8.8500E+07  8.0000E+05  2.0000E-04  5.0000E-05
+  9.1400E+07  6.0000E+05  8.0000E-05  2.0000E-05
+  9.3400E+07  8.0000E+05  1.1000E-04  2.0000E-05
+  9.4400E+07  6.0000E+05  1.0000E-04  3.0000E-05
+#---------------------------------------------------

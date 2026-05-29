@@ -1,0 +1,25 @@
+# EXFOR #         : C1740.002  
+# EXFOR Ver.      : 20181107
+# TRANS #         : C181
+# Author          : C.E.Beer et al.
+# Reference       : Proceedings of 10th Symp.on Nucl.in the Cosmos, Mackinac Island 2008 page (058)
+# DOI             : N/A
+# Quantity        : 1H(18F,a)15O angular differential cross section
+# REACTION        : 1-H-1(9-F-18,A)8-O-15,,DA
+# File ID         : F18-H1-a-adxl-excfun-mon-angl16_prodO15_Beer_2008_c1740.002
+#
+# theta,lab (deg) :   16.4000000
+# dtheta,lab (deg):   12.6000000
+#
+# npts            : 1           
+# xmin            :   1.2543E+07
+# xmax            :   1.2543E+07
+# ymin            :   3.4200E-02
+# ymax            :   3.4200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.2543E+07  0.0000E+00  3.4200E-02  6.8000E-03
+#---------------------------------------------------

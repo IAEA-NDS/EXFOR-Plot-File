@@ -1,0 +1,23 @@
+# EXFOR #         : C2206.018  
+# EXFOR Ver.      : 20160118
+# TRANS #         : C157
+# Author          : T.A.Werke et al.
+# Reference       : Phys.Rev.C 92 (2015) 054617
+# DOI             : 10.1103/PhysRevC.92.054617
+# Quantity        : 162Dy(44Ca,x)200At independent production cross section
+# REACTION        : 66-DY-162(20-CA-44,X)85-AT-200,,SIG
+# File ID         : Ca44-Dy162-x-sig-excfun-mon-prodAt200_Werke_2015_c2206.018
+#
+# npts            : 2           
+# xmin            :   1.9950E+08
+# xmax            :   2.0710E+08
+# ymin            :   4.2000E-05
+# ymax            :   5.1000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9950E+08  0.0000E+00  5.1000E-05  2.5500E-05
+  2.0710E+08  0.0000E+00  4.2000E-05  2.1000E-05
+#---------------------------------------------------

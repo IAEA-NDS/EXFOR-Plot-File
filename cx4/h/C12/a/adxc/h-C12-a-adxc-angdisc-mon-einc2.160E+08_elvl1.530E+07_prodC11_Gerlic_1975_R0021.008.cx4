@@ -1,0 +1,28 @@
+# EXFOR #         : R0021.008  
+# EXFOR Ver.      : 20070909
+# TRANS #         : R022
+# Author          : E.Gerlic et al.
+# Reference       : Phys.Rev.C 12 No.6 (1975) 2106
+# DOI             : 10.1103/PhysRevC.12.2106
+# Quantity        : 12C(he3,a)11C partial angular differential cross section
+# REACTION        : 6-C-12(HE3,A)6-C-11,PAR,DA
+# File ID         : h-C12-a-adxc-angdisc-mon-einc2.160E+08_elvl1.530E+07_prodC11_Gerlic_1975_r0021.008
+#
+# Einc (eV)       :   2.1600E+08
+# Elvl (eV)       :   1.5300E+07
+#
+# npts            : 4           
+# xmin            :    9.2000000
+# xmax            :   20.0000000
+# ymin            :   1.5800E-04
+# ymax            :   6.0000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.2000000   0.0000000  6.0000E-04  0.0000E+00
+  13.3000000   0.0000000  4.2000E-04  0.0000E+00
+  16.5000000   0.0000000  2.7000E-04  0.0000E+00
+  20.0000000   0.0000000  1.5800E-04  0.0000E+00
+#---------------------------------------------------

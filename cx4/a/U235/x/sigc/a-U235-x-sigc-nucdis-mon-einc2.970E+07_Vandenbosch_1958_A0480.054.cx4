@@ -1,0 +1,29 @@
+# EXFOR #         : A0480.054  
+# EXFOR Ver.      : 20200311
+# TRANS #         : A094
+# Author          : R.Vandenbosch et al.
+# Reference       : Phys.Rev. 111 (1958) 1358
+# DOI             : 10.1103/PhysRev.111.1358
+# Quantity        : 235U(a,f) cumulative production cross section
+# REACTION        : 92-U-235(A,F)ELEM/MASS,CUM,SIG
+# File ID         : a-U235-x-sigc-nucdis-mon-einc2.970E+07_Vandenbosch_1958_a0480.054
+#
+# Einc (eV)       :   2.9700E+07
+#
+# npts            : 6           
+# xmin            : 40095.9     
+# xmax            : 48117.9     
+# ymin            :   1.2000E-03
+# ymax            :   2.8600E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     40095.9  2.8600E-02  4.2900E-03
+     40097.9  2.7800E-02  4.1700E-03
+     48115.1  1.2000E-03  1.8000E-04
+     48115.0  1.2500E-02  1.8750E-03
+     48115.9  1.3700E-02  2.0550E-03
+     48117.9  9.5500E-03  1.4325E-03
+#---------------------------------------------------

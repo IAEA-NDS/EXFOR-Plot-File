@@ -1,0 +1,26 @@
+# EXFOR #         : M0755.010  
+# EXFOR Ver.      : 20080814
+# TRANS #         : M046
+# Author          : Y.Birenbaum et al.
+# Reference       : Phys.Rev.C 51 (1995) 3496
+# DOI             : 10.1103/PhysRevC.51.3496
+# Quantity        : 159Tb(g,n)158Tb partial cross section
+# REACTION        : 65-TB-159(G,N)65-TB-158,PAR,SIG
+# File ID         : g-Tb159-n-sig-excfun-mon-elvl0.000E+00_prodTb158_Birenbaum_1995_m0755.010
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :   8.8840E+06
+# xmax            :   9.9990E+06
+# ymin            :   3.4000E-04
+# ymax            :   7.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.8840E+06  0.0000E+00  5.0000E-04  5.0000E-05
+  9.7200E+06  0.0000E+00  3.4000E-04  9.0000E-05
+  9.9990E+06  0.0000E+00  7.7000E-04  1.6000E-04
+#---------------------------------------------------

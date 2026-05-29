@@ -1,0 +1,28 @@
+# EXFOR #         : C0385.008  
+# EXFOR Ver.      : 19990917
+# TRANS #         : 0000
+# Author          : J.Jaenecke et al.
+# Reference       : Nucl.Phys.A 526 (1991) 1
+# DOI             : N/A
+# Quantity        : 30Si(he3,t)30P partial angular differential cross section
+# REACTION        : 14-SI-30(HE3,T)15-P-30,PAR,DA
+# File ID         : h-Si30-t-adxl-lvldis-mon-einc2.000E+08_angl1_prodP30_Jaenecke_1991_c0385.008
+#
+# Einc (eV)       :   2.0000E+08
+# theta,lab (deg) :    1.4000000
+#
+# npts            : 4           
+# xmin            :   0.0000E+00
+# xmax            :   4.9450E+06
+# ymin            :   2.6800E-04
+# ymax            :   1.4900E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  2.6800E-04  4.2000E-05
+  6.7700E+05  0.0000E+00  1.4900E-03  1.3000E-04
+  3.0190E+06  0.0000E+00  9.1000E-04  8.0000E-05
+  4.9450E+06  0.0000E+00  2.7300E-04  4.8000E-05
+#---------------------------------------------------

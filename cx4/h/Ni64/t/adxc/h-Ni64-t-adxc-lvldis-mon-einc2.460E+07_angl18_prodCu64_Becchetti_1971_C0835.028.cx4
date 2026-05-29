@@ -1,0 +1,27 @@
+# EXFOR #         : C0835.028  
+# EXFOR Ver.      : 20010831
+# TRANS #         : 0000
+# Author          : F.D.Becchetti et al.
+# Reference       : Nucl.Phys.A 168 (1971) 151
+# DOI             : 10.1016/0375-9474(71)90656-7
+# Quantity        : 64Ni(he3,t)64Cu partial angular differential cross section
+# REACTION        : 28-NI-64(HE3,T)29-CU-64,PAR,DA
+# File ID         : h-Ni64-t-adxc-lvldis-mon-einc2.460E+07_angl18_prodCu64_Becchetti_1971_c0835.028
+#
+# Einc (eV)       :   2.4600E+07
+# dEinc (eV)      :   5.0000E+03
+# theta,lab (deg) :   18.0000000
+#
+# npts            : 2           
+# xmin            :   6.8100E+06
+# xmax            :   6.8260E+06
+# ymin            :   3.7000E-05
+# ymax            :   2.0000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.8100E+06  6.0000E+03  3.7000E-05  0.0000E+00
+  6.8260E+06  6.0000E+03  2.0000E-04  0.0000E+00
+#---------------------------------------------------

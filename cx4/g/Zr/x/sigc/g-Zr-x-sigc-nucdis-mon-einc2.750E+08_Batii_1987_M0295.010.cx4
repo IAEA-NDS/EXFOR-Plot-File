@@ -1,0 +1,28 @@
+# EXFOR #         : M0295.010  
+# EXFOR Ver.      : 20191007
+# TRANS #         : M102
+# Author          : V.G.Batii et al.
+# Reference       : At.En. 63 (1987) 386
+# DOI             : N/A
+# Quantity        : natZr(g,f) cumulative production cross section
+# REACTION        : 40-ZR-0(G,F)ELEM/MASS,CUM,SIG
+# File ID         : g-Zr-x-sigc-nucdis-mon-einc2.750E+08_Batii_1987_m0295.010
+#
+# Einc (eV)       :   2.7500E+08
+#
+# npts            : 5           
+# xmin            : 39086.9     
+# xmax            : 40089.9     
+# ymin            :   2.5000E-04
+# ymax            :   2.5000E-03
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     39086.9  1.6000E-03  3.0000E-04
+     39087.0  2.5000E-03  3.0000E-04
+     39087.1  2.5000E-04  6.0000E-06
+     40086.9  1.2300E-03  5.1000E-04
+     40089.9  1.3300E-03  1.0000E-04
+#---------------------------------------------------

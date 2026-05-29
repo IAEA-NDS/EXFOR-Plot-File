@@ -1,0 +1,29 @@
+# EXFOR #         : C1975.008  
+# EXFOR Ver.      : 20130122
+# TRANS #         : C127
+# Author          : D.K.Sharp et al.
+# Reference       : Phys.Rev.C 87 (2013) 014312
+# DOI             : 10.1103/PhysRevC.87.014312
+# Quantity        : 86Kr(d,p)87Kr partial angular differential cross section
+# REACTION        : 36-KR-86(D,P)36-KR-87,PAR,DA
+# File ID         : d-Kr86-p-adxc-angdisc-mon-einc2.000E+07_elvl3.229E+06_prodKr87_Sharp_2013_c1975.008
+#
+# Einc (eV)       :   2.0000E+07
+# Elvl (eV)       :   3.2290E+06
+# dElvl (eV)      :   1.6000E+04
+#
+# npts            : 4           
+# xmin            :   16.4000000
+# xmax            :   29.5000000
+# ymin            :   2.2000E-04
+# ymax            :   4.1000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.4000000   0.0000000  4.1000E-04  6.0000E-05
+  21.7000000   0.0000000  2.2000E-04  5.0000E-05
+  25.9000000   0.0000000  3.5000E-04  9.0000E-05
+  29.5000000   0.0000000  3.9000E-04  5.0000E-05
+#---------------------------------------------------

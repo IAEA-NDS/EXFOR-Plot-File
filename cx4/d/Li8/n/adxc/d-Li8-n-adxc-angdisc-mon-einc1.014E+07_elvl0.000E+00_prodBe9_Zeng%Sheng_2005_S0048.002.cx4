@@ -1,0 +1,27 @@
+# EXFOR #         : S0048.002  
+# EXFOR Ver.      : 20091022
+# TRANS #         : S013
+# Author          : Zeng Sheng et al.
+# Reference       : Chin.Phys.Lett. 22 (2005) 2219
+# DOI             : 10.1088/0256-307X/22/9/022
+# Quantity        : 8Li(d,n)9Be partial angular differential cross section
+# REACTION        : 3-LI-8(D,N)4-BE-9,PAR,DA
+# File ID         : d-Li8-n-adxc-angdisc-mon-einc1.014E+07_elvl0.000E+00_prodBe9_Zeng%Sheng_2005_s0048.002
+#
+# Einc (eV)       :   1.0138E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :   28.0329000
+# xmax            :   55.1725800
+# ymin            :   6.5570E-04
+# ymax            :   1.2949E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  28.0329000   7.6068300  1.2949E-03  4.3162E-04
+  42.9432300   5.4238300  9.7297E-04  3.6775E-04
+  55.1725800   4.7694700  6.5570E-04  2.9324E-04
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : C3029.003  
+# EXFOR Ver.      : 20250116
+# TRANS #         : C248
+# Author          : P.T.Sewell et al.
+# Reference       : Phys.Rev.C 7 (1973) 690
+# DOI             : 10.1103/PhysRevC.7.690
+# Quantity        : 58Ni(a,inl)58Ni partial angular differential cross section
+# REACTION        : 28-NI-58(A,INL)28-NI-58,PAR,DA
+# File ID         : a-Ni58-inl-adxc-angdisc-mon-einc2.200E+07_elvl1.450E+06_prodNi58_Sewell_1973_c3029.003
+#
+# Einc (eV)       :   2.2000E+07
+# Elvl (eV)       :   1.4500E+06
+#
+# npts            : 5           
+# xmin            :  165.7690000
+# xmax            :  178.9010000
+# ymin            :   6.9000E-05
+# ymax            :   9.9000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 165.7690000   0.0000000  7.1000E-05  8.0000E-06
+ 168.8380000   0.0000000  6.9000E-05  7.0000E-06
+ 173.1710000   0.0000000  7.9000E-05  8.0000E-06
+ 176.3510000   0.0000000  9.3000E-05  9.0000E-06
+ 178.9010000   0.0000000  9.9000E-05  9.0000E-06
+#---------------------------------------------------

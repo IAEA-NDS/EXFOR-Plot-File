@@ -1,0 +1,22 @@
+# EXFOR #         : O0874.022  
+# EXFOR Ver.      : 20040305
+# TRANS #         : 0000
+# Author          : M.Pfutzner et al.
+# Reference       : Phys.Lett.B 444 (1998) 32
+# DOI             : 10.1016/S0370-2693(98)01332-X
+# Quantity        : 9Be(238U,x)210Bi independent production cross section
+# REACTION        : 4-BE-9(92-U-238,X)83-BI-210,,SIG
+# File ID         : U238-Be9-x-sig-excfun-mon-prodBi210_Pfutzner_1998_o0874.022
+#
+# npts            : 1           
+# xmin            :   2.3800E+11
+# xmax            :   2.3800E+11
+# ymin            :   9.8000E-05
+# ymax            :   9.8000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3800E+11  0.0000E+00  9.8000E-05  1.1760E-05
+#---------------------------------------------------

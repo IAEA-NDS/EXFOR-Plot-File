@@ -1,0 +1,22 @@
+# EXFOR #         : C1511.013  
+# EXFOR Ver.      : 20070419
+# TRANS #         : C080
+# Author          : M.A.Hofstee et al.
+# Reference       : Nucl.Phys.A 688 (2001) 527
+# DOI             : 10.1016/S0375-9474(01)00777-1
+# Quantity        : 11B(d,n)12C cross section
+# REACTION        : 5-B-11(D,N)6-C-12,,SIG,,SFC
+# File ID         : d-B11-n-sig-excfun-mon-prodC12_Hofstee_2001_c1511.013
+#
+# npts            : 1           
+# xmin            :   1.3131E+05
+# xmax            :   1.3131E+05
+# ymin            :   7.5131E-08
+# ymax            :   7.5131E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3131E+05  0.0000E+00  7.5131E-08  3.7565E-09
+#---------------------------------------------------

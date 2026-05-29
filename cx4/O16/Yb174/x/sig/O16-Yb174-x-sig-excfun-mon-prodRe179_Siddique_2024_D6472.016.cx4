@@ -1,0 +1,25 @@
+# EXFOR #         : D6472.016  
+# EXFOR Ver.      : 20250227
+# TRANS #         : D148
+# Author          : A.Siddique et al.
+# Reference       : Phys.Rev.C 110 (2024) 064605
+# DOI             : 10.1103/PhysRevC.110.064605
+# Quantity        : 174Yb(16O,x)179Re independent production cross section
+# REACTION        : 70-YB-174(8-O-16,X)75-RE-179,,SIG
+# File ID         : O16-Yb174-x-sig-excfun-mon-prodRe179_Siddique_2024_d6472.016
+#
+# npts            : 4           
+# xmin            :   9.2860E+07
+# xmax            :   9.9320E+07
+# ymin            :   5.0000E-04
+# ymax            :   4.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.2860E+07  7.5000E+05  5.0000E-04  7.0000E-05
+  9.5170E+07  8.3000E+05  1.0000E-03  1.4000E-04
+  9.7190E+07  8.1000E+05  2.3000E-03  2.9000E-04
+  9.9320E+07  6.8000E+05  4.1000E-03  6.0000E-04
+#---------------------------------------------------

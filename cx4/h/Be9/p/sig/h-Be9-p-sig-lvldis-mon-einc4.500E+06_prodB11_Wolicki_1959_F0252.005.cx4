@@ -1,0 +1,25 @@
+# EXFOR #         : F0252.005  
+# EXFOR Ver.      : 20251210
+# TRANS #         : F104
+# Author          : E.A.Wolicki et al.
+# Reference       : Phys.Rev. 116 (1959) 1585
+# DOI             : 10.1103/PhysRev.116.1585
+# Quantity        : 9Be(he3,p)11B partial cross section
+# REACTION        : 4-BE-9(HE3,P)5-B-11,PAR,SIG
+# File ID         : h-Be9-p-sig-lvldis-mon-einc4.500E+06_prodB11_Wolicki_1959_f0252.005
+#
+# Einc (eV)       :   4.5000E+06
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   2.1380E+06
+# ymin            :   7.4000E-03
+# ymax            :   1.1500E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.1500E-02  0.0000E+00
+  2.1380E+06  0.0000E+00  7.4000E-03  0.0000E+00
+#---------------------------------------------------

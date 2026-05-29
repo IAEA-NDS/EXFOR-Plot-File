@@ -1,0 +1,23 @@
+# EXFOR #         : D4232.009  
+# EXFOR Ver.      : 20101021
+# TRANS #         : D077
+# Author          : F.Ditroi et al.
+# Reference       : Nucl.Instrum.Meth.B 268 (2010) 2571
+# DOI             : 10.1016/j.nimb.2010.06.033
+# Quantity        : 59Co(d,x)56Mn independent production cross section
+# REACTION        : 27-CO-59(D,X)25-MN-56,,SIG
+# File ID         : d-Co59-x-sig-excfun-mon-prodMn56_Ditroi_2010_d4232.009
+#
+# npts            : 2           
+# xmin            :   3.7400E+07
+# xmax            :   3.8800E+07
+# ymin            :   4.2000E-03
+# ymax            :   8.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7400E+07  4.0000E+05  4.2000E-03  1.4000E-03
+  3.8800E+07  3.0000E+05  8.0000E-03  1.3000E-03
+#---------------------------------------------------

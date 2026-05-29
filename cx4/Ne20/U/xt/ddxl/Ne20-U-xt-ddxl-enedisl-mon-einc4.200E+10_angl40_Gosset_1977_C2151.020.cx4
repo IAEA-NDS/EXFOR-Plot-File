@@ -1,0 +1,30 @@
+# EXFOR #         : C2151.020  
+# EXFOR Ver.      : 20150303
+# TRANS #         : C148
+# Author          : J.Gosset et al.
+# Reference       : Phys.Rev.C 16 (1977) 629
+# DOI             : 10.1103/PhysRevC.16.629
+# Quantity        : natU(20Ne,t+x) double differential cross section
+# REACTION        : 92-U-0(10-NE-20,X)1-H-3,,DA/DE
+# File ID         : Ne20-U-xt-ddxl-enedisl-mon-einc4.200E+10_angl40_Gosset_1977_c2151.020
+#
+# Einc (eV)       :   4.2000E+10
+# theta,lab (deg) :   40.0000000
+#
+# npts            : 6           
+# xmin            :   1.4430E+08
+# xmax            :   7.7050E+08
+# ymin            :   2.3520E-08
+# ymax            :   7.2030E-08
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.4430E+08  0.0000E+00  7.2030E-08  0.0000E+00
+  2.8670E+08  0.0000E+00  5.8440E-08  0.0000E+00
+  4.0050E+08  0.0000E+00  4.6030E-08  0.0000E+00
+  5.3330E+08  0.0000E+00  3.5720E-08  0.0000E+00
+  6.5666E+08  0.0000E+00  2.8990E-08  0.0000E+00
+  7.7050E+08  0.0000E+00  2.3520E-08  0.0000E+00
+#---------------------------------------------------

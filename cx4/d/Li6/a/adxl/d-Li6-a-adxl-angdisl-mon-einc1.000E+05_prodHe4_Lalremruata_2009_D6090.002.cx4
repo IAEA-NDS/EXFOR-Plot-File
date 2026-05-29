@@ -1,0 +1,28 @@
+# EXFOR #         : D6090.002  
+# EXFOR Ver.      : 20091104
+# TRANS #         : D070
+# Author          : B.Lalremruata et al.
+# Reference       : Phys.Rev.C 80 (2009) 044617
+# DOI             : 10.1103/PhysRevC.80.044617
+# Quantity        : 6Li(d,a)4He angular differential cross section
+# REACTION        : 3-LI-6(D,A)2-HE-4,,DA
+# File ID         : d-Li6-a-adxl-angdisl-mon-einc1.000E+05_prodHe4_Lalremruata_2009_d6090.002
+#
+# Einc (eV)       :   1.0000E+05
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  140.0000000
+# ymin            :   8.7700E-06
+# ymax            :   4.2900E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  4.2900E-05  6.0000E-06
+  50.0000000   0.0000000  3.1090E-05  4.3000E-06
+  90.0000000   0.0000000  2.1910E-05  3.1000E-06
+ 120.0000000   0.0000000  8.7700E-06  1.2300E-06
+ 140.0000000   0.0000000  9.5800E-06  1.3400E-06
+#---------------------------------------------------

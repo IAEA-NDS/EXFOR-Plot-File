@@ -1,0 +1,25 @@
+# EXFOR #         : E1923.106  
+# EXFOR Ver.      : 20060411
+# TRANS #         : E036
+# Author          : H.Yashima et al.
+# Reference       : Nucl.Instrum.Meth.B 226 (2004) 243
+# DOI             : 10.1016/j.nimb.2004.06.025
+# Quantity        : natPb(20Ne,x) independent production cross section
+# REACTION        : 82-PB-0(10-NE-20,X)ELEM/MASS,IND,SIG
+# File ID         : Ne20-Pb-x-sig-nucdis-mon-einc4.600E+09_Yashima_2004_e1923.106
+#
+# Einc (eV)       :   4.6000E+09
+#
+# npts            : 2           
+# xmin            : 25054.9     
+# xmax            : 27058.0     
+# ymin            :   5.6600E-03
+# ymax            :   6.7200E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     25054.9  5.6600E-03  5.1000E-04
+     27058.0  6.7200E-03  6.2000E-04
+#---------------------------------------------------

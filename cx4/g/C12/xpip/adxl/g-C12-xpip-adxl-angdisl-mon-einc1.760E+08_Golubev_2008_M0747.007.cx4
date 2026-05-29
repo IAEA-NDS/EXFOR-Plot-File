@@ -1,0 +1,25 @@
+# EXFOR #         : M0747.007  
+# EXFOR Ver.      : 20210519
+# TRANS #         : M112
+# Author          : P.Golubev et al.
+# Reference       : Nucl.Phys.A 806 (2008) 216
+# DOI             : 10.1016/j.nuclphysa.2008.02.308
+# Quantity        : 12C(g,pi++x) angular differential cross section
+# REACTION        : 6-C-12(G,X)1-PP-0,,DA
+# File ID         : g-C12-xpip-adxl-angdisl-mon-einc1.760E+08_Golubev_2008_m0747.007
+#
+# Einc (eV)       :   1.7600E+08
+#
+# npts            : 2           
+# xmin            :   30.0000000
+# xmax            :   90.0000000
+# ymin            :   2.6220E-06
+# ymax            :   6.5340E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  6.5340E-06  8.8000E-07
+  90.0000000   0.0000000  2.6220E-06  5.9000E-07
+#---------------------------------------------------

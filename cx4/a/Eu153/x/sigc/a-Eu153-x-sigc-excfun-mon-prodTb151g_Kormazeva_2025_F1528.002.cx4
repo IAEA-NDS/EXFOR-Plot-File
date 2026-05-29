@@ -1,0 +1,23 @@
+# EXFOR #         : F1528.002  
+# EXFOR Ver.      : 20250528
+# TRANS #         : F101
+# Author          : E.S.Kormazeva et al.
+# Reference       : Radiat.Phys.Chem. 234 (2025) 112809
+# DOI             : 10.1016/j.radphyschem.2025.112809
+# Quantity        : 153Eu(a,x)151gTb cumulative production cross section
+# REACTION        : 63-EU-153(A,X)65-TB-151-G,CUM,SIG
+# File ID         : a-Eu153-x-sigc-excfun-mon-prodTb151g_Kormazeva_2025_f1528.002
+#
+# npts            : 2           
+# xmin            :   5.7200E+07
+# xmax            :   5.9200E+07
+# ymin            :   1.5000E-02
+# ymax            :   5.0400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9200E+07  5.0000E+05  5.0400E-02  5.1000E-03
+  5.7200E+07  6.0000E+05  1.5000E-02  1.5000E-03
+#---------------------------------------------------

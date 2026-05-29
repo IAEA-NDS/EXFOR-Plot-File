@@ -1,0 +1,24 @@
+# EXFOR #         : O1272.002.3
+# EXFOR Ver.      : 20201210
+# TRANS #         : O081
+# Author          : A.Hermanne et al.
+# Reference       : Appl.Radiat.Isot. 63 (2005) 1
+# DOI             : N/A
+# Quantity        : 209Bi(a,2n)211At cross section
+# REACTION        : 83-BI-209(A,2N)85-AT-211,,SIG
+# File ID         : a-Bi209-2n-sig-excfun-mon-prodAt211_Hermanne_2005_o1272.002.3
+#
+# npts            : 3           
+# xmin            :   2.9600E+07
+# xmax            :   3.2400E+07
+# ymin            :   7.9700E-01
+# ymax            :   9.7000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9600E+07  1.0000E+06  8.4200E-01  1.2600E-01
+  3.1000E+07  9.0000E+05  9.7000E-01  1.4600E-01
+  3.2400E+07  8.0000E+05  7.9700E-01  1.2000E-01
+#---------------------------------------------------

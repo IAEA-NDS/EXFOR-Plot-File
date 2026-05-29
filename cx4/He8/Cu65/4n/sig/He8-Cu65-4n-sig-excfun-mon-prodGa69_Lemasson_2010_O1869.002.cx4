@@ -1,0 +1,23 @@
+# EXFOR #         : O1869.002  
+# EXFOR Ver.      : 20101129
+# TRANS #         : O044
+# Author          : A.Lemasson et al.
+# Reference       : Phys.Rev.C 82 (2010) 044617
+# DOI             : 10.1103/PhysRevC.82.044617
+# Quantity        : 65Cu(8He,4n)69Ga cross section
+# REACTION        : 29-CU-65(2-HE-8,4N)31-GA-69,,SIG
+# File ID         : He8-Cu65-4n-sig-excfun-mon-prodGa69_Lemasson_2010_o1869.002
+#
+# npts            : 2           
+# xmin            :   1.9915E+07
+# xmax            :   3.0628E+07
+# ymin            :   7.6400E-01
+# ymax            :   9.7100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9915E+07  0.0000E+00  9.7100E-01  4.3000E-02
+  3.0628E+07  0.0000E+00  7.6400E-01  6.5000E-02
+#---------------------------------------------------

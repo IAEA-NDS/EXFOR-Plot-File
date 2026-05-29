@@ -1,0 +1,25 @@
+# EXFOR #         : E2224.009  
+# EXFOR Ver.      : 20160520
+# TRANS #         : E103
+# Author          : Y.Ishizaki
+# Reference       : J.Phys.Soc.Jpn. 16 (1961) 1056
+# DOI             : 10.1143/JPSJ.16.1056
+# Quantity        : 24Mg(d,inl)24Mg partial cross section
+# REACTION        : 12-MG-24(D,INL)12-MG-24,PAR,SIG
+# File ID         : d-Mg24-inl-sig-excfun-mon-elvl1.370E+06_prodMg24_Ishizaki_1961_e2224.009
+#
+# Elvl (eV)       :   1.3700E+06
+#
+# npts            : 2           
+# xmin            :   1.5920E+07
+# xmax            :   1.7530E+07
+# ymin            :   4.9670E-02
+# ymax            :   5.9060E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5920E+07  1.0000E+05  5.9060E-02  1.0090E-02
+  1.7530E+07  1.0000E+05  4.9670E-02  1.1020E-02
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : M0842.007  
+# EXFOR Ver.      : 20120130
+# TRANS #         : M062
+# Author          : H.Arenhoevel et al.
+# Reference       : Nucl.Phys.A 147 (1970) 305
+# DOI             : 10.1016/0375-9474(70)90270-8
+# Quantity        : natCr(g,inl)natCr angular differential cross section
+# REACTION        : 24-CR-0(G,INL)24-CR-0,,DA,,BRS
+# File ID         : g-Cr-inl-adxl-excfun-brs-angl150_prodCr_Arenhoevel_1970_m0842.007
+#
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 3           
+# xmin            :   1.7500E+07
+# xmax            :   2.2000E+07
+# ymin            :   4.3480E-06
+# ymax            :   5.7970E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7500E+07  1.0000E+06  5.7970E-06  1.1590E-06
+  1.9500E+07  1.0000E+06  4.6960E-06  1.2750E-06
+  2.2000E+07  1.5000E+06  4.3480E-06  1.7390E-06
+#---------------------------------------------------

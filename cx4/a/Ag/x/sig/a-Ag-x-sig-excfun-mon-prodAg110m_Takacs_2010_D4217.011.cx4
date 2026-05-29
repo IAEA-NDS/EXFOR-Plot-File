@@ -1,0 +1,25 @@
+# EXFOR #         : D4217.011  
+# EXFOR Ver.      : 20090608
+# TRANS #         : D069
+# Author          : S.Takacs et al.
+# Reference       : Nucl.Instrum.Meth.B 268 (2010) 2
+# DOI             : 10.1016/j.nimb.2009.09.035
+# Quantity        : natAg(a,x)110mAg independent production cross section
+# REACTION        : 47-AG-0(A,X)47-AG-110-M,,SIG
+# File ID         : a-Ag-x-sig-excfun-mon-prodAg110m_Takacs_2010_d4217.011
+#
+# npts            : 4           
+# xmin            :   3.3500E+07
+# xmax            :   3.8200E+07
+# ymin            :   1.0000E-05
+# ymax            :   3.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8200E+07  3.0000E+05  3.4000E-04  6.0000E-05
+  3.6700E+07  3.3000E+05  3.3000E-04  1.5000E-04
+  3.5100E+07  3.6000E+05  1.8000E-04  5.0000E-05
+  3.3500E+07  4.0000E+05  1.0000E-05  8.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,30 @@
+# EXFOR #         : A0302.003  
+# EXFOR Ver.      : 20180125
+# TRANS #         : A088
+# Author          : N.S.Biryukov et al.
+# Reference       : Yad.Reak.Konst.  No.2 (1986) 6
+# DOI             : N/A
+# Quantity        : 53Cr(d,n+x) double differential cross section
+# REACTION        : 24-CR-53(D,X)0-NN-1,,DA/DE
+# File ID         : d-Cr53-xn-ddxl-angdisl-mon-einc2.230E+07_eoutl1.590E+06_Biryukov_1986_a0302.003
+#
+# Einc (eV)       :   2.2300E+07
+# dEinc (eV)      :   3.0000E+05
+# Eout,lab (eV)   :   1.5900E+06
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   4.0810E-08
+# ymax            :   5.2350E-08
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  30.0000000   0.0000000  4.4000E-08  1.8200E-09
+  60.0000000   0.0000000  4.0810E-08  1.6500E-09
+  90.0000000   0.0000000  4.5470E-08  1.8300E-09
+ 120.0000000   0.0000000  5.1460E-08  2.1200E-09
+ 150.0000000   0.0000000  5.2350E-08  2.3100E-09
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : E2050.010  
+# EXFOR Ver.      : 20080131
+# TRANS #         : E050
+# Author          : L.Heilbronn et al.
+# Reference       : Nucl.Sci.Eng. 157 No.2 (2007) 142
+# DOI             : 10.13182/NSE07-A2719
+# Quantity        : natCu(84Kr,n+x) double differential cross section
+# REACTION        : 29-CU-0(36-KR-84,X)0-NN-1,,DA/DE
+# File ID         : Kr84-Cu-xn-ddxl-enedisl-mon-einc3.360E+10_angl80_Heilbronn_2007_e2050.010
+#
+# Einc (eV)       :   3.3600E+10
+# theta,lab (deg) :   80.0000000
+#
+# npts            : 5           
+# xmin            :   1.8680E+07
+# xmax            :   2.7435E+08
+# ymin            :   1.3860E-09
+# ymax            :   2.4740E-08
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.7435E+08  1.6475E+08  1.3860E-09  2.9010E-10
+  8.9705E+07  1.9895E+07  8.4860E-09  1.9160E-09
+  5.7730E+07  1.2080E+07  1.2280E-08  2.8920E-09
+  2.6102E+07  1.9548E+07  2.1070E-08  5.2470E-09
+  1.8680E+07  1.3631E+07  2.4740E-08  8.6840E-09
+#---------------------------------------------------

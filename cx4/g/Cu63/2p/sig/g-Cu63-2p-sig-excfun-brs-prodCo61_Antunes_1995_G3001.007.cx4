@@ -1,0 +1,24 @@
+# EXFOR #         : G3001.007  
+# EXFOR Ver.      : 20170825
+# TRANS #         : G039
+# Author          : M.L.P.Antunes et al.
+# Reference       : Phys.Rev.C 52 (1995) 1484
+# DOI             : 10.1103/PhysRevC.52.1484
+# Quantity        : 63Cu(g,2p)61Co cross section
+# REACTION        : 29-CU-63(G,2P)27-CO-61,,SIG,,BRS
+# File ID         : g-Cu63-2p-sig-excfun-brs-prodCo61_Antunes_1995_g3001.007
+#
+# npts            : 3           
+# xmin            :   2.2100E+07
+# xmax            :   4.1000E+07
+# ymin            :   8.9000E-05
+# ymax            :   5.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2100E+07  4.9000E+06  8.9000E-05  9.0000E-06
+  2.9500E+07  2.5000E+06  5.7000E-04  7.0000E-05
+  4.1000E+07  9.0000E+06  3.3000E-04  4.0000E-05
+#---------------------------------------------------

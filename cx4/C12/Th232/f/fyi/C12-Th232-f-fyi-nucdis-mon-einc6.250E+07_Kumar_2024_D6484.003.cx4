@@ -1,0 +1,26 @@
+# EXFOR #         : D6484.003  
+# EXFOR Ver.      : 20250930
+# TRANS #         : D151
+# Author          : S.Kumar et al.
+# Reference       : Eur.Phys.J.A 60 (2024) 146
+# DOI             : 10.1140/epja/s10050-024-01368-6
+# Quantity        : 232Th(12C,f) independent fission product yield
+# REACTION        : 90-TH-232(6-C-12,F)ELEM/MASS,IND,FY
+# File ID         : C12-Th232-f-fyi-nucdis-mon-einc6.250E+07_Kumar_2024_d6484.003
+#
+# Einc (eV)       :   6.2500E+07
+#
+# npts            : 3           
+# xmin            : 51124.0     
+# xmax            : 53130.0     
+# ymin            :   4.8000E-03
+# ymax            :   6.3000E-03
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     51124.0  4.8000E-03  2.0000E-04
+     51126.0  6.3000E-03  5.0000E-04
+     53130.0  5.7000E-03  2.0000E-04
+#---------------------------------------------------

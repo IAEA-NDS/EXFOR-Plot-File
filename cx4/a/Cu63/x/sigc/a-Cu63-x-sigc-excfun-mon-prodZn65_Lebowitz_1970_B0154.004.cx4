@@ -1,0 +1,22 @@
+# EXFOR #         : B0154.004  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : E.Lebowitz et al.
+# Reference       : Appl.Radiat.Isot. 21 (1970) 625
+# DOI             : 10.1016/0020-708X(70)90106-7
+# Quantity        : 63Cu(a,x)65Zn cumulative production cross section
+# REACTION        : 29-CU-63(A,X)30-ZN-65,CUM,SIG,,,EXP
+# File ID         : a-Cu63-x-sigc-excfun-mon-prodZn65_Lebowitz_1970_b0154.004
+#
+# npts            : 1           
+# xmin            :   2.7800E+07
+# xmax            :   2.7800E+07
+# ymin            :   7.1100E-01
+# ymax            :   7.1100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7800E+07  1.4000E+06  7.1100E-01  3.6000E-02
+#---------------------------------------------------

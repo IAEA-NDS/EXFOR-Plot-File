@@ -1,0 +1,24 @@
+# EXFOR #         : F1486.002  
+# EXFOR Ver.      : 20231114
+# TRANS #         : F095
+# Author          : Yu.Ts.Oganessian et al.
+# Reference       : Phys.Rev.C 108 (2023) 024611
+# DOI             : 10.1103/PhysRevC.108.024611
+# Quantity        : 232Th(48Ca,4n)276Ds cross section
+# REACTION        : 90-TH-232(20-CA-48,4N)110-DS-276,,SIG
+# File ID         : Ca48-Th232-4n-sig-excfun-mon-prodDs276_Oganessian_2023_f1486.002
+#
+# npts            : 3           
+# xmin            :   2.3110E+08
+# xmax            :   2.5060E+08
+# ymin            :   7.0000E-14
+# ymax            :   7.0000E-13
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3110E+08  0.0000E+00  7.0000E-14  0.0000E+00
+  2.3780E+08  0.0000E+00  7.0000E-13  0.0000E+00
+  2.5060E+08  0.0000E+00  1.1000E-13  0.0000E+00
+#---------------------------------------------------

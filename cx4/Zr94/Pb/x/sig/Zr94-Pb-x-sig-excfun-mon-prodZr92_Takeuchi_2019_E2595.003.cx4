@@ -1,0 +1,22 @@
+# EXFOR #         : E2595.003  
+# EXFOR Ver.      : 20191216
+# TRANS #         : E124
+# Author          : S.Takeuchi et al.
+# Reference       : Prog.Theor.Exp.Phys. 2019 (2019) 013D02
+# DOI             : N/A
+# Quantity        : natPb(94Zr,x)92Zr independent production cross section
+# REACTION        : 82-PB-0(40-ZR-94,X)40-ZR-92,,SIG
+# File ID         : Zr94-Pb-x-sig-excfun-mon-prodZr92_Takeuchi_2019_e2595.003
+#
+# npts            : 1           
+# xmin            :   1.9180E+10
+# xmax            :   1.9180E+10
+# ymin            :   1.5600E-01
+# ymax            :   1.5600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9180E+10  0.0000E+00  1.5600E-01  1.5000E-02
+#---------------------------------------------------

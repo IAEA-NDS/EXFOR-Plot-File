@@ -1,0 +1,29 @@
+# EXFOR #         : C2937.002  
+# EXFOR Ver.      : 20231113
+# TRANS #         : C237
+# Author          : C.R.Bingham et al.
+# Reference       : Phys.Rev.C 8 (1973) 729
+# DOI             : 10.1103/PhysRevC.8.729
+# Quantity        : 124Sn(d,p)125Sn partial angular differential cross section
+# REACTION        : 50-SN-124(D,P)50-SN-125,PAR,DA
+# File ID         : d-Sn124-p-adxc-angdisc-mon-einc3.330E+07_elvl3.830E+06_prodSn125_Bingham_1973_c2937.002
+#
+# Einc (eV)       :   3.3300E+07
+# Elvl (eV)       :   3.8300E+06
+#
+# npts            : 5           
+# xmin            :   13.1100000
+# xmax            :   38.2300000
+# ymin            :   8.1330E-05
+# ymax            :   2.7730E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  13.1100000   0.0000000  2.7730E-04  0.0000E+00
+  18.1300000   0.0000000  2.0230E-04  0.0000E+00
+  27.8200000   0.0000000  1.3650E-04  0.0000E+00
+  32.9700000   0.0000000  1.3190E-04  0.0000E+00
+  38.2300000   0.0000000  8.1330E-05  0.0000E+00
+#---------------------------------------------------

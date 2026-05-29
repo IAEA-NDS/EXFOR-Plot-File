@@ -1,0 +1,24 @@
+# EXFOR #         : F1247.055  
+# EXFOR Ver.      : 20150610
+# TRANS #         : F058
+# Author          : M.Suchopar et al.
+# Reference       : Nucl.Instrum.Meth.B 344 (2015) 63
+# DOI             : 10.1016/j.nimb.2014.12.006
+# Quantity        : natCu(d,x)43Sc cumulative production cross section
+# REACTION        : 29-CU-0(D,X)21-SC-43,CUM,SIG
+# File ID         : d-Cu-x-sigc-excfun-mon-prodSc43_Suchopar_2015_f1247.055
+#
+# npts            : 3           
+# xmin            :   2.0000E+09
+# xmax            :   8.0000E+09
+# ymin            :   3.7800E-03
+# ymax            :   6.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+09  0.0000E+00  6.0000E-03  3.0000E-04
+  4.0000E+09  0.0000E+00  4.8900E-03  2.8000E-04
+  8.0000E+09  0.0000E+00  3.7800E-03  2.3000E-04
+#---------------------------------------------------

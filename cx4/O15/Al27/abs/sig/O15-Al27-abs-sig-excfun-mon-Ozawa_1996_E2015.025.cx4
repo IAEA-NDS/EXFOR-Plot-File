@@ -1,0 +1,22 @@
+# EXFOR #         : E2015.025  
+# EXFOR Ver.      : 20070712
+# TRANS #         : E045
+# Author          : A.Ozawa et al.
+# Reference       : Nucl.Phys.A 608 No.1 (1996) 63
+# DOI             : 10.1016/0375-9474(96)00241-2
+# Quantity        : 27Al(15O,abs) cross section
+# REACTION        : 13-AL-27(8-O-15,ABS),,SIG
+# File ID         : O15-Al27-abs-sig-excfun-mon-Ozawa_1996_e2015.025
+#
+# npts            : 1           
+# xmin            :   1.0500E+10
+# xmax            :   1.0500E+10
+# ymin            :   1.3100E+00
+# ymax            :   1.3100E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0500E+10  0.0000E+00  1.3100E+00  2.8000E-02
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : O1159.003  
+# EXFOR Ver.      : 20040512
+# TRANS #         : 0000
+# Author          : G.Rotbard et al.
+# Reference       : Phys.Rev.C 16 (1977) 1825
+# DOI             : 10.1103/PhysRevC.16.1825
+# Quantity        : 69Ga(d,he3)68Zn partial angular differential cross section
+# REACTION        : 31-GA-69(D,HE3)30-ZN-68,PAR,DA
+# File ID         : d-Ga69-h-adxc-angdisc-mon-einc2.600E+07_elvl3.415E+06_prodZn68_Rotbard_1977_o1159.003
+#
+# Einc (eV)       :   2.6000E+07
+# Elvl (eV)       :   3.4150E+06
+#
+# npts            : 5           
+# xmin            :   14.7100000
+# xmax            :   34.6100000
+# ymin            :   9.7100E-06
+# ymax            :   3.4400E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  14.7100000   0.0000000  3.4400E-05  0.0000E+00
+  18.0600000   0.0000000  1.8050E-05  5.4150E-07
+  22.8900000   0.0000000  2.9700E-05  8.9100E-07
+  27.4900000   0.0000000  3.4100E-05  1.0230E-06
+  34.6100000   0.0000000  9.7100E-06  4.8550E-07
+#---------------------------------------------------

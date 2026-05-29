@@ -1,0 +1,24 @@
+# EXFOR #         : F1484.002  
+# EXFOR Ver.      : 20231109
+# TRANS #         : F095
+# Author          : Yu.Ts.Oganessian et al.
+# Reference       : Phys.Rev.C 106 (2022) L031301
+# DOI             : 10.1103/PhysRevC.106.L031301
+# Quantity        : 243Am(48Ca,3n)288Mc cross section
+# REACTION        : 95-AM-243(20-CA-48,3N)115-MC-288,,SIG
+# File ID         : Ca48-Am243-3n-sig-excfun-mon-prodMc288_Oganessian_2022_f1484.002
+#
+# npts            : 3           
+# xmin            :   2.3910E+08
+# xmax            :   2.4390E+08
+# ymin            :   9.8000E-12
+# ymax            :   1.7100E-11
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4390E+08  0.0000E+00  9.8000E-12  0.0000E+00
+  2.4090E+08  0.0000E+00  1.7100E-11  0.0000E+00
+  2.3910E+08  0.0000E+00  9.9000E-12  0.0000E+00
+#---------------------------------------------------

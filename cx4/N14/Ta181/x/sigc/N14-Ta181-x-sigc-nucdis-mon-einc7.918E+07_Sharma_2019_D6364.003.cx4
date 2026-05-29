@@ -1,0 +1,29 @@
+# EXFOR #         : D6364.003  
+# EXFOR Ver.      : 20191116
+# TRANS #         : D124
+# Author          : V.R.Sharma et al.
+# Reference       : Phys.Rev.C 99 (2019) 034617
+# DOI             : 10.1103/PhysRevC.99.034617
+# Quantity        : 181Ta(14N,f) cumulative production cross section
+# REACTION        : 73-TA-181(7-N-14,F)ELEM/MASS,CUM,SIG
+# File ID         : N14-Ta181-x-sigc-nucdis-mon-einc7.918E+07_Sharma_2019_d6364.003
+#
+# Einc (eV)       :   7.9180E+07
+# dEinc (eV)      :   8.2000E+05
+#
+# npts            : 5           
+# xmin            : 31072.9     
+# xmax            : 58133.9     
+# ymin            :   4.0200E-03
+# ymax            :   5.6210E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     31072.9  2.6040E-02  3.9000E-03
+     36076.9  1.6130E-02  2.4200E-03
+     44095.9  5.6210E-02  8.4300E-03
+     53135.9  1.7490E-02  2.6200E-03
+     58133.9  4.0200E-03  6.0000E-04
+#---------------------------------------------------

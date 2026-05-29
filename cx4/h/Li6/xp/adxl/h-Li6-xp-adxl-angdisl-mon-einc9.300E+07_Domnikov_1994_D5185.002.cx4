@@ -1,0 +1,26 @@
+# EXFOR #         : D5185.002  
+# EXFOR Ver.      : 20200114
+# TRANS #         : D125
+# Author          : V.N.Domnikov et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 58 (1994) 1910
+# DOI             : N/A
+# Quantity        : 6Li(he3,p+x) angular differential cross section
+# REACTION        : 3-LI-6(HE3,X)1-H-1,,DA
+# File ID         : h-Li6-xp-adxl-angdisl-mon-einc9.300E+07_Domnikov_1994_d5185.002
+#
+# Einc (eV)       :   9.3000E+07
+#
+# npts            : 3           
+# xmin            :   14.0000000
+# xmax            :   60.0000000
+# ymin            :   2.5000E-02
+# ymax            :   2.9100E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  14.0000000   0.0000000  2.9100E-01  2.9000E-02
+  25.0000000   0.0000000  1.3200E-01  1.4000E-02
+  60.0000000   0.0000000  2.5000E-02  2.0000E-03
+#---------------------------------------------------

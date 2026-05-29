@@ -1,0 +1,25 @@
+# EXFOR #         : K2068.003  
+# EXFOR Ver.      : 20080131
+# TRANS #         : K004
+# Author          : T.Ishii et al.
+# Reference       : Nucl.Phys.B 165 No.2 (1980) 189
+# DOI             : 10.1016/0550-3213(80)90084-X
+# Quantity        : 1H(g,el)1H angular differential cross section
+# REACTION        : 1-H-1(G,EL)1-H-1,,DA,,BRS
+# File ID         : g-H1-el-adxc-angdisc-brs-einc4.250E+08_prodH1_Ishii_1980_k2068.003
+#
+# Einc (eV)       :   4.2500E+08
+# dEinc (eV)      :   1.2500E+07
+#
+# npts            : 1           
+# xmin            :  105.8000000
+# xmax            :  105.8000000
+# ymin            :   1.1500E-07
+# ymax            :   1.1500E-07
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 105.8000000   3.0000000  1.1500E-07  2.8000E-08
+#---------------------------------------------------

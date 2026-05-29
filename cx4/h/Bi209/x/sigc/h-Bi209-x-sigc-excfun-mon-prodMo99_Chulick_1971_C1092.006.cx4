@@ -1,0 +1,23 @@
+# EXFOR #         : C1092.006  
+# EXFOR Ver.      : 20170926
+# TRANS #         : C170
+# Author          : E.T.Chulick et al.
+# Reference       : Nucl.Phys.A 173 (1971) 497
+# DOI             : 10.1016/0375-9474(71)90967-5
+# Quantity        : 209Bi(he3,f)99Mo cumulative production cross section
+# REACTION        : 83-BI-209(HE3,F)42-MO-99,CUM,SIG
+# File ID         : h-Bi209-x-sigc-excfun-mon-prodMo99_Chulick_1971_c1092.006
+#
+# npts            : 2           
+# xmin            :   2.8200E+07
+# xmax            :   3.3300E+07
+# ymin            :   1.4000E-05
+# ymax            :   4.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8200E+07  0.0000E+00  1.4000E-05  4.0000E-06
+  3.3300E+07  0.0000E+00  4.9000E-04  1.5000E-04
+#---------------------------------------------------

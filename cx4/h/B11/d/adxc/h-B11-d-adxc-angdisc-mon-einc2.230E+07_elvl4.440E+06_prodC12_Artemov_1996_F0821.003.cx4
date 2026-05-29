@@ -1,0 +1,29 @@
+# EXFOR #         : F0821.003  
+# EXFOR Ver.      : 20070525
+# TRANS #         : F028
+# Author          : S.V.Artemov et al.
+# Reference       : Yad.Fiz. 59 (1996) 454
+# DOI             : N/A
+# Quantity        : 11B(he3,d)12C partial angular differential cross section
+# REACTION        : 5-B-11(HE3,D)6-C-12,PAR,DA
+# File ID         : h-B11-d-adxc-angdisc-mon-einc2.230E+07_elvl4.440E+06_prodC12_Artemov_1996_f0821.003
+#
+# Einc (eV)       :   2.2300E+07
+# Elvl (eV)       :   4.4400E+06
+#
+# npts            : 5           
+# xmin            :    8.3000000
+# xmax            :   23.6000000
+# ymin            :   5.5200E-04
+# ymax            :   3.8600E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   8.3000000   0.0000000  2.7500E-03  1.9000E-04
+  11.8000000   0.0000000  3.8600E-03  2.8000E-04
+  15.4000000   0.0000000  1.9600E-03  2.7000E-04
+  18.9000000   0.0000000  1.0200E-03  1.5000E-04
+  23.6000000   0.0000000  5.5200E-04  8.3000E-05
+#---------------------------------------------------

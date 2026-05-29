@@ -1,0 +1,25 @@
+# EXFOR #         : C0332.002  
+# EXFOR Ver.      : 20170207
+# TRANS #         : C165
+# Author          : K.H.Hicks et al.
+# Reference       : Phys.Rev.C 26 (1982) 2016
+# DOI             : 10.1103/PhysRevC.26.2016
+# Quantity        : natCu(20Ne,x) independent production cross section
+# REACTION        : 29-CU-0(10-NE-20,X)ELEM/MASS,IND,SIG
+# File ID         : Ne20-Cu-x-sig-nucdis-mon-einc7.540E+09_Hicks_1982_c0332.002
+#
+# Einc (eV)       :   7.5400E+09
+#
+# npts            : 2           
+# xmin            : 4007.9      
+# xmax            : 27060.9     
+# ymin            :   5.5000E-02
+# ymax            :   7.1200E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      4007.9  7.1200E-02  1.0900E-02
+     27060.9  5.5000E-02  1.3800E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : A0295.003  
+# EXFOR Ver.      : 20200203
+# TRANS #         : A093
+# Author          : H.Klewe-Nebenius et al.
+# Reference       : Radiochim.Acta 33 (1983) 177
+# DOI             : 10.1524/ract.1983.33.4.177
+# Quantity        : 51V(d,x)49V independent production cross section
+# REACTION        : 23-V-51(D,X)23-V-49,,SIG
+# File ID         : d-V51-x-sig-excfun-mon-prodV49_Klewe+Nebenius_1983_a0295.003
+#
+# npts            : 4           
+# xmin            :   1.7790E+07
+# xmax            :   2.4880E+07
+# ymin            :   2.2400E-04
+# ymax            :   5.3300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7790E+07  0.0000E+00  2.2400E-04  0.0000E+00
+  2.0860E+07  0.0000E+00  1.5300E-03  0.0000E+00
+  2.4000E+07  0.0000E+00  3.9900E-03  0.0000E+00
+  2.4880E+07  0.0000E+00  5.3300E-03  0.0000E+00
+#---------------------------------------------------

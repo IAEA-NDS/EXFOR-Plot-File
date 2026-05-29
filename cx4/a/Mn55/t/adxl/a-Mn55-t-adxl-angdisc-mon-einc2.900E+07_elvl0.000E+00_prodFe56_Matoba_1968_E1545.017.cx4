@@ -1,0 +1,28 @@
+# EXFOR #         : E1545.017  
+# EXFOR Ver.      : 20001017
+# TRANS #         : 0000
+# Author          : M.Matoba
+# Reference       : Nucl.Phys.A 118 (1968) 207
+# DOI             : 10.1016/0375-9474(68)90198-X
+# Quantity        : 55Mn(a,t)56Fe partial angular differential cross section
+# REACTION        : 25-MN-55(A,T)26-FE-56,PAR,DA
+# File ID         : a-Mn55-t-adxl-angdisc-mon-einc2.900E+07_elvl0.000E+00_prodFe56_Matoba_1968_e1545.017
+#
+# Einc (eV)       :   2.9000E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :   15.5300000
+# xmax            :   32.5500000
+# ymin            :   7.3540E-06
+# ymax            :   4.9740E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.5300000   0.0000000  4.9740E-05  0.0000E+00
+  21.7500000   0.0000000  1.5360E-05  0.0000E+00
+  26.2900000   0.0000000  7.3540E-06  0.0000E+00
+  32.5500000   0.0000000  1.2620E-05  0.0000E+00
+#---------------------------------------------------

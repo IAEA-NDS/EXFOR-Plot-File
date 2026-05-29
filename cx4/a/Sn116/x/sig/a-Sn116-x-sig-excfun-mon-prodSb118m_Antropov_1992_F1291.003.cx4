@@ -1,0 +1,25 @@
+# EXFOR #         : F1291.003  
+# EXFOR Ver.      : 20161008
+# TRANS #         : F063
+# Author          : A.E.Antropov et al.
+# Reference       : Proceedings of Int.Conf.Nucl.Spectroscopy Nucl.Struct.,Alma-Ata 1992 page 288
+# DOI             : N/A
+# Quantity        : 116Sn(a,x)118mSb independent production cross section
+# REACTION        : 50-SN-116(A,X)51-SB-118-M,,SIG
+# File ID         : a-Sn116-x-sig-excfun-mon-prodSb118m_Antropov_1992_f1291.003
+#
+# npts            : 4           
+# xmin            :   2.1000E+07
+# xmax            :   2.4400E+07
+# ymin            :   1.0000E-04
+# ymax            :   2.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4400E+07  0.0000E+00  2.0000E-03  3.0000E-04
+  2.3000E+07  0.0000E+00  7.0000E-04  9.0000E-05
+  2.2100E+07  0.0000E+00  3.0000E-04  3.0000E-05
+  2.1000E+07  0.0000E+00  1.0000E-04  2.0000E-05
+#---------------------------------------------------

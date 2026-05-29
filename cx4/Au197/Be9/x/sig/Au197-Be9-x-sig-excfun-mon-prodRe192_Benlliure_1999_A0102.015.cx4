@@ -1,0 +1,22 @@
+# EXFOR #         : A0102.015  
+# EXFOR Ver.      : 20241002
+# TRANS #         : A120
+# Author          : J.Benlliure et al.
+# Reference       : Nucl.Phys.A 660 (1999) 87
+# DOI             : 10.1016/S0375-9474(99)00386-3
+# Quantity        : 9Be(197Au,x)192Re independent production cross section
+# REACTION        : 4-BE-9(79-AU-197,X)75-RE-192,,SIG
+# File ID         : Au197-Be9-x-sig-excfun-mon-prodRe192_Benlliure_1999_a0102.015
+#
+# npts            : 1           
+# xmin            :   1.8720E+11
+# xmax            :   1.8720E+11
+# ymin            :   2.3389E-06
+# ymax            :   2.3389E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8720E+11  0.0000E+00  2.3389E-06  2.3420E-07
+#---------------------------------------------------

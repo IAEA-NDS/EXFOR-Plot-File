@@ -1,0 +1,23 @@
+# EXFOR #         : F1423.004  
+# EXFOR Ver.      : 20200629
+# TRANS #         : F081
+# Author          : G.I.Marov et al.
+# Reference       : Zh.Eksp.Teor.Fiz. 44 (1963) 1445
+# DOI             : N/A
+# Quantity        : 238U(d,f) cross section
+# REACTION        : 92-U-238(D,F),,SIG
+# File ID         : d-U238-f-sig-excfun-mon-Marov_1963_f1423.004
+#
+# npts            : 2           
+# xmin            :   5.8000E+06
+# xmax            :   6.2000E+06
+# ymin            :   3.0800E-05
+# ymax            :   7.6760E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.8000E+06  1.0000E+05  3.0800E-05  2.9400E-06
+  6.2000E+06  1.0000E+05  7.6760E-05  3.9200E-06
+#---------------------------------------------------

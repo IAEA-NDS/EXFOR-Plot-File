@@ -1,0 +1,23 @@
+# EXFOR #         : F0837.007  
+# EXFOR Ver.      : 20070313
+# TRANS #         : F027
+# Author          : Yu.E.Penionzhkevich et al.
+# Reference       : Eur.Phys.J.A 31 (2007) 185
+# DOI             : 10.1140/epja/i2006-10166-9
+# Quantity        : 197Au(6He,7n)196Tl cross section
+# REACTION        : 79-AU-197(2-HE-6,7N)81-TL-196,,SIG
+# File ID         : He6-Au197-7n-sig-excfun-mon-prodTl196_Penionzhkevich_2007_f0837.007
+#
+# npts            : 2           
+# xmin            :   5.7400E+07
+# xmax            :   6.0000E+07
+# ymin            :   7.1600E-01
+# ymax            :   8.6500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+07  1.2000E+06  8.6500E-01  6.7000E-02
+  5.7400E+07  3.7600E+06  7.1600E-01  6.2000E-02
+#---------------------------------------------------

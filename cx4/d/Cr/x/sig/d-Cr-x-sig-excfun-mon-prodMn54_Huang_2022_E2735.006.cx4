@@ -1,0 +1,25 @@
+# EXFOR #         : E2735.006  
+# EXFOR Ver.      : 20230210
+# TRANS #         : E136
+# Author          : H.Huang et al.
+# Reference       : Nucl.Instrum.Meth.B 530 (2022) 23
+# DOI             : 10.1016/j.nimb.2022.09.006
+# Quantity        : natCr(d,x)54Mn independent production cross section
+# REACTION        : 24-CR-0(D,X)25-MN-54,,SIG
+# File ID         : d-Cr-x-sig-excfun-mon-prodMn54_Huang_2022_e2735.006
+#
+# npts            : 4           
+# xmin            :   2.6000E+06
+# xmax            :   1.0800E+07
+# ymin            :   1.3400E-03
+# ymax            :   3.2900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0800E+07  3.0000E+05  3.1500E-02  2.3000E-03
+  8.7000E+06  3.0000E+05  3.2900E-02  2.5000E-03
+  6.2000E+06  4.0000E+05  3.1700E-02  2.3000E-03
+  2.6000E+06  9.0000E+05  1.3400E-03  1.2000E-04
+#---------------------------------------------------

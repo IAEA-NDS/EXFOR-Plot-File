@@ -1,0 +1,27 @@
+# EXFOR #         : C0001.003  
+# EXFOR Ver.      : 20020213
+# TRANS #         : 0000
+# Author          : H.V.Argo et al.
+# Reference       : Phys.Rev. 87 (1952) 612
+# DOI             : 10.1103/PhysRev.87.612
+# Quantity        : 2H(t,n)4He angular differential cross section
+# REACTION        : 1-H-2(T,N)2-HE-4,,DA
+# File ID         : t-H2-n-adxc-angdisc-mon-einc3.800E+05_prodHe4_Argo_1952_c0001.003
+#
+# Einc (eV)       :   3.8000E+05
+#
+# npts            : 4           
+# xmin            :    0.0000000
+# xmax            :   90.0000000
+# ymin            :   1.3000E-01
+# ymax            :   1.3500E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  1.3100E-01  5.0000E-03
+  30.0000000   0.0000000  1.3500E-01  5.0000E-03
+  60.0000000   0.0000000  1.3100E-01  5.0000E-03
+  90.0000000   0.0000000  1.3000E-01  5.0000E-03
+#---------------------------------------------------

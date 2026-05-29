@@ -1,0 +1,22 @@
+# EXFOR #         : D8031.025  
+# EXFOR Ver.      : 20210228
+# TRANS #         : D130
+# Author          : J.Diaz-Cortes et al.
+# Reference       : Phys.Lett.B 811 (2020) 135962
+# DOI             : 10.1016/j.physletb.2020.135962
+# Quantity        : 9Be(126Sn,x)125Sn independent production cross section
+# REACTION        : 4-BE-9(50-SN-126,X)50-SN-125,,SIG
+# File ID         : Sn126-Be9-x-sig-excfun-mon-prodSn125_Diaz+Cortes_2020_d8031.025
+#
+# npts            : 1           
+# xmin            :   1.2600E+11
+# xmax            :   1.2600E+11
+# ymin            :   1.5800E-01
+# ymax            :   1.5800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+11  0.0000E+00  1.5800E-01  2.0000E-02
+#---------------------------------------------------

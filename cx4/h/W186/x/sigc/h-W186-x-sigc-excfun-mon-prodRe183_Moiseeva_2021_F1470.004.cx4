@@ -1,0 +1,23 @@
+# EXFOR #         : F1470.004  
+# EXFOR Ver.      : 20221103
+# TRANS #         : F094
+# Author          : A.N.Moiseeva et al.
+# Reference       : Appl.Radiat.Isot. 170 (2021) 109609
+# DOI             : 10.1016/j.apradiso.2021.109609
+# Quantity        : 186W(he3,x)183Re cumulative production cross section
+# REACTION        : 74-W-186(HE3,X)75-RE-183,CUM,SIG
+# File ID         : h-W186-x-sigc-excfun-mon-prodRe183_Moiseeva_2021_f1470.004
+#
+# npts            : 2           
+# xmin            :   3.7700E+07
+# xmax            :   4.3800E+07
+# ymin            :   1.3400E-02
+# ymax            :   1.6870E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7700E+07  1.8000E+06  1.3400E-02  2.7000E-03
+  4.3800E+07  1.7000E+06  1.6870E-01  3.3700E-02
+#---------------------------------------------------

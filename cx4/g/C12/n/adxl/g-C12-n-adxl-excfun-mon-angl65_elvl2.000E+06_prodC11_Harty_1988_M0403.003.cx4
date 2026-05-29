@@ -1,0 +1,26 @@
+# EXFOR #         : M0403.003  
+# EXFOR Ver.      : 20160905
+# TRANS #         : M084
+# Author          : P.D.Harty et al.
+# Reference       : Phys.Rev.C 37 (1988) 13
+# DOI             : 10.1103/PhysRevC.37.13
+# Quantity        : 12C(g,n)11C partial angular differential cross section
+# REACTION        : 6-C-12(G,N)6-C-11,PAR,DA
+# File ID         : g-C12-n-adxl-excfun-mon-angl65_elvl2.000E+06_prodC11_Harty_1988_m0403.003
+#
+# theta,lab (deg) :   65.0000000
+# Elvl (eV)       :   2.0000E+06
+#
+# npts            : 2           
+# xmin            :   3.3700E+07
+# xmax            :   3.5800E+07
+# ymin            :   2.8300E-05
+# ymax            :   2.9700E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.3700E+07  0.0000E+00  2.9700E-05  6.0000E-06
+  3.5800E+07  0.0000E+00  2.8300E-05  6.0000E-06
+#---------------------------------------------------

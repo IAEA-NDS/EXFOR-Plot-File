@@ -1,0 +1,22 @@
+# EXFOR #         : A0173.053  
+# EXFOR Ver.      : 20240818
+# TRANS #         : A116
+# Author          : D.Lee et al.
+# Reference       : Phys.Rev.C 25 (1982) 286
+# DOI             : 10.1103/PhysRevC.25.286
+# Quantity        : 248Cm(20Ne,x)246Bk independent production cross section
+# REACTION        : 96-CM-248(10-NE-20,X)97-BK-246,,SIG
+# File ID         : Ne20-Cm248-x-sig-excfun-mon-prodBk246_Lee_1982_a0173.053
+#
+# npts            : 1           
+# xmin            :   1.1500E+08
+# xmax            :   1.1500E+08
+# ymin            :   9.4000E-05
+# ymax            :   9.4000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+08  3.0000E+06  9.4000E-05  4.0000E-06
+#---------------------------------------------------

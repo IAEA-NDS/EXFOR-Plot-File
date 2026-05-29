@@ -1,0 +1,29 @@
+# EXFOR #         : A0510.338  
+# EXFOR Ver.      : 20231226
+# TRANS #         : A105
+# Author          : V.N.Levkovski
+# Reference       : Levkovskij,Act.Cs.By Protons and Alphas,Moscow 1991 page  (1991)
+# DOI             : N/A
+# Quantity        : 56Fe(a,x)56Co cumulative production cross section
+# REACTION        : 26-FE-56(A,X)27-CO-56,CUM,SIG
+# File ID         : a-Fe56-x-sigc-excfun-mon-prodCo56_Levkovski_1991_a0510.338
+#
+# npts            : 8           
+# xmin            :   3.9600E+07
+# xmax            :   4.5900E+07
+# ymin            :   1.0000E-03
+# ymax            :   1.0300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9600E+07  0.0000E+00  1.0000E-03  1.0000E-04
+  4.0600E+07  0.0000E+00  1.2000E-03  1.2000E-04
+  4.1500E+07  0.0000E+00  1.3000E-03  1.3000E-04
+  4.2400E+07  0.0000E+00  2.4000E-03  2.4000E-04
+  4.3300E+07  0.0000E+00  3.4000E-03  3.4000E-04
+  4.4200E+07  0.0000E+00  5.1000E-03  5.1000E-04
+  4.5100E+07  0.0000E+00  7.2000E-03  7.2000E-04
+  4.5900E+07  0.0000E+00  1.0300E-02  1.0300E-03
+#---------------------------------------------------

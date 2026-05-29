@@ -1,0 +1,27 @@
+# EXFOR #         : D5007.006  
+# EXFOR Ver.      : 20060710
+# TRANS #         : D050
+# Author          : E.P.Kadkin et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 68 (2004) 266
+# DOI             : N/A
+# Quantity        : 12C(he3,p+x) angular differential cross section
+# REACTION        : 6-C-12(HE3,X)1-H-1,,DA
+# File ID         : h-C12-xp-adxl-angdisl-mon-einc9.500E+07_Kadkin_2004_d5007.006
+#
+# Einc (eV)       :   9.5000E+07
+#
+# npts            : 4           
+# xmin            :   20.0000000
+# xmax            :   35.0000000
+# ymin            :   6.4000E-02
+# ymax            :   2.2000E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.0000000   0.0000000  2.2000E-01  1.1000E-02
+  25.0000000   0.0000000  1.4400E-01  7.2000E-03
+  30.0000000   0.0000000  9.5000E-02  4.7500E-03
+  35.0000000   0.0000000  6.4000E-02  3.2000E-03
+#---------------------------------------------------

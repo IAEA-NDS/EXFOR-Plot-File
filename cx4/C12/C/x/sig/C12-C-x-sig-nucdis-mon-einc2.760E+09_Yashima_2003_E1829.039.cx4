@@ -1,0 +1,25 @@
+# EXFOR #         : E1829.039  
+# EXFOR Ver.      : 20240608
+# TRANS #         : E149
+# Author          : H.Yashima et al.
+# Reference       : Radiochim.Acta 91 (2003) 689
+# DOI             : 10.1524/ract.91.12.689.23423
+# Quantity        : natC(12C,x) independent production cross section
+# REACTION        : 6-C-0(6-C-12,X)ELEM/MASS,,SIG
+# File ID         : C12-C-x-sig-nucdis-mon-einc2.760E+09_Yashima_2003_e1829.039
+#
+# Einc (eV)       :   2.7600E+09
+#
+# npts            : 2           
+# xmin            : 4007.9      
+# xmax            : 6011.9      
+# ymin            :   2.5200E-02
+# ymax            :   7.9000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      4007.9  2.5200E-02  1.5000E-03
+      6011.9  7.9000E-02  7.9000E-03
+#---------------------------------------------------

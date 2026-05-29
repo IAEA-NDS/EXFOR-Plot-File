@@ -1,0 +1,23 @@
+# EXFOR #         : O2070.004  
+# EXFOR Ver.      : 20220201
+# TRANS #         : O088
+# Author          : G.F.Herzog et al.
+# Reference       : Meteorit.Planet.Sci. 46 (2011) 1427
+# DOI             : 10.1111/j.1945-5100.2011.01236.x
+# Quantity        : natCa(he3,x)36Cl independent production cross section
+# REACTION        : 20-CA-0(HE3,X)17-CL-36,,SIG
+# File ID         : h-Ca-x-sig-excfun-mon-prodCl36_Herzog_2011_o2070.004
+#
+# npts            : 2           
+# xmin            :   2.4900E+07
+# xmax            :   3.5160E+07
+# ymin            :   4.9000E-04
+# ymax            :   3.2300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5160E+07  0.0000E+00  3.2300E-03  5.2000E-04
+  2.4900E+07  0.0000E+00  4.9000E-04  1.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : A1170.002  
+# EXFOR Ver.      : 20140410
+# TRANS #         : A081
+# Author          : V.V.Volkov et al.
+# Reference       : At.En. Suppl.  No.5 (1957) 15
+# DOI             : N/A
+# Quantity        : 2H(d,p)3H angular differential cross section
+# REACTION        : 1-H-2(D,P)1-H-3,,DA
+# File ID         : d-H2-p-adxc-angdisc-mon-einc6.100E+05_prodH3_Volkov_1957_a1170.002
+#
+# Einc (eV)       :   6.1000E+05
+#
+# npts            : 3           
+# xmin            :    7.1120000
+# xmax            :   88.6900000
+# ymin            :   9.9070E-03
+# ymax            :   1.6530E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.1120000   0.0000000  1.6530E-02  8.2650E-04
+  30.3600000   0.0000000  1.4180E-02  7.0900E-04
+  88.6900000   0.0000000  9.9070E-03  4.9535E-04
+#---------------------------------------------------

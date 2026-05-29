@@ -1,0 +1,25 @@
+# EXFOR #         : D6454.006  
+# EXFOR Ver.      : 20231220
+# TRANS #         : D141
+# Author          : H.Sharma et al.
+# Reference       : Phys.Rev.C 107 (2023) 064601
+# DOI             : 10.1103/PhysRevC.107.064601
+# Quantity        : 93Nb(14N,x)101mRh cumulative production cross section
+# REACTION        : 41-NB-93(7-N-14,X)45-RH-101-M,CUM,SIG
+# File ID         : N14-Nb93-x-sigc-excfun-mon-prodRh101m_Sharma_2023_d6454.006
+#
+# npts            : 4           
+# xmin            :   4.5800E+07
+# xmax            :   5.8600E+07
+# ymin            :   3.9000E-03
+# ymax            :   3.0900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.8600E+07  1.4000E+06  2.3100E-02  5.4000E-03
+  5.3900E+07  1.5000E+06  3.0900E-02  1.0200E-02
+  5.0900E+07  1.5000E+06  1.1000E-02  3.8000E-03
+  4.5800E+07  1.6000E+06  3.9000E-03  2.5000E-03
+#---------------------------------------------------

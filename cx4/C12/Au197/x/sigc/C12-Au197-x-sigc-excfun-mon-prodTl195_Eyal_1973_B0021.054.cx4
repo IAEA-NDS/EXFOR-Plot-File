@@ -1,0 +1,22 @@
+# EXFOR #         : B0021.054  
+# EXFOR Ver.      : 20220321
+# TRANS #         : B033
+# Author          : Y.Eyal et al.
+# Reference       : Phys.Rev.C 8 (1973) 1109
+# DOI             : 10.1103/PhysRevC.8.1109
+# Quantity        : 197Au(12C,x)195Tl cumulative production cross section
+# REACTION        : 79-AU-197(6-C-12,X)81-TL-195,CUM,SIG
+# File ID         : C12-Au197-x-sigc-excfun-mon-prodTl195_Eyal_1973_b0021.054
+#
+# npts            : 1           
+# xmin            :   1.2500E+08
+# xmax            :   1.2500E+08
+# ymin            :   2.9000E-03
+# ymax            :   2.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2500E+08  0.0000E+00  2.9000E-03  9.0000E-04
+#---------------------------------------------------

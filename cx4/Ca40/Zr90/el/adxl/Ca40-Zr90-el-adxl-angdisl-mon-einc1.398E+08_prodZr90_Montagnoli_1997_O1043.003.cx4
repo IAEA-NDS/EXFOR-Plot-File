@@ -1,0 +1,27 @@
+# EXFOR #         : O1043.003  
+# EXFOR Ver.      : 20030404
+# TRANS #         : 0000
+# Author          : G.Montagnoli et al.
+# Reference       : J.Phys.G 23 (1997) 1431
+# DOI             : 10.1088/0954-3899/23/10/033
+# Quantity        : 90Zr(40Ca,el)90Zr angular differential cross section
+# REACTION        : 40-ZR-90(20-CA-40,EL)40-ZR-90,,DA,,RTH
+# File ID         : Ca40-Zr90-el-adxl-angdisl-mon-einc1.398E+08_prodZr90_Montagnoli_1997_o1043.003
+#
+# Einc (eV)       :   1.3980E+08
+#
+# npts            : 4           
+# xmin            :   84.9300000
+# xmax            :  109.9000000
+# ymin            :   6.9316E-02
+# ymax            :   1.8815E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  84.9300000   0.0000000  1.8815E-01  1.8815E-02
+  94.8000000   0.0000000  1.3934E-01  1.3934E-02
+ 104.9000000   0.0000000  8.9777E-02  8.9777E-03
+ 109.9000000   0.0000000  6.9316E-02  6.2385E-03
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : D4311.012  
+# EXFOR Ver.      : 20141001
+# TRANS #         : D095
+# Author          : F.Ditroi et al.
+# Reference       : J.Rad.Nucl.Chem. 300 (2014) 1267
+# DOI             : 10.1007/s10967-014-3056-7
+# Quantity        : natPb(d,x)201Tl cumulative production cross section
+# REACTION        : 82-PB-0(D,X)81-TL-201,CUM,SIG
+# File ID         : d-Pb-x-sigc-excfun-mon-prodTl201_Ditroi_2014_d4311.012
+#
+# npts            : 4           
+# xmin            :   4.2500E+07
+# xmax            :   4.9100E+07
+# ymin            :   6.0000E-04
+# ymax            :   1.5700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.2500E+07  5.0000E+05  6.0000E-04  1.0000E-03
+  4.4800E+07  4.0000E+05  1.1000E-03  6.3000E-03
+  4.7000E+07  3.0000E+05  8.8000E-03  2.5000E-03
+  4.9100E+07  3.0000E+05  1.5700E-02  2.1000E-03
+#---------------------------------------------------

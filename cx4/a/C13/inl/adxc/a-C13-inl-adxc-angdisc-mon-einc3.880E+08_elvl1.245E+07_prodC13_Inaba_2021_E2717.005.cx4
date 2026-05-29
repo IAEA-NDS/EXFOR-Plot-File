@@ -1,0 +1,28 @@
+# EXFOR #         : E2717.005  
+# EXFOR Ver.      : 20220613
+# TRANS #         : E134
+# Author          : K.Inaba et al.
+# Reference       : Prog.Theor.Exp.Phys. 2021 (2021) 093D01
+# DOI             : 10.1093/ptep/ptab102
+# Quantity        : 13C(a,inl)13C partial angular differential cross section
+# REACTION        : 6-C-13(A,INL)6-C-13,PAR,DA
+# File ID         : a-C13-inl-adxc-angdisc-mon-einc3.880E+08_elvl1.245E+07_prodC13_Inaba_2021_e2717.005
+#
+# Einc (eV)       :   3.8800E+08
+# Elvl (eV)       :   1.2450E+07
+#
+# npts            : 4           
+# xmin            :    0.4100000
+# xmax            :    3.2000000
+# ymin            :   5.0290E-04
+# ymax            :   6.1520E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.4100000   0.0000000  6.1520E-03  9.4220E-04
+   1.2400000   0.0000000  5.1590E-03  7.6630E-04
+   2.6800000   0.0000000  1.3130E-03  2.1260E-04
+   3.2000000   0.0000000  5.0290E-04  8.9660E-05
+#---------------------------------------------------

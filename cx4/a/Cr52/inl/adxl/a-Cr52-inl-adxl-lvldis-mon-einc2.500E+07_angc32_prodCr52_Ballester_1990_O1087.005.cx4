@@ -1,0 +1,26 @@
+# EXFOR #         : O1087.005  
+# EXFOR Ver.      : 20040331
+# TRANS #         : 0000
+# Author          : F.Ballester et al.
+# Reference       : Nucl.Phys.A 513 (1990) 61
+# DOI             : 10.1016/0375-9474(90)90343-K
+# Quantity        : 52Cr(a,inl)52Cr partial angular differential cross section
+# REACTION        : 24-CR-52(A,INL)24-CR-52,PAR,DA
+# File ID         : a-Cr52-inl-adxl-lvldis-mon-einc2.500E+07_angc32_prodCr52_Ballester_1990_o1087.005
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   1.2500E+05
+# theta,cm (deg)  :   32.3000000
+#
+# npts            : 1           
+# xmin            :   4.5600E+06
+# xmax            :   4.5600E+06
+# ymin            :   1.0600E-03
+# ymax            :   1.0600E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.5600E+06  0.0000E+00  1.0600E-03  0.0000E+00
+#---------------------------------------------------

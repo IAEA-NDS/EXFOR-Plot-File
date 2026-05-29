@@ -1,0 +1,30 @@
+# EXFOR #         : C2951.002  
+# EXFOR Ver.      : 20230522
+# TRANS #         : C238
+# Author          : M.J.Spisak et al.
+# Reference       : Phys.Rev.C 29 (1984) 2088
+# DOI             : 10.1103/PhysRevC.29.2088
+# Quantity        : 206Pb(a,d)208Bi partial angular differential cross section
+# REACTION        : 82-PB-206(A,D)83-BI-208,PAR,DA
+# File ID         : a-Pb206-d-adxc-angdisc-mon-einc4.820E+07_elvl4.361E+06_prodBi208_Spisak_1984_c2951.002
+#
+# Einc (eV)       :   4.8200E+07
+# Elvl (eV)       :   4.3610E+06
+# dElvl (eV)      :   8.7220E+03
+#
+# npts            : 5           
+# xmin            :   10.2000000
+# xmax            :   40.5000000
+# ymin            :   7.1110E-06
+# ymax            :   2.9600E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.2000000   0.0000000  2.9600E-05  3.1610E-06
+  25.3000000   0.0000000  2.1680E-05  1.5870E-06
+  30.4000000   0.0000000  1.5680E-05  1.9710E-06
+  35.4000000   0.0000000  8.4410E-06  7.4980E-07
+  40.5000000   0.0000000  7.1110E-06  8.4610E-07
+#---------------------------------------------------

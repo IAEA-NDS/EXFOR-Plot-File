@@ -1,0 +1,27 @@
+# EXFOR #         : E1943.004  
+# EXFOR Ver.      : 20060906
+# TRANS #         : E038
+# Author          : H.Yamaguchi
+# Reference       : J.Phys.Soc.Jpn. 16 No.4 (1961) 583
+# DOI             : 10.1143/JPSJ.16.583
+# Quantity        : 16O(a,p)19F partial cross section
+# REACTION        : 8-O-16(A,P)9-F-19,PAR,SIG
+# File ID         : a-O16-p-sig-lvldis-mon-einc2.670E+07_prodF19_Yamaguchi_1961_e1943.004
+#
+# Einc (eV)       :   2.6700E+07
+# dEinc (eV)      :   1.3350E+05
+#
+# npts            : 3           
+# xmin            :   9.9000E+04
+# xmax            :   2.7800E+06
+# ymin            :   4.5500E-03
+# ymax            :   7.0000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9000E+04  9.9000E+04  6.5100E-03  0.0000E+00
+  1.4550E+06  1.0500E+05  4.5500E-03  0.0000E+00
+  2.7800E+06  0.0000E+00  7.0000E-03  0.0000E+00
+#---------------------------------------------------

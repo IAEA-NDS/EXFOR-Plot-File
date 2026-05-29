@@ -1,0 +1,22 @@
+# EXFOR #         : E1888.004  
+# EXFOR Ver.      : 20050914
+# TRANS #         : E032
+# Author          : M.Sakama et al.
+# Reference       : Phys.Rev.C 69 No.1 (2004) 014308
+# DOI             : 10.1103/PhysRevC.69.014308
+# Quantity        : 233U(6Li,5n)234Am cross section
+# REACTION        : 92-U-233(3-LI-6,5N)95-AM-234,,SIG,,AV
+# File ID         : Li6-U233-5n-sig-excfun-mon-prodAm234_Sakama_2004_e1888.004
+#
+# npts            : 1           
+# xmin            :   4.3500E+07
+# xmax            :   4.3500E+07
+# ymin            :   9.0000E-06
+# ymax            :   9.0000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3500E+07  4.5000E+06  9.0000E-06  5.0000E-06
+#---------------------------------------------------

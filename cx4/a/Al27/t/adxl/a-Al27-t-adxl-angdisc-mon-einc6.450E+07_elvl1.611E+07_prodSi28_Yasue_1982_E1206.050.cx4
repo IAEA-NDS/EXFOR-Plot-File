@@ -1,0 +1,28 @@
+# EXFOR #         : E1206.050  
+# EXFOR Ver.      : 19901017
+# TRANS #         : 0000
+# Author          : M.Yasue et al.
+# Reference       : Nucl.Phys.A 391 (1982) 377
+# DOI             : 10.1016/0375-9474(82)90616-9
+# Quantity        : 27Al(a,t)28Si partial angular differential cross section
+# REACTION        : 13-AL-27(A,T)14-SI-28,PAR,DA
+# File ID         : a-Al27-t-adxl-angdisc-mon-einc6.450E+07_elvl1.611E+07_prodSi28_Yasue_1982_e1206.050
+#
+# Einc (eV)       :   6.4500E+07
+# Elvl (eV)       :   1.6110E+07
+#
+# npts            : 4           
+# xmin            :    6.7030000
+# xmax            :   24.1960000
+# ymin            :   1.3940E-05
+# ymax            :   1.6080E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.7030000   0.0000000  1.6080E-04  0.0000E+00
+  12.2620000   0.0000000  7.3450E-05  0.0000E+00
+  17.8200000   0.0000000  3.3960E-05  0.0000E+00
+  24.1960000   0.0000000  1.3940E-05  0.0000E+00
+#---------------------------------------------------

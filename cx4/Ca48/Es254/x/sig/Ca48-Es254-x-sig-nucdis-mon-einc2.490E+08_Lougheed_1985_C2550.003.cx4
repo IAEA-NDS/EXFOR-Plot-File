@@ -1,0 +1,26 @@
+# EXFOR #         : C2550.003  
+# EXFOR Ver.      : 20200502
+# TRANS #         : C197
+# Author          : R.W.Lougheed et al.
+# Reference       : Phys.Rev.C 32 (1985) 1760
+# DOI             : 10.1103/PhysRevC.32.1760
+# Quantity        : 254Es(48Ca,x) independent production cross section
+# REACTION        : 99-ES-254(20-CA-48,X)ELEM/MASS,,SIG
+# File ID         : Ca48-Es254-x-sig-nucdis-mon-einc2.490E+08_Lougheed_1985_c2550.003
+#
+# Einc (eV)       :   2.4900E+08
+#
+# npts            : 3           
+# xmin            : 82212.9     
+# xmax            : 85211.9     
+# ymin            :   5.9000E-07
+# ymax            :   1.5000E-06
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     82212.9  5.9000E-07  1.2000E-07
+     85209.9  1.5000E-06  4.0000E-07
+     85211.9  1.1000E-06  2.0000E-07
+#---------------------------------------------------

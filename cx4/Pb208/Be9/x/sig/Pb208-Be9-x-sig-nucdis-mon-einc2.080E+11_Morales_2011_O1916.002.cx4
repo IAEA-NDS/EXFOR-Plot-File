@@ -1,0 +1,27 @@
+# EXFOR #         : O1916.002  
+# EXFOR Ver.      : 20110908
+# TRANS #         : O046
+# Author          : A.I.Morales et al.
+# Reference       : Phys.Rev.C 84 (2011) 011601
+# DOI             : 10.1103/PhysRevC.84.011601
+# Quantity        : 9Be(208Pb,x) independent production cross section
+# REACTION        : 4-BE-9(82-PB-208,X)ELEM/MASS,,SIG
+# File ID         : Pb208-Be9-x-sig-nucdis-mon-einc2.080E+11_Morales_2011_o1916.002
+#
+# Einc (eV)       :   2.0800E+11
+#
+# npts            : 4           
+# xmin            : 77204.9     
+# xmax            : 80207.9     
+# ymin            :   1.9000E-10
+# ymax            :   1.1000E-05
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     80207.9  1.1000E-05  0.0000E+00
+     79206.9  3.6000E-07  0.0000E+00
+     78205.9  5.7000E-09  0.0000E+00
+     77204.9  1.9000E-10  0.0000E+00
+#---------------------------------------------------

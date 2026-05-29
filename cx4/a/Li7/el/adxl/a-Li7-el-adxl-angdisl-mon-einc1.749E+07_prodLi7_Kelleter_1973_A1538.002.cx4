@@ -1,0 +1,27 @@
+# EXFOR #         : A1538.002  
+# EXFOR Ver.      : 19990324
+# TRANS #         : 0000
+# Author          : H.Kelleter et al.
+# Reference       : Nucl.Phys.A 210 (1973) 502
+# DOI             : 10.1016/0375-9474(73)90289-3
+# Quantity        : 7Li(a,el)7Li angular differential cross section
+# REACTION        : 3-LI-7(A,EL)3-LI-7,,DA
+# File ID         : a-Li7-el-adxl-angdisl-mon-einc1.749E+07_prodLi7_Kelleter_1973_a1538.002
+#
+# Einc (eV)       :   1.7490E+07
+# dEinc (eV)      :   3.0000E+04
+#
+# npts            : 3           
+# xmin            :   54.1000000
+# xmax            :   90.0000000
+# ymin            :   5.1990E-03
+# ymax            :   2.2480E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  54.1000000   0.0000000  2.2480E-02  8.9920E-05
+  72.4000000   0.0000000  8.7290E-03  3.4916E-05
+  90.0000000   0.0000000  5.1990E-03  2.0796E-05
+#---------------------------------------------------

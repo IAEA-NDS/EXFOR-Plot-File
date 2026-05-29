@@ -1,0 +1,24 @@
+# EXFOR #         : A0594.008  
+# EXFOR Ver.      : 20120409
+# TRANS #         : A078
+# Author          : H.Bruchertseifer et al.
+# Reference       : Progress report JINR-P7-80-666, 1980
+# DOI             : N/A
+# Quantity        : 176Yb(22Ne,x)194Au independent production cross section
+# REACTION        : 70-YB-176(10-NE-22,X)79-AU-194,,SIG
+# File ID         : Ne22-Yb176-x-sig-excfun-mon-prodAu194_Bruchertseifer_1980_a0594.008
+#
+# npts            : 3           
+# xmin            :   1.1200E+08
+# xmax            :   1.7230E+08
+# ymin            :   9.0000E-07
+# ymax            :   5.1000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1200E+08  0.0000E+00  5.1000E-05  1.2750E-05
+  1.4420E+08  0.0000E+00  4.4000E-06  1.3200E-06
+  1.7230E+08  0.0000E+00  9.0000E-07  6.3000E-07
+#---------------------------------------------------

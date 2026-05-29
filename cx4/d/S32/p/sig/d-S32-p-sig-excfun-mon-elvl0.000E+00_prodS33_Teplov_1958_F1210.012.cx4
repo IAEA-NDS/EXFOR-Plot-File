@@ -1,0 +1,26 @@
+# EXFOR #         : F1210.012  
+# EXFOR Ver.      : 20140828
+# TRANS #         : F055
+# Author          : I.B.Teplov et al.
+# Reference       : Zh.Eksp.Teor.Fiz. 34 No.2 (1958) 334
+# DOI             : N/A
+# Quantity        : 32S(d,p)33S partial cross section
+# REACTION        : 16-S-32(D,P)16-S-33,PAR,SIG
+# File ID         : d-S32-p-sig-excfun-mon-elvl0.000E+00_prodS33_Teplov_1958_f1210.012
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :   1.3000E+06
+# xmax            :   4.0000E+06
+# ymin            :   2.3000E-04
+# ymax            :   1.3400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+06  3.9000E+04  2.3000E-04  0.0000E+00
+  2.2000E+06  6.6000E+04  5.2500E-03  0.0000E+00
+  4.0000E+06  1.2000E+05  1.3400E-02  0.0000E+00
+#---------------------------------------------------

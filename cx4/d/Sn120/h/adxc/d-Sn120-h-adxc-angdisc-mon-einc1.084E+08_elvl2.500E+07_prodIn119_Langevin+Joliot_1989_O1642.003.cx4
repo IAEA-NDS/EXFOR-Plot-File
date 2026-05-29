@@ -1,0 +1,28 @@
+# EXFOR #         : O1642.003  
+# EXFOR Ver.      : 20080321
+# TRANS #         : O036
+# Author          : H.Langevin-Joliot et al.
+# Reference       : Z.Phys.A 334 (1989) 133
+# DOI             : 10.1007/BF01294214
+# Quantity        : 120Sn(d,he3)119In partial angular differential cross section
+# REACTION        : 50-SN-120(D,HE3)49-IN-119,PAR,DA
+# File ID         : d-Sn120-h-adxc-angdisc-mon-einc1.084E+08_elvl2.500E+07_prodIn119_Langevin+Joliot_1989_o1642.003
+#
+# Einc (eV)       :   1.0840E+08
+# Elvl (eV)       :   2.5000E+07
+#
+# npts            : 4           
+# xmin            :    3.0100000
+# xmax            :   17.3800000
+# ymin            :   6.2000E-05
+# ymax            :   1.2860E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   3.0100000   0.0000000  1.2860E-04  0.0000E+00
+   7.2700000   0.0000000  1.1570E-04  0.0000E+00
+   9.2200000   0.0000000  1.0540E-04  0.0000E+00
+  17.3800000   0.0000000  6.2000E-05  0.0000E+00
+#---------------------------------------------------

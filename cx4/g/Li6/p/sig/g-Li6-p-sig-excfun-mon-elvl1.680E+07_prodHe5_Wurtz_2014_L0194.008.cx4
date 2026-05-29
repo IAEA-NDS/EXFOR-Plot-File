@@ -1,0 +1,24 @@
+# EXFOR #         : L0194.008  
+# EXFOR Ver.      : 20141024
+# TRANS #         : L025
+# Author          : W.A.Wurtz et al.
+# Reference       : Phys.Rev.C 90 (2014) 014613
+# DOI             : 10.1103/PhysRevC.90.014613
+# Quantity        : 6Li(g,p)5He partial cross section
+# REACTION        : 3-LI-6(G,P)2-HE-5,PAR,SIG
+# File ID         : g-Li6-p-sig-excfun-mon-elvl1.680E+07_prodHe5_Wurtz_2014_l0194.008
+#
+# Elvl (eV)       :   1.6800E+07
+#
+# npts            : 1           
+# xmin            :   3.0000E+07
+# xmax            :   3.0000E+07
+# ymin            :   1.1400E-04
+# ymax            :   1.1400E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+07  0.0000E+00  1.1400E-04  5.0000E-06
+#---------------------------------------------------

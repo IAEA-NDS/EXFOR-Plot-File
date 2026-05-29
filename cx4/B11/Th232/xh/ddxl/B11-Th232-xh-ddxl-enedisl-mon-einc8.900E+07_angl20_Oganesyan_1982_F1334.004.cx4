@@ -1,0 +1,27 @@
+# EXFOR #         : F1334.004  
+# EXFOR Ver.      : 20180201
+# TRANS #         : F067
+# Author          : Yu.Ts.Oganesyan et al.
+# Reference       : Z.E.T.F. Pisma Red. 36 (1982) 104
+# DOI             : N/A
+# Quantity        : 232Th(11B,h+x) double differential cross section
+# REACTION        : 90-TH-232(5-B-11,X)2-HE-3,,DA/DE
+# File ID         : B11-Th232-xh-ddxl-enedisl-mon-einc8.900E+07_angl20_Oganesyan_1982_f1334.004
+#
+# Einc (eV)       :   8.9000E+07
+# theta,lab (deg) :   20.0000000
+#
+# npts            : 3           
+# xmin            :   2.6638E+07
+# xmax            :   4.1589E+07
+# ymin            :   1.0860E-10
+# ymax            :   4.0670E-10
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.6638E+07  0.0000E+00  4.0670E-10  0.0000E+00
+  3.3711E+07  0.0000E+00  3.0790E-10  0.0000E+00
+  4.1589E+07  0.0000E+00  1.0860E-10  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : D6076.003  
+# EXFOR Ver.      : 20140223
+# TRANS #         : D093
+# Author          : S.V.Thakare et al.
+# Reference       : Radiochim.Acta 76 (1997) 25
+# DOI             : 10.1524/ract.1997.76.12.25
+# Quantity        : natAg(7Li,x)112mIn independent production cross section
+# REACTION        : 47-AG-0(3-LI-7,X)49-IN-112-M,,SIG
+# File ID         : Li7-Ag-x-sig-excfun-mon-prodIn112m_Thakare_1997_d6076.003
+#
+# npts            : 5           
+# xmin            :   3.3800E+07
+# xmax            :   4.9800E+07
+# ymin            :   7.4600E-02
+# ymax            :   1.9090E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9800E+07  0.0000E+00  1.7540E-01  1.0600E-03
+  4.5900E+07  0.0000E+00  1.9090E-01  2.8600E-03
+  4.1800E+07  0.0000E+00  1.6750E-01  3.3800E-03
+  3.7400E+07  0.0000E+00  1.5740E-01  2.9700E-03
+  3.3800E+07  0.0000E+00  7.4600E-02  1.6100E-03
+#---------------------------------------------------

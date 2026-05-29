@@ -1,0 +1,27 @@
+# EXFOR #         : M0842.003  
+# EXFOR Ver.      : 20120130
+# TRANS #         : M062
+# Author          : H.Arenhoevel et al.
+# Reference       : Nucl.Phys.A 147 (1970) 305
+# DOI             : 10.1016/0375-9474(70)90270-8
+# Quantity        : natTi(g,inl)natTi angular differential cross section
+# REACTION        : 22-TI-0(G,INL)22-TI-0,,DA,,BRS
+# File ID         : g-Ti-inl-adxl-excfun-brs-angl150_prodTi_Arenhoevel_1970_m0842.003
+#
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 4           
+# xmin            :   1.7000E+07
+# xmax            :   2.3100E+07
+# ymin            :   1.7980E-06
+# ymax            :   3.3700E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7000E+07  1.0000E+06  3.3700E-06  9.0000E-07
+  1.9000E+07  1.0000E+06  1.9330E-06  6.7500E-07
+  2.1000E+07  1.0000E+06  2.9930E-06  8.9000E-07
+  2.3100E+07  1.1000E+06  1.7980E-06  8.9000E-07
+#---------------------------------------------------

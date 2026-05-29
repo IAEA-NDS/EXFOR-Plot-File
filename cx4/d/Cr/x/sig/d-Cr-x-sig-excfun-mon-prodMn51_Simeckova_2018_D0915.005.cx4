@@ -1,0 +1,26 @@
+# EXFOR #         : D0915.005  
+# EXFOR Ver.      : 20181004
+# TRANS #         : D118
+# Author          : E.Simeckova et al.
+# Reference       : Phys.Rev.C 98 (2018) 034606
+# DOI             : 10.1103/PhysRevC.98.034606
+# Quantity        : natCr(d,x)51Mn independent production cross section
+# REACTION        : 24-CR-0(D,X)25-MN-51,,SIG
+# File ID         : d-Cr-x-sig-excfun-mon-prodMn51_Simeckova_2018_d0915.005
+#
+# npts            : 5           
+# xmin            :   3.9100E+06
+# xmax            :   8.5400E+06
+# ymin            :   4.3300E-03
+# ymax            :   6.7100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9100E+06  8.2000E+05  4.3300E-03  5.9000E-04
+  4.3000E+06  7.7000E+05  5.9900E-03  8.3000E-04
+  5.0800E+06  6.9000E+05  6.7100E-03  8.7000E-04
+  8.2900E+06  5.0000E+05  5.5000E-03  1.1400E-03
+  8.5400E+06  4.9000E+05  5.1300E-03  6.1000E-04
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : E2674.007  
+# EXFOR Ver.      : 20250930
+# TRANS #         : E154
+# Author          : M.U.Khandaker et al.
+# Reference       : Radiat.Phys.Chem. 224 (2024) 111999
+# DOI             : 10.1016/j.radphyschem.2024.111999
+# Quantity        : natCu(he3,x)56Co independent production cross section
+# REACTION        : 29-CU-0(HE3,X)27-CO-56,,SIG
+# File ID         : h-Cu-x-sig-excfun-mon-prodCo56_Khandaker_2024_e2674.007
+#
+# npts            : 6           
+# xmin            :   3.7530E+07
+# xmax            :   5.2850E+07
+# ymin            :   7.7000E-04
+# ymax            :   6.7400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2850E+07  6.0000E+05  6.7400E-03  4.9000E-04
+  4.9960E+07  6.2000E+05  5.5600E-03  5.1000E-04
+  4.6990E+07  6.3000E+05  4.1300E-03  4.2000E-04
+  4.3940E+07  6.4000E+05  2.5300E-03  3.3000E-04
+  4.0790E+07  6.6000E+05  1.1000E-03  2.5000E-04
+  3.7530E+07  6.8000E+05  7.7000E-04  2.6000E-04
+#---------------------------------------------------

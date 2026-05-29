@@ -1,0 +1,27 @@
+# EXFOR #         : O1278.002  
+# EXFOR Ver.      : 20060209
+# TRANS #         : O025
+# Author          : H.Fuchs et al.
+# Reference       : Nucl.Phys.A 129 (1969) 545
+# DOI             : 10.1016/0375-9474(69)90700-3
+# Quantity        : 39K(d,n)40Ca partial angular differential cross section
+# REACTION        : 19-K-39(D,N)20-CA-40,PAR,DA
+# File ID         : d-K39-n-adxc-lvldis-mon-einc6.000E+06_angc16_prodCa40_Fuchs_1969_o1278.002
+#
+# Einc (eV)       :   6.0000E+06
+# theta,cm (deg)  :   16.4000000
+#
+# npts            : 3           
+# xmin            :   5.9030E+06
+# xmax            :   9.6660E+06
+# ymin            :   2.4600E-04
+# ymax            :   2.1900E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.9030E+06  0.0000E+00  2.4600E-04  9.8400E-06
+  6.7500E+06  0.0000E+00  6.4700E-04  2.5880E-05
+  9.6660E+06  0.0000E+00  2.1900E-03  8.7600E-05
+#---------------------------------------------------

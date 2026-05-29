@@ -1,0 +1,31 @@
+# EXFOR #         : O1807.003  
+# EXFOR Ver.      : 20091208
+# TRANS #         : O041
+# Author          : G.Loevhoeiden et al.
+# Reference       : Nucl.Phys.A 339 (1980) 477
+# DOI             : 10.1016/0375-9474(80)90028-7
+# Quantity        : 150Nd(he3,a)149Nd partial angular differential cross section
+# REACTION        : 60-ND-150(HE3,A)60-ND-149,PAR,DA
+# File ID         : h-Nd150-a-adxc-angdisc-mon-einc2.400E+07_elvl8.730E+05_prodNd149_Loevhoeiden_1980_o1807.003
+#
+# Einc (eV)       :   2.4000E+07
+# dEinc (eV)      :   1.5000E+04
+# Elvl (eV)       :   8.7300E+05
+# dElvl (eV)      :   1.0000E+04
+#
+# npts            : 5           
+# xmin            :   13.0000000
+# xmax            :   52.8000000
+# ymin            :   2.0000E-06
+# ymax            :   6.9000E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  13.0000000   0.0000000  2.0000E-06  6.0000E-07
+  23.0000000   0.0000000  4.8000E-06  1.0080E-06
+  33.2000000   0.0000000  5.1000E-06  8.1600E-07
+  47.5000000   0.0000000  5.1000E-06  1.5300E-06
+  52.8000000   0.0000000  6.9000E-06  1.5870E-06
+#---------------------------------------------------

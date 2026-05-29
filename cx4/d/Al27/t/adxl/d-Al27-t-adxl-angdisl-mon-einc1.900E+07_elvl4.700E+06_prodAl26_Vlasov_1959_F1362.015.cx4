@@ -1,0 +1,29 @@
+# EXFOR #         : F1362.015  
+# EXFOR Ver.      : 20181011
+# TRANS #         : F070
+# Author          : N.A.Vlasov et al.
+# Reference       : Zh.Eksp.Teor.Fiz. 37 (1959) 1187
+# DOI             : N/A
+# Quantity        : 27Al(d,t)26Al partial angular differential cross section
+# REACTION        : 13-AL-27(D,T)13-AL-26,PAR,DA
+# File ID         : d-Al27-t-adxl-angdisl-mon-einc1.900E+07_elvl4.700E+06_prodAl26_Vlasov_1959_f1362.015
+#
+# Einc (eV)       :   1.9000E+07
+# Elvl (eV)       :   4.7000E+06
+#
+# npts            : 5           
+# xmin            :    7.3210000
+# xmax            :   27.0360000
+# ymin            :   5.7000E-06
+# ymax            :   3.1760E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.3210000   0.0000000  3.1760E-04  4.3800E-05
+  11.8670000   0.0000000  2.8590E-04  5.7700E-05
+  16.4100000   0.0000000  3.1580E-04  5.3700E-05
+  20.8600000   0.0000000  2.2050E-04  4.9700E-05
+  27.0360000   0.0000000  5.7000E-06  3.9800E-05
+#---------------------------------------------------

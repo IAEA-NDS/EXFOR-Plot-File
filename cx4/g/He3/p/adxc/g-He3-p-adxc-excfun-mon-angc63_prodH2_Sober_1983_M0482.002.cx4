@@ -1,0 +1,24 @@
+# EXFOR #         : M0482.002  
+# EXFOR Ver.      : 20160220
+# TRANS #         : M082
+# Author          : D.I.Sober et al.
+# Reference       : Phys.Rev.C 28 (1983) 2234
+# DOI             : 10.1103/PhysRevC.28.2234
+# Quantity        : 3He(g,p)2H angular differential cross section
+# REACTION        : 2-HE-3(G,P)1-H-2,,DA
+# File ID         : g-He3-p-adxc-excfun-mon-angc63_prodH2_Sober_1983_m0482.002
+#
+# theta,cm (deg)  :   62.9000000
+#
+# npts            : 1           
+# xmin            :   1.8500E+08
+# xmax            :   1.8500E+08
+# ymin            :   8.8500E-07
+# ymax            :   8.8500E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.8500E+08  0.0000E+00  8.8500E-07  2.5000E-08
+#---------------------------------------------------

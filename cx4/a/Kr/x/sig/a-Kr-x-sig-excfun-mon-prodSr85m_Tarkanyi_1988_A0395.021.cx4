@@ -1,0 +1,24 @@
+# EXFOR #         : A0395.021  
+# EXFOR Ver.      : 20220802
+# TRANS #         : A101
+# Author          : F.Tarkanyi et al.
+# Reference       : Appl.Radiat.Isot. 39 (1988) 135
+# DOI             : 10.1016/0883-2889(88)90159-1
+# Quantity        : natKr(a,x)85mSr independent production cross section
+# REACTION        : 36-KR-0(A,X)38-SR-85-M,,SIG
+# File ID         : a-Kr-x-sig-excfun-mon-prodSr85m_Tarkanyi_1988_a0395.021
+#
+# npts            : 3           
+# xmin            :   1.7400E+07
+# xmax            :   2.4550E+07
+# ymin            :   9.5000E-03
+# ymax            :   1.4300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7400E+07  0.0000E+00  1.4000E-02  3.0000E-03
+  2.0980E+07  0.0000E+00  1.4300E-02  1.7000E-03
+  2.4550E+07  0.0000E+00  9.5000E-03  2.0000E-03
+#---------------------------------------------------

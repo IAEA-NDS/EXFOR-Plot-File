@@ -1,0 +1,22 @@
+# EXFOR #         : E2495.003  
+# EXFOR Ver.      : 20160323
+# TRANS #         : E102
+# Author          : N.Kobayashi et al.
+# Reference       : Phys.Rev.C 93 (2016) 014613
+# DOI             : 10.1103/PhysRevC.93.014613
+# Quantity        : natPb(29Ne,x)28Ne independent production cross section
+# REACTION        : 82-PB-0(10-NE-29,X)10-NE-28,,SIG
+# File ID         : Ne29-Pb-x-sig-excfun-mon-prodNe28_Kobayashi_2016_e2495.003
+#
+# npts            : 1           
+# xmin            :   7.0760E+09
+# xmax            :   7.0760E+09
+# ymin            :   3.7900E-01
+# ymax            :   3.7900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0760E+09  0.0000E+00  3.7900E-01  1.4000E-02
+#---------------------------------------------------

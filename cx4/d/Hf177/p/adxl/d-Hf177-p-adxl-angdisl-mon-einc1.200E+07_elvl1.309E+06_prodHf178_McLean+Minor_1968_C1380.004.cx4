@@ -1,0 +1,29 @@
+# EXFOR #         : C1380.004  
+# EXFOR Ver.      : 20051122
+# TRANS #         : C076
+# Author          : M.McLean-Minor
+# Reference       : Thesis  (1968)
+# DOI             : N/A
+# Quantity        : 177Hf(d,p)178Hf partial angular differential cross section
+# REACTION        : 72-HF-177(D,P)72-HF-178,PAR,DA
+# File ID         : d-Hf177-p-adxl-angdisl-mon-einc1.200E+07_elvl1.309E+06_prodHf178_McLean+Minor_1968_c1380.004
+#
+# Einc (eV)       :   1.2000E+07
+# Elvl (eV)       :   1.3090E+06
+# dElvl (eV)      :   5.0000E+03
+#
+# npts            : 4           
+# xmin            :   55.0000000
+# xmax            :   95.0000000
+# ymin            :   2.0000E-06
+# ymax            :   7.0000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  55.0000000   0.0000000  7.0000E-06  0.0000E+00
+  65.0000000   0.0000000  3.0000E-06  0.0000E+00
+  85.0000000   0.0000000  2.0000E-06  0.0000E+00
+  95.0000000   0.0000000  2.0000E-06  0.0000E+00
+#---------------------------------------------------

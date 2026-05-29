@@ -1,0 +1,29 @@
+# EXFOR #         : F1217.003  
+# EXFOR Ver.      : 20250929
+# TRANS #         : F102
+# Author          : V.S.Buttsev et al.
+# Reference       : Sov.J.Nucl.Phys. 44 (1986) 271
+# DOI             : N/A
+# Quantity        : 93Nb(d,x) independent production cross section
+# REACTION        : 41-NB-93(D,X)ELEM/MASS,,SIG
+# File ID         : d-Nb93-x-sig-nucdis-mon-einc7.300E+09_Buttsev_1986_f1217.003
+#
+# Einc (eV)       :   7.3000E+09
+#
+# npts            : 6           
+# xmin            : 30072.9     
+# xmax            : 41092.1     
+# ymin            :   1.5000E-02
+# ymax            :   3.0000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     30072.9  3.0000E-02  7.0000E-03
+     33072.9  2.2000E-02  6.0000E-03
+     37082.1  1.5000E-02  5.0000E-03
+     39086.1  1.7000E-02  4.0000E-03
+     41090.0  2.4000E-02  6.0000E-03
+     41092.1  2.0000E-02  7.0000E-03
+#---------------------------------------------------

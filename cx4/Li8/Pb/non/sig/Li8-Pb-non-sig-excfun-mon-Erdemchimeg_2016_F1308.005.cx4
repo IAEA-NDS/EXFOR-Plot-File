@@ -1,0 +1,24 @@
+# EXFOR #         : F1308.005  
+# EXFOR Ver.      : 20170113
+# TRANS #         : F064
+# Author          : B.Erdemchimeg et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 80 (2016) 223
+# DOI             : 10.3103/S1062873816030096
+# Quantity        : natPb(8Li,non) cross section
+# REACTION        : 82-PB-0(3-LI-8,NON),,SIG
+# File ID         : Li8-Pb-non-sig-excfun-mon-Erdemchimeg_2016_f1308.005
+#
+# npts            : 3           
+# xmin            :   2.5832E+08
+# xmax            :   3.1344E+08
+# ymin            :   2.0800E-12
+# ymax            :   6.6000E-12
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5832E+08  0.0000E+00  2.0800E-12  9.0000E-13
+  2.8368E+08  0.0000E+00  6.6000E-12  2.1300E-12
+  3.1344E+08  0.0000E+00  3.2000E-12  1.2000E-12
+#---------------------------------------------------

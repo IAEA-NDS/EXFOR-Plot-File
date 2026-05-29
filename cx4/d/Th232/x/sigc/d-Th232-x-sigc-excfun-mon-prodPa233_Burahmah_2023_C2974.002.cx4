@@ -1,0 +1,25 @@
+# EXFOR #         : C2974.002  
+# EXFOR Ver.      : 20240312
+# TRANS #         : C239
+# Author          : N.Burahmah et al.
+# Reference       : Phys.Rev.C 108 (2023) 024609
+# DOI             : 10.1103/PhysRevC.108.024609
+# Quantity        : 232Th(d,x)233Pa cumulative production cross section
+# REACTION        : 90-TH-232(D,X)91-PA-233,CUM,SIG
+# File ID         : d-Th232-x-sigc-excfun-mon-prodPa233_Burahmah_2023_c2974.002
+#
+# npts            : 4           
+# xmin            :   3.1000E+07
+# xmax            :   4.9600E+07
+# ymin            :   3.0500E-02
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.1000E+07  0.0000E+00  7.5000E-02  5.2000E-03
+  3.5200E+07  0.0000E+00  5.6100E-02  4.0000E-03
+  4.1400E+07  0.0000E+00  3.3100E-02  2.3000E-03
+  4.9600E+07  0.0000E+00  3.0500E-02  2.6000E-03
+#---------------------------------------------------

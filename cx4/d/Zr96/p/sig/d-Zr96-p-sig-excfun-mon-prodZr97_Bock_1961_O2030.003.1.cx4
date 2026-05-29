@@ -1,0 +1,22 @@
+# EXFOR #         : O2030.003.1
+# EXFOR Ver.      : 20120831
+# TRANS #         : O049
+# Author          : R.Bock
+# Reference       : Z.Phys. 164 (1961) 546
+# DOI             : 10.1007/BF01378428
+# Quantity        : 96Zr(d,p)97Zr cross section
+# REACTION        : 40-ZR-96(D,P)40-ZR-97,,SIG
+# File ID         : d-Zr96-p-sig-excfun-mon-prodZr97_Bock_1961_o2030.003.1
+#
+# npts            : 1           
+# xmin            :   9.0000E+06
+# xmax            :   9.0000E+06
+# ymin            :   2.1500E-01
+# ymax            :   2.1500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.0000E+06  0.0000E+00  2.1500E-01  1.2000E-02
+#---------------------------------------------------

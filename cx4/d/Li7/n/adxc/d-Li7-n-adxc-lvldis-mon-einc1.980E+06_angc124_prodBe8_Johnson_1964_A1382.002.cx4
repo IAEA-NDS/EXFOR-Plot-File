@@ -1,0 +1,26 @@
+# EXFOR #         : A1382.002  
+# EXFOR Ver.      : 20040630
+# TRANS #         : 0000
+# Author          : C.H.Johnson et al.
+# Reference       : Phys.Rev. 133 (1964) B1183
+# DOI             : 10.1103/PhysRev.133.B1183
+# Quantity        : 7Li(d,n)8Be partial angular differential cross section
+# REACTION        : 3-LI-7(D,N)4-BE-8,PAR,DA
+# File ID         : d-Li7-n-adxc-lvldis-mon-einc1.980E+06_angc124_prodBe8_Johnson_1964_a1382.002
+#
+# Einc (eV)       :   1.9800E+06
+# theta,cm (deg)  :  123.6000000
+# dtheta,cm (deg) :    0.5980000
+#
+# npts            : 1           
+# xmin            :   2.9000E+06
+# xmax            :   2.9000E+06
+# ymin            :   8.5460E-03
+# ymax            :   8.5460E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.9000E+06  0.0000E+00  8.5460E-03  8.5460E-04
+#---------------------------------------------------

@@ -1,0 +1,30 @@
+# EXFOR #         : S0078.002  
+# EXFOR Ver.      : 20141030
+# TRANS #         : S018
+# Author          : Kong Xiangjing et al.
+# Reference       : High En.Nucl.Phy.Ch. 8 (1984) 199
+# DOI             : N/A
+# Quantity        : 10B(a,t)11C partial angular differential cross section
+# REACTION        : 5-B-10(A,T)6-C-11,PAR,DA
+# File ID         : a-B10-t-adxl-angdisl-mon-einc3.120E+07_elvl0.000E+00_prodC11_Kong%Xiangjing_1984_s0078.002
+#
+# Einc (eV)       :   3.1200E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 6           
+# xmin            :   20.1500000
+# xmax            :   59.6700000
+# ymin            :   3.1600E-05
+# ymax            :   8.7800E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.1500000   0.0000000  8.7800E-05  1.0500E-05
+  29.8800000   0.0000000  3.8200E-05  5.8800E-06
+  39.9500000   0.0000000  4.6300E-05  8.2100E-06
+  49.5900000   0.0000000  3.1600E-05  2.8600E-06
+  54.7100000   0.0000000  3.5000E-05  5.9400E-06
+  59.6700000   0.0000000  3.5000E-05  6.3500E-06
+#---------------------------------------------------

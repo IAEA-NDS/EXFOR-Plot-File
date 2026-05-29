@@ -1,0 +1,27 @@
+# EXFOR #         : E2803.009  
+# EXFOR Ver.      : 20250527
+# TRANS #         : E152
+# Author          : K.Nakano et al.
+# Reference       : EPJ Web Conf. 239 (2020) 20006
+# DOI             : 10.1051/epjconf/202023920006
+# Quantity        : 93Zr(d,x) independent production cross section
+# REACTION        : 40-ZR-93(D,X)ELEM/MASS,,SIG
+# File ID         : d-Zr93-x-sig-nucdis-mon-einc1.040E+08_Nakano_2020_e2803.009
+#
+# Einc (eV)       :   1.0400E+08
+#
+# npts            : 4           
+# xmin            : 38084.9     
+# xmax            : 38087.9     
+# ymin            :   1.5600E-02
+# ymax            :   2.9500E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     38084.9  2.2400E-02  6.4000E-04
+     38085.9  2.9500E-02  4.2500E-04
+     38086.9  2.2400E-02  6.4000E-04
+     38087.9  1.5600E-02  4.4500E-04
+#---------------------------------------------------

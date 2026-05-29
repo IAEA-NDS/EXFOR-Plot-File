@@ -1,0 +1,29 @@
+# EXFOR #         : O1162.003  
+# EXFOR Ver.      : 20091109
+# TRANS #         : O041
+# Author          : M.G.Betigeri et al.
+# Reference       : Nucl.Phys.A 171 (1971) 401
+# DOI             : 10.1016/0375-9474(71)90030-3
+# Quantity        : 66Zn(he3,a)65Zn partial angular differential cross section
+# REACTION        : 30-ZN-66(HE3,A)30-ZN-65,PAR,DA
+# File ID         : h-Zn66-a-adxc-angdisc-mon-einc1.800E+07_elvl9.520E+06_prodZn65_Betigeri_1971_o1162.003
+#
+# Einc (eV)       :   1.8000E+07
+# Elvl (eV)       :   9.5200E+06
+# dElvl (eV)      :   2.0000E+04
+#
+# npts            : 4           
+# xmin            :    5.3400000
+# xmax            :   18.3200000
+# ymin            :   5.8000E-05
+# ymax            :   1.0600E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.3400000   0.0000000  5.8000E-05  1.6240E-05
+   7.7600000   0.0000000  1.0600E-04  1.2720E-05
+  15.7700000   0.0000000  1.0100E-04  1.3130E-05
+  18.3200000   0.0000000  9.3000E-05  1.1160E-05
+#---------------------------------------------------

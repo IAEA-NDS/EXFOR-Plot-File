@@ -1,0 +1,24 @@
+# EXFOR #         : D6485.002  
+# EXFOR Ver.      : 20251016
+# TRANS #         : D151
+# Author          : S.Balakrishnan et al.
+# Reference       : Appl.Radiat.Isot. 225 (2025) 111986
+# DOI             : 10.1016/j.apradiso.2025.111986
+# Quantity        : natNi(a,x)61Cu cumulative production cross section
+# REACTION        : 28-NI-0(A,X)29-CU-61,(CUM),SIG
+# File ID         : a-Ni-x-sigc-excfun-mon-prodCu61_Balakrishnan_2025_d6485.002
+#
+# npts            : 3           
+# xmin            :   1.0800E+07
+# xmax            :   3.4600E+07
+# ymin            :   4.2250E-02
+# ymax            :   1.8821E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4600E+07  2.9000E+06  4.2250E-02  9.7200E-03
+  2.3400E+07  3.7000E+06  1.8821E-01  2.9250E-02
+  1.0800E+07  4.9000E+06  1.5753E-01  2.4470E-02
+#---------------------------------------------------

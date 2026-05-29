@@ -1,0 +1,22 @@
+# EXFOR #         : O2030.002.2
+# EXFOR Ver.      : 20120901
+# TRANS #         : O049
+# Author          : R.Bock
+# Reference       : Z.Phys. 164 (1961) 546
+# DOI             : 10.1007/BF01378428
+# Quantity        : 94Zr(d,n)95Nb cross section
+# REACTION        : 40-ZR-94(D,N)41-NB-95,,SIG
+# File ID         : d-Zr94-n-sig-excfun-mon-prodNb95_Bock_1961_o2030.002.2
+#
+# npts            : 1           
+# xmin            :   7.8000E+06
+# xmax            :   7.8000E+06
+# ymin            :   1.3300E-01
+# ymax            :   1.3300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.8000E+06  0.0000E+00  1.3300E-01  1.0000E-02
+#---------------------------------------------------

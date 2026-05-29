@@ -1,0 +1,22 @@
+# EXFOR #         : D6346.007  
+# EXFOR Ver.      : 20190510
+# TRANS #         : D122
+# Author          : M.Gull et al.
+# Reference       : Phys.Rev.C 98 (2018) 034603
+# DOI             : 10.1103/PhysRevC.98.034603
+# Quantity        : 89Y(16O,x)98gRh cumulative production cross section
+# REACTION        : 39-Y-89(8-O-16,X)45-RH-98-G,(CUM),SIG
+# File ID         : O16-Y89-x-sigc-excfun-mon-prodRh98g_Gull_2018_d6346.007
+#
+# npts            : 1           
+# xmin            :   1.0500E+08
+# xmax            :   1.0500E+08
+# ymin            :   1.6200E-02
+# ymax            :   1.6200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0500E+08  0.0000E+00  1.6200E-02  2.3000E-03
+#---------------------------------------------------

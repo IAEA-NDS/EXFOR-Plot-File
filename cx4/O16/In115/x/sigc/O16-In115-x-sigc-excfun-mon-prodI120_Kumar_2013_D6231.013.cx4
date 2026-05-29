@@ -1,0 +1,25 @@
+# EXFOR #         : D6231.013  
+# EXFOR Ver.      : 20150122
+# TRANS #         : D100
+# Author          : K.Kumar et al.
+# Reference       : Phys.Rev.C 88 (2013) 064613
+# DOI             : 10.1103/PhysRevC.88.064613
+# Quantity        : 115In(16O,x)120I cumulative production cross section
+# REACTION        : 49-IN-115(8-O-16,X)53-I-120,(CUM),SIG
+# File ID         : O16-In115-x-sigc-excfun-mon-prodI120_Kumar_2013_d6231.013
+#
+# npts            : 4           
+# xmin            :   8.3200E+07
+# xmax            :   1.0500E+08
+# ymin            :   9.5000E-03
+# ymax            :   1.1120E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.3200E+07  1.7200E+06  9.5000E-03  1.4000E-03
+  9.1100E+07  1.6000E+06  4.4300E-02  6.6000E-03
+  9.6350E+07  8.0000E+05  8.0000E-02  1.2700E-02
+  1.0500E+08  7.8000E+05  1.1120E-01  1.6700E-02
+#---------------------------------------------------

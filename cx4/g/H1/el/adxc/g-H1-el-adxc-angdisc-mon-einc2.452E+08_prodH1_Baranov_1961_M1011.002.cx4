@@ -1,0 +1,24 @@
+# EXFOR #         : M1011.002  
+# EXFOR Ver.      : 20200110
+# TRANS #         : M104
+# Author          : P.S.Baranov et al.
+# Reference       : Zh.Eksp.Teor.Fiz. 41 (1961) 1713
+# DOI             : N/A
+# Quantity        : 1H(g,el)1H angular differential cross section
+# REACTION        : 1-H-1(G,EL)1-H-1,,DA
+# File ID         : g-H1-el-adxc-angdisc-mon-einc2.452E+08_prodH1_Baranov_1961_m1011.002
+#
+# Einc (eV)       :   2.4520E+08
+#
+# npts            : 1           
+# xmin            :   93.1000000
+# xmax            :   93.1000000
+# ymin            :   2.0800E-07
+# ymax            :   2.0800E-07
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  93.1000000   0.0000000  2.0800E-07  2.4000E-08
+#---------------------------------------------------

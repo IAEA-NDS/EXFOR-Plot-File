@@ -1,0 +1,29 @@
+# EXFOR #         : F0698.002  
+# EXFOR Ver.      : 20160424
+# TRANS #         : F062
+# Author          : S.V.Artemov et al.
+# Reference       : Izv.Ross.AN,Fiz. 64 (2000) 536
+# DOI             : N/A
+# Quantity        : 26Mg(he3,d)27Al partial angular differential cross section
+# REACTION        : 12-MG-26(HE3,D)13-AL-27,PAR,DA
+# File ID         : h-Mg26-d-adxc-angdisc-mon-einc2.230E+07_elvl2.980E+06_prodAl27_Artemov_2000_f0698.002
+#
+# Einc (eV)       :   2.2300E+07
+# dEinc (eV)      :   3.3450E+05
+# Elvl (eV)       :   2.9800E+06
+#
+# npts            : 4           
+# xmin            :    9.5100000
+# xmax            :   15.4900000
+# ymin            :   7.8200E-03
+# ymax            :   9.5700E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.5100000   0.0000000  7.8200E-03  0.0000E+00
+  11.2300000   0.0000000  9.0600E-03  0.0000E+00
+  13.5100000   0.0000000  8.6800E-03  0.0000E+00
+  15.4900000   0.0000000  9.5700E-03  0.0000E+00
+#---------------------------------------------------

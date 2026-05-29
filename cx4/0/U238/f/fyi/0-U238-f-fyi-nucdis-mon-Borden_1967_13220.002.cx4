@@ -1,0 +1,25 @@
+# EXFOR #         : 13220.002  
+# EXFOR Ver.      : 19881102
+# TRANS #         : 0000
+# Author          : K.D.Borden et al.
+# Reference       : Report ORO-3235-12 page 21, 1967
+# DOI             : N/A
+# Quantity        : 238U(sf) independent fission product yield
+# REACTION        : 92-U-238(0,F)ELEM/MASS,IND,FY
+# File ID         : 0-U238-f-fyi-nucdis-mon-Borden_1967_13220.002
+#
+# npts            : 4           
+# xmin            : 36088.9     
+# xmax            : 54139.9     
+# ymin            :   4.0000E-02
+# ymax            :   7.0000E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     36088.9  4.0000E-02  3.0000E-02
+     36089.9  4.0000E-02  3.0000E-02
+     54138.9  7.0000E-02  3.0000E-02
+     54139.9  5.0000E-02  3.0000E-02
+#---------------------------------------------------

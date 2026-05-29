@@ -1,0 +1,23 @@
+# EXFOR #         : A0920.004  
+# EXFOR Ver.      : 20260207
+# TRANS #         : A132
+# Author          : Yu.Ts.Oganessian et al.
+# Reference       : Phys.Rev.C 87 (2013) 014302
+# DOI             : 10.1103/PhysRevC.87.014302
+# Quantity        : 243Am(48Ca,2n)289Mc cross section
+# REACTION        : 95-AM-243(20-CA-48,2N)115-MC-289,,SIG
+# File ID         : Ca48-Am243-2n-sig-excfun-mon-prodMc289_Oganessian_2013_a0920.004
+#
+# npts            : 2           
+# xmin            :   2.4000E+08
+# xmax            :   2.4100E+08
+# ymin            :   3.9000E-13
+# ymax            :   2.5000E-12
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+08  0.0000E+00  3.9000E-13  0.0000E+00
+  2.4100E+08  0.0000E+00  2.5000E-12  0.0000E+00
+#---------------------------------------------------

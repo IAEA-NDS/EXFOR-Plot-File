@@ -1,0 +1,23 @@
+# EXFOR #         : D6226.005  
+# EXFOR Ver.      : 20150122
+# TRANS #         : D100
+# Author          : Suparna Sodaye et al.
+# Reference       : Phys.Rev.C 87 (2013) 044610
+# DOI             : 10.1103/PhysRevC.87.044610
+# Quantity        : 232Th(20Ne,x)233Pa cumulative production cross section
+# REACTION        : 90-TH-232(10-NE-20,X)91-PA-233,(CUM),SIG
+# File ID         : Ne20-Th232-x-sigc-excfun-mon-prodPa233_Suparna%Sodaye_2013_d6226.005
+#
+# npts            : 2           
+# xmin            :   1.1400E+08
+# xmax            :   1.4250E+08
+# ymin            :   2.4310E-02
+# ymax            :   3.3420E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1400E+08  0.0000E+00  2.4310E-02  1.0100E-03
+  1.4250E+08  0.0000E+00  3.3420E-02  1.1300E-03
+#---------------------------------------------------

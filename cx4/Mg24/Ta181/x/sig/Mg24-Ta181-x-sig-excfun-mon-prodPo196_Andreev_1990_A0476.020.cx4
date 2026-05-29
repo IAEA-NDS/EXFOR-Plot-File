@@ -1,0 +1,25 @@
+# EXFOR #         : A0476.020  
+# EXFOR Ver.      : 20240914
+# TRANS #         : A118
+# Author          : A.N.Andreev et al.
+# Reference       : Sov.J.Nucl.Phys. 52 (1990) 412
+# DOI             : N/A
+# Quantity        : 181Ta(24Mg,x)196Po independent production cross section
+# REACTION        : 73-TA-181(12-MG-24,X)84-PO-196,,SIG
+# File ID         : Mg24-Ta181-x-sig-excfun-mon-prodPo196_Andreev_1990_a0476.020
+#
+# npts            : 4           
+# xmin            :   1.5100E+08
+# xmax            :   1.7200E+08
+# ymin            :   2.5000E-05
+# ymax            :   2.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5100E+08  0.0000E+00  2.5000E-05  1.0000E-05
+  1.6200E+08  0.0000E+00  5.8000E-05  2.3200E-05
+  1.6700E+08  0.0000E+00  5.5000E-05  2.2000E-05
+  1.7200E+08  0.0000E+00  2.5000E-04  1.0000E-04
+#---------------------------------------------------

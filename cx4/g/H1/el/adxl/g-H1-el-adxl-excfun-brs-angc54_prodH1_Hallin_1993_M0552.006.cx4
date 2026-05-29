@@ -1,0 +1,26 @@
+# EXFOR #         : M0552.006  
+# EXFOR Ver.      : 20190524
+# TRANS #         : M100
+# Author          : E.L.Hallin et al.
+# Reference       : Phys.Rev.C 48 (1993) 1497
+# DOI             : 10.1103/PhysRevC.48.1497
+# Quantity        : 1H(g,el)1H angular differential cross section
+# REACTION        : 1-H-1(G,EL)1-H-1,,DA,,BRS
+# File ID         : g-H1-el-adxl-excfun-brs-angc54_prodH1_Hallin_1993_m0552.006
+#
+# theta,cm (deg)  :   54.0000000
+#
+# npts            : 3           
+# xmin            :   2.2600E+08
+# xmax            :   2.3700E+08
+# ymin            :   4.1500E-08
+# ymax            :   7.7700E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.2600E+08  0.0000E+00  4.1500E-08  7.3000E-09
+  2.3200E+08  0.0000E+00  4.3200E-08  7.1000E-09
+  2.3700E+08  0.0000E+00  7.7700E-08  9.6000E-09
+#---------------------------------------------------

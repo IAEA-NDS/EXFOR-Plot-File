@@ -1,0 +1,25 @@
+# EXFOR #         : E2586.002  
+# EXFOR Ver.      : 20181228
+# TRANS #         : E121
+# Author          : O.B.Tarasov et al.
+# Reference       : Phys.Rev.Lett. 121 (2018) 022501
+# DOI             : 10.1103/PhysRevLett.121.022501
+# Quantity        : 9Be(70Zn,x) independent production cross section
+# REACTION        : 4-BE-9(30-ZN-70,X)ELEM/MASS,,SIG
+# File ID         : Zn70-Be9-x-sig-nucdis-mon-einc2.415E+10_Tarasov_2018_e2586.002
+#
+# Einc (eV)       :   2.4150E+10
+#
+# npts            : 2           
+# xmin            : 20059.9     
+# xmax            : 20060.9     
+# ymin            :   2.1000E-16
+# ymax            :   8.0000E-16
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     20059.9  8.0000E-16  3.0000E-16
+     20060.9  2.1000E-16  1.5000E-16
+#---------------------------------------------------

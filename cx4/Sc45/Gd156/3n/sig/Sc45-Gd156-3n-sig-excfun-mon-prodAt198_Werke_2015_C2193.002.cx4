@@ -1,0 +1,23 @@
+# EXFOR #         : C2193.002  
+# EXFOR Ver.      : 20151102
+# TRANS #         : C155
+# Author          : T.A.Werke et al.
+# Reference       : Phys.Rev.C 92 (2015) 034613
+# DOI             : 10.1103/PhysRevC.92.034613
+# Quantity        : 156Gd(45Sc,3n)198At cross section
+# REACTION        : 64-GD-156(21-SC-45,3N)85-AT-198,,SIG
+# File ID         : Sc45-Gd156-3n-sig-excfun-mon-prodAt198_Werke_2015_c2193.002
+#
+# npts            : 2           
+# xmin            :   5.0121E+07
+# xmax            :   5.9012E+07
+# ymin            :   3.1000E-06
+# ymax            :   5.8000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0121E+07  0.0000E+00  5.8000E-06  1.7000E-06
+  5.9012E+07  0.0000E+00  3.1000E-06  1.5500E-06
+#---------------------------------------------------

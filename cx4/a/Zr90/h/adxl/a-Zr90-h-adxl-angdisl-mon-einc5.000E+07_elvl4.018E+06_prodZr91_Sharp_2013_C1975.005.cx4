@@ -1,0 +1,26 @@
+# EXFOR #         : C1975.005  
+# EXFOR Ver.      : 20130122
+# TRANS #         : C127
+# Author          : D.K.Sharp et al.
+# Reference       : Phys.Rev.C 87 (2013) 014312
+# DOI             : 10.1103/PhysRevC.87.014312
+# Quantity        : 90Zr(a,he3)91Zr partial angular differential cross section
+# REACTION        : 40-ZR-90(A,HE3)40-ZR-91,PAR,DA
+# File ID         : a-Zr90-h-adxl-angdisl-mon-einc5.000E+07_elvl4.018E+06_prodZr91_Sharp_2013_c1975.005
+#
+# Einc (eV)       :   5.0000E+07
+# Elvl (eV)       :   4.0180E+06
+# dElvl (eV)      :   1.1000E+04
+#
+# npts            : 1           
+# xmin            :   10.0000000
+# xmax            :   10.0000000
+# ymin            :   4.2000E-05
+# ymax            :   4.2000E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.0000000   0.0000000  4.2000E-05  1.0000E-06
+#---------------------------------------------------

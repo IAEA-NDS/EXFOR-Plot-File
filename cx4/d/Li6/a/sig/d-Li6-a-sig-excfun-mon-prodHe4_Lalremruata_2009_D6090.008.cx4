@@ -1,0 +1,22 @@
+# EXFOR #         : D6090.008  
+# EXFOR Ver.      : 20091104
+# TRANS #         : D070
+# Author          : B.Lalremruata et al.
+# Reference       : Phys.Rev.C 80 (2009) 044617
+# DOI             : 10.1103/PhysRevC.80.044617
+# Quantity        : 6Li(d,a)4He cross section
+# REACTION        : 3-LI-6(D,A)2-HE-4,,SIG,,SFC
+# File ID         : d-Li6-a-sig-excfun-mon-prodHe4_Lalremruata_2009_d6090.008
+#
+# npts            : 1           
+# xmin            :   1.0000E+05
+# xmax            :   1.0000E+05
+# ymin            :   1.3355E-07
+# ymax            :   1.3355E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+05  0.0000E+00  1.3355E-07  2.0108E-08
+#---------------------------------------------------

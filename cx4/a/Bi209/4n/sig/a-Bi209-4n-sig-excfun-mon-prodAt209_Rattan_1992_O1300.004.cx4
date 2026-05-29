@@ -1,0 +1,23 @@
+# EXFOR #         : O1300.004  
+# EXFOR Ver.      : 20051123
+# TRANS #         : O025
+# Author          : S.S.Rattan et al.
+# Reference       : Radiochim.Acta 57 (1992) 7
+# DOI             : 10.1524/ract.1992.57.1.7
+# Quantity        : 209Bi(a,4n)209At cross section
+# REACTION        : 83-BI-209(A,4N)85-AT-209,,SIG
+# File ID         : a-Bi209-4n-sig-excfun-mon-prodAt209_Rattan_1992_o1300.004
+#
+# npts            : 2           
+# xmin            :   5.5700E+07
+# xmax            :   5.8600E+07
+# ymin            :   4.9300E-01
+# ymax            :   1.1350E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5700E+07  0.0000E+00  1.1350E+00  3.1000E-02
+  5.8600E+07  0.0000E+00  4.9300E-01  3.7000E-02
+#---------------------------------------------------

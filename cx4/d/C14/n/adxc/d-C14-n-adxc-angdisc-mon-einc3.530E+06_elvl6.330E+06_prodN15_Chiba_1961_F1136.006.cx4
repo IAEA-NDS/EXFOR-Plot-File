@@ -1,0 +1,28 @@
+# EXFOR #         : F1136.006  
+# EXFOR Ver.      : 20111021
+# TRANS #         : F044
+# Author          : R.Chiba
+# Reference       : Phys.Rev. 123 (1961) 1316
+# DOI             : 10.1103/PhysRev.123.1316
+# Quantity        : 14C(d,n)15N partial angular differential cross section
+# REACTION        : 6-C-14(D,N)7-N-15,PAR,DA
+# File ID         : d-C14-n-adxc-angdisc-mon-einc3.530E+06_elvl6.330E+06_prodN15_Chiba_1961_f1136.006
+#
+# Einc (eV)       :   3.5300E+06
+# Elvl (eV)       :   6.3300E+06
+#
+# npts            : 4           
+# xmin            :    6.9742000
+# xmax            :   93.6160000
+# ymin            :   2.9796E-03
+# ymax            :   7.3387E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.9742000   0.2092260  6.6199E-03  6.6199E-04
+  28.4670000   0.8540100  7.3387E-03  7.3387E-04
+  48.1230000   1.4436900  5.5174E-03  5.5174E-04
+  93.6160000   2.8084800  2.9796E-03  2.9796E-04
+#---------------------------------------------------

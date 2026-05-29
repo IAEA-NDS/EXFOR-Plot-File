@@ -1,0 +1,22 @@
+# EXFOR #         : F1273.003  
+# EXFOR Ver.      : 20151211
+# TRANS #         : F060
+# Author          : V.K.Utyonkov et al.
+# Reference       : Phys.Rev.C 92 (2015) 034609
+# DOI             : 10.1103/PhysRevC.92.034609
+# Quantity        : 240Pu(48Ca,4n)284Fl cross section
+# REACTION        : 94-PU-240(20-CA-48,4N)114-FL-284,,SIG
+# File ID         : Ca48-Pu240-4n-sig-excfun-mon-prodFl284_Utyonkov_2015_f1273.003
+#
+# npts            : 1           
+# xmin            :   2.5000E+08
+# xmax            :   2.5000E+08
+# ymin            :   2.6000E-12
+# ymax            :   2.6000E-12
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+08  1.0000E+06  2.6000E-12  0.0000E+00
+#---------------------------------------------------

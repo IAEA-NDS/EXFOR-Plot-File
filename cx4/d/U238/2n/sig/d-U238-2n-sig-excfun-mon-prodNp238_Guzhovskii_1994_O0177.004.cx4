@@ -1,0 +1,25 @@
+# EXFOR #         : O0177.004  
+# EXFOR Ver.      : 20001123
+# TRANS #         : 0000
+# Author          : B.Ya.Guzhovskii et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 1 page 390
+# DOI             : N/A
+# Quantity        : 238U(d,2n)238Np cross section
+# REACTION        : 92-U-238(D,2N)93-NP-238,,SIG
+# File ID         : d-U238-2n-sig-excfun-mon-prodNp238_Guzhovskii_1994_o0177.004
+#
+# npts            : 4           
+# xmin            :   1.0000E+07
+# xmax            :   1.3000E+07
+# ymin            :   2.5800E-02
+# ymax            :   5.7500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+07  0.0000E+00  2.5800E-02  0.0000E+00
+  1.0980E+07  0.0000E+00  4.7000E-02  0.0000E+00
+  1.1970E+07  0.0000E+00  5.7500E-02  0.0000E+00
+  1.3000E+07  0.0000E+00  5.1000E-02  0.0000E+00
+#---------------------------------------------------

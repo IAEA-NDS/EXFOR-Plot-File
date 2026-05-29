@@ -1,0 +1,23 @@
+# EXFOR #         : A0118.003  
+# EXFOR Ver.      : 20240304
+# TRANS #         : A109
+# Author          : H.Freiesleben et al.
+# Reference       : Report COO-3496-44 page 77, 1974
+# DOI             : N/A
+# Quantity        : 209Bi(6Li,2n)213Rn cross section
+# REACTION        : 83-BI-209(3-LI-6,2N)86-RN-213,,SIG
+# File ID         : Li6-Bi209-2n-sig-excfun-mon-prodRn213_Freiesleben_1974_a0118.003
+#
+# npts            : 2           
+# xmin            :   2.8000E+07
+# xmax            :   3.0000E+07
+# ymin            :   1.0000E-03
+# ymax            :   1.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+07  0.0000E+00  1.9000E-03  4.0000E-04
+  2.8000E+07  0.0000E+00  1.0000E-03  2.0000E-04
+#---------------------------------------------------

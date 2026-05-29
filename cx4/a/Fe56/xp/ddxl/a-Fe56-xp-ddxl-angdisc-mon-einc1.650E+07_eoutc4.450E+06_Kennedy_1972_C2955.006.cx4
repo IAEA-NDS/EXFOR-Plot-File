@@ -1,0 +1,30 @@
+# EXFOR #         : C2955.006  
+# EXFOR Ver.      : 20240606
+# TRANS #         : C238
+# Author          : A.J.Kennedy et al.
+# Reference       : Phys.Rev.C 5 (1972) 500
+# DOI             : 10.1103/PhysRevC.5.500
+# Quantity        : 56Fe(a,p+x) double differential cross section
+# REACTION        : 26-FE-56(A,X)1-H-1,,DA/DE
+# File ID         : a-Fe56-xp-ddxl-angdisc-mon-einc1.650E+07_eoutc4.450E+06_Kennedy_1972_c2955.006
+#
+# Einc (eV)       :   1.6500E+07
+# Eout,cm (eV)    :   4.4500E+06
+# dEout,cm (eV)   :   1.6500E+06
+#
+# npts            : 5           
+# xmin            :   31.3000000
+# xmax            :  150.8000000
+# ymin            :   3.2730E-09
+# ymax            :   3.6540E-09
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  31.3000000   0.0000000  3.5070E-09  1.7560E-10
+  62.4000000   0.0000000  3.2800E-09  1.5930E-10
+  92.3000000   0.0000000  3.2730E-09  1.5610E-10
+ 121.2000000   0.0000000  3.4260E-09  1.6590E-10
+ 150.8000000   0.0000000  3.6540E-09  1.6910E-10
+#---------------------------------------------------

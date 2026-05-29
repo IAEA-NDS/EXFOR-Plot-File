@@ -1,0 +1,25 @@
+# EXFOR #         : S0142.002.3
+# EXFOR Ver.      : 20151021
+# TRANS #         : S019
+# Author          : Sun Tongyu et al.
+# Reference       : High En.Nucl.Phy.Ch. 11 (1987) 660
+# DOI             : N/A
+# Quantity        : 115In(12C,x)119I cumulative production cross section
+# REACTION        : 49-IN-115(6-C-12,X)53-I-119,CUM,SIG
+# File ID         : C12-In115-x-sigc-excfun-mon-prodI119_Sun%Tongyu_1987_s0142.002.3
+#
+# npts            : 4           
+# xmin            :   6.0697E+07
+# xmax            :   7.2123E+07
+# ymin            :   5.7055E-04
+# ymax            :   7.8872E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0697E+07  0.0000E+00  5.7055E-04  1.7700E-04
+  6.6266E+07  0.0000E+00  2.8248E-03  1.0818E-03
+  6.9770E+07  0.0000E+00  3.7821E-03  1.3366E-03
+  7.2123E+07  0.0000E+00  7.8872E-03  2.7874E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : F1212.009  
+# EXFOR Ver.      : 20140818
+# TRANS #         : F055
+# Author          : V.V.Kuznetsov
+# Reference       : Zh.Eksp.Teor.Fiz. 40 No.5 (1961) 1263
+# DOI             : N/A
+# Quantity        : 27Al(d,t+x) cross section
+# REACTION        : 13-AL-27(D,X)1-H-3,,SIG
+# File ID         : d-Al27-xt-sig-excfun-mon-Kuznetsov_1961_f1212.009
+#
+# npts            : 2           
+# xmin            :   2.7000E+08
+# xmax            :   3.9000E+08
+# ymin            :   2.9700E-02
+# ymax            :   3.8100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7000E+08  0.0000E+00  2.9700E-02  4.6000E-03
+  3.9000E+08  0.0000E+00  3.8100E-02  6.0000E-03
+#---------------------------------------------------

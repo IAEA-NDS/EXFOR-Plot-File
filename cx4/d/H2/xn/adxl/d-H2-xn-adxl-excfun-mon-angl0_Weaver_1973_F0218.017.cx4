@@ -1,0 +1,25 @@
+# EXFOR #         : F0218.017  
+# EXFOR Ver.      : 20251210
+# TRANS #         : F104
+# Author          : K.A.Weaver et al.
+# Reference       : Nucl.Sci.Eng. 52 (1973) 35
+# DOI             : 10.13182/NSE73-A23287
+# Quantity        : 2H(d,n+x) angular differential cross section
+# REACTION        : 1-H-2(D,X)0-NN-1,,DA
+# File ID         : d-H2-xn-adxl-excfun-mon-angl0_Weaver_1973_f0218.017
+#
+# theta,lab (deg) :    0.0000000
+#
+# npts            : 2           
+# xmin            :   1.6554E+07
+# xmax            :   1.8547E+07
+# ymin            :   3.0778E-01
+# ymax            :   3.3746E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.6554E+07  0.0000E+00  3.0778E-01  0.0000E+00
+  1.8547E+07  0.0000E+00  3.3746E-01  0.0000E+00
+#---------------------------------------------------

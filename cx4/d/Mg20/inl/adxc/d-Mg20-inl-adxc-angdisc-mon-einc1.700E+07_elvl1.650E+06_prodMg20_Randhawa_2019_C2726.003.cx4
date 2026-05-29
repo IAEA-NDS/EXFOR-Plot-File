@@ -1,0 +1,29 @@
+# EXFOR #         : C2726.003  
+# EXFOR Ver.      : 20220317
+# TRANS #         : C215
+# Author          : J.S.Randhawa et al.
+# Reference       : Phys.Rev.C 99 (2019) 021301
+# DOI             : 10.1103/PhysRevC.99.021301
+# Quantity        : 20Mg(d,inl)20Mg partial angular differential cross section
+# REACTION        : 12-MG-20(D,INL)12-MG-20,PAR,DA
+# File ID         : d-Mg20-inl-adxc-angdisc-mon-einc1.700E+07_elvl1.650E+06_prodMg20_Randhawa_2019_c2726.003
+#
+# Einc (eV)       :   1.7000E+07
+# Elvl (eV)       :   1.6500E+06
+#
+# npts            : 5           
+# xmin            :   63.1000000
+# xmax            :   80.9000000
+# ymin            :   5.0000E-04
+# ymax            :   1.0200E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  63.1000000   0.0000000  9.5800E-04  1.5700E-04
+  67.6000000   0.0000000  1.0200E-03  1.5000E-04
+  72.1000000   0.0000000  6.5300E-04  1.4500E-04
+  76.5000000   0.0000000  5.3200E-04  1.3300E-04
+  80.9000000   0.0000000  5.0000E-04  1.3100E-04
+#---------------------------------------------------

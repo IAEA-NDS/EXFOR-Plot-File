@@ -1,0 +1,28 @@
+# EXFOR #         : C2834.003  
+# EXFOR Ver.      : 20221201
+# TRANS #         : C230
+# Author          : B.P.Kay et al.
+# Reference       : Phys.Rev.Lett. 129 (2022) 152501
+# DOI             : 10.1103/PhysRevLett.129.152501
+# Quantity        : 14N(d,p)15N partial angular differential cross section
+# REACTION        : 7-N-14(D,P)7-N-15,PAR,DA
+# File ID         : d-N14-p-adxc-angdisc-mon-einc2.000E+07_elvl8.313E+06_prodN15_Kay_2022_c2834.003
+#
+# Einc (eV)       :   2.0000E+07
+# Elvl (eV)       :   8.3130E+06
+#
+# npts            : 4           
+# xmin            :   22.6000000
+# xmax            :   37.3900000
+# ymin            :   4.6300E-04
+# ymax            :   8.6000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  22.6000000   0.0000000  4.7600E-04  1.0900E-04
+  27.0500000   0.0000000  4.6300E-04  9.0000E-05
+  34.2600000   0.0000000  8.6000E-04  2.6200E-04
+  37.3900000   0.0000000  5.3100E-04  1.1000E-04
+#---------------------------------------------------

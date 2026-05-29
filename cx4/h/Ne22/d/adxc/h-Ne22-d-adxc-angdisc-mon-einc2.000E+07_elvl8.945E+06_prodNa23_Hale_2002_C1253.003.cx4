@@ -1,0 +1,27 @@
+# EXFOR #         : C1253.003  
+# EXFOR Ver.      : 20050608
+# TRANS #         : C074
+# Author          : S.E.Hale et al.
+# Reference       : Phys.Rev.C 65 (2002) 015801
+# DOI             : N/A
+# Quantity        : 22Ne(he3,d)23Na partial angular differential cross section
+# REACTION        : 10-NE-22(HE3,D)11-NA-23,PAR,DA
+# File ID         : h-Ne22-d-adxc-angdisc-mon-einc2.000E+07_elvl8.945E+06_prodNa23_Hale_2002_c1253.003
+#
+# Einc (eV)       :   2.0000E+07
+# Elvl (eV)       :   8.9450E+06
+#
+# npts            : 3           
+# xmin            :    5.7500000
+# xmax            :   22.7000000
+# ymin            :   5.3900E-05
+# ymax            :   1.7200E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.7500000   0.0000000  1.7200E-04  3.9100E-05
+   8.6000000   0.0000000  1.1600E-04  4.1000E-05
+  22.7000000   0.0000000  5.3900E-05  1.5100E-05
+#---------------------------------------------------

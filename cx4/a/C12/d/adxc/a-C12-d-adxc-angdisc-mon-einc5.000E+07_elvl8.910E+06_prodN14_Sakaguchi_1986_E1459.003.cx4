@@ -1,0 +1,26 @@
+# EXFOR #         : E1459.003  
+# EXFOR Ver.      : 20070909
+# TRANS #         : E047
+# Author          : A.Sakaguchi et al.
+# Reference       : Phys.Rev.Lett. 56 No.11 (1986) 1112
+# DOI             : 10.1103/PhysRevLett.56.1112
+# Quantity        : 12C(a,d)14N partial angular differential cross section
+# REACTION        : 6-C-12(A,D)7-N-14,PAR,DA
+# File ID         : a-C12-d-adxc-angdisc-mon-einc5.000E+07_elvl8.910E+06_prodN14_Sakaguchi_1986_e1459.003
+#
+# Einc (eV)       :   5.0000E+07
+# Elvl (eV)       :   8.9100E+06
+#
+# npts            : 2           
+# xmin            :   20.1300000
+# xmax            :   34.1800000
+# ymin            :   1.8510E-04
+# ymax            :   3.1990E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.1300000   0.0000000  3.1990E-04  0.0000E+00
+  34.1800000   0.0000000  1.8510E-04  0.0000E+00
+#---------------------------------------------------

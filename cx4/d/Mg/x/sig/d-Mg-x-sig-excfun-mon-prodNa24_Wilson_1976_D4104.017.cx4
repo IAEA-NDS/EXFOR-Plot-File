@@ -1,0 +1,24 @@
+# EXFOR #         : D4104.017  
+# EXFOR Ver.      : 20210929
+# TRANS #         : D132
+# Author          : R.L.Wilson et al.
+# Reference       : Phys.Rev.C 13 (1976) 976
+# DOI             : 10.1103/PhysRevC.13.976
+# Quantity        : natMg(d,x)24Na independent production cross section
+# REACTION        : 12-MG-0(D,X)11-NA-24,,SIG
+# File ID         : d-Mg-x-sig-excfun-mon-prodNa24_Wilson_1976_d4104.017
+#
+# npts            : 3           
+# xmin            :   6.4000E+06
+# xmax            :   1.6750E+07
+# ymin            :   1.8200E-02
+# ymax            :   2.6500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.4000E+06  1.2000E+06  1.8200E-02  1.9000E-03
+  1.2500E+07  7.0000E+05  2.4000E-02  2.0000E-03
+  1.6750E+07  5.5000E+05  2.6500E-02  2.4000E-03
+#---------------------------------------------------

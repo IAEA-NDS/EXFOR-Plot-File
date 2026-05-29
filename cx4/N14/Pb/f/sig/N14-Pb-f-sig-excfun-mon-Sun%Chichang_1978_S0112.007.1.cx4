@@ -1,0 +1,24 @@
+# EXFOR #         : S0112.007.1
+# EXFOR Ver.      : 20151020
+# TRANS #         : S019
+# Author          : Sun Chichang et al.
+# Reference       : High En.Nucl.Phy.Ch. 2 (1978) 151
+# DOI             : N/A
+# Quantity        : natPb(14N,f) cross section
+# REACTION        : 82-PB-0(7-N-14,F),,SIG
+# File ID         : N14-Pb-f-sig-excfun-mon-Sun%Chichang_1978_s0112.007.1
+#
+# npts            : 3           
+# xmin            :   8.3600E+07
+# xmax            :   9.6600E+07
+# ymin            :   3.1300E-01
+# ymax            :   6.3400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.3600E+07  0.0000E+00  3.1300E-01  2.1000E-02
+  9.2200E+07  0.0000E+00  5.4000E-01  3.5000E-02
+  9.6600E+07  0.0000E+00  6.3400E-01  4.2000E-02
+#---------------------------------------------------

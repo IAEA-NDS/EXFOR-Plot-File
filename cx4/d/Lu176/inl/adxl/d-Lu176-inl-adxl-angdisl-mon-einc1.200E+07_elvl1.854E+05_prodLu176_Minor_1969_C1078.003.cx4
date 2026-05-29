@@ -1,0 +1,26 @@
+# EXFOR #         : C1078.003  
+# EXFOR Ver.      : 20041130
+# TRANS #         : 0000
+# Author          : M.M.Minor et al.
+# Reference       : Phys.Rev. 187 (1969) 1516
+# DOI             : 10.1103/PhysRev.187.1516
+# Quantity        : 176Lu(d,inl)176Lu partial angular differential cross section
+# REACTION        : 71-LU-176(D,INL)71-LU-176,PAR,DA
+# File ID         : d-Lu176-inl-adxl-angdisl-mon-einc1.200E+07_elvl1.854E+05_prodLu176_Minor_1969_c1078.003
+#
+# Einc (eV)       :   1.2000E+07
+# Elvl (eV)       :   1.8540E+05
+#
+# npts            : 2           
+# xmin            :   95.0000000
+# xmax            :  130.0000000
+# ymin            :   8.6000E-04
+# ymax            :   8.7500E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  95.0000000   0.0000000  8.7500E-04  0.0000E+00
+ 130.0000000   0.0000000  8.6000E-04  0.0000E+00
+#---------------------------------------------------

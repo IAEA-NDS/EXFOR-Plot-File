@@ -1,0 +1,22 @@
+# EXFOR #         : D4366.003  
+# EXFOR Ver.      : 20170609
+# TRANS #         : D109
+# Author          : A.Ornelas et al.
+# Reference       : Phys.Rev.C 94 (2016) 055807
+# DOI             : 10.1103/PhysRevC.94.055807
+# Quantity        : 64Zn(a,n)67Ge cross section
+# REACTION        : 30-ZN-64(A,N)32-GE-67,,SIG
+# File ID         : a-Zn64-n-sig-excfun-mon-prodGe67_Ornelas_2016_d4366.003
+#
+# npts            : 1           
+# xmin            :   1.6122E+07
+# xmax            :   1.6122E+07
+# ymin            :   2.4000E-01
+# ymax            :   2.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6122E+07  8.0020E+04  2.4000E-01  2.6000E-02
+#---------------------------------------------------

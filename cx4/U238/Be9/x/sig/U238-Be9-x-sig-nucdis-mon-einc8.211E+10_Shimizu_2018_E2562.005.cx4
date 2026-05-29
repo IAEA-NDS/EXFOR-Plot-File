@@ -1,0 +1,27 @@
+# EXFOR #         : E2562.005  
+# EXFOR Ver.      : 20180419
+# TRANS #         : E112
+# Author          : Y.Shimizu et al.
+# Reference       : J.Phys.Soc.Jpn. 87 (2018) 014203
+# DOI             : 10.7566/JPSJ.87.014203
+# Quantity        : 9Be(238U,f) independent production cross section
+# REACTION        : 4-BE-9(92-U-238,F)ELEM/MASS,,SIG
+# File ID         : U238-Be9-x-sig-nucdis-mon-einc8.211E+10_Shimizu_2018_e2562.005
+#
+# Einc (eV)       :   8.2110E+10
+#
+# npts            : 4           
+# xmin            : 40113.9     
+# xmax            : 43121.9     
+# ymin            :   5.0000E-14
+# ymax            :   4.0000E-13
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     40113.9  5.0000E-14  0.0000E+00
+     41116.9  5.0000E-14  0.0000E+00
+     42118.9  4.0000E-13  0.0000E+00
+     43121.9  3.0000E-13  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C2140.016  
+# EXFOR Ver.      : 20141203
+# TRANS #         : C147
+# Author          : S.R.Stroberg et al.
+# Reference       : Phys.Rev.C 90 (2014) 034301
+# DOI             : 10.1103/PhysRevC.90.034301
+# Quantity        : 9Be(38Si,x)37Al independent production cross section
+# REACTION        : 4-BE-9(14-SI-38,X)13-AL-37,,SIG
+# File ID         : Si38-Be9-x-sig-excfun-mon-prodAl37_Stroberg_2014_c2140.016
+#
+# npts            : 1           
+# xmin            :   3.0020E+09
+# xmax            :   3.0020E+09
+# ymin            :   1.3000E-02
+# ymax            :   1.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0020E+09  0.0000E+00  1.3000E-02  1.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : C2814.002  
+# EXFOR Ver.      : 20220918
+# TRANS #         : C229
+# Author          : R.J.Peterson et al.
+# Reference       : Phys.Rev.C 35 (1987) 495
+# DOI             : 10.1103/PhysRevC.35.495
+# Quantity        : 59Co(a,t)60Ni partial angular differential cross section
+# REACTION        : 27-CO-59(A,T)28-NI-60,PAR,DA
+# File ID         : a-Co59-t-adxc-angdisc-mon-einc8.090E+07_elvl1.548E+07_prodNi60_Peterson_1987_c2814.002
+#
+# Einc (eV)       :   8.0900E+07
+# Elvl (eV)       :   1.5480E+07
+#
+# npts            : 5           
+# xmin            :    7.5990000
+# xmax            :   19.2340000
+# ymin            :   1.2970E-05
+# ymax            :   4.5670E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.5990000   0.0000000  4.5670E-05  0.0000E+00
+   9.6830000   0.0000000  3.3630E-05  0.0000E+00
+  11.8880000   0.0000000  2.5910E-05  5.2350E-06
+  15.0100000   0.0000000  1.9610E-05  4.7440E-06
+  19.2340000   0.0000000  1.2970E-05  2.8500E-06
+#---------------------------------------------------

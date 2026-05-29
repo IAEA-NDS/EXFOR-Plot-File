@@ -1,0 +1,31 @@
+# EXFOR #         : C2982.003  
+# EXFOR Ver.      : 20240907
+# TRANS #         : C240
+# Author          : A.Jamshidi et al.
+# Reference       : Phys.Rev.C 8 (1973) 1796
+# DOI             : 10.1103/PhysRevC.8.1796
+# Quantity        : 48Ti(a,inl)48Ti partial angular differential cross section
+# REACTION        : 22-TI-48(A,INL)22-TI-48,PAR,DA
+# File ID         : a-Ti48-inl-adxc-angdisc-mon-einc2.850E+07_elvl3.337E+06_prodTi48_Jamshidi_1973_c2982.003
+#
+# Einc (eV)       :   2.8500E+07
+# dEinc (eV)      :   9.0000E+03
+# Elvl (eV)       :   3.3370E+06
+#
+# npts            : 6           
+# xmin            :   19.6890000
+# xmax            :   48.5520000
+# ymin            :   3.1910E-05
+# ymax            :   8.7890E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  19.6890000   0.0000000  5.3400E-05  1.2040E-05
+  26.3480000   0.0000000  7.4210E-05  1.2280E-05
+  31.9900000   0.0000000  8.6980E-05  1.4390E-05
+  33.9070000   0.0000000  8.7890E-05  9.7120E-06
+  36.8290000   0.0000000  4.6390E-05  7.6780E-06
+  48.5520000   0.0000000  3.1910E-05  6.6600E-06
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : O1004.063  
+# EXFOR Ver.      : 20021217
+# TRANS #         : 0000
+# Author          : A.Heinz et al.
+# Reference       : Nucl.Phys.A 713 (2003) 3
+# DOI             : 10.1016/S0375-9474(02)01296-4
+# Quantity        : natPb(235Pa,f) cross section
+# REACTION        : 82-PB-0(91-PA-235,F),,SIG
+# File ID         : Pa235-Pb-f-sig-excfun-mon-Heinz_2003_o1004.063
+#
+# npts            : 1           
+# xmin            :   7.0500E+10
+# xmax            :   7.0500E+10
+# ymin            :   3.1100E-03
+# ymax            :   3.1100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0500E+10  0.0000E+00  3.1100E-03  7.4000E-04
+#---------------------------------------------------

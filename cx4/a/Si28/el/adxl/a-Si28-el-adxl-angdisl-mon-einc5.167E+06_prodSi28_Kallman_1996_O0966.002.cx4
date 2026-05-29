@@ -1,0 +1,25 @@
+# EXFOR #         : O0966.002  
+# EXFOR Ver.      : 20030515
+# TRANS #         : 0000
+# Author          : K.-M.Kallman
+# Reference       : Z.Phys.A 356 (1996) 287
+# DOI             : 10.1007/s002180050181
+# Quantity        : 28Si(a,el)28Si angular differential cross section
+# REACTION        : 14-SI-28(A,EL)14-SI-28,,DA
+# File ID         : a-Si28-el-adxl-angdisl-mon-einc5.167E+06_prodSi28_Kallman_1996_o0966.002
+#
+# Einc (eV)       :   5.1670E+06
+# dEinc (eV)      :   1.5000E+04
+#
+# npts            : 1           
+# xmin            :  173.0000000
+# xmax            :  173.0000000
+# ymin            :   2.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 173.0000000   0.0000000  2.0000E-02  0.0000E+00
+#---------------------------------------------------

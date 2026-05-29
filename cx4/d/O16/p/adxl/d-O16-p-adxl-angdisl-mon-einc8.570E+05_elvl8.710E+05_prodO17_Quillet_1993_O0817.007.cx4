@@ -1,0 +1,26 @@
+# EXFOR #         : O0817.007  
+# EXFOR Ver.      : 20180328
+# TRANS #         : O066
+# Author          : V.Quillet et al.
+# Reference       : Nucl.Instrum.Meth.B 83 (1993) 47
+# DOI             : 10.1016/0168-583X(93)95906-L
+# Quantity        : 16O(d,p)17O partial angular differential cross section
+# REACTION        : 8-O-16(D,P)8-O-17,PAR,DA
+# File ID         : d-O16-p-adxl-angdisl-mon-einc8.570E+05_elvl8.710E+05_prodO17_Quillet_1993_o0817.007
+#
+# Einc (eV)       :   8.5700E+05
+# dEinc (eV)      :   3.0000E+02
+# Elvl (eV)       :   8.7100E+05
+#
+# npts            : 1           
+# xmin            :  150.0000000
+# xmax            :  150.0000000
+# ymin            :   5.3000E-03
+# ymax            :   5.3000E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 150.0000000   0.2000000  5.3000E-03  4.0000E-04
+#---------------------------------------------------

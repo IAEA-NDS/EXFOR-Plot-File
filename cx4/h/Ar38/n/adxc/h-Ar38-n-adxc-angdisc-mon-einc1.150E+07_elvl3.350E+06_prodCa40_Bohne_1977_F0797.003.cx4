@@ -1,0 +1,27 @@
+# EXFOR #         : F0797.003  
+# EXFOR Ver.      : 20070125
+# TRANS #         : F026
+# Author          : W.Bohne et al.
+# Reference       : Nucl.Phys.A 284 (1977) 14
+# DOI             : 10.1016/0375-9474(77)90682-0
+# Quantity        : 38Ar(he3,n)40Ca partial angular differential cross section
+# REACTION        : 18-AR-38(HE3,N)20-CA-40,PAR,DA
+# File ID         : h-Ar38-n-adxc-angdisc-mon-einc1.150E+07_elvl3.350E+06_prodCa40_Bohne_1977_f0797.003
+#
+# Einc (eV)       :   1.1500E+07
+# Elvl (eV)       :   3.3500E+06
+#
+# npts            : 3           
+# xmin            :    0.9648300
+# xmax            :   23.7620000
+# ymin            :   9.0322E-06
+# ymax            :   7.5082E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.9648300   0.0000000  7.5082E-05  0.0000E+00
+   9.1791000   0.0000000  5.2132E-05  0.0000E+00
+  23.7620000   0.0000000  9.0322E-06  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : D6046.018  
+# EXFOR Ver.      : 20090528
+# TRANS #         : D069
+# Author          : R.Tripathi et al.
+# Reference       : Phys.Rev.C 74 (2006) 014610
+# DOI             : 10.1103/PhysRevC.74.014610
+# Quantity        : 181Ta(20Ne,f)99Mo cumulative production cross section
+# REACTION        : 73-TA-181(10-NE-20,F)42-MO-99,CUM,SIG
+# File ID         : Ne20-Ta181-x-sigc-excfun-mon-prodMo99_Tripathi_2006_d6046.018
+#
+# npts            : 2           
+# xmin            :   1.5000E+08
+# xmax            :   1.8000E+08
+# ymin            :   2.6500E-02
+# ymax            :   3.6600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  2.6500E-02  8.0000E-04
+  1.8000E+08  0.0000E+00  3.6600E-02  7.0000E-04
+#---------------------------------------------------

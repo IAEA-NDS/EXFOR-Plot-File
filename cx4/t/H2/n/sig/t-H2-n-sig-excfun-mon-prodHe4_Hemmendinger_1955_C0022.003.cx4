@@ -1,0 +1,22 @@
+# EXFOR #         : C0022.003  
+# EXFOR Ver.      : 20020213
+# TRANS #         : 0000
+# Author          : A.Hemmendinger et al.
+# Reference       : Phys.Rev. 98 (1955) 70
+# DOI             : 10.1103/PhysRev.98.70
+# Quantity        : 2H(t,n)4He cross section
+# REACTION        : 1-H-2(T,N)2-HE-4,,SIG
+# File ID         : t-H2-n-sig-excfun-mon-prodHe4_Hemmendinger_1955_c0022.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.8000E-01
+# ymax            :   2.8000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.8000E-01  8.0000E-03
+#---------------------------------------------------

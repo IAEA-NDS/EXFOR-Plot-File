@@ -1,0 +1,27 @@
+# EXFOR #         : C1569.002  
+# EXFOR Ver.      : 20070809
+# TRANS #         : C082
+# Author          : K.Y.Chae et al.
+# Reference       : Proceedings of 9.Int.Symp.Nuclei in the Cosmos, CERN, Geneva, 2006 page (273)
+# DOI             : N/A
+# Quantity        : 1H(18F,a)15O angular differential cross section
+# REACTION        : 1-H-1(9-F-18,A)8-O-15,,DA
+# File ID         : F18-H1-a-adxc-excfun-mon-angc97_prodO15_Chae_2006_c1569.002
+#
+# theta,cm (deg)  :   97.0000000
+# dtheta,cm (deg) :   41.0000000
+#
+# npts            : 3           
+# xmin            :   1.2526E+07
+# xmax            :   1.6555E+07
+# ymin            :   2.6020E-03
+# ymax            :   7.1010E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.2526E+07  0.0000E+00  7.1010E-02  1.2670E-02
+  1.3539E+07  0.0000E+00  1.4220E-02  2.7440E-03
+  1.6555E+07  0.0000E+00  2.6020E-03  8.1440E-04
+#---------------------------------------------------

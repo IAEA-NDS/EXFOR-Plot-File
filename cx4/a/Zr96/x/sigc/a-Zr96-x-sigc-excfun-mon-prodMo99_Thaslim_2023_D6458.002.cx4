@@ -1,0 +1,24 @@
+# EXFOR #         : D6458.002  
+# EXFOR Ver.      : 20231115
+# TRANS #         : D141
+# Author          : T.T.V.Thaslim et al.
+# Reference       : Eur.Phys.J.A 59 (2023) 167
+# DOI             : 10.1140/epja/s10050-023-01086-5
+# Quantity        : 96Zr(a,n)99Mo cumulative production cross section
+# REACTION        : 40-ZR-96(A,N)42-MO-99,(CUM),SIG
+# File ID         : a-Zr96-x-sigc-excfun-mon-prodMo99_Thaslim_2023_d6458.002
+#
+# npts            : 3           
+# xmin            :   2.0400E+07
+# xmax            :   3.2300E+07
+# ymin            :   2.4460E-02
+# ymax            :   8.4250E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0400E+07  5.0000E+05  8.4250E-02  9.0700E-03
+  2.9600E+07  4.0000E+05  2.4640E-02  4.9300E-03
+  3.2300E+07  4.0000E+05  2.4460E-02  4.8600E-03
+#---------------------------------------------------

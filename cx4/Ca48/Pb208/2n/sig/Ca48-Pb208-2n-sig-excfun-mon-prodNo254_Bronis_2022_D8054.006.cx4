@@ -1,0 +1,23 @@
+# EXFOR #         : D8054.006  
+# EXFOR Ver.      : 20230103
+# TRANS #         : D138
+# Author          : A.Bronis et al.
+# Reference       : Phys.Rev.C 106 (2022) 014602
+# DOI             : 10.1103/PhysRevC.106.014602
+# Quantity        : 208Pb(48Ca,2n)254No cross section
+# REACTION        : 82-PB-208(20-CA-48,2N)102-NO-254,,SIG
+# File ID         : Ca48-Pb208-2n-sig-excfun-mon-prodNo254_Bronis_2022_d8054.006
+#
+# npts            : 2           
+# xmin            :   2.1360E+08
+# xmax            :   2.1840E+08
+# ymin            :   6.1900E-07
+# ymax            :   1.7780E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1360E+08  0.0000E+00  6.1900E-07  6.0000E-08
+  2.1840E+08  0.0000E+00  1.7780E-06  2.0000E-07
+#---------------------------------------------------

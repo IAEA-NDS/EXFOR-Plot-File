@@ -1,0 +1,24 @@
+# EXFOR #         : E2728.007  
+# EXFOR Ver.      : 20230122
+# TRANS #         : E136
+# Author          : D.Gantumur et al.
+# Reference       : Appl.Radiat.Isot. 184 (2022) 110204
+# DOI             : 10.1016/j.apradiso.2022.110204
+# Quantity        : natV(a,x)46Sc independent production cross section
+# REACTION        : 23-V-0(A,X)21-SC-46,,SIG
+# File ID         : a-V-x-sig-excfun-mon-prodSc46_Gantumur_2022_e2728.007
+#
+# npts            : 3           
+# xmin            :   4.3800E+07
+# xmax            :   4.9600E+07
+# ymin            :   3.1800E-03
+# ymax            :   1.2100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9600E+07  2.0000E+05  1.2100E-02  9.0000E-04
+  4.6800E+07  2.0000E+05  7.2300E-03  6.3000E-04
+  4.3800E+07  2.0000E+05  3.1800E-03  4.0000E-04
+#---------------------------------------------------

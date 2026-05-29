@@ -1,0 +1,26 @@
+# EXFOR #         : A0202.003  
+# EXFOR Ver.      : 20160124
+# TRANS #         : A084
+# Author          : S.J.Nassiff et al.
+# Reference       : Radiochim.Acta 19 No.3 (1973) 97
+# DOI             : 10.1524/ract.1973.19.3.97
+# Quantity        : 52Cr(d,2n)52gMn cumulative production cross section
+# REACTION        : 24-CR-52(D,2N)25-MN-52-G,M+,SIG
+# File ID         : d-Cr52-x-sigc-excfun-mon-prodMn52g_Nassiff_1973_a0202.003
+#
+# npts            : 5           
+# xmin            :   1.4900E+07
+# xmax            :   2.4000E+07
+# ymin            :   3.1600E-01
+# ymax            :   5.1900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4900E+07  0.0000E+00  3.1600E-01  0.0000E+00
+  1.8500E+07  0.0000E+00  5.1900E-01  0.0000E+00
+  2.1500E+07  0.0000E+00  5.1700E-01  0.0000E+00
+  2.3300E+07  0.0000E+00  4.1100E-01  0.0000E+00
+  2.4000E+07  0.0000E+00  3.9300E-01  0.0000E+00
+#---------------------------------------------------

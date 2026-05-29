@@ -1,0 +1,28 @@
+# EXFOR #         : F1406.003  
+# EXFOR Ver.      : 20191209
+# TRANS #         : F075
+# Author          : N.A.Vlasov et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 25 (1962) 111
+# DOI             : N/A
+# Quantity        : 18O(d,t)17O partial angular differential cross section
+# REACTION        : 8-O-18(D,T)8-O-17,PAR,DA
+# File ID         : d-O18-t-adxc-angdisc-mon-einc2.000E+07_elvl5.380E+06_prodO17_Vlasov_1962_f1406.003
+#
+# Einc (eV)       :   2.0000E+07
+# Elvl (eV)       :   5.3800E+06
+#
+# npts            : 4           
+# xmin            :   10.3630000
+# xmax            :   22.3480000
+# ymin            :   8.8700E-05
+# ymax            :   9.1450E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.3630000   0.0000000  7.0860E-04  0.0000E+00
+  14.9090000   0.0000000  9.1450E-04  0.0000E+00
+  19.9300000   0.0000000  2.9070E-04  0.0000E+00
+  22.3480000   0.0000000  8.8700E-05  0.0000E+00
+#---------------------------------------------------

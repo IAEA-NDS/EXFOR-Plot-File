@@ -1,0 +1,25 @@
+# EXFOR #         : C2567.004  
+# EXFOR Ver.      : 20200623
+# TRANS #         : C195
+# Author          : W.Loveland et al.
+# Reference       : Eur.Phys.J.A 54 (2018) 140
+# DOI             : 10.1140/epja/i2018-12572-8
+# Quantity        : 208Pb(11Li,x)214At independent production cross section
+# REACTION        : 82-PB-208(3-LI-11,X)85-AT-214,,SIG
+# File ID         : Li11-Pb208-x-sig-excfun-mon-prodAt214_Loveland_2018_c2567.004
+#
+# npts            : 4           
+# xmin            :   2.6100E+07
+# xmax            :   3.2700E+07
+# ymin            :   2.3000E-03
+# ymax            :   1.5800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6100E+07  0.0000E+00  2.3000E-03  7.0000E-04
+  2.7400E+07  0.0000E+00  3.5000E-03  1.0000E-03
+  2.8500E+07  0.0000E+00  7.4000E-03  1.4000E-03
+  3.2700E+07  0.0000E+00  1.5800E-02  3.4000E-03
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : O1136.002  
+# EXFOR Ver.      : 20040423
+# TRANS #         : 0000
+# Author          : A.Saganek et al.
+# Reference       : J.Phys.G 10 (1984) 549
+# DOI             : 10.1088/0305-4616/10/4/015
+# Quantity        : 88Sr(d,p)89Sr partial angular differential cross section
+# REACTION        : 38-SR-88(D,P)38-SR-89,PAR,DA
+# File ID         : d-Sr88-p-adxc-angdisc-mon-einc3.400E+06_elvl2.452E+06_prodSr89_Saganek_1984_o1136.002
+#
+# Einc (eV)       :   3.4000E+06
+# dEinc (eV)      :   2.2500E+04
+# Elvl (eV)       :   2.4520E+06
+#
+# npts            : 4           
+# xmin            :  130.2000000
+# xmax            :  160.5000000
+# ymin            :   4.8000E-05
+# ymax            :   6.5000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 130.2000000   0.0000000  4.8000E-05  1.9200E-06
+ 140.7000000   0.0000000  5.8000E-05  2.3200E-06
+ 150.4000000   0.0000000  6.5000E-05  1.9500E-06
+ 160.5000000   0.0000000  6.2000E-05  2.4800E-06
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : T0081.002  
+# EXFOR Ver.      : 20010130
+# TRANS #         : 0000
+# Author          : R.J.Peterson et al.
+# Reference       : Nucl.Phys.A 362 (1981) 163
+# DOI             : 10.1016/0375-9474(81)90675-8
+# Quantity        : 13C(he3,d)14N partial angular differential cross section
+# REACTION        : 6-C-13(HE3,D)7-N-14,PAR,DA
+# File ID         : h-C13-d-adxl-angdisc-mon-einc4.360E+07_elvl1.166E+07_prodN14_Peterson_1981_t0081.002
+#
+# Einc (eV)       :   4.3600E+07
+# dEinc (eV)      :   1.7500E+04
+# Elvl (eV)       :   1.1660E+07
+#
+# npts            : 4           
+# xmin            :    6.1000000
+# xmax            :   21.3000000
+# ymin            :   8.2000E-05
+# ymax            :   1.1000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.1000000   0.0000000  1.1000E-03  2.8000E-05
+   9.4000000   0.0000000  8.2000E-04  1.5000E-05
+  17.9000000   0.0000000  1.8000E-04  3.5000E-06
+  21.3000000   0.0000000  8.2000E-05  1.7000E-06
+#---------------------------------------------------

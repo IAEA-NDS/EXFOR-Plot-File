@@ -1,0 +1,22 @@
+# EXFOR #         : B0101.004  
+# EXFOR Ver.      : 20220622
+# TRANS #         : B034
+# Author          : W.E.Crandall et al.
+# Reference       : Phys.Rev. 101 (1956) 329
+# DOI             : 10.1103/PhysRev.101.329
+# Quantity        : 12C(a,x)11C independent production cross section
+# REACTION        : 6-C-12(A,X)6-C-11,,SIG
+# File ID         : a-C12-x-sig-excfun-mon-prodC11_Crandall_1956_b0101.004
+#
+# npts            : 1           
+# xmin            :   3.8000E+08
+# xmax            :   3.8000E+08
+# ymin            :   5.7000E-02
+# ymax            :   5.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8000E+08  0.0000E+00  5.7000E-02  6.0000E-04
+#---------------------------------------------------

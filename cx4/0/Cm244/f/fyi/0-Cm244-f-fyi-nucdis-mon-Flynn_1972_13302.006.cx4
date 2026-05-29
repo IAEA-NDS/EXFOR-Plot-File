@@ -1,0 +1,23 @@
+# EXFOR #         : 13302.006  
+# EXFOR Ver.      : 19890907
+# TRANS #         : 0000
+# Author          : K.F.Flynn et al.
+# Reference       : Phys.Rev.C 6 (1972) 2211
+# DOI             : 10.1103/PhysRevC.6.2211
+# Quantity        : 244Cm(sf) independent fission product yield
+# REACTION        : 96-CM-244(0,F)ELEM/MASS,IND,FY
+# File ID         : 0-Cm244-f-fyi-nucdis-mon-Flynn_1972_13302.006
+#
+# npts            : 2           
+# xmin            : 37086.9     
+# xmax            : 55136.9     
+# ymin            :   1.8000E-05
+# ymax            :   1.3000E-03
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     37086.9  1.8000E-05  4.0000E-06
+     55136.9  1.3000E-03  2.0000E-04
+#---------------------------------------------------

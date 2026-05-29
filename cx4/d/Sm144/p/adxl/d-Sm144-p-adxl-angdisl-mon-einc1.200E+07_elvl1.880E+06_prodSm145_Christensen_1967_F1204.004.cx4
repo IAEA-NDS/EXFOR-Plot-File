@@ -1,0 +1,29 @@
+# EXFOR #         : F1204.004  
+# EXFOR Ver.      : 20131007
+# TRANS #         : F052
+# Author          : P.R.Christensen et al.
+# Reference       : Nucl.Phys.A 102 (1967) 481
+# DOI             : 10.1016/0375-9474(67)90387-9
+# Quantity        : 144Sm(d,p)145Sm partial angular differential cross section
+# REACTION        : 62-SM-144(D,P)62-SM-145,PAR,DA
+# File ID         : d-Sm144-p-adxl-angdisl-mon-einc1.200E+07_elvl1.880E+06_prodSm145_Christensen_1967_f1204.004
+#
+# Einc (eV)       :   1.2000E+07
+# dEinc (eV)      :   4.5000E+04
+# Elvl (eV)       :   1.8800E+06
+#
+# npts            : 4           
+# xmin            :   39.0100000
+# xmax            :  149.3800000
+# ymin            :   4.7000E-05
+# ymax            :   3.0360E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  39.0100000   0.0000000  3.0360E-04  0.0000E+00
+  49.6500000   0.0000000  2.7460E-04  0.0000E+00
+  89.7700000   0.0000000  1.2710E-04  0.0000E+00
+ 149.3800000   0.0000000  4.7000E-05  0.0000E+00
+#---------------------------------------------------

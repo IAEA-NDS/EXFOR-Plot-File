@@ -1,0 +1,25 @@
+# EXFOR #         : D6225.007  
+# EXFOR Ver.      : 20150113
+# TRANS #         : D100
+# Author          : Kamal Kumar et al.
+# Reference       : Phys.Rev.C 87 (2013) 044608
+# DOI             : 10.1103/PhysRevC.87.044608
+# Quantity        : 165Ho(16O,x)176W cumulative production cross section
+# REACTION        : 67-HO-165(8-O-16,X)74-W-176,CUM,SIG
+# File ID         : O16-Ho165-x-sigc-excfun-mon-prodW176_Kamal%Kumar_2013_d6225.007
+#
+# npts            : 4           
+# xmin            :   8.3800E+07
+# xmax            :   1.0500E+08
+# ymin            :   4.2600E-03
+# ymax            :   1.0790E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.3800E+07  1.7200E+06  4.2600E-03  8.0000E-04
+  9.2900E+07  1.6000E+06  4.8900E-02  5.8900E-03
+  9.6400E+07  8.0000E+05  7.2900E-02  1.1000E-02
+  1.0500E+08  7.8000E+05  1.0790E-01  6.3000E-03
+#---------------------------------------------------

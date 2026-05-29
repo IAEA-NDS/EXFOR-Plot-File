@@ -1,0 +1,24 @@
+# EXFOR #         : D8010.005  
+# EXFOR Ver.      : 20200428
+# TRANS #         : D127
+# Author          : A.K.Mistry et al.
+# Reference       : Nucl.Phys.A 987 (2019) 337
+# DOI             : 10.1016/j.nuclphysa.2019.05.003
+# Quantity        : 181Ta(48Ca,x)222Pa independent production cross section
+# REACTION        : 73-TA-181(20-CA-48,X)91-PA-222,,SIG
+# File ID         : Ca48-Ta181-x-sig-excfun-mon-prodPa222_Mistry_2019_d8010.005
+#
+# npts            : 3           
+# xmin            :   2.1200E+08
+# xmax            :   2.2600E+08
+# ymin            :   1.8500E-09
+# ymax            :   1.0500E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1200E+08  0.0000E+00  1.8500E-09  6.0000E-10
+  2.1700E+08  0.0000E+00  1.0500E-08  3.4000E-09
+  2.2600E+08  0.0000E+00  2.3600E-09  9.0000E-10
+#---------------------------------------------------

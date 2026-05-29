@@ -1,0 +1,24 @@
+# EXFOR #         : C0724.008  
+# EXFOR Ver.      : 20140206
+# TRANS #         : C138
+# Author          : M.Blann et al.
+# Reference       : Phys.Rev. 133 (1964) B700
+# DOI             : 10.1103/PhysRev.133.B700
+# Quantity        : 54Fe(6Li,x)52gFe independent production cross section
+# REACTION        : 26-FE-54(3-LI-6,X)26-FE-52-G,,SIG
+# File ID         : Li6-Fe54-x-sig-excfun-mon-prodFe52g_Blann_1964_c0724.008
+#
+# npts            : 3           
+# xmin            :   5.2600E+07
+# xmax            :   6.0200E+07
+# ymin            :   2.0000E-04
+# ymax            :   6.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2600E+07  4.4400E+05  2.0000E-04  1.0000E-04
+  5.6500E+07  2.2200E+05  4.9000E-04  2.4500E-04
+  6.0200E+07  4.4400E+05  6.5000E-04  3.2500E-04
+#---------------------------------------------------

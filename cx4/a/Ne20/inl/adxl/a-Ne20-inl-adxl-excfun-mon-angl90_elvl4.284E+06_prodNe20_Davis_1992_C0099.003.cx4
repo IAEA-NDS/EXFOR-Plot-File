@@ -1,0 +1,26 @@
+# EXFOR #         : C0099.003  
+# EXFOR Ver.      : 20040816
+# TRANS #         : 0000
+# Author          : C.A.Davis
+# Reference       : Phys.Rev.C 45 (1992) 2693
+# DOI             : 10.1103/PhysRevC.45.2693
+# Quantity        : 20Ne(a,inl)20Ne partial angular differential cross section
+# REACTION        : 10-NE-20(A,INL)10-NE-20,PAR,DA
+# File ID         : a-Ne20-inl-adxl-excfun-mon-angl90_elvl4.284E+06_prodNe20_Davis_1992_c0099.003
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   4.2840E+06
+#
+# npts            : 2           
+# xmin            :   7.6970E+06
+# xmax            :   1.0981E+07
+# ymin            :   1.0330E-04
+# ymax            :   2.0720E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.6970E+06  0.0000E+00  1.0330E-04  5.1700E-05
+  1.0981E+07  0.0000E+00  2.0720E-02  6.4950E-04
+#---------------------------------------------------

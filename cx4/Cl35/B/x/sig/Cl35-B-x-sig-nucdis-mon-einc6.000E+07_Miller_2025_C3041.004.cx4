@@ -1,0 +1,26 @@
+# EXFOR #         : C3041.004  
+# EXFOR Ver.      : 20250228
+# TRANS #         : C249
+# Author          : A.M.Miller
+# Reference       : Appl.Radiat.Isot. 215 (2025) 111560
+# DOI             : 10.1016/j.apradiso.2024.111560
+# Quantity        : natB(35Cl,x) independent production cross section
+# REACTION        : 5-B-0(17-CL-35,X)ELEM/MASS,,SIG
+# File ID         : Cl35-B-x-sig-nucdis-mon-einc6.000E+07_Miller_2025_c3041.004
+#
+# Einc (eV)       :   6.0000E+07
+#
+# npts            : 3           
+# xmin            : 21043.9     
+# xmax            : 21044.9     
+# ymin            :   6.0000E-03
+# ymax            :   2.1000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     21043.9  6.0000E-03  6.0000E-04
+     21044.9  2.1000E-02  2.0000E-03
+     21044.1  1.6000E-02  2.0000E-03
+#---------------------------------------------------

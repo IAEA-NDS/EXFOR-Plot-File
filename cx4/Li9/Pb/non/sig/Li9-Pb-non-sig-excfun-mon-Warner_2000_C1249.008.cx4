@@ -1,0 +1,23 @@
+# EXFOR #         : C1249.008  
+# EXFOR Ver.      : 20050606
+# TRANS #         : C074
+# Author          : R.E.Warner et al.
+# Reference       : Phys.Rev.C 62 (2000) 024608
+# DOI             : 10.1103/PhysRevC.62.024608
+# Quantity        : natPb(9Li,non) cross section
+# REACTION        : 82-PB-0(3-LI-9,NON),,SIG
+# File ID         : Li9-Pb-non-sig-excfun-mon-Warner_2000_c1249.008
+#
+# npts            : 2           
+# xmin            :   4.0050E+08
+# xmax            :   7.2450E+08
+# ymin            :   3.6900E+00
+# ymax            :   3.8700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0050E+08  1.3950E+08  3.8700E+00  1.4000E-01
+  7.2450E+08  1.3050E+08  3.6900E+00  4.3000E-01
+#---------------------------------------------------

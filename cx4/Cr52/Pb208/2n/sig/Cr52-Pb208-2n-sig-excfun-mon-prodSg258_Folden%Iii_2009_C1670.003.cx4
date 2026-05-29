@@ -1,0 +1,23 @@
+# EXFOR #         : C1670.003  
+# EXFOR Ver.      : 20090213
+# TRANS #         : C090
+# Author          : C.M.Folden Iii et al.
+# Reference       : Phys.Rev.C 79 (2009) 027602
+# DOI             : 10.1103/PhysRevC.79.027602
+# Quantity        : 208Pb(52Cr,2n)258Sg cross section
+# REACTION        : 82-PB-208(24-CR-52,2N)106-SG-258,,SIG
+# File ID         : Cr52-Pb208-2n-sig-excfun-mon-prodSg258_Folden%Iii_2009_c1670.003
+#
+# npts            : 2           
+# xmin            :   2.5560E+08
+# xmax            :   2.6180E+08
+# ymin            :   4.4000E-11
+# ymax            :   1.5000E-10
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5560E+08  0.0000E+00  4.4000E-11  0.0000E+00
+  2.6180E+08  0.0000E+00  1.5000E-10  0.0000E+00
+#---------------------------------------------------

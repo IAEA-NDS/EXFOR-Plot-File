@@ -1,0 +1,22 @@
+# EXFOR #         : D5180.002  
+# EXFOR Ver.      : 20191226
+# TRANS #         : D125
+# Author          : I.N.Vishnevsky et al.
+# Reference       : Phys.At.Nucl. 79 (2016) 1381
+# DOI             : 10.1134/S1063778816090143
+# Quantity        : 176Lu(a,p)179m2Hf cross section
+# REACTION        : 71-LU-176(A,P)72-HF-179-M2,,SIG
+# File ID         : a-Lu176-p-sig-excfun-mon-prodHf179n_Vishnevsky_2016_d5180.002
+#
+# npts            : 1           
+# xmin            :   2.6000E+07
+# xmax            :   2.6000E+07
+# ymin            :   1.1000E-03
+# ymax            :   1.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6000E+07  1.2000E+06  1.1000E-03  1.0000E-04
+#---------------------------------------------------

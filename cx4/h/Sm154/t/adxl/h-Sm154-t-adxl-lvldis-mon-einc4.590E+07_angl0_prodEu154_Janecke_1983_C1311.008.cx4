@@ -1,0 +1,25 @@
+# EXFOR #         : C1311.008  
+# EXFOR Ver.      : 20111228
+# TRANS #         : C114
+# Author          : J.Janecke et al.
+# Reference       : Nucl.Phys.A 402 (1983) 262
+# DOI             : 10.1016/0375-9474(83)90498-0
+# Quantity        : 154Sm(he3,t)154Eu partial angular differential cross section
+# REACTION        : 62-SM-154(HE3,T)63-EU-154,PAR,DA
+# File ID         : h-Sm154-t-adxl-lvldis-mon-einc4.590E+07_angl0_prodEu154_Janecke_1983_c1311.008
+#
+# Einc (eV)       :   4.5900E+07
+# theta,lab (deg) :    0.0000000
+#
+# npts            : 1           
+# xmin            :   1.4109E+07
+# xmax            :   1.4109E+07
+# ymin            :   1.2600E-03
+# ymax            :   1.2600E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4109E+07  9.0000E+03  1.2600E-03  1.3000E-04
+#---------------------------------------------------

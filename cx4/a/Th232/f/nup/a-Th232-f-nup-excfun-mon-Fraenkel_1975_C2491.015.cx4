@@ -1,0 +1,22 @@
+# EXFOR #         : C2491.015  
+# EXFOR Ver.      : 20200303
+# TRANS #         : C192
+# Author          : Z.Fraenkel et al.
+# Reference       : Phys.Rev.C 12 (1975) 1809
+# DOI             : 10.1103/PhysRevC.12.1809
+# Quantity        : 232Th(a,f) prompt fission neutron multiplicity
+# REACTION        : 90-TH-232(A,F),PR,NU
+# File ID         : a-Th232-f-nup-excfun-mon-Fraenkel_1975_c2491.015
+#
+# npts            : 1           
+# xmin            :   4.5000E+07
+# xmax            :   4.5000E+07
+# ymin            :   7.3000E+00
+# ymax            :   7.3000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  4.5000E+07  0.0000E+00  7.3000E+00  8.0000E-01
+#---------------------------------------------------

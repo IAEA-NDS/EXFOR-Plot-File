@@ -1,0 +1,22 @@
+# EXFOR #         : O0569.005  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : J.L.Anderson et al.
+# Reference       : J.Inorg.Nucl.Chem. 30 (1968) 3167
+# DOI             : 10.1016/0022-1902(68)80108-3
+# Quantity        : 238U(d,f)83Br cumulative production cross section
+# REACTION        : 92-U-238(D,F)35-BR-83,(CUM),SIG
+# File ID         : d-U238-x-sigc-excfun-mon-prodBr83_Anderson_1968_o0569.005
+#
+# npts            : 1           
+# xmin            :   1.1500E+07
+# xmax            :   1.1500E+07
+# ymin            :   3.2100E-04
+# ymax            :   3.2100E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+07  0.0000E+00  3.2100E-04  1.5000E-04
+#---------------------------------------------------

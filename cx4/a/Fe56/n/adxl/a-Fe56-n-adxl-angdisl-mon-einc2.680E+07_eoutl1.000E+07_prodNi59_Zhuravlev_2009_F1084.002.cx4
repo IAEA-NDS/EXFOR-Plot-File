@@ -1,0 +1,30 @@
+# EXFOR #         : F1084.002  
+# EXFOR Ver.      : 20260113
+# TRANS #         : F107
+# Author          : B.V.Zhuravlev et al.
+# Reference       : Report (proceedings) ISINN-16 page 237, 2009
+# DOI             : N/A
+# Quantity        : 56Fe(a,n)59Ni partial angular differential cross section
+# REACTION        : 26-FE-56(A,N)28-NI-59,PAR,DA
+# File ID         : a-Fe56-n-adxl-angdisl-mon-einc2.680E+07_eoutl1.000E+07_prodNi59_Zhuravlev_2009_f1084.002
+#
+# Einc (eV)       :   2.6800E+07
+# Eout,lab (eV)   :   1.0000E+07
+# dEout,lab (eV)  :   2.0000E+06
+#
+# npts            : 5           
+# xmin            :   29.9600000
+# xmax            :  149.8500000
+# ymin            :   2.3000E-03
+# ymax            :   6.5400E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  29.9600000   0.0000000  6.5400E-03  0.0000E+00
+  60.3400000   0.0000000  4.4500E-03  0.0000E+00
+  89.9100000   0.0000000  2.6400E-03  0.0000E+00
+ 119.7100000   0.0000000  2.3000E-03  0.0000E+00
+ 149.8500000   0.0000000  2.9100E-03  0.0000E+00
+#---------------------------------------------------

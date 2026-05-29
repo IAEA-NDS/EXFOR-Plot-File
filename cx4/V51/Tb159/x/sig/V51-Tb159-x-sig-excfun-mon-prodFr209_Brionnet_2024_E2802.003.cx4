@@ -1,0 +1,25 @@
+# EXFOR #         : E2802.003  
+# EXFOR Ver.      : 20250627
+# TRANS #         : E152
+# Author          : P.Brionnet et al.
+# Reference       : Phys.Rev.C 110 (2024) 064601
+# DOI             : 10.1103/PhysRevC.110.064601
+# Quantity        : 159Tb(51V,x) independent production cross section
+# REACTION        : 65-TB-159(23-V-51,X)ELEM/MASS,,SIG
+# File ID         : V51-Tb159-x-sig-excfun-mon-prodFr209_Brionnet_2024_e2802.003
+#
+# npts            : 4           
+# xmin            :   2.0463E+08
+# xmax            :   2.1970E+08
+# ymin            :   1.0800E-07
+# ymax            :   5.0000E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0463E+08  1.2013E+06  1.0800E-07  2.4300E-08
+  2.0966E+08  1.1012E+06  2.5800E-07  5.8400E-08
+  2.1468E+08  1.1012E+06  5.0000E-07  1.0800E-07
+  2.1970E+08  1.2013E+06  2.0800E-07  4.7000E-08
+#---------------------------------------------------

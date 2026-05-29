@@ -1,0 +1,30 @@
+# EXFOR #         : C2945.002  
+# EXFOR Ver.      : 20231113
+# TRANS #         : C237
+# Author          : W.W.Daehnick et al.
+# Reference       : Phys.Rev.C 23 (1981) 1906
+# DOI             : 10.1103/PhysRevC.23.1906
+# Quantity        : 208Pb(a,d)210Bi partial angular differential cross section
+# REACTION        : 82-PB-208(A,D)83-BI-210,PAR,DA
+# File ID         : a-Pb208-d-adxc-angdisc-mon-einc3.300E+07_elvl9.940E+05_prodBi210_Daehnick_1981_c2945.002
+#
+# Einc (eV)       :   3.3000E+07
+# Elvl (eV)       :   9.9400E+05
+# dElvl (eV)      :   1.9880E+03
+#
+# npts            : 5           
+# xmin            :    9.9320000
+# xmax            :   50.8400000
+# ymin            :   2.6510E-06
+# ymax            :   7.0670E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.9320000   0.0000000  6.1770E-06  7.0860E-07
+  20.2990000   0.0000000  7.0670E-06  1.3420E-06
+  30.5780000   0.0000000  3.5400E-06  6.2650E-07
+  40.6390000   0.0000000  2.6510E-06  7.8990E-07
+  50.8400000   0.0000000  2.7800E-06  2.8560E-07
+#---------------------------------------------------

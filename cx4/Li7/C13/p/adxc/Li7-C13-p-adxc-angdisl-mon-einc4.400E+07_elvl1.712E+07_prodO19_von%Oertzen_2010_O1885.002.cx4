@@ -1,0 +1,28 @@
+# EXFOR #         : O1885.002  
+# EXFOR Ver.      : 20110127
+# TRANS #         : O044
+# Author          : W.von Oertzen et al.
+# Reference       : Eur.Phys.J.A 46 (2010) 345
+# DOI             : 10.1140/epja/i2010-11060-7
+# Quantity        : 13C(7Li,p)19O partial angular differential cross section
+# REACTION        : 6-C-13(3-LI-7,P)8-O-19,PAR,DA
+# File ID         : Li7-C13-p-adxc-angdisl-mon-einc4.400E+07_elvl1.712E+07_prodO19_von%Oertzen_2010_o1885.002
+#
+# Einc (eV)       :   4.4000E+07
+# Elvl (eV)       :   1.7120E+07
+# dElvl (eV)      :   1.5000E+04
+#
+# npts            : 3           
+# xmin            :   10.0000000
+# xmax            :   39.0000000
+# ymin            :   7.9400E-06
+# ymax            :   1.6860E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.0000000   0.0000000  1.2670E-05  2.9000E-07
+  20.0000000   0.0000000  1.6860E-05  3.2000E-07
+  39.0000000   0.0000000  7.9400E-06  1.7000E-07
+#---------------------------------------------------

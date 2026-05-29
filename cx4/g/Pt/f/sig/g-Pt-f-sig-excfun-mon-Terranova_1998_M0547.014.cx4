@@ -1,0 +1,23 @@
+# EXFOR #         : M0547.014  
+# EXFOR Ver.      : 20180301
+# TRANS #         : M095
+# Author          : M.L.Terranova et al.
+# Reference       : J.Phys.G 24 (1998) 205
+# DOI             : 10.1088/0954-3899/24/1/023
+# Quantity        : natPt(g,f) cross section
+# REACTION        : 78-PT-0(G,F),,SIG
+# File ID         : g-Pt-f-sig-excfun-mon-Terranova_1998_m0547.014
+#
+# npts            : 2           
+# xmin            :   1.2000E+08
+# xmax            :   1.4500E+08
+# ymin            :   2.7000E-05
+# ymax            :   5.7000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+08  0.0000E+00  2.7000E-05  7.0000E-06
+  1.4500E+08  0.0000E+00  5.7000E-05  1.3000E-05
+#---------------------------------------------------

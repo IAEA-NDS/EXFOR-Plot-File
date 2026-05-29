@@ -1,0 +1,29 @@
+# EXFOR #         : O2220.002  
+# EXFOR Ver.      : 20140709
+# TRANS #         : O053
+# Author          : G.Burgunder et al.
+# Reference       : Phys.Rev.Lett. 112 (2014) 042502
+# DOI             : 10.1103/PhysRevLett.112.042502
+# Quantity        : 2H(34Si,p)35Si partial angular differential cross section
+# REACTION        : 1-H-2(14-SI-34,P)14-SI-35,PAR,DA
+# File ID         : Si34-H2-p-adxl-angdisl-mon-einc6.970E+08_elvl2.044E+06_prodSi35_Burgunder_2014_o2220.002
+#
+# Einc (eV)       :   6.9700E+08
+# Elvl (eV)       :   2.0440E+06
+#
+# npts            : 5           
+# xmin            :  110.8500000
+# xmax            :  162.2900000
+# ymin            :   8.0800E-05
+# ymax            :   3.2800E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 110.8500000   2.5200000  8.0800E-05  2.4300E-05
+ 120.5000000   2.6600000  1.0800E-04  2.4300E-05
+ 133.1800000   2.5200000  1.5900E-04  3.2100E-05
+ 143.2200000   2.5200000  1.9200E-04  4.1000E-05
+ 162.2900000   3.7200000  3.2800E-04  6.6400E-05
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : A0297.005  
+# EXFOR Ver.      : 20241003
+# TRANS #         : A120
+# Author          : Sunita Gupta et al.
+# Reference       : Phys.Rev.C 61 (2000) 064613
+# DOI             : 10.1103/PhysRevC.61.064613
+# Quantity        : 165Ho(12C,x)173Hf cumulative production cross section
+# REACTION        : 67-HO-165(6-C-12,X)72-HF-173,CUM,SIG
+# File ID         : C12-Ho165-x-sigc-excfun-mon-prodHf173_Sunita%Gupta_2000_a0297.005
+#
+# npts            : 3           
+# xmin            :   6.2000E+07
+# xmax            :   8.0000E+07
+# ymin            :   2.4800E-01
+# ymax            :   8.4300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.2000E+07  9.0000E+05  2.4800E-01  3.3000E-02
+  7.1000E+07  1.0000E+06  8.4300E-01  1.1200E-01
+  8.0000E+07  9.0000E+05  5.4700E-01  7.3000E-02
+#---------------------------------------------------

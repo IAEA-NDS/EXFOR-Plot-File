@@ -1,0 +1,28 @@
+# EXFOR #         : D1003.003  
+# EXFOR Ver.      : 20210716
+# TRANS #         : D135
+# Author          : P.Adsley et al.
+# Reference       : Phys.Rev.C 103 (2021) 044315
+# DOI             : 10.1103/PhysRevC.103.044315
+# Quantity        : 24Mg(a,inl)24Mg partial angular differential cross section
+# REACTION        : 12-MG-24(A,INL)12-MG-24,PAR,DA
+# File ID         : a-Mg24-inl-adxc-angdisc-mon-einc2.000E+08_elvl1.186E+07_prodMg24_Adsley_2021_d1003.003
+#
+# Einc (eV)       :   2.0000E+08
+# Elvl (eV)       :   1.1860E+07
+#
+# npts            : 4           
+# xmin            :    2.9510700
+# xmax            :    6.4911500
+# ymin            :   7.3439E-04
+# ymax            :   5.3973E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.9510700   0.5901720  5.3973E-03  1.4452E-04
+   4.1313000   0.5900970  4.6258E-03  1.0481E-04
+   5.3113500   0.5899950  1.8918E-03  6.3926E-05
+   6.4911500   0.5898660  7.3439E-04  1.1194E-04
+#---------------------------------------------------

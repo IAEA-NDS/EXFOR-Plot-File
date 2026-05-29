@@ -1,0 +1,27 @@
+# EXFOR #         : D5007.003  
+# EXFOR Ver.      : 20060710
+# TRANS #         : D050
+# Author          : E.P.Kadkin et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 68 (2004) 266
+# DOI             : N/A
+# Quantity        : 54Fe(he3,d+x) angular differential cross section
+# REACTION        : 26-FE-54(HE3,X)1-H-2,,DA
+# File ID         : h-Fe54-xd-adxl-angdisl-mon-einc9.500E+07_Kadkin_2004_d5007.003
+#
+# Einc (eV)       :   9.5000E+07
+#
+# npts            : 4           
+# xmin            :   15.0000000
+# xmax            :   30.0000000
+# ymin            :   2.7000E-02
+# ymax            :   1.3900E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.0000000   0.0000000  1.3900E-01  6.9500E-03
+  20.0000000   0.0000000  8.5000E-02  4.2500E-03
+  25.0000000   0.0000000  4.9000E-02  0.0000E+00
+  30.0000000   0.0000000  2.7000E-02  0.0000E+00
+#---------------------------------------------------

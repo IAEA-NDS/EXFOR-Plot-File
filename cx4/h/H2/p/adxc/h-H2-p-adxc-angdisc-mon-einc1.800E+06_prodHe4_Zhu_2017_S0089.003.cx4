@@ -1,0 +1,27 @@
+# EXFOR #         : S0089.003  
+# EXFOR Ver.      : 20200219
+# TRANS #         : S027
+# Author          : J.P.Zhu et al.
+# Reference       : Nucl.Instrum.Meth.B 412 (2017) 81
+# DOI             : 10.1016/j.nimb.2017.07.020
+# Quantity        : 2H(he3,p)4He angular differential cross section
+# REACTION        : 1-H-2(HE3,P)2-HE-4,,DA
+# File ID         : h-H2-p-adxc-angdisc-mon-einc1.800E+06_prodHe4_Zhu_2017_s0089.003
+#
+# Einc (eV)       :   1.8000E+06
+#
+# npts            : 4           
+# xmin            :  130.6000000
+# xmax            :  157.9000000
+# ymin            :   1.5700E-02
+# ymax            :   1.5900E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 130.6000000   0.0000000  1.5700E-02  1.0205E-03
+ 139.8000000   0.0000000  1.5900E-02  9.6990E-04
+ 148.9000000   0.0000000  1.5800E-02  9.7960E-04
+ 157.9000000   0.0000000  1.5700E-02  9.4200E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : A0691.010  
+# EXFOR Ver.      : 20160302
+# TRANS #         : A084
+# Author          : K.Surendra Babu et al.
+# Reference       : Nucl.Phys.A 739 (2004) 229
+# DOI             : 10.1016/j.nuclphysa.2004.04.102
+# Quantity        : 181Ta(13C,x)187Ir cumulative production cross section
+# REACTION        : 73-TA-181(6-C-13,X)77-IR-187,(CUM),SIG
+# File ID         : C13-Ta181-x-sigc-excfun-mon-prodIr187_Surendra%Babu_2004_a0691.010
+#
+# npts            : 1           
+# xmin            :   8.2500E+07
+# xmax            :   8.2500E+07
+# ymin            :   3.6000E-02
+# ymax            :   3.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.2500E+07  0.0000E+00  3.6000E-02  4.0000E-03
+#---------------------------------------------------

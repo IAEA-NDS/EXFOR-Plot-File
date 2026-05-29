@@ -1,0 +1,29 @@
+# EXFOR #         : C1305.002  
+# EXFOR Ver.      : 20050809
+# TRANS #         : C075
+# Author          : D.L.Watson et al.
+# Reference       : Phys.Rev.C 35 (1987) 430
+# DOI             : 10.1103/PhysRevC.35.430
+# Quantity        : 76Se(t,p)78Se partial angular differential cross section
+# REACTION        : 34-SE-76(T,P)34-SE-78,PAR,DA
+# File ID         : t-Se76-p-adxc-angdisc-mon-einc1.700E+07_elvl3.017E+06_prodSe78_Watson_1987_c1305.002
+#
+# Einc (eV)       :   1.7000E+07
+# Elvl (eV)       :   3.0170E+06
+#
+# npts            : 5           
+# xmin            :    3.2800000
+# xmax            :   55.6000000
+# ymin            :   2.2700E-06
+# ymax            :   1.2800E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   3.2800000   0.0000000  9.4900E-06  0.0000E+00
+  24.5000000   0.0000000  1.2800E-05  0.0000E+00
+  33.7000000   0.0000000  2.2700E-06  9.0800E-07
+  48.1000000   0.0000000  5.3500E-06  0.0000E+00
+  55.6000000   0.0000000  3.0700E-06  9.9800E-07
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : D6429.004  
+# EXFOR Ver.      : 20231110
+# TRANS #         : D139
+# Author          : B.J.Roy et al.
+# Reference       : Phys.Rev.C 105 (2022) 044611
+# DOI             : 10.1103/PhysRevC.105.044611
+# Quantity        : 154Sm(16O,x) independent production cross section
+# REACTION        : 62-SM-154(8-O-16,X)ELEM/MASS,,SIG
+# File ID         : O16-Sm154-x-sig-nucdis-mon-einc1.340E+08_Roy_2022_d6429.004
+#
+# Einc (eV)       :   1.3400E+08
+#
+# npts            : 4           
+# xmin            : 7014.9      
+# xmax            : 8018.9      
+# ymin            :   1.7010E-02
+# ymax            :   3.1620E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      8017.9  3.1620E-01  0.0000E+00
+      8018.9  1.7010E-02  0.0000E+00
+      7014.9  2.4560E-01  0.0000E+00
+      7015.9  1.1840E-01  0.0000E+00
+#---------------------------------------------------

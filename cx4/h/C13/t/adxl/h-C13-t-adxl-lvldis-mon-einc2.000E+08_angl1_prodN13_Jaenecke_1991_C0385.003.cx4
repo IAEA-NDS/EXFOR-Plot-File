@@ -1,0 +1,26 @@
+# EXFOR #         : C0385.003  
+# EXFOR Ver.      : 19990917
+# TRANS #         : 0000
+# Author          : J.Jaenecke et al.
+# Reference       : Nucl.Phys.A 526 (1991) 1
+# DOI             : N/A
+# Quantity        : 13C(he3,t)13N partial angular differential cross section
+# REACTION        : 6-C-13(HE3,T)7-N-13,PAR,DA
+# File ID         : h-C13-t-adxl-lvldis-mon-einc2.000E+08_angl1_prodN13_Jaenecke_1991_c0385.003
+#
+# Einc (eV)       :   2.0000E+08
+# theta,lab (deg) :    1.4000000
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   3.5110E+06
+# ymin            :   7.8000E-03
+# ymax            :   9.3200E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  7.8000E-03  3.4000E-04
+  3.5110E+06  0.0000E+00  9.3200E-03  3.8000E-04
+#---------------------------------------------------

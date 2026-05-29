@@ -1,0 +1,24 @@
+# EXFOR #         : D0306.016  
+# EXFOR Ver.      : 20050609
+# TRANS #         : D044
+# Author          : E.Gadioli et al.
+# Reference       : Eur.Phys.J.A 17 (2003) 195
+# DOI             : 10.1140/epja/i2003-10007-5
+# Quantity        : 59Co(16O,x)10B independent production cross section
+# REACTION        : 27-CO-59(8-O-16,X)5-B-10,,SIG
+# File ID         : O16-Co59-x-sig-excfun-mon-prodB10_Gadioli_2003_d0306.016
+#
+# npts            : 3           
+# xmin            :   1.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   3.0000E-03
+# ymax            :   2.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  3.0000E-03  0.0000E+00
+  2.5000E+08  0.0000E+00  1.6000E-02  0.0000E+00
+  4.0000E+08  0.0000E+00  2.7000E-02  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : A1141.003  
+# EXFOR Ver.      : 20100320
+# TRANS #         : A067
+# Author          : E.A.Eliot et al.
+# Reference       : Proc.R.Soc.Lond.A 216 No.1124 (1953) 57
+# DOI             : 10.1098/rspa.1953.0006
+# Quantity        : 2H(d,p)3H angular differential cross section
+# REACTION        : 1-H-2(D,P)1-H-3,,DA
+# File ID         : d-H2-p-adxl-angdisl-mon-einc1.790E+04_prodH3_Eliot_1953_a1141.003
+#
+# Einc (eV)       :   1.7900E+04
+#
+# npts            : 2           
+# xmin            :   90.0000000
+# xmax            :  125.0000000
+# ymin            :   1.7370E-04
+# ymax            :   1.8800E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  1.7370E-04  1.2400E-05
+ 125.0000000   0.0000000  1.8800E-04  1.3000E-05
+#---------------------------------------------------

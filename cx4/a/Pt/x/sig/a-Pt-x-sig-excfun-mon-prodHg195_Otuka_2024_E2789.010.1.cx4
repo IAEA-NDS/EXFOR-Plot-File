@@ -1,0 +1,24 @@
+# EXFOR #         : E2789.010.1
+# EXFOR Ver.      : 20241228
+# TRANS #         : E151
+# Author          : N.Otuka et al.
+# Reference       : Eur.Phys.J.A 60 (2024) 195
+# DOI             : 10.1140/epja/s10050-024-01383-7
+# Quantity        : natPt(a,x)195Hg independent production cross section
+# REACTION        : 78-PT-0(A,X)80-HG-195,,SIG
+# File ID         : a-Pt-x-sig-excfun-mon-prodHg195_Otuka_2024_e2789.010.1
+#
+# npts            : 3           
+# xmin            :   1.9500E+07
+# xmax            :   2.8400E+07
+# ymin            :   3.2300E-04
+# ymax            :   2.9750E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8400E+07  6.0000E+05  2.9750E-02  2.7000E-04
+  2.1900E+07  6.0000E+05  7.4000E-04  1.6000E-04
+  1.9500E+07  7.0000E+05  3.2300E-04  5.0000E-05
+#---------------------------------------------------

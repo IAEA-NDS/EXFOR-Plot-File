@@ -1,0 +1,26 @@
+# EXFOR #         : A1544.002  
+# EXFOR Ver.      : 19990324
+# TRANS #         : 0000
+# Author          : I.I.Bondouk et al.
+# Reference       : Rev.Roum.Phys. 20 (1975) 1095
+# DOI             : N/A
+# Quantity        : 7Li(he3,p)9Be partial angular differential cross section
+# REACTION        : 3-LI-7(HE3,P)4-BE-9,PAR,DA
+# File ID         : h-Li7-p-adxl-angdisl-mon-einc1.597E+06_elvl2.430E+06_prodBe9_Bondouk_1975_a1544.002
+#
+# Einc (eV)       :   1.5970E+06
+# dEinc (eV)      :   2.3000E+04
+# Elvl (eV)       :   2.4300E+06
+#
+# npts            : 1           
+# xmin            :   70.0000000
+# xmax            :   70.0000000
+# ymin            :   9.9340E-04
+# ymax            :   9.9340E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  70.0000000   0.0000000  9.9340E-04  5.0000E-06
+#---------------------------------------------------

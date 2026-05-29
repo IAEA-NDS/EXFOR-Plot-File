@@ -1,0 +1,25 @@
+# EXFOR #         : C2462.002  
+# EXFOR Ver.      : 20200323
+# TRANS #         : C195
+# Author          : D.Kahl et al.
+# Reference       : Phys.Lett.B 797 (2019) 134803
+# DOI             : 10.1016/j.physletb.2019.134803
+# Quantity        : 56Ni(d,n)57Cu partial cross section
+# REACTION        : 28-NI-56(D,N)29-CU-57,PAR,SIG
+# File ID         : d-Ni56-n-sig-lvldis-mon-einc6.720E+07_prodCu57_Kahl_2019_c2462.002
+#
+# Einc (eV)       :   6.7200E+07
+#
+# npts            : 2           
+# xmin            :   1.0280E+06
+# xmax            :   1.1090E+06
+# ymin            :   2.8000E-04
+# ymax            :   2.0000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0280E+06  0.0000E+00  2.0000E-03  4.0000E-04
+  1.1090E+06  0.0000E+00  2.8000E-04  6.0000E-05
+#---------------------------------------------------

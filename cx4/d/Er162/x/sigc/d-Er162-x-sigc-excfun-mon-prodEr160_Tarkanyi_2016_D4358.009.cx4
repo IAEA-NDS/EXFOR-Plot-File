@@ -1,0 +1,24 @@
+# EXFOR #         : D4358.009  
+# EXFOR Ver.      : 20160928
+# TRANS #         : D106
+# Author          : F.Tarkanyi et al.
+# Reference       : Appl.Radiat.Isot. 115 (2016) 262
+# DOI             : 10.1016/j.apradiso.2016.07.003
+# Quantity        : 162Er(d,x)160Er cumulative production cross section
+# REACTION        : 68-ER-162(D,X)68-ER-160,CUM,SIG
+# File ID         : d-Er162-x-sigc-excfun-mon-prodEr160_Tarkanyi_2016_d4358.009
+#
+# npts            : 3           
+# xmin            :   3.6500E+07
+# xmax            :   3.9900E+07
+# ymin            :   7.4260E-01
+# ymax            :   8.0830E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6500E+07  3.0000E+05  7.4260E-01  1.2200E-01
+  3.8200E+07  3.0000E+05  7.7320E-01  1.0790E-01
+  3.9900E+07  3.0000E+05  8.0830E-01  1.0140E-01
+#---------------------------------------------------

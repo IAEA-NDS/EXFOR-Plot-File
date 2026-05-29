@@ -1,0 +1,27 @@
+# EXFOR #         : A0424.004  
+# EXFOR Ver.      : 20240927
+# TRANS #         : A119
+# Author          : O.N.Vysotskiy et al.
+# Reference       : Proceedings of 39.Conf.Nucl.Spectrosc.and Nucl.Struct.,Tashkent 1989 page 365
+# DOI             : N/A
+# Quantity        : 27Al(a,3p)28Mg cross section
+# REACTION        : 13-AL-27(A,3P)12-MG-28,,SIG
+# File ID         : a-Al27-3p-sig-excfun-mon-prodMg28_Vysotskiy_1989_a0424.004
+#
+# npts            : 6           
+# xmin            :   5.2000E+07
+# xmax            :   9.1600E+07
+# ymin            :   1.5200E-04
+# ymax            :   4.8000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2000E+07  0.0000E+00  1.5200E-04  2.1000E-05
+  6.0000E+07  0.0000E+00  4.8000E-04  7.0000E-05
+  6.8400E+07  0.0000E+00  4.1000E-04  6.0000E-05
+  7.6400E+07  0.0000E+00  2.7000E-04  4.0000E-05
+  8.4000E+07  0.0000E+00  2.0100E-04  2.1000E-05
+  9.1600E+07  0.0000E+00  2.1200E-04  2.2000E-05
+#---------------------------------------------------

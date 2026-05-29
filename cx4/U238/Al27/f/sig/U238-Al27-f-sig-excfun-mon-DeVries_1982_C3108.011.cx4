@@ -1,0 +1,22 @@
+# EXFOR #         : C3108.011  
+# EXFOR Ver.      : 20260315
+# TRANS #         : C256
+# Author          : R.M.DeVries
+# Reference       : Phys.Rev.C 26 (1982) 301
+# DOI             : N/A
+# Quantity        : 27Al(238U,f) cross section
+# REACTION        : 13-AL-27(92-U-238,F),,SIG
+# File ID         : U238-Al27-f-sig-excfun-mon-DeVries_1982_c3108.011
+#
+# npts            : 1           
+# xmin            :   2.1300E+11
+# xmax            :   2.1300E+11
+# ymin            :   1.1000E+00
+# ymax            :   1.1000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1300E+11  5.9500E+09  1.1000E+00  1.3000E-01
+#---------------------------------------------------

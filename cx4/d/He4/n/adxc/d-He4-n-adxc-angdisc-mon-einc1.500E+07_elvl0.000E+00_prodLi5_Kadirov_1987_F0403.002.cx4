@@ -1,0 +1,30 @@
+# EXFOR #         : F0403.002  
+# EXFOR Ver.      : 20220604
+# TRANS #         : F093
+# Author          : F.Kadirov et al.
+# Reference       : Report UZB-P-2-281, 1987
+# DOI             : N/A
+# Quantity        : 4He(d,n)5Li partial angular differential cross section
+# REACTION        : 2-HE-4(D,N)3-LI-5,PAR,DA
+# File ID         : d-He4-n-adxc-angdisc-mon-einc1.500E+07_elvl0.000E+00_prodLi5_Kadirov_1987_f0403.002
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 6           
+# xmin            :    1.6000000
+# xmax            :   82.6000000
+# ymin            :   2.5900E-03
+# ymax            :   1.6300E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   1.6000000   0.0000000  1.6300E-01  5.6800E-02
+  15.7000000   0.0000000  1.2700E-01  4.3300E-02
+  44.4000000   0.0000000  1.0100E-02  2.4400E-03
+  58.5000000   0.0000000  4.8000E-03  1.3700E-03
+  71.1000000   0.0000000  7.5900E-03  1.7700E-03
+  82.6000000   0.0000000  2.5900E-03  8.0200E-04
+#---------------------------------------------------

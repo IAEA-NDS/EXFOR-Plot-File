@@ -1,0 +1,24 @@
+# EXFOR #         : D0237.003.1
+# EXFOR Ver.      : 20230126
+# TRANS #         : D138
+# Author          : A.Strzalkowski
+# Reference       : Phys.Lett. 2 (1962) 121
+# DOI             : 10.1016/0031-9163(62)90207-X
+# Quantity        : natS(d,el)natS angular differential cross section
+# REACTION        : 16-S-0(D,EL)16-S-0,,DA,,RTH
+# File ID         : d-S-el-adxc-angdisc-mon-einc1.210E+07_prodS_Strzalkowski_1962_d0237.003.1
+#
+# Einc (eV)       :   1.2100E+07
+#
+# npts            : 1           
+# xmin            :  118.0000000
+# xmax            :  118.0000000
+# ymin            :   2.1194E-03
+# ymax            :   2.1194E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 118.0000000   0.2000000  2.1194E-03  9.5375E-05
+#---------------------------------------------------

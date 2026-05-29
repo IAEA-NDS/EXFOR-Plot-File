@@ -1,0 +1,23 @@
+# EXFOR #         : D6006.031  
+# EXFOR Ver.      : 20070315
+# TRANS #         : D056
+# Author          : S.S.Rattan et al.
+# Reference       : J.Rad.Nucl.Chem. 242 (1999) 551
+# DOI             : 10.1007/BF02345592
+# Quantity        : 209Bi(12C,f)127Sb cumulative production cross section
+# REACTION        : 83-BI-209(6-C-12,F)51-SB-127,CUM,SIG
+# File ID         : C12-Bi209-x-sigc-excfun-mon-prodSb127_Rattan_1999_d6006.031
+#
+# npts            : 2           
+# xmin            :   7.3400E+07
+# xmax            :   8.4200E+07
+# ymin            :   4.4000E-04
+# ymax            :   4.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.3400E+07  0.0000E+00  4.9000E-04  6.0000E-05
+  8.4200E+07  0.0000E+00  4.4000E-04  7.0000E-05
+#---------------------------------------------------

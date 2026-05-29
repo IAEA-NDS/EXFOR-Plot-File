@@ -1,0 +1,30 @@
+# EXFOR #         : O1223.004  
+# EXFOR Ver.      : 20091110
+# TRANS #         : O041
+# Author          : P.David et al.
+# Reference       : Nucl.Phys.A 128 (1969) 47
+# DOI             : 10.1016/0375-9474(69)90978-6
+# Quantity        : 53Cr(he3,a)52Cr partial angular differential cross section
+# REACTION        : 24-CR-53(HE3,A)24-CR-52,PAR,DA
+# File ID         : h-Cr53-a-adxc-angdisc-mon-einc1.800E+07_elvl4.830E+06_prodCr52_David_1969_o1223.004
+#
+# Einc (eV)       :   1.8000E+07
+# dEinc (eV)      :   6.0000E+04
+# Elvl (eV)       :   4.8300E+06
+# dElvl (eV)      :   2.0000E+04
+#
+# npts            : 4           
+# xmin            :    5.6900000
+# xmax            :   37.2100000
+# ymin            :   1.9000E-05
+# ymax            :   3.3000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.6900000   0.0000000  3.3000E-04  7.9200E-05
+   8.1600000   0.0000000  1.6100E-04  2.7370E-05
+  28.8500000   0.0000000  3.8000E-05  9.1200E-06
+  37.2100000   0.0000000  1.9000E-05  9.5000E-06
+#---------------------------------------------------

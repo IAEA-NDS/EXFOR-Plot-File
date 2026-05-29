@@ -1,0 +1,26 @@
+# EXFOR #         : F0309.003  
+# EXFOR Ver.      : 20210617
+# TRANS #         : F084
+# Author          : S.Gorodetzky et al.
+# Reference       : Phys.Rev. 137 (1965) B1466
+# DOI             : 10.1103/PhysRev.137.B1466
+# Quantity        : 11B(he3,a)10B partial angular differential cross section
+# REACTION        : 5-B-11(HE3,A)5-B-10,PAR,DA
+# File ID         : h-B11-a-adxl-lvldis-mon-einc4.769E+06_angl75_prodB10_Gorodetzky_1965_f0309.003
+#
+# Einc (eV)       :   4.7690E+06
+# dEinc (eV)      :   3.0000E+03
+# theta,lab (deg) :   75.0000000
+#
+# npts            : 1           
+# xmin            :   7.5600E+06
+# xmax            :   7.5600E+06
+# ymin            :   2.0000E-05
+# ymax            :   2.0000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.5600E+06  0.0000E+00  2.0000E-05  1.0000E-05
+#---------------------------------------------------

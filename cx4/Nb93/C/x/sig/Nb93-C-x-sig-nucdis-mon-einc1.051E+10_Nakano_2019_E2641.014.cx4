@@ -1,0 +1,26 @@
+# EXFOR #         : E2641.014  
+# EXFOR Ver.      : 20200702
+# TRANS #         : E126
+# Author          : K.Nakano et al.
+# Reference       : Phys.Rev.C 100 (2019) 044605
+# DOI             : 10.1103/PhysRevC.100.044605
+# Quantity        : natC(93Nb,x) independent production cross section
+# REACTION        : 6-C-0(41-NB-93,X)ELEM/MASS,,SIG
+# File ID         : Nb93-C-x-sig-nucdis-mon-einc1.051E+10_Nakano_2019_e2641.014
+#
+# Einc (eV)       :   1.0510E+10
+#
+# npts            : 3           
+# xmin            : 42090.9     
+# xmax            : 42092.9     
+# ymin            :   1.8600E-03
+# ymax            :   7.8000E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     42092.9  7.8000E-03  1.1000E-03
+     42091.9  5.0500E-03  9.6700E-04
+     42090.9  1.8600E-03  5.8500E-04
+#---------------------------------------------------

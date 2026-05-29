@@ -1,0 +1,25 @@
+# EXFOR #         : A1542.002  
+# EXFOR Ver.      : 20120412
+# TRANS #         : A078
+# Author          : I.I.Bondouk et al.
+# Reference       : Atomkernenergie 29 (1977) 270
+# DOI             : N/A
+# Quantity        : 7Li(he3,d)8Be partial angular differential cross section
+# REACTION        : 3-LI-7(HE3,D)4-BE-8,PAR,DA
+# File ID         : h-Li7-d-adxl-angdisl-mon-einc1.498E+06_elvl0.000E+00_prodBe8_Bondouk_1977_a1542.002
+#
+# Einc (eV)       :   1.4980E+06
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   70.0000000
+# xmax            :   70.0000000
+# ymin            :   2.9920E-04
+# ymax            :   2.9920E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  70.0000000   0.0000000  2.9920E-04  0.0000E+00
+#---------------------------------------------------

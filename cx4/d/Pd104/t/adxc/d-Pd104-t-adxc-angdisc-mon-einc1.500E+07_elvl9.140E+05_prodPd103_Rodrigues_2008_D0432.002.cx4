@@ -1,0 +1,28 @@
+# EXFOR #         : D0432.002  
+# EXFOR Ver.      : 20080709
+# TRANS #         : D062
+# Author          : M.R.D.Rodrigues et al.
+# Reference       : Braz.J.Phys. 38 (2008) 245
+# DOI             : 10.1590/S0103-97332008000200006
+# Quantity        : 104Pd(d,t)103Pd partial angular differential cross section
+# REACTION        : 46-PD-104(D,T)46-PD-103,PAR,DA
+# File ID         : d-Pd104-t-adxc-angdisc-mon-einc1.500E+07_elvl9.140E+05_prodPd103_Rodrigues_2008_d0432.002
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   9.1400E+05
+#
+# npts            : 4           
+# xmin            :   24.6612000
+# xmax            :   66.4734000
+# ymin            :   7.5400E-06
+# ymax            :   1.7400E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  24.6612000   0.0000000  1.3900E-05  7.2800E-07
+  27.7381000   0.0000000  1.3000E-05  3.9600E-07
+  32.8615000   0.0000000  1.7400E-05  3.4900E-07
+  66.4734000   0.0000000  7.5400E-06  2.1800E-07
+#---------------------------------------------------

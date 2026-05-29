@@ -1,0 +1,25 @@
+# EXFOR #         : E2813.002  
+# EXFOR Ver.      : 20260226
+# TRANS #         : E157
+# Author          : A.Nagai et al.
+# Reference       : Radiochim.Acta 113 (2025) 847
+# DOI             : 10.1515/ract-2025-0022
+# Quantity        : 232Th(7Li,x)233U independent production cross section
+# REACTION        : 90-TH-232(3-LI-7,X)92-U-233,,SIG
+# File ID         : Li7-Th232-x-sig-excfun-mon-prodU233_Nagai_2025_e2813.002
+#
+# npts            : 4           
+# xmin            :   3.6600E+07
+# xmax            :   4.0400E+07
+# ymin            :   5.3200E-02
+# ymax            :   1.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6600E+07  1.3000E+06  5.3200E-02  5.2000E-03
+  3.7900E+07  1.3000E+06  8.1000E-02  1.7000E-02
+  3.9100E+07  1.2000E+06  6.0000E-02  7.2000E-03
+  4.0400E+07  1.2000E+06  1.0000E-01  2.3000E-02
+#---------------------------------------------------

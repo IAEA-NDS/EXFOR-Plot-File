@@ -1,0 +1,22 @@
+# EXFOR #         : A0303.018  
+# EXFOR Ver.      : 20160129
+# TRANS #         : A084
+# Author          : A.Ramaswami et al.
+# Reference       : J.Rad.Nucl.Chem. 246 (2000) 225
+# DOI             : 10.1023/A:1006736021121
+# Quantity        : 232Th(12C,f)130gI cumulative production cross section
+# REACTION        : 90-TH-232(6-C-12,F)53-I-130-G,M+,SIG
+# File ID         : C12-Th232-x-sigc-excfun-mon-prodI130g_Ramaswami_2000_a0303.018
+#
+# npts            : 1           
+# xmin            :   7.2000E+07
+# xmax            :   7.2000E+07
+# ymin            :   1.3480E-02
+# ymax            :   1.3480E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.2000E+07  0.0000E+00  1.3480E-02  3.4000E-04
+#---------------------------------------------------

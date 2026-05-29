@@ -1,0 +1,26 @@
+# EXFOR #         : O1631.030  
+# EXFOR Ver.      : 20220507
+# TRANS #         : O088
+# Author          : A.Belhout et al.
+# Reference       : Phys.Rev.C 76 (2007) 034607
+# DOI             : 10.1103/PhysRevC.76.034607
+# Quantity        : 24Mg(a,n)27Si partial gamma production cross section
+# REACTION        : 12-MG-24(A,N)14-SI-27,PAR,SIG,G
+# File ID         : a-Mg24-n-sigg-excfun-mon-eoutl2.164E+06_prodSi27_Belhout_2007_o1631.030
+#
+# Eout,lab (eV)   :   2.1635E+06
+#
+# npts            : 3           
+# xmin            :   1.4980E+07
+# xmax            :   2.4990E+07
+# ymin            :   7.4000E-03
+# ymax            :   2.0200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4980E+07  2.0000E+04  2.0200E-02  0.0000E+00
+  1.9980E+07  2.0000E+04  1.7000E-02  0.0000E+00
+  2.4990E+07  1.0000E+04  7.4000E-03  0.0000E+00
+#---------------------------------------------------

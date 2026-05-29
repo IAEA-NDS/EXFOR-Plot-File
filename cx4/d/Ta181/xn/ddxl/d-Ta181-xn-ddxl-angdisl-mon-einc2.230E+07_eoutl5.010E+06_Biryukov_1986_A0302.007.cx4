@@ -1,0 +1,30 @@
+# EXFOR #         : A0302.007  
+# EXFOR Ver.      : 20180125
+# TRANS #         : A088
+# Author          : N.S.Biryukov et al.
+# Reference       : Yad.Reak.Konst.  No.2 (1986) 6
+# DOI             : N/A
+# Quantity        : 181Ta(d,n+x) double differential cross section
+# REACTION        : 73-TA-181(D,X)0-NN-1,,DA/DE
+# File ID         : d-Ta181-xn-ddxl-angdisl-mon-einc2.230E+07_eoutl5.010E+06_Biryukov_1986_a0302.007
+#
+# Einc (eV)       :   2.2300E+07
+# dEinc (eV)      :   3.0000E+05
+# Eout,lab (eV)   :   5.0100E+06
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   8.0300E-09
+# ymax            :   2.3250E-08
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  30.0000000   0.0000000  2.3250E-08  9.5000E-10
+  60.0000000   0.0000000  1.2740E-08  5.4000E-10
+  90.0000000   0.0000000  9.6500E-09  4.6000E-10
+ 120.0000000   0.0000000  8.1700E-09  4.2000E-10
+ 150.0000000   0.0000000  8.0300E-09  3.8000E-10
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : O1032.003  
+# EXFOR Ver.      : 20030407
+# TRANS #         : 0000
+# Author          : C.S.Lin et al.
+# Reference       : Chin.J.Phys. 19 (1981) 99
+# DOI             : N/A
+# Quantity        : 9Be(he3,p)11B partial angular differential cross section
+# REACTION        : 4-BE-9(HE3,P)5-B-11,PAR,DA
+# File ID         : h-Be9-p-adxc-lvldis-mon-einc2.400E+06_angc26_prodB11_Lin_1981_o1032.003
+#
+# Einc (eV)       :   2.4000E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,cm (deg)  :   26.3000000
+#
+# npts            : 1           
+# xmin            :   6.7430E+06
+# xmax            :   6.7430E+06
+# ymin            :   1.3900E-03
+# ymax            :   1.3900E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.7430E+06  0.0000E+00  1.3900E-03  1.2510E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : E1769.157  
+# EXFOR Ver.      : 20061121
+# TRANS #         : E039
+# Author          : Y.Iwata et al.
+# Reference       : Phys.Rev.C 64 No.5 (2001) 054609
+# DOI             : 10.1103/PhysRevC.64.054609
+# Quantity        : natPb(12C,n+x) cross section
+# REACTION        : 82-PB-0(6-C-12,X)0-NN-1,,SIG
+# File ID         : C12-Pb-xn-sig-excfun-mon-Iwata_2001_e1769.157
+#
+# npts            : 2           
+# xmin            :   3.4800E+09
+# xmax            :   4.8000E+09
+# ymin            :   2.3800E+01
+# ymax            :   2.9100E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4800E+09  0.0000E+00  2.9100E+01  0.0000E+00
+  4.8000E+09  0.0000E+00  2.3800E+01  0.0000E+00
+#---------------------------------------------------

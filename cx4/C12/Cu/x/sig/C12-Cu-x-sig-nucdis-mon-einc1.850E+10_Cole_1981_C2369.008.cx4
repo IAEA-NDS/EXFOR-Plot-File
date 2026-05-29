@@ -1,0 +1,26 @@
+# EXFOR #         : C2369.008  
+# EXFOR Ver.      : 20181207
+# TRANS #         : C183
+# Author          : G.D.Cole et al.
+# Reference       : Phys.Rev.C 24 (1981) 2038
+# DOI             : 10.1103/PhysRevC.24.2038
+# Quantity        : natCu(12C,x) independent production cross section
+# REACTION        : 29-CU-0(6-C-12,X)ELEM/MASS,,SIG
+# File ID         : C12-Cu-x-sig-nucdis-mon-einc1.850E+10_Cole_1981_c2369.008
+#
+# Einc (eV)       :   1.8500E+10
+#
+# npts            : 3           
+# xmin            : 19042.9     
+# xmax            : 25052.0     
+# ymin            :   6.1000E-03
+# ymax            :   1.0800E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     19042.9  6.1000E-03  7.0000E-04
+     21044.1  8.6000E-03  3.2000E-04
+     25052.0  1.0800E-02  3.0000E-04
+#---------------------------------------------------

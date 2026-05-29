@@ -1,0 +1,26 @@
+# EXFOR #         : C0835.010  
+# EXFOR Ver.      : 20010831
+# TRANS #         : 0000
+# Author          : F.D.Becchetti et al.
+# Reference       : Nucl.Phys.A 168 (1971) 151
+# DOI             : 10.1016/0375-9474(71)90656-7
+# Quantity        : 48Ti(he3,t)48V partial angular differential cross section
+# REACTION        : 22-TI-48(HE3,T)23-V-48,PAR,DA
+# File ID         : h-Ti48-t-adxc-lvldis-mon-einc2.460E+07_angl18_prodV48_Becchetti_1971_c0835.010
+#
+# Einc (eV)       :   2.4600E+07
+# dEinc (eV)      :   5.0000E+03
+# theta,lab (deg) :   18.0000000
+#
+# npts            : 1           
+# xmin            :   3.0220E+06
+# xmax            :   3.0220E+06
+# ymin            :   2.4600E-04
+# ymax            :   2.4600E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.0220E+06  5.0000E+03  2.4600E-04  0.0000E+00
+#---------------------------------------------------

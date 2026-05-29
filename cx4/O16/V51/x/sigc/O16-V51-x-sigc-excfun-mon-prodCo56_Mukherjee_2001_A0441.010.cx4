@@ -1,0 +1,24 @@
+# EXFOR #         : A0441.010  
+# EXFOR Ver.      : 20240909
+# TRANS #         : A117
+# Author          : S.Mukherjee et al.
+# Reference       : Eur.Phys.J.A 12 (2001) 199
+# DOI             : 10.1007/s100500170028
+# Quantity        : 51V(16O,x)56Co cumulative production cross section
+# REACTION        : 23-V-51(8-O-16,X)27-CO-56,CUM,SIG
+# File ID         : O16-V51-x-sigc-excfun-mon-prodCo56_Mukherjee_2001_a0441.010
+#
+# npts            : 3           
+# xmin            :   8.2100E+07
+# xmax            :   9.3390E+07
+# ymin            :   2.4200E-03
+# ymax            :   2.3110E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.2100E+07  0.0000E+00  2.4200E-03  3.3140E-04
+  8.7100E+07  0.0000E+00  1.2690E-02  1.9150E-03
+  9.3390E+07  0.0000E+00  2.3110E-02  3.6350E-03
+#---------------------------------------------------

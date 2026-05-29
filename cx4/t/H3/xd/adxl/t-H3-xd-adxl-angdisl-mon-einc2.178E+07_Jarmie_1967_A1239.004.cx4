@@ -1,0 +1,28 @@
+# EXFOR #         : A1239.004  
+# EXFOR Ver.      : 20180202
+# TRANS #         : A089
+# Author          : N.Jarmie et al.
+# Reference       : Phys.Rev. 161 (1967) 1050
+# DOI             : 10.1103/PhysRev.161.1050
+# Quantity        : 3H(t,d+x) angular differential cross section
+# REACTION        : 1-H-3(T,X)1-H-2,,DA
+# File ID         : t-H3-xd-adxl-angdisl-mon-einc2.178E+07_Jarmie_1967_a1239.004
+#
+# Einc (eV)       :   2.1780E+07
+# dEinc (eV)      :   6.0000E+04
+#
+# npts            : 4           
+# xmin            :   10.0000000
+# xmax            :   20.0000000
+# ymin            :   5.7100E-02
+# ymax            :   1.3680E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.0000000   0.0000000  1.3680E-01  1.6500E-02
+  12.0000000   0.0000000  1.0790E-01  1.4200E-02
+  15.0000000   0.0000000  8.3600E-02  1.0500E-02
+  20.0000000   0.0000000  5.7100E-02  8.1000E-03
+#---------------------------------------------------

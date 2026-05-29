@@ -1,0 +1,29 @@
+# EXFOR #         : C1187.005  
+# EXFOR Ver.      : 20050314
+# TRANS #         : C073
+# Author          : M.Reed
+# Reference       : Thesis  page 69-14 (1968)
+# DOI             : N/A
+# Quantity        : 20Ne(a,inl)20Ne partial angular differential cross section
+# REACTION        : 10-NE-20(A,INL)10-NE-20,PAR,DA
+# File ID         : a-Ne20-inl-adxc-angdisc-mon-einc5.090E+07_elvl7.170E+06_prodNe20_Reed_1968_c1187.005
+#
+# Einc (eV)       :   5.0900E+07
+# Elvl (eV)       :   7.1700E+06
+#
+# npts            : 5           
+# xmin            :   48.2000000
+# xmax            :   57.5000000
+# ymin            :   2.2200E-04
+# ymax            :   4.4800E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  48.2000000   0.0000000  4.4800E-04  0.0000E+00
+  50.5000000   0.0000000  3.8700E-04  0.0000E+00
+  52.9000000   0.0000000  3.5600E-04  0.0000E+00
+  55.2000000   0.0000000  3.2100E-04  0.0000E+00
+  57.5000000   0.0000000  2.2200E-04  0.0000E+00
+#---------------------------------------------------

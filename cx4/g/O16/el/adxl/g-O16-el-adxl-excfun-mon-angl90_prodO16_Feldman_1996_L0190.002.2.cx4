@@ -1,0 +1,27 @@
+# EXFOR #         : L0190.002.2
+# EXFOR Ver.      : 20140407
+# TRANS #         : L024
+# Author          : G.Feldman et al.
+# Reference       : Phys.Rev.C 54 (1996) 2124
+# DOI             : 10.1103/PhysRevC.54.R2124
+# Quantity        : 16O(g,el)16O angular differential cross section
+# REACTION        : 8-O-16(G,EL)8-O-16,,DA
+# File ID         : g-O16-el-adxl-excfun-mon-angl90_prodO16_Feldman_1996_l0190.002.2
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 4           
+# xmin            :   8.9290E+07
+# xmax            :   1.0674E+08
+# ymin            :   3.2400E-07
+# ymax            :   4.5800E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.9290E+07  0.0000E+00  4.5800E-07  4.0800E-08
+  9.5400E+07  0.0000E+00  4.0000E-07  2.9900E-08
+  1.0129E+08  0.0000E+00  3.3300E-07  3.1300E-08
+  1.0674E+08  0.0000E+00  3.2400E-07  3.2700E-08
+#---------------------------------------------------

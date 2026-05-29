@@ -1,0 +1,24 @@
+# EXFOR #         : E2224.010  
+# EXFOR Ver.      : 20160520
+# TRANS #         : E103
+# Author          : Y.Ishizaki
+# Reference       : J.Phys.Soc.Jpn. 16 (1961) 1056
+# DOI             : 10.1143/JPSJ.16.1056
+# Quantity        : 60Ni(d,inl)60Ni partial cross section
+# REACTION        : 28-NI-60(D,INL)28-NI-60,PAR,SIG
+# File ID         : d-Ni60-inl-sig-excfun-mon-elvl1.330E+06_prodNi60_Ishizaki_1961_e2224.010
+#
+# Elvl (eV)       :   1.3300E+06
+#
+# npts            : 1           
+# xmin            :   1.8260E+07
+# xmax            :   1.8260E+07
+# ymin            :   2.9840E-02
+# ymax            :   2.9840E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8260E+07  1.0000E+05  2.9840E-02  1.1370E-02
+#---------------------------------------------------

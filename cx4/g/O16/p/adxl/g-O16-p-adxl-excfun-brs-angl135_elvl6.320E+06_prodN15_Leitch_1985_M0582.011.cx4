@@ -1,0 +1,29 @@
+# EXFOR #         : M0582.011  
+# EXFOR Ver.      : 20190625
+# TRANS #         : M101
+# Author          : M.J.Leitch et al.
+# Reference       : Phys.Rev.C 31 (1985) 1633
+# DOI             : 10.1103/PhysRevC.31.1633
+# Quantity        : 16O(g,p)15N partial angular differential cross section
+# REACTION        : 8-O-16(G,P)7-N-15,PAR,DA,,BRS
+# File ID         : g-O16-p-adxl-excfun-brs-angl135_elvl6.320E+06_prodN15_Leitch_1985_m0582.011
+#
+# theta,lab (deg) :  135.0000000
+# Elvl (eV)       :   6.3200E+06
+#
+# npts            : 5           
+# xmin            :   1.2590E+08
+# xmax            :   2.2120E+08
+# ymin            :   2.3000E-09
+# ymax            :   4.0300E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.2590E+08  0.0000E+00  4.0300E-08  5.5000E-09
+  1.5130E+08  0.0000E+00  3.8300E-08  4.2000E-09
+  1.8120E+08  0.0000E+00  8.1000E-09  1.8000E-09
+  2.0120E+08  0.0000E+00  3.9000E-09  1.0000E-09
+  2.2120E+08  0.0000E+00  2.3000E-09  1.1000E-09
+#---------------------------------------------------

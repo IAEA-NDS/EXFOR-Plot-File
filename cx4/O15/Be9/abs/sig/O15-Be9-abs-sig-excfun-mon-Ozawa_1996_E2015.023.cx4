@@ -1,0 +1,22 @@
+# EXFOR #         : E2015.023  
+# EXFOR Ver.      : 20070712
+# TRANS #         : E045
+# Author          : A.Ozawa et al.
+# Reference       : Nucl.Phys.A 608 No.1 (1996) 63
+# DOI             : 10.1016/0375-9474(96)00241-2
+# Quantity        : 9Be(15O,abs) cross section
+# REACTION        : 4-BE-9(8-O-15,ABS),,SIG
+# File ID         : O15-Be9-abs-sig-excfun-mon-Ozawa_1996_e2015.023
+#
+# npts            : 1           
+# xmin            :   1.0800E+10
+# xmax            :   1.0800E+10
+# ymin            :   9.1200E-01
+# ymax            :   9.1200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0800E+10  0.0000E+00  9.1200E-01  2.3000E-02
+#---------------------------------------------------

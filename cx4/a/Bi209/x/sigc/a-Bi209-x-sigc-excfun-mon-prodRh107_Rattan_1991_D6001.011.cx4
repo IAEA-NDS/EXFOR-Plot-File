@@ -1,0 +1,23 @@
+# EXFOR #         : D6001.011  
+# EXFOR Ver.      : 20250313
+# TRANS #         : D146
+# Author          : S.S.Rattan
+# Reference       : Radiochim.Acta 55 (1991) 169
+# DOI             : 10.1524/ract.1991.55.4.169
+# Quantity        : 209Bi(a,f)107Rh cumulative production cross section
+# REACTION        : 83-BI-209(A,F)45-RH-107,CUM,SIG
+# File ID         : a-Bi209-x-sigc-excfun-mon-prodRh107_Rattan_1991_d6001.011
+#
+# npts            : 2           
+# xmin            :   5.5700E+07
+# xmax            :   5.8600E+07
+# ymin            :   2.1250E-03
+# ymax            :   2.1330E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5700E+07  0.0000E+00  2.1330E-03  1.1950E-03
+  5.8600E+07  0.0000E+00  2.1250E-03  5.5300E-04
+#---------------------------------------------------

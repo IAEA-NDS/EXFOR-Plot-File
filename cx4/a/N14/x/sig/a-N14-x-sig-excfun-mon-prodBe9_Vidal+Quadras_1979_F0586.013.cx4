@@ -1,0 +1,25 @@
+# EXFOR #         : F0586.013  
+# EXFOR Ver.      : 20240227
+# TRANS #         : F098
+# Author          : A.Vidal-Quadras et al.
+# Reference       : Nuovo Cim.A 49 (1979) 235
+# DOI             : 10.1007/BF02896725
+# Quantity        : 14N(a,x)9Be independent production cross section
+# REACTION        : 7-N-14(A,X)4-BE-9,,SIG,,AV
+# File ID         : a-N14-x-sig-excfun-mon-prodBe9_Vidal+Quadras_1979_f0586.013
+#
+# npts            : 4           
+# xmin            :   3.3400E+07
+# xmax            :   5.0600E+07
+# ymin            :   1.0000E-03
+# ymax            :   9.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3400E+07  2.7000E+06  9.6000E-02  2.9000E-02
+  4.2900E+07  2.9000E+06  5.4000E-02  9.0000E-03
+  5.0600E+07  2.6000E+06  5.8000E-02  9.0000E-03
+  5.0600E+07  2.6000E+06  1.0000E-03  0.0000E+00
+#---------------------------------------------------

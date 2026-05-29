@@ -1,0 +1,26 @@
+# EXFOR #         : C1060.003  
+# EXFOR Ver.      : 20041101
+# TRANS #         : 0000
+# Author          : H.W.Broek et al.
+# Reference       : Phys.Rev. 135 (1964) B678
+# DOI             : 10.1103/PhysRev.135.B678
+# Quantity        : 4He(d,p)5He angular differential cross section
+# REACTION        : 2-HE-4(D,P)2-HE-5,,DA
+# File ID         : d-He4-p-adxc-angdisc-mon-einc2.100E+07_prodHe5_Broek_1964_c1060.003
+#
+# Einc (eV)       :   2.1000E+07
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 2           
+# xmin            :    9.5000000
+# xmax            :   22.0000000
+# ymin            :   4.3000E-02
+# ymax            :   8.7000E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.5000000   0.1000000  8.7000E-02  4.3500E-03
+  22.0000000   0.1000000  4.3000E-02  1.2900E-03
+#---------------------------------------------------

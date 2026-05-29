@@ -1,0 +1,24 @@
+# EXFOR #         : F1308.009  
+# EXFOR Ver.      : 20170113
+# TRANS #         : F064
+# Author          : B.Erdemchimeg et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 80 (2016) 223
+# DOI             : 10.3103/S1062873816030096
+# Quantity        : 27Al(8Li,non) cross section
+# REACTION        : 13-AL-27(3-LI-8,NON),,SIG
+# File ID         : Li8-Al27-non-sig-excfun-mon-Erdemchimeg_2016_f1308.009
+#
+# npts            : 3           
+# xmin            :   2.3568E+08
+# xmax            :   2.8480E+08
+# ymin            :   5.0000E-13
+# ymax            :   2.4000E-12
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3568E+08  0.0000E+00  1.4000E-12  4.0000E-13
+  2.5832E+08  0.0000E+00  5.0000E-13  2.0000E-13
+  2.8480E+08  0.0000E+00  2.4000E-12  5.0000E-13
+#---------------------------------------------------

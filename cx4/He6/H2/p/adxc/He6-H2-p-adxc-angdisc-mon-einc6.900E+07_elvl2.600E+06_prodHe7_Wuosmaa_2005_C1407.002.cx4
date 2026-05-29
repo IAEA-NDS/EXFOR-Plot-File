@@ -1,0 +1,27 @@
+# EXFOR #         : C1407.002  
+# EXFOR Ver.      : 20060215
+# TRANS #         : C077
+# Author          : A.H.Wuosmaa et al.
+# Reference       : Phys.Rev.C 72 (2005) 061301
+# DOI             : 10.1103/PhysRevC.72.061301
+# Quantity        : 2H(6He,p)7He partial angular differential cross section
+# REACTION        : 1-H-2(2-HE-6,P)2-HE-7,PAR,DA
+# File ID         : He6-H2-p-adxc-angdisc-mon-einc6.900E+07_elvl2.600E+06_prodHe7_Wuosmaa_2005_c1407.002
+#
+# Einc (eV)       :   6.9000E+07
+# Elvl (eV)       :   2.6000E+06
+#
+# npts            : 3           
+# xmin            :    6.4900000
+# xmax            :   21.5000000
+# ymin            :   3.8300E-03
+# ymax            :   2.1300E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.4900000   1.4900000  2.1300E-02  1.0000E-02
+  11.5000000   2.9100000  7.9800E-03  3.9600E-03
+  21.5000000   2.9100000  3.8300E-03  1.6100E-03
+#---------------------------------------------------

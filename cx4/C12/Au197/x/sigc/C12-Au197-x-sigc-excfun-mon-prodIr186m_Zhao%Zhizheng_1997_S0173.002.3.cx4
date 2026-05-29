@@ -1,0 +1,22 @@
+# EXFOR #         : S0173.002.3
+# EXFOR Ver.      : 20151009
+# TRANS #         : S019
+# Author          : Zhao Zhizheng et al.
+# Reference       : High En.Nucl.Phy.Ch. 21 (1997) 402
+# DOI             : N/A
+# Quantity        : 197Au(12C,x)186mIr cumulative production cross section
+# REACTION        : 79-AU-197(6-C-12,X)77-IR-186-M,(CUM),SIG
+# File ID         : C12-Au197-x-sigc-excfun-mon-prodIr186m_Zhao%Zhizheng_1997_s0173.002.3
+#
+# npts            : 1           
+# xmin            :   5.6400E+08
+# xmax            :   5.6400E+08
+# ymin            :   2.5700E-03
+# ymax            :   2.5700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.6400E+08  0.0000E+00  2.5700E-03  1.6000E-03
+#---------------------------------------------------

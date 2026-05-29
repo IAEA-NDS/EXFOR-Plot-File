@@ -1,0 +1,28 @@
+# EXFOR #         : D0510.018  
+# EXFOR Ver.      : 20080827
+# TRANS #         : D063
+# Author          : W.P.Alford et al.
+# Reference       : Nucl.Phys.A 243 (1975) 269
+# DOI             : 10.1016/0375-9474(75)90248-1
+# Quantity        : 50Cr(he3,n)52Fe partial angular differential cross section
+# REACTION        : 24-CR-50(HE3,N)26-FE-52,PAR,DA
+# File ID         : h-Cr50-n-adxc-angdisc-mon-einc1.500E+07_elvl0.000E+00_prodFe52_Alford_1975_d0510.018
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   0.0000E+00
+# dElvl (eV)      :   5.0000E+04
+#
+# npts            : 3           
+# xmin            :    0.0748550
+# xmax            :   10.1880000
+# ymin            :   4.9272E-04
+# ymax            :   1.1711E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0748550   0.0000000  1.1711E-03  0.0000E+00
+   5.4810000   0.0000000  8.9455E-04  0.0000E+00
+  10.1880000   0.0000000  4.9272E-04  0.0000E+00
+#---------------------------------------------------

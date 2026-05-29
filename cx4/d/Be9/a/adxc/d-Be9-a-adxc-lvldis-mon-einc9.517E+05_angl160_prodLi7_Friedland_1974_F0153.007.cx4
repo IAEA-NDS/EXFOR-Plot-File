@@ -1,0 +1,25 @@
+# EXFOR #         : F0153.007  
+# EXFOR Ver.      : 20120131
+# TRANS #         : F045
+# Author          : E.Friedland et al.
+# Reference       : Z.Phys. 267 (1974) 97
+# DOI             : 10.1007/BF01668635
+# Quantity        : 9Be(d,a)7Li partial angular differential cross section
+# REACTION        : 4-BE-9(D,A)3-LI-7,PAR,DA
+# File ID         : d-Be9-a-adxc-lvldis-mon-einc9.517E+05_angl160_prodLi7_Friedland_1974_f0153.007
+#
+# Einc (eV)       :   9.5170E+05
+# theta,lab (deg) :  160.0000000
+#
+# npts            : 1           
+# xmin            :   4.8000E+05
+# xmax            :   4.8000E+05
+# ymin            :   7.2910E-04
+# ymax            :   7.2910E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.8000E+05  0.0000E+00  7.2910E-04  1.0400E-04
+#---------------------------------------------------

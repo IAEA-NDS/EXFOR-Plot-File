@@ -1,0 +1,28 @@
+# EXFOR #         : D0474.004  
+# EXFOR Ver.      : 20080715
+# TRANS #         : D064
+# Author          : A.Lepine-Szily et al.
+# Reference       : Nucl.Phys.A 787 (2007) 94C
+# DOI             : 10.1016/j.nuclphysa.2006.12.019
+# Quantity        : 51V(6He,el)51V angular differential cross section
+# REACTION        : 23-V-51(2-HE-6,EL)23-V-51,,DA,,RTH
+# File ID         : He6-V51-el-adxc-angdisc-mon-einc2.300E+07_prodV51_Lepine+Szily_2007_d0474.004
+#
+# Einc (eV)       :   2.3000E+07
+#
+# npts            : 5           
+# xmin            :   19.9110000
+# xmax            :   41.1710000
+# ymin            :   3.5949E-02
+# ymax            :   4.2436E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  19.9110000   0.0000000  4.2436E+00  6.5786E-01
+  23.2000000   0.0000000  1.7493E+00  2.7141E-01
+  29.2470000   0.0000000  3.6467E-01  6.7181E-02
+  35.3800000   0.0000000  1.2071E-01  2.0815E-02
+  41.1710000   0.0000000  3.5949E-02  6.6229E-03
+#---------------------------------------------------

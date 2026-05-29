@@ -1,0 +1,24 @@
+# EXFOR #         : F0237.003  
+# EXFOR Ver.      : 20200702
+# TRANS #         : F080
+# Author          : G.B.Yankov et al.
+# Reference       : Progress report EPA-59-97, 1997
+# DOI             : N/A
+# Quantity        : 6Li(t,n+x) cross section
+# REACTION        : 3-LI-6(T,X)0-NN-1,,SIG
+# File ID         : t-Li6-xn-sig-excfun-mon-Yankov_1997_f0237.003
+#
+# npts            : 3           
+# xmin            :   3.0000E+06
+# xmax            :   1.1400E+07
+# ymin            :   5.2000E-01
+# ymax            :   6.6000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  3.0000E+05  5.2000E-01  1.0000E-01
+  8.5000E+06  2.0000E+05  5.5000E-01  1.1000E-01
+  1.1400E+07  2.0000E+05  6.6000E-01  1.3500E-01
+#---------------------------------------------------

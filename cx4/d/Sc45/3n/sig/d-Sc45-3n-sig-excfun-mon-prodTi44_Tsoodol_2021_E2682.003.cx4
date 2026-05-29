@@ -1,0 +1,23 @@
+# EXFOR #         : E2682.003  
+# EXFOR Ver.      : 20220621
+# TRANS #         : E135
+# Author          : Z.Tsoodol et al.
+# Reference       : Appl.Radiat.Isot. 168 (2021) 109448
+# DOI             : 10.1016/j.apradiso.2020.109448
+# Quantity        : 45Sc(d,3n)44Ti cross section
+# REACTION        : 21-SC-45(D,3N)22-TI-44,,SIG
+# File ID         : d-Sc45-3n-sig-excfun-mon-prodTi44_Tsoodol_2021_e2682.003
+#
+# npts            : 2           
+# xmin            :   2.0600E+07
+# xmax            :   2.3300E+07
+# ymin            :   3.3600E-03
+# ymax            :   7.4400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3300E+07  1.0000E+05  7.4400E-03  7.1000E-04
+  2.0600E+07  1.0000E+05  3.3600E-03  3.5000E-04
+#---------------------------------------------------

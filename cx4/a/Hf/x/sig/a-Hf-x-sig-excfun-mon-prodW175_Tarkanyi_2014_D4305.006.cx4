@@ -1,0 +1,24 @@
+# EXFOR #         : D4305.006  
+# EXFOR Ver.      : 20141002
+# TRANS #         : D095
+# Author          : F.Tarkanyi et al.
+# Reference       : Appl.Radiat.Isot. 91 (2014) 114
+# DOI             : 10.1016/j.apradiso.2014.05.016
+# Quantity        : natHf(a,x)175W independent production cross section
+# REACTION        : 72-HF-0(A,X)74-W-175,,SIG
+# File ID         : a-Hf-x-sig-excfun-mon-prodW175_Tarkanyi_2014_d4305.006
+#
+# npts            : 3           
+# xmin            :   3.3600E+07
+# xmax            :   3.8900E+07
+# ymin            :   7.8000E-04
+# ymax            :   9.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8900E+07  5.0000E+05  8.8000E-04  9.5000E-04
+  3.6300E+07  6.0000E+05  9.0000E-04  6.3000E-04
+  3.3600E+07  6.0000E+05  7.8000E-04  1.3000E-04
+#---------------------------------------------------

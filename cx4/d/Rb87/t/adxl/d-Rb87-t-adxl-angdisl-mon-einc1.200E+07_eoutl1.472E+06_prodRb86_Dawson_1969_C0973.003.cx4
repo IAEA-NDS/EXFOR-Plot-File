@@ -1,0 +1,27 @@
+# EXFOR #         : C0973.003  
+# EXFOR Ver.      : 20040726
+# TRANS #         : 0000
+# Author          : J.W.Dawson et al.
+# Reference       : Phys.Rev. 181 (1969) 1618
+# DOI             : 10.1103/PhysRev.181.1618
+# Quantity        : 87Rb(d,t)86Rb partial angular differential cross section
+# REACTION        : 37-RB-87(D,T)37-RB-86,PAR,DA
+# File ID         : d-Rb87-t-adxl-angdisl-mon-einc1.200E+07_eoutl1.472E+06_prodRb86_Dawson_1969_c0973.003
+#
+# Einc (eV)       :   1.2000E+07
+# Eout,lab (eV)   :   1.4720E+06
+#
+# npts            : 3           
+# xmin            :  115.0000000
+# xmax            :  125.0000000
+# ymin            :   9.4000E-05
+# ymax            :   1.0000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 115.0000000   0.0000000  9.5000E-05  0.0000E+00
+ 120.0000000   0.0000000  1.0000E-04  0.0000E+00
+ 125.0000000   0.0000000  9.4000E-05  0.0000E+00
+#---------------------------------------------------

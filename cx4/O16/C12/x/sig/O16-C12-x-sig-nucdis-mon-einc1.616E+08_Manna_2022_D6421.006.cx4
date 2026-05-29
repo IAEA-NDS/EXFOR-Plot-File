@@ -1,0 +1,27 @@
+# EXFOR #         : D6421.006  
+# EXFOR Ver.      : 20231115
+# TRANS #         : D141
+# Author          : S.Manna et al.
+# Reference       : Phys.Rev.C 105 (2022) L021603
+# DOI             : 10.1103/PhysRevC.105.L021603
+# Quantity        : 12C(16O,x) independent production cross section
+# REACTION        : 6-C-12(8-O-16,X)ELEM/MASS,,SIG
+# File ID         : O16-C12-x-sig-nucdis-mon-einc1.616E+08_Manna_2022_d6421.006
+#
+# Einc (eV)       :   1.6160E+08
+#
+# npts            : 4           
+# xmin            : 3006.9      
+# xmax            : 4009.9      
+# ymin            :   1.3500E-02
+# ymax            :   6.3100E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      3006.9  6.3100E-02  0.0000E+00
+      3007.9  3.3000E-02  0.0000E+00
+      4007.9  2.2200E-02  0.0000E+00
+      4009.9  1.3500E-02  0.0000E+00
+#---------------------------------------------------

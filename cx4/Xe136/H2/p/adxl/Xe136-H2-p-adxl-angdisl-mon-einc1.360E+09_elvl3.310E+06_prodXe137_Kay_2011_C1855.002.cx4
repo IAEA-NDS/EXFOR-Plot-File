@@ -1,0 +1,25 @@
+# EXFOR #         : C1855.002  
+# EXFOR Ver.      : 20110924
+# TRANS #         : C111
+# Author          : B.P.Kay et al.
+# Reference       : Phys.Rev.C 84 (2011) 024325
+# DOI             : 10.1103/PhysRevC.84.024325
+# Quantity        : 2H(136Xe,p)137Xe partial angular differential cross section
+# REACTION        : 1-H-2(54-XE-136,P)54-XE-137,PAR,DA
+# File ID         : Xe136-H2-p-adxl-angdisl-mon-einc1.360E+09_elvl3.310E+06_prodXe137_Kay_2011_c1855.002
+#
+# Einc (eV)       :   1.3600E+09
+# Elvl (eV)       :   3.3100E+06
+#
+# npts            : 1           
+# xmin            :   35.0000000
+# xmax            :   35.0000000
+# ymin            :   3.0000E-04
+# ymax            :   3.0000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  35.0000000   0.0000000  3.0000E-04  4.5000E-05
+#---------------------------------------------------

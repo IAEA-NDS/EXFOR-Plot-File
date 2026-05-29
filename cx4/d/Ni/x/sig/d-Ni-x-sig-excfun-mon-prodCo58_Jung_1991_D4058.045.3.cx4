@@ -1,0 +1,23 @@
+# EXFOR #         : D4058.045.3
+# EXFOR Ver.      : 20150504
+# TRANS #         : D099
+# Author          : P.Jung
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 352
+# DOI             : N/A
+# Quantity        : natNi(d,x)58Co independent production cross section
+# REACTION        : 28-NI-0(D,X)27-CO-58,,SIG
+# File ID         : d-Ni-x-sig-excfun-mon-prodCo58_Jung_1991_d4058.045.3
+#
+# npts            : 2           
+# xmin            :   8.3000E+06
+# xmax            :   1.3500E+07
+# ymin            :   2.7800E-02
+# ymax            :   1.5700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.3000E+06  7.0000E+05  2.7800E-02  0.0000E+00
+  1.3500E+07  5.0000E+05  1.5700E-01  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : E2554.002  
+# EXFOR Ver.      : 20180301
+# TRANS #         : E113
+# Author          : H.Suzuki et al.
+# Reference       : Phys.Rev.C 96 (2017) 034604
+# DOI             : 10.1103/PhysRevC.96.034604
+# Quantity        : 9Be(124Xe,x) independent production cross section
+# REACTION        : 4-BE-9(54-XE-124,X)ELEM/MASS,,SIG
+# File ID         : Xe124-Be9-x-sig-nucdis-mon-einc4.278E+10_Suzuki_2017_e2554.002
+#
+# Einc (eV)       :   4.2780E+10
+#
+# npts            : 4           
+# xmin            : 42081.9     
+# xmax            : 44086.9     
+# ymin            :   2.0000E-14
+# ymax            :   1.4000E-07
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     42081.9  2.0000E-14  0.0000E+00
+     42082.9  1.4000E-07  0.0000E+00
+     44085.9  4.0000E-09  0.0000E+00
+     44086.9  2.0000E-08  0.0000E+00
+#---------------------------------------------------

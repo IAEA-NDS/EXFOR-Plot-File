@@ -1,0 +1,26 @@
+# EXFOR #         : O1804.003  
+# EXFOR Ver.      : 20120613
+# TRANS #         : O048
+# Author          : C.Ellegaard et al.
+# Reference       : Phys.Rev.Lett. 50 (1983) 1745
+# DOI             : 10.1103/PhysRevLett.50.1745
+# Quantity        : 12C(he3,t)12N partial angular differential cross section
+# REACTION        : 6-C-12(HE3,T)7-N-12,PAR,DA
+# File ID         : h-C12-t-adxl-lvldis-mon-einc2.000E+09_angl0_prodN12_Ellegaard_1983_o1804.003
+#
+# Einc (eV)       :   2.0000E+09
+# dEinc (eV)      :   3.2000E+06
+# theta,lab (deg) :    0.0000000
+#
+# npts            : 1           
+# xmin            :   2.5264E+08
+# xmax            :   2.5264E+08
+# ymin            :   4.5000E-02
+# ymax            :   4.5000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.5264E+08  0.0000E+00  4.5000E-02  9.0000E-03
+#---------------------------------------------------

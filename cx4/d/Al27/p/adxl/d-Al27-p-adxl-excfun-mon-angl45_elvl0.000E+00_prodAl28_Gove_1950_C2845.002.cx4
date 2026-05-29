@@ -1,0 +1,26 @@
+# EXFOR #         : C2845.002  
+# EXFOR Ver.      : 20221103
+# TRANS #         : C224
+# Author          : H.K.Gove et al.
+# Reference       : Phys.Rev. 79 (1950) 241(X6)
+# DOI             : N/A
+# Quantity        : 27Al(d,p)28Al partial angular differential cross section
+# REACTION        : 13-AL-27(D,P)13-AL-28,PAR,DA
+# File ID         : d-Al27-p-adxl-excfun-mon-angl45_elvl0.000E+00_prodAl28_Gove_1950_c2845.002
+#
+# theta,lab (deg) :   45.0000000
+# dtheta,lab (deg):   45.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   2.5000E-03
+# ymax            :   2.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  2.5000E-03  1.0000E-03
+#---------------------------------------------------

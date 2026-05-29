@@ -1,0 +1,27 @@
+# EXFOR #         : D5164.003  
+# EXFOR Ver.      : 20190131
+# TRANS #         : D119
+# Author          : V.Ya.Golovnya et al.
+# Reference       : J.Exp.Theor.Phys. 18 (1964) 1183
+# DOI             : N/A
+# Quantity        : 64Ni(d,el)64Ni angular differential cross section
+# REACTION        : 28-NI-64(D,EL)28-NI-64,,DA,,RTH
+# File ID         : d-Ni64-el-adxl-angdisl-mon-einc3.760E+06_prodNi64_Golovnya_1964_d5164.003
+#
+# Einc (eV)       :   3.7600E+06
+#
+# npts            : 4           
+# xmin            :   54.5217000
+# xmax            :   74.5217000
+# ymin            :   5.0545E-01
+# ymax            :   1.6335E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  54.5217000   0.8178250  1.6335E+00  0.0000E+00
+  59.9130000   0.8986950  1.1181E+00  1.1556E-02
+  64.6087000   0.9691310  8.6416E-01  7.8392E-03
+  74.5217000   1.1178250  5.0545E-01  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : C2347.004  
+# EXFOR Ver.      : 20180703
+# TRANS #         : C178
+# Author          : P.J.Karol
+# Reference       : Phys.Rev.C 10 (1974) 150
+# DOI             : 10.1103/PhysRevC.10.150
+# Quantity        : natCu(a,x) independent production cross section
+# REACTION        : 29-CU-0(A,X)ELEM/MASS,,SIG
+# File ID         : a-Cu-x-sig-excfun-mon-prodMn54_Karol_1974_c2347.004
+#
+# npts            : 2           
+# xmin            :   4.1000E+08
+# xmax            :   7.2000E+08
+# ymin            :   3.0800E-02
+# ymax            :   3.5100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.1000E+08  0.0000E+00  3.5100E-02  1.7000E-03
+  7.2000E+08  0.0000E+00  3.0800E-02  9.0000E-04
+#---------------------------------------------------

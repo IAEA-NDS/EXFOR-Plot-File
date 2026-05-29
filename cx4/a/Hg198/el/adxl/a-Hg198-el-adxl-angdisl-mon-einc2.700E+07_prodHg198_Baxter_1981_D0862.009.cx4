@@ -1,0 +1,24 @@
+# EXFOR #         : D0862.009  
+# EXFOR Ver.      : 20180117
+# TRANS #         : D113
+# Author          : A.M.Baxter et al.
+# Reference       : Nucl.Phys.A 369 (1981) 25
+# DOI             : 10.1016/0375-9474(81)90004-X
+# Quantity        : 198Hg(a,el)198Hg angular differential cross section
+# REACTION        : 80-HG-198(A,EL)80-HG-198,,DA
+# File ID         : a-Hg198-el-adxl-angdisl-mon-einc2.700E+07_prodHg198_Baxter_1981_d0862.009
+#
+# Einc (eV)       :   2.7000E+07
+#
+# npts            : 1           
+# xmin            :  171.0000000
+# xmax            :  171.0000000
+# ymin            :   6.7000E-04
+# ymax            :   6.7000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 171.0000000   0.0000000  6.7000E-04  8.0000E-05
+#---------------------------------------------------

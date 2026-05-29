@@ -1,0 +1,28 @@
+# EXFOR #         : F1245.002  
+# EXFOR Ver.      : 20150423
+# TRANS #         : F058
+# Author          : Yu.M.Sereda et al.
+# Reference       : Phys.At.Nucl. 77 (2014) 817
+# DOI             : 10.1134/S1063778814060131
+# Quantity        : 40Ar(9Be,x) independent production cross section
+# REACTION        : 18-AR-40(4-BE-9,X)ELEM/MASS,,SIG
+# File ID         : Be9-Ar40-x-sig-nucdis-mon-einc3.150E+08_Sereda_2014_f1245.002
+#
+# Einc (eV)       :   3.1500E+08
+#
+# npts            : 5           
+# xmin            : 8014.9      
+# xmax            : 8019.9      
+# ymin            :   3.3610E-04
+# ymax            :   5.3400E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      8014.9  3.3610E-04  0.0000E+00
+      8015.9  5.3400E-03  0.0000E+00
+      8016.9  3.5560E-03  0.0000E+00
+      8018.9  2.1430E-03  0.0000E+00
+      8019.9  4.1800E-04  0.0000E+00
+#---------------------------------------------------

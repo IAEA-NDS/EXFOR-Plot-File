@@ -1,0 +1,26 @@
+# EXFOR #         : E1256.005  
+# EXFOR Ver.      : 20070712
+# TRANS #         : E045
+# Author          : T.Kobayashi et al.
+# Reference       : Phys.Rev.Lett. 60 No.25 (1988) 2599
+# DOI             : 10.1103/PhysRevLett.60.2599
+# Quantity        : natPb(11Li,x) independent production cross section
+# REACTION        : 82-PB-0(3-LI-11,X)ELEM/MASS,,SIG
+# File ID         : Li11-Pb-x-sig-nucdis-mon-einc8.690E+09_Kobayashi_1988_e1256.005
+#
+# Einc (eV)       :   8.6900E+09
+# dEinc (eV)      :   2.2000E+08
+#
+# npts            : 2           
+# xmin            : 2006.9      
+# xmax            : 3009.9      
+# ymin            :   1.6500E-01
+# ymax            :   1.5130E+00
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      3009.9  1.5130E+00  1.7700E-01
+      2006.9  1.6500E-01  8.7000E-02
+#---------------------------------------------------

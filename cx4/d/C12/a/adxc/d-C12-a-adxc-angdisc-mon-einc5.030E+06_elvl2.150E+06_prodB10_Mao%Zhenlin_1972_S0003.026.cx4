@@ -1,0 +1,30 @@
+# EXFOR #         : S0003.026  
+# EXFOR Ver.      : 20080311
+# TRANS #         : Y006
+# Author          : Mao Zhenlin et al.
+# Reference       : Proceedings of Conf.on Low Energy Nucl.Phys.,Lanzhou,1972 page 3
+# DOI             : N/A
+# Quantity        : 12C(d,a)10B partial angular differential cross section
+# REACTION        : 6-C-12(D,A)5-B-10,PAR,DA
+# File ID         : d-C12-a-adxc-angdisc-mon-einc5.030E+06_elvl2.150E+06_prodB10_Mao%Zhenlin_1972_s0003.026
+#
+# Einc (eV)       :   5.0300E+06
+# dEinc (eV)      :   1.5000E+05
+# Elvl (eV)       :   2.1500E+06
+#
+# npts            : 5           
+# xmin            :   31.9000000
+# xmax            :   91.5000000
+# ymin            :   2.9000E-05
+# ymax            :   1.7000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  31.9000000   0.0000000  1.7000E-04  0.0000E+00
+  47.5000000   0.0000000  6.0000E-05  0.0000E+00
+  62.8000000   0.0000000  6.3000E-05  0.0000E+00
+  77.5000000   0.0000000  5.8000E-05  0.0000E+00
+  91.5000000   0.0000000  2.9000E-05  0.0000E+00
+#---------------------------------------------------

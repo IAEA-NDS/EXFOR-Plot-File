@@ -1,0 +1,24 @@
+# EXFOR #         : F1247.040  
+# EXFOR Ver.      : 20240228
+# TRANS #         : F098
+# Author          : M.Suchopar et al.
+# Reference       : Nucl.Instrum.Meth.B 344 (2015) 63
+# DOI             : 10.1016/j.nimb.2014.12.006
+# Quantity        : natCu(d,x)42K independent production cross section
+# REACTION        : 29-CU-0(D,X)19-K-42,,SIG
+# File ID         : d-Cu-x-sig-excfun-mon-prodK42_Suchopar_2015_f1247.040
+#
+# npts            : 3           
+# xmin            :   1.0000E+09
+# xmax            :   8.0000E+09
+# ymin            :   3.9100E-03
+# ymax            :   5.3100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  4.5400E-03  1.3000E-04
+  4.0000E+09  0.0000E+00  5.3100E-03  1.8000E-04
+  8.0000E+09  0.0000E+00  3.9100E-03  2.7000E-04
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : D0340.003  
+# EXFOR Ver.      : 20050501
+# TRANS #         : D041
+# Author          : M.Jaskola et al.
+# Reference       : Acta Phys.Pol.B 3 (1972) 643
+# DOI             : N/A
+# Quantity        : 144Sm(d,t)143Sm partial angular differential cross section
+# REACTION        : 62-SM-144(D,T)62-SM-143,PAR,DA
+# File ID         : d-Sm144-t-adxl-angdisl-mon-einc1.310E+07_elvl0.000E+00_prodSm143_Jaskola_1972_d0340.003
+#
+# Einc (eV)       :   1.3100E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :  150.0000000
+# xmax            :  150.0000000
+# ymin            :   9.7000E-05
+# ymax            :   9.7000E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 150.0000000   0.0000000  9.7000E-05  0.0000E+00
+#---------------------------------------------------

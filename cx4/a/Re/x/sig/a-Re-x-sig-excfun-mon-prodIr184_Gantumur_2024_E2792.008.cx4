@@ -1,0 +1,23 @@
+# EXFOR #         : E2792.008  
+# EXFOR Ver.      : 20241125
+# TRANS #         : E151
+# Author          : D.Gantumur et al.
+# Reference       : Appl.Radiat.Isot. 213 (2024) 111486
+# DOI             : 10.1016/j.apradiso.2024.111486
+# Quantity        : natRe(a,x)184Ir independent production cross section
+# REACTION        : 75-RE-0(A,X)77-IR-184,,SIG
+# File ID         : a-Re-x-sig-excfun-mon-prodIr184_Gantumur_2024_e2792.008
+#
+# npts            : 2           
+# xmin            :   4.7800E+07
+# xmax            :   4.9900E+07
+# ymin            :   7.4900E-03
+# ymax            :   4.5600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.7800E+07  2.0000E+05  7.4900E-03  9.1000E-04
+  4.9900E+07  2.0000E+05  4.5600E-02  3.8000E-03
+#---------------------------------------------------

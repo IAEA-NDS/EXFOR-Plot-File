@@ -1,0 +1,25 @@
+# EXFOR #         : C1850.031  
+# EXFOR Ver.      : 20180315
+# TRANS #         : C174
+# Author          : R.W.Bauer et al.
+# Reference       : Nucl.Phys. 56 (1964) 117
+# DOI             : 10.1016/0029-5582(64)90458-4
+# Quantity        : 6Li(a,n)9B partial angular differential cross section
+# REACTION        : 3-LI-6(A,N)5-B-9,PAR,DA
+# File ID         : a-Li6-n-adxl-lvldis-mon-einc1.440E+07_angl75_prodB9_Bauer_1964_c1850.031
+#
+# Einc (eV)       :   1.4400E+07
+# theta,lab (deg) :   75.0000000
+#
+# npts            : 1           
+# xmin            :   0.0000E+00
+# xmax            :   0.0000E+00
+# ymin            :   6.0000E-04
+# ymax            :   6.0000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  6.0000E-04  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : O0870.002  
+# EXFOR Ver.      : 20030501
+# TRANS #         : 0000
+# Author          : M.Soltani-Farshi et al.
+# Reference       : Nucl.Instrum.Meth.B 113 (1996) 399
+# DOI             : 10.1016/0168-583X(95)01415-2
+# Quantity        : 32S(a,p)35Cl partial angular differential cross section
+# REACTION        : 16-S-32(A,P)17-CL-35,PAR,DA
+# File ID         : a-S32-p-adxl-angdisl-mon-einc6.114E+06_elvl0.000E+00_prodCl35_Soltani+Farshi_1996_o0870.002
+#
+# Einc (eV)       :   6.1140E+06
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   7.0000E-04
+# ymax            :   7.0000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   5.4000000  7.0000E-04  0.0000E+00
+#---------------------------------------------------

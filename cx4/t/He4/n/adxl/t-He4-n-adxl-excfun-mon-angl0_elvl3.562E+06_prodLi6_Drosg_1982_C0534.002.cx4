@@ -1,0 +1,25 @@
+# EXFOR #         : C0534.002  
+# EXFOR Ver.      : 19990701
+# TRANS #         : 0000
+# Author          : M.Drosg et al.
+# Reference       : Report LA-9129, 1982
+# DOI             : N/A
+# Quantity        : 4He(t,n)6Li partial angular differential cross section
+# REACTION        : 2-HE-4(T,N)3-LI-6,PAR,DA
+# File ID         : t-He4-n-adxl-excfun-mon-angl0_elvl3.562E+06_prodLi6_Drosg_1982_c0534.002
+#
+# theta,lab (deg) :    0.0000000
+# Elvl (eV)       :   3.5620E+06
+#
+# npts            : 1           
+# xmin            :   1.4986E+07
+# xmax            :   1.4986E+07
+# ymin            :   4.0000E-03
+# ymax            :   4.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4986E+07  0.0000E+00  4.0000E-03  3.0000E-03
+#---------------------------------------------------

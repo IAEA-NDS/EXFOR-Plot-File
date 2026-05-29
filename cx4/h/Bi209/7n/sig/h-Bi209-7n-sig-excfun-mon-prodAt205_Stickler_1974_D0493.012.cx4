@@ -1,0 +1,23 @@
+# EXFOR #         : D0493.012  
+# EXFOR Ver.      : 20141120
+# TRANS #         : D096
+# Author          : J.D.Stickler et al.
+# Reference       : Phys.Rev.C 9 (1974) 1064
+# DOI             : 10.1103/PhysRevC.9.1064
+# Quantity        : 209Bi(he3,7n)205At cross section
+# REACTION        : 83-BI-209(HE3,7N)85-AT-205,,SIG
+# File ID         : h-Bi209-7n-sig-excfun-mon-prodAt205_Stickler_1974_d0493.012
+#
+# npts            : 2           
+# xmin            :   6.0600E+07
+# xmax            :   6.5300E+07
+# ymin            :   1.6000E-01
+# ymax            :   1.7600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0600E+07  7.0000E+05  1.6000E-01  1.2000E-02
+  6.5300E+07  1.0000E+05  1.7600E-01  3.5000E-02
+#---------------------------------------------------

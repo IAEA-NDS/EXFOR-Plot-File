@@ -1,0 +1,23 @@
+# EXFOR #         : E1769.159  
+# EXFOR Ver.      : 20061121
+# TRANS #         : E039
+# Author          : Y.Iwata et al.
+# Reference       : Phys.Rev.C 64 No.5 (2001) 054609
+# DOI             : 10.1103/PhysRevC.64.054609
+# Quantity        : natCu(20Ne,n+x) cross section
+# REACTION        : 29-CU-0(10-NE-20,X)0-NN-1,,SIG
+# File ID         : Ne20-Cu-xn-sig-excfun-mon-Iwata_2001_e1769.159
+#
+# npts            : 2           
+# xmin            :   8.0000E+09
+# xmax            :   1.2000E+10
+# ymin            :   1.8700E+01
+# ymax            :   2.2900E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+09  0.0000E+00  1.8700E+01  0.0000E+00
+  1.2000E+10  0.0000E+00  2.2900E+01  0.0000E+00
+#---------------------------------------------------

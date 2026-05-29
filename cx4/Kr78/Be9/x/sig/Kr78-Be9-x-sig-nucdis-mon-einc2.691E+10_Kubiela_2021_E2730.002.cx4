@@ -1,0 +1,26 @@
+# EXFOR #         : E2730.002  
+# EXFOR Ver.      : 20230125
+# TRANS #         : E136
+# Author          : A.Kubiela et al.
+# Reference       : Phys.Rev.C 104 (2021) 064610
+# DOI             : 10.1103/PhysRevC.104.064610
+# Quantity        : 9Be(78Kr,x) independent production cross section
+# REACTION        : 4-BE-9(36-KR-78,X)ELEM/MASS,,SIG
+# File ID         : Kr78-Be9-x-sig-nucdis-mon-einc2.691E+10_Kubiela_2021_e2730.002
+#
+# Einc (eV)       :   2.6910E+10
+#
+# npts            : 3           
+# xmin            : 30054.9     
+# xmax            : 30056.9     
+# ymin            :   3.5000E-15
+# ymax            :   3.1000E-11
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     30056.9  3.1000E-11  1.0000E-12
+     30055.9  8.8000E-13  3.0000E-14
+     30054.9  3.5000E-15  7.0000E-16
+#---------------------------------------------------

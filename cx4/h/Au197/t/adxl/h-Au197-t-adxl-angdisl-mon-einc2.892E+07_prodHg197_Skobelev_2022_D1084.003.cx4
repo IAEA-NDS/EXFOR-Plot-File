@@ -1,0 +1,26 @@
+# EXFOR #         : D1084.003  
+# EXFOR Ver.      : 20260216
+# TRANS #         : D151
+# Author          : N.K.Skobelev et al.
+# Reference       : Phys.Part.Nucl. 53 (2022) 382
+# DOI             : 10.1134/S1063779622020770
+# Quantity        : 197Au(he3,t)197Hg angular differential cross section
+# REACTION        : 79-AU-197(HE3,T)80-HG-197,,DA
+# File ID         : h-Au197-t-adxl-angdisl-mon-einc2.892E+07_prodHg197_Skobelev_2022_d1084.003
+#
+# Einc (eV)       :   2.8925E+07
+#
+# npts            : 3           
+# xmin            :   20.0000000
+# xmax            :   60.0000000
+# ymin            :   7.0200E-04
+# ymax            :   1.0650E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.0000000   0.0000000  8.2800E-04  1.8400E-04
+  30.0000000   0.0000000  7.0200E-04  1.6900E-04
+  60.0000000   0.0000000  1.0650E-03  1.2600E-04
+#---------------------------------------------------

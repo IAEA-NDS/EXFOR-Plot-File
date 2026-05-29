@@ -1,0 +1,25 @@
+# EXFOR #         : L0065.006.2
+# EXFOR Ver.      : 20050420
+# TRANS #         : L007
+# Author          : J.T.Caldwell et al.
+# Reference       : Nucl.Sci.Eng. 56 (1975) 179
+# DOI             : 10.13182/NSE75-A26656
+# Quantity        : 238U(g,f) delayed fission neutron multiplicity
+# REACTION        : 92-U-238(G,F),DL,NU
+# File ID         : g-U238-f-nud-excfun-mon-Caldwell_1975_l0065.006.2
+#
+# npts            : 4           
+# xmin            :   6.5300E+06
+# xmax            :   8.8800E+06
+# ymin            :   2.7500E-02
+# ymax            :   3.0600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-d        dnu-d       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  6.5300E+06  0.0000E+00  3.0600E-02  2.4000E-03
+  7.5400E+06  0.0000E+00  2.7600E-02  1.7000E-03
+  7.6600E+06  0.0000E+00  3.0600E-02  1.4000E-03
+  8.8800E+06  0.0000E+00  2.7500E-02  1.9000E-03
+#---------------------------------------------------

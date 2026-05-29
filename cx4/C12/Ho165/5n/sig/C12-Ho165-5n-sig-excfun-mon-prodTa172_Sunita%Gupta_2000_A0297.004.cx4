@@ -1,0 +1,23 @@
+# EXFOR #         : A0297.004  
+# EXFOR Ver.      : 20241003
+# TRANS #         : A120
+# Author          : Sunita Gupta et al.
+# Reference       : Phys.Rev.C 61 (2000) 064613
+# DOI             : 10.1103/PhysRevC.61.064613
+# Quantity        : 165Ho(12C,5n)172Ta cross section
+# REACTION        : 67-HO-165(6-C-12,5N)73-TA-172,,SIG
+# File ID         : C12-Ho165-5n-sig-excfun-mon-prodTa172_Sunita%Gupta_2000_a0297.004
+#
+# npts            : 2           
+# xmin            :   7.1000E+07
+# xmax            :   8.0000E+07
+# ymin            :   8.3000E-02
+# ymax            :   2.8700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.1000E+07  1.0000E+06  8.3000E-02  1.1000E-02
+  8.0000E+07  9.0000E+05  2.8700E-01  3.8000E-02
+#---------------------------------------------------

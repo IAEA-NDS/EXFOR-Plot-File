@@ -1,0 +1,25 @@
+# EXFOR #         : C2309.017  
+# EXFOR Ver.      : 20180815
+# TRANS #         : C177
+# Author          : B.M.Foreman Jr et al.
+# Reference       : Phys.Rev. 116 (1959) 382
+# DOI             : 10.1103/PhysRev.116.382
+# Quantity        : 233U(d,x)230Pa independent production cross section
+# REACTION        : 92-U-233(D,X)91-PA-230,,SIG
+# File ID         : d-U233-x-sig-excfun-mon-prodPa230_Foreman%Jr_1959_c2309.017
+#
+# npts            : 4           
+# xmin            :   1.4000E+07
+# xmax            :   2.3400E+07
+# ymin            :   8.0000E-05
+# ymax            :   1.8600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  5.0000E+05  8.0000E-05  3.0000E-05
+  1.5400E+07  5.0000E+05  1.0000E-04  4.0000E-05
+  1.9600E+07  5.0000E+05  9.1000E-04  3.6000E-04
+  2.3400E+07  5.0000E+05  1.8600E-03  7.4000E-04
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : C2537.003  
+# EXFOR Ver.      : 20200501
+# TRANS #         : C196
+# Author          : E.K.Hulet et al.
+# Reference       : Phys.Rev.Lett. 39 (1977) 385
+# DOI             : 10.1103/PhysRevLett.39.385
+# Quantity        : 248Cm(48Ca,x) cumulative production cross section
+# REACTION        : 96-CM-248(20-CA-48,X)ELEM/MASS,CUM,SIG
+# File ID         : Ca48-Cm248-x-sigc-nucdis-mon-einc2.670E+08_Hulet_1977_c2537.003
+#
+# Einc (eV)       :   2.6700E+08
+#
+# npts            : 6           
+# xmin            : 83213.9     
+# xmax            : 89225.9     
+# ymin            :   3.5000E-05
+# ymax            :   7.4000E-04
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     83213.9  1.3000E-04  3.0000E-05
+     84210.9  7.4000E-04  1.7000E-04
+     85211.9  1.3000E-04  3.0000E-05
+     88223.9  5.0000E-05  1.0000E-05
+     88224.9  3.5000E-05  1.0000E-05
+     89225.9  1.6000E-04  4.0000E-05
+#---------------------------------------------------

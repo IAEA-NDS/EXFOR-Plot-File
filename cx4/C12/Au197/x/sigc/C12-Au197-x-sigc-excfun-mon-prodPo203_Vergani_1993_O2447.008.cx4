@@ -1,0 +1,25 @@
+# EXFOR #         : O2447.008  
+# EXFOR Ver.      : 20200107
+# TRANS #         : O074
+# Author          : P.Vergani et al.
+# Reference       : Phys.Rev.C 48 (1993) 1815
+# DOI             : 10.1103/PhysRevC.48.1815
+# Quantity        : 197Au(12C,x)203Po cumulative production cross section
+# REACTION        : 79-AU-197(6-C-12,X)84-PO-203,CUM,SIG
+# File ID         : C12-Au197-x-sigc-excfun-mon-prodPo203_Vergani_1993_o2447.008
+#
+# npts            : 4           
+# xmin            :   8.2000E+07
+# xmax            :   9.7000E+07
+# ymin            :   2.3400E-02
+# ymax            :   3.2360E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.2000E+07  0.0000E+00  2.3400E-02  3.5100E-03
+  8.7000E+07  0.0000E+00  1.2190E-01  1.8285E-02
+  9.2000E+07  0.0000E+00  2.9110E-01  4.3665E-02
+  9.7000E+07  0.0000E+00  3.2360E-01  4.8540E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : O1394.003  
+# EXFOR Ver.      : 20060505
+# TRANS #         : O026
+# Author          : G.Kraus et al.
+# Reference       : Z.Phys.A 340 (1991) 339
+# DOI             : 10.1007/BF01294683
+# Quantity        : 2H(132Xe,p)133Xe partial angular differential cross section
+# REACTION        : 1-H-2(54-XE-132,P)54-XE-133,PAR,DA
+# File ID         : Xe132-H2-p-adxl-lvldis-mon-einc7.713E+08_angc27_prodXe133_Kraus_1991_o1394.003
+#
+# Einc (eV)       :   7.7132E+08
+# theta,cm (deg)  :   26.9000000
+#
+# npts            : 1           
+# xmin            :   3.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   1.4300E-03
+# ymax            :   1.4300E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.0000E+06  0.0000E+00  1.4300E-03  1.0000E-04
+#---------------------------------------------------

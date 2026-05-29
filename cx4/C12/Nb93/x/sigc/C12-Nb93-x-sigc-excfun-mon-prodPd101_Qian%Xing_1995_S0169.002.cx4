@@ -1,0 +1,23 @@
+# EXFOR #         : S0169.002  
+# EXFOR Ver.      : 20250224
+# TRANS #         : S034
+# Author          : Qian Xing et al.
+# Reference       : High En.Nucl.Phy.Ch. 19 (1995) 603
+# DOI             : N/A
+# Quantity        : 93Nb(12C,x) cumulative production cross section
+# REACTION        : 41-NB-93(6-C-12,X)ELEM/MASS,CUM,SIG
+# File ID         : C12-Nb93-x-sigc-excfun-mon-prodPd101_Qian%Xing_1995_s0169.002
+#
+# npts            : 2           
+# xmin            :   4.3730E+07
+# xmax            :   4.5830E+07
+# ymin            :   5.7960E-04
+# ymax            :   3.6100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3730E+07  0.0000E+00  5.7960E-04  0.0000E+00
+  4.5830E+07  0.0000E+00  3.6100E-03  0.0000E+00
+#---------------------------------------------------

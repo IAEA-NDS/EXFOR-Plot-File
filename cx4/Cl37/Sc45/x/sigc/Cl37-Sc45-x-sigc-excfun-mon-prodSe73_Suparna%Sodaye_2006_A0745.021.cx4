@@ -1,0 +1,25 @@
+# EXFOR #         : A0745.021  
+# EXFOR Ver.      : 20070528
+# TRANS #         : A062
+# Author          : Suparna Sodaye et al.
+# Reference       : Pramana 66 (2006) 985
+# DOI             : 10.1007/BF02708453
+# Quantity        : 45Sc(37Cl,x)73Se cumulative production cross section
+# REACTION        : 21-SC-45(17-CL-37,X)34-SE-73,CUM,SIG
+# File ID         : Cl37-Sc45-x-sigc-excfun-mon-prodSe73_Suparna%Sodaye_2006_a0745.021
+#
+# npts            : 4           
+# xmin            :   1.0000E+08
+# xmax            :   1.2400E+08
+# ymin            :   5.1000E-03
+# ymax            :   3.7300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  5.1000E-03  8.0000E-04
+  1.0800E+08  0.0000E+00  1.1300E-02  1.1000E-03
+  1.1600E+08  0.0000E+00  2.3800E-02  1.0000E-03
+  1.2400E+08  0.0000E+00  3.7300E-02  2.4000E-03
+#---------------------------------------------------

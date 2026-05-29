@@ -1,0 +1,24 @@
+# EXFOR #         : D6342.007  
+# EXFOR Ver.      : 20231116
+# TRANS #         : D139
+# Author          : V.V.Parkar et al.
+# Reference       : Phys.Rev.C 98 (2018) 014601
+# DOI             : 10.1103/PhysRevC.98.014601
+# Quantity        : 124Sn(6Li,x)125gSn cumulative production cross section
+# REACTION        : 50-SN-124(3-LI-6,X)50-SN-125-G,(CUM),SIG
+# File ID         : Li6-Sn124-x-sigc-excfun-mon-prodSn125g_Parkar_2018_d6342.007
+#
+# npts            : 3           
+# xmin            :   1.9500E+07
+# xmax            :   3.3700E+07
+# ymin            :   4.4000E-03
+# ymax            :   2.2800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9500E+07  0.0000E+00  4.4000E-03  5.1000E-04
+  2.5600E+07  0.0000E+00  2.0100E-02  2.1000E-03
+  3.3700E+07  0.0000E+00  2.2800E-02  2.4000E-03
+#---------------------------------------------------

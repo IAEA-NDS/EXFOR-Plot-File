@@ -1,0 +1,30 @@
+# EXFOR #         : D0297.002  
+# EXFOR Ver.      : 20050308
+# TRANS #         : D041
+# Author          : I.Tomandl et al.
+# Reference       : Phys.Rev.C 69 (2004) 014312
+# DOI             : 10.1103/PhysRevC.69.014312
+# Quantity        : 23Na(d,p)24Na partial angular differential cross section
+# REACTION        : 11-NA-23(D,P)11-NA-24,PAR,DA
+# File ID         : d-Na23-p-adxc-angdisc-mon-einc1.700E+07_elvl0.000E+00_prodNa24_Tomandl_2004_d0297.002
+#
+# Einc (eV)       :   1.7000E+07
+# dEinc (eV)      :   4.0000E+03
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :   12.6331000
+# xmax            :   52.3331000
+# ymin            :   2.9473E-04
+# ymax            :   2.4743E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.6331000   0.0000000  2.4743E-03  5.4510E-05
+  21.0414000   0.0000000  1.4165E-03  7.6750E-05
+  31.5226000   0.0000000  9.2236E-04  4.0280E-05
+  41.9576000   0.0000000  3.3983E-04  1.8950E-05
+  52.3331000   0.0000000  2.9473E-04  3.5920E-05
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : A0903.022  
+# EXFOR Ver.      : 20111201
+# TRANS #         : A075
+# Author          : P.Kozma et al.
+# Reference       : Report JINR-E1-89-482, 1989
+# DOI             : N/A
+# Quantity        : 238U(12C,x)87Y cumulative production cross section
+# REACTION        : 92-U-238(6-C-12,X)39-Y-87,CUM,SIG
+# File ID         : C12-U238-x-sigc-excfun-mon-prodY87_Kozma_1989_a0903.022
+#
+# npts            : 1           
+# xmin            :   4.3800E+10
+# xmax            :   4.3800E+10
+# ymin            :   1.7300E-02
+# ymax            :   1.7300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3800E+10  0.0000E+00  1.7300E-02  2.0000E-03
+#---------------------------------------------------

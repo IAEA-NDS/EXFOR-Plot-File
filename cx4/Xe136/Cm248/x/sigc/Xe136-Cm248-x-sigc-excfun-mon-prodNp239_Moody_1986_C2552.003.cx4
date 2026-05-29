@@ -1,0 +1,23 @@
+# EXFOR #         : C2552.003  
+# EXFOR Ver.      : 20200502
+# TRANS #         : C197
+# Author          : K.J.Moody et al.
+# Reference       : Phys.Rev.C 33 (1986) 1315
+# DOI             : 10.1103/PhysRevC.33.1315
+# Quantity        : 248Cm(136Xe,x)239Np cumulative production cross section
+# REACTION        : 96-CM-248(54-XE-136,X)93-NP-239,CUM,SIG
+# File ID         : Xe136-Cm248-x-sigc-excfun-mon-prodNp239_Moody_1986_c2552.003
+#
+# npts            : 2           
+# xmin            :   7.4450E+08
+# xmax            :   7.8450E+08
+# ymin            :   2.2700E-04
+# ymax            :   3.3200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.8450E+08  2.3500E+07  3.3200E-04  5.6000E-05
+  7.4450E+08  4.5500E+07  2.2700E-04  2.9000E-05
+#---------------------------------------------------

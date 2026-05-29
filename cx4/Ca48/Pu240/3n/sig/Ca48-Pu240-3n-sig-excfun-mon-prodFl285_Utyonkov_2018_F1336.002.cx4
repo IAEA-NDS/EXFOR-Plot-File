@@ -1,0 +1,22 @@
+# EXFOR #         : F1336.002  
+# EXFOR Ver.      : 20250929
+# TRANS #         : F102
+# Author          : V.K.Utyonkov et al.
+# Reference       : Phys.Rev.C 97 (2018) 014320
+# DOI             : 10.1103/PhysRevC.97.014320
+# Quantity        : 240Pu(48Ca,3n)285Fl cross section
+# REACTION        : 94-PU-240(20-CA-48,3N)114-FL-285,,SIG
+# File ID         : Ca48-Pu240-3n-sig-excfun-mon-prodFl285_Utyonkov_2018_f1336.002
+#
+# npts            : 1           
+# xmin            :   2.5000E+08
+# xmax            :   2.5000E+08
+# ymin            :   5.8000E-13
+# ymax            :   5.8000E-13
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+08  1.0000E+06  5.8000E-13  0.0000E+00
+#---------------------------------------------------

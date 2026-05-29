@@ -1,0 +1,23 @@
+# EXFOR #         : F1483.004  
+# EXFOR Ver.      : 20231107
+# TRANS #         : F095
+# Author          : Yu.Ts.Oganessian et al.
+# Reference       : Phys.Rev.C 106 (2022) 024612
+# DOI             : 10.1103/PhysRevC.106.024612
+# Quantity        : 238U(48Ca,3n)283Cn cross section
+# REACTION        : 92-U-238(20-CA-48,3N)112-CN-283,,SIG
+# File ID         : Ca48-U238-3n-sig-excfun-mon-prodCn283_Oganessian_2022_f1483.004
+#
+# npts            : 2           
+# xmin            :   2.3110E+08
+# xmax            :   2.3440E+08
+# ymin            :   5.0000E-13
+# ymax            :   1.5000E-12
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3440E+08  0.0000E+00  5.0000E-13  0.0000E+00
+  2.3110E+08  0.0000E+00  1.5000E-12  0.0000E+00
+#---------------------------------------------------

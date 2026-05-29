@@ -1,0 +1,23 @@
+# EXFOR #         : D4077.003.2
+# EXFOR Ver.      : 20120201
+# TRANS #         : D081
+# Author          : S.Merchel et al.
+# Reference       : Radiochim.Acta 77 (1997) 137
+# DOI             : 10.1524/ract.1997.77.3.137
+# Quantity        : natN(he3,x)7Be independent production cross section
+# REACTION        : 7-N-0(HE3,X)4-BE-7,,SIG
+# File ID         : h-N-x-sig-excfun-mon-prodBe7_Merchel_1997_d4077.003.2
+#
+# npts            : 2           
+# xmin            :   2.1400E+07
+# xmax            :   3.0600E+07
+# ymin            :   5.7000E-03
+# ymax            :   1.6500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0600E+07  2.6000E+06  1.6500E-02  3.6000E-03
+  2.1400E+07  3.4000E+06  5.7000E-03  1.2000E-03
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : M0545.002  
+# EXFOR Ver.      : 20260113
+# TRANS #         : M143
+# Author          : A.Kuzin et al.
+# Reference       : Phys.Rev.C 58 (1998) 2167
+# DOI             : 10.1103/PhysRevC.58.2167
+# Quantity        : 12C(g,p)11B partial angular differential cross section
+# REACTION        : 6-C-12(G,P)5-B-11,PAR,DA
+# File ID         : g-C12-p-adxl-lvldis-mon-einc6.000E+07_angl70_prodB11_Kuzin_1998_m0545.002
+#
+# Einc (eV)       :   6.0000E+07
+# theta,lab (deg) :   70.0000000
+#
+# npts            : 3           
+# xmin            :   6.7400E+06
+# xmax            :   7.2900E+06
+# ymin            :   1.0800E-06
+# ymax            :   4.7600E-06
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.7400E+06  0.0000E+00  4.7600E-06  8.2000E-07
+  6.7900E+06  0.0000E+00  1.0800E-06  1.9000E-07
+  7.2900E+06  0.0000E+00  1.6600E-06  2.9000E-07
+#---------------------------------------------------

@@ -1,0 +1,30 @@
+# EXFOR #         : C1374.002  
+# EXFOR Ver.      : 20051121
+# TRANS #         : C076
+# Author          : Y.Parpottas et al.
+# Reference       : Phys.Rev.C 72 (2005) 025802
+# DOI             : 10.1103/PhysRevC.72.025802
+# Quantity        : 16O(he3,n)18Ne partial angular differential cross section
+# REACTION        : 8-O-16(HE3,N)10-NE-18,PAR,DA
+# File ID         : h-O16-n-adxl-lvldis-mon-einc1.010E+07_angl30_prodNe18_Parpottas_2005_c1374.002
+#
+# Einc (eV)       :   1.0100E+07
+# theta,lab (deg) :   30.0000000
+#
+# npts            : 6           
+# xmin            :   3.3760E+06
+# xmax            :   4.5900E+06
+# ymin            :   9.2500E-05
+# ymax            :   2.5361E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.3760E+06  0.0000E+00  2.5361E-03  2.1240E-04
+  3.5760E+06  0.0000E+00  5.1950E-04  5.1100E-05
+  3.6160E+06  0.0000E+00  1.2664E-03  1.0230E-04
+  4.5190E+06  0.0000E+00  2.7530E-04  1.9400E-05
+  4.5270E+06  0.0000E+00  5.6710E-04  3.8600E-05
+  4.5900E+06  0.0000E+00  9.2500E-05  7.6000E-06
+#---------------------------------------------------

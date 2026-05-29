@@ -1,0 +1,27 @@
+# EXFOR #         : O0757.006  
+# EXFOR Ver.      : 20040625
+# TRANS #         : 0000
+# Author          : V.Tatischeff et al.
+# Reference       : Phys.Rev.C 68 (2003) 025804
+# DOI             : 10.1103/PhysRevC.68.025804
+# Quantity        : 16O(he3,p)18F partial gamma production cross section
+# REACTION        : 8-O-16(HE3,P)9-F-18,PAR,SIG,G
+# File ID         : h-O16-p-sigg-enedisl-mon-einc8.352E+06_prodF18_Tatischeff_2003_o0757.006
+#
+# Einc (eV)       :   8.3520E+06
+# dEinc (eV)      :   1.4800E+05
+#
+# npts            : 3           
+# xmin            :   9.3700E+05
+# xmax            :   1.0810E+06
+# ymin            :   1.4983E-02
+# ymax            :   1.7649E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.3700E+05  0.0000E+00  1.7649E-01  9.9290E-03
+  1.0420E+06  0.0000E+00  4.9003E-02  5.3040E-03
+  1.0810E+06  0.0000E+00  1.4983E-02  1.5180E-03
+#---------------------------------------------------

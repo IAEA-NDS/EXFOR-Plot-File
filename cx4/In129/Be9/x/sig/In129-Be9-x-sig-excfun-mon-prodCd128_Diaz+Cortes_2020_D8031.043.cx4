@@ -1,0 +1,22 @@
+# EXFOR #         : D8031.043  
+# EXFOR Ver.      : 20210228
+# TRANS #         : D130
+# Author          : J.Diaz-Cortes et al.
+# Reference       : Phys.Lett.B 811 (2020) 135962
+# DOI             : 10.1016/j.physletb.2020.135962
+# Quantity        : 9Be(129In,x)128Cd independent production cross section
+# REACTION        : 4-BE-9(49-IN-129,X)48-CD-128,,SIG
+# File ID         : In129-Be9-x-sig-excfun-mon-prodCd128_Diaz+Cortes_2020_d8031.043
+#
+# npts            : 1           
+# xmin            :   1.2900E+11
+# xmax            :   1.2900E+11
+# ymin            :   1.2400E-02
+# ymax            :   1.2400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2900E+11  0.0000E+00  1.2400E-02  1.7000E-03
+#---------------------------------------------------

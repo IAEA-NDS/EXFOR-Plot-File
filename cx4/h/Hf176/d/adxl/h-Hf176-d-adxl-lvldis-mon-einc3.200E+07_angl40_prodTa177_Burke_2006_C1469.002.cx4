@@ -1,0 +1,25 @@
+# EXFOR #         : C1469.002  
+# EXFOR Ver.      : 20061201
+# TRANS #         : C079
+# Author          : D.G.Burke et al.
+# Reference       : Nucl.Phys.A 778 (2006) 125
+# DOI             : 10.1016/j.nuclphysa.2006.08.010
+# Quantity        : 176Hf(he3,d)177Ta partial angular differential cross section
+# REACTION        : 72-HF-176(HE3,D)73-TA-177,PAR,DA
+# File ID         : h-Hf176-d-adxl-lvldis-mon-einc3.200E+07_angl40_prodTa177_Burke_2006_c1469.002
+#
+# Einc (eV)       :   3.2000E+07
+# theta,lab (deg) :   40.0000000
+#
+# npts            : 1           
+# xmin            :   7.3800E+05
+# xmax            :   7.3800E+05
+# ymin            :   1.8000E-05
+# ymax            :   1.8000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.3800E+05  2.0000E+03  1.8000E-05  2.0000E-06
+#---------------------------------------------------

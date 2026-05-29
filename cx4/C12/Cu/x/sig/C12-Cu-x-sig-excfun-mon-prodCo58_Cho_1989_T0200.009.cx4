@@ -1,0 +1,23 @@
+# EXFOR #         : T0200.009  
+# EXFOR Ver.      : 20241025
+# TRANS #         : C242
+# Author          : S.Y.Cho et al.
+# Reference       : Phys.Rev.C 39 (1989) 2227
+# DOI             : 10.1103/PhysRevC.39.2227
+# Quantity        : natCu(12C,x)58Co independent production cross section
+# REACTION        : 29-CU-0(6-C-12,X)27-CO-58,,SIG
+# File ID         : C12-Cu-x-sig-excfun-mon-prodCo58_Cho_1989_t0200.009
+#
+# npts            : 2           
+# xmin            :   2.8000E+08
+# xmax            :   5.2800E+08
+# ymin            :   7.4300E-02
+# ymax            :   1.3400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8000E+08  0.0000E+00  1.3400E-01  1.1000E-02
+  5.2800E+08  0.0000E+00  7.4300E-02  6.1000E-03
+#---------------------------------------------------

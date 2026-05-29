@@ -1,0 +1,24 @@
+# EXFOR #         : C2417.017  
+# EXFOR Ver.      : 20191204
+# TRANS #         : C187
+# Author          : K.Eskola et al.
+# Reference       : Phys.Rev.C 29 (1984) 2160
+# DOI             : 10.1103/PhysRevC.29.2160
+# Quantity        : 204Hg(18O,x)212gBi independent production cross section
+# REACTION        : 80-HG-204(8-O-18,X)83-BI-212-G,,SIG
+# File ID         : O18-Hg204-x-sig-excfun-mon-prodBi212g_Eskola_1984_c2417.017
+#
+# npts            : 3           
+# xmin            :   8.7054E+07
+# xmax            :   1.8720E+08
+# ymin            :   9.0340E-09
+# ymax            :   1.6540E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.7054E+07  0.0000E+00  1.6540E-07  0.0000E+00
+  1.1371E+08  0.0000E+00  5.3400E-08  0.0000E+00
+  1.8720E+08  0.0000E+00  9.0340E-09  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : D6368.005  
+# EXFOR Ver.      : 20191113
+# TRANS #         : D124
+# Author          : P.K.Giri et al.
+# Reference       : Phys.Rev.C 100 (2019) 024621
+# DOI             : 10.1103/PhysRevC.100.024621
+# Quantity        : 148Nd(16O,x)161Ho cumulative production cross section
+# REACTION        : 60-ND-148(8-O-16,X)67-HO-161,CUM,SIG
+# File ID         : O16-Nd148-x-sigc-excfun-mon-prodHo161_Giri_2019_d6368.005
+#
+# npts            : 3           
+# xmin            :   6.7200E+07
+# xmax            :   7.7400E+07
+# ymin            :   9.6200E-03
+# ymax            :   3.5630E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.7200E+07  2.6000E+05  3.5630E-02  4.0800E-03
+  7.2400E+07  1.0000E+05  2.4270E-02  2.1200E-03
+  7.7400E+07  1.8000E+05  9.6200E-03  9.0000E-04
+#---------------------------------------------------

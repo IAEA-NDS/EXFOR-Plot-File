@@ -1,0 +1,27 @@
+# EXFOR #         : E2592.019  
+# EXFOR Ver.      : 20190117
+# TRANS #         : E121
+# Author          : T.Murata et al.
+# Reference       : Appl.Radiat.Isot. 144 (2019) 47
+# DOI             : 10.1016/j.apradiso.2018.11.012
+# Quantity        : natZr(a,x)89gZr cumulative production cross section
+# REACTION        : 40-ZR-0(A,X)40-ZR-89-G,CUM,SIG
+# File ID         : a-Zr-x-sigc-excfun-mon-prodZr89g_Murata_2019_e2592.019
+#
+# npts            : 6           
+# xmin            :   2.1200E+07
+# xmax            :   2.7600E+07
+# ymin            :   1.7000E-05
+# ymax            :   8.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7600E+07  5.0000E+05  8.2000E-03  6.0000E-04
+  2.5100E+07  6.0000E+05  2.0000E-03  2.0000E-04
+  2.4200E+07  6.0000E+05  8.9000E-04  7.0000E-05
+  2.3200E+07  6.0000E+05  3.1000E-04  2.0000E-05
+  2.2200E+07  6.0000E+05  8.3000E-05  7.0000E-06
+  2.1200E+07  6.0000E+05  1.7000E-05  2.0000E-06
+#---------------------------------------------------

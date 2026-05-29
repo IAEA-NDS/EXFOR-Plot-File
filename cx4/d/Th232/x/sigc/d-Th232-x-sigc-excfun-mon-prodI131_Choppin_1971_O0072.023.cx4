@@ -1,0 +1,22 @@
+# EXFOR #         : O0072.023  
+# EXFOR Ver.      : 20151122
+# TRANS #         : O056
+# Author          : G.R.Choppin et al.
+# Reference       : J.Inorg.Nucl.Chem. 33 (1971) 1535
+# DOI             : 10.1016/0022-1902(71)80587-0
+# Quantity        : 232Th(d,f)131I cumulative production cross section
+# REACTION        : 90-TH-232(D,F)53-I-131,(CUM),SIG
+# File ID         : d-Th232-x-sigc-excfun-mon-prodI131_Choppin_1971_o0072.023
+#
+# npts            : 1           
+# xmin            :   1.1500E+07
+# xmax            :   1.1500E+07
+# ymin            :   1.0050E-03
+# ymax            :   1.0050E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+07  0.0000E+00  1.0050E-03  3.0000E-05
+#---------------------------------------------------

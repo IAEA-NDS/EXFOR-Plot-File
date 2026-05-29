@@ -1,0 +1,24 @@
+# EXFOR #         : D6399.004  
+# EXFOR Ver.      : 20210607
+# TRANS #         : D131
+# Author          : R.Prajapat et al.
+# Reference       : Phys.Rev.C 103 (2021) 034620
+# DOI             : 10.1103/PhysRevC.103.034620
+# Quantity        : 89Y(6Li,x)90Mo independent production cross section
+# REACTION        : 39-Y-89(3-LI-6,X)42-MO-90,,SIG
+# File ID         : Li6-Y89-x-sig-excfun-mon-prodMo90_Prajapat_2021_d6399.004
+#
+# npts            : 3           
+# xmin            :   4.0100E+07
+# xmax            :   4.2700E+07
+# ymin            :   4.0000E-05
+# ymax            :   3.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0100E+07  4.0000E+05  4.0000E-05  3.0000E-05
+  4.1500E+07  4.0000E+05  1.2000E-04  4.5000E-05
+  4.2700E+07  4.0000E+05  3.1000E-04  1.0500E-04
+#---------------------------------------------------

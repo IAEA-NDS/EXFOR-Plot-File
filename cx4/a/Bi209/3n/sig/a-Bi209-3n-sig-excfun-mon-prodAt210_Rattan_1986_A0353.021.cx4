@@ -1,0 +1,23 @@
+# EXFOR #         : A0353.021  
+# EXFOR Ver.      : 20240823
+# TRANS #         : A117
+# Author          : S.S.Rattan et al.
+# Reference       : Radiochim.Acta 39 (1986) 61
+# DOI             : 10.1524/ract.1986.39.2.61
+# Quantity        : 209Bi(a,3n)210At cross section
+# REACTION        : 83-BI-209(A,3N)85-AT-210,,SIG
+# File ID         : a-Bi209-3n-sig-excfun-mon-prodAt210_Rattan_1986_a0353.021
+#
+# npts            : 2           
+# xmin            :   4.4900E+07
+# xmax            :   4.9100E+07
+# ymin            :   1.9700E-01
+# ymax            :   4.0800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.4900E+07  0.0000E+00  4.0800E-01  4.8000E-02
+  4.9100E+07  0.0000E+00  1.9700E-01  3.5000E-02
+#---------------------------------------------------

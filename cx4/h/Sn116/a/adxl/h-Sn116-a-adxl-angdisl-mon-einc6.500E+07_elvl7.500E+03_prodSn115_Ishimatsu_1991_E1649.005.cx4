@@ -1,0 +1,31 @@
+# EXFOR #         : E1649.005  
+# EXFOR Ver.      : 20070514
+# TRANS #         : E043
+# Author          : T.Ishimatsu et al.
+# Reference       : J.Phys.Soc.Jpn. 60 No.5 (1991) 1553
+# DOI             : 10.1143/JPSJ.60.1553
+# Quantity        : 116Sn(he3,a)115Sn partial angular differential cross section
+# REACTION        : 50-SN-116(HE3,A)50-SN-115,PAR,DA
+# File ID         : h-Sn116-a-adxl-angdisl-mon-einc6.500E+07_elvl7.500E+03_prodSn115_Ishimatsu_1991_e1649.005
+#
+# Einc (eV)       :   6.5000E+07
+# Elvl (eV)       :   7.5000E+03
+# dElvl (eV)      :   4.0000E+03
+#
+# npts            : 6           
+# xmin            :   12.2900000
+# xmax            :   30.5700000
+# ymin            :   1.6410E-03
+# ymax            :   2.2630E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.2900000   0.0000000  2.2630E-02  3.3945E-03
+  14.2900000   0.0000000  1.4570E-02  2.1855E-03
+  17.3900000   0.0000000  9.4670E-03  1.4201E-03
+  20.4300000   0.0000000  6.9690E-03  1.0454E-03
+  25.6000000   0.0000000  3.2710E-03  4.9065E-04
+  30.5700000   0.0000000  1.6410E-03  2.4615E-04
+#---------------------------------------------------

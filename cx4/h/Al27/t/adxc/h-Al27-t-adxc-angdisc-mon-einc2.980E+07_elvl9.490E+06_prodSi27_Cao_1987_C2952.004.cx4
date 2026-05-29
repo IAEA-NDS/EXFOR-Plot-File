@@ -1,0 +1,29 @@
+# EXFOR #         : C2952.004  
+# EXFOR Ver.      : 20240605
+# TRANS #         : C238
+# Author          : Z.-J.Cao et al.
+# Reference       : Phys.Rev.C 35 (1987) 875
+# DOI             : 10.1103/PhysRevC.35.875
+# Quantity        : 27Al(he3,t)27Si partial angular differential cross section
+# REACTION        : 13-AL-27(HE3,T)14-SI-27,PAR,DA
+# File ID         : h-Al27-t-adxc-angdisc-mon-einc2.980E+07_elvl9.490E+06_prodSi27_Cao_1987_c2952.004
+#
+# Einc (eV)       :   2.9800E+07
+# Elvl (eV)       :   9.4900E+06
+# dElvl (eV)      :   2.0000E+04
+#
+# npts            : 4           
+# xmin            :   10.7000000
+# xmax            :   28.2000000
+# ymin            :   2.1390E-05
+# ymax            :   3.1460E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.7000000   0.0000000  2.1390E-05  3.6730E-06
+  16.6000000   0.0000000  2.6580E-05  3.8170E-06
+  22.4000000   0.0000000  3.1460E-05  4.9370E-06
+  28.2000000   0.0000000  2.8120E-05  6.9030E-06
+#---------------------------------------------------

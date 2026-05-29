@@ -1,0 +1,23 @@
+# EXFOR #         : D4058.039.1
+# EXFOR Ver.      : 20150504
+# TRANS #         : D099
+# Author          : P.Jung
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 352
+# DOI             : N/A
+# Quantity        : natTi(d,x)48V independent production cross section
+# REACTION        : 22-TI-0(D,X)23-V-48,,SIG
+# File ID         : d-Ti-x-sig-excfun-mon-prodV48_Jung_1991_d4058.039.1
+#
+# npts            : 2           
+# xmin            :   8.4000E+06
+# xmax            :   1.3600E+07
+# ymin            :   2.7200E-02
+# ymax            :   2.4300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.4000E+06  6.0000E+05  2.7200E-02  0.0000E+00
+  1.3600E+07  4.0000E+05  2.4300E-01  0.0000E+00
+#---------------------------------------------------

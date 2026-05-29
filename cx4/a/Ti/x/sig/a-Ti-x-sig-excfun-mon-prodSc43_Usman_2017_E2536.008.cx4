@@ -1,0 +1,23 @@
+# EXFOR #         : E2536.008  
+# EXFOR Ver.      : 20260503
+# TRANS #         : E158
+# Author          : A.R.Usman et al.
+# Reference       : Nucl.Instrum.Meth.B 399 (2017) 34
+# DOI             : 10.1016/j.nimb.2017.03.120
+# Quantity        : natTi(a,x)43Sc independent production cross section
+# REACTION        : 22-TI-0(A,X)21-SC-43,,SIG
+# File ID         : a-Ti-x-sig-excfun-mon-prodSc43_Usman_2017_e2536.008
+#
+# npts            : 2           
+# xmin            :   4.7400E+07
+# xmax            :   5.0200E+07
+# ymin            :   4.5000E-04
+# ymax            :   9.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0200E+07  5.0000E+05  9.5000E-04  1.3000E-04
+  4.7400E+07  5.0000E+05  4.5000E-04  1.1000E-04
+#---------------------------------------------------

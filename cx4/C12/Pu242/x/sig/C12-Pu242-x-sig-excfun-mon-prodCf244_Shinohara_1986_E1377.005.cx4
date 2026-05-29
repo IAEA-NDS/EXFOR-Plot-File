@@ -1,0 +1,23 @@
+# EXFOR #         : E1377.005  
+# EXFOR Ver.      : 20070909
+# TRANS #         : E047
+# Author          : N.Shinohara et al.
+# Reference       : Phys.Rev.C 34 No.3 (1986) 909
+# DOI             : 10.1103/PhysRevC.34.909
+# Quantity        : 242Pu(12C,x)244Cf independent production cross section
+# REACTION        : 94-PU-242(6-C-12,X)98-CF-244,IND,SIG
+# File ID         : C12-Pu242-x-sig-excfun-mon-prodCf244_Shinohara_1986_e1377.005
+#
+# npts            : 2           
+# xmin            :   8.4310E+07
+# xmax            :   8.7880E+07
+# ymin            :   1.5350E-07
+# ymax            :   1.8970E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.4310E+07  0.0000E+00  1.5350E-07  1.5560E-07
+  8.7880E+07  0.0000E+00  1.8970E-06  8.6250E-07
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : D0510.021  
+# EXFOR Ver.      : 20080827
+# TRANS #         : D063
+# Author          : W.P.Alford et al.
+# Reference       : Nucl.Phys.A 243 (1975) 269
+# DOI             : 10.1016/0375-9474(75)90248-1
+# Quantity        : 54Fe(he3,n)56Ni partial angular differential cross section
+# REACTION        : 26-FE-54(HE3,N)28-NI-56,PAR,DA
+# File ID         : h-Fe54-n-adxc-angdisc-mon-einc1.500E+07_elvl5.110E+06_prodNi56_Alford_1975_d0510.021
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   5.1100E+06
+# dElvl (eV)      :   5.0000E+04
+#
+# npts            : 3           
+# xmin            :    0.4107000
+# xmax            :   10.1060000
+# ymin            :   6.3190E-05
+# ymax            :   1.3950E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.4107000   0.0000000  1.3950E-04  0.0000E+00
+   5.4321000   0.0000000  8.1810E-05  0.0000E+00
+  10.1060000   0.0000000  6.3190E-05  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : R0015.037  
+# EXFOR Ver.      : 20040830
+# TRANS #         : 0000
+# Author          : J.Van de Wiele et al.
+# Reference       : Nucl.Phys.A 297 (1978) 61
+# DOI             : 10.1016/0375-9474(78)90199-9
+# Quantity        : 16O(he3,a)15O partial angular differential cross section
+# REACTION        : 8-O-16(HE3,A)8-O-15,PAR,DA
+# File ID         : h-O16-a-adxl-angdisc-mon-einc2.170E+08_elvl1.000E+07_prodO15_Van%de%Wiele_1978_r0015.037
+#
+# Einc (eV)       :   2.1700E+08
+# Elvl (eV)       :   1.0000E+07
+#
+# npts            : 4           
+# xmin            :    9.6000000
+# xmax            :   19.8000000
+# ymin            :   1.6000E-04
+# ymax            :   8.1000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.6000000   0.0000000  8.1000E-04  9.0000E-05
+  12.2000000   0.0000000  6.9000E-04  7.0000E-05
+  15.9000000   0.0000000  3.5000E-04  4.0000E-05
+  19.8000000   0.0000000  1.6000E-04  2.0000E-05
+#---------------------------------------------------

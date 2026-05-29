@@ -1,0 +1,25 @@
+# EXFOR #         : D4371.006  
+# EXFOR Ver.      : 20170510
+# TRANS #         : D109
+# Author          : F.Tarkanyi et al.
+# Reference       : Appl.Radiat.Isot. 127 (2017) 16
+# DOI             : 10.1016/j.apradiso.2017.04.031
+# Quantity        : natSr(d,x)85mY independent production cross section
+# REACTION        : 38-SR-0(D,X)39-Y-85-M,,SIG
+# File ID         : d-Sr-x-sig-excfun-mon-prodY85m_Tarkanyi_2017_d4371.006
+#
+# npts            : 4           
+# xmin            :   3.0920E+07
+# xmax            :   4.8060E+07
+# ymin            :   1.8100E-02
+# ymax            :   3.6600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.8060E+07  2.5000E+05  3.6600E-02  1.8600E-02
+  4.2110E+07  4.0000E+05  3.3800E-02  1.3400E-02
+  4.0010E+07  4.5000E+05  3.3900E-02  1.6200E-02
+  3.0920E+07  6.8000E+05  1.8100E-02  1.7100E-02
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : E2248.006  
+# EXFOR Ver.      : 20151115
+# TRANS #         : E100
+# Author          : S.Kakigi
+# Reference       : J.Phys.Soc.Jpn. 20 (1965) 1967
+# DOI             : 10.1143/JPSJ.20.1967
+# Quantity        : 19F(a,d)21Ne partial angular differential cross section
+# REACTION        : 9-F-19(A,D)10-NE-21,PAR,DA
+# File ID         : a-F19-d-adxc-angdisc-mon-einc2.840E+07_elvl0.000E+00_prodNe21_Kakigi_1965_e2248.006
+#
+# Einc (eV)       :   2.8400E+07
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :   14.6000000
+# xmax            :   56.9000000
+# ymin            :   2.3000E-05
+# ymax            :   8.0000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  14.6000000   0.0000000  5.8000E-05  0.0000E+00
+  22.7000000   0.0000000  8.0000E-05  0.0000E+00
+  34.1000000   0.0000000  4.3000E-05  0.0000E+00
+  56.9000000   0.0000000  2.3000E-05  0.0000E+00
+#---------------------------------------------------

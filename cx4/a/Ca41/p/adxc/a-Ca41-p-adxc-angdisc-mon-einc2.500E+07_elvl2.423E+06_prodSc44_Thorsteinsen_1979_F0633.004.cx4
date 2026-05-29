@@ -1,0 +1,30 @@
+# EXFOR #         : F0633.004  
+# EXFOR Ver.      : 20051226
+# TRANS #         : F023
+# Author          : T.F.Thorsteinsen et al.
+# Reference       : Nucl.Phys.A 320 (1979) 225
+# DOI             : 10.1016/0375-9474(79)90186-6
+# Quantity        : 41Ca(a,p)44Sc partial angular differential cross section
+# REACTION        : 20-CA-41(A,P)21-SC-44,PAR,DA
+# File ID         : a-Ca41-p-adxc-angdisc-mon-einc2.500E+07_elvl2.423E+06_prodSc44_Thorsteinsen_1979_f0633.004
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   1.2500E+04
+# Elvl (eV)       :   2.4230E+06
+#
+# npts            : 5           
+# xmin            :    4.9566000
+# xmax            :   31.4960000
+# ymin            :   2.0216E-06
+# ymax            :   6.1044E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.9566000   0.0000000  6.1044E-06  1.0256E-06
+  10.4030000   0.0000000  6.0775E-06  1.1220E-06
+  15.5560000   0.0000000  4.0178E-06  1.0899E-06
+  26.3830000   0.0000000  2.0216E-06  1.0672E-06
+  31.4960000   0.0000000  4.0798E-06  1.0340E-06
+#---------------------------------------------------

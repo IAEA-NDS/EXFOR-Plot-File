@@ -1,0 +1,26 @@
+# EXFOR #         : C1396.006  
+# EXFOR Ver.      : 20060117
+# TRANS #         : C077
+# Author          : T.Murakami et al.
+# Reference       : Phys.Rev.C 34 (1986) 1353
+# DOI             : 10.1103/PhysRevC.34.1353
+# Quantity        : 236U(12C,el)236U angular differential cross section
+# REACTION        : 92-U-236(6-C-12,EL)92-U-236,,DA,,RTH
+# File ID         : C12-U236-el-adxc-angdisc-mon-einc6.600E+07_prodU236_Murakami_1986_c1396.006
+#
+# Einc (eV)       :   6.6000E+07
+#
+# npts            : 3           
+# xmin            :  131.0000000
+# xmax            :  170.0000000
+# ymin            :   4.7060E-02
+# ymax            :   1.1563E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 131.0000000   0.0000000  1.1563E-01  0.0000E+00
+ 160.0000000   0.0000000  5.5340E-02  0.0000E+00
+ 170.0000000   0.0000000  4.7060E-02  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : C0496.003  
+# EXFOR Ver.      : 20150930
+# TRANS #         : C153
+# Author          : M.Drosg et al.
+# Reference       : Report LA-10444, 1985
+# DOI             : N/A
+# Quantity        : 1H(t,n)3He angular differential cross section
+# REACTION        : 1-H-1(T,N)2-HE-3,,DA
+# File ID         : t-H1-n-adxl-angdisl-mon-einc8.961E+06_prodHe3_Drosg_1985_c0496.003
+#
+# Einc (eV)       :   8.9610E+06
+# dEinc (eV)      :   2.5000E+04
+#
+# npts            : 1           
+# xmin            :    0.3000000
+# xmax            :    0.3000000
+# ymin            :   6.3610E-01
+# ymax            :   6.3610E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.3000000   0.0000000  6.3610E-01  0.0000E+00
+#---------------------------------------------------

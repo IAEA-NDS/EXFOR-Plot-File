@@ -1,0 +1,22 @@
+# EXFOR #         : O1012.005  
+# EXFOR Ver.      : 20200829
+# TRANS #         : O079
+# Author          : P.Armbruster et al.
+# Reference       : Z.Phys.A 355 (1996) 191
+# DOI             : 10.1007/BF02769684
+# Quantity        : 9Be(238U,f) cross section
+# REACTION        : 4-BE-9(92-U-238,F),,SIG
+# File ID         : U238-Be9-f-sig-excfun-mon-Armbruster_1996_o1012.005
+#
+# npts            : 1           
+# xmin            :   1.7850E+11
+# xmax            :   1.7850E+11
+# ymin            :   1.1500E-01
+# ymax            :   1.1500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7850E+11  0.0000E+00  1.1500E-01  4.0000E-02
+#---------------------------------------------------

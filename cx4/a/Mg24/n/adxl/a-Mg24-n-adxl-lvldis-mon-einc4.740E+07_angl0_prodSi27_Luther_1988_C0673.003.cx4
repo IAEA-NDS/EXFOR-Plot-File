@@ -1,0 +1,30 @@
+# EXFOR #         : C0673.003  
+# EXFOR Ver.      : 20000707
+# TRANS #         : 0000
+# Author          : K.E.Luther et al.
+# Reference       : Phys.Rev.C 38 (1988) 529
+# DOI             : 10.1103/PhysRevC.38.529
+# Quantity        : 24Mg(a,n)27Si partial angular differential cross section
+# REACTION        : 12-MG-24(A,N)14-SI-27,PAR,DA
+# File ID         : a-Mg24-n-adxl-lvldis-mon-einc4.740E+07_angl0_prodSi27_Luther_1988_c0673.003
+#
+# Einc (eV)       :   4.7400E+07
+# theta,lab (deg) :    0.0000000
+#
+# npts            : 6           
+# xmin            :   1.1310E+07
+# xmax            :   2.0800E+07
+# ymin            :   2.7000E-04
+# ymax            :   1.1500E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1310E+07  0.0000E+00  1.0600E-03  0.0000E+00
+  1.3620E+07  0.0000E+00  1.1500E-03  0.0000E+00
+  1.6270E+07  0.0000E+00  5.0000E-04  0.0000E+00
+  1.8120E+07  0.0000E+00  3.5000E-04  0.0000E+00
+  2.0070E+07  0.0000E+00  3.1000E-04  0.0000E+00
+  2.0800E+07  0.0000E+00  2.7000E-04  0.0000E+00
+#---------------------------------------------------

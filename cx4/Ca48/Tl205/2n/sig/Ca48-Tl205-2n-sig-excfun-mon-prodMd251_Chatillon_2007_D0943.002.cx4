@@ -1,0 +1,24 @@
+# EXFOR #         : D0943.002  
+# EXFOR Ver.      : 20191007
+# TRANS #         : D123
+# Author          : A.Chatillon et al.
+# Reference       : Phys.Rev.Lett. 98 (2007) 132503
+# DOI             : 10.1103/PhysRevLett.98.132503
+# Quantity        : 205Tl(48Ca,2n)251Md cross section
+# REACTION        : 81-TL-205(20-CA-48,2N)101-MD-251,,SIG
+# File ID         : Ca48-Tl205-2n-sig-excfun-mon-prodMd251_Chatillon_2007_d0943.002
+#
+# npts            : 3           
+# xmin            :   2.1100E+08
+# xmax            :   2.1700E+08
+# ymin            :   3.0600E-07
+# ymax            :   7.6400E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1100E+08  2.0000E+06  3.0600E-07  0.0000E+00
+  2.1400E+08  2.0000E+06  7.6400E-07  0.0000E+00
+  2.1700E+08  2.0000E+06  5.1100E-07  0.0000E+00
+#---------------------------------------------------

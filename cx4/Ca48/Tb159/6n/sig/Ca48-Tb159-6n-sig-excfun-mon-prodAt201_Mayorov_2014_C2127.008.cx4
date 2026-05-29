@@ -1,0 +1,23 @@
+# EXFOR #         : C2127.008  
+# EXFOR Ver.      : 20140814
+# TRANS #         : C145
+# Author          : D.A.Mayorov et al.
+# Reference       : Phys.Rev.C 90 (2014) 024602
+# DOI             : 10.1103/PhysRevC.90.024602
+# Quantity        : 159Tb(48Ca,6n)201At cross section
+# REACTION        : 65-TB-159(20-CA-48,6N)85-AT-201,,SIG
+# File ID         : Ca48-Tb159-6n-sig-excfun-mon-prodAt201_Mayorov_2014_c2127.008
+#
+# npts            : 2           
+# xmin            :   1.9690E+08
+# xmax            :   2.0150E+08
+# ymin            :   3.0000E-04
+# ymax            :   1.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9690E+08  0.0000E+00  3.0000E-04  1.5000E-04
+  2.0150E+08  0.0000E+00  1.0000E-03  5.0000E-04
+#---------------------------------------------------

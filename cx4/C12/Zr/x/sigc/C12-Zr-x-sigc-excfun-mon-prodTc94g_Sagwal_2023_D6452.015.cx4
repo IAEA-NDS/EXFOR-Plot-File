@@ -1,0 +1,26 @@
+# EXFOR #         : D6452.015  
+# EXFOR Ver.      : 20240206
+# TRANS #         : D141
+# Author          : M.Sagwal et al.
+# Reference       : Phys.Rev.C 107 (2023) 034609
+# DOI             : 10.1103/PhysRevC.107.034609
+# Quantity        : natZr(12C,x)94gTc cumulative production cross section
+# REACTION        : 40-ZR-0(6-C-12,X)43-TC-94-G,CUM,SIG
+# File ID         : C12-Zr-x-sigc-excfun-mon-prodTc94g_Sagwal_2023_d6452.015
+#
+# npts            : 5           
+# xmin            :   6.5000E+07
+# xmax            :   7.6200E+07
+# ymin            :   4.0000E-04
+# ymax            :   2.0500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.5000E+07  2.3000E+06  4.0000E-04  1.0000E-04
+  6.6200E+07  1.1000E+06  7.0000E-04  1.0000E-04
+  7.1300E+07  1.0000E+06  4.3000E-03  6.0000E-04
+  7.1700E+07  2.1000E+06  6.5000E-03  8.0000E-04
+  7.6200E+07  1.0000E+06  2.0500E-02  2.5000E-03
+#---------------------------------------------------

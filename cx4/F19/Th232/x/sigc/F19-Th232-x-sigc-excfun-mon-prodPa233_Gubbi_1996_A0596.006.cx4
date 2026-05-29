@@ -1,0 +1,23 @@
+# EXFOR #         : A0596.006  
+# EXFOR Ver.      : 20240917
+# TRANS #         : A118
+# Author          : G.K.Gubbi et al.
+# Reference       : Phys.Rev.C 53 (1996) 796
+# DOI             : 10.1103/PhysRevC.53.796
+# Quantity        : 232Th(19F,x)233Pa cumulative production cross section
+# REACTION        : 90-TH-232(9-F-19,X)91-PA-233,(CUM),SIG
+# File ID         : F19-Th232-x-sigc-excfun-mon-prodPa233_Gubbi_1996_a0596.006
+#
+# npts            : 2           
+# xmin            :   9.5000E+07
+# xmax            :   1.1200E+08
+# ymin            :   2.5500E-02
+# ymax            :   5.4200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5000E+07  0.0000E+00  2.5500E-02  1.0000E-03
+  1.1200E+08  0.0000E+00  5.4200E-02  2.0000E-03
+#---------------------------------------------------

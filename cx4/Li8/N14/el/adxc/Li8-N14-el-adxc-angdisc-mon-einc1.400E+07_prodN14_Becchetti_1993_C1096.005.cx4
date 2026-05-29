@@ -1,0 +1,28 @@
+# EXFOR #         : C1096.005  
+# EXFOR Ver.      : 20041227
+# TRANS #         : 0000
+# Author          : F.D.Becchetti et al.
+# Reference       : Phys.Rev.C 48 (1993) 308
+# DOI             : 10.1103/PhysRevC.48.308
+# Quantity        : 14N(8Li,el)14N angular differential cross section
+# REACTION        : 7-N-14(3-LI-8,EL)7-N-14,,DA,,RTH
+# File ID         : Li8-N14-el-adxc-angdisc-mon-einc1.400E+07_prodN14_Becchetti_1993_c1096.005
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 5           
+# xmin            :   24.4200000
+# xmax            :   66.6900000
+# ymin            :   9.1900E-03
+# ymax            :   3.0038E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  24.4200000   0.0000000  3.0038E+00  1.1275E+00
+  43.7700000   0.0000000  1.0254E-01  2.4283E-02
+  47.8800000   0.0000000  6.5988E-02  1.2782E-02
+  51.0600000   0.0000000  5.2042E-02  1.0082E-02
+  66.6900000   0.0000000  9.1900E-03  1.0304E-03
+#---------------------------------------------------

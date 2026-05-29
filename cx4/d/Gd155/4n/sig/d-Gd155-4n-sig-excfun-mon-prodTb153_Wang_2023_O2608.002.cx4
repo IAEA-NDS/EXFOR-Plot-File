@@ -1,0 +1,23 @@
+# EXFOR #         : O2608.002  
+# EXFOR Ver.      : 20240315
+# TRANS #         : O100
+# Author          : Y.Wang et al.
+# Reference       : Appl.Radiat.Isot. 201 (2023) 110996
+# DOI             : 10.1016/j.apradiso.2023.110996
+# Quantity        : 155Gd(d,4n)153Tb cross section
+# REACTION        : 64-GD-155(D,4N)65-TB-153,,SIG
+# File ID         : d-Gd155-4n-sig-excfun-mon-prodTb153_Wang_2023_o2608.002
+#
+# npts            : 2           
+# xmin            :   2.4400E+07
+# xmax            :   2.9700E+07
+# ymin            :   9.8000E-02
+# ymax            :   8.3800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4400E+07  4.0000E+05  9.8000E-02  1.3000E-02
+  2.9700E+07  3.0000E+05  8.3800E-01  7.9000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : D6342.011  
+# EXFOR Ver.      : 20231116
+# TRANS #         : D139
+# Author          : V.V.Parkar et al.
+# Reference       : Phys.Rev.C 98 (2018) 014601
+# DOI             : 10.1103/PhysRevC.98.014601
+# Quantity        : 159Tb(6Li,x)160gHo cumulative production cross section
+# REACTION        : 65-TB-159(3-LI-6,X)67-HO-160-G,(M),SIG
+# File ID         : Li6-Tb159-x-sigc-excfun-mon-prodHo160g_Parkar_2018_d6342.011
+#
+# npts            : 1           
+# xmin            :   3.3800E+07
+# xmax            :   3.3800E+07
+# ymin            :   2.1400E-03
+# ymax            :   2.1400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3800E+07  0.0000E+00  2.1400E-03  3.7000E-04
+#---------------------------------------------------

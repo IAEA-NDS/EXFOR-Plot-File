@@ -1,0 +1,25 @@
+# EXFOR #         : O1089.005  
+# EXFOR Ver.      : 20040331
+# TRANS #         : 0000
+# Author          : F.Ballester et al.
+# Reference       : J.Phys.G 13 (1987) 1541
+# DOI             : 10.1088/0305-4616/13/12/012
+# Quantity        : 60Ni(a,inl)60Ni partial angular differential cross section
+# REACTION        : 28-NI-60(A,INL)28-NI-60,PAR,DA
+# File ID         : a-Ni60-inl-adxl-lvldis-mon-einc2.500E+07_angc58_prodNi60_Ballester_1987_o1089.005
+#
+# Einc (eV)       :   2.5000E+07
+# theta,cm (deg)  :   58.2000000
+#
+# npts            : 1           
+# xmin            :   2.5100E+06
+# xmax            :   2.5100E+06
+# ymin            :   1.4500E-04
+# ymax            :   1.4500E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.5100E+06  0.0000E+00  1.4500E-04  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : A1040.003  
+# EXFOR Ver.      : 20240707
+# TRANS #         : A113
+# Author          : J.T.Klopcic et al.
+# Reference       : Phys.Rev.C 3 (1971) 2171
+# DOI             : 10.1103/PhysRevC.3.2171
+# Quantity        : 3H(he3,n)5Li angular differential cross section
+# REACTION        : 1-H-3(HE3,N)3-LI-5,,DA
+# File ID         : h-H3-n-adxl-excfun-mon-angl0_prodLi5_Klopcic_1971_a1040.003
+#
+# theta,lab (deg) :    0.0000000
+#
+# npts            : 5           
+# xmin            :   1.5800E+06
+# xmax            :   3.6200E+06
+# ymin            :   7.8900E-04
+# ymax            :   1.9600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.5800E+06  0.0000E+00  7.8900E-04  0.0000E+00
+  2.1900E+06  0.0000E+00  1.0750E-03  0.0000E+00
+  2.7900E+06  0.0000E+00  1.4420E-03  0.0000E+00
+  3.3800E+06  0.0000E+00  1.9600E-03  0.0000E+00
+  3.6200E+06  0.0000E+00  1.8910E-03  0.0000E+00
+#---------------------------------------------------

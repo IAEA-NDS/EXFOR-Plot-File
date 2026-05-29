@@ -1,0 +1,22 @@
+# EXFOR #         : A0691.015  
+# EXFOR Ver.      : 20250728
+# TRANS #         : A122
+# Author          : K.Surendra Babu et al.
+# Reference       : Nucl.Phys.A 739 (2004) 229
+# DOI             : 10.1016/j.nuclphysa.2004.04.102
+# Quantity        : 181Ta(12C,x)184gRe cumulative production cross section
+# REACTION        : 73-TA-181(6-C-12,X)75-RE-184-G,(M),SIG
+# File ID         : C12-Ta181-x-sigc-excfun-mon-prodRe184g_Surendra%Babu_2004_a0691.015
+#
+# npts            : 1           
+# xmin            :   8.2500E+07
+# xmax            :   8.2500E+07
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.2500E+07  0.0000E+00  1.0000E-02  1.0000E-03
+#---------------------------------------------------

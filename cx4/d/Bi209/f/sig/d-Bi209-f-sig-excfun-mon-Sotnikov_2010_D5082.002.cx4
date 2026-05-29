@@ -1,0 +1,23 @@
+# EXFOR #         : D5082.002  
+# EXFOR Ver.      : 20110822
+# TRANS #         : D079
+# Author          : V.V.Sotnikov et al.
+# Reference       : Proceedings of 3 Int.Conf.Cur.Prob.in Nucl.Phys.Atom.Ene.,Kyiv,2010 page 250
+# DOI             : N/A
+# Quantity        : 209Bi(d,f) cross section
+# REACTION        : 83-BI-209(D,F),,SIG
+# File ID         : d-Bi209-f-sig-excfun-mon-Sotnikov_2010_d5082.002
+#
+# npts            : 2           
+# xmin            :   1.6000E+09
+# xmax            :   4.0000E+09
+# ymin            :   3.0600E-01
+# ymax            :   3.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+09  0.0000E+00  3.2000E-01  5.0000E-02
+  4.0000E+09  0.0000E+00  3.0600E-01  4.0000E-02
+#---------------------------------------------------

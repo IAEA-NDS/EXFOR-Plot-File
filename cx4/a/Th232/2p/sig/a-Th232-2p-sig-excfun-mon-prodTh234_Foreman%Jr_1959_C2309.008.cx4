@@ -1,0 +1,23 @@
+# EXFOR #         : C2309.008  
+# EXFOR Ver.      : 20180815
+# TRANS #         : C177
+# Author          : B.M.Foreman Jr et al.
+# Reference       : Phys.Rev. 116 (1959) 382
+# DOI             : 10.1103/PhysRev.116.382
+# Quantity        : 232Th(a,2p)234Th cross section
+# REACTION        : 90-TH-232(A,2P)90-TH-234,,SIG
+# File ID         : a-Th232-2p-sig-excfun-mon-prodTh234_Foreman%Jr_1959_c2309.008
+#
+# npts            : 2           
+# xmin            :   2.6900E+07
+# xmax            :   3.0850E+07
+# ymin            :   5.5000E-05
+# ymax            :   1.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6900E+07  5.0000E+05  1.6000E-04  8.0000E-05
+  3.0850E+07  5.0000E+05  5.5000E-05  2.8000E-05
+#---------------------------------------------------

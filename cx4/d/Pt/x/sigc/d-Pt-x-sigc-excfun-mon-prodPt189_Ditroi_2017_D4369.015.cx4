@@ -1,0 +1,23 @@
+# EXFOR #         : D4369.015  
+# EXFOR Ver.      : 20191212
+# TRANS #         : D125
+# Author          : F.Ditroi et al.
+# Reference       : Nucl.Instrum.Meth.B 401 (2017) 56
+# DOI             : 10.1016/j.nimb.2017.04.073
+# Quantity        : natPt(d,x)189Pt cumulative production cross section
+# REACTION        : 78-PT-0(D,X)78-PT-189,CUM,SIG
+# File ID         : d-Pt-x-sigc-excfun-mon-prodPt189_Ditroi_2017_d4369.015
+#
+# npts            : 2           
+# xmin            :   4.6400E+07
+# xmax            :   4.8100E+07
+# ymin            :   7.1000E-03
+# ymax            :   9.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.8100E+07  3.0000E+05  9.4000E-03  2.4000E-03
+  4.6400E+07  4.0000E+05  7.1000E-03  2.7000E-03
+#---------------------------------------------------

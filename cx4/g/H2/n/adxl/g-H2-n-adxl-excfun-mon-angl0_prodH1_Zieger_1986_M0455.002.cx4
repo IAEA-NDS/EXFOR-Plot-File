@@ -1,0 +1,25 @@
+# EXFOR #         : M0455.002  
+# EXFOR Ver.      : 20130621
+# TRANS #         : M067
+# Author          : A.Zieger et al.
+# Reference       : Few-Body Sys. 1 (1986) 135
+# DOI             : 10.1007/BF01077004
+# Quantity        : 2H(g,n)1H angular differential cross section
+# REACTION        : 1-H-2(G,N)1-H-1,,DA
+# File ID         : g-H2-n-adxl-excfun-mon-angl0_prodH1_Zieger_1986_m0455.002
+#
+# theta,lab (deg) :    0.0000000
+# dtheta,lab (deg):    1.2500000
+#
+# npts            : 1           
+# xmin            :   1.0740E+07
+# xmax            :   1.0740E+07
+# ymin            :   4.7000E-06
+# ymax            :   4.7000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.0740E+07  0.0000E+00  4.7000E-06  8.5000E-07
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : D8047.003  
+# EXFOR Ver.      : 20220504
+# TRANS #         : D137
+# Author          : S.Burrello et al.
+# Reference       : Phys.Rev.C 105 (2022) 024616
+# DOI             : 10.1103/PhysRevC.105.024616
+# Quantity        : 116Cd(20Ne,el)116Cd angular differential cross section
+# REACTION        : 48-CD-116(10-NE-20,EL)48-CD-116,,DA
+# File ID         : Ne20-Cd116-el-adxc-angdisc-mon-einc3.060E+08_prodCd116_Burrello_2022_d8047.003
+#
+# Einc (eV)       :   3.0600E+08
+#
+# npts            : 3           
+# xmin            :   18.2961500
+# xmax            :   20.3988200
+# ymin            :   2.0440E-02
+# ymax            :   1.3893E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  18.2961500   0.0000000  1.3893E-01  8.8832E-03
+  19.2309900   0.0000000  5.1937E-02  4.2923E-03
+  20.3988200   0.0000000  2.0440E-02  1.7442E-03
+#---------------------------------------------------

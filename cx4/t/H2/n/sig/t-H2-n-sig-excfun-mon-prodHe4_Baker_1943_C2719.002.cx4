@@ -1,0 +1,23 @@
+# EXFOR #         : C2719.002  
+# EXFOR Ver.      : 20220204
+# TRANS #         : C214
+# Author          : C.P.Baker et al.
+# Reference       : Report LAMS-11, 1943
+# DOI             : N/A
+# Quantity        : 2H(t,n)4He cross section
+# REACTION        : 1-H-2(T,N)2-HE-4,,SIG
+# File ID         : t-H2-n-sig-excfun-mon-prodHe4_Baker_1943_c2719.002
+#
+# npts            : 2           
+# xmin            :   3.2000E+05
+# xmax            :   9.0000E+05
+# ymin            :   6.0000E-01
+# ymax            :   2.1000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2000E+05  0.0000E+00  2.1000E+00  0.0000E+00
+  9.0000E+05  0.0000E+00  6.0000E-01  0.0000E+00
+#---------------------------------------------------

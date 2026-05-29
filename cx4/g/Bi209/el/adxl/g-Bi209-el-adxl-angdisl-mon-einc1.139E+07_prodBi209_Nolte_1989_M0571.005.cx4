@@ -1,0 +1,24 @@
+# EXFOR #         : M0571.005  
+# EXFOR Ver.      : 20110119
+# TRANS #         : M056
+# Author          : R.Nolte et al.
+# Reference       : Phys.Rev.C 40 (1989) 1175
+# DOI             : 10.1103/PhysRevC.40.1175
+# Quantity        : 209Bi(g,el)209Bi angular differential cross section
+# REACTION        : 83-BI-209(G,EL)83-BI-209,,DA
+# File ID         : g-Bi209-el-adxl-angdisl-mon-einc1.139E+07_prodBi209_Nolte_1989_m0571.005
+#
+# Einc (eV)       :   1.1388E+07
+#
+# npts            : 1           
+# xmin            :  135.0000000
+# xmax            :  135.0000000
+# ymin            :   2.4000E-04
+# ymax            :   2.4000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 135.0000000   0.0000000  2.4000E-04  4.8000E-05
+#---------------------------------------------------

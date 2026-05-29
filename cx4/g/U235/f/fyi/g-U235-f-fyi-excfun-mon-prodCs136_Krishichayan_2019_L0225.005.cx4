@@ -1,0 +1,22 @@
+# EXFOR #         : L0225.005  
+# EXFOR Ver.      : 20190918
+# TRANS #         : L043
+# Author          : Krishichayan et al.
+# Reference       : Phys.Rev.C 100 (2019) 014608
+# DOI             : 10.1103/PhysRevC.100.014608
+# Quantity        : 235U(g,f)136Cs independent fission product yield
+# REACTION        : 92-U-235(G,F)55-CS-136,IND,FY
+# File ID         : g-U235-f-fyi-excfun-mon-prodCs136_Krishichayan_2019_l0225.005
+#
+# npts            : 1           
+# xmin            :   1.3000E+07
+# xmax            :   1.3000E+07
+# ymin            :   1.7000E-03
+# ymax            :   1.7000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,ind      dFY,ind     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  1.3000E+07  1.3000E+05  1.7000E-03  1.0000E-04
+#---------------------------------------------------

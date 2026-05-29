@@ -1,0 +1,24 @@
+# EXFOR #         : D0122.004  
+# EXFOR Ver.      : 20040219
+# TRANS #         : 0000
+# Author          : A.Agarwal et al.
+# Reference       : Ind.J.Pure Appl.Phy. 41 (2003) 829
+# DOI             : N/A
+# Quantity        : 85Rb(a,4n)85Y cross section
+# REACTION        : 37-RB-85(A,4N)39-Y-85,,SIG
+# File ID         : a-Rb85-4n-sig-excfun-mon-prodY85_Agarwal_2003_d0122.004
+#
+# npts            : 3           
+# xmin            :   4.2330E+07
+# xmax            :   4.9940E+07
+# ymin            :   9.3430E-02
+# ymax            :   2.7840E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.2330E+07  6.0000E+05  9.3430E-02  9.2300E-03
+  4.6400E+07  5.4000E+05  2.2795E-01  1.1540E-02
+  4.9940E+07  5.1000E+05  2.7840E-01  1.6280E-02
+#---------------------------------------------------

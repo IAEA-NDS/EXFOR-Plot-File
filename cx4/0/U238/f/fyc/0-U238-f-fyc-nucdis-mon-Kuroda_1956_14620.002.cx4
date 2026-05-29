@@ -1,0 +1,24 @@
+# EXFOR #         : 14620.002  
+# EXFOR Ver.      : 20200403
+# TRANS #         : 1469
+# Author          : P.K.Kuroda et al.
+# Reference       : J.Chem.Phys. 25 (1956) 603
+# DOI             : 10.1063/1.1743002
+# Quantity        : 238U(sf) cumulative fission product yield
+# REACTION        : 92-U-238(0,F)ELEM/MASS,CUM,FY
+# File ID         : 0-U238-f-fyc-nucdis-mon-Kuroda_1956_14620.002
+#
+# npts            : 3           
+# xmin            : 53131.9     
+# xmax            : 53135.9     
+# ymin            :   4.0370E-03
+# ymax            :   5.0041E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     53131.9  4.0370E-03  2.1750E-03
+     53133.9  1.6170E-02  4.2020E-03
+     53135.9  5.0041E-02  7.8260E-03
+#---------------------------------------------------

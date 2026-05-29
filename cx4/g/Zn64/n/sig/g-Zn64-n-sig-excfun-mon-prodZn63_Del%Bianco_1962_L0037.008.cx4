@@ -1,0 +1,22 @@
+# EXFOR #         : L0037.008  
+# EXFOR Ver.      : 20110119
+# TRANS #         : M056
+# Author          : W.E.Del Bianco et al.
+# Reference       : Phys.Rev. 126 (1962) 709
+# DOI             : 10.1103/PhysRev.126.709
+# Quantity        : 64Zn(g,n)63Zn cross section
+# REACTION        : 30-ZN-64(G,N)30-ZN-63,,SIG
+# File ID         : g-Zn64-n-sig-excfun-mon-prodZn63_Del%Bianco_1962_l0037.008
+#
+# npts            : 1           
+# xmin            :   2.0480E+07
+# xmax            :   2.0480E+07
+# ymin            :   3.5700E-02
+# ymax            :   3.5700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0480E+07  0.0000E+00  3.5700E-02  1.7000E-03
+#---------------------------------------------------

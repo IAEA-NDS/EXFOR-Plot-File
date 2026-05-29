@@ -1,0 +1,24 @@
+# EXFOR #         : F0028.002  
+# EXFOR Ver.      : 20120131
+# TRANS #         : F045
+# Author          : S.Buzhin'ski et al.
+# Reference       : Izv.Ross.AN,Fiz. 43 (1979) 158
+# DOI             : N/A
+# Quantity        : 6Li(he3,el)6Li angular differential cross section
+# REACTION        : 3-LI-6(HE3,EL)3-LI-6,,DA,,RTH
+# File ID         : h-Li6-el-adxl-angdisl-mon-einc1.547E+06_prodLi6_Buzhinski_1979_f0028.002
+#
+# Einc (eV)       :   1.5470E+06
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   4.0558E-02
+# ymax            :   4.0558E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  4.0558E-02  7.7567E-04
+#---------------------------------------------------

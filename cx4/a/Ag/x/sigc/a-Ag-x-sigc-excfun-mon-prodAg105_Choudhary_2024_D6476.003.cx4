@@ -1,0 +1,24 @@
+# EXFOR #         : D6476.003  
+# EXFOR Ver.      : 20250402
+# TRANS #         : D148
+# Author          : M.Choudhary et al.
+# Reference       : Nucl.Phys.A 1050 (2024) 122917
+# DOI             : 10.1016/j.nuclphysa.2024.122917
+# Quantity        : natAg(a,x)105Ag cumulative production cross section
+# REACTION        : 47-AG-0(A,X)47-AG-105,CUM,SIG
+# File ID         : a-Ag-x-sigc-excfun-mon-prodAg105_Choudhary_2024_d6476.003
+#
+# npts            : 3           
+# xmin            :   3.1600E+07
+# xmax            :   3.8360E+07
+# ymin            :   4.7000E-04
+# ymax            :   1.2690E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.1600E+07  1.7400E+06  4.7000E-04  6.0000E-05
+  3.5100E+07  1.5100E+06  3.8400E-03  4.3000E-04
+  3.8360E+07  1.0700E+06  1.2690E-02  1.5300E-03
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : A1534.002  
+# EXFOR Ver.      : 20210124
+# TRANS #         : A096
+# Author          : B.J.Farmer et al.
+# Reference       : Bull.Am.Phys.Soc. 6 (1961) 341(F2)
+# DOI             : N/A
+# Quantity        : 6Li(he3,n)8B partial cross section
+# REACTION        : 3-LI-6(HE3,N)5-B-8,PAR,SIG
+# File ID         : h-Li6-n-sig-excfun-mon-elvl0.000E+00_prodB8_Farmer_1961_a1534.002
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   5.5000E+06
+# xmax            :   5.5000E+06
+# ymin            :   2.1500E-02
+# ymax            :   2.1500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+06  0.0000E+00  2.1500E-02  2.0000E-03
+#---------------------------------------------------

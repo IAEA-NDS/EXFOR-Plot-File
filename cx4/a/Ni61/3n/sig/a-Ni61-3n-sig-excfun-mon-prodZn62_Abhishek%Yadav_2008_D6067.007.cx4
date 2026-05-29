@@ -1,0 +1,23 @@
+# EXFOR #         : D6067.007  
+# EXFOR Ver.      : 20160324
+# TRANS #         : D103
+# Author          : Abhishek Yadav et al.
+# Reference       : Phys.Rev.C 78 (2008) 044606
+# DOI             : 10.1103/PhysRevC.78.044606
+# Quantity        : 61Ni(a,3n)62Zn cross section
+# REACTION        : 28-NI-61(A,3N)30-ZN-62,,SIG
+# File ID         : a-Ni61-3n-sig-excfun-mon-prodZn62_Abhishek%Yadav_2008_d6067.007
+#
+# npts            : 2           
+# xmin            :   3.6000E+07
+# xmax            :   4.0000E+07
+# ymin            :   2.0000E-03
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6000E+07  7.0000E+05  2.0000E-03  8.0000E-04
+  4.0000E+07  7.0000E+05  1.0000E-02  7.0000E-04
+#---------------------------------------------------

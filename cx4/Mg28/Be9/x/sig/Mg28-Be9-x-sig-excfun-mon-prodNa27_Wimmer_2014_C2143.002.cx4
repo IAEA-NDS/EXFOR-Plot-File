@@ -1,0 +1,22 @@
+# EXFOR #         : C2143.002  
+# EXFOR Ver.      : 20150115
+# TRANS #         : C147
+# Author          : K.Wimmer et al.
+# Reference       : Phys.Rev.C 90 (2014) 064615
+# DOI             : 10.1103/PhysRevC.90.064615
+# Quantity        : 9Be(28Mg,x)27Na independent production cross section
+# REACTION        : 4-BE-9(12-MG-28,X)11-NA-27,,SIG
+# File ID         : Mg28-Be9-x-sig-excfun-mon-prodNa27_Wimmer_2014_c2143.002
+#
+# npts            : 1           
+# xmin            :   2.6040E+09
+# xmax            :   2.6040E+09
+# ymin            :   3.6000E-02
+# ymax            :   3.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6040E+09  0.0000E+00  3.6000E-02  1.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : D6478.005  
+# EXFOR Ver.      : 20250429
+# TRANS #         : D148
+# Author          : D.Banerjee et al.
+# Reference       : Appl.Radiat.Isot. 214 (2024) 111542
+# DOI             : 10.1016/j.apradiso.2024.111542
+# Quantity        : natAg(a,x)108gIn independent production cross section
+# REACTION        : 47-AG-0(A,X)49-IN-108-G,,SIG
+# File ID         : a-Ag-x-sig-excfun-mon-prodIn108g_Banerjee_2024_d6478.005
+#
+# npts            : 4           
+# xmin            :   3.5600E+07
+# xmax            :   4.0000E+07
+# ymin            :   9.9290E-02
+# ymax            :   2.3664E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5600E+07  1.7800E+06  9.9290E-02  1.6540E-02
+  3.7100E+07  1.8550E+06  1.4583E-01  2.4120E-02
+  3.8700E+07  1.9350E+06  1.8394E-01  2.8720E-02
+  4.0000E+07  2.0000E+06  2.3664E-01  3.7360E-02
+#---------------------------------------------------

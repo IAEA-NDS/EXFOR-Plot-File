@@ -1,0 +1,29 @@
+# EXFOR #         : F1020.002  
+# EXFOR Ver.      : 20090925
+# TRANS #         : F037
+# Author          : E.D.Teterin et al.
+# Reference       : Izv.Ross.AN,Fiz. 33 (1969) 1350
+# DOI             : N/A
+# Quantity        : 32S(d,a)30P partial angular differential cross section
+# REACTION        : 16-S-32(D,A)15-P-30,PAR,DA
+# File ID         : d-S32-a-adxc-angdisc-mon-einc7.000E+06_elvl2.724E+06_prodP30_Teterin_1969_f1020.002
+#
+# Einc (eV)       :   7.0000E+06
+# Elvl (eV)       :   2.7240E+06
+#
+# npts            : 5           
+# xmin            :  107.1400000
+# xmax            :  164.8100000
+# ymin            :   1.3729E-04
+# ymax            :   3.9117E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 107.1400000   0.0000000  1.3729E-04  2.7458E-05
+ 129.1200000   0.0000000  1.8998E-04  3.7996E-05
+ 137.3300000   0.0000000  3.1342E-04  6.2684E-05
+ 146.0100000   0.0000000  3.9117E-04  7.8234E-05
+ 164.8100000   0.0000000  3.2501E-04  6.5002E-05
+#---------------------------------------------------

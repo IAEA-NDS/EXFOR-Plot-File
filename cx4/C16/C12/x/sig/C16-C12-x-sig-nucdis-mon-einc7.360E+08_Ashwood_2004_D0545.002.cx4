@@ -1,0 +1,28 @@
+# EXFOR #         : D0545.002  
+# EXFOR Ver.      : 20091222
+# TRANS #         : D071
+# Author          : N.I.Ashwood et al.
+# Reference       : Phys.Rev.C 70 (2004) 064607
+# DOI             : 10.1103/PhysRevC.70.064607
+# Quantity        : 12C(16C,x) independent production cross section
+# REACTION        : 6-C-12(6-C-16,X)ELEM/MASS,,SIG
+# File ID         : C16-C12-x-sig-nucdis-mon-einc7.360E+08_Ashwood_2004_d0545.002
+#
+# Einc (eV)       :   7.3600E+08
+# dEinc (eV)      :   2.2080E+07
+#
+# npts            : 4           
+# xmin            : 6012.9      
+# xmax            : 6015.9      
+# ymin            :   1.1000E-02
+# ymax            :   9.6000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      6015.9  9.6000E-02  1.1000E-02
+      6014.9  9.4000E-02  1.1000E-02
+      6013.9  3.3000E-02  4.0000E-03
+      6012.9  1.1000E-02  1.0000E-03
+#---------------------------------------------------

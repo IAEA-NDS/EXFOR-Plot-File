@@ -1,0 +1,25 @@
+# EXFOR #         : P0046.028  
+# EXFOR Ver.      : 19830929
+# TRANS #         : 0000
+# Author          : M.Lindner et al.
+# Reference       : Phys.Rev. 94 (1954) 1323
+# DOI             : 10.1103/PhysRev.94.1323
+# Quantity        : 232Th(d,f)131gBa independent production cross section
+# REACTION        : 90-TH-232(D,F)56-BA-131-G,,SIG
+# File ID         : d-Th232-x-sig-excfun-mon-prodBa131g_Lindner_1954_p0046.028
+#
+# npts            : 4           
+# xmin            :   5.0800E+07
+# xmax            :   1.9100E+08
+# ymin            :   3.0000E-05
+# ymax            :   7.3800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0800E+07  0.0000E+00  3.0000E-05  0.0000E+00
+  9.6200E+07  0.0000E+00  3.0000E-05  0.0000E+00
+  1.5100E+08  0.0000E+00  2.8200E-04  0.0000E+00
+  1.9100E+08  0.0000E+00  7.3800E-04  0.0000E+00
+#---------------------------------------------------

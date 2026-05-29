@@ -1,0 +1,25 @@
+# EXFOR #         : A1515.002  
+# EXFOR Ver.      : 19990324
+# TRANS #         : 0000
+# Author          : M.Balakrishnan et al.
+# Reference       : Nuovo Cim.A 1 No.2 (1971) 205
+# DOI             : 10.1007/BF02722664
+# Quantity        : 6Li(a,el)6Li angular differential cross section
+# REACTION        : 3-LI-6(A,EL)3-LI-6,,DA
+# File ID         : a-Li6-el-adxl-angdisc-mon-einc3.696E+06_prodLi6_Balakrishnan_1971_a1515.002
+#
+# Einc (eV)       :   3.6960E+06
+# dEinc (eV)      :   3.0000E+04
+#
+# npts            : 1           
+# xmin            :  125.0000000
+# xmax            :  125.0000000
+# ymin            :   6.5350E-02
+# ymax            :   6.5350E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 125.0000000   0.0000000  6.5350E-02  6.5350E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : D0306.030  
+# EXFOR Ver.      : 20050609
+# TRANS #         : D044
+# Author          : E.Gadioli et al.
+# Reference       : Eur.Phys.J.A 17 (2003) 195
+# DOI             : 10.1140/epja/i2003-10007-5
+# Quantity        : 93Nb(16O,x)12C independent production cross section
+# REACTION        : 41-NB-93(8-O-16,X)6-C-12,,SIG
+# File ID         : O16-Nb93-x-sig-excfun-mon-prodC12_Gadioli_2003_d0306.030
+#
+# npts            : 2           
+# xmin            :   2.5000E+08
+# xmax            :   4.0000E+08
+# ymin            :   1.5000E-01
+# ymax            :   3.3900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+08  0.0000E+00  1.5000E-01  0.0000E+00
+  4.0000E+08  0.0000E+00  3.3900E-01  0.0000E+00
+#---------------------------------------------------

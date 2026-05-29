@@ -1,0 +1,23 @@
+# EXFOR #         : D0923.002  
+# EXFOR Ver.      : 20190502
+# TRANS #         : D120
+# Author          : R.Briselet et al.
+# Reference       : Phys.Rev.C 99 (2019) 024614
+# DOI             : 10.1103/PhysRevC.99.024614
+# Quantity        : 197Au(48Ca,2n)243Es cross section
+# REACTION        : 79-AU-197(20-CA-48,2N)99-ES-243,,SIG
+# File ID         : Ca48-Au197-2n-sig-excfun-mon-prodEs243_Briselet_2019_d0923.002
+#
+# npts            : 2           
+# xmin            :   2.0800E+08
+# xmax            :   2.1000E+08
+# ymin            :   3.2000E-08
+# ymax            :   3.7000E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1000E+08  1.0000E+06  3.7000E-08  1.0000E-08
+  2.0800E+08  1.0000E+06  3.2000E-08  9.0000E-09
+#---------------------------------------------------

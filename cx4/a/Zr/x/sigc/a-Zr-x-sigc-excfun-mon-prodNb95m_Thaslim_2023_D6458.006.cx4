@@ -1,0 +1,25 @@
+# EXFOR #         : D6458.006  
+# EXFOR Ver.      : 20231115
+# TRANS #         : D141
+# Author          : T.T.V.Thaslim et al.
+# Reference       : Eur.Phys.J.A 59 (2023) 167
+# DOI             : 10.1140/epja/s10050-023-01086-5
+# Quantity        : natZr(a,x)95mNb cumulative production cross section
+# REACTION        : 40-ZR-0(A,X)41-NB-95-M,(CUM),SIG
+# File ID         : a-Zr-x-sigc-excfun-mon-prodNb95m_Thaslim_2023_d6458.006
+#
+# npts            : 4           
+# xmin            :   2.0400E+07
+# xmax            :   3.9700E+07
+# ymin            :   1.6000E-04
+# ymax            :   1.6400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0400E+07  5.0000E+05  1.6000E-04  2.0000E-05
+  2.9600E+07  4.0000E+05  6.1000E-04  1.2000E-04
+  3.2300E+07  4.0000E+05  7.9000E-04  1.5000E-04
+  3.9700E+07  3.0000E+05  1.6400E-03  3.1000E-04
+#---------------------------------------------------

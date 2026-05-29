@@ -1,0 +1,22 @@
+# EXFOR #         : B0113.045.1
+# EXFOR Ver.      : 20190123
+# TRANS #         : B029
+# Author          : D.Gardes et al.
+# Reference       : Phys.Rev.C 18 (1978) 1298
+# DOI             : 10.1103/PhysRevC.18.1298
+# Quantity        : 205Tl(20Ne,x)211At independent production cross section
+# REACTION        : 81-TL-205(10-NE-20,X)85-AT-211,,SIG
+# File ID         : Ne20-Tl205-x-sig-excfun-mon-prodAt211_Gardes_1978_b0113.045.1
+#
+# npts            : 1           
+# xmin            :   1.9350E+08
+# xmax            :   1.9350E+08
+# ymin            :   1.5000E-04
+# ymax            :   1.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9350E+08  5.0000E+06  1.5000E-04  4.0000E-05
+#---------------------------------------------------

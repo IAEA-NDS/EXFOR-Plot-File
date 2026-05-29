@@ -1,0 +1,26 @@
+# EXFOR #         : L0259.002  
+# EXFOR Ver.      : 20200701
+# TRANS #         : L044
+# Author          : X.Li et al.
+# Reference       : Phys.Rev.C 101 (2020) 034618
+# DOI             : 10.1103/PhysRevC.101.034618
+# Quantity        : 4He(g,el)4He angular differential cross section
+# REACTION        : 2-HE-4(G,EL)2-HE-4,,DA
+# File ID         : g-He4-el-adxl-angdisl-mon-einc8.130E+07_prodHe4_Li_2020_l0259.002
+#
+# Einc (eV)       :   8.1300E+07
+#
+# npts            : 3           
+# xmin            :   55.0000000
+# xmax            :  125.0000000
+# ymin            :   6.1900E-08
+# ymax            :   9.7000E-08
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  55.0000000   0.0000000  7.8000E-08  1.9000E-09
+  90.0000000   0.0000000  6.1900E-08  1.3000E-09
+ 125.0000000   0.0000000  9.7000E-08  1.5000E-09
+#---------------------------------------------------

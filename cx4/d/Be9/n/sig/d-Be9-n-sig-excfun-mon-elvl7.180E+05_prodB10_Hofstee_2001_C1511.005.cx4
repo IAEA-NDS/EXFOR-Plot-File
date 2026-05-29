@@ -1,0 +1,24 @@
+# EXFOR #         : C1511.005  
+# EXFOR Ver.      : 20070419
+# TRANS #         : C080
+# Author          : M.A.Hofstee et al.
+# Reference       : Nucl.Phys.A 688 (2001) 527
+# DOI             : 10.1016/S0375-9474(01)00777-1
+# Quantity        : 9Be(d,n)10B partial cross section
+# REACTION        : 4-BE-9(D,N)5-B-10,PAR,SIG
+# File ID         : d-Be9-n-sig-excfun-mon-elvl7.180E+05_prodB10_Hofstee_2001_c1511.005
+#
+# Elvl (eV)       :   7.1800E+05
+#
+# npts            : 1           
+# xmin            :   1.3336E+05
+# xmax            :   1.3336E+05
+# ymin            :   1.1500E-04
+# ymax            :   1.1500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3336E+05  0.0000E+00  1.1500E-04  1.0350E-05
+#---------------------------------------------------

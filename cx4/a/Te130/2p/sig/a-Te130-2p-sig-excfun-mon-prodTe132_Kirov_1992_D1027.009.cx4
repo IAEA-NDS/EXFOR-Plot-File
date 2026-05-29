@@ -1,0 +1,22 @@
+# EXFOR #         : D1027.009  
+# EXFOR Ver.      : 20220825
+# TRANS #         : D137
+# Author          : A.Kirov et al.
+# Reference       : Z.Phys.A 341 (1992) 443
+# DOI             : 10.1007/BF01301388
+# Quantity        : 130Te(a,2p)132Te cross section
+# REACTION        : 52-TE-130(A,2P)52-TE-132,,SIG
+# File ID         : a-Te130-2p-sig-excfun-mon-prodTe132_Kirov_1992_d1027.009
+#
+# npts            : 1           
+# xmin            :   3.6500E+07
+# xmax            :   3.6500E+07
+# ymin            :   1.7000E-05
+# ymax            :   1.7000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6500E+07  2.0000E+05  1.7000E-05  7.0000E-06
+#---------------------------------------------------

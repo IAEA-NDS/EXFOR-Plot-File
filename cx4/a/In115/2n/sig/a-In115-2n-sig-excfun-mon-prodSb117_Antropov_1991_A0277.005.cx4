@@ -1,0 +1,26 @@
+# EXFOR #         : A0277.005  
+# EXFOR Ver.      : 20220418
+# TRANS #         : A100
+# Author          : A.E.Antropov et al.
+# Reference       : Proceedings of 41.Conf.Nucl.Spectroscopy Nucl.Struct.,Minsk 1991 page 330
+# DOI             : N/A
+# Quantity        : 115In(a,2n)117Sb cross section
+# REACTION        : 49-IN-115(A,2N)51-SB-117,,SIG
+# File ID         : a-In115-2n-sig-excfun-mon-prodSb117_Antropov_1991_a0277.005
+#
+# npts            : 5           
+# xmin            :   1.6400E+07
+# xmax            :   2.3000E+07
+# ymin            :   5.6000E-02
+# ymax            :   1.1000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6400E+07  0.0000E+00  5.6000E-02  2.6000E-03
+  1.8000E+07  0.0000E+00  2.2200E-01  1.0000E-02
+  1.9600E+07  0.0000E+00  3.9500E-01  1.8000E-02
+  2.1400E+07  0.0000E+00  7.8000E-01  4.0000E-02
+  2.3000E+07  0.0000E+00  1.1000E+00  5.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : E1377.008  
+# EXFOR Ver.      : 20070909
+# TRANS #         : E047
+# Author          : N.Shinohara et al.
+# Reference       : Phys.Rev.C 34 No.3 (1986) 909
+# DOI             : 10.1103/PhysRevC.34.909
+# Quantity        : 238U(16O,x)245Cf independent production cross section
+# REACTION        : 92-U-238(8-O-16,X)98-CF-245,IND,SIG
+# File ID         : O16-U238-x-sig-excfun-mon-prodCf245_Shinohara_1986_e1377.008
+#
+# npts            : 3           
+# xmin            :   9.4760E+07
+# xmax            :   1.1490E+08
+# ymin            :   6.3100E-08
+# ymax            :   6.2630E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.4760E+07  0.0000E+00  5.6760E-07  3.2530E-07
+  1.0070E+08  0.0000E+00  6.2630E-07  9.9730E-08
+  1.1490E+08  0.0000E+00  6.3100E-08  4.3750E-08
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : C2809.007  
+# EXFOR Ver.      : 20220909
+# TRANS #         : C226
+# Author          : A.Di Pietro et al.
+# Reference       : Phys.Lett.B 832 (2022) 137256
+# DOI             : 10.1016/j.physletb.2022.137256
+# Quantity        : 9Li(a,el)9Li angular differential cross section
+# REACTION        : 3-LI-9(A,EL)3-LI-9,,DA
+# File ID         : a-Li9-el-adxc-angdisc-mon-einc1.630E+07_prodLi9_Di%Pietro_2022_c2809.007
+#
+# Einc (eV)       :   1.6300E+07
+#
+# npts            : 3           
+# xmin            :  164.3000000
+# xmax            :  176.8000000
+# ymin            :   4.3750E-02
+# ymax            :   1.2450E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 176.8000000   0.0000000  1.2450E-01  1.6000E-03
+ 168.7000000   0.0000000  7.9800E-02  1.6000E-03
+ 164.3000000   0.0000000  4.3750E-02  1.2500E-03
+#---------------------------------------------------

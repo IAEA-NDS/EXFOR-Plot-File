@@ -1,0 +1,27 @@
+# EXFOR #         : G0037.003  
+# EXFOR Ver.      : 20140402
+# TRANS #         : G030
+# Author          : L.S.Myers et al.
+# Reference       : Phys.Rev.C 89 (2014) 035202
+# DOI             : 10.1103/PhysRevC.89.035202
+# Quantity        : 12C(g,el)12C angular differential cross section
+# REACTION        : 6-C-12(G,EL)6-C-12,,DA
+# File ID         : g-C12-el-adxl-excfun-mon-angl150_prodC12_Myers_2014_g0037.003
+#
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 4           
+# xmin            :   8.7300E+07
+# xmax            :   1.1290E+08
+# ymin            :   1.6600E-07
+# ymax            :   3.8100E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.7300E+07  0.0000E+00  3.8100E-07  1.1000E-08
+  9.6300E+07  0.0000E+00  3.1200E-07  1.0000E-08
+  1.0470E+08  0.0000E+00  2.6300E-07  8.0000E-09
+  1.1290E+08  0.0000E+00  1.6600E-07  7.0000E-09
+#---------------------------------------------------

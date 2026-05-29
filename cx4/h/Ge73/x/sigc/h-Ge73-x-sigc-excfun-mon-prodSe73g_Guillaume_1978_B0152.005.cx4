@@ -1,0 +1,26 @@
+# EXFOR #         : B0152.005  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : M.Guillaume et al.
+# Reference       : Appl.Radiat.Isot. 29 (1978) 411
+# DOI             : 10.1016/0020-708X(78)90076-5
+# Quantity        : 73Ge(he3,3n)73gSe cumulative production cross section
+# REACTION        : 32-GE-73(HE3,3N)34-SE-73-G,M+,SIG,,,EXP
+# File ID         : h-Ge73-x-sigc-excfun-mon-prodSe73g_Guillaume_1978_b0152.005
+#
+# npts            : 5           
+# xmin            :   3.2500E+07
+# xmax            :   3.6500E+07
+# ymin            :   5.6900E-01
+# ymax            :   1.4980E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2500E+07  0.0000E+00  5.6900E-01  9.1000E-02
+  3.3500E+07  0.0000E+00  7.5600E-01  1.2100E-01
+  3.4500E+07  0.0000E+00  9.8600E-01  1.5800E-01
+  3.5500E+07  0.0000E+00  1.2330E+00  1.9700E-01
+  3.6500E+07  0.0000E+00  1.4980E+00  2.4000E-01
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : R0041.012  
+# EXFOR Ver.      : 20241119
+# TRANS #         : R031
+# Author          : D.F.Crisler et al.
+# Reference       : Phys.Rev.C 5 (1972) 419
+# DOI             : 10.1103/PhysRevC.5.419
+# Quantity        : 64Zn(he3,x)60Cu independent production cross section
+# REACTION        : 30-ZN-64(HE3,X)29-CU-60,,SIG
+# File ID         : h-Zn64-x-sig-excfun-mon-prodCu60_Crisler_1972_r0041.012
+#
+# npts            : 2           
+# xmin            :   3.7000E+07
+# xmax            :   4.2800E+07
+# ymin            :   2.2600E-03
+# ymax            :   1.5500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+07  0.0000E+00  2.2600E-03  6.7000E-04
+  4.2800E+07  0.0000E+00  1.5500E-02  2.0000E-03
+#---------------------------------------------------

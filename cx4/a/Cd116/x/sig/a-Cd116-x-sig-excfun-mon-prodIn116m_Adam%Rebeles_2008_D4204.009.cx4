@@ -1,0 +1,26 @@
+# EXFOR #         : D4204.009  
+# EXFOR Ver.      : 20210929
+# TRANS #         : D132
+# Author          : R.Adam Rebeles et al.
+# Reference       : Nucl.Instrum.Meth.B 266 (2008) 4731
+# DOI             : 10.1016/j.nimb.2008.07.013
+# Quantity        : 116Cd(a,x)116m1In independent production cross section
+# REACTION        : 48-CD-116(A,X)49-IN-116-M1,,SIG
+# File ID         : a-Cd116-x-sig-excfun-mon-prodIn116m_Adam%Rebeles_2008_d4204.009
+#
+# npts            : 5           
+# xmin            :   2.4400E+07
+# xmax            :   3.8200E+07
+# ymin            :   1.0000E-04
+# ymax            :   3.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8200E+07  1.0000E+05  3.9000E-03  4.0000E-04
+  3.5100E+07  3.0000E+05  1.9000E-03  2.0000E-04
+  3.1800E+07  5.0000E+05  4.0000E-04  4.0000E-05
+  2.8300E+07  7.0000E+05  1.0000E-04  2.0000E-05
+  2.4400E+07  1.0000E+06  1.0000E-04  1.0000E-05
+#---------------------------------------------------

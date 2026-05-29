@@ -1,0 +1,22 @@
+# EXFOR #         : A0903.094  
+# EXFOR Ver.      : 20111201
+# TRANS #         : A075
+# Author          : P.Kozma et al.
+# Reference       : Report JINR-E1-89-482, 1989
+# DOI             : N/A
+# Quantity        : 232Th(12C,x)72Ga cumulative production cross section
+# REACTION        : 90-TH-232(6-C-12,X)31-GA-72,CUM,SIG
+# File ID         : C12-Th232-x-sigc-excfun-mon-prodGa72_Kozma_1989_a0903.094
+#
+# npts            : 1           
+# xmin            :   4.3800E+10
+# xmax            :   4.3800E+10
+# ymin            :   7.2000E-03
+# ymax            :   7.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3800E+10  0.0000E+00  7.2000E-03  1.4000E-03
+#---------------------------------------------------

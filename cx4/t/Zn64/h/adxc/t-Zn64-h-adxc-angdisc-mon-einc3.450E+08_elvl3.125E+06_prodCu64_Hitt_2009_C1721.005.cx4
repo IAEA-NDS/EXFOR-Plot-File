@@ -1,0 +1,30 @@
+# EXFOR #         : C1721.005  
+# EXFOR Ver.      : 20090827
+# TRANS #         : C093
+# Author          : G.W.Hitt et al.
+# Reference       : Phys.Rev.C 80 (2009) 014313
+# DOI             : 10.1103/PhysRevC.80.014313
+# Quantity        : 64Zn(t,he3)64Cu partial angular differential cross section
+# REACTION        : 30-ZN-64(T,HE3)29-CU-64,PAR,DA
+# File ID         : t-Zn64-h-adxc-angdisc-mon-einc3.450E+08_elvl3.125E+06_prodCu64_Hitt_2009_c1721.005
+#
+# Einc (eV)       :   3.4500E+08
+# Elvl (eV)       :   3.1250E+06
+# dElvl (eV)      :   1.2500E+05
+#
+# npts            : 5           
+# xmin            :    0.4200000
+# xmax            :    3.7900000
+# ymin            :   5.0000E-04
+# ymax            :   2.4100E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.4200000   0.0000000  2.4100E-03  9.3000E-04
+   1.2600000   0.0000000  1.3900E-03  4.1000E-04
+   2.1100000   0.0000000  7.8000E-04  2.5000E-04
+   2.9500000   0.0000000  6.0000E-04  2.1000E-04
+   3.7900000   0.0000000  5.0000E-04  3.6000E-04
+#---------------------------------------------------

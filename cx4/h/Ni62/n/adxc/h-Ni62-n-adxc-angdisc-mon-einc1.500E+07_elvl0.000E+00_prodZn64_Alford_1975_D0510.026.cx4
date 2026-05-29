@@ -1,0 +1,28 @@
+# EXFOR #         : D0510.026  
+# EXFOR Ver.      : 20080827
+# TRANS #         : D063
+# Author          : W.P.Alford et al.
+# Reference       : Nucl.Phys.A 243 (1975) 269
+# DOI             : 10.1016/0375-9474(75)90248-1
+# Quantity        : 62Ni(he3,n)64Zn partial angular differential cross section
+# REACTION        : 28-NI-62(HE3,N)30-ZN-64,PAR,DA
+# File ID         : h-Ni62-n-adxc-angdisc-mon-einc1.500E+07_elvl0.000E+00_prodZn64_Alford_1975_d0510.026
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   0.0000E+00
+# dElvl (eV)      :   5.0000E+04
+#
+# npts            : 3           
+# xmin            :    0.2457400
+# xmax            :   10.4950000
+# ymin            :   2.6942E-04
+# ymax            :   6.7672E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.2457400   0.0000000  6.7672E-04  0.0000E+00
+   5.4307000   0.0000000  6.2281E-04  0.0000E+00
+  10.4950000   0.0000000  2.6942E-04  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : O2018.003  
+# EXFOR Ver.      : 20120821
+# TRANS #         : O049
+# Author          : E.Hagebo et al.
+# Reference       : Radiochim.Acta 35 (1984) 133
+# DOI             : 10.1524/ract.1984.35.3.133
+# Quantity        : natCu(he3,x) independent production cross section
+# REACTION        : 29-CU-0(HE3,X)ELEM/MASS,IND,SIG
+# File ID         : h-Cu-x-sig-nucdis-mon-einc2.580E+08_Hagebo_1984_o2018.003
+#
+# Einc (eV)       :   2.5800E+08
+#
+# npts            : 5           
+# xmin            : 21044.1     
+# xmax            : 27058.9     
+# ymin            :   2.0000E-04
+# ymax            :   6.0000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     21044.1  1.2100E-03  1.3000E-04
+     21046.9  1.8500E-03  1.6000E-04
+     21048.9  2.0000E-04  1.0000E-05
+     25054.9  3.0600E-02  1.9000E-03
+     27058.9  6.0000E-02  6.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : D4366.007  
+# EXFOR Ver.      : 20170509
+# TRANS #         : D109
+# Author          : A.Ornelas et al.
+# Reference       : Phys.Rev.C 94 (2016) 055807
+# DOI             : 10.1103/PhysRevC.94.055807
+# Quantity        : 64Zn(a,inl)64Zn partial cross section
+# REACTION        : 30-ZN-64(A,INL)30-ZN-64,PAR,SIG
+# File ID         : a-Zn64-inl-sig-lvldis-mon-einc1.200E+07_prodZn64_Ornelas_2016_d4366.007
+#
+# Einc (eV)       :   1.1998E+07
+# dEinc (eV)      :   9.0017E+04
+#
+# npts            : 4           
+# xmin            :   9.9200E+05
+# xmax            :   2.3070E+06
+# ymin            :   3.1000E-03
+# ymax            :   3.3000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9200E+05  0.0000E+00  3.3000E-02  3.0000E-03
+  1.7990E+06  0.0000E+00  3.1000E-03  5.0000E-04
+  1.9100E+06  0.0000E+00  1.0200E-02  5.0000E-04
+  2.3070E+06  0.0000E+00  3.2000E-03  5.0000E-04
+#---------------------------------------------------

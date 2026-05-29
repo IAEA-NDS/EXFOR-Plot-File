@@ -1,0 +1,26 @@
+# EXFOR #         : D6069.008  
+# EXFOR Ver.      : 20091106
+# TRANS #         : D070
+# Author          : Unnati Gupta et al.
+# Reference       : Nucl.Phys.A 811 (2008) 77
+# DOI             : 10.1016/j.nuclphysa.2008.07.013
+# Quantity        : 103Rh(16O,x)115mTe cumulative production cross section
+# REACTION        : 45-RH-103(8-O-16,X)52-TE-115-M,CUM,SIG
+# File ID         : O16-Rh103-x-sigc-excfun-mon-prodTe115m_Unnati%Gupta_2008_d6069.008
+#
+# npts            : 5           
+# xmin            :   5.7800E+07
+# xmax            :   8.2800E+07
+# ymin            :   9.0000E-04
+# ymax            :   5.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.7800E+07  3.5000E+06  9.0000E-04  1.0000E-04
+  6.5800E+07  2.3000E+06  2.3500E-02  2.4000E-03
+  7.0800E+07  3.1000E+06  5.7000E-02  5.7000E-03
+  7.7100E+07  2.6000E+06  4.3400E-02  4.4000E-03
+  8.2800E+07  2.6000E+06  3.6500E-02  3.7000E-03
+#---------------------------------------------------

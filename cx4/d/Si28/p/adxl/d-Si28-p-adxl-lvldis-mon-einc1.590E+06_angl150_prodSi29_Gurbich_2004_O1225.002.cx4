@@ -1,0 +1,26 @@
+# EXFOR #         : O1225.002  
+# EXFOR Ver.      : 20050219
+# TRANS #         : O023
+# Author          : A.F.Gurbich et al.
+# Reference       : Nucl.Instrum.Meth.B 226 (2004) 637
+# DOI             : 10.1016/j.nimb.2004.08.006
+# Quantity        : 28Si(d,p)29Si partial angular differential cross section
+# REACTION        : 14-SI-28(D,P)14-SI-29,PAR,DA
+# File ID         : d-Si28-p-adxl-lvldis-mon-einc1.590E+06_angl150_prodSi29_Gurbich_2004_o1225.002
+#
+# Einc (eV)       :   1.5900E+06
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   1.2730E+06
+# ymin            :   3.7900E-04
+# ymax            :   5.2200E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  5.2200E-04  0.0000E+00
+  1.2730E+06  0.0000E+00  3.7900E-04  0.0000E+00
+#---------------------------------------------------

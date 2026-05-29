@@ -1,0 +1,26 @@
+# EXFOR #         : C2369.009  
+# EXFOR Ver.      : 20181207
+# TRANS #         : C183
+# Author          : G.D.Cole et al.
+# Reference       : Phys.Rev.C 24 (1981) 2038
+# DOI             : 10.1103/PhysRevC.24.2038
+# Quantity        : natAg(12C,x) independent production cross section
+# REACTION        : 47-AG-0(6-C-12,X)ELEM/MASS,,SIG
+# File ID         : C12-Ag-x-sig-nucdis-mon-einc1.850E+10_Cole_1981_c2369.009
+#
+# Einc (eV)       :   1.8500E+10
+#
+# npts            : 3           
+# xmin            : 19042.9     
+# xmax            : 25052.0     
+# ymin            :   4.1200E-03
+# ymax            :   6.5000E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     19042.9  6.5000E-03  2.0000E-03
+     21044.1  4.3600E-03  3.7000E-04
+     25052.0  4.1200E-03  1.6000E-04
+#---------------------------------------------------

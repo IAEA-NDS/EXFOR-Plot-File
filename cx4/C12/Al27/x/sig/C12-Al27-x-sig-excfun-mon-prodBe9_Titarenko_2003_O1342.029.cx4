@@ -1,0 +1,22 @@
+# EXFOR #         : O1342.029  
+# EXFOR Ver.      : 20070516
+# TRANS #         : O028
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Int.Meet.on Nucl.Appl.of Accel.Tech., San Diego 2003 page 59
+# DOI             : N/A
+# Quantity        : 27Al(12C,x)9Be independent production cross section
+# REACTION        : 13-AL-27(6-C-12,X)4-BE-9,IND,SIG
+# File ID         : C12-Al27-x-sig-excfun-mon-prodBe9_Titarenko_2003_o1342.029
+#
+# npts            : 1           
+# xmin            :   2.4000E+09
+# xmax            :   2.4000E+09
+# ymin            :   3.4400E-02
+# ymax            :   3.4400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+09  0.0000E+00  3.4400E-02  2.8000E-03
+#---------------------------------------------------

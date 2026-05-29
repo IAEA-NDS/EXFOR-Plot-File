@@ -1,0 +1,23 @@
+# EXFOR #         : O2216.002  
+# EXFOR Ver.      : 20140707
+# TRANS #         : O053
+# Author          : R.Bimbot et al.
+# Reference       : Compt.Rend.B 273 (1971) 505
+# DOI             : N/A
+# Quantity        : 74Ge(84Kr,5n)153Er cross section
+# REACTION        : 32-GE-74(36-KR-84,5N)68-ER-153,,SIG
+# File ID         : Kr84-Ge74-5n-sig-excfun-mon-prodEr153_Bimbot_1971_o2216.002
+#
+# npts            : 2           
+# xmin            :   3.2300E+08
+# xmax            :   3.5000E+08
+# ymin            :   1.7000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+08  0.0000E+00  2.0000E-02  0.0000E+00
+  3.2300E+08  0.0000E+00  1.7000E-02  0.0000E+00
+#---------------------------------------------------

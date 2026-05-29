@@ -1,0 +1,23 @@
+# EXFOR #         : A0253.013  
+# EXFOR Ver.      : 20250804
+# TRANS #         : A123
+# Author          : A.M.J.Paans et al.
+# Reference       : Appl.Radiat.Isot. 31 (1980) 267
+# DOI             : 10.1016/0020-708X(80)90032-0
+# Quantity        : 75As(a,5n)74mBr cross section
+# REACTION        : 33-AS-75(A,5N)35-BR-74-M,,SIG
+# File ID         : a-As75-5n-sig-excfun-mon-prodBr74m_Paans_1980_a0253.013
+#
+# npts            : 2           
+# xmin            :   6.6570E+07
+# xmax            :   7.1470E+07
+# ymin            :   5.3340E-03
+# ymax            :   2.3650E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6570E+07  0.0000E+00  5.3340E-03  5.8100E-04
+  7.1470E+07  0.0000E+00  2.3650E-02  2.1670E-03
+#---------------------------------------------------

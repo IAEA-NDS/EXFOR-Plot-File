@@ -1,0 +1,24 @@
+# EXFOR #         : A0583.034  
+# EXFOR Ver.      : 20160228
+# TRANS #         : A084
+# Author          : S.N.Kondratyev et al.
+# Reference       : Phys.At.Nucl. 59 (1996) 2041
+# DOI             : N/A
+# Quantity        : 93Nb(he3,x)83Sr cumulative production cross section
+# REACTION        : 41-NB-93(HE3,X)38-SR-83,CUM,SIG
+# File ID         : h-Nb93-x-sigc-excfun-mon-prodSr83_Kondratyev_1996_a0583.034
+#
+# npts            : 3           
+# xmin            :   8.3500E+07
+# xmax            :   9.3000E+07
+# ymin            :   4.0000E-03
+# ymax            :   1.0300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.3000E+07  5.0000E+05  1.0300E-02  2.1000E-03
+  8.8400E+07  5.0000E+05  4.9000E-03  1.7000E-03
+  8.3500E+07  5.0000E+05  4.0000E-03  1.8000E-03
+#---------------------------------------------------

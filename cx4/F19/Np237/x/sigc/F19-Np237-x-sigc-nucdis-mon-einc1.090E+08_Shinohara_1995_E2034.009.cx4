@@ -1,0 +1,29 @@
+# EXFOR #         : E2034.009  
+# EXFOR Ver.      : 20080131
+# TRANS #         : E050
+# Author          : N.Shinohara et al.
+# Reference       : Radiochim.Acta 68 (1995) 21
+# DOI             : 10.1524/ract.1995.68.1.21
+# Quantity        : 237Np(19F,f) cumulative production cross section
+# REACTION        : 93-NP-237(9-F-19,F)ELEM/MASS,CUM,SIG
+# File ID         : F19-Np237-x-sigc-nucdis-mon-einc1.090E+08_Shinohara_1995_e2034.009
+#
+# Einc (eV)       :   1.0900E+08
+#
+# npts            : 6           
+# xmin            : 44105.9     
+# xmax            : 44111.9     
+# ymin            :   2.9000E-04
+# ymax            :   3.2100E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     44105.9  3.2100E-02  5.8000E-03
+     44107.9  1.7400E-02  3.3000E-03
+     44108.9  7.9000E-03  1.6000E-03
+     44109.9  2.5700E-03  8.3000E-04
+     44110.9  7.9000E-04  3.3000E-04
+     44111.9  2.9000E-04  1.0000E-04
+#---------------------------------------------------

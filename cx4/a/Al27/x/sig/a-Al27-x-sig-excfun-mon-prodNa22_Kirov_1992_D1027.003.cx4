@@ -1,0 +1,22 @@
+# EXFOR #         : D1027.003  
+# EXFOR Ver.      : 20220825
+# TRANS #         : D137
+# Author          : A.Kirov et al.
+# Reference       : Z.Phys.A 341 (1992) 443
+# DOI             : 10.1007/BF01301388
+# Quantity        : 27Al(a,x)22Na independent production cross section
+# REACTION        : 13-AL-27(A,X)11-NA-22,,SIG
+# File ID         : a-Al27-x-sig-excfun-mon-prodNa22_Kirov_1992_d1027.003
+#
+# npts            : 1           
+# xmin            :   3.6500E+07
+# xmax            :   3.6500E+07
+# ymin            :   2.8000E-04
+# ymax            :   2.8000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6500E+07  2.0000E+05  2.8000E-04  4.0000E-05
+#---------------------------------------------------

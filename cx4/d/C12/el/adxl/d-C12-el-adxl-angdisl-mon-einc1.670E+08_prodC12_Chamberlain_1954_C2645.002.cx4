@@ -1,0 +1,28 @@
+# EXFOR #         : C2645.002  
+# EXFOR Ver.      : 20210627
+# TRANS #         : C205
+# Author          : O.Chamberlain et al.
+# Reference       : Phys.Rev. 95 (1954) 1104
+# DOI             : 10.1103/PhysRev.95.1104
+# Quantity        : 12C(d,el)12C angular differential cross section
+# REACTION        : 6-C-12(D,EL)6-C-12,,DA
+# File ID         : d-C12-el-adxl-angdisl-mon-einc1.670E+08_prodC12_Chamberlain_1954_c2645.002
+#
+# Einc (eV)       :   1.6700E+08
+#
+# npts            : 5           
+# xmin            :    0.0000000
+# xmax            :  179.4000000
+# ymin            :   3.2360E-02
+# ymax            :   6.3630E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  6.3630E-02  2.6040E-03
+  44.7200000   0.0000000  6.2480E-02  3.1240E-03
+  90.0500000   0.0000000  5.2040E-02  3.0740E-03
+ 135.0000000   0.0000000  3.9650E-02  3.0230E-03
+ 179.4000000   0.0000000  3.2360E-02  2.4790E-03
+#---------------------------------------------------

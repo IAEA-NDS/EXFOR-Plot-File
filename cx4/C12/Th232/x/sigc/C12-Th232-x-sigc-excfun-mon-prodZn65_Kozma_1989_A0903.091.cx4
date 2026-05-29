@@ -1,0 +1,22 @@
+# EXFOR #         : A0903.091  
+# EXFOR Ver.      : 20111201
+# TRANS #         : A075
+# Author          : P.Kozma et al.
+# Reference       : Report JINR-E1-89-482, 1989
+# DOI             : N/A
+# Quantity        : 232Th(12C,x)65Zn cumulative production cross section
+# REACTION        : 90-TH-232(6-C-12,X)30-ZN-65,CUM,SIG
+# File ID         : C12-Th232-x-sigc-excfun-mon-prodZn65_Kozma_1989_a0903.091
+#
+# npts            : 1           
+# xmin            :   4.3800E+10
+# xmax            :   4.3800E+10
+# ymin            :   4.0000E-03
+# ymax            :   4.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3800E+10  0.0000E+00  4.0000E-03  7.0000E-04
+#---------------------------------------------------

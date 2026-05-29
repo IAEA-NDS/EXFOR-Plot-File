@@ -1,0 +1,25 @@
+# EXFOR #         : C1400.002  
+# EXFOR Ver.      : 20230802
+# TRANS #         : C231
+# Author          : O.R.J.Silva
+# Reference       : Progress report UCRL-8678, 1959
+# DOI             : N/A
+# Quantity        : 60Ni(a,x)62Cu independent production cross section
+# REACTION        : 28-NI-60(A,X)29-CU-62,,SIG
+# File ID         : a-Ni60-x-sig-excfun-mon-prodCu62_Silva_1959_c1400.002
+#
+# npts            : 4           
+# xmin            :   2.9800E+07
+# xmax            :   3.2420E+07
+# ymin            :   9.0100E-01
+# ymax            :   9.7900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9800E+07  0.0000E+00  9.7900E-01  9.8000E-02
+  3.0800E+07  0.0000E+00  9.5100E-01  9.0000E-02
+  3.1020E+07  0.0000E+00  9.0100E-01  8.8000E-02
+  3.2420E+07  0.0000E+00  9.3800E-01  8.0000E-02
+#---------------------------------------------------

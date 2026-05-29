@@ -1,0 +1,22 @@
+# EXFOR #         : O2033.002  
+# EXFOR Ver.      : 20120904
+# TRANS #         : O049
+# Author          : M.Cogneau et al.
+# Reference       : Nucl.Phys. 79 (1966) 203
+# DOI             : 10.1016/0029-5582(66)90403-2
+# Quantity        : 52Cr(d,2n)52mMn cross section
+# REACTION        : 24-CR-52(D,2N)25-MN-52-M,,SIG
+# File ID         : d-Cr52-2n-sig-excfun-mon-prodMn52m_Cogneau_1966_o2033.002
+#
+# npts            : 1           
+# xmin            :   1.2000E+07
+# xmax            :   1.2000E+07
+# ymin            :   9.0000E-02
+# ymax            :   9.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+07  0.0000E+00  9.0000E-02  3.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : E2019.004  
+# EXFOR Ver.      : 20250601
+# TRANS #         : E153
+# Author          : Y.K.Kim et al.
+# Reference       : Nucl.Phys.A 578 (1994) 621
+# DOI             : 10.1016/0375-9474(94)90764-1
+# Quantity        : natCu(12C,x) cumulative production cross section
+# REACTION        : 29-CU-0(6-C-12,X)ELEM/MASS,M+,SIG
+# File ID         : C12-Cu-x-sigc-nucdis-mon-einc1.614E+09_Kim_1994_e2019.004
+#
+# Einc (eV)       :   1.6140E+09
+# dEinc (eV)      :   1.2000E+07
+#
+# npts            : 2           
+# xmin            : 21044.0     
+# xmax            : 25052.0     
+# ymin            :   6.3600E-03
+# ymax            :   1.5100E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     21044.0  6.3600E-03  5.1000E-04
+     25052.0  1.5100E-02  1.1000E-03
+#---------------------------------------------------

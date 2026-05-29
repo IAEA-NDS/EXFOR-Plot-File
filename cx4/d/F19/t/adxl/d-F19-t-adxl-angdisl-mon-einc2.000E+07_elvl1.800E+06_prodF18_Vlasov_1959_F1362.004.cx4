@@ -1,0 +1,28 @@
+# EXFOR #         : F1362.004  
+# EXFOR Ver.      : 20181011
+# TRANS #         : F070
+# Author          : N.A.Vlasov et al.
+# Reference       : Zh.Eksp.Teor.Fiz. 37 (1959) 1187
+# DOI             : N/A
+# Quantity        : 19F(d,t)18F partial angular differential cross section
+# REACTION        : 9-F-19(D,T)9-F-18,PAR,DA
+# File ID         : d-F19-t-adxl-angdisl-mon-einc2.000E+07_elvl1.800E+06_prodF18_Vlasov_1959_f1362.004
+#
+# Einc (eV)       :   2.0000E+07
+# Elvl (eV)       :   1.8000E+06
+#
+# npts            : 4           
+# xmin            :    7.8130000
+# xmax            :   14.9560000
+# ymin            :   8.8000E-06
+# ymax            :   2.9350E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.8130000   0.0000000  2.9350E-04  6.8100E-05
+  10.3200000   0.0000000  2.7720E-04  4.6800E-05
+  12.4520000   0.0000000  3.9300E-05  2.1300E-05
+  14.9560000   0.0000000  8.8000E-06  2.5400E-05
+#---------------------------------------------------

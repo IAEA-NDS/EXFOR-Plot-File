@@ -1,0 +1,25 @@
+# EXFOR #         : C3043.003  
+# EXFOR Ver.      : 20250228
+# TRANS #         : C249
+# Author          : C.Lopez Perez
+# Reference       : Nucl.Instrum.Meth.B 558 (2025) 165564
+# DOI             : 10.1016/j.nimb.2024.165564
+# Quantity        : 7Li(he3,d)8Be partial angular differential cross section
+# REACTION        : 3-LI-7(HE3,D)4-BE-8,PAR,DA
+# File ID         : h-Li7-d-adxl-lvldis-mon-einc2.519E+06_angl135_prodBe8_Lopez%Perez_2025_c3043.003
+#
+# Einc (eV)       :   2.5194E+06
+# theta,lab (deg) :  135.0000000
+#
+# npts            : 1           
+# xmin            :   0.0000E+00
+# xmax            :   0.0000E+00
+# ymin            :   9.0000E-04
+# ymax            :   9.0000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  9.0000E-04  8.3700E-05
+#---------------------------------------------------

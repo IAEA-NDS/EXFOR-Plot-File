@@ -1,0 +1,29 @@
+# EXFOR #         : C0983.002  
+# EXFOR Ver.      : 20040212
+# TRANS #         : 0000
+# Author          : N.Keeley et al.
+# Reference       : Phys.Rev.C 67 (2003) 044604
+# DOI             : 10.1103/PhysRevC.67.044604
+# Quantity        : 12C(6Li,d)16O partial angular differential cross section
+# REACTION        : 6-C-12(3-LI-6,D)8-O-16,PAR,DA
+# File ID         : Li6-C12-d-adxl-angdisc-mon-einc3.400E+07_elvl1.035E+07_prodO16_Keeley_2003_c0983.002
+#
+# Einc (eV)       :   3.4000E+07
+# Elvl (eV)       :   1.0350E+07
+#
+# npts            : 5           
+# xmin            :   10.7000000
+# xmax            :   31.8100000
+# ymin            :   3.7200E-04
+# ymax            :   5.5000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.7000000   0.0000000  5.5000E-04  8.0000E-05
+  12.8000000   0.0000000  4.7500E-04  5.0000E-05
+  19.1600000   0.0000000  4.6500E-04  6.5000E-05
+  25.5100000   0.0000000  3.9800E-04  4.3000E-05
+  31.8100000   0.0000000  3.7200E-04  3.1000E-05
+#---------------------------------------------------

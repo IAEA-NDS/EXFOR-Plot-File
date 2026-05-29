@@ -1,0 +1,23 @@
+# EXFOR #         : D4248.002.2
+# EXFOR Ver.      : 20130111
+# TRANS #         : D087
+# Author          : G.G.Kiss et al.
+# Reference       : Nucl.Phys.A 867 (2011) 52
+# DOI             : 10.1016/j.nuclphysa.2011.07.003
+# Quantity        : 169Tm(a,g)173Lu cross section
+# REACTION        : 69-TM-169(A,G)71-LU-173,,SIG
+# File ID         : a-Tm169-g-sig-excfun-mon-prodLu173_Kiss_2011_d4248.002.2
+#
+# npts            : 2           
+# xmin            :   1.3472E+07
+# xmax            :   1.7486E+07
+# ymin            :   1.3100E-06
+# ymax            :   5.8500E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3472E+07  6.6006E+04  1.3100E-06  1.3000E-07
+  1.7486E+07  8.6009E+04  5.8500E-05  4.4000E-06
+#---------------------------------------------------

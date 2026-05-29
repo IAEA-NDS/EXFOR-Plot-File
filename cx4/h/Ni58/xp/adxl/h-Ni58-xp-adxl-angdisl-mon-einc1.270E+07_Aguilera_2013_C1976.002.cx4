@@ -1,0 +1,28 @@
+# EXFOR #         : C1976.002  
+# EXFOR Ver.      : 20130131
+# TRANS #         : C127
+# Author          : E.F.Aguilera et al.
+# Reference       : Phys.Rev.C 87 (2013) 014613
+# DOI             : 10.1103/PhysRevC.87.014613
+# Quantity        : 58Ni(he3,p+x) angular differential cross section
+# REACTION        : 28-NI-58(HE3,X)1-H-1,,DA
+# File ID         : h-Ni58-xp-adxl-angdisl-mon-einc1.270E+07_Aguilera_2013_c1976.002
+#
+# Einc (eV)       :   1.2700E+07
+# dEinc (eV)      :   8.9000E+05
+#
+# npts            : 4           
+# xmin            :  117.8000000
+# xmax            :  162.8000000
+# ymin            :   5.2500E-02
+# ymax            :   5.9900E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 117.8000000   0.0000000  5.2500E-02  6.9000E-03
+ 132.8000000   0.0000000  5.5500E-02  6.6000E-03
+ 147.8000000   0.0000000  5.9900E-02  6.3000E-03
+ 162.8000000   0.0000000  5.8500E-02  9.0000E-03
+#---------------------------------------------------

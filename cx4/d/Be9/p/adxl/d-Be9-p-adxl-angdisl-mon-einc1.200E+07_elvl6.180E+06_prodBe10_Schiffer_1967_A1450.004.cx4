@@ -1,0 +1,25 @@
+# EXFOR #         : A1450.004  
+# EXFOR Ver.      : 20250926
+# TRANS #         : A127
+# Author          : J.P.Schiffer et al.
+# Reference       : Phys.Rev. 164 (1967) 1274
+# DOI             : 10.1103/PhysRev.164.1274
+# Quantity        : 9Be(d,p)10Be partial angular differential cross section
+# REACTION        : 4-BE-9(D,P)4-BE-10,PAR,DA
+# File ID         : d-Be9-p-adxl-angdisl-mon-einc1.200E+07_elvl6.180E+06_prodBe10_Schiffer_1967_a1450.004
+#
+# Einc (eV)       :   1.2000E+07
+# Elvl (eV)       :   6.1800E+06
+#
+# npts            : 1           
+# xmin            :   10.0000000
+# xmax            :   10.0000000
+# ymin            :   3.3000E-04
+# ymax            :   3.3000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.0000000   0.0000000  3.3000E-04  4.9500E-05
+#---------------------------------------------------

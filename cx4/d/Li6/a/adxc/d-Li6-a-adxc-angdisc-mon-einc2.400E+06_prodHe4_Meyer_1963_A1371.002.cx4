@@ -1,0 +1,27 @@
+# EXFOR #         : A1371.002  
+# EXFOR Ver.      : 20250918
+# TRANS #         : A126
+# Author          : V.Meyer et al.
+# Reference       : Helv.Phys.Acta 36 (1963) 465
+# DOI             : N/A
+# Quantity        : 6Li(d,a)4He angular differential cross section
+# REACTION        : 3-LI-6(D,A)2-HE-4,,DA
+# File ID         : d-Li6-a-adxc-angdisc-mon-einc2.400E+06_prodHe4_Meyer_1963_a1371.002
+#
+# Einc (eV)       :   2.4000E+06
+#
+# npts            : 4           
+# xmin            :   15.8000000
+# xmax            :   81.1000000
+# ymin            :   8.4000E-04
+# ymax            :   2.0000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.8000000   0.0000000  2.0000E-03  0.0000E+00
+  36.1000000   0.0000000  1.5300E-03  0.0000E+00
+  69.0000000   0.0000000  9.4000E-04  0.0000E+00
+  81.1000000   0.0000000  8.4000E-04  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : M0571.004  
+# EXFOR Ver.      : 19990315
+# TRANS #         : 0000
+# Author          : R.Nolte et al.
+# Reference       : Phys.Rev.C 40 (1989) 1175
+# DOI             : 10.1103/PhysRevC.40.1175
+# Quantity        : 238U(g,el)238U angular differential cross section
+# REACTION        : 92-U-238(G,EL)92-U-238,,DA
+# File ID         : g-U238-el-adxl-angdisl-mon-einc1.764E+07_prodU238_Nolte_1989_m0571.004
+#
+# Einc (eV)       :   1.7640E+07
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   3.2000E-04
+# ymax            :   3.2000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  3.2000E-04  4.0000E-05
+#---------------------------------------------------

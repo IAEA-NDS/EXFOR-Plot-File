@@ -1,0 +1,29 @@
+# EXFOR #         : C0884.222  
+# EXFOR Ver.      : 20130117
+# TRANS #         : C129
+# Author          : J.R.Wu et al.
+# Reference       : Phys.Rev.C 19 (1979) 659
+# DOI             : 10.1103/PhysRevC.19.659
+# Quantity        : 232Th(a,d+x) double differential cross section
+# REACTION        : 90-TH-232(A,X)1-H-2,,DA/DE
+# File ID         : a-Th232-xd-ddxl-enedisl-mon-einc1.400E+08_angl120_Wu_1979_c0884.222
+#
+# Einc (eV)       :   1.4000E+08
+# theta,lab (deg) :  120.0000000
+#
+# npts            : 5           
+# xmin            :   1.3580E+07
+# xmax            :   7.5400E+07
+# ymin            :   9.9150E-13
+# ymax            :   2.2580E-10
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.3580E+07  0.0000E+00  1.2060E-10  0.0000E+00
+  1.7430E+07  0.0000E+00  2.2580E-10  0.0000E+00
+  3.0930E+07  0.0000E+00  9.7940E-11  0.0000E+00
+  3.7130E+07  0.0000E+00  4.7100E-11  0.0000E+00
+  7.5400E+07  0.0000E+00  9.9150E-13  0.0000E+00
+#---------------------------------------------------

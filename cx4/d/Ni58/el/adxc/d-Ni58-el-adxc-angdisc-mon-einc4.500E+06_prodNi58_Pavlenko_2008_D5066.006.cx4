@@ -1,0 +1,30 @@
+# EXFOR #         : D5066.006  
+# EXFOR Ver.      : 20090202
+# TRANS #         : D065
+# Author          : Yu.N.Pavlenko et al.
+# Reference       : Abstract of 2 Int.Conf.Cur.Prob.in Nucl.Phys.Atom.Ene.,Kyiv,2008 page 179
+# DOI             : N/A
+# Quantity        : 58Ni(d,el)58Ni angular differential cross section
+# REACTION        : 28-NI-58(D,EL)28-NI-58,,DA,,RTH
+# File ID         : d-Ni58-el-adxc-angdisc-mon-einc4.500E+06_prodNi58_Pavlenko_2008_d5066.006
+#
+# Einc (eV)       :   4.5000E+06
+#
+# npts            : 7           
+# xmin            :   40.0000000
+# xmax            :  150.0000000
+# ymin            :   4.4064E-02
+# ymax            :   3.9810E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.0000000   0.0000000  3.9810E+00  9.4224E-02
+  45.0000000   0.0000000  2.5175E+00  5.2604E-02
+  65.0000000   0.0000000  6.3236E-01  1.2892E-02
+ 120.0000000   0.0000000  8.0990E-02  1.8146E-03
+ 130.0000000   0.0000000  6.9832E-02  1.5129E-03
+ 140.0000000   0.0000000  5.7806E-02  1.4469E-03
+ 150.0000000   0.0000000  4.4064E-02  1.2960E-03
+#---------------------------------------------------

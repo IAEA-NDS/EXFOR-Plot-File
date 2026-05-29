@@ -1,0 +1,22 @@
+# EXFOR #         : O2042.003.2
+# EXFOR Ver.      : 20120918
+# TRANS #         : O049
+# Author          : S.Bjoernholm et al.
+# Reference       : Nucl.Phys.A 95 (1967) 513
+# DOI             : 10.1016/0375-9474(67)90846-9
+# Quantity        : 240Pu(d,2n)240lAm cross section
+# REACTION        : 94-PU-240(D,2N)95-AM-240-L,,SIG
+# File ID         : d-Pu240-2n-sig-excfun-mon-prodAm240l_Bjoernholm_1967_o2042.003.2
+#
+# npts            : 1           
+# xmin            :   1.2100E+07
+# xmax            :   1.2100E+07
+# ymin            :   3.6000E-06
+# ymax            :   3.6000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2100E+07  0.0000E+00  3.6000E-06  1.5000E-06
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : O1110.003  
+# EXFOR Ver.      : 20040401
+# TRANS #         : 0000
+# Author          : M.Siemaszko et al.
+# Reference       : J.Phys.G 20 (1994) 1789
+# DOI             : 10.1088/0954-3899/20/11/008
+# Quantity        : 29Si(a,inl)29Si partial angular differential cross section
+# REACTION        : 14-SI-29(A,INL)14-SI-29,PAR,DA
+# File ID         : a-Si29-inl-adxl-lvldis-mon-einc2.660E+07_angc79_prodSi29_Siemaszko_1994_o1110.003
+#
+# Einc (eV)       :   2.6600E+07
+# dEinc (eV)      :   2.0000E+04
+# theta,cm (deg)  :   79.0000000
+#
+# npts            : 1           
+# xmin            :   1.2700E+06
+# xmax            :   1.2700E+06
+# ymin            :   3.3000E-04
+# ymax            :   3.3000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.2700E+06  0.0000E+00  3.3000E-04  1.3200E-04
+#---------------------------------------------------

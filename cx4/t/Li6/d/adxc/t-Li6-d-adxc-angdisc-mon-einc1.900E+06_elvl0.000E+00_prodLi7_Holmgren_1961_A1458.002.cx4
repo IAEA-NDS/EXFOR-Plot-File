@@ -1,0 +1,31 @@
+# EXFOR #         : A1458.002  
+# EXFOR Ver.      : 20210321
+# TRANS #         : A097
+# Author          : H.D.Holmgren et al.
+# Reference       : Proceedings of Rutherford Conf., Manchester 1961 page 531
+# DOI             : N/A
+# Quantity        : 6Li(t,d)7Li partial angular differential cross section
+# REACTION        : 3-LI-6(T,D)3-LI-7,PAR,DA
+# File ID         : t-Li6-d-adxc-angdisc-mon-einc1.900E+06_elvl0.000E+00_prodLi7_Holmgren_1961_a1458.002
+#
+# Einc (eV)       :   1.9000E+06
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 7           
+# xmin            :   18.8000000
+# xmax            :  121.7000000
+# ymin            :   1.0110E-02
+# ymax            :   2.9250E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  18.8000000   0.0000000  1.9310E-02  0.0000E+00
+  38.0000000   0.0000000  2.9250E-02  0.0000E+00
+  56.9000000   0.0000000  1.8400E-02  0.0000E+00
+  74.6000000   0.0000000  1.0110E-02  0.0000E+00
+  91.7000000   0.0000000  1.1640E-02  0.0000E+00
+ 105.7000000   0.0000000  1.2890E-02  0.0000E+00
+ 121.7000000   0.0000000  1.3880E-02  0.0000E+00
+#---------------------------------------------------

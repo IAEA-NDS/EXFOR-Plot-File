@@ -1,0 +1,27 @@
+# EXFOR #         : O2169.002  
+# EXFOR Ver.      : 20131010
+# TRANS #         : O051
+# Author          : T.Al Kalanee et al.
+# Reference       : Phys.Rev.C 88 (2013) 034301
+# DOI             : 10.1103/PhysRevC.88.034301
+# Quantity        : 8He(d,p)9He partial angular differential cross section
+# REACTION        : 2-HE-8(D,P)2-HE-9,PAR,DA
+# File ID         : d-He8-p-adxc-angdisc-mon-einc3.080E+07_elvl0.000E+00_prodHe9_Al%Kalanee_2013_o2169.002
+#
+# Einc (eV)       :   3.0800E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :    4.8600000
+# xmax            :   12.9000000
+# ymin            :   1.9450E-04
+# ymax            :   1.8550E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.8600000   1.9970000  1.8550E-03  6.9760E-04
+   8.7220000   2.2690000  6.8100E-04  2.7530E-04
+  12.9000000   2.1960000  1.9450E-04  1.5070E-04
+#---------------------------------------------------

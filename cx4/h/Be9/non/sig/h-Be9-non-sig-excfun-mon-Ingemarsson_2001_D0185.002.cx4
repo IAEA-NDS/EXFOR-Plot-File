@@ -1,0 +1,24 @@
+# EXFOR #         : D0185.002  
+# EXFOR Ver.      : 20221007
+# TRANS #         : D138
+# Author          : A.Ingemarsson et al.
+# Reference       : Nucl.Phys.A 696 (2001) 3
+# DOI             : 10.1016/S0375-9474(01)01116-2
+# Quantity        : 9Be(he3,non) cross section
+# REACTION        : 4-BE-9(HE3,NON),,SIG
+# File ID         : h-Be9-non-sig-excfun-mon-Ingemarsson_2001_d0185.002
+#
+# npts            : 3           
+# xmin            :   9.6400E+07
+# xmax            :   1.6730E+08
+# ymin            :   6.2500E-01
+# ymax            :   8.0500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.6400E+07  7.0000E+05  8.0500E-01  3.0000E-02
+  1.3780E+08  1.5000E+06  6.7000E-01  3.0000E-02
+  1.6730E+08  1.5000E+06  6.2500E-01  3.0000E-02
+#---------------------------------------------------

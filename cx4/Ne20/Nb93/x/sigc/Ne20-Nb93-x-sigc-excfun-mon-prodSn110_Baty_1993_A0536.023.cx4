@@ -1,0 +1,22 @@
+# EXFOR #         : A0536.023  
+# EXFOR Ver.      : 20190626
+# TRANS #         : A091
+# Author          : V.G.Baty et al.
+# Reference       : Proceedings of 43.Int.Conf.Nucl.Spectrosc.Nucl.Struct.,Dubna 1993 page 283
+# DOI             : N/A
+# Quantity        : 93Nb(20Ne,x)110Sn cumulative production cross section
+# REACTION        : 41-NB-93(10-NE-20,X)50-SN-110,CUM,SIG
+# File ID         : Ne20-Nb93-x-sigc-excfun-mon-prodSn110_Baty_1993_a0536.023
+#
+# npts            : 1           
+# xmin            :   1.7000E+08
+# xmax            :   1.7000E+08
+# ymin            :   1.0400E-01
+# ymax            :   1.0400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7000E+08  0.0000E+00  1.0400E-01  7.0000E-03
+#---------------------------------------------------

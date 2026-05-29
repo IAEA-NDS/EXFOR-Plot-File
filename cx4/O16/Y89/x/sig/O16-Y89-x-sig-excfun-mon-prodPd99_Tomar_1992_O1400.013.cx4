@@ -1,0 +1,23 @@
+# EXFOR #         : O1400.013  
+# EXFOR Ver.      : 20201021
+# TRANS #         : O081
+# Author          : B.S.Tomar et al.
+# Reference       : Z.Phys.A 343 (1992) 223
+# DOI             : 10.1007/BF01291827
+# Quantity        : 89Y(16O,x)99Pd independent production cross section
+# REACTION        : 39-Y-89(8-O-16,X)46-PD-99,,SIG
+# File ID         : O16-Y89-x-sig-excfun-mon-prodPd99_Tomar_1992_o1400.013
+#
+# npts            : 2           
+# xmin            :   6.3460E+07
+# xmax            :   7.3620E+07
+# ymin            :   9.6900E-03
+# ymax            :   2.5300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.3460E+07  0.0000E+00  9.6900E-03  0.0000E+00
+  7.3620E+07  0.0000E+00  2.5300E-02  0.0000E+00
+#---------------------------------------------------

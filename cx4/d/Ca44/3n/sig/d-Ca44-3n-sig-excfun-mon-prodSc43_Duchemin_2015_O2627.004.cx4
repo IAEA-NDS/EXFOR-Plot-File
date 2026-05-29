@@ -1,0 +1,23 @@
+# EXFOR #         : O2627.004  
+# EXFOR Ver.      : 20240830
+# TRANS #         : O100
+# Author          : C.Duchemin et al.
+# Reference       : Phys.Med.Biol. 60 (2015) 6847
+# DOI             : 10.1088/0031-9155/60/17/6847
+# Quantity        : 44Ca(d,3n)43Sc cross section
+# REACTION        : 20-CA-44(D,3N)21-SC-43,,SIG
+# File ID         : d-Ca44-3n-sig-excfun-mon-prodSc43_Duchemin_2015_o2627.004
+#
+# npts            : 2           
+# xmin            :   2.1660E+07
+# xmax            :   3.3330E+07
+# ymin            :   4.3440E-02
+# ymax            :   8.0250E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3330E+07  2.8000E+05  8.0250E-02  2.5980E-02
+  2.1660E+07  6.0000E+05  4.3440E-02  1.5490E-02
+#---------------------------------------------------

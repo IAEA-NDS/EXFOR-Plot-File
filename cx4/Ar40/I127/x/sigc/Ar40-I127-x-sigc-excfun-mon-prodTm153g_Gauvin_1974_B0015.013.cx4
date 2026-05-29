@@ -1,0 +1,24 @@
+# EXFOR #         : B0015.013  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : H.Gauvin et al.
+# Reference       : Nucl.Phys.A 223 (1974) 103
+# DOI             : 10.1016/0375-9474(74)90279-6
+# Quantity        : 127I(40Ar,x)153gTm cumulative production cross section
+# REACTION        : 53-I-127(18-AR-40,X)69-TM-153-G,(CUM),SIG,,,EXP
+# File ID         : Ar40-I127-x-sigc-excfun-mon-prodTm153g_Gauvin_1974_b0015.013
+#
+# npts            : 3           
+# xmin            :   2.7000E+08
+# xmax            :   2.9700E+08
+# ymin            :   1.9200E-03
+# ymax            :   2.3600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7000E+08  0.0000E+00  1.9200E-03  0.0000E+00
+  2.8000E+08  0.0000E+00  9.6100E-03  0.0000E+00
+  2.9700E+08  0.0000E+00  2.3600E-02  0.0000E+00
+#---------------------------------------------------

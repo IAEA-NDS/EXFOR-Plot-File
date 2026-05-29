@@ -1,0 +1,27 @@
+# EXFOR #         : E2239.020  
+# EXFOR Ver.      : 20160520
+# TRANS #         : E103
+# Author          : T.Yamazaki et al.
+# Reference       : J.Phys.Soc.Jpn. 18 (1963) 620
+# DOI             : 10.1143/JPSJ.18.620
+# Quantity        : 24Mg(a,p)27Al partial cross section
+# REACTION        : 12-MG-24(A,P)13-AL-27,PAR,SIG
+# File ID         : a-Mg24-p-sig-lvldis-mon-einc2.240E+07_prodAl27_Yamazaki_1963_e2239.020
+#
+# Einc (eV)       :   2.2400E+07
+#
+# npts            : 4           
+# xmin            :   0.0000E+00
+# xmax            :   2.8650E+06
+# ymin            :   4.4000E-04
+# ymax            :   1.6300E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  4.9000E-04  0.0000E+00
+  9.2500E+05  8.5000E+04  5.4000E-04  0.0000E+00
+  2.2100E+06  0.0000E+00  4.4000E-04  0.0000E+00
+  2.8650E+06  1.3500E+05  1.6300E-03  0.0000E+00
+#---------------------------------------------------

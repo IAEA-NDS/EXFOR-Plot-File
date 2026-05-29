@@ -1,0 +1,25 @@
+# EXFOR #         : C0335.017.1
+# EXFOR Ver.      : 20160709
+# TRANS #         : C159
+# Author          : R.G.Korteling et al.
+# Reference       : Phys.Rev. 136 (1964) B425
+# DOI             : 10.1103/PhysRev.136.B425
+# Quantity        : 93Nb(a,x)89gZr cumulative production cross section
+# REACTION        : 41-NB-93(A,X)40-ZR-89-G,M+,SIG
+# File ID         : a-Nb93-x-sigc-excfun-mon-prodZr89g_Korteling_1964_c0335.017.1
+#
+# npts            : 4           
+# xmin            :   3.2000E+08
+# xmax            :   8.8000E+08
+# ymin            :   6.3100E-02
+# ymax            :   1.1100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2000E+08  1.0000E+07  1.1100E-01  2.2200E-02
+  5.0000E+08  1.0000E+07  8.1400E-02  1.6280E-02
+  7.2000E+08  1.0000E+07  7.3900E-02  1.4780E-02
+  8.8000E+08  1.0000E+07  6.3100E-02  1.2620E-02
+#---------------------------------------------------

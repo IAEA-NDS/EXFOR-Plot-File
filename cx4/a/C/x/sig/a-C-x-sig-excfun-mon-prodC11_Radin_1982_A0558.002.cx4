@@ -1,0 +1,25 @@
+# EXFOR #         : A0558.002  
+# EXFOR Ver.      : 20040213
+# TRANS #         : 0000
+# Author          : J.R.Radin et al.
+# Reference       : Phys.Rev.C 26 (1982) 2565
+# DOI             : 10.1103/PhysRevC.26.2565
+# Quantity        : natC(a,x)11C independent production cross section
+# REACTION        : 6-C-0(A,X)6-C-11,,SIG
+# File ID         : a-C-x-sig-excfun-mon-prodC11_Radin_1982_a0558.002
+#
+# npts            : 4           
+# xmin            :   6.4000E+08
+# xmax            :   2.8000E+09
+# ymin            :   4.2000E-02
+# ymax            :   5.5600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.4000E+08  0.0000E+00  5.5600E-02  2.2000E-03
+  1.2000E+09  0.0000E+00  4.9200E-02  1.9000E-03
+  2.0000E+09  0.0000E+00  4.4100E-02  1.8000E-03
+  2.8000E+09  0.0000E+00  4.2000E-02  1.7000E-03
+#---------------------------------------------------

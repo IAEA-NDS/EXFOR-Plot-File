@@ -1,0 +1,30 @@
+# EXFOR #         : A1055.004  
+# EXFOR Ver.      : 20210316
+# TRANS #         : A097
+# Author          : U.Abbondanno et al.
+# Reference       : Nuovo Cim.A 29 (1975) 187
+# DOI             : 10.1007/BF02729752
+# Quantity        : 3H(he3,n)5Li partial angular differential cross section
+# REACTION        : 1-H-3(HE3,N)3-LI-5,PAR,DA
+# File ID         : h-H3-n-adxc-angdisc-mon-einc5.500E+06_elvl1.021E+07_prodLi5_Abbondanno_1975_a1055.004
+#
+# Einc (eV)       :   5.5000E+06
+# Elvl (eV)       :   1.0210E+07
+# dElvl (eV)      :   2.8000E+05
+#
+# npts            : 5           
+# xmin            :    0.7000000
+# xmax            :  107.4000000
+# ymin            :   5.4000E-05
+# ymax            :   3.1600E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.7000000   2.0000000  2.8500E-04  4.0000E-06
+  29.2000000   2.0000000  3.1600E-04  2.6000E-05
+  57.0000000   2.0000000  2.8800E-04  3.0000E-05
+  83.5000000   2.0000000  2.3800E-04  2.2000E-05
+ 107.4000000   2.0000000  5.4000E-05  2.6000E-05
+#---------------------------------------------------

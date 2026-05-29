@@ -1,0 +1,28 @@
+# EXFOR #         : M0584.003  
+# EXFOR Ver.      : 20190625
+# TRANS #         : M101
+# Author          : E.Hayward et al.
+# Reference       : Nucl.Phys.A 414 (1984) 333
+# DOI             : 10.1016/0375-9474(84)90606-7
+# Quantity        : natPb(g,el)natPb angular differential cross section
+# REACTION        : 82-PB-0(G,EL)82-PB-0,,DA,,BRS
+# File ID         : g-Pb-el-adxl-excfun-brs-angl115_prodPb_Hayward_1984_m0584.003
+#
+# theta,lab (deg) :  115.0000000
+#
+# npts            : 5           
+# xmin            :   2.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   2.7200E-07
+# ymax            :   2.1400E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.0000E+08  2.0000E+07  5.6800E-07  4.9800E-07
+  2.5000E+08  2.5000E+07  8.3400E-07  4.5000E-07
+  3.0000E+08  3.0000E+07  2.1400E-06  1.8800E-06
+  3.5000E+08  3.5000E+07  1.9400E-06  8.4600E-07
+  4.0000E+08  4.0000E+07  2.7200E-07  5.0400E-07
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : A0594.002  
+# EXFOR Ver.      : 20120409
+# TRANS #         : A078
+# Author          : H.Bruchertseifer et al.
+# Reference       : Progress report JINR-P7-80-666, 1980
+# DOI             : N/A
+# Quantity        : 176Lu(22Ne,x)191Au independent production cross section
+# REACTION        : 71-LU-176(10-NE-22,X)79-AU-191,,SIG
+# File ID         : Ne22-Lu176-x-sig-excfun-mon-prodAu191_Bruchertseifer_1980_a0594.002
+#
+# npts            : 5           
+# xmin            :   1.0500E+08
+# xmax            :   1.7250E+08
+# ymin            :   2.1000E-03
+# ymax            :   2.1500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0500E+08  0.0000E+00  1.7300E-01  1.2110E-02
+  1.2300E+08  0.0000E+00  2.1500E-01  2.1500E-02
+  1.3950E+08  0.0000E+00  1.4200E-01  1.1360E-02
+  1.5590E+08  0.0000E+00  3.7000E-02  4.0700E-03
+  1.7250E+08  0.0000E+00  2.1000E-03  2.7300E-04
+#---------------------------------------------------

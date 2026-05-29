@@ -1,0 +1,24 @@
+# EXFOR #         : A1226.003  
+# EXFOR Ver.      : 20250831
+# TRANS #         : A124
+# Author          : D.B.Smith et al.
+# Reference       : Phys.Rev. 129 (1963) 785
+# DOI             : 10.1103/PhysRev.129.785
+# Quantity        : 3He(t,a+x) angular differential cross section
+# REACTION        : 2-HE-3(T,X)2-HE-4,,DA
+# File ID         : t-He3-xa-adxl-angdisl-mon-einc1.900E+06_Smith_1963_a1226.003
+#
+# Einc (eV)       :   1.9000E+06
+#
+# npts            : 1           
+# xmin            :   30.0000000
+# xmax            :   30.0000000
+# ymin            :   9.6900E-03
+# ymax            :   9.6900E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  9.6900E-03  7.6551E-04
+#---------------------------------------------------

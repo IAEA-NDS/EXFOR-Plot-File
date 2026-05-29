@@ -1,0 +1,25 @@
+# EXFOR #         : M0424.002  
+# EXFOR Ver.      : 20130621
+# TRANS #         : M067
+# Author          : D.J.S.Findlay et al.
+# Reference       : Nucl.Phys.A 279 (1977) 385
+# DOI             : 10.1016/0375-9474(77)90574-7
+# Quantity        : 16O(g,p)15N partial angular differential cross section
+# REACTION        : 8-O-16(G,P)7-N-15,PAR,DA,,BRS
+# File ID         : g-O16-p-adxl-angdisl-brs-einc1.050E+08_elvl0.000E+00_prodN15_Findlay_1977_m0424.002
+#
+# Einc (eV)       :   1.0500E+08
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   45.0000000
+# xmax            :   45.0000000
+# ymin            :   1.1200E-06
+# ymax            :   1.1200E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  45.0000000   0.0000000  1.1200E-06  1.7000E-07
+#---------------------------------------------------

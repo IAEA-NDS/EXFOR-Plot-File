@@ -1,0 +1,25 @@
+# EXFOR #         : D4306.014  
+# EXFOR Ver.      : 20220429
+# TRANS #         : D137
+# Author          : F.Tarkanyi et al.
+# Reference       : Nucl.Instrum.Meth.B 325 (2014) 15
+# DOI             : 10.1016/j.nimb.2014.01.024
+# Quantity        : natNd(d,x)142Pr independent production cross section
+# REACTION        : 60-ND-0(D,X)59-PR-142,,SIG
+# File ID         : d-Nd-x-sig-excfun-mon-prodPr142_Tarkanyi_2014_d4306.014
+#
+# npts            : 4           
+# xmin            :   3.0000E+07
+# xmax            :   4.9400E+07
+# ymin            :   2.9000E-03
+# ymax            :   4.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9400E+07  3.0000E+05  3.8000E-03  1.0000E-03
+  4.1400E+07  5.0000E+05  3.0000E-03  1.0000E-03
+  3.8600E+07  5.0000E+05  4.1000E-03  1.0000E-03
+  3.0000E+07  7.0000E+05  2.9000E-03  8.0000E-04
+#---------------------------------------------------

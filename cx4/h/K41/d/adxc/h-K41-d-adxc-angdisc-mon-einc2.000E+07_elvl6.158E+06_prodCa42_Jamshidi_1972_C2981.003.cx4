@@ -1,0 +1,29 @@
+# EXFOR #         : C2981.003  
+# EXFOR Ver.      : 20240723
+# TRANS #         : C240
+# Author          : A.Jamshidi et al.
+# Reference       : Phys.Rev.C 6 (1972) 1411
+# DOI             : 10.1103/PhysRevC.6.1411
+# Quantity        : 41K(he3,d)42Ca partial angular differential cross section
+# REACTION        : 19-K-41(HE3,D)20-CA-42,PAR,DA
+# File ID         : h-K41-d-adxc-angdisc-mon-einc2.000E+07_elvl6.158E+06_prodCa42_Jamshidi_1972_c2981.003
+#
+# Einc (eV)       :   2.0000E+07
+# Elvl (eV)       :   6.1580E+06
+# dElvl (eV)      :   5.0000E+03
+#
+# npts            : 4           
+# xmin            :   10.8250000
+# xmax            :   47.5670000
+# ymin            :   7.3140E-06
+# ymax            :   1.3470E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.8250000   0.0000000  1.3470E-04  1.3110E-05
+  21.3310000   0.0000000  4.2840E-05  4.1660E-06
+  31.7120000   0.0000000  1.7490E-05  2.1050E-06
+  47.5670000   0.0000000  7.3140E-06  8.8080E-07
+#---------------------------------------------------

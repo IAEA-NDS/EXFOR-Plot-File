@@ -1,0 +1,22 @@
+# EXFOR #         : O0072.029  
+# EXFOR Ver.      : 20151122
+# TRANS #         : O056
+# Author          : G.R.Choppin et al.
+# Reference       : J.Inorg.Nucl.Chem. 33 (1971) 1535
+# DOI             : 10.1016/0022-1902(71)80587-0
+# Quantity        : 232Th(d,f)144Ce cumulative production cross section
+# REACTION        : 90-TH-232(D,F)58-CE-144,CUM,SIG
+# File ID         : d-Th232-x-sigc-excfun-mon-prodCe144_Choppin_1971_o0072.029
+#
+# npts            : 1           
+# xmin            :   1.1500E+07
+# xmax            :   1.1500E+07
+# ymin            :   5.3300E-03
+# ymax            :   5.3300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+07  0.0000E+00  5.3300E-03  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : M0684.004  
+# EXFOR Ver.      : 20060324
+# TRANS #         : M039
+# Author          : I.Akkurt et al.
+# Reference       : Chin.J.Phys. 40 (2002) 277
+# DOI             : N/A
+# Quantity        : 16O(g,n)15O partial angular differential cross section
+# REACTION        : 8-O-16(G,N)8-O-15,PAR,DA
+# File ID         : g-O16-n-adxc-angdisc-mon-einc6.000E+07_elvl6.176E+06_prodO15_Akkurt_2002_m0684.004
+#
+# Einc (eV)       :   6.0000E+07
+# dEinc (eV)      :   3.0000E+06
+# Elvl (eV)       :   6.1760E+06
+#
+# npts            : 2           
+# xmin            :   45.0000000
+# xmax            :  105.0000000
+# ymin            :   2.0400E-06
+# ymax            :   1.0630E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  45.0000000   0.0000000  1.0630E-05  3.1900E-06
+ 105.0000000   0.0000000  2.0400E-06  1.0900E-06
+#---------------------------------------------------

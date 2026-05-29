@@ -1,0 +1,29 @@
+# EXFOR #         : C2411.006  
+# EXFOR Ver.      : 20201124
+# TRANS #         : C200
+# Author          : R.Titus et al.
+# Reference       : Phys.Rev.C 100 (2019) 045805
+# DOI             : 10.1103/PhysRevC.100.045805
+# Quantity        : 86Kr(t,he3)86Br partial gamma angular differential cross section
+# REACTION        : 36-KR-86(T,HE3)35-BR-86,PAR,DA,G
+# File ID         : t-Kr86-h-adxgc-angdisc-mon-einc3.450E+08_eoutl1.427E+06_prodBr86_Titus_2019_c2411.006
+#
+# Einc (eV)       :   3.4500E+08
+# dEinc (eV)      :   3.3000E+06
+# Eout,lab (eV)   :   1.4270E+06
+#
+# npts            : 4           
+# xmin            :    0.5000000
+# xmax            :    3.5000000
+# ymin            :   9.7000E-05
+# ymax            :   5.0800E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   
+#  deg         deg        
+#---------------------------------------------------
+   0.5000000   0.0000000  2.4100E-04  1.8300E-04
+   1.5000000   0.0000000  5.0800E-04  2.1300E-04
+   2.5000000   0.0000000  3.1700E-04  1.3500E-04
+   3.5000000   0.0000000  9.7000E-05  6.1000E-05
+#---------------------------------------------------

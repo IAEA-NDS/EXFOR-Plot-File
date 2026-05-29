@@ -1,0 +1,22 @@
+# EXFOR #         : B0013.003  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : J.Banaigs et al.
+# Reference       : Nucl.Intrum.Meth. 95 (1971) 307
+# DOI             : 10.1016/0029-554X(71)90382-X
+# Quantity        : 27Al(d,x)24Na independent production cross section
+# REACTION        : 13-AL-27(D,X)11-NA-24,,SIG,,,EXP
+# File ID         : d-Al27-x-sig-excfun-mon-prodNa24_Banaigs_1971_b0013.003
+#
+# npts            : 1           
+# xmin            :   2.3300E+09
+# xmax            :   2.3300E+09
+# ymin            :   1.5250E-02
+# ymax            :   1.5250E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3300E+09  0.0000E+00  1.5250E-02  1.5000E-03
+#---------------------------------------------------

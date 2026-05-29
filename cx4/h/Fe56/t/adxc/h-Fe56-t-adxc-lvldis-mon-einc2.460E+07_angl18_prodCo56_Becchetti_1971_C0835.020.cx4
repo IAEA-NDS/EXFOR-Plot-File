@@ -1,0 +1,27 @@
+# EXFOR #         : C0835.020  
+# EXFOR Ver.      : 20010831
+# TRANS #         : 0000
+# Author          : F.D.Becchetti et al.
+# Reference       : Nucl.Phys.A 168 (1971) 151
+# DOI             : 10.1016/0375-9474(71)90656-7
+# Quantity        : 56Fe(he3,t)56Co partial angular differential cross section
+# REACTION        : 26-FE-56(HE3,T)27-CO-56,PAR,DA
+# File ID         : h-Fe56-t-adxc-lvldis-mon-einc2.460E+07_angl18_prodCo56_Becchetti_1971_c0835.020
+#
+# Einc (eV)       :   2.4600E+07
+# dEinc (eV)      :   5.0000E+03
+# theta,lab (deg) :   18.0000000
+#
+# npts            : 2           
+# xmin            :   3.5220E+06
+# xmax            :   3.5920E+06
+# ymin            :   5.5000E-05
+# ymax            :   1.1500E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.5220E+06  9.0000E+03  5.5000E-05  0.0000E+00
+  3.5920E+06  9.0000E+03  1.1500E-04  0.0000E+00
+#---------------------------------------------------

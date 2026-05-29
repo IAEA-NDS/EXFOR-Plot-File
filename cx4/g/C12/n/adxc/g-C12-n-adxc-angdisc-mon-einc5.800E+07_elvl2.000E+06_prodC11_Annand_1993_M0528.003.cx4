@@ -1,0 +1,30 @@
+# EXFOR #         : M0528.003  
+# EXFOR Ver.      : 20160209
+# TRANS #         : M082
+# Author          : J.R.M.Annand et al.
+# Reference       : Phys.Rev.Lett. 71 (1993) 2703
+# DOI             : 10.1103/PhysRevLett.71.2703
+# Quantity        : 12C(g,n)11C partial angular differential cross section
+# REACTION        : 6-C-12(G,N)6-C-11,PAR,DA
+# File ID         : g-C12-n-adxc-angdisc-mon-einc5.800E+07_elvl2.000E+06_prodC11_Annand_1993_m0528.003
+#
+# Einc (eV)       :   5.8000E+07
+# dEinc (eV)      :   3.0000E+05
+# Elvl (eV)       :   2.0000E+06
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  116.0000000
+# ymin            :   1.6700E-06
+# ymax            :   1.1440E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  8.4800E-06  1.6700E-06
+  40.0000000   0.0000000  7.5300E-06  1.7900E-06
+  60.0000000   0.0000000  1.1440E-05  1.5600E-06
+  80.0000000   0.0000000  3.8800E-06  1.2800E-06
+ 116.0000000   0.0000000  1.6700E-06  1.0000E-06
+#---------------------------------------------------

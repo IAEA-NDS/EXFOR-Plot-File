@@ -1,0 +1,22 @@
+# EXFOR #         : B0114.007  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : B.Neumann et al.
+# Reference       : Nucl.Phys.A 329 (1979) 259
+# DOI             : 10.1016/0375-9474(79)90293-8
+# Quantity        : 209Bi(a,p)212mPo cross section
+# REACTION        : 83-BI-209(A,P)84-PO-212-M,,SIG,,,EXP
+# File ID         : a-Bi209-p-sig-excfun-mon-prodPo212m_Neumann_1979_b0114.007
+#
+# npts            : 1           
+# xmin            :   1.0400E+08
+# xmax            :   1.0400E+08
+# ymin            :   3.5000E-05
+# ymax            :   3.5000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0400E+08  0.0000E+00  3.5000E-05  7.0000E-06
+#---------------------------------------------------

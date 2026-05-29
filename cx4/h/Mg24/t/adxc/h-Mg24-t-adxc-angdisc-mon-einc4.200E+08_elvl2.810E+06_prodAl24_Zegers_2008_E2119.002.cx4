@@ -1,0 +1,30 @@
+# EXFOR #         : E2119.002  
+# EXFOR Ver.      : 20090706
+# TRANS #         : E057
+# Author          : R.G.T.Zegers et al.
+# Reference       : Phys.Rev.C 78 No.1 (2008) 014314
+# DOI             : 10.1103/PhysRevC.78.014314
+# Quantity        : 24Mg(he3,t)24Al partial angular differential cross section
+# REACTION        : 12-MG-24(HE3,T)13-AL-24,PAR,DA
+# File ID         : h-Mg24-t-adxc-angdisc-mon-einc4.200E+08_elvl2.810E+06_prodAl24_Zegers_2008_e2119.002
+#
+# Einc (eV)       :   4.2000E+08
+# Elvl (eV)       :   2.8100E+06
+# dElvl (eV)      :   1.0000E+04
+#
+# npts            : 5           
+# xmin            :    0.2825000
+# xmax            :    2.5425000
+# ymin            :   6.4870E-05
+# ymax            :   9.4484E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.2825000   0.0000000  9.4484E-05  6.3990E-06
+   0.8475000   0.0000000  8.0338E-05  3.8860E-06
+   1.4125000   0.0000000  7.4247E-05  3.8460E-06
+   1.9775000   0.0000000  6.9396E-05  4.1150E-06
+   2.5425000   0.0000000  6.4870E-05  6.2390E-06
+#---------------------------------------------------

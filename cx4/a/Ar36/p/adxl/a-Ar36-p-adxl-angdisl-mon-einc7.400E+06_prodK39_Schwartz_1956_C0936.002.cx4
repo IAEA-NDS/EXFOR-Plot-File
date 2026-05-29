@@ -1,0 +1,24 @@
+# EXFOR #         : C0936.002  
+# EXFOR Ver.      : 20030929
+# TRANS #         : 0000
+# Author          : R.B.Schwartz et al.
+# Reference       : Phys.Rev. 101 (1956) 1370
+# DOI             : 10.1103/PhysRev.101.1370
+# Quantity        : 36Ar(a,p)39K angular differential cross section
+# REACTION        : 18-AR-36(A,P)19-K-39,,DA,,4PI
+# File ID         : a-Ar36-p-adxl-angdisl-mon-einc7.400E+06_prodK39_Schwartz_1956_c0936.002
+#
+# Einc (eV)       :   7.4000E+06
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   6.7641E-04
+# ymax            :   6.7641E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  6.7641E-04  2.3674E-04
+#---------------------------------------------------

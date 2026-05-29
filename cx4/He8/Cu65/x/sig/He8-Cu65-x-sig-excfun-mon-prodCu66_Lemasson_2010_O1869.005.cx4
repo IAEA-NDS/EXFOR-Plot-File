@@ -1,0 +1,23 @@
+# EXFOR #         : O1869.005  
+# EXFOR Ver.      : 20101129
+# TRANS #         : O044
+# Author          : A.Lemasson et al.
+# Reference       : Phys.Rev.C 82 (2010) 044617
+# DOI             : 10.1103/PhysRevC.82.044617
+# Quantity        : 65Cu(8He,x)66Cu independent production cross section
+# REACTION        : 29-CU-65(2-HE-8,X)29-CU-66,,SIG
+# File ID         : He8-Cu65-x-sig-excfun-mon-prodCu66_Lemasson_2010_o1869.005
+#
+# npts            : 2           
+# xmin            :   1.9915E+07
+# xmax            :   3.0628E+07
+# ymin            :   6.8100E-01
+# ymax            :   7.4100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9915E+07  0.0000E+00  7.4100E-01  3.9000E-02
+  3.0628E+07  0.0000E+00  6.8100E-01  1.0300E-01
+#---------------------------------------------------

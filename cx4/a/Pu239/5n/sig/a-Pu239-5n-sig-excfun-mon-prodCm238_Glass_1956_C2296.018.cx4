@@ -1,0 +1,22 @@
+# EXFOR #         : C2296.018  
+# EXFOR Ver.      : 20241031
+# TRANS #         : C243
+# Author          : R.A.Glass et al.
+# Reference       : Phys.Rev. 104 (1956) 434
+# DOI             : 10.1103/PhysRev.104.434
+# Quantity        : 239Pu(a,5n)238Cm cross section
+# REACTION        : 94-PU-239(A,5N)96-CM-238,,SIG
+# File ID         : a-Pu239-5n-sig-excfun-mon-prodCm238_Glass_1956_c2296.018
+#
+# npts            : 1           
+# xmin            :   4.6000E+07
+# xmax            :   4.6000E+07
+# ymin            :   4.0000E-06
+# ymax            :   4.0000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.6000E+07  0.0000E+00  4.0000E-06  1.0000E-06
+#---------------------------------------------------

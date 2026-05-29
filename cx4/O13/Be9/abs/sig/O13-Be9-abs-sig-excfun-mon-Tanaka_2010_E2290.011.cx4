@@ -1,0 +1,23 @@
+# EXFOR #         : E2290.011  
+# EXFOR Ver.      : 20111008
+# TRANS #         : E066
+# Author          : K.Tanaka et al.
+# Reference       : Phys.Rev.C 82 (2010) 044309
+# DOI             : 10.1103/PhysRevC.82.044309
+# Quantity        : 9Be(13O,abs) cross section
+# REACTION        : 4-BE-9(8-O-13,ABS),,SIG
+# File ID         : O13-Be9-abs-sig-excfun-mon-Tanaka_2010_e2290.011
+#
+# npts            : 2           
+# xmin            :   5.2000E+07
+# xmax            :   7.6000E+07
+# ymin            :   1.0900E+00
+# ymax            :   1.2030E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.6000E+07  0.0000E+00  1.0900E+00  1.2000E-02
+  5.2000E+07  0.0000E+00  1.2030E+00  2.8000E-02
+#---------------------------------------------------

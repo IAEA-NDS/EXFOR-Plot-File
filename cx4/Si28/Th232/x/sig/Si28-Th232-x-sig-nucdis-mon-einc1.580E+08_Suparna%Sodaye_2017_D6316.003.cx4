@@ -1,0 +1,25 @@
+# EXFOR #         : D6316.003  
+# EXFOR Ver.      : 20190212
+# TRANS #         : D120
+# Author          : Suparna Sodaye et al.
+# Reference       : Phys.Rev.C 95 (2017) 014612
+# DOI             : 10.1103/PhysRevC.95.014612
+# Quantity        : 232Th(28Si,f) independent production cross section
+# REACTION        : 90-TH-232(14-SI-28,F)ELEM/MASS,,SIG
+# File ID         : Si28-Th232-x-sig-nucdis-mon-einc1.580E+08_Suparna%Sodaye_2017_d6316.003
+#
+# Einc (eV)       :   1.5800E+08
+#
+# npts            : 2           
+# xmin            : 51122.0     
+# xmax            : 53130.0     
+# ymin            :   4.8000E-04
+# ymax            :   9.0000E-04
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     51122.0  9.0000E-04  1.6000E-04
+     53130.0  4.8000E-04  8.0000E-05
+#---------------------------------------------------

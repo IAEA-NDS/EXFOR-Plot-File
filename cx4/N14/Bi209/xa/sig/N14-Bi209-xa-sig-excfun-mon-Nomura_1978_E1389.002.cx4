@@ -1,0 +1,23 @@
+# EXFOR #         : E1389.002  
+# EXFOR Ver.      : 20070909
+# TRANS #         : E047
+# Author          : T.Nomura et al.
+# Reference       : Phys.Rev.Lett. 40 No.11 (1978) 694
+# DOI             : 10.1103/PhysRevLett.40.694
+# Quantity        : 209Bi(14N,a+x) cross section
+# REACTION        : 83-BI-209(7-N-14,X)2-HE-4,,SIG
+# File ID         : N14-Bi209-xa-sig-excfun-mon-Nomura_1978_e1389.002
+#
+# npts            : 2           
+# xmin            :   8.5000E+07
+# xmax            :   9.5000E+07
+# ymin            :   4.2000E-02
+# ymax            :   6.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.5000E+07  0.0000E+00  4.2000E-02  6.0000E-03
+  9.5000E+07  0.0000E+00  6.3000E-02  0.0000E+00
+#---------------------------------------------------

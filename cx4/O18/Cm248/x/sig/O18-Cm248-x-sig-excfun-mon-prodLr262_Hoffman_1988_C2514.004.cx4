@@ -1,0 +1,22 @@
+# EXFOR #         : C2514.004  
+# EXFOR Ver.      : 20200327
+# TRANS #         : C194
+# Author          : D.C.Hoffman et al.
+# Reference       : J.Rad.Nucl.Chem. 124 (1988) 135
+# DOI             : 10.1007/BF02035512
+# Quantity        : 248Cm(18O,x)262Lr independent production cross section
+# REACTION        : 96-CM-248(8-O-18,X)103-LR-262,,SIG
+# File ID         : O18-Cm248-x-sig-excfun-mon-prodLr262_Hoffman_1988_c2514.004
+#
+# npts            : 1           
+# xmin            :   9.3000E+07
+# xmax            :   9.3000E+07
+# ymin            :   2.4000E-10
+# ymax            :   2.4000E-10
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.3000E+07  0.0000E+00  2.4000E-10  2.4000E-11
+#---------------------------------------------------

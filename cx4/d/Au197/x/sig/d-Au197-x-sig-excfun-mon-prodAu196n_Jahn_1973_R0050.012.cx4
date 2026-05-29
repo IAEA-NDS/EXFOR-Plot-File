@@ -1,0 +1,22 @@
+# EXFOR #         : R0050.012  
+# EXFOR Ver.      : 20241120
+# TRANS #         : R031
+# Author          : P.Jahn et al.
+# Reference       : Nucl.Phys.A 209 (1973) 333
+# DOI             : 10.1016/0375-9474(73)90581-2
+# Quantity        : 197Au(d,x)196m2Au independent production cross section
+# REACTION        : 79-AU-197(D,X)79-AU-196-M2,,SIG
+# File ID         : d-Au197-x-sig-excfun-mon-prodAu196n_Jahn_1973_r0050.012
+#
+# npts            : 1           
+# xmin            :   4.5800E+07
+# xmax            :   4.5800E+07
+# ymin            :   3.4000E-02
+# ymax            :   3.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5800E+07  1.0000E+06  3.4000E-02  9.0000E-03
+#---------------------------------------------------

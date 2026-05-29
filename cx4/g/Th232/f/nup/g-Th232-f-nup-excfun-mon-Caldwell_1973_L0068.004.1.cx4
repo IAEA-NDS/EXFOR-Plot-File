@@ -1,0 +1,24 @@
+# EXFOR #         : L0068.004.1
+# EXFOR Ver.      : 20050422
+# TRANS #         : L007
+# Author          : J.T.Caldwell et al.
+# Reference       : Proceedings of Int.Conf.on Photonucl.Reactions,Pacific Grove 1973 1 page 651
+# DOI             : N/A
+# Quantity        : 232Th(g,f) prompt fission neutron multiplicity
+# REACTION        : 90-TH-232(G,F),PR,NU
+# File ID         : g-Th232-f-nup-excfun-mon-Caldwell_1973_l0068.004.1
+#
+# npts            : 3           
+# xmin            :   8.0000E+06
+# xmax            :   1.2000E+07
+# ymin            :   1.9800E+00
+# ymax            :   2.2260E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  8.0000E+06  0.0000E+00  2.0910E+00  1.1200E-01
+  1.0000E+07  0.0000E+00  1.9800E+00  1.1500E-01
+  1.2000E+07  0.0000E+00  2.2260E+00  1.1300E-01
+#---------------------------------------------------

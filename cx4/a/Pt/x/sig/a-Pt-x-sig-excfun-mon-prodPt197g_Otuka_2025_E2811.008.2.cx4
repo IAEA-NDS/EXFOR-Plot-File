@@ -1,0 +1,23 @@
+# EXFOR #         : E2811.008.2
+# EXFOR Ver.      : 20250825
+# TRANS #         : E154
+# Author          : N.Otuka et al.
+# Reference       : Eur.Phys.J.A 61 (2025) 184
+# DOI             : 10.1140/epja/s10050-025-01643-0
+# Quantity        : natPt(a,x)197gPt independent production cross section
+# REACTION        : 78-PT-0(A,X)78-PT-197-G,,SIG
+# File ID         : a-Pt-x-sig-excfun-mon-prodPt197g_Otuka_2025_e2811.008.2
+#
+# npts            : 2           
+# xmin            :   9.3000E+06
+# xmax            :   1.4500E+07
+# ymin            :   7.9000E-05
+# ymax            :   1.1100E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  7.0000E+05  7.9000E-05  2.4000E-05
+  9.3000E+06  1.0000E+06  1.1100E-04  2.9000E-05
+#---------------------------------------------------

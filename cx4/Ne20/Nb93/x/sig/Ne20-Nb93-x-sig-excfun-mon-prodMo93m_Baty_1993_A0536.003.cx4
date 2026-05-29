@@ -1,0 +1,22 @@
+# EXFOR #         : A0536.003  
+# EXFOR Ver.      : 20190626
+# TRANS #         : A091
+# Author          : V.G.Baty et al.
+# Reference       : Proceedings of 43.Int.Conf.Nucl.Spectrosc.Nucl.Struct.,Dubna 1993 page 283
+# DOI             : N/A
+# Quantity        : 93Nb(20Ne,x)93mMo independent production cross section
+# REACTION        : 41-NB-93(10-NE-20,X)42-MO-93-M,,SIG
+# File ID         : Ne20-Nb93-x-sig-excfun-mon-prodMo93m_Baty_1993_a0536.003
+#
+# npts            : 1           
+# xmin            :   1.7000E+08
+# xmax            :   1.7000E+08
+# ymin            :   3.2300E-02
+# ymax            :   3.2300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7000E+08  0.0000E+00  3.2300E-02  2.4000E-03
+#---------------------------------------------------

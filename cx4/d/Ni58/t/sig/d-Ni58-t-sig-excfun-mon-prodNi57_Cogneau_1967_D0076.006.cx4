@@ -1,0 +1,22 @@
+# EXFOR #         : D0076.006  
+# EXFOR Ver.      : 20220429
+# TRANS #         : D137
+# Author          : M.Cogneau et al.
+# Reference       : Nucl.Phys.A 99 (1967) 686
+# DOI             : 10.1016/0375-9474(67)90379-X
+# Quantity        : 58Ni(d,t)57Ni cross section
+# REACTION        : 28-NI-58(D,T)28-NI-57,,SIG
+# File ID         : d-Ni58-t-sig-excfun-mon-prodNi57_Cogneau_1967_d0076.006
+#
+# npts            : 1           
+# xmin            :   1.2000E+07
+# xmax            :   1.2000E+07
+# ymin            :   2.4000E-02
+# ymax            :   2.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+07  0.0000E+00  2.4000E-02  5.0000E-03
+#---------------------------------------------------

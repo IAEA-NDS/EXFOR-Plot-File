@@ -1,0 +1,23 @@
+# EXFOR #         : M0404.004  
+# EXFOR Ver.      : 20100224
+# TRANS #         : M052
+# Author          : R.Bernabei et al.
+# Reference       : Phys.Rev.C 38 (1988) 1990
+# DOI             : 10.1103/PhysRevC.38.1990
+# Quantity        : 2H(g,n)1H cross section
+# REACTION        : 1-H-2(G,N)1-H-1,,SIG
+# File ID         : g-H2-n-sig-excfun-mon-prodH1_Bernabei_1988_m0404.004
+#
+# npts            : 2           
+# xmin            :   1.5300E+07
+# xmax            :   1.9100E+07
+# ymin            :   6.2500E-04
+# ymax            :   9.2400E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5300E+07  2.0000E+05  9.2400E-04  1.0000E-05
+  1.9100E+07  2.0000E+05  6.2500E-04  1.5000E-05
+#---------------------------------------------------

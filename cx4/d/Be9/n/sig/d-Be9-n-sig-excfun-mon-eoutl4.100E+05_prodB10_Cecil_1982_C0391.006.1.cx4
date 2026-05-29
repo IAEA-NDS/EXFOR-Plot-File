@@ -1,0 +1,25 @@
+# EXFOR #         : C0391.006.1
+# EXFOR Ver.      : 20001211
+# TRANS #         : 0000
+# Author          : F.E.Cecil et al.
+# Reference       : Nucl.Phys.A 376 (1982) 379
+# DOI             : 10.1016/0375-9474(82)90071-9
+# Quantity        : 9Be(d,n)10B partial cross section
+# REACTION        : 4-BE-9(D,N)5-B-10,PAR,SIG
+# File ID         : d-Be9-n-sig-excfun-mon-eoutl4.100E+05_prodB10_Cecil_1982_c0391.006.1
+#
+# Eout,lab (eV)   :   4.1000E+05
+#
+# npts            : 2           
+# xmin            :   1.3500E+05
+# xmax            :   1.5900E+05
+# ymin            :   7.0000E-06
+# ymax            :   3.9000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5900E+05  0.0000E+00  3.9000E-05  7.0000E-06
+  1.3500E+05  0.0000E+00  7.0000E-06  2.0000E-06
+#---------------------------------------------------

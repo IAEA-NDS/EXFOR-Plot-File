@@ -1,0 +1,27 @@
+# EXFOR #         : C0530.005  
+# EXFOR Ver.      : 19990629
+# TRANS #         : 0000
+# Author          : S.Mordechai et al.
+# Reference       : Phys.Rev.C 29 (1984) 1699
+# DOI             : 10.1103/PhysRevC.29.1699
+# Quantity        : 76Ge(t,p)78Ge partial angular differential cross section
+# REACTION        : 32-GE-76(T,P)32-GE-78,PAR,DA
+# File ID         : t-Ge76-p-adxl-angdisc-mon-einc1.500E+07_elvl0.000E+00_prodGe78_Mordechai_1984_c0530.005
+#
+# Einc (eV)       :   1.5000E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :    4.1000000
+# xmax            :   19.1000000
+# ymin            :   2.2000E-04
+# ymax            :   4.1700E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.1000000   0.0000000  4.1700E-03  2.4000E-04
+  11.5000000   0.0000000  1.5600E-03  1.4000E-04
+  19.1000000   0.0000000  2.2000E-04  5.0000E-05
+#---------------------------------------------------

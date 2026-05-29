@@ -1,0 +1,28 @@
+# EXFOR #         : A0510.499  
+# EXFOR Ver.      : 20231226
+# TRANS #         : A105
+# Author          : V.N.Levkovski
+# Reference       : Levkovskij,Act.Cs.By Protons and Alphas,Moscow 1991 page  (1991)
+# DOI             : N/A
+# Quantity        : 96Zr(a,x)98mNb independent production cross section
+# REACTION        : 40-ZR-96(A,X)41-NB-98-M,,SIG
+# File ID         : a-Zr96-x-sig-excfun-mon-prodNb98m_Levkovski_1991_a0510.499
+#
+# npts            : 7           
+# xmin            :   3.4900E+07
+# xmax            :   4.6100E+07
+# ymin            :   2.8000E-02
+# ymax            :   4.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4900E+07  0.0000E+00  3.4000E-02  3.4000E-03
+  3.6900E+07  0.0000E+00  4.1000E-02  4.1000E-03
+  3.8800E+07  0.0000E+00  3.5000E-02  3.5000E-03
+  4.0700E+07  0.0000E+00  3.5000E-02  3.5000E-03
+  4.2600E+07  0.0000E+00  2.9000E-02  2.9000E-03
+  4.4500E+07  0.0000E+00  2.9000E-02  2.9000E-03
+  4.6100E+07  0.0000E+00  2.8000E-02  2.8000E-03
+#---------------------------------------------------

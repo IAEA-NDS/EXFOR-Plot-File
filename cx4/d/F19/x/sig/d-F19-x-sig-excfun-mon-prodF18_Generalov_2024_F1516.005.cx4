@@ -1,0 +1,23 @@
+# EXFOR #         : F1516.005  
+# EXFOR Ver.      : 20250109
+# TRANS #         : F100
+# Author          : L.N.Generalov et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 88 (2024) 1342
+# DOI             : 10.1134/S1062873824707530
+# Quantity        : 19F(d,x)18F independent production cross section
+# REACTION        : 9-F-19(D,X)9-F-18,,SIG,,SFC
+# File ID         : d-F19-x-sig-excfun-mon-prodF18_Generalov_2024_f1516.005
+#
+# npts            : 2           
+# xmin            :   6.0090E+06
+# xmax            :   6.0478E+06
+# ymin            :   2.4705E-03
+# ymax            :   2.6613E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0090E+06  0.0000E+00  2.4705E-03  7.7203E-05
+  6.0478E+06  0.0000E+00  2.6613E-03  7.7265E-05
+#---------------------------------------------------

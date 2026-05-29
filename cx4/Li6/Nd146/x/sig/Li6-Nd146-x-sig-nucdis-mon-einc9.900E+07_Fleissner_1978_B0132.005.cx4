@@ -1,0 +1,29 @@
+# EXFOR #         : B0132.005  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : J.G.Fleissner et al.
+# Reference       : Phys.Rev.C 17 (1978) 1001
+# DOI             : 10.1103/PhysRevC.17.1001
+# Quantity        : 146Nd(6Li,x) independent production cross section
+# REACTION        : 60-ND-146(3-LI-6,X)ELEM/MASS,,SIG,,,EXP
+# File ID         : Li6-Nd146-x-sig-nucdis-mon-einc9.900E+07_Fleissner_1978_b0132.005
+#
+# Einc (eV)       :   9.9000E+07
+#
+# npts            : 6           
+# xmin            : 62140.9     
+# xmax            : 63143.9     
+# ymin            :   3.4000E-02
+# ymax            :   2.3300E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     62140.9  5.9000E-02  0.0000E+00
+     62141.9  1.2600E-01  0.0000E+00
+     62142.9  2.3300E-01  0.0000E+00
+     62143.9  3.7000E-02  0.0000E+00
+     62144.9  3.4000E-02  0.0000E+00
+     63143.9  4.6000E-02  0.0000E+00
+#---------------------------------------------------

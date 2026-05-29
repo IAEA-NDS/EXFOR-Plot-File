@@ -1,0 +1,23 @@
+# EXFOR #         : D6067.004  
+# EXFOR Ver.      : 20160324
+# TRANS #         : D103
+# Author          : Abhishek Yadav et al.
+# Reference       : Phys.Rev.C 78 (2008) 044606
+# DOI             : 10.1103/PhysRevC.78.044606
+# Quantity        : 60Ni(a,x)61Cu independent production cross section
+# REACTION        : 28-NI-60(A,X)29-CU-61,,SIG
+# File ID         : a-Ni60-x-sig-excfun-mon-prodCu61_Abhishek%Yadav_2008_d6067.004
+#
+# npts            : 2           
+# xmin            :   3.6000E+07
+# xmax            :   4.0000E+07
+# ymin            :   6.4000E-02
+# ymax            :   1.9100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6000E+07  7.0000E+05  6.4000E-02  1.3000E-02
+  4.0000E+07  7.0000E+05  1.9100E-01  3.3000E-02
+#---------------------------------------------------

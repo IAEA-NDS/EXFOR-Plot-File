@@ -1,0 +1,26 @@
+# EXFOR #         : C2107.004  
+# EXFOR Ver.      : 20171029
+# TRANS #         : C169
+# Author          : S.Almaraz-Calderon et al.
+# Reference       : Phys.Rev.Lett. 112 (2014) 152701
+# DOI             : 10.1103/PhysRevLett.112.152701
+# Quantity        : 23Na(a,p)26Mg partial cross section
+# REACTION        : 11-NA-23(A,P)12-MG-26,PAR,SIG
+# File ID         : a-Na23-p-sig-excfun-mon-elvl1.809E+06_prodMg26_Almaraz+Calderon_2014_c2107.004
+#
+# Elvl (eV)       :   1.8087E+06
+#
+# npts            : 3           
+# xmin            :   2.1252E+06
+# xmax            :   2.8415E+06
+# ymin            :   3.0000E-05
+# ymax            :   1.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8415E+06  9.0010E+04  1.0000E-03  5.0000E-04
+  2.4775E+06  9.0009E+04  2.6000E-04  1.3000E-04
+  2.1252E+06  1.1001E+05  3.0000E-05  0.0000E+00
+#---------------------------------------------------

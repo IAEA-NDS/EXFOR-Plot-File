@@ -1,0 +1,22 @@
+# EXFOR #         : C2514.002  
+# EXFOR Ver.      : 20200327
+# TRANS #         : C194
+# Author          : D.C.Hoffman et al.
+# Reference       : J.Rad.Nucl.Chem. 124 (1988) 135
+# DOI             : 10.1007/BF02035512
+# Quantity        : 249Bk(18O,3n+a)260Lr cross section
+# REACTION        : 97-BK-249(8-O-18,3N+A)103-LR-260,,SIG
+# File ID         : O18-Bk249-3na-sig-excfun-mon-prodLr260_Hoffman_1988_c2514.002
+#
+# npts            : 1           
+# xmin            :   1.0100E+08
+# xmax            :   1.0100E+08
+# ymin            :   8.3000E-09
+# ymax            :   8.3000E-09
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0100E+08  0.0000E+00  8.3000E-09  1.7000E-09
+#---------------------------------------------------

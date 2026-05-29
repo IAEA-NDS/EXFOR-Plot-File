@@ -1,0 +1,26 @@
+# EXFOR #         : D4337.005  
+# EXFOR Ver.      : 20260305
+# TRANS #         : D151
+# Author          : A.Hermanne et al.
+# Reference       : Nucl.Instrum.Meth.B 362 (2015) 110
+# DOI             : 10.1016/j.nimb.2015.09.002
+# Quantity        : 103Rh(d,x)99gRh cumulative production cross section
+# REACTION        : 45-RH-103(D,X)45-RH-99-G,(CUM),SIG
+# File ID         : d-Rh103-x-sigc-excfun-mon-prodRh99g_Hermanne_2015_d4337.005
+#
+# npts            : 5           
+# xmin            :   4.1300E+07
+# xmax            :   4.9800E+07
+# ymin            :   9.0000E-06
+# ymax            :   1.7000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9800E+07  2.0000E+05  1.7000E-03  2.0000E-04
+  4.7800E+07  2.0000E+05  8.5000E-04  9.0000E-05
+  4.5700E+07  3.0000E+05  7.5000E-04  8.0000E-05
+  4.3600E+07  3.0000E+05  7.8000E-04  9.0000E-05
+  4.1300E+07  4.0000E+05  9.0000E-06  1.0000E-06
+#---------------------------------------------------

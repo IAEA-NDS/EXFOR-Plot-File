@@ -1,0 +1,28 @@
+# EXFOR #         : E1231.003  
+# EXFOR Ver.      : 20080131
+# TRANS #         : E051
+# Author          : A.Yokoyama et al.
+# Reference       : Z.Phys.A 332 No.1 (1989) 61
+# DOI             : 10.1007/BF01292581
+# Quantity        : 197Au(37Cl,x) independent production cross section
+# REACTION        : 79-AU-197(17-CL-37,X)ELEM/MASS,,SIG
+# File ID         : Cl37-Au197-x-sig-nucdis-mon-einc1.800E+08_Yokoyama_1989_e1231.003
+#
+# Einc (eV)       :   1.8000E+08
+#
+# npts            : 5           
+# xmin            : 79194.0     
+# xmax            : 79198.0     
+# ymin            :   3.0000E-04
+# ymax            :   2.1800E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     79198.0  4.9700E-03  2.0000E-05
+     79196.0  2.1800E-02  6.0000E-04
+     79196.1  4.4000E-04  4.0000E-05
+     79195.0  6.4000E-03  1.4000E-03
+     79194.0  3.0000E-04  2.0000E-05
+#---------------------------------------------------

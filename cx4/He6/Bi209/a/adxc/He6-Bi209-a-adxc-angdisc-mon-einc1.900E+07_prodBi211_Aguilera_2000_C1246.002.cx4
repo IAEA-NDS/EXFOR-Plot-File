@@ -1,0 +1,27 @@
+# EXFOR #         : C1246.002  
+# EXFOR Ver.      : 20050606
+# TRANS #         : C074
+# Author          : E.F.Aguilera et al.
+# Reference       : Phys.Rev.Lett. 84 (2000) 5058
+# DOI             : 10.1103/PhysRevLett.84.5058
+# Quantity        : 209Bi(6He,a)211Bi angular differential cross section
+# REACTION        : 83-BI-209(2-HE-6,A)83-BI-211,,DA
+# File ID         : He6-Bi209-a-adxc-angdisc-mon-einc1.900E+07_prodBi211_Aguilera_2000_c1246.002
+#
+# Einc (eV)       :   1.9000E+07
+#
+# npts            : 4           
+# xmin            :   76.2000000
+# xmax            :  150.0000000
+# ymin            :   5.5600E-02
+# ymax            :   7.4800E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  76.2000000   0.0000000  5.5800E-02  4.9700E-03
+ 105.0000000   0.0000000  6.5700E-02  6.5400E-03
+ 135.0000000   0.0000000  7.4800E-02  7.5900E-03
+ 150.0000000   0.0000000  5.5600E-02  6.5400E-03
+#---------------------------------------------------

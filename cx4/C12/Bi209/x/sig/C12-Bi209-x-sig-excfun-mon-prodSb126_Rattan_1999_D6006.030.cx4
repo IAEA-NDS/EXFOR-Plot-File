@@ -1,0 +1,23 @@
+# EXFOR #         : D6006.030  
+# EXFOR Ver.      : 20070315
+# TRANS #         : D056
+# Author          : S.S.Rattan et al.
+# Reference       : J.Rad.Nucl.Chem. 242 (1999) 551
+# DOI             : 10.1007/BF02345592
+# Quantity        : 209Bi(12C,f)126Sb independent production cross section
+# REACTION        : 83-BI-209(6-C-12,F)51-SB-126,,SIG
+# File ID         : C12-Bi209-x-sig-excfun-mon-prodSb126_Rattan_1999_d6006.030
+#
+# npts            : 2           
+# xmin            :   7.3400E+07
+# xmax            :   8.4200E+07
+# ymin            :   8.4000E-04
+# ymax            :   1.6600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.3400E+07  0.0000E+00  8.4000E-04  1.7000E-04
+  8.4200E+07  0.0000E+00  1.6600E-03  5.9000E-04
+#---------------------------------------------------

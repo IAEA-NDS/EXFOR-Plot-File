@@ -1,0 +1,29 @@
+# EXFOR #         : E1343.005  
+# EXFOR Ver.      : 20240802
+# TRANS #         : E148
+# Author          : M.Yasue et al.
+# Reference       : Phys.Rev.C 42 (1990) 1279
+# DOI             : 10.1103/PhysRevC.42.1279
+# Quantity        : 25Mg(a,he3)26Mg partial angular differential cross section
+# REACTION        : 12-MG-25(A,HE3)12-MG-26,PAR,DA
+# File ID         : a-Mg25-h-adxc-angdisc-mon-einc5.000E+07_elvl6.260E+06_prodMg26_Yasue_1990_e1343.005
+#
+# Einc (eV)       :   5.0000E+07
+# Elvl (eV)       :   6.2600E+06
+#
+# npts            : 5           
+# xmin            :    9.2050000
+# xmax            :   21.0300000
+# ymin            :   4.7120E-05
+# ymax            :   1.1240E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.2050000   0.0000000  1.1240E-04  2.9030E-05
+  11.7500000   0.0000000  8.9910E-05  2.7860E-05
+  14.3000000   0.0000000  6.1770E-05  1.4200E-05
+  17.8700000   0.0000000  5.3200E-05  1.4910E-05
+  21.0300000   0.0000000  4.7120E-05  1.2530E-05
+#---------------------------------------------------

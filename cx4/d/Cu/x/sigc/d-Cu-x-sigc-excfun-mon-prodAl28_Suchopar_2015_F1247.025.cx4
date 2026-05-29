@@ -1,0 +1,24 @@
+# EXFOR #         : F1247.025  
+# EXFOR Ver.      : 20150610
+# TRANS #         : F058
+# Author          : M.Suchopar et al.
+# Reference       : Nucl.Instrum.Meth.B 344 (2015) 63
+# DOI             : 10.1016/j.nimb.2014.12.006
+# Quantity        : natCu(d,x)28Al cumulative production cross section
+# REACTION        : 29-CU-0(D,X)13-AL-28,CUM,SIG
+# File ID         : d-Cu-x-sigc-excfun-mon-prodAl28_Suchopar_2015_f1247.025
+#
+# npts            : 3           
+# xmin            :   1.3000E+09
+# xmax            :   4.0000E+09
+# ymin            :   2.6300E-04
+# ymax            :   7.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+09  0.0000E+00  2.6300E-04  2.4000E-05
+  2.0000E+09  0.0000E+00  5.0500E-04  2.6000E-05
+  4.0000E+09  0.0000E+00  7.1000E-04  4.0000E-05
+#---------------------------------------------------

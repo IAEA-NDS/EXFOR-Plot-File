@@ -1,0 +1,24 @@
+# EXFOR #         : M0571.003  
+# EXFOR Ver.      : 20110119
+# TRANS #         : M056
+# Author          : R.Nolte et al.
+# Reference       : Phys.Rev.C 40 (1989) 1175
+# DOI             : 10.1103/PhysRevC.40.1175
+# Quantity        : natTl(g,el)natTl angular differential cross section
+# REACTION        : 81-TL-0(G,EL)81-TL-0,,DA
+# File ID         : g-Tl-el-adxl-angdisl-mon-einc8.533E+06_prodTl_Nolte_1989_m0571.003
+#
+# Einc (eV)       :   8.5330E+06
+#
+# npts            : 1           
+# xmin            :  136.0000000
+# xmax            :  136.0000000
+# ymin            :   5.0000E-06
+# ymax            :   5.0000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 136.0000000   0.0000000  5.0000E-06  3.0000E-06
+#---------------------------------------------------

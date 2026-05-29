@@ -1,0 +1,23 @@
+# EXFOR #         : D6006.009  
+# EXFOR Ver.      : 20070315
+# TRANS #         : D056
+# Author          : S.S.Rattan et al.
+# Reference       : J.Rad.Nucl.Chem. 242 (1999) 551
+# DOI             : 10.1007/BF02345592
+# Quantity        : 209Bi(12C,f)92Sr cumulative production cross section
+# REACTION        : 83-BI-209(6-C-12,F)38-SR-92,CUM,SIG
+# File ID         : C12-Bi209-x-sigc-excfun-mon-prodSr92_Rattan_1999_d6006.009
+#
+# npts            : 2           
+# xmin            :   7.3400E+07
+# xmax            :   8.4200E+07
+# ymin            :   3.7600E-03
+# ymax            :   6.0900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.3400E+07  0.0000E+00  3.7600E-03  7.2000E-04
+  8.4200E+07  0.0000E+00  6.0900E-03  1.8600E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C1511.009  
+# EXFOR Ver.      : 20070419
+# TRANS #         : C080
+# Author          : M.A.Hofstee et al.
+# Reference       : Nucl.Phys.A 688 (2001) 527
+# DOI             : 10.1016/S0375-9474(01)00777-1
+# Quantity        : 6Li(d,n)7Be cross section
+# REACTION        : 3-LI-6(D,N)4-BE-7,,SIG,,SFC
+# File ID         : d-Li6-n-sig-excfun-mon-prodBe7_Hofstee_2001_c1511.009
+#
+# npts            : 1           
+# xmin            :   1.2895E+05
+# xmax            :   1.2895E+05
+# ymin            :   3.5501E-03
+# ymax            :   3.5501E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2895E+05  0.0000E+00  3.5501E-03  1.0650E-04
+#---------------------------------------------------

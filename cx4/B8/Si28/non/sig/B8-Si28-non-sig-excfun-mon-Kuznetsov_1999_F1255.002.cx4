@@ -1,0 +1,24 @@
+# EXFOR #         : F1255.002  
+# EXFOR Ver.      : 20150413
+# TRANS #         : F058
+# Author          : I.V.Kuznetsov et al.
+# Reference       : Izv.Ross.AN,Fiz. 63 No.5 (1999) 992
+# DOI             : N/A
+# Quantity        : 28Si(8B,non) cross section
+# REACTION        : 14-SI-28(5-B-8,NON),,SIG
+# File ID         : B8-Si28-non-sig-excfun-mon-Kuznetsov_1999_f1255.002
+#
+# npts            : 3           
+# xmin            :   6.4280E+07
+# xmax            :   1.4071E+08
+# ymin            :   9.8250E-01
+# ymax            :   1.8123E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.4280E+07  3.6440E+07  9.8250E-01  1.3550E-01
+  1.1545E+08  1.3008E+07  1.4273E+00  9.4900E-02
+  1.4071E+08  1.3008E+07  1.8123E+00  9.4900E-02
+#---------------------------------------------------

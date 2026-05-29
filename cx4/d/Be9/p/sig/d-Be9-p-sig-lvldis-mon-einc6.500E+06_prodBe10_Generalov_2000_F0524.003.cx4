@@ -1,0 +1,25 @@
+# EXFOR #         : F0524.003  
+# EXFOR Ver.      : 20090626
+# TRANS #         : F036
+# Author          : L.N.Generalov et al.
+# Reference       : Izv.Ross.AN,Fiz. 64 (2000) 440
+# DOI             : N/A
+# Quantity        : 9Be(d,p)10Be partial cross section
+# REACTION        : 4-BE-9(D,P)4-BE-10,PAR,SIG
+# File ID         : d-Be9-p-sig-lvldis-mon-einc6.500E+06_prodBe10_Generalov_2000_f0524.003
+#
+# Einc (eV)       :   6.5000E+06
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   3.3680E+06
+# ymin            :   1.0600E-02
+# ymax            :   2.0500E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.0600E-02  2.0000E-04
+  3.3680E+06  0.0000E+00  2.0500E-02  4.0000E-04
+#---------------------------------------------------

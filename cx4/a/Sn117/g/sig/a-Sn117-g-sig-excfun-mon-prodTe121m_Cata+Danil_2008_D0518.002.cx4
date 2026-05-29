@@ -1,0 +1,24 @@
+# EXFOR #         : D0518.002  
+# EXFOR Ver.      : 20081014
+# TRANS #         : D064
+# Author          : I.Cata-Danil et al.
+# Reference       : Phys.Rev.C 78 (2008) 035803
+# DOI             : 10.1103/PhysRevC.78.035803
+# Quantity        : 117Sn(a,g)121mTe cross section
+# REACTION        : 50-SN-117(A,G)52-TE-121-M,,SIG
+# File ID         : a-Sn117-g-sig-excfun-mon-prodTe121m_Cata+Danil_2008_d0518.002
+#
+# npts            : 3           
+# xmin            :   1.1900E+07
+# xmax            :   1.5100E+07
+# ymin            :   9.0000E-05
+# ymax            :   4.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5100E+07  1.0000E+05  4.6000E-03  6.0000E-04
+  1.4500E+07  1.0000E+05  3.2000E-03  4.0000E-04
+  1.1900E+07  2.0000E+05  9.0000E-05  1.0000E-05
+#---------------------------------------------------

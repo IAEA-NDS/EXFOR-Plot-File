@@ -1,0 +1,29 @@
+# EXFOR #         : E2050.020  
+# EXFOR Ver.      : 20080131
+# TRANS #         : E050
+# Author          : L.Heilbronn et al.
+# Reference       : Nucl.Sci.Eng. 157 No.2 (2007) 142
+# DOI             : 10.13182/NSE07-A2719
+# Quantity        : 27Al(56Fe,n+x) double differential cross section
+# REACTION        : 13-AL-27(26-FE-56,X)0-NN-1,,DA/DE
+# File ID         : Fe56-Al27-xn-ddxl-enedisl-mon-einc2.800E+10_angl80_Heilbronn_2007_e2050.020
+#
+# Einc (eV)       :   2.8000E+10
+# theta,lab (deg) :   80.0000000
+#
+# npts            : 5           
+# xmin            :   3.6855E+07
+# xmax            :   3.6385E+08
+# ymin            :   5.5060E-10
+# ymax            :   6.3190E-09
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  3.6385E+08  4.0450E+07  5.5060E-10  2.4060E-10
+  2.1470E+08  1.0870E+08  8.7400E-10  2.6110E-10
+  8.7010E+07  1.8990E+07  4.2310E-09  1.2470E-09
+  5.7840E+07  1.0180E+07  6.0610E-09  1.7230E-09
+  3.6855E+07  1.0805E+07  6.3190E-09  2.2970E-09
+#---------------------------------------------------

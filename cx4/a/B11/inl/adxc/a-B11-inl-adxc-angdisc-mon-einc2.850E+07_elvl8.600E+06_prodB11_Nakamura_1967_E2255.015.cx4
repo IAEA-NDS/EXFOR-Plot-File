@@ -1,0 +1,30 @@
+# EXFOR #         : E2255.015  
+# EXFOR Ver.      : 20151115
+# TRANS #         : E100
+# Author          : H.Nakamura
+# Reference       : J.Phys.Soc.Jpn. 22 (1967) 685
+# DOI             : 10.1143/JPSJ.22.685
+# Quantity        : 11B(a,inl)11B partial angular differential cross section
+# REACTION        : 5-B-11(A,INL)5-B-11,PAR,DA
+# File ID         : a-B11-inl-adxc-angdisc-mon-einc2.850E+07_elvl8.600E+06_prodB11_Nakamura_1967_e2255.015
+#
+# Einc (eV)       :   2.8500E+07
+# dEinc (eV)      :   5.7000E+04
+# Elvl (eV)       :   8.6000E+06
+#
+# npts            : 5           
+# xmin            :   18.4000000
+# xmax            :   33.0000000
+# ymin            :   1.8050E-04
+# ymax            :   1.9130E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  18.4000000   0.0000000  1.2550E-03  2.8860E-04
+  21.9000000   0.0000000  1.8820E-03  0.0000E+00
+  25.7000000   0.0000000  1.9130E-03  0.0000E+00
+  29.2000000   0.0000000  9.2630E-04  9.3630E-05
+  33.0000000   0.0000000  1.8050E-04  5.0850E-05
+#---------------------------------------------------

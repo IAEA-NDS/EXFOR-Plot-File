@@ -1,0 +1,22 @@
+# EXFOR #         : F1439.006  
+# EXFOR Ver.      : 20210701
+# TRANS #         : F087
+# Author          : A.R.Balabekyan et al.
+# Reference       : J.Phys.G 46 (2019) 095103
+# DOI             : 10.1088/1361-6471/ab2bce
+# Quantity        : 206Pb(d,x)126gSb cumulative production cross section
+# REACTION        : 82-PB-206(D,X)51-SB-126-G,M+,SIG
+# File ID         : d-Pb206-x-sigc-excfun-mon-prodSb126g_Balabekyan_2019_f1439.006
+#
+# npts            : 1           
+# xmin            :   4.4000E+09
+# xmax            :   4.4000E+09
+# ymin            :   1.3000E-04
+# ymax            :   1.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.4000E+09  0.0000E+00  1.3000E-04  4.0000E-05
+#---------------------------------------------------

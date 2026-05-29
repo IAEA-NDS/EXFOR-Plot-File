@@ -1,0 +1,24 @@
+# EXFOR #         : C0003.002  
+# EXFOR Ver.      : 20020213
+# TRANS #         : 0000
+# Author          : R.C.Allen et al.
+# Reference       : Phys.Rev. 111 (1958) 1129
+# DOI             : 10.1103/PhysRev.111.1129
+# Quantity        : 4He(t,el)4He angular differential cross section
+# REACTION        : 2-HE-4(T,EL)2-HE-4,,DA
+# File ID         : t-He4-el-adxl-angdisl-mon-einc1.677E+06_prodHe4_Allen_1958_c0003.002
+#
+# Einc (eV)       :   1.6770E+06
+#
+# npts            : 1           
+# xmin            :   30.0000000
+# xmax            :   30.0000000
+# ymin            :   8.7500E-01
+# ymax            :   8.7500E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  8.7500E-01  2.6250E-02
+#---------------------------------------------------

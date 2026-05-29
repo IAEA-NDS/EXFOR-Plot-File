@@ -1,0 +1,22 @@
+# EXFOR #         : D8058.005  
+# EXFOR Ver.      : 20230408
+# TRANS #         : D139
+# Author          : J.L.Rodriguez-Sanchez et al.
+# Reference       : Phys.Rev.C 106 (2022) 014618
+# DOI             : 10.1103/PhysRevC.106.014618
+# Quantity        : 12C(112Sn,x)112Sb independent production cross section
+# REACTION        : 6-C-12(50-SN-112,X)51-SB-112,,SIG
+# File ID         : Sn112-C12-x-sig-excfun-mon-prodSb112_Rodriguez+Sanchez_2022_d8058.005
+#
+# npts            : 1           
+# xmin            :   1.1200E+11
+# xmax            :   1.1200E+11
+# ymin            :   7.1800E-04
+# ymax            :   7.1800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1200E+11  0.0000E+00  7.1800E-04  2.2000E-05
+#---------------------------------------------------

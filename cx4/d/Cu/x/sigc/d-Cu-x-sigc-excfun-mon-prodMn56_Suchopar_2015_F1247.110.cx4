@@ -1,0 +1,23 @@
+# EXFOR #         : F1247.110  
+# EXFOR Ver.      : 20150610
+# TRANS #         : F058
+# Author          : M.Suchopar et al.
+# Reference       : Nucl.Instrum.Meth.B 344 (2015) 63
+# DOI             : 10.1016/j.nimb.2014.12.006
+# Quantity        : natCu(d,x)56Mn cumulative production cross section
+# REACTION        : 29-CU-0(D,X)25-MN-56,CUM,SIG
+# File ID         : d-Cu-x-sigc-excfun-mon-prodMn56_Suchopar_2015_f1247.110
+#
+# npts            : 2           
+# xmin            :   2.3300E+09
+# xmax            :   6.0000E+09
+# ymin            :   4.3000E-03
+# ymax            :   5.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3300E+09  0.0000E+00  4.3000E-03  7.0000E-04
+  6.0000E+09  0.0000E+00  5.9000E-03  5.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : T0017.002  
+# EXFOR Ver.      : 20091001
+# TRANS #         : C099
+# Author          : G.B.Liu et al.
+# Reference       : Phys.Rev.C 42 (1990) 167
+# DOI             : 10.1103/PhysRevC.42.167
+# Quantity        : 9Be(t,p)11Be partial angular differential cross section
+# REACTION        : 4-BE-9(T,P)4-BE-11,PAR,DA
+# File ID         : t-Be9-p-adxl-angdisl-mon-einc1.500E+07_elvl5.860E+06_prodBe11_Liu_1990_t0017.002
+#
+# Einc (eV)       :   1.5000E+07
+# dEinc (eV)      :   1.4000E+04
+# Elvl (eV)       :   5.8600E+06
+#
+# npts            : 4           
+# xmin            :   14.1200000
+# xmax            :   52.0100000
+# ymin            :   1.2030E-04
+# ymax            :   2.3320E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  14.1200000   1.0000000  2.3320E-04  0.0000E+00
+  24.1400000   1.0000000  1.6700E-04  0.0000E+00
+  34.1300000   1.0000000  2.0980E-04  0.0000E+00
+  52.0100000   1.0000000  1.2030E-04  0.0000E+00
+#---------------------------------------------------

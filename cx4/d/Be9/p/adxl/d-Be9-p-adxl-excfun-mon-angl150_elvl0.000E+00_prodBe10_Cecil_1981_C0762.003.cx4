@@ -1,0 +1,29 @@
+# EXFOR #         : C0762.003  
+# EXFOR Ver.      : 20181008
+# TRANS #         : C179
+# Author          : F.E.Cecil et al.
+# Reference       : Phys.Rev.C 24 (1981) 1769
+# DOI             : 10.1103/PhysRevC.24.1769
+# Quantity        : 9Be(d,p)10Be partial angular differential cross section
+# REACTION        : 4-BE-9(D,P)4-BE-10,PAR,DA
+# File ID         : d-Be9-p-adxl-excfun-mon-angl150_elvl0.000E+00_prodBe10_Cecil_1981_c0762.003
+#
+# theta,lab (deg) :  150.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :   6.7000E+04
+# xmax            :   1.6100E+05
+# ymin            :   4.4000E-04
+# ymax            :   1.8000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.6100E+05  0.0000E+00  1.8000E-01  2.0000E-02
+  1.3700E+05  0.0000E+00  1.2000E-01  1.0000E-02
+  1.1400E+05  0.0000E+00  1.8000E-02  2.0000E-03
+  9.1000E+04  0.0000E+00  2.9000E-03  4.0000E-04
+  6.7000E+04  0.0000E+00  4.4000E-04  1.6000E-04
+#---------------------------------------------------

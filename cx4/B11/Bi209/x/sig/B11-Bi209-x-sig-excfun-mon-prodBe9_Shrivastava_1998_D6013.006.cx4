@@ -1,0 +1,25 @@
+# EXFOR #         : D6013.006  
+# EXFOR Ver.      : 20071101
+# TRANS #         : D059
+# Author          : A.Shrivastava et al.
+# Reference       : Nucl.Phys.A 635 (1998) 411
+# DOI             : 10.1016/S0375-9474(98)00173-0
+# Quantity        : 209Bi(11B,x)9Be independent production cross section
+# REACTION        : 83-BI-209(5-B-11,X)4-BE-9,,SIG
+# File ID         : B11-Bi209-x-sig-excfun-mon-prodBe9_Shrivastava_1998_d6013.006
+#
+# npts            : 4           
+# xmin            :   5.1300E+07
+# xmax            :   7.4800E+07
+# ymin            :   3.5000E-03
+# ymax            :   4.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.1300E+07  0.0000E+00  3.5000E-03  4.0000E-04
+  5.5800E+07  0.0000E+00  3.0000E-02  3.0000E-03
+  5.9800E+07  0.0000E+00  3.6000E-02  4.0000E-03
+  7.4800E+07  0.0000E+00  4.6000E-02  5.0000E-03
+#---------------------------------------------------

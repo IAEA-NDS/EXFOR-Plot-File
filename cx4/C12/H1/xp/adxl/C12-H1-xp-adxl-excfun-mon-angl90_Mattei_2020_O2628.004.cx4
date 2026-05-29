@@ -1,0 +1,28 @@
+# EXFOR #         : O2628.004  
+# EXFOR Ver.      : 20240914
+# TRANS #         : O100
+# Author          : I.Mattei et al.
+# Reference       : IEEE Rad.Pl.Med.Sci. 4 (2020) 269
+# DOI             : N/A
+# Quantity        : 1H(12C,p+x) angular differential cross section
+# REACTION        : 1-H-1(6-C-12,X)1-H-1,,DA
+# File ID         : C12-H1-xp-adxl-excfun-mon-angl90_Mattei_2020_o2628.004
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 5           
+# xmin            :   1.3800E+09
+# xmax            :   4.2360E+09
+# ymin            :   6.2500E-05
+# ymax            :   2.5050E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.3800E+09  0.0000E+00  1.1440E-04  7.8800E-05
+  1.8360E+09  0.0000E+00  6.2500E-05  9.4300E-05
+  2.6520E+09  0.0000E+00  1.6280E-04  1.9080E-04
+  3.3720E+09  0.0000E+00  6.7800E-05  1.9620E-04
+  4.2360E+09  0.0000E+00  2.5050E-04  2.9160E-04
+#---------------------------------------------------

@@ -1,0 +1,32 @@
+# EXFOR #         : M0439.004  
+# EXFOR Ver.      : 20121104
+# TRANS #         : M065
+# Author          : Yu.M.Volkov et al.
+# Reference       : Yad.Fiz. 3 (1966) 277
+# DOI             : N/A
+# Quantity        : 9Be(g,t)6Li partial angular differential cross section
+# REACTION        : 4-BE-9(G,T)3-LI-6,PAR,DA,,BRS
+# File ID         : g-Be9-t-adxl-excfun-brs-angl90_eoutl5.400E+06_prodLi6_Volkov_1966_m0439.004
+#
+# theta,lab (deg) :   90.0000000
+# Eout,lab (eV)   :   5.4000E+06
+# dEout,lab (eV)  :   1.2000E+06
+#
+# npts            : 7           
+# xmin            :   2.6500E+07
+# xmax            :   6.3000E+07
+# ymin            :   3.0000E-06
+# ymax            :   1.3000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.6500E+07  0.0000E+00  8.0000E-06  1.0000E-06
+  2.8500E+07  0.0000E+00  1.1000E-05  1.5000E-06
+  3.3000E+07  0.0000E+00  1.3000E-05  2.5000E-06
+  3.8000E+07  0.0000E+00  9.0000E-06  4.0000E-06
+  4.3000E+07  0.0000E+00  5.0000E-06  2.0000E-06
+  4.8000E+07  0.0000E+00  1.0000E-05  4.0000E-06
+  6.3000E+07  0.0000E+00  3.0000E-06  1.0000E-06
+#---------------------------------------------------

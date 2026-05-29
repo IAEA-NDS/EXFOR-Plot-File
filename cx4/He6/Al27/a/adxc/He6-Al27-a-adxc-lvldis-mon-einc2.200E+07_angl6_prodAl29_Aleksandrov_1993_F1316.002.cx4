@@ -1,0 +1,29 @@
+# EXFOR #         : F1316.002  
+# EXFOR Ver.      : 20170717
+# TRANS #         : F065
+# Author          : D.V.Aleksandrov et al.
+# Reference       : Proceedings of 43.Int.Conf.Nucl.Spectrosc.Nucl.Struct.,Dubna 1993 page 276
+# DOI             : N/A
+# Quantity        : 27Al(6He,a)29Al partial angular differential cross section
+# REACTION        : 13-AL-27(2-HE-6,A)13-AL-29,PAR,DA
+# File ID         : He6-Al27-a-adxc-lvldis-mon-einc2.200E+07_angl6_prodAl29_Aleksandrov_1993_f1316.002
+#
+# Einc (eV)       :   2.2000E+07
+# theta,lab (deg) :    6.0000000
+#
+# npts            : 5           
+# xmin            :   1.1500E+07
+# xmax            :   1.8000E+07
+# ymin            :   1.5700E-02
+# ymax            :   5.5000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1500E+07  0.0000E+00  1.5700E-02  0.0000E+00
+  1.2800E+07  0.0000E+00  3.4500E-02  0.0000E+00
+  1.3500E+07  0.0000E+00  3.0700E-02  0.0000E+00
+  1.5200E+07  0.0000E+00  4.7600E-02  0.0000E+00
+  1.8000E+07  0.0000E+00  5.5000E-02  0.0000E+00
+#---------------------------------------------------

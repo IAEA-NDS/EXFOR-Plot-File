@@ -1,0 +1,26 @@
+# EXFOR #         : O1705.002  
+# EXFOR Ver.      : 20081121
+# TRANS #         : O038
+# Author          : A.Gillibert et al.
+# Reference       : Eur.Phys.J.Spec.Top. 150 (2007) 161
+# DOI             : 10.1140/epjst/e2007-00293-5
+# Quantity        : 2H(26Ne,p)27Ne partial cross section
+# REACTION        : 1-H-2(10-NE-26,P)10-NE-27,PAR,SIG
+# File ID         : Ne26-H2-p-sig-lvldis-mon-einc2.522E+08_prodNe27_Gillibert_2007_o1705.002
+#
+# Einc (eV)       :   2.5220E+08
+#
+# npts            : 3           
+# xmin            :   0.0000E+00
+# xmax            :   8.8500E+05
+# ymin            :   3.1000E-03
+# ymax            :   2.1300E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  4.6000E-03  3.9000E-03
+  7.6500E+05  0.0000E+00  2.1300E-02  2.3000E-03
+  8.8500E+05  0.0000E+00  3.1000E-03  6.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : C0452.009  
+# EXFOR Ver.      : 19970701
+# TRANS #         : 0000
+# Author          : J.Yan et al.
+# Reference       : Phys.Rev.C 55 (1997) 1890
+# DOI             : 10.1103/PhysRevC.55.1890
+# Quantity        : 9Be(d,p)10Be partial cross section
+# REACTION        : 4-BE-9(D,P)4-BE-10,PAR,SIG
+# File ID         : d-Be9-p-sig-excfun-mon-elvl3.368E+06_prodBe10_Yan_1997_c0452.009
+#
+# Elvl (eV)       :   3.3680E+06
+#
+# npts            : 3           
+# xmin            :   1.2235E+05
+# xmax            :   1.6150E+05
+# ymin            :   1.1000E-05
+# ymax            :   7.2000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2235E+05  0.0000E+00  1.1000E-05  1.0000E-06
+  1.4193E+05  0.0000E+00  3.6000E-05  4.0000E-06
+  1.6150E+05  0.0000E+00  7.2000E-05  8.0000E-06
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C1035.013.4
+# EXFOR Ver.      : 20130117
+# TRANS #         : C129
+# Author          : J.R.Wu et al.
+# Reference       : Phys.Rev.C 19 (1979) 370
+# DOI             : 10.1103/PhysRevC.19.370
+# Quantity        : 208Pb(d,h+x) cross section
+# REACTION        : 82-PB-208(D,X)2-HE-3,,SIG
+# File ID         : d-Pb208-xh-sig-excfun-mon-Wu_1979_c1035.013.4
+#
+# npts            : 1           
+# xmin            :   7.0000E+07
+# xmax            :   7.0000E+07
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0000E+07  0.0000E+00  1.0000E-02  1.0000E-03
+#---------------------------------------------------

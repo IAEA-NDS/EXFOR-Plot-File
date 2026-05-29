@@ -1,0 +1,23 @@
+# EXFOR #         : D6057.009  
+# EXFOR Ver.      : 20091105
+# TRANS #         : D070
+# Author          : H.J.Karwowski et al.
+# Reference       : Phys.Rev.Lett. 42 (1979) 1732
+# DOI             : 10.1103/PhysRevLett.42.1732
+# Quantity        : 194Pt(6Li,n+x) cross section
+# REACTION        : 78-PT-194(3-LI-6,X)0-NN-1,,SIG
+# File ID         : Li6-Pt194-xn-sig-excfun-mon-Karwowski_1979_d6057.009
+#
+# npts            : 2           
+# xmin            :   8.4900E+07
+# xmax            :   9.4500E+07
+# ymin            :   7.7500E-01
+# ymax            :   9.0400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.4900E+07  0.0000E+00  9.0400E-01  9.4000E-02
+  9.4500E+07  0.0000E+00  7.7500E-01  8.9000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : D8010.007  
+# EXFOR Ver.      : 20200428
+# TRANS #         : D127
+# Author          : A.K.Mistry et al.
+# Reference       : Nucl.Phys.A 987 (2019) 337
+# DOI             : 10.1016/j.nuclphysa.2019.05.003
+# Quantity        : natW(48Ca,x)228Pu independent production cross section
+# REACTION        : 74-W-0(20-CA-48,X)94-PU-228,,SIG
+# File ID         : Ca48-W-x-sig-excfun-mon-prodPu228_Mistry_2019_d8010.007
+#
+# npts            : 1           
+# xmin            :   2.1850E+08
+# xmax            :   2.1850E+08
+# ymin            :   2.2000E-10
+# ymax            :   2.2000E-10
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1850E+08  0.0000E+00  2.2000E-10  2.0000E-10
+#---------------------------------------------------

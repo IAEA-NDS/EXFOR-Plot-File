@@ -1,0 +1,28 @@
+# EXFOR #         : F0171.002  
+# EXFOR Ver.      : 20200608
+# TRANS #         : F078
+# Author          : P.D.Forsyth et al.
+# Reference       : Nucl.Phys. 85 (1966) 153
+# DOI             : 10.1016/0029-5582(66)90138-6
+# Quantity        : 9Be(he3,d)10B partial angular differential cross section
+# REACTION        : 4-BE-9(HE3,D)5-B-10,PAR,DA
+# File ID         : h-Be9-d-adxl-angdisl-mon-einc9.000E+06_elvl5.110E+06_prodB10_Forsyth_1966_f0171.002
+#
+# Einc (eV)       :   9.0000E+06
+# Elvl (eV)       :   5.1100E+06
+#
+# npts            : 4           
+# xmin            :    5.0000000
+# xmax            :   50.0000000
+# ymin            :   9.0000E-04
+# ymax            :   7.0000E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0000000   0.0000000  7.0000E-03  2.1000E-03
+  20.0000000   0.0000000  2.2000E-03  6.6000E-04
+  35.0000000   0.0000000  1.1100E-03  3.3300E-04
+  50.0000000   0.0000000  9.0000E-04  2.7000E-04
+#---------------------------------------------------

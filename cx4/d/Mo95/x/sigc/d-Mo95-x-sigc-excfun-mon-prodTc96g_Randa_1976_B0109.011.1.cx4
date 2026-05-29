@@ -1,0 +1,23 @@
+# EXFOR #         : B0109.011.1
+# EXFOR Ver.      : 20180516
+# TRANS #         : B027
+# Author          : Z.Randa et al.
+# Reference       : J.Inorg.Nucl.Chem. 38 (1976) 2289
+# DOI             : 10.1016/0022-1902(76)80213-8
+# Quantity        : 95Mo(d,n)96gTc cumulative production cross section
+# REACTION        : 42-MO-95(D,N)43-TC-96-G,M+,SIG
+# File ID         : d-Mo95-x-sigc-excfun-mon-prodTc96g_Randa_1976_b0109.011.1
+#
+# npts            : 2           
+# xmin            :   3.4000E+06
+# xmax            :   4.9000E+06
+# ymin            :   2.8000E-03
+# ymax            :   5.0100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9000E+06  0.0000E+00  5.0100E-02  0.0000E+00
+  3.4000E+06  0.0000E+00  2.8000E-03  0.0000E+00
+#---------------------------------------------------

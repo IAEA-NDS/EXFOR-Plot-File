@@ -1,0 +1,25 @@
+# EXFOR #         : S0111.003.1
+# EXFOR Ver.      : 20151008
+# TRANS #         : S019
+# Author          : Guo Junsheng et al.
+# Reference       : High En.Nucl.Phy.Ch. 2 (1978) 143
+# DOI             : N/A
+# Quantity        : 209Bi(12C,x)213Fr independent production cross section
+# REACTION        : 83-BI-209(6-C-12,X)87-FR-213,,SIG
+# File ID         : C12-Bi209-x-sig-excfun-mon-prodFr213_Guo%Junsheng_1978_s0111.003.1
+#
+# npts            : 4           
+# xmin            :   6.6400E+07
+# xmax            :   6.8800E+07
+# ymin            :   3.3000E-03
+# ymax            :   6.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6400E+07  0.0000E+00  3.3000E-03  5.6100E-04
+  6.7000E+07  0.0000E+00  9.5000E-03  1.6150E-03
+  6.7600E+07  0.0000E+00  2.2000E-02  3.7400E-03
+  6.8800E+07  0.0000E+00  6.2000E-02  1.0540E-02
+#---------------------------------------------------

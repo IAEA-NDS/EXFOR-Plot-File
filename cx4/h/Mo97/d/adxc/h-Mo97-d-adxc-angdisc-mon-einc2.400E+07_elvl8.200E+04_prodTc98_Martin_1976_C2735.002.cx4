@@ -1,0 +1,29 @@
+# EXFOR #         : C2735.002  
+# EXFOR Ver.      : 20220504
+# TRANS #         : C219
+# Author          : D.J.Martin et al.
+# Reference       : Phys.Rev.C 13 (1976) 1117
+# DOI             : 10.1103/PhysRevC.13.1117
+# Quantity        : 97Mo(he3,d)98Tc partial angular differential cross section
+# REACTION        : 42-MO-97(HE3,D)43-TC-98,PAR,DA
+# File ID         : h-Mo97-d-adxc-angdisc-mon-einc2.400E+07_elvl8.200E+04_prodTc98_Martin_1976_c2735.002
+#
+# Einc (eV)       :   2.4000E+07
+# Elvl (eV)       :   8.2000E+04
+#
+# npts            : 5           
+# xmin            :   10.1880000
+# xmax            :   44.7690000
+# ymin            :   4.6410E-05
+# ymax            :   2.3390E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.1880000   0.0000000  4.6410E-05  9.3370E-06
+  17.5290000   0.0000000  7.7350E-05  2.9700E-05
+  24.8930000   0.0000000  2.2450E-04  4.5160E-05
+  29.8720000   0.0000000  2.3390E-04  3.9020E-05
+  44.7690000   0.0000000  1.0400E-04  2.9740E-05
+#---------------------------------------------------

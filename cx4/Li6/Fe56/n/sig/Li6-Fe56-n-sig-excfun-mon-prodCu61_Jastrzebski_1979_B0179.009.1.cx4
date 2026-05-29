@@ -1,0 +1,23 @@
+# EXFOR #         : B0179.009.1
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : J.Jastrzebski et al.
+# Reference       : Phys.Rev.C 19 (1979) 724
+# DOI             : 10.1103/PhysRevC.19.724
+# Quantity        : 56Fe(6Li,n)61Cu cross section
+# REACTION        : 26-FE-56(3-LI-6,N)29-CU-61,,SIG,,,EXP
+# File ID         : Li6-Fe56-n-sig-excfun-mon-prodCu61_Jastrzebski_1979_b0179.009.1
+#
+# npts            : 2           
+# xmin            :   2.1100E+07
+# xmax            :   3.3700E+07
+# ymin            :   3.0000E-04
+# ymax            :   8.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1100E+07  0.0000E+00  8.0000E-04  3.0000E-04
+  3.3700E+07  0.0000E+00  3.0000E-04  1.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : F1211.011  
+# EXFOR Ver.      : 20141023
+# TRANS #         : F055
+# Author          : K.V.Makariunas et al.
+# Reference       : Zh.Eksp.Teor.Fiz. 38 (1960) 372
+# DOI             : N/A
+# Quantity        : natLi(a,p) angular differential cross section
+# REACTION        : 3-LI-0(A,P),,DA
+# File ID         : a-Li-p-adxl-angdisl-mon-einc1.320E+07_prodBe3_Makariunas_1960_f1211.011
+#
+# Einc (eV)       :   1.3200E+07
+#
+# npts            : 6           
+# xmin            :   39.7700000
+# xmax            :  108.8000000
+# ymin            :   3.1010E-04
+# ymax            :   4.9640E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  39.7700000   0.0000000  3.9470E-04  0.0000E+00
+  60.3500000   0.0000000  4.9640E-04  0.0000E+00
+  79.3800000   0.0000000  3.3010E-04  0.0000E+00
+  88.7600000   0.0000000  3.1010E-04  0.0000E+00
+  99.1100000   0.0000000  3.2870E-04  0.0000E+00
+ 108.8000000   0.0000000  3.7940E-04  0.0000E+00
+#---------------------------------------------------

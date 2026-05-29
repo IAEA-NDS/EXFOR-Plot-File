@@ -1,0 +1,24 @@
+# EXFOR #         : D0143.047  
+# EXFOR Ver.      : 20040302
+# TRANS #         : 0000
+# Author          : J.Ernst et al.
+# Reference       : Z.Phys.A 308 (1982) 301
+# DOI             : 10.1007/BF01415879
+# Quantity        : 181Ta(a,x)170Hf cumulative production cross section
+# REACTION        : 73-TA-181(A,X)72-HF-170,CUM,SIG
+# File ID         : a-Ta181-x-sigc-excfun-mon-prodHf170_Ernst_1982_d0143.047
+#
+# npts            : 3           
+# xmin            :   1.4540E+08
+# xmax            :   1.5640E+08
+# ymin            :   3.5000E-02
+# ymax            :   9.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4540E+08  5.0000E+05  3.5000E-02  0.0000E+00
+  1.5100E+08  5.0000E+05  9.0000E-02  0.0000E+00
+  1.5640E+08  5.0000E+05  6.7000E-02  0.0000E+00
+#---------------------------------------------------

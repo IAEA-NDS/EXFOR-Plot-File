@@ -1,0 +1,22 @@
+# EXFOR #         : C1250.012  
+# EXFOR Ver.      : 20050607
+# TRANS #         : C074
+# Author          : R.E.Warner et al.
+# Reference       : Phys.Rev.C 64 (2001) 044611
+# DOI             : 10.1103/PhysRevC.64.044611
+# Quantity        : natPb(12Be,x)11Be independent production cross section
+# REACTION        : 82-PB-0(4-BE-12,X)4-BE-11,,SIG
+# File ID         : Be12-Pb-x-sig-excfun-mon-prodBe11_Warner_2001_c1250.012
+#
+# npts            : 1           
+# xmin            :   5.6400E+08
+# xmax            :   5.6400E+08
+# ymin            :   1.3900E-01
+# ymax            :   1.3900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.6400E+08  1.8000E+08  1.3900E-01  1.7000E-02
+#---------------------------------------------------

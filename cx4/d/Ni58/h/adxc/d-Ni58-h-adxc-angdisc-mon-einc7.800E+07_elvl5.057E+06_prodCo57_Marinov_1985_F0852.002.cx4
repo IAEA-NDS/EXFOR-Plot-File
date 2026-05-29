@@ -1,0 +1,30 @@
+# EXFOR #         : F0852.002  
+# EXFOR Ver.      : 20070918
+# TRANS #         : F029
+# Author          : A.Marinov et al.
+# Reference       : Nucl.Phys.A 438 (1985) 429
+# DOI             : 10.1016/0375-9474(85)90384-7
+# Quantity        : 58Ni(d,he3)57Co partial angular differential cross section
+# REACTION        : 28-NI-58(D,HE3)27-CO-57,PAR,DA
+# File ID         : d-Ni58-h-adxc-angdisc-mon-einc7.800E+07_elvl5.057E+06_prodCo57_Marinov_1985_f0852.002
+#
+# Einc (eV)       :   7.8000E+07
+# dEinc (eV)      :   1.2500E+04
+# Elvl (eV)       :   5.0570E+06
+#
+# npts            : 5           
+# xmin            :    2.5683000
+# xmax            :    6.9917000
+# ymin            :   1.6280E-05
+# ymax            :   3.4180E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.5683000   0.0000000  3.4180E-05  5.1270E-06
+   3.7963000   0.0000000  3.3800E-05  5.0700E-06
+   4.5178000   0.0000000  2.8660E-05  4.2990E-06
+   5.9656000   0.0000000  1.7880E-05  2.6820E-06
+   6.9917000   0.0000000  1.6280E-05  2.4420E-06
+#---------------------------------------------------

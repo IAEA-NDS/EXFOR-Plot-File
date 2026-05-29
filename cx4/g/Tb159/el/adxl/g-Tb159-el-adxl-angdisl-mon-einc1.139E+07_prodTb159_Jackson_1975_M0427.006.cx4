@@ -1,0 +1,25 @@
+# EXFOR #         : M0427.006  
+# EXFOR Ver.      : 20161223
+# TRANS #         : M086
+# Author          : H.E.Jackson et al.
+# Reference       : Phys.Rev.C 11 (1975) 1664
+# DOI             : 10.1103/PhysRevC.11.1664
+# Quantity        : 159Tb(g,el)159Tb angular differential cross section
+# REACTION        : 65-TB-159(G,EL)65-TB-159,,DA
+# File ID         : g-Tb159-el-adxl-angdisl-mon-einc1.139E+07_prodTb159_Jackson_1975_m0427.006
+#
+# Einc (eV)       :   1.1387E+07
+#
+# npts            : 2           
+# xmin            :   90.0000000
+# xmax            :  150.0000000
+# ymin            :   6.2000E-05
+# ymax            :   1.3400E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  6.2000E-05  6.0000E-06
+ 150.0000000   0.0000000  1.3400E-04  1.2000E-05
+#---------------------------------------------------

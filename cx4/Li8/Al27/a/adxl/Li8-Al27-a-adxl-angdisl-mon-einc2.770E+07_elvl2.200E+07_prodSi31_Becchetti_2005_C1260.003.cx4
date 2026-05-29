@@ -1,0 +1,28 @@
+# EXFOR #         : C1260.003  
+# EXFOR Ver.      : 20050615
+# TRANS #         : C074
+# Author          : F.D.Becchetti et al.
+# Reference       : Phys.Rev.C 71 (2005) 054610
+# DOI             : 10.1103/PhysRevC.71.054610
+# Quantity        : 27Al(8Li,a)31Si partial angular differential cross section
+# REACTION        : 13-AL-27(3-LI-8,A)14-SI-31,PAR,DA
+# File ID         : Li8-Al27-a-adxl-angdisl-mon-einc2.770E+07_elvl2.200E+07_prodSi31_Becchetti_2005_c1260.003
+#
+# Einc (eV)       :   2.7700E+07
+# Elvl (eV)       :   2.2000E+07
+#
+# npts            : 4           
+# xmin            :   17.2000000
+# xmax            :   61.4000000
+# ymin            :   2.4800E-04
+# ymax            :   5.9500E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  17.2000000   0.0000000  5.9500E-03  1.3700E-03
+  32.0000000   0.0000000  1.4900E-03  6.1700E-04
+  47.0000000   0.0000000  1.2100E-03  3.8700E-04
+  61.4000000   0.0000000  2.4800E-04  1.6800E-04
+#---------------------------------------------------

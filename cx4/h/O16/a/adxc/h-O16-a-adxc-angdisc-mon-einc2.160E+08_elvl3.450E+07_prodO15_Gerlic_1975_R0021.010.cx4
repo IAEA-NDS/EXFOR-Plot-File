@@ -1,0 +1,29 @@
+# EXFOR #         : R0021.010  
+# EXFOR Ver.      : 20070909
+# TRANS #         : R022
+# Author          : E.Gerlic et al.
+# Reference       : Phys.Rev.C 12 No.6 (1975) 2106
+# DOI             : 10.1103/PhysRevC.12.2106
+# Quantity        : 16O(he3,a)15O partial angular differential cross section
+# REACTION        : 8-O-16(HE3,A)8-O-15,PAR,DA
+# File ID         : h-O16-a-adxc-angdisc-mon-einc2.160E+08_elvl3.450E+07_prodO15_Gerlic_1975_r0021.010
+#
+# Einc (eV)       :   2.1600E+08
+# Elvl (eV)       :   3.4500E+07
+# dElvl (eV)      :   1.5500E+07
+#
+# npts            : 4           
+# xmin            :    8.2000000
+# xmax            :   18.4000000
+# ymin            :   2.6000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   8.2000000   0.0000000  5.0000E-04  1.0000E-05
+  11.0000000   0.0000000  4.2000E-04  3.0000E-05
+  14.6000000   0.0000000  3.2000E-04  2.0000E-05
+  18.4000000   0.0000000  2.6000E-04  3.0000E-05
+#---------------------------------------------------

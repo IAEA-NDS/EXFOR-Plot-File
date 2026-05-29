@@ -1,0 +1,25 @@
+# EXFOR #         : D0401.002  
+# EXFOR Ver.      : 20060526
+# TRANS #         : D046
+# Author          : M.Hemalatha et al.
+# Reference       : Nucl.Instrum.Meth.A 531 (2004) 645
+# DOI             : 10.1016/j.nima.2004.05.120
+# Quantity        : natSn(11B,x)127Cs independent production cross section
+# REACTION        : 50-SN-0(5-B-11,X)55-CS-127,,SIG
+# File ID         : B11-Sn-x-sig-excfun-mon-prodCs127_Hemalatha_2004_d0401.002
+#
+# npts            : 4           
+# xmin            :   3.4800E+07
+# xmax            :   5.1100E+07
+# ymin            :   5.5000E-03
+# ymax            :   2.9880E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4800E+07  0.0000E+00  5.5000E-03  3.0000E-04
+  4.0600E+07  0.0000E+00  1.0440E-01  2.7000E-03
+  4.6100E+07  0.0000E+00  1.9450E-01  4.3000E-03
+  5.1100E+07  0.0000E+00  2.9880E-01  6.4000E-03
+#---------------------------------------------------

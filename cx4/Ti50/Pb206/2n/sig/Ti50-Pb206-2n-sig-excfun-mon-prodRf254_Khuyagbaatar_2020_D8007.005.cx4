@@ -1,0 +1,22 @@
+# EXFOR #         : D8007.005  
+# EXFOR Ver.      : 20200131
+# TRANS #         : D125
+# Author          : J.Khuyagbaatar et al.
+# Reference       : Nucl.Phys.A 994 (2020) 121662
+# DOI             : 10.1016/j.nuclphysa.2019.121662
+# Quantity        : 206Pb(50Ti,2n)254Rf cross section
+# REACTION        : 82-PB-206(22-TI-50,2N)104-RF-254,,SIG
+# File ID         : Ti50-Pb206-2n-sig-excfun-mon-prodRf254_Khuyagbaatar_2020_d8007.005
+#
+# npts            : 1           
+# xmin            :   2.3200E+07
+# xmax            :   2.3200E+07
+# ymin            :   3.8000E-09
+# ymax            :   3.8000E-09
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3200E+07  0.0000E+00  3.8000E-09  4.0000E-10
+#---------------------------------------------------

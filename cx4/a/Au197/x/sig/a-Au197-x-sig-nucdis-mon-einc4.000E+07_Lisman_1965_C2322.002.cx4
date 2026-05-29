@@ -1,0 +1,26 @@
+# EXFOR #         : C2322.002  
+# EXFOR Ver.      : 20180618
+# TRANS #         : C177
+# Author          : F.L.Lisman et al.
+# Reference       : Phys.Rev. 140 (1965) B863
+# DOI             : 10.1103/PhysRev.140.B863
+# Quantity        : 197Au(a,f) independent production cross section
+# REACTION        : 79-AU-197(A,F)ELEM/MASS,,SIG
+# File ID         : a-Au197-x-sig-nucdis-mon-einc4.000E+07_Lisman_1965_c2322.002
+#
+# Einc (eV)       :   4.0000E+07
+# dEinc (eV)      :   4.0000E+05
+#
+# npts            : 2           
+# xmin            : 35082.9     
+# xmax            : 41096.9     
+# ymin            :   2.1000E-07
+# ymax            :   2.8900E-07
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     35082.9  2.1000E-07  4.0000E-08
+     41096.9  2.8900E-07  5.9000E-08
+#---------------------------------------------------

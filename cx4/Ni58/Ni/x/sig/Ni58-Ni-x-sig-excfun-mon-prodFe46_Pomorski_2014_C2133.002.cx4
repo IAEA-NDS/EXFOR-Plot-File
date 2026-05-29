@@ -1,0 +1,22 @@
+# EXFOR #         : C2133.002  
+# EXFOR Ver.      : 20141201
+# TRANS #         : C147
+# Author          : M.Pomorski et al.
+# Reference       : Phys.Rev.C 90 (2014) 014311
+# DOI             : 10.1103/PhysRevC.90.014311
+# Quantity        : natNi(58Ni,x)46Fe independent production cross section
+# REACTION        : 28-NI-0(28-NI-58,X)26-FE-46,,SIG
+# File ID         : Ni58-Ni-x-sig-excfun-mon-prodFe46_Pomorski_2014_c2133.002
+#
+# npts            : 1           
+# xmin            :   9.2800E+09
+# xmax            :   9.2800E+09
+# ymin            :   2.5000E-11
+# ymax            :   2.5000E-11
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.2800E+09  0.0000E+00  2.5000E-11  1.2000E-11
+#---------------------------------------------------

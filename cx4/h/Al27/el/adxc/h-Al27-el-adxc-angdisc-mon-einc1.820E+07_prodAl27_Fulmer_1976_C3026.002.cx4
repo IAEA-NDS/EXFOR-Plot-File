@@ -1,0 +1,26 @@
+# EXFOR #         : C3026.002  
+# EXFOR Ver.      : 20250107
+# TRANS #         : C248
+# Author          : C.B.Fulmer et al.
+# Reference       : Phys.Rev.C 13 (1976) 937
+# DOI             : 10.1103/PhysRevC.13.937
+# Quantity        : 27Al(he3,el)27Al angular differential cross section
+# REACTION        : 13-AL-27(HE3,EL)13-AL-27,,DA
+# File ID         : h-Al27-el-adxc-angdisc-mon-einc1.820E+07_prodAl27_Fulmer_1976_c3026.002
+#
+# Einc (eV)       :   1.8200E+07
+#
+# npts            : 3           
+# xmin            :  171.5780000
+# xmax            :  178.4530000
+# ymin            :   3.6590E-05
+# ymax            :   4.5220E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 171.5780000   0.0000000  3.6590E-05  4.7010E-06
+ 175.4390000   0.0000000  4.1340E-05  4.9370E-06
+ 178.4530000   0.0000000  4.5220E-05  5.8100E-06
+#---------------------------------------------------

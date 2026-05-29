@@ -1,0 +1,23 @@
+# EXFOR #         : D4250.004  
+# EXFOR Ver.      : 20111208
+# TRANS #         : D081
+# Author          : F.Ditroi et al.
+# Reference       : Nucl.Instrum.Meth.B 269 (2011) 1963
+# DOI             : 10.1016/j.nimb.2011.05.026
+# Quantity        : 103Rh(d,5n)100Pd cross section
+# REACTION        : 45-RH-103(D,5N)46-PD-100,,SIG
+# File ID         : d-Rh103-5n-sig-excfun-mon-prodPd100_Ditroi_2011_d4250.004
+#
+# npts            : 2           
+# xmin            :   3.7000E+07
+# xmax            :   3.9900E+07
+# ymin            :   3.0000E-04
+# ymax            :   1.9800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9900E+07  4.0000E+05  1.9800E-02  2.9000E-03
+  3.7000E+07  5.0000E+05  3.0000E-04  1.0000E-04
+#---------------------------------------------------

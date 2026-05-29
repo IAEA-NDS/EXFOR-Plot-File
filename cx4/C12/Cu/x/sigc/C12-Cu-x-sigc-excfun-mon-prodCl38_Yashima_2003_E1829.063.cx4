@@ -1,0 +1,25 @@
+# EXFOR #         : E1829.063  
+# EXFOR Ver.      : 20190318
+# TRANS #         : E122
+# Author          : H.Yashima et al.
+# Reference       : Radiochim.Acta 91 (2003) 689
+# DOI             : 10.1524/ract.91.12.689.23423
+# Quantity        : natCu(12C,x)38Cl cumulative production cross section
+# REACTION        : 29-CU-0(6-C-12,X)17-CL-38,CUM,SIG
+# File ID         : C12-Cu-x-sigc-excfun-mon-prodCl38_Yashima_2003_e1829.063
+#
+# npts            : 4           
+# xmin            :   6.3600E+08
+# xmax            :   2.2200E+09
+# ymin            :   2.8900E-03
+# ymax            :   3.9250E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2200E+09  0.0000E+00  3.5680E-03  4.7000E-04
+  1.6080E+09  0.0000E+00  3.9250E-03  5.4000E-04
+  9.2400E+08  0.0000E+00  3.5780E-03  5.4000E-04
+  6.3600E+08  0.0000E+00  2.8900E-03  5.2000E-04
+#---------------------------------------------------

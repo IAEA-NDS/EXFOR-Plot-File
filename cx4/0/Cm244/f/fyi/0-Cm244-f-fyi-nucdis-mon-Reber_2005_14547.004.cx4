@@ -1,0 +1,25 @@
+# EXFOR #         : 14547.004  
+# EXFOR Ver.      : 20191021
+# TRANS #         : 1457
+# Author          : E.L.Reber et al.
+# Reference       : J.Rad.Nucl.Chem. 264 (2005) 243
+# DOI             : 10.1007/s10967-005-0701-1
+# Quantity        : 244Cm(sf) independent fission product yield
+# REACTION        : 96-CM-244(0,F)ELEM/MASS,IND,FY
+# File ID         : 0-Cm244-f-fyi-nucdis-mon-Reber_2005_14547.004
+#
+# npts            : 4           
+# xmin            : 43107.9     
+# xmax            : 54140.9     
+# ymin            :   1.3800E-02
+# ymax            :   3.3800E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     43107.9  3.3200E-02  0.0000E+00
+     44110.9  1.8200E-02  0.0000E+00
+     52134.9  3.3800E-02  0.0000E+00
+     54140.9  1.3800E-02  0.0000E+00
+#---------------------------------------------------

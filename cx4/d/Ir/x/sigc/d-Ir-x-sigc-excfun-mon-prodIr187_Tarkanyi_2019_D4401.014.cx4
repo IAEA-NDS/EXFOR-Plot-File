@@ -1,0 +1,26 @@
+# EXFOR #         : D4401.014  
+# EXFOR Ver.      : 20200207
+# TRANS #         : D125
+# Author          : F.Tarkanyi et al.
+# Reference       : Nucl.Instrum.Meth.B 458 (2019) 105
+# DOI             : 10.1016/j.nimb.2019.08.009
+# Quantity        : natIr(d,x)187Ir cumulative production cross section
+# REACTION        : 77-IR-0(D,X)77-IR-187,CUM,SIG
+# File ID         : d-Ir-x-sigc-excfun-mon-prodIr187_Tarkanyi_2019_d4401.014
+#
+# npts            : 5           
+# xmin            :   4.2930E+07
+# xmax            :   4.9500E+07
+# ymin            :   9.8200E-03
+# ymax            :   1.4043E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9500E+07  2.0000E+05  1.4043E-01  1.6930E-02
+  4.7860E+07  2.8000E+05  1.0201E-01  1.2380E-02
+  4.6180E+07  3.1000E+05  6.0360E-02  7.4200E-03
+  4.4450E+07  3.4000E+05  2.0750E-02  2.8000E-03
+  4.2930E+07  3.8000E+05  9.8200E-03  1.5800E-03
+#---------------------------------------------------

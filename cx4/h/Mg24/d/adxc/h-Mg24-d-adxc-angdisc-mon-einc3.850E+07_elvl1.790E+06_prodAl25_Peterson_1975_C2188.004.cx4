@@ -1,0 +1,29 @@
+# EXFOR #         : C2188.004  
+# EXFOR Ver.      : 20151006
+# TRANS #         : C154
+# Author          : R.J.Peterson et al.
+# Reference       : Nucl.Phys.A 246 No.2 (1975) 402
+# DOI             : 10.1016/0375-9474(75)90655-7
+# Quantity        : 24Mg(he3,d)25Al partial angular differential cross section
+# REACTION        : 12-MG-24(HE3,D)13-AL-25,PAR,DA
+# File ID         : h-Mg24-d-adxc-angdisc-mon-einc3.850E+07_elvl1.790E+06_prodAl25_Peterson_1975_c2188.004
+#
+# Einc (eV)       :   3.8500E+07
+# dEinc (eV)      :   2.0000E+04
+# Elvl (eV)       :   1.7900E+06
+#
+# npts            : 4           
+# xmin            :   17.1600000
+# xmax            :   33.6470000
+# ymin            :   7.0500E-06
+# ymax            :   5.5450E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  17.1600000   0.0000000  5.5450E-05  0.0000E+00
+  22.6800000   0.0000000  1.8150E-05  0.0000E+00
+  28.3920000   0.0000000  7.0500E-06  0.0000E+00
+  33.6470000   0.0000000  1.0090E-05  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : C0320.013  
+# EXFOR Ver.      : 20050126
+# TRANS #         : 0000
+# Author          : A.Gavron et al.
+# Reference       : Phys.Rev.C 30 (1984) 1550
+# DOI             : 10.1103/PhysRevC.30.1550
+# Quantity        : 116Cd(58Ni,f) cross section
+# REACTION        : 48-CD-116(28-NI-58,F),,SIG
+# File ID         : Ni58-Cd116-f-sig-excfun-mon-Gavron_1984_c0320.013
+#
+# npts            : 2           
+# xmin            :   3.5200E+08
+# xmax            :   8.7500E+08
+# ymin            :   5.1500E-01
+# ymax            :   7.4100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5200E+08  0.0000E+00  7.4100E-01  7.4100E-02
+  8.7500E+08  0.0000E+00  5.1500E-01  5.1500E-02
+#---------------------------------------------------

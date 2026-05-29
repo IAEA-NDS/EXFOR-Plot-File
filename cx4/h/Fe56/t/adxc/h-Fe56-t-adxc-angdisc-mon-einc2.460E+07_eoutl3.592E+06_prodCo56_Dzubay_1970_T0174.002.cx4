@@ -1,0 +1,31 @@
+# EXFOR #         : T0174.002  
+# EXFOR Ver.      : 20020724
+# TRANS #         : 0000
+# Author          : T.G.Dzubay et al.
+# Reference       : Nucl.Phys.A 142 (1970) 488
+# DOI             : 10.1016/0375-9474(70)90807-9
+# Quantity        : 56Fe(he3,t)56Co partial angular differential cross section
+# REACTION        : 26-FE-56(HE3,T)27-CO-56,PAR,DA
+# File ID         : h-Fe56-t-adxc-angdisc-mon-einc2.460E+07_eoutl3.592E+06_prodCo56_Dzubay_1970_t0174.002
+#
+# Einc (eV)       :   2.4600E+07
+# dEinc (eV)      :   5.0000E+03
+# Eout,lab (eV)   :   3.5920E+06
+# dEout,lab (eV)  :   1.2000E+04
+#
+# npts            : 5           
+# xmin            :    8.3000000
+# xmax            :   36.1000000
+# ymin            :   1.2200E-05
+# ymax            :   1.4800E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   8.3000000   0.0000000  1.4800E-04  2.2200E-05
+  11.6000000   0.0000000  3.0700E-05  4.6050E-06
+  18.8000000   0.0000000  1.1500E-04  1.7250E-05
+  28.6000000   0.0000000  1.2200E-05  1.8300E-06
+  36.1000000   0.0000000  4.3700E-05  6.5550E-06
+#---------------------------------------------------

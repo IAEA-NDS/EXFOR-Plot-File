@@ -1,0 +1,25 @@
+# EXFOR #         : C2277.002  
+# EXFOR Ver.      : 20171112
+# TRANS #         : C173
+# Author          : S.A.Kuvin et al.
+# Reference       : Phys.Rev.C 96 (2017) 045812
+# DOI             : 10.1103/PhysRevC.96.045812
+# Quantity        : 17F(d,n)18Ne partial cross section
+# REACTION        : 9-F-17(D,N)10-NE-18,PAR,SIG
+# File ID         : d-F17-n-sig-lvldis-mon-einc1.124E+07_prodNe18_Kuvin_2017_c2277.002
+#
+# Einc (eV)       :   1.1240E+07
+#
+# npts            : 2           
+# xmin            :   4.5230E+06
+# xmax            :   5.0900E+06
+# ymin            :   2.3000E-03
+# ymax            :   1.5300E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5230E+06  0.0000E+00  1.5300E-02  3.0000E-04
+  5.0900E+06  0.0000E+00  2.3000E-03  3.5000E-04
+#---------------------------------------------------

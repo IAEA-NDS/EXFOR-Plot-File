@@ -1,0 +1,23 @@
+# EXFOR #         : D6272.007  
+# EXFOR Ver.      : 20170307
+# TRANS #         : D110
+# Author          : D.Chattopadhyay et al.
+# Reference       : Phys.Rev.C 94 (2016) 061602
+# DOI             : 10.1103/PhysRevC.94.061602
+# Quantity        : 112Sn(6Li,a+x) cross section
+# REACTION        : 50-SN-112(3-LI-6,X)2-HE-4,,SIG
+# File ID         : Li6-Sn112-xa-sig-excfun-mon-Chattopadhyay_2016_d6272.007
+#
+# npts            : 2           
+# xmin            :   2.2000E+07
+# xmax            :   3.0000E+07
+# ymin            :   3.0900E-01
+# ymax            :   5.9200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+07  0.0000E+00  5.9200E-01  3.5000E-02
+  2.2000E+07  0.0000E+00  3.0900E-01  1.6000E-02
+#---------------------------------------------------

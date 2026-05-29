@@ -1,0 +1,25 @@
+# EXFOR #         : C0003.003  
+# EXFOR Ver.      : 20020213
+# TRANS #         : 0000
+# Author          : R.C.Allen et al.
+# Reference       : Phys.Rev. 111 (1958) 1129
+# DOI             : 10.1103/PhysRev.111.1129
+# Quantity        : 3H(t,el)3H angular differential cross section
+# REACTION        : 1-H-3(T,EL)1-H-3,,DA
+# File ID         : t-H3-el-adxl-excfun-mon-angl30_prodH3_Allen_1958_c0003.003
+#
+# theta,lab (deg) :   30.0000000
+#
+# npts            : 2           
+# xmin            :   1.8000E+06
+# xmax            :   1.9000E+06
+# ymin            :   2.8600E-01
+# ymax            :   2.8700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.8000E+06  0.0000E+00  2.8700E-01  8.6100E-03
+  1.9000E+06  0.0000E+00  2.8600E-01  8.5800E-03
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : M0425.009  
+# EXFOR Ver.      : 20130621
+# TRANS #         : M068
+# Author          : J.L.Matthews et al.
+# Reference       : Nucl.Phys.A 267 (1976) 51
+# DOI             : 10.1016/0375-9474(76)90643-6
+# Quantity        : 12C(g,p)11B partial angular differential cross section
+# REACTION        : 6-C-12(G,P)5-B-11,PAR,DA,,BRS
+# File ID         : g-C12-p-adxl-angdisl-brs-einc1.000E+08_elvl4.400E+06_prodB11_Matthews_1976_m0425.009
+#
+# Einc (eV)       :   1.0000E+08
+# dEinc (eV)      :   1.0000E+06
+# Elvl (eV)       :   4.4000E+06
+# dElvl (eV)      :   2.3000E+06
+#
+# npts            : 2           
+# xmin            :   91.3000000
+# xmax            :  121.3000000
+# ymin            :   8.5000E-07
+# ymax            :   1.4100E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  91.3000000   0.0000000  1.4100E-06  2.6000E-07
+ 121.3000000   0.0000000  8.5000E-07  1.1000E-07
+#---------------------------------------------------

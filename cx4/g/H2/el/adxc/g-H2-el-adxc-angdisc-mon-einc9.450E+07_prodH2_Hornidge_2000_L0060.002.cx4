@@ -1,0 +1,29 @@
+# EXFOR #         : L0060.002  
+# EXFOR Ver.      : 20050131
+# TRANS #         : L007
+# Author          : D.L.Hornidge et al.
+# Reference       : Phys.Rev.Lett. 84 (2000) 2334
+# DOI             : 10.1103/PhysRevLett.84.2334
+# Quantity        : 2H(g,el)2H angular differential cross section
+# REACTION        : 1-H-2(G,EL)1-H-2,,DA
+# File ID         : g-H2-el-adxc-angdisc-mon-einc9.450E+07_prodH2_Hornidge_2000_l0060.002
+#
+# Einc (eV)       :   9.4500E+07
+# dEinc (eV)      :   1.0500E+07
+#
+# npts            : 5           
+# xmin            :   36.8000000
+# xmax            :  151.5000000
+# ymin            :   1.1500E-08
+# ymax            :   1.8600E-08
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  36.8000000   0.0000000  1.3300E-08  2.1000E-09
+  62.7000000   0.0000000  1.3500E-08  1.5000E-09
+  93.0000000   0.0000000  1.1500E-08  1.2000E-09
+ 122.6000000   0.0000000  1.5700E-08  1.9000E-09
+ 151.5000000   0.0000000  1.8600E-08  2.0000E-09
+#---------------------------------------------------

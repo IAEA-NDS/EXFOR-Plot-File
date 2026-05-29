@@ -1,0 +1,25 @@
+# EXFOR #         : C0193.002  
+# EXFOR Ver.      : 19981102
+# TRANS #         : 0000
+# Author          : J.A.Davies et al.
+# Reference       : Nucl.Intrum.Meth. 168 (1980) 611
+# DOI             : 10.1016/0029-554X(80)91319-1
+# Quantity        : 16O(d,p)17O partial angular differential cross section
+# REACTION        : 8-O-16(D,P)8-O-17,PAR,DA
+# File ID         : d-O16-p-adxl-lvldis-mon-einc9.700E+08_angl150_prodO17_Davies_1980_c0193.002
+#
+# Einc (eV)       :   9.7000E+08
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 1           
+# xmin            :   8.7000E+05
+# xmax            :   8.7000E+05
+# ymin            :   1.3300E-02
+# ymax            :   1.3300E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.7000E+05  0.0000E+00  1.3300E-02  4.0000E-04
+#---------------------------------------------------

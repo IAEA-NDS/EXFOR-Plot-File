@@ -1,0 +1,23 @@
+# EXFOR #         : C2940.031.1
+# EXFOR Ver.      : 20231113
+# TRANS #         : C237
+# Author          : D.G.Sarantites et al.
+# Reference       : Phys.Rev.C 17 (1978) 601
+# DOI             : 10.1103/PhysRevC.17.601
+# Quantity        : 166Er(a,7n)163Yb cross section
+# REACTION        : 68-ER-166(A,7N)70-YB-163,,SIG
+# File ID         : a-Er166-7n-sig-excfun-mon-prodYb163_Sarantites_1978_c2940.031.1
+#
+# npts            : 2           
+# xmin            :   8.0300E+07
+# xmax            :   9.5300E+07
+# ymin            :   2.6000E-01
+# ymax            :   5.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0300E+07  0.0000E+00  2.6000E-01  3.0000E-02
+  9.5300E+07  0.0000E+00  5.0000E-01  7.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : F0040.012  
+# EXFOR Ver.      : 20200129
+# TRANS #         : F074
+# Author          : S.H.Levine et al.
+# Reference       : Phys.Rev. 97 (1955) 1249
+# DOI             : 10.1103/PhysRev.97.1249
+# Quantity        : 6Li(d,p)7Li partial angular differential cross section
+# REACTION        : 3-LI-6(D,P)3-LI-7,PAR,DA
+# File ID         : d-Li6-p-adxc-angdisc-mon-einc1.440E+07_elvl6.560E+06_prodLi7_Levine_1955_f0040.012
+#
+# Einc (eV)       :   1.4400E+07
+# Elvl (eV)       :   6.5600E+06
+#
+# npts            : 1           
+# xmin            :   12.3000000
+# xmax            :   12.3000000
+# ymin            :   3.2000E-02
+# ymax            :   3.2000E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.3000000   0.0000000  3.2000E-02  0.0000E+00
+#---------------------------------------------------

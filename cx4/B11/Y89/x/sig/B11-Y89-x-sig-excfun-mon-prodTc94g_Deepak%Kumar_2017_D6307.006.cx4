@@ -1,0 +1,24 @@
+# EXFOR #         : D6307.006  
+# EXFOR Ver.      : 20190304
+# TRANS #         : D120
+# Author          : Deepak Kumar et al.
+# Reference       : Phys.Rev.C 95 (2017) 064602
+# DOI             : 10.1103/PhysRevC.95.064602
+# Quantity        : 89Y(11B,x)94gTc independent production cross section
+# REACTION        : 39-Y-89(5-B-11,X)43-TC-94-G,,SIG
+# File ID         : B11-Y89-x-sig-excfun-mon-prodTc94g_Deepak%Kumar_2017_d6307.006
+#
+# npts            : 3           
+# xmin            :   5.0800E+07
+# xmax            :   5.8700E+07
+# ymin            :   2.0000E-04
+# ymax            :   2.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0800E+07  0.0000E+00  2.0000E-04  1.0000E-04
+  5.3200E+07  0.0000E+00  5.0000E-04  2.0000E-04
+  5.8700E+07  0.0000E+00  2.8000E-03  6.0000E-04
+#---------------------------------------------------

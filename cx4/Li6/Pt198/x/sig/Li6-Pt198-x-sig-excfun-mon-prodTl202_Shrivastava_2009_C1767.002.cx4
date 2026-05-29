@@ -1,0 +1,25 @@
+# EXFOR #         : C1767.002  
+# EXFOR Ver.      : 20100113
+# TRANS #         : C100
+# Author          : A.Shrivastava et al.
+# Reference       : Phys.Rev.Lett. 103 (2009) 232702
+# DOI             : 10.1103/PhysRevLett.103.232702
+# Quantity        : 198Pt(6Li,x) independent production cross section
+# REACTION        : 78-PT-198(3-LI-6,X)ELEM/MASS,,SIG
+# File ID         : Li6-Pt198-x-sig-excfun-mon-prodTl202_Shrivastava_2009_c1767.002
+#
+# npts            : 4           
+# xmin            :   2.0400E+07
+# xmax            :   2.3400E+07
+# ymin            :   1.9000E-08
+# ymax            :   1.2400E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0400E+07  0.0000E+00  1.9000E-08  1.4000E-08
+  2.1300E+07  0.0000E+00  1.2200E-07  1.0000E-07
+  2.2400E+07  0.0000E+00  2.7000E-07  2.0000E-07
+  2.3400E+07  0.0000E+00  1.2400E-06  5.0000E-07
+#---------------------------------------------------

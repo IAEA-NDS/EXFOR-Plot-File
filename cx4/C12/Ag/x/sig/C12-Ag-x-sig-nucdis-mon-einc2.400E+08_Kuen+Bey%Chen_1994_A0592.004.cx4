@@ -1,0 +1,27 @@
+# EXFOR #         : A0592.004  
+# EXFOR Ver.      : 20250708
+# TRANS #         : A122
+# Author          : Kuen-Bey Chen et al.
+# Reference       : Nucl.Phys.A 569 (1994) 616
+# DOI             : 10.1016/0375-9474(94)90322-0
+# Quantity        : natAg(12C,x) independent production cross section
+# REACTION        : 47-AG-0(6-C-12,X)ELEM/MASS,,SIG
+# File ID         : C12-Ag-x-sig-nucdis-mon-einc2.400E+08_Kuen+Bey%Chen_1994_a0592.004
+#
+# Einc (eV)       :   2.4000E+08
+#
+# npts            : 4           
+# xmin            : 21048.9     
+# xmax            : 47106.1     
+# ymin            :   6.0000E-05
+# ymax            :   5.1000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     21048.9  6.0000E-05  8.0000E-06
+     25052.0  1.3300E-04  2.0000E-05
+     45099.0  4.3000E-03  2.0000E-04
+     47106.1  5.1000E-02  1.0000E-03
+#---------------------------------------------------

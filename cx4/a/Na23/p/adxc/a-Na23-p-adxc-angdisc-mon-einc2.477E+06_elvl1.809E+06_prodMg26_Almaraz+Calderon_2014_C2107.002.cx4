@@ -1,0 +1,29 @@
+# EXFOR #         : C2107.002  
+# EXFOR Ver.      : 20140514
+# TRANS #         : C143
+# Author          : S.Almaraz-Calderon et al.
+# Reference       : Phys.Rev.Lett. 112 (2014) 152701
+# DOI             : 10.1103/PhysRevLett.112.152701
+# Quantity        : 23Na(a,p)26Mg partial angular differential cross section
+# REACTION        : 11-NA-23(A,P)12-MG-26,PAR,DA
+# File ID         : a-Na23-p-adxc-angdisc-mon-einc2.477E+06_elvl1.809E+06_prodMg26_Almaraz+Calderon_2014_c2107.002
+#
+# Einc (eV)       :   2.4775E+06
+# dEinc (eV)      :   9.0009E+04
+# Elvl (eV)       :   1.8087E+06
+#
+# npts            : 4           
+# xmin            :  162.2200000
+# xmax            :  169.2800000
+# ymin            :   5.3100E-03
+# ymax            :   6.0600E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 162.2200000   1.0700000  5.3100E-03  2.2000E-04
+ 164.5400000   1.1100000  5.9300E-03  2.2000E-04
+ 166.9100000   1.2100000  6.0600E-03  2.7000E-04
+ 169.2800000   1.1600000  5.8900E-03  2.9000E-04
+#---------------------------------------------------

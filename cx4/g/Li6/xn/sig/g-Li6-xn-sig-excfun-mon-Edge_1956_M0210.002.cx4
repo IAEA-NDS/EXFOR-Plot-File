@@ -1,0 +1,22 @@
+# EXFOR #         : M0210.002  
+# EXFOR Ver.      : 20160224
+# TRANS #         : M082
+# Author          : R.D.Edge
+# Reference       : Australian J.Physics 9 (1956) 429
+# DOI             : 10.1071/PH560429
+# Quantity        : 6Li(g,n+x) cross section
+# REACTION        : 3-LI-6(G,X)0-NN-1,,SIG
+# File ID         : g-Li6-xn-sig-excfun-mon-Edge_1956_m0210.002
+#
+# npts            : 1           
+# xmin            :   6.2000E+06
+# xmax            :   6.2000E+06
+# ymin            :   3.0000E-04
+# ymax            :   3.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.2000E+06  0.0000E+00  3.0000E-04  2.0000E-04
+#---------------------------------------------------

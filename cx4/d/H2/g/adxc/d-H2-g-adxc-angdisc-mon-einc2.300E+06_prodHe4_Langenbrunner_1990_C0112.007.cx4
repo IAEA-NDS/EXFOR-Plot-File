@@ -1,0 +1,28 @@
+# EXFOR #         : C0112.007  
+# EXFOR Ver.      : 19990726
+# TRANS #         : 0000
+# Author          : J.L.Langenbrunner et al.
+# Reference       : Phys.Rev.C 42 (1990) 1214
+# DOI             : 10.1103/PhysRevC.42.1214
+# Quantity        : 2H(d,g)4He angular differential cross section
+# REACTION        : 1-H-2(D,G)2-HE-4,,DA
+# File ID         : d-H2-g-adxc-angdisc-mon-einc2.300E+06_prodHe4_Langenbrunner_1990_c0112.007
+#
+# Einc (eV)       :   2.3000E+06
+#
+# npts            : 5           
+# xmin            :   51.0000000
+# xmax            :  131.0000000
+# ymin            :   9.8600E-10
+# ymax            :   4.4080E-09
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  51.0000000   6.8000000  4.0020E-09  2.0300E-10
+  71.3000000   6.8000000  1.8850E-09  1.4500E-10
+  91.3000000   6.8000000  9.8600E-10  8.7000E-11
+ 111.3000000   6.8000000  2.8130E-09  1.7400E-10
+ 131.0000000   6.8000000  4.4080E-09  2.3200E-10
+#---------------------------------------------------

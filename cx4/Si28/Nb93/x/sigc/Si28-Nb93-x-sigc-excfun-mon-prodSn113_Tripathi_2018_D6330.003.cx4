@@ -1,0 +1,22 @@
+# EXFOR #         : D6330.003  
+# EXFOR Ver.      : 20191114
+# TRANS #         : D124
+# Author          : R.Tripathi et al.
+# Reference       : Int.J.Mod.Phys.E 27 (2018) 1850010
+# DOI             : 10.1142/S0218301318500106
+# Quantity        : 93Nb(28Si,x)113Sn cumulative production cross section
+# REACTION        : 41-NB-93(14-SI-28,X)50-SN-113,CUM,SIG
+# File ID         : Si28-Nb93-x-sigc-excfun-mon-prodSn113_Tripathi_2018_d6330.003
+#
+# npts            : 1           
+# xmin            :   1.5500E+08
+# xmax            :   1.5500E+08
+# ymin            :   2.9300E-01
+# ymax            :   2.9300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5500E+08  0.0000E+00  2.9300E-01  6.0000E-03
+#---------------------------------------------------

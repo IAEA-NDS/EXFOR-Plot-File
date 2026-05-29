@@ -1,0 +1,27 @@
+# EXFOR #         : D6278.003  
+# EXFOR Ver.      : 20170602
+# TRANS #         : D111
+# Author          : Manoj Kumar Sharma et al.
+# Reference       : Phys.Rev.C 94 (2016) 044617
+# DOI             : 10.1103/PhysRevC.94.044617
+# Quantity        : 159Tb(16O,x)173Hf cumulative production cross section
+# REACTION        : 65-TB-159(8-O-16,X)72-HF-173,(CUM),SIG
+# File ID         : O16-Tb159-x-sigc-excfun-mon-prodHf173_Manoj%Kumar%Sharma_2016_d6278.003
+#
+# npts            : 6           
+# xmin            :   7.5000E+07
+# xmax            :   9.5000E+07
+# ymin            :   5.6000E-04
+# ymax            :   5.5700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.5000E+07  9.6000E+05  1.2100E-03  2.3000E-04
+  7.8700E+07  9.0000E+05  5.5700E-03  7.5000E-04
+  8.3200E+07  8.0000E+05  3.6000E-03  4.8000E-04
+  8.7200E+07  8.0000E+05  1.2000E-03  2.8000E-04
+  9.0000E+07  5.0000E+05  7.8000E-04  7.4000E-04
+  9.5000E+07  5.0000E+05  5.6000E-04  1.1000E-04
+#---------------------------------------------------
