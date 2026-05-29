@@ -1,0 +1,22 @@
+# EXFOR #         : 31822.009  
+# EXFOR Ver.      : 20200616
+# TRANS #         : 3196
+# Author          : N.Burianova et al.
+# Reference       : Appl.Radiat.Isot. 154 (2019) 108855
+# DOI             : 10.1016/j.apradiso.2019.108855
+# Quantity        : 58Ni(n,x)57Co independent production cross section
+# REACTION        : 28-NI-58(N,X)27-CO-57,,SIG,,SPA
+# File ID         : n-Ni58-x-sig-excfun-spa-prodCo57_Burianova_2019_31822.009
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.3900E-04
+# ymax            :   2.3900E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.3900E-04  1.6252E-05
+#---------------------------------------------------

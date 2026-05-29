@@ -1,0 +1,23 @@
+# EXFOR #         : 22837.010  
+# EXFOR Ver.      : 20040729
+# TRANS #         : 0000
+# Author          : T.Shimizu et al.
+# Reference       : Ann.Nucl.Energy 31 (2004) 975
+# DOI             : 10.1016/j.anucene.2003.12.005
+# Quantity        : 65Cu(n,p)65Ni cross section
+# REACTION        : 29-CU-65(N,P)28-NI-65,,SIG
+# File ID         : n-Cu65-p-sig-excfun-mon-prodNi65_Shimizu_2004_22837.010
+#
+# npts            : 2           
+# xmin            :   2.9000E+06
+# xmax            :   3.0900E+06
+# ymin            :   5.2000E-05
+# ymax            :   1.1300E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0900E+06  5.0000E+04  1.1300E-04  1.7000E-05
+  2.9000E+06  5.0000E+04  5.2000E-05  1.4000E-05
+#---------------------------------------------------

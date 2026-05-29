@@ -1,0 +1,25 @@
+# EXFOR #         : 11638.010  
+# EXFOR Ver.      : 20230912
+# TRANS #         : 1508
+# Author          : S.E.Darden et al.
+# Reference       : Phys.Rev. 100 (1955) 1315
+# DOI             : 10.1103/PhysRev.100.1315
+# Quantity        : 209Bi(n,el)209Bi angular differential cross section
+# REACTION        : 83-BI-209(N,EL)83-BI-209,,DA
+# File ID         : n-Bi209-el-adxl-angdisl-mon-einc5.000E+05_prodBi209_Darden_1955_11638.010
+#
+# Einc (eV)       :   5.0000E+05
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   30.0000000
+# xmax            :   30.0000000
+# ymin            :   8.8000E-01
+# ymax            :   8.8000E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  8.8000E-01  0.0000E+00
+#---------------------------------------------------

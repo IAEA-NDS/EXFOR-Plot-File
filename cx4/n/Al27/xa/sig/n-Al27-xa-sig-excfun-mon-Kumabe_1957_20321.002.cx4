@@ -1,0 +1,22 @@
+# EXFOR #         : 20321.002  
+# EXFOR Ver.      : 19831122
+# TRANS #         : 0000
+# Author          : I.Kumabe et al.
+# Reference       : Phys.Rev. 106 (1957) 155
+# DOI             : 10.1103/PhysRev.106.155
+# Quantity        : 27Al(n,a+x) cross section
+# REACTION        : 13-AL-27(N,X)2-HE-4,,SIG
+# File ID         : n-Al27-xa-sig-excfun-mon-Kumabe_1957_20321.002
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   9.2000E-02
+# ymax            :   9.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  7.0000E+04  9.2000E-02  1.5000E-02
+#---------------------------------------------------

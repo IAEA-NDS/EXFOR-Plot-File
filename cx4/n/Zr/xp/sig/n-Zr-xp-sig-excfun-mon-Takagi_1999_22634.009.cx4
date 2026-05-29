@@ -1,0 +1,22 @@
+# EXFOR #         : 22634.009  
+# EXFOR Ver.      : 20010904
+# TRANS #         : 0000
+# Author          : H.Takagi et al.
+# Reference       : Report (proceedings) JAERI-C-99-002 page 204, 1999
+# DOI             : N/A
+# Quantity        : natZr(n,p+x) cross section
+# REACTION        : 40-ZR-0(N,X)1-H-1,,SIG
+# File ID         : n-Zr-xp-sig-excfun-mon-Takagi_1999_22634.009
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   1.2470E-01
+# ymax            :   1.2470E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  0.0000E+00  1.2470E-01  6.6000E-03
+#---------------------------------------------------

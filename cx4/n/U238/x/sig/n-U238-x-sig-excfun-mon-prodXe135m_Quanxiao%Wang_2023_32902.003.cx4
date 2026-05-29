@@ -1,0 +1,24 @@
+# EXFOR #         : 32902.003  
+# EXFOR Ver.      : 20250826
+# TRANS #         : 3220
+# Author          : Quanxiao Wang et al.
+# Reference       : Appl.Radiat.Isot. 198 (2023) 110852
+# DOI             : 10.1016/j.apradiso.2023.110852
+# Quantity        : 238U(n,f)135mXe independent production cross section
+# REACTION        : 92-U-238(N,F)54-XE-135-M,,SIG
+# File ID         : n-U238-x-sig-excfun-mon-prodXe135m_Quanxiao%Wang_2023_32902.003
+#
+# npts            : 3           
+# xmin            :   1.4100E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.1100E-03
+# ymax            :   2.4700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  3.0000E+05  2.1100E-03  1.6000E-04
+  1.4500E+07  3.0000E+05  2.4700E-03  1.8000E-04
+  1.4700E+07  3.0000E+05  2.3400E-03  2.1000E-04
+#---------------------------------------------------

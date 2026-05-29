@@ -1,0 +1,22 @@
+# EXFOR #         : 41755.004  
+# EXFOR Ver.      : 20230118
+# TRANS #         : 4213
+# Author          : M.Schulc et al.
+# Reference       : Radiat.Phys.Chem. 206 (2023) 110804
+# DOI             : 10.1016/j.radphyschem.2023.110804
+# Quantity        : 58Ni(n,x)57Co independent production cross section
+# REACTION        : 28-NI-58(N,X)27-CO-57,,SIG,,FIS
+# File ID         : n-Ni58-x-sig-excfun-fis-prodCo57_Schulc_2023_41755.004
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.3000E-04
+# ymax            :   3.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.3000E-04  1.7160E-05
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 22634.003  
+# EXFOR Ver.      : 20010904
+# TRANS #         : 0000
+# Author          : H.Takagi et al.
+# Reference       : Report (proceedings) JAERI-C-99-002 page 204, 1999
+# DOI             : N/A
+# Quantity        : 27Al(n,p+x) double differential cross section
+# REACTION        : 13-AL-27(N,X)1-H-1,,DA/DE
+# File ID         : n-Al27-xp-ddxl-angdisl-mon-einc1.410E+07_eoutl1.220E+07_Takagi_1999_22634.003
+#
+# Einc (eV)       :   1.4100E+07
+# Eout,lab (eV)   :   1.2200E+07
+#
+# npts            : 1           
+# xmin            :  120.0000000
+# xmax            :  120.0000000
+# ymin            :   8.7300E-10
+# ymax            :   8.7300E-10
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+ 120.0000000   0.0000000  8.7300E-10  2.6400E-10
+#---------------------------------------------------

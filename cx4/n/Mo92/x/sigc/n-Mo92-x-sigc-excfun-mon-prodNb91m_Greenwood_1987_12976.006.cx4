@@ -1,0 +1,25 @@
+# EXFOR #         : 12976.006  
+# EXFOR Ver.      : 20250601
+# TRANS #         : 1520
+# Author          : L.R.Greenwood et al.
+# Reference       : Phys.Rev.C 35 (1987) 76
+# DOI             : 10.1103/PhysRevC.35.76
+# Quantity        : 92Mo(n,x)91mNb cumulative production cross section
+# REACTION        : 42-MO-92(N,X)41-NB-91-M,CUM,SIG
+# File ID         : n-Mo92-x-sigc-excfun-mon-prodNb91m_Greenwood_1987_12976.006
+#
+# npts            : 4           
+# xmin            :   1.4550E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.4500E-01
+# ymax            :   1.5700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4550E+07  2.0000E+05  1.5700E-01  1.0990E-02
+  1.4600E+07  2.0000E+05  1.5300E-01  1.0710E-02
+  1.4780E+07  2.0000E+05  1.4500E-01  1.0150E-02
+  1.4800E+07  2.0000E+05  1.4500E-01  1.0150E-02
+#---------------------------------------------------

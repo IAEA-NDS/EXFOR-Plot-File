@@ -1,0 +1,25 @@
+# EXFOR #         : 13165.002  
+# EXFOR Ver.      : 19890817
+# TRANS #         : 0000
+# Author          : P.E.Koehler et al.
+# Reference       : Phys.Rev.C 38 (1988) 2019
+# DOI             : 10.1103/PhysRevC.38.2019
+# Quantity        : 22Na(n,p)22Ne partial cross section
+# REACTION        : 11-NA-22(N,P)10-NE-22,PAR,SIG
+# File ID         : n-Na22-p-sig-lvldis-mon-einc2.530E-02_prodNe22_Koehler_1988_13165.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   1.2700E+06
+# ymin            :   2.3500E+02
+# ymax            :   2.7600E+04
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  2.3500E+02  1.3000E+01
+  1.2700E+06  0.0000E+00  2.7600E+04  2.4000E+03
+#---------------------------------------------------

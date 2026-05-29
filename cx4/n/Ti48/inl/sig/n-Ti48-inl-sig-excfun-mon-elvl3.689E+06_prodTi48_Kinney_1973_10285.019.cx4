@@ -1,0 +1,25 @@
+# EXFOR #         : 10285.019  
+# EXFOR Ver.      : 20081204
+# TRANS #         : 1350
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4810, 1973
+# DOI             : N/A
+# Quantity        : 48Ti(n,inl)48Ti partial cross section
+# REACTION        : 22-TI-48(N,INL)22-TI-48,PAR,SIG,,A
+# File ID         : n-Ti48-inl-sig-excfun-mon-elvl3.689E+06_prodTi48_Kinney_1973_10285.019
+#
+# Elvl (eV)       :   3.6890E+06
+# dElvl (eV)      :   1.7100E+05
+#
+# npts            : 1           
+# xmin            :   4.9200E+06
+# xmax            :   4.9200E+06
+# ymin            :   4.3192E-03
+# ymax            :   4.3192E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9200E+06  3.0000E+04  4.3192E-03  5.8741E-04
+#---------------------------------------------------

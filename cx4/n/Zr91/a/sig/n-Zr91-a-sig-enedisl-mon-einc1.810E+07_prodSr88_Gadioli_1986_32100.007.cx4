@@ -1,0 +1,25 @@
+# EXFOR #         : 32100.007  
+# EXFOR Ver.      : 20100923
+# TRANS #         : 3147
+# Author          : E.Gadioli et al.
+# Reference       : Phys.Rev.C 34 No.6 (1986) 2065
+# DOI             : 10.1103/PhysRevC.34.2065
+# Quantity        : 91Zr(n,a)88Sr partial cross section
+# REACTION        : 40-ZR-91(N,A)38-SR-88,PAR,SIG
+# File ID         : n-Zr91-a-sig-enedisl-mon-einc1.810E+07_prodSr88_Gadioli_1986_32100.007
+#
+# Einc (eV)       :   1.8100E+07
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   2.0850E+07
+# xmax            :   2.0850E+07
+# ymin            :   5.6600E-03
+# ymax            :   5.6600E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0850E+07  3.7500E+06  5.6600E-03  2.3000E-04
+#---------------------------------------------------

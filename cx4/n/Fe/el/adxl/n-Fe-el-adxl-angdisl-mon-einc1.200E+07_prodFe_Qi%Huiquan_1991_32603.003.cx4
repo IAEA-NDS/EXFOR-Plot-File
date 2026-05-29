@@ -1,0 +1,29 @@
+# EXFOR #         : 32603.003  
+# EXFOR Ver.      : 20100907
+# TRANS #         : 3147
+# Author          : Qi Huiquan et al.
+# Reference       : Chin.J.Nucl.Phys. 13 (1991) 343
+# DOI             : N/A
+# Quantity        : natFe(n,el)natFe angular differential cross section
+# REACTION        : 26-FE-0(N,EL)26-FE-0,,DA
+# File ID         : n-Fe-el-adxl-angdisl-mon-einc1.200E+07_prodFe_Qi%Huiquan_1991_32603.003
+#
+# Einc (eV)       :   1.2000E+07
+#
+# npts            : 6           
+# xmin            :    2.7500000
+# xmax            :   10.0000000
+# ymin            :   2.2100E+00
+# ymax            :   2.8200E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.7500000   0.0000000  2.8200E+00  1.4000E-01
+   3.5000000   0.0000000  2.7900E+00  1.7000E-01
+   5.0000000   0.0000000  2.5600E+00  1.3000E-01
+   6.5000000   0.0000000  2.4600E+00  1.2000E-01
+   8.0000000   0.0000000  2.5800E+00  1.3000E-01
+  10.0000000   0.0000000  2.2100E+00  1.1000E-01
+#---------------------------------------------------

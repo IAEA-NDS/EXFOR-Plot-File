@@ -1,0 +1,27 @@
+# EXFOR #         : 10220.002  
+# EXFOR Ver.      : 20010305
+# TRANS #         : 0000
+# Author          : S.S.Glickstein et al.
+# Reference       : Phys.Rev.C 10 (1974) 173
+# DOI             : 10.1103/PhysRevC.10.173
+# Quantity        : 91Zr(n,inl)91Zr partial gamma angular differential cross section
+# REACTION        : 40-ZR-91(N,INL)40-ZR-91,PAR,DA,G,4PI
+# File ID         : n-Zr91-inl-adxgl-excfun-mon-angl55_eoutl2.190E+06_prodZr91_Glickstein_1974_10220.002
+#
+# theta,lab (deg) :   55.0000000
+# Eout,lab (eV)   :   2.1901E+06
+# dEout,lab (eV)  :   5.0000E+02
+#
+# npts            : 2           
+# xmin            :   2.2700E+06
+# xmax            :   2.3700E+06
+# ymin            :   1.7507E-03
+# ymax            :   5.4908E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.2700E+06  0.0000E+00  1.7507E-03  1.7507E-04
+  2.3700E+06  0.0000E+00  5.4908E-03  5.4908E-04
+#---------------------------------------------------

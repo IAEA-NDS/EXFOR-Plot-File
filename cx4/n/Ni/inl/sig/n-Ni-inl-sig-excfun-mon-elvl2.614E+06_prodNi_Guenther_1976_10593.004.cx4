@@ -1,0 +1,26 @@
+# EXFOR #         : 10593.004  
+# EXFOR Ver.      : 20210812
+# TRANS #         : 1490
+# Author          : P.Guenther et al.
+# Reference       : Nucl.Sci.Eng. 59 (1976) 106
+# DOI             : 10.13182/NSE76-A15683
+# Quantity        : natNi(n,inl)natNi partial cross section
+# REACTION        : 28-NI-0(N,INL)28-NI-0,PAR,SIG
+# File ID         : n-Ni-inl-sig-excfun-mon-elvl2.614E+06_prodNi_Guenther_1976_10593.004
+#
+# Elvl (eV)       :   2.6140E+06
+# dElvl (eV)      :   2.0000E+04
+#
+# npts            : 2           
+# xmin            :   3.8000E+06
+# xmax            :   4.0000E+06
+# ymin            :   5.0600E-02
+# ymax            :   6.5800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8000E+06  0.0000E+00  5.0600E-02  1.5000E-02
+  4.0000E+06  0.0000E+00  6.5800E-02  8.0000E-03
+#---------------------------------------------------

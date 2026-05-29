@@ -1,0 +1,22 @@
+# EXFOR #         : 10257.002  
+# EXFOR Ver.      : 20011130
+# TRANS #         : 0000
+# Author          : A.A.Bauer et al.
+# Reference       : J.Nucl.Mater. 42 (1972) 91
+# DOI             : 10.1016/0022-3115(72)90011-6
+# Quantity        : 59Ni(n,a)56Fe cross section
+# REACTION        : 28-NI-59(N,A)26-FE-56,,SIG,,SPA
+# File ID         : n-Ni59-a-sig-excfun-spa-prodFe56_Bauer_1972_10257.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   7.3800E+00
+# ymax            :   7.3800E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.3800E+00  2.2140E-01
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 31786.009  
+# EXFOR Ver.      : 20180304
+# TRANS #         : 3182
+# Author          : M.Schulc et al.
+# Reference       : Appl.Radiat.Isot. 132 (2018) 29
+# DOI             : 10.1016/j.apradiso.2017.11.008
+# Quantity        : 54Fe(n,p)54Mn cross section
+# REACTION        : 26-FE-54(N,P)25-MN-54,,SIG,,FIS
+# File ID         : n-Fe54-p-sig-excfun-fis-prodMn54_Schulc_2018_31786.009
+#
+# npts            : 1           
+# xmin            :   1.4200E+06
+# xmax            :   1.4200E+06
+# ymin            :   7.8720E-02
+# ymax            :   7.8720E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+06  0.0000E+00  7.8720E-02  3.0701E-03
+#---------------------------------------------------

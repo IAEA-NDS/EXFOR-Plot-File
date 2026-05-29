@@ -1,0 +1,23 @@
+# EXFOR #         : 40136.023  
+# EXFOR Ver.      : 20150109
+# TRANS #         : 4172
+# Author          : G.N.Maslov et al.
+# Reference       : Report INDC(CCP)-42 page 10, 1974
+# DOI             : N/A
+# Quantity        : 206Pb(n,a)203Hg cross section
+# REACTION        : 82-PB-206(N,A)80-HG-203,,SIG
+# File ID         : n-Pb206-a-sig-excfun-mon-prodHg203_Maslov_1974_40136.023
+#
+# npts            : 2           
+# xmin            :   1.4200E+07
+# xmax            :   1.4600E+07
+# ymin            :   5.2700E-04
+# ymax            :   6.7300E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  5.2700E-04  7.0000E-05
+  1.4600E+07  2.0000E+05  6.7300E-04  7.0000E-05
+#---------------------------------------------------

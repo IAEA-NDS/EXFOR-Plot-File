@@ -1,0 +1,26 @@
+# EXFOR #         : 11202.011  
+# EXFOR Ver.      : 20240213
+# TRANS #         : 1510
+# Author          : J.C.Hopkins et al.
+# Reference       : Nucl.Sci.Eng. 36 (1969) 275
+# DOI             : 10.13182/NSE69-A18724
+# Quantity        : 11B(n,inl)11B partial cross section
+# REACTION        : 5-B-11(N,INL)5-B-11,PAR,SIG
+# File ID         : n-B11-inl-sig-lvldis-mon-einc7.550E+06_prodB11_Hopkins_1969_11202.011
+#
+# Einc (eV)       :   7.5500E+06
+# dEinc (eV)      :   1.2000E+05
+#
+# npts            : 2           
+# xmin            :   2.1400E+06
+# xmax            :   4.4600E+06
+# ymin            :   5.2000E-02
+# ymax            :   1.6800E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1400E+06  0.0000E+00  5.2000E-02  1.6000E-02
+  4.4600E+06  0.0000E+00  1.6800E-01  2.5000E-02
+#---------------------------------------------------

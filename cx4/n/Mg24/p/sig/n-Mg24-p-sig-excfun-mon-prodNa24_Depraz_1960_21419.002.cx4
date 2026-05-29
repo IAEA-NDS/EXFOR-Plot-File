@@ -1,0 +1,22 @@
+# EXFOR #         : 21419.002  
+# EXFOR Ver.      : 19860609
+# TRANS #         : 0000
+# Author          : M.J.Depraz et al.
+# Reference       : J.Phys.(Paris) 21 (1960) 377
+# DOI             : 10.1051/jphysrad:01960002105037701
+# Quantity        : 24Mg(n,p)24Na cross section
+# REACTION        : 12-MG-24(N,P)11-NA-24,,SIG
+# File ID         : n-Mg24-p-sig-excfun-mon-prodNa24_Depraz_1960_21419.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+07
+# xmax            :   1.5000E+07
+# ymin            :   2.0300E-01
+# ymax            :   2.0300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  4.0000E+05  2.0300E-01  1.1000E-02
+#---------------------------------------------------

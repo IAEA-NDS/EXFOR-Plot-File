@@ -1,0 +1,24 @@
+# EXFOR #         : 33084.003.1
+# EXFOR Ver.      : 20160525
+# TRANS #         : 3175
+# Author          : V.V.Desai et al.
+# Reference       : Phys.Rev.C 92 (2015) 014609
+# DOI             : 10.1103/PhysRevC.92.014609
+# Quantity        : 238U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-238(N,F),PR,NU
+# File ID         : n-U238-f-nup-excfun-mon-Desai_2015_33084.003.1
+#
+# npts            : 3           
+# xmin            :   2.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   2.5900E+00
+# ymax            :   2.7200E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  2.5900E+00  2.0000E-02
+  2.5000E+06  0.0000E+00  2.6200E+00  2.0000E-02
+  3.0000E+06  0.0000E+00  2.7200E+00  2.5000E-02
+#---------------------------------------------------

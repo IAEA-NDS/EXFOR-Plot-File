@@ -1,0 +1,22 @@
+# EXFOR #         : 13209.006  
+# EXFOR Ver.      : 20210105
+# TRANS #         : 1479
+# Author          : W.E.Grummitt et al.
+# Reference       : J.Inorg.Nucl.Chem. 20 (1961) 6
+# DOI             : 10.1016/0022-1902(61)80451-X
+# Quantity        : 239Pu(n,f)136Cs independent fission product yield
+# REACTION        : 94-PU-239(N,F)55-CS-136,IND,FY,,SPA
+# File ID         : n-Pu239-f-fyi-excfun-spa-prodCs136_Grummitt_1961_13209.006
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   8.3500E-04
+# ymax            :   8.3500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,ind      dFY,ind     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  8.3500E-04  2.5050E-05
+#---------------------------------------------------

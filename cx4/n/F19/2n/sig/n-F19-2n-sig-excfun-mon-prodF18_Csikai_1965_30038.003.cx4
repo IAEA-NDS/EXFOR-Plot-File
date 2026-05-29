@@ -1,0 +1,22 @@
+# EXFOR #         : 30038.003  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : J.Csikai
+# Reference       : Proceedings of Nuclear Structure Study with Neutrons, Antwerp 1965 page 537
+# DOI             : N/A
+# Quantity        : 19F(n,2n)18F cross section
+# REACTION        : 9-F-19(N,2N)9-F-18,,SIG
+# File ID         : n-F19-2n-sig-excfun-mon-prodF18_Csikai_1965_30038.003
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   5.3000E-02
+# ymax            :   5.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  1.0000E+05  5.3000E-02  4.0000E-03
+#---------------------------------------------------

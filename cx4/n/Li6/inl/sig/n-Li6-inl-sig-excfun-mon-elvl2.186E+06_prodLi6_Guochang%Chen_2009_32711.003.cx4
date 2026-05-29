@@ -1,0 +1,25 @@
+# EXFOR #         : 32711.003  
+# EXFOR Ver.      : 20161102
+# TRANS #         : 3177
+# Author          : Guochang Chen et al.
+# Reference       : Nucl.Sci.Eng. 163 (2009) 272
+# DOI             : 10.13182/NSE163-272
+# Quantity        : 6Li(n,inl)6Li partial cross section
+# REACTION        : 3-LI-6(N,INL)3-LI-6,PAR,SIG
+# File ID         : n-Li6-inl-sig-excfun-mon-elvl2.186E+06_prodLi6_Guochang%Chen_2009_32711.003
+#
+# Elvl (eV)       :   2.1860E+06
+#
+# npts            : 2           
+# xmin            :   8.1700E+06
+# xmax            :   1.0270E+07
+# ymin            :   1.2097E-01
+# ymax            :   1.7914E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.1700E+06  0.0000E+00  1.7914E-01  1.5818E-02
+  1.0270E+07  0.0000E+00  1.2097E-01  1.0984E-02
+#---------------------------------------------------

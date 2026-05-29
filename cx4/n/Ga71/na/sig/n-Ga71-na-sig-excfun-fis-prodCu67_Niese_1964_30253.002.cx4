@@ -1,0 +1,22 @@
+# EXFOR #         : 30253.002  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : S.Niese
+# Reference       : Kernenergie 7 (1964) 263
+# DOI             : N/A
+# Quantity        : 71Ga(n,n+a)67Cu cross section
+# REACTION        : 31-GA-71(N,N+A)29-CU-67,,SIG,,FIS
+# File ID         : n-Ga71-na-sig-excfun-fis-prodCu67_Niese_1964_30253.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.5000E-07
+# ymax            :   3.5000E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.5000E-07  5.0000E-08
+#---------------------------------------------------

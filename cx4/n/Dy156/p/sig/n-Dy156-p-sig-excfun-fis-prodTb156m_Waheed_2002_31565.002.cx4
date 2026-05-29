@@ -1,0 +1,22 @@
+# EXFOR #         : 31565.002  
+# EXFOR Ver.      : 20220825
+# TRANS #         : 3208
+# Author          : S.Waheed et al.
+# Reference       : Radiochim.Acta 90 (2002) 443
+# DOI             : 10.1524/ract.2002.90.8_2002.443
+# Quantity        : 156Dy(n,p)156m1Tb cross section
+# REACTION        : 66-DY-156(N,P)65-TB-156-M1,,SIG,,FIS
+# File ID         : n-Dy156-p-sig-excfun-fis-prodTb156m_Waheed_2002_31565.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.0000E-04
+# ymax            :   2.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.0000E-04  2.0000E-05
+#---------------------------------------------------

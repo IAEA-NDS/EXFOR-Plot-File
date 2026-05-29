@@ -1,0 +1,25 @@
+# EXFOR #         : 30797.002  
+# EXFOR Ver.      : 20090821
+# TRANS #         : 3139
+# Author          : A.G.C.Nair et al.
+# Reference       : J.Rad.Nucl.Chem. 91 (1985) 73
+# DOI             : 10.1007/BF02036311
+# Quantity        : 233U(n,f) cumulative fission product yield
+# REACTION        : 92-U-233(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U233-f-fyc-nucdis-spa-einc2.530E-02_Nair_1985_30797.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 44107.9     
+# xmax            : 44108.9     
+# ymin            :   7.7000E-04
+# ymax            :   1.1100E-03
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     44107.9  1.1100E-03  1.2000E-04
+     44108.9  7.7000E-04  5.0000E-05
+#---------------------------------------------------

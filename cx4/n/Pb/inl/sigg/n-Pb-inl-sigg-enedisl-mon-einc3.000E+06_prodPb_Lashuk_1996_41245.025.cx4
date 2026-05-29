@@ -1,0 +1,28 @@
+# EXFOR #         : 41245.025  
+# EXFOR Ver.      : 20241224
+# TRANS #         : 4221
+# Author          : A.I.Lashuk
+# Reference       : Yad.Reak.Konst.  No.2 (1996) 59
+# DOI             : N/A
+# Quantity        : natPb(n,inl)natPb partial gamma production cross section
+# REACTION        : 82-PB-0(N,INL)82-PB-0,PAR,SIG,G
+# File ID         : n-Pb-inl-sigg-enedisl-mon-einc3.000E+06_prodPb_Lashuk_1996_41245.025
+#
+# Einc (eV)       :   3.0000E+06
+#
+# npts            : 5           
+# xmin            :   5.2000E+05
+# xmax            :   2.6400E+06
+# ymin            :   5.7000E-02
+# ymax            :   5.7000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2000E+05  0.0000E+00  4.4500E-01  6.0000E-02
+  7.9000E+05  0.0000E+00  5.7000E-01  6.5000E-02
+  1.0500E+06  0.0000E+00  5.7000E-02  1.0000E-02
+  1.3700E+06  0.0000E+00  1.1800E-01  2.5000E-02
+  2.6400E+06  0.0000E+00  1.0700E-01  2.3000E-02
+#---------------------------------------------------

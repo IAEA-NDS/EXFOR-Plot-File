@@ -1,0 +1,22 @@
+# EXFOR #         : 10933.015  
+# EXFOR Ver.      : 19860520
+# TRANS #         : 0000
+# Author          : D.W.Kneff et al.
+# Reference       : Nucl.Sci.Eng. 92 (1986) 491
+# DOI             : 10.13182/NSE86-A18608
+# Quantity        : 197Au(n,a+x) cross section
+# REACTION        : 79-AU-197(N,X)2-HE-4,,SIG
+# File ID         : n-Au197-xa-sig-excfun-mon-Kneff_1986_10933.015
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   5.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  1.0000E+05  5.0000E-04  4.0000E-05
+#---------------------------------------------------

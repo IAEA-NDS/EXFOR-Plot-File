@@ -1,0 +1,27 @@
+# EXFOR #         : 13478.002  
+# EXFOR Ver.      : 20160916
+# TRANS #         : 1423
+# Author          : D.M.Gilliam et al.
+# Reference       : Proceedings of 2nd Symposium on Reactor Dosimetry, Palo Alto 1977 3 page 1289
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-U235-f-fyc-nucdis-mxw-einc2.530E-02_Gilliam_1977_13478.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 4           
+# xmin            : 40095.9     
+# xmax            : 56140.9     
+# ymin            :   3.0200E-02
+# ymax            :   6.5200E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     40095.9  6.5200E-02  1.6952E-03
+     44103.9  3.0200E-02  7.8520E-04
+     55137.9  6.1200E-02  1.4688E-03
+     56140.9  6.2200E-02  1.4306E-03
+#---------------------------------------------------

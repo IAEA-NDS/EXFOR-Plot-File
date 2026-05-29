@@ -1,0 +1,25 @@
+# EXFOR #         : 40680.007  
+# EXFOR Ver.      : 20211203
+# TRANS #         : 4201
+# Author          : N.P.Glazkov
+# Reference       : At.En. 15 (1963) 416
+# DOI             : N/A
+# Quantity        : 27Al(n,inl)27Al partial cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,SIG
+# File ID         : n-Al27-inl-sig-lvldis-mon-einc1.200E+06_prodAl27_Glazkov_1963_40680.007
+#
+# Einc (eV)       :   1.2000E+06
+#
+# npts            : 2           
+# xmin            :   8.3000E+05
+# xmax            :   1.0170E+06
+# ymin            :   5.0000E-02
+# ymax            :   1.3000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.3000E+05  0.0000E+00  5.0000E-02  3.0000E-02
+  1.0170E+06  0.0000E+00  1.3000E-01  5.0000E-02
+#---------------------------------------------------

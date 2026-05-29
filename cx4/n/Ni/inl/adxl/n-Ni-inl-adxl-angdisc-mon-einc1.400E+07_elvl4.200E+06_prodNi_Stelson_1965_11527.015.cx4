@@ -1,0 +1,29 @@
+# EXFOR #         : 11527.015  
+# EXFOR Ver.      : 20071109
+# TRANS #         : Y001
+# Author          : P.H.Stelson et al.
+# Reference       : Nucl.Phys. 68 (1965) 97
+# DOI             : 10.1016/0029-5582(65)90372-X
+# Quantity        : natNi(n,inl)natNi partial angular differential cross section
+# REACTION        : 28-NI-0(N,INL)28-NI-0,PAR,DA
+# File ID         : n-Ni-inl-adxl-angdisc-mon-einc1.400E+07_elvl4.200E+06_prodNi_Stelson_1965_11527.015
+#
+# Einc (eV)       :   1.4000E+07
+# dEinc (eV)      :   3.0000E+05
+# Elvl (eV)       :   4.2000E+06
+#
+# npts            : 4           
+# xmin            :   42.2685800
+# xmax            :   73.7397900
+# ymin            :   9.0000E-04
+# ymax            :   2.0000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  42.2685800   0.0000000  1.2000E-03  4.0000E-04
+  53.8429900   0.0000000  1.5000E-03  4.0000E-04
+  62.6128900   0.0000000  2.0000E-03  5.0000E-04
+  73.7397900   0.0000000  9.0000E-04  3.0000E-04
+#---------------------------------------------------

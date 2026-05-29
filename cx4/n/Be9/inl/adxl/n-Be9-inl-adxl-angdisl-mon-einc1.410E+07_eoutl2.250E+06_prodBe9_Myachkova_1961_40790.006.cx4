@@ -1,0 +1,30 @@
+# EXFOR #         : 40790.006  
+# EXFOR Ver.      : 20220310
+# TRANS #         : 4206
+# Author          : S.A.Myachkova et al.
+# Reference       : J.Exp.Theor.Phys. 13 (1961) 876
+# DOI             : N/A
+# Quantity        : 9Be(n,inl)9Be partial angular differential cross section
+# REACTION        : 4-BE-9(N,INL)4-BE-9,PAR,DA
+# File ID         : n-Be9-inl-adxl-angdisl-mon-einc1.410E+07_eoutl2.250E+06_prodBe9_Myachkova_1961_40790.006
+#
+# Einc (eV)       :   1.4100E+07
+# Eout,lab (eV)   :   2.2500E+06
+# dEout,lab (eV)  :   1.7500E+06
+#
+# npts            : 5           
+# xmin            :   20.0000000
+# xmax            :  120.0000000
+# ymin            :   2.4630E-02
+# ymax            :   5.0158E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.0000000   0.0000000  5.0158E-02  1.5133E-02
+  40.0000000   0.0000000  4.5692E-02  4.8753E-03
+  65.0000000   0.0000000  2.6912E-02  4.8850E-03
+  90.0000000   0.0000000  2.9642E-02  5.3628E-03
+ 120.0000000   0.0000000  2.4630E-02  5.3726E-03
+#---------------------------------------------------

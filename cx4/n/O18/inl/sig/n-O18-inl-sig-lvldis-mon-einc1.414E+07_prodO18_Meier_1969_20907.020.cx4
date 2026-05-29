@@ -1,0 +1,27 @@
+# EXFOR #         : 20907.020  
+# EXFOR Ver.      : 19810722
+# TRANS #         : 0000
+# Author          : D.Meier et al.
+# Reference       : Helv.Phys.Acta 42 (1969) 813
+# DOI             : N/A
+# Quantity        : 18O(n,inl)18O partial cross section
+# REACTION        : 8-O-18(N,INL)8-O-18,PAR,SIG
+# File ID         : n-O18-inl-sig-lvldis-mon-einc1.414E+07_prodO18_Meier_1969_20907.020
+#
+# Einc (eV)       :   1.4140E+07
+# dEinc (eV)      :   8.0000E+04
+#
+# npts            : 3           
+# xmin            :   1.9800E+06
+# xmax            :   7.6200E+06
+# ymin            :   2.3000E-02
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.6200E+06  0.0000E+00  2.3000E-02  1.0000E-02
+  7.1100E+06  0.0000E+00  2.7000E-02  1.0000E-02
+  1.9800E+06  0.0000E+00  7.5000E-02  1.2000E-02
+#---------------------------------------------------

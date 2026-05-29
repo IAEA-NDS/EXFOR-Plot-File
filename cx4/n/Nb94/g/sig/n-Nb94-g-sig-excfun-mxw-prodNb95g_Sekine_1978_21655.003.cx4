@@ -1,0 +1,22 @@
+# EXFOR #         : 21655.003  
+# EXFOR Ver.      : 20161001
+# TRANS #         : 2253
+# Author          : T.Sekine et al.
+# Reference       : J.Inorg.Nucl.Chem. 40 No.12 (1978) 1973
+# DOI             : 10.1016/0022-1902(78)80183-3
+# Quantity        : 94Nb(n,g)95gNb cross section
+# REACTION        : 41-NB-94(N,G)41-NB-95-G,,SIG,,MXW
+# File ID         : n-Nb94-g-sig-excfun-mxw-prodNb95g_Sekine_1978_21655.003
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.4600E+01
+# ymax            :   1.4600E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.4600E+01  3.0000E-02
+#---------------------------------------------------

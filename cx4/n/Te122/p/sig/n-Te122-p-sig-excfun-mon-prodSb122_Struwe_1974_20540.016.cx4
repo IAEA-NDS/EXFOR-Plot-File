@@ -1,0 +1,22 @@
+# EXFOR #         : 20540.016  
+# EXFOR Ver.      : 20071216
+# TRANS #         : 2190
+# Author          : W.Struwe et al.
+# Reference       : Nucl.Phys.A 222 (1974) 605
+# DOI             : 10.1016/0375-9474(74)90342-X
+# Quantity        : 122Te(n,p)122Sb cross section
+# REACTION        : 52-TE-122(N,P)51-SB-122,,SIG
+# File ID         : n-Te122-p-sig-excfun-mon-prodSb122_Struwe_1974_20540.016
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   1.0600E-02
+# ymax            :   1.0600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  1.0600E-02  1.5000E-03
+#---------------------------------------------------

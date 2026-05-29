@@ -1,0 +1,26 @@
+# EXFOR #         : 40995.002  
+# EXFOR Ver.      : 20221228
+# TRANS #         : 4211
+# Author          : G.V.Val'skiy et al.
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 99
+# DOI             : N/A
+# Quantity        : 236Np(n,f) cross section
+# REACTION        : 93-NP-236(N,F),,SIG
+# File ID         : n-Np236-f-sig-excfun-mon-Valskiy_1987_40995.002
+#
+# npts            : 5           
+# xmin            :   2.5300E-02
+# xmax            :   3.0000E-01
+# ymin            :   9.0000E+02
+# ymax            :   2.7700E+03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  5.0000E-04  2.7700E+03  2.6000E+02
+  1.0100E-01  4.0000E-03  1.4300E+03  9.0000E+01
+  1.6200E-01  8.0000E-03  1.2600E+03  8.0000E+01
+  2.2800E-01  1.4000E-02  1.2200E+03  8.0000E+01
+  3.0000E-01  2.0000E-02  9.0000E+02  7.0000E+01
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 22820.009  
+# EXFOR Ver.      : 20040113
+# TRANS #         : 0000
+# Author          : V.Semkova et al.
+# Reference       : Nucl.Phys.A 730 (2004) 255
+# DOI             : 10.1016/j.nuclphysa.2003.11.005
+# Quantity        : 61Ni(n,x)60mCo independent production cross section
+# REACTION        : 28-NI-61(N,X)27-CO-60-M,,SIG
+# File ID         : n-Ni61-x-sig-excfun-mon-prodCo60m_Semkova_2004_22820.009
+#
+# npts            : 1           
+# xmin            :   1.9290E+07
+# xmax            :   1.9290E+07
+# ymin            :   6.5000E-02
+# ymax            :   6.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9290E+07  4.5000E+04  6.5000E-02  6.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 11493.007  
+# EXFOR Ver.      : 20151209
+# TRANS #         : 1411
+# Author          : D.B.Thomson et al.
+# Reference       : Phys.Rev. 125 (1962) 2049
+# DOI             : 10.1103/PhysRev.125.2049
+# Quantity        : 24Mg(n,inl)24Mg partial cross section
+# REACTION        : 12-MG-24(N,INL)12-MG-24,PAR,SIG
+# File ID         : n-Mg24-inl-sig-excfun-mon-elvl1.368E+06_prodMg24_Thomson_1962_11493.007
+#
+# Elvl (eV)       :   1.3680E+06
+#
+# npts            : 3           
+# xmin            :   3.0000E+06
+# xmax            :   5.0000E+06
+# ymin            :   6.1000E-01
+# ymax            :   7.7000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  2.0000E+05  6.1000E-01  6.0000E-02
+  4.0000E+06  2.0000E+05  7.7000E-01  7.7000E-02
+  5.0000E+06  2.0000E+05  6.5000E-01  6.5000E-02
+#---------------------------------------------------

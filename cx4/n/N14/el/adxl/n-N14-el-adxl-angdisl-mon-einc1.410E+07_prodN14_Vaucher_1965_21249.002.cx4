@@ -1,0 +1,24 @@
+# EXFOR #         : 21249.002  
+# EXFOR Ver.      : 20131222
+# TRANS #         : 2238
+# Author          : B.Vaucher et al.
+# Reference       : Helv.Phys.Acta 38 (1965) 371
+# DOI             : N/A
+# Quantity        : 14N(n,el)14N angular differential cross section
+# REACTION        : 7-N-14(N,EL)7-N-14,,DA
+# File ID         : n-N14-el-adxl-angdisl-mon-einc1.410E+07_prodN14_Vaucher_1965_21249.002
+#
+# Einc (eV)       :   1.4100E+07
+#
+# npts            : 1           
+# xmin            :   40.0000000
+# xmax            :   40.0000000
+# ymin            :   9.0000E-02
+# ymax            :   9.0000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.0000000   6.0000000  9.0000E-02  7.0000E-03
+#---------------------------------------------------

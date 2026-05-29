@@ -1,0 +1,29 @@
+# EXFOR #         : 11638.005  
+# EXFOR Ver.      : 20230912
+# TRANS #         : 1508
+# Author          : S.E.Darden et al.
+# Reference       : Phys.Rev. 100 (1955) 1315
+# DOI             : 10.1103/PhysRev.100.1315
+# Quantity        : natZr(n,el)natZr angular differential cross section
+# REACTION        : 40-ZR-0(N,EL)40-ZR-0,,DA
+# File ID         : n-Zr-el-adxl-angdisl-mon-einc1.000E+06_prodZr_Darden_1955_11638.005
+#
+# Einc (eV)       :   1.0000E+06
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 5           
+# xmin            :    8.0000000
+# xmax            :   30.0000000
+# ymin            :   1.3200E+00
+# ymax            :   1.6000E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   8.0000000   0.0000000  1.6000E+00  0.0000E+00
+  12.0000000   0.0000000  1.4700E+00  0.0000E+00
+  16.0000000   0.0000000  1.4800E+00  0.0000E+00
+  22.0000000   0.0000000  1.3500E+00  0.0000E+00
+  30.0000000   0.0000000  1.3200E+00  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : 21304.011  
+# EXFOR Ver.      : 20230130
+# TRANS #         : 2313
+# Author          : T.Yamamoto et al.
+# Reference       : J.Nucl.Sci.Technol. 15 (1978) 797
+# DOI             : 10.1080/18811248.1978.9735594
+# Quantity        : natCl(n,inl)natCl partial gamma angular differential cross section
+# REACTION        : 17-CL-0(N,INL)17-CL-0,PAR,DA,G
+# File ID         : n-Cl-inl-adxgl-enedisl-mon-einc1.480E+07_angl125_prodCl_Yamamoto_1978_21304.011
+#
+# Einc (eV)       :   1.4800E+07
+# dEinc (eV)      :   2.0000E+05
+# theta,lab (deg) :  125.0000000
+# dtheta,lab (deg):    6.0000000
+#
+# npts            : 2           
+# xmin            :   1.7300E+06
+# xmax            :   1.7690E+06
+# ymin            :   1.2600E-02
+# ymax            :   2.3000E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7690E+06  0.0000E+00  1.2600E-02  3.4000E-03
+  1.7300E+06  0.0000E+00  2.3000E-02  7.1000E-03
+#---------------------------------------------------

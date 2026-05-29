@@ -1,0 +1,28 @@
+# EXFOR #         : 11704.005  
+# EXFOR Ver.      : 20140420
+# TRANS #         : 1401
+# Author          : R.W.Benjamin et al.
+# Reference       : Nucl.Phys. 79 (1966) 241
+# DOI             : 10.1016/0029-5582(66)90144-1
+# Quantity        : natFe(n,inl)natFe partial gamma angular differential cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-0,PAR,DA,G
+# File ID         : n-Fe-inl-adxgl-excfun-mon-angl90_eoutl1.240E+06_prodFe_Benjamin_1966_11704.005
+#
+# theta,lab (deg) :   90.0000000
+# Eout,lab (eV)   :   1.2400E+06
+#
+# npts            : 4           
+# xmin            :   2.5000E+06
+# xmax            :   4.0000E+06
+# ymin            :   4.7100E-03
+# ymax            :   1.5800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.5000E+06  0.0000E+00  4.7100E-03  9.4200E-04
+  3.1000E+06  0.0000E+00  8.9000E-03  1.7800E-03
+  3.5000E+06  0.0000E+00  9.5000E-03  1.9000E-03
+  4.0000E+06  0.0000E+00  1.5800E-02  3.1600E-03
+#---------------------------------------------------

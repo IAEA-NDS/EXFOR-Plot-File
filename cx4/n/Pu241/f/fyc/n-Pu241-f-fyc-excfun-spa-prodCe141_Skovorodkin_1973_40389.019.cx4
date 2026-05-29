@@ -1,0 +1,22 @@
+# EXFOR #         : 40389.019  
+# EXFOR Ver.      : 20220322
+# TRANS #         : 4207
+# Author          : N.V.Skovorodkin et al.
+# Reference       : Sov.At.Energy 35 (1973) 1109
+# DOI             : 10.1007/BF01161890
+# Quantity        : 241Pu(n,f)141Ce cumulative fission product yield
+# REACTION        : 94-PU-241(N,F)58-CE-141,CUM,FY,,SPA
+# File ID         : n-Pu241-f-fyc-excfun-spa-prodCe141_Skovorodkin_1973_40389.019
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   4.7800E-02
+# ymax            :   4.7800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  4.7800E-02  1.8000E-03
+#---------------------------------------------------

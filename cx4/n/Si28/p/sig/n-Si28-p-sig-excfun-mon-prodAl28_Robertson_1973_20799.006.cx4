@@ -1,0 +1,22 @@
+# EXFOR #         : 20799.006  
+# EXFOR Ver.      : 20151212
+# TRANS #         : 2246
+# Author          : J.C.Robertson et al.
+# Reference       : J.Nucl.Energy 27 (1973) 531
+# DOI             : 10.1016/0022-3107(73)90084-1
+# Quantity        : 28Si(n,p)28Al cross section
+# REACTION        : 14-SI-28(N,P)13-AL-28,,SIG
+# File ID         : n-Si28-p-sig-excfun-mon-prodAl28_Robertson_1973_20799.006
+#
+# npts            : 1           
+# xmin            :   1.4780E+07
+# xmax            :   1.4780E+07
+# ymin            :   2.6500E-01
+# ymax            :   2.6500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4780E+07  1.0000E+05  2.6500E-01  5.6000E-03
+#---------------------------------------------------

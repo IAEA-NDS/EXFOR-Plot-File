@@ -1,0 +1,26 @@
+# EXFOR #         : 20846.002  
+# EXFOR Ver.      : 20120718
+# TRANS #         : 2232
+# Author          : S.Shirato et al.
+# Reference       : Progress report NEANDC(J)-56 page 54, 1978
+# DOI             : N/A
+# Quantity        : 9Be(n,a)6He partial angular differential cross section
+# REACTION        : 4-BE-9(N,A)2-HE-6,PAR,DA
+# File ID         : n-Be9-a-adxc-angdisc-mon-einc1.410E+07_elvl0.000E+00_prodHe6_Shirato_1978_20846.002
+#
+# Einc (eV)       :   1.4100E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :    7.9000000
+# xmax            :   61.5000000
+# ymin            :   6.0000E-05
+# ymax            :   9.0000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.9000000   0.0000000  6.0000E-05  4.0000E-05
+  61.5000000   0.0000000  9.0000E-04  1.2000E-04
+#---------------------------------------------------

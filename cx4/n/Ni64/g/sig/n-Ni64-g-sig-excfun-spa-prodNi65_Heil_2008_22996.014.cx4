@@ -1,0 +1,22 @@
+# EXFOR #         : 22996.014  
+# EXFOR Ver.      : 20211101
+# TRANS #         : 2305
+# Author          : M.Heil et al.
+# Reference       : Phys.Rev.C 77 (2008) 015808
+# DOI             : 10.1103/PhysRevC.77.015808
+# Quantity        : 64Ni(n,g)65Ni cross section
+# REACTION        : 28-NI-64(N,G)28-NI-65,,SIG,,SPA
+# File ID         : n-Ni64-g-sig-excfun-spa-prodNi65_Heil_2008_22996.014
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   8.9200E-03
+# ymax            :   8.9200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  8.9200E-03  2.8000E-04
+#---------------------------------------------------

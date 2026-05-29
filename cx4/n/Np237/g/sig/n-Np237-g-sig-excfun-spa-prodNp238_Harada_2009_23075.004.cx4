@@ -1,0 +1,22 @@
+# EXFOR #         : 23075.004  
+# EXFOR Ver.      : 20131018
+# TRANS #         : 2236
+# Author          : H.Harada et al.
+# Reference       : J.Nucl.Sci.Technol. 46 (2009) 460
+# DOI             : 10.1080/18811248.2007.9711553
+# Quantity        : 237Np(n,g)238Np cross section
+# REACTION        : 93-NP-237(N,G)93-NP-238,,SIG,,SPA
+# File ID         : n-Np237-g-sig-excfun-spa-prodNp238_Harada_2009_23075.004
+#
+# npts            : 1           
+# xmin            :   2.1400E+05
+# xmax            :   2.1400E+05
+# ymin            :   8.0000E-01
+# ymax            :   8.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1400E+05  9.0000E+03  8.0000E-01  4.0000E-02
+#---------------------------------------------------

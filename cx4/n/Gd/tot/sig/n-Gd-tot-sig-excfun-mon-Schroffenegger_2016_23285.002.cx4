@@ -1,0 +1,24 @@
+# EXFOR #         : 23285.002  
+# EXFOR Ver.      : 20160110
+# TRANS #         : 2248
+# Author          : J.Schroffenegger et al.
+# Reference       : Phys.Lett.B 752 (2016) 212
+# DOI             : 10.1016/j.physletb.2015.11.030
+# Quantity        : natGd(n,tot) cross section
+# REACTION        : 64-GD-0(N,TOT),,SIG
+# File ID         : n-Gd-tot-sig-excfun-mon-Schroffenegger_2016_23285.002
+#
+# npts            : 3           
+# xmin            :   4.7040E-08
+# xmax            :   5.2279E-07
+# ymin            :   5.3600E+06
+# ymax            :   1.7280E+07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.7040E-08  0.0000E+00  1.7280E+07  0.0000E+00
+  1.3070E-07  0.0000E+00  1.1330E+07  0.0000E+00
+  5.2279E-07  0.0000E+00  5.3600E+06  0.0000E+00
+#---------------------------------------------------

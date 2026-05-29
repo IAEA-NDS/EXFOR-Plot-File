@@ -1,0 +1,24 @@
+# EXFOR #         : 20004.099  
+# EXFOR Ver.      : 20181026
+# TRANS #         : 2273
+# Author          : D.L.Allan
+# Reference       : Nucl.Phys. 24 (1961) 274
+# DOI             : 10.1016/0029-5582(61)90380-7
+# Quantity        : 75As(n,p)75Ge angular differential cross section
+# REACTION        : 33-AS-75(N,P)32-GE-75,,DA,,4PI
+# File ID         : n-As75-p-adxl-angdisl-mon-einc1.400E+07_prodGe75_Allan_1961_20004.099
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 1           
+# xmin            :  120.0000000
+# xmax            :  120.0000000
+# ymin            :   2.1486E-03
+# ymax            :   2.1486E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 120.0000000   0.0000000  2.1486E-03  3.9789E-04
+#---------------------------------------------------

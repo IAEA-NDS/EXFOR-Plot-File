@@ -1,0 +1,22 @@
+# EXFOR #         : 22846.003  
+# EXFOR Ver.      : 20211007
+# TRANS #         : 2304
+# Author          : N.Patronis et al.
+# Reference       : Phys.Rev.C 69 (2004) 025803
+# DOI             : 10.1103/PhysRevC.69.025803
+# Quantity        : 135Cs(n,g)136Cs cross section
+# REACTION        : 55-CS-135(N,G)55-CS-136,,SIG,,SPA
+# File ID         : n-Cs135-g-sig-excfun-spa-prodCs136_Patronis_2004_22846.003
+#
+# npts            : 1           
+# xmin            :   5.0000E+05
+# xmax            :   5.0000E+05
+# ymin            :   3.4800E-02
+# ymax            :   3.4800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+05  3.3500E+04  3.4800E-02  2.9928E-03
+#---------------------------------------------------

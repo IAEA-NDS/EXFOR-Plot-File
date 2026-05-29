@@ -1,0 +1,22 @@
+# EXFOR #         : 32734.002  
+# EXFOR Ver.      : 20170808
+# TRANS #         : 3180
+# Author          : Xiangzhong Kong et al.
+# Reference       : J.Rad.Nucl.Chem. 218 (1997) 127
+# DOI             : 10.1007/BF02033989
+# Quantity        : 185Re(n,a)182Ta cross section
+# REACTION        : 75-RE-185(N,A)73-TA-182,,SIG
+# File ID         : n-Re185-a-sig-excfun-mon-prodTa182_Xiangzhong%Kong_1997_32734.002
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   1.4000E-03
+# ymax            :   1.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  1.0000E+05  1.4000E-03  2.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 20736.007  
+# EXFOR Ver.      : 19840201
+# TRANS #         : 0000
+# Author          : G.Rau
+# Reference       : Nukleonik 9 (1967) 228
+# DOI             : N/A
+# Quantity        : 53Cr(n,p)53V cross section
+# REACTION        : 24-CR-53(N,P)23-V-53,,SIG,,FIS
+# File ID         : n-Cr53-p-sig-excfun-fis-prodV53_Rau_1967_20736.007
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.7000E-04
+# ymax            :   3.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.7000E-04  2.6000E-05
+#---------------------------------------------------

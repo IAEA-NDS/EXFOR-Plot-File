@@ -1,0 +1,23 @@
+# EXFOR #         : 31514.002.1
+# EXFOR Ver.      : 20120427
+# TRANS #         : 3155
+# Author          : M.Afzal Ansari et al.
+# Reference       : Ann.Nucl.Energy 26 (1999) 553
+# DOI             : 10.1016/S0306-4549(98)00021-8
+# Quantity        : 148Nd(n,g)149Nd cross section
+# REACTION        : 60-ND-148(N,G)60-ND-149,,SIG
+# File ID         : n-Nd148-g-sig-excfun-mon-prodNd149_Afzal%Ansari_1999_31514.002.1
+#
+# npts            : 2           
+# xmin            :   4.6000E+05
+# xmax            :   5.7000E+05
+# ymin            :   2.9600E-02
+# ymax            :   3.4100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.6000E+05  4.0000E+04  2.9600E-02  3.2000E-03
+  5.7000E+05  4.0000E+04  3.4100E-02  4.1000E-03
+#---------------------------------------------------

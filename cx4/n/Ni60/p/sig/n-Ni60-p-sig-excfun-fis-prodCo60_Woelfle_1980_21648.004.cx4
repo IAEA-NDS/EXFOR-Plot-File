@@ -1,0 +1,22 @@
+# EXFOR #         : 21648.004  
+# EXFOR Ver.      : 20101114
+# TRANS #         : 2225
+# Author          : R.Woelfle et al.
+# Reference       : Radiochim.Acta 27 (1980) 65
+# DOI             : 10.1524/ract.1980.27.2.65
+# Quantity        : 60Ni(n,p)60Co cross section
+# REACTION        : 28-NI-60(N,P)27-CO-60,,SIG,,FIS
+# File ID         : n-Ni60-p-sig-excfun-fis-prodCo60_Woelfle_1980_21648.004
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.5700E-03
+# ymax            :   2.5700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.5700E-03  3.0000E-04
+#---------------------------------------------------

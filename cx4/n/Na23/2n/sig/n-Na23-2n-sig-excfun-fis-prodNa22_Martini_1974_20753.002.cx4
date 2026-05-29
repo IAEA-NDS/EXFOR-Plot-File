@@ -1,0 +1,22 @@
+# EXFOR #         : 20753.002  
+# EXFOR Ver.      : 20211220
+# TRANS #         : 2306
+# Author          : M.Martini et al.
+# Reference       : Progress report NEANDC(E)-161 page 152, 1974
+# DOI             : N/A
+# Quantity        : 23Na(n,2n)22Na cross section
+# REACTION        : 11-NA-23(N,2N)11-NA-22,,SIG,,FIS
+# File ID         : n-Na23-2n-sig-excfun-fis-prodNa22_Martini_1974_20753.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   4.3000E-06
+# ymax            :   4.3000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  4.3000E-06  8.0000E-07
+#---------------------------------------------------

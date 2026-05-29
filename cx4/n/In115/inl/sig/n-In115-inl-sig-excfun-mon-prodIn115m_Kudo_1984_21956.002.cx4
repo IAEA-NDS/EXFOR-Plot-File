@@ -1,0 +1,23 @@
+# EXFOR #         : 21956.002  
+# EXFOR Ver.      : 20060807
+# TRANS #         : 2178
+# Author          : K.Kudo et al.
+# Reference       : Progress report NEANDC(J)-106/U page 1, 1984
+# DOI             : N/A
+# Quantity        : 115In(n,inl)115mIn cross section
+# REACTION        : 49-IN-115(N,INL)49-IN-115-M,,SIG
+# File ID         : n-In115-inl-sig-excfun-mon-prodIn115m_Kudo_1984_21956.002
+#
+# npts            : 2           
+# xmin            :   2.4900E+06
+# xmax            :   1.4600E+07
+# ymin            :   6.6200E-02
+# ymax            :   3.8600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4900E+06  0.0000E+00  3.8600E-01  8.0000E-03
+  1.4600E+07  0.0000E+00  6.6200E-02  2.3000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 32761.005  
+# EXFOR Ver.      : 20181119
+# TRANS #         : 3187
+# Author          : Yuan Junqian et al.
+# Reference       : Comm.Nucl.Data Prog 13 (1995) 16
+# DOI             : N/A
+# Quantity        : 196Hg(n,x)195Au independent production cross section
+# REACTION        : 80-HG-196(N,X)79-AU-195,,SIG
+# File ID         : n-Hg196-x-sig-excfun-mon-prodAu195_Yuan%Junqian_1995_32761.005
+#
+# npts            : 5           
+# xmin            :   1.3800E+07
+# xmax            :   1.4800E+07
+# ymin            :   5.7700E-01
+# ymax            :   7.2600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3800E+07  0.0000E+00  6.3300E-01  9.2000E-02
+  1.4100E+07  0.0000E+00  6.6400E-01  6.7000E-02
+  1.4500E+07  0.0000E+00  7.2600E-01  8.2000E-02
+  1.4700E+07  0.0000E+00  5.7700E-01  3.7000E-02
+  1.4800E+07  0.0000E+00  6.0400E-01  3.2000E-02
+#---------------------------------------------------

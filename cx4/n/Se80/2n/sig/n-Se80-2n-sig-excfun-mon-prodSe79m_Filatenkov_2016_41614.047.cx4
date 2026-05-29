@@ -1,0 +1,24 @@
+# EXFOR #         : 41614.047  
+# EXFOR Ver.      : 20160512
+# TRANS #         : 4174
+# Author          : A.A.Filatenkov
+# Reference       : Report INDC(CCP)-0460, 2016
+# DOI             : N/A
+# Quantity        : 80Se(n,2n)79mSe cross section
+# REACTION        : 34-SE-80(N,2N)34-SE-79-M,,SIG
+# File ID         : n-Se80-2n-sig-excfun-mon-prodSe79m_Filatenkov_2016_41614.047
+#
+# npts            : 3           
+# xmin            :   1.4050E+07
+# xmax            :   1.4840E+07
+# ymin            :   2.1300E-01
+# ymax            :   2.4200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4050E+07  0.0000E+00  2.1300E-01  1.5549E-02
+  1.4640E+07  0.0000E+00  2.1300E-01  2.4282E-02
+  1.4840E+07  0.0000E+00  2.4200E-01  2.3643E-02
+#---------------------------------------------------

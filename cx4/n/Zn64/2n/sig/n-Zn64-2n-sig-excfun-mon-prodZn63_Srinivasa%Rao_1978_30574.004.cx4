@@ -1,0 +1,22 @@
+# EXFOR #         : 30574.004  
+# EXFOR Ver.      : 20090506
+# TRANS #         : 3137
+# Author          : C.V.Srinivasa Rao et al.
+# Reference       : Proceedings of 21.Nucl.Phys.and Solid State Phys.Symp., Bombay 1978 2 page 113
+# DOI             : N/A
+# Quantity        : 64Zn(n,2n)63Zn cross section
+# REACTION        : 30-ZN-64(N,2N)30-ZN-63,,SIG
+# File ID         : n-Zn64-2n-sig-excfun-mon-prodZn63_Srinivasa%Rao_1978_30574.004
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   1.3100E-01
+# ymax            :   1.3100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  1.3100E-01  1.3000E-02
+#---------------------------------------------------

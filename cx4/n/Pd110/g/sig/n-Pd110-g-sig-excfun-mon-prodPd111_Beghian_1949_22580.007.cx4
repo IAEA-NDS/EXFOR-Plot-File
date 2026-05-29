@@ -1,0 +1,22 @@
+# EXFOR #         : 22580.007  
+# EXFOR Ver.      : 20080303
+# TRANS #         : 2196
+# Author          : L.E.Beghian et al.
+# Reference       : Nature 163 (1949) 366
+# DOI             : 10.1038/163366a0
+# Quantity        : 110Pd(n,g)111Pd cross section
+# REACTION        : 46-PD-110(N,G)46-PD-111,,SIG
+# File ID         : n-Pd110-g-sig-excfun-mon-prodPd111_Beghian_1949_22580.007
+#
+# npts            : 1           
+# xmin            :   9.0000E+05
+# xmax            :   9.0000E+05
+# ymin            :   1.3100E-01
+# ymax            :   1.3100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.0000E+05  1.3000E+04  1.3100E-01  5.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 12334.003  
+# EXFOR Ver.      : 19860527
+# TRANS #         : 0000
+# Author          : R.L.Macklin et al.
+# Reference       : Report ORNL-2022, 1956
+# DOI             : N/A
+# Quantity        : 233U(n,abs) cross section
+# REACTION        : 92-U-233(N,ABS),,SIG
+# File ID         : n-U233-abs-sig-excfun-mon-Macklin_1956_12334.003
+#
+# npts            : 2           
+# xmin            :   4.4000E+03
+# xmax            :   1.1800E+04
+# ymin            :   5.6000E+00
+# ymax            :   8.0000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.4000E+03  0.0000E+00  8.0000E+00  6.0000E-01
+  1.1800E+04  0.0000E+00  5.6000E+00  6.0000E-01
+#---------------------------------------------------

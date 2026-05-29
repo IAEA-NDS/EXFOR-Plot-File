@@ -1,0 +1,23 @@
+# EXFOR #         : 23277.018  
+# EXFOR Ver.      : 20150805
+# TRANS #         : 2243
+# Author          : S.M.Qaim et al.
+# Reference       : Proceedings of 9th Symp. on Fusion Technology, Garmisch 1976 page 589
+# DOI             : N/A
+# Quantity        : 100Mo(n,2n)99Mo cross section
+# REACTION        : 42-MO-100(N,2N)42-MO-99,,SIG,,SPA
+# File ID         : n-Mo100-2n-sig-excfun-spa-prodMo99_Qaim_1976_23277.018
+#
+# npts            : 2           
+# xmin            :   1.1500E+07
+# xmax            :   1.1500E+07
+# ymin            :   5.4700E-01
+# ymax            :   7.0400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+07  0.0000E+00  5.4700E-01  8.5000E-02
+  1.1500E+07  0.0000E+00  7.0400E-01  8.5000E-02
+#---------------------------------------------------

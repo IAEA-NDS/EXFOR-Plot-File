@@ -1,0 +1,22 @@
+# EXFOR #         : 20611.004  
+# EXFOR Ver.      : 19840127
+# TRANS #         : 0000
+# Author          : W.Mannhart et al.
+# Reference       : Z.Phys.A 272 (1975) 279
+# DOI             : 10.1007/BF01438021
+# Quantity        : 48Ti(n,p)48Sc cross section
+# REACTION        : 22-TI-48(N,P)21-SC-48,,SIG
+# File ID         : n-Ti48-p-sig-excfun-mon-prodSc48_Mannhart_1975_20611.004
+#
+# npts            : 1           
+# xmin            :   1.3950E+07
+# xmax            :   1.3950E+07
+# ymin            :   5.9800E-02
+# ymax            :   5.9800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3950E+07  1.6000E+05  5.9800E-02  8.0000E-04
+#---------------------------------------------------

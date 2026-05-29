@@ -1,0 +1,23 @@
+# EXFOR #         : 32901.003  
+# EXFOR Ver.      : 20241210
+# TRANS #         : 3215
+# Author          : Jie Liu et al.
+# Reference       : Phys.Lett.B 842 (2023) 137985
+# DOI             : 10.1016/j.physletb.2023.137985
+# Quantity        : 12C(n,n+2a)4He cross section
+# REACTION        : 6-C-12(N,N+2A)2-HE-4,,SIG
+# File ID         : n-C12-n2a-sig-excfun-mon-prodHe4_Jie%Liu_2023_32901.003
+#
+# npts            : 2           
+# xmin            :   1.0500E+07
+# xmax            :   1.1500E+07
+# ymin            :   6.7700E-02
+# ymax            :   1.6610E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0500E+07  1.0000E+05  6.7700E-02  9.8000E-03
+  1.1500E+07  8.0000E+04  1.6610E-01  1.0900E-02
+#---------------------------------------------------

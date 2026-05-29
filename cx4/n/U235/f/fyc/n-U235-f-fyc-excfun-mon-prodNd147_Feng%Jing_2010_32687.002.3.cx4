@@ -1,0 +1,24 @@
+# EXFOR #         : 32687.002.3
+# EXFOR Ver.      : 20110330
+# TRANS #         : 3150
+# Author          : Feng Jing et al.
+# Reference       : He Huax.Fang.Huaxue 32 No.6 (2010) 321
+# DOI             : N/A
+# Quantity        : 235U(n,f)147Nd cumulative fission product yield
+# REACTION        : 92-U-235(N,F)60-ND-147,CUM,FY
+# File ID         : n-U235-f-fyc-excfun-mon-prodNd147_Feng%Jing_2010_32687.002.3
+#
+# npts            : 3           
+# xmin            :   5.7000E+05
+# xmax            :   1.5000E+06
+# ymin            :   2.2500E-02
+# ymax            :   2.3700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  5.7000E+05  0.0000E+00  2.3700E-02  8.0000E-04
+  1.0000E+06  0.0000E+00  2.2500E-02  7.0000E-04
+  1.5000E+06  0.0000E+00  2.3700E-02  7.0000E-04
+#---------------------------------------------------

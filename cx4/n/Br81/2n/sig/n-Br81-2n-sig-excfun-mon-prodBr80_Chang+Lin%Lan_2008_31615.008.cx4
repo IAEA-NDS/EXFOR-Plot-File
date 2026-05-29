@@ -1,0 +1,24 @@
+# EXFOR #         : 31615.008  
+# EXFOR Ver.      : 20080715
+# TRANS #         : 3128
+# Author          : Chang-Lin Lan et al.
+# Reference       : Radiat.Phys.Chem. 77 (2008) 854
+# DOI             : 10.1016/j.radphyschem.2008.03.002
+# Quantity        : 81Br(n,2n)80Br cross section
+# REACTION        : 35-BR-81(N,2N)35-BR-80,,SIG
+# File ID         : n-Br81-2n-sig-excfun-mon-prodBr80_Chang+Lin%Lan_2008_31615.008
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   6.0700E-01
+# ymax            :   7.5100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  3.0000E+05  6.0700E-01  4.1000E-02
+  1.4100E+07  2.0000E+05  7.4300E-01  3.8000E-02
+  1.4800E+07  3.0000E+05  7.5100E-01  4.7000E-02
+#---------------------------------------------------

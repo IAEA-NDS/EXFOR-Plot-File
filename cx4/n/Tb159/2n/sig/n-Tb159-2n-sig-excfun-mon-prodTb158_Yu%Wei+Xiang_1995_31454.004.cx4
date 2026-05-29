@@ -1,0 +1,23 @@
+# EXFOR #         : 31454.004  
+# EXFOR Ver.      : 20021018
+# TRANS #         : 0000
+# Author          : Yu Wei-Xiang et al.
+# Reference       : Chin.J.Nucl.Phys. 17 (1995) 268
+# DOI             : N/A
+# Quantity        : 159Tb(n,2n)158Tb cross section
+# REACTION        : 65-TB-159(N,2N)65-TB-158,,SIG
+# File ID         : n-Tb159-2n-sig-excfun-mon-prodTb158_Yu%Wei+Xiang_1995_31454.004
+#
+# npts            : 2           
+# xmin            :   9.5000E+06
+# xmax            :   9.9000E+06
+# ymin            :   4.9100E-01
+# ymax            :   8.0300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5000E+06  5.0000E+05  4.9100E-01  6.1000E-02
+  9.9000E+06  5.0000E+05  8.0300E-01  7.6000E-02
+#---------------------------------------------------

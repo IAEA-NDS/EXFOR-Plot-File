@@ -1,0 +1,25 @@
+# EXFOR #         : 22681.002  
+# EXFOR Ver.      : 20020729
+# TRANS #         : 0000
+# Author          : J.Wagemans et al.
+# Reference       : Nucl.Phys.A 696 (2001) 31
+# DOI             : 10.1016/S0375-9474(01)01125-3
+# Quantity        : 26Al(n,a)23Na partial cross section
+# REACTION        : 13-AL-26(N,A)11-NA-23,PAR,SIG,,MXW
+# File ID         : n-Al26-a-sig-lvldis-mxw-einc3.900E-02_prodNa23_Wagemans_2001_22681.002
+#
+# Einc (eV)       :   3.9000E-02
+#
+# npts            : 2           
+# xmin            :   5.4961E+06
+# xmax            :   5.9361E+06
+# ymin            :   7.4000E-02
+# ymax            :   2.6100E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9361E+06  0.0000E+00  2.6100E-01  1.3000E-02
+  5.4961E+06  0.0000E+00  7.4000E-02  4.0000E-03
+#---------------------------------------------------

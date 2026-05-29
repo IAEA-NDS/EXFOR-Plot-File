@@ -1,0 +1,23 @@
+# EXFOR #         : 23032.008  
+# EXFOR Ver.      : 20230213
+# TRANS #         : 2314
+# Author          : M.Furuta et al.
+# Reference       : Ann.Nucl.Energy 35 (2008) 1652
+# DOI             : 10.1016/j.anucene.2008.02.010
+# Quantity        : 65Cu(n,p)65Ni cross section
+# REACTION        : 29-CU-65(N,P)28-NI-65,,SIG
+# File ID         : n-Cu65-p-sig-excfun-mon-prodNi65_Furuta_2008_23032.008
+#
+# npts            : 2           
+# xmin            :   5.1700E+06
+# xmax            :   5.9300E+06
+# ymin            :   5.0000E-03
+# ymax            :   5.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9300E+06  1.0000E+05  5.1000E-03  9.1800E-04
+  5.1700E+06  1.0000E+05  5.0000E-03  1.5500E-03
+#---------------------------------------------------

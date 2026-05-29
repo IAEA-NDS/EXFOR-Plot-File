@@ -1,0 +1,23 @@
+# EXFOR #         : 23779.003  
+# EXFOR Ver.      : 20220209
+# TRANS #         : 2308
+# Author          : M.Pillon et al.
+# Reference       : Nucl.Instrum.Meth.A 995 (2021) 165107
+# DOI             : 10.1016/j.nima.2021.165107
+# Quantity        : 17O(n,p)17N cross section
+# REACTION        : 8-O-17(N,P)7-N-17,,SIG
+# File ID         : n-O17-p-sig-excfun-mon-prodN17_Pillon_2021_23779.003
+#
+# npts            : 2           
+# xmin            :   1.4000E+07
+# xmax            :   1.4600E+07
+# ymin            :   3.1000E-02
+# ymax            :   3.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  2.3000E+05  3.1000E-02  6.3550E-03
+  1.4600E+07  2.1000E+05  3.7000E-02  7.6960E-03
+#---------------------------------------------------

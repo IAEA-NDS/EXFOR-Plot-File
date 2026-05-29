@@ -1,0 +1,23 @@
+# EXFOR #         : 31872.006  
+# EXFOR Ver.      : 20260213
+# TRANS #         : 3222
+# Author          : E.Losa et al.
+# Reference       : Appl.Radiat.Isot. 210 (2024) 111351
+# DOI             : 10.1016/j.apradiso.2024.111351
+# Quantity        : 58Fe(n,g)59Fe cross section
+# REACTION        : 26-FE-58(N,G)26-FE-59,,SIG,,SPA
+# File ID         : n-Fe58-g-sig-excfun-spa-prodFe59_Losa_2024_31872.006
+#
+# npts            : 2           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.1110E-01
+# ymax            :   2.2200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.2200E-01  1.0656E-02
+  1.0000E+06  0.0000E+00  2.1110E-01  8.6551E-03
+#---------------------------------------------------

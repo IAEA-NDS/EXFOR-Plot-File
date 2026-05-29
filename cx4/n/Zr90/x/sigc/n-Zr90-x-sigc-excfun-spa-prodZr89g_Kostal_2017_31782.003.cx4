@@ -1,0 +1,22 @@
+# EXFOR #         : 31782.003  
+# EXFOR Ver.      : 20180302
+# TRANS #         : 3184
+# Author          : M.Kostal et al.
+# Reference       : Appl.Radiat.Isot. 128 (2017) 92
+# DOI             : 10.1016/j.apradiso.2017.06.023
+# Quantity        : 90Zr(n,2n)89gZr cumulative production cross section
+# REACTION        : 40-ZR-90(N,2N)40-ZR-89-G,M+,SIG,,SPA
+# File ID         : n-Zr90-x-sigc-excfun-spa-prodZr89g_Kostal_2017_31782.003
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.8850E-05
+# ymax            :   2.8850E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.8850E-05  1.1540E-06
+#---------------------------------------------------

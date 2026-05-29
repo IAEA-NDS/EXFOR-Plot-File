@@ -1,0 +1,26 @@
+# EXFOR #         : 14125.015  
+# EXFOR Ver.      : 20140527
+# TRANS #         : 1401
+# Author          : P.S.Buchanan et al.
+# Reference       : Progress report ORO-2791-32, 1971
+# DOI             : N/A
+# Quantity        : 29Si(n,inl)29Si partial gamma angular differential cross section
+# REACTION        : 14-SI-29(N,INL)14-SI-29,PAR,DA,G,A
+# File ID         : n-Si29-inl-adxgl-enedisl-mon-einc4.100E+06_angl90_prodSi29_Buchanan_1971_14125.015
+#
+# Einc (eV)       :   4.1000E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   1.2800E+06
+# xmax            :   1.2800E+06
+# ymin            :   2.7825E-04
+# ymax            :   2.7825E-04
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.2800E+06  0.0000E+00  2.7825E-04  5.5651E-05
+#---------------------------------------------------

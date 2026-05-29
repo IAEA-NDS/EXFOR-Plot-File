@@ -1,0 +1,27 @@
+# EXFOR #         : 20710.006  
+# EXFOR Ver.      : 20120715
+# TRANS #         : 2232
+# Author          : M.Thumm et al.
+# Reference       : Nucl.Phys.A 344 No.3 (1980) 446
+# DOI             : 10.1016/0375-9474(80)90401-7
+# Quantity        : 12C(n,el)12C angular differential cross section
+# REACTION        : 6-C-12(N,EL)6-C-12,,DA
+# File ID         : n-C12-el-adxc-angdisc-mon-einc1.500E+07_prodC12_Thumm_1980_20710.006
+#
+# Einc (eV)       :   1.5000E+07
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 3           
+# xmin            :   87.3000000
+# xmax            :  114.2000000
+# ymin            :   2.6000E-02
+# ymax            :   3.6000E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  87.3000000   0.0000000  2.6000E-02  3.9000E-03
+  99.7000000   0.0000000  3.6000E-02  5.4000E-03
+ 114.2000000   0.0000000  2.9400E-02  4.4000E-03
+#---------------------------------------------------

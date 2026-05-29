@@ -1,0 +1,22 @@
+# EXFOR #         : 30031.027  
+# EXFOR Ver.      : 19900212
+# TRANS #         : 0000
+# Author          : G.Peto et al.
+# Reference       : J.Nucl.Energy 21 (1967) 797
+# DOI             : 10.1016/0022-3107(67)90089-5
+# Quantity        : 192Os(n,g)193Os cross section
+# REACTION        : 76-OS-192(N,G)76-OS-193,,SIG
+# File ID         : n-Os192-g-sig-excfun-mon-prodOs193_Peto_1967_30031.027
+#
+# npts            : 1           
+# xmin            :   3.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   3.0000E-02
+# ymax            :   3.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  2.0000E+05  3.0000E-02  1.0000E-02
+#---------------------------------------------------

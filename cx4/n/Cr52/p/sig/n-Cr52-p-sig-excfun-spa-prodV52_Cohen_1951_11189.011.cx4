@@ -1,0 +1,22 @@
+# EXFOR #         : 11189.011  
+# EXFOR Ver.      : 20200419
+# TRANS #         : 1466
+# Author          : B.L.Cohen
+# Reference       : Phys.Rev. 81 (1951) 184
+# DOI             : 10.1103/PhysRev.81.184
+# Quantity        : 52Cr(n,p)52V cross section
+# REACTION        : 24-CR-52(N,P)23-V-52,,SIG,,SPA
+# File ID         : n-Cr52-p-sig-excfun-spa-prodV52_Cohen_1951_11189.011
+#
+# npts            : 1           
+# xmin            :   1.0400E+07
+# xmax            :   1.0400E+07
+# ymin            :   1.5000E-02
+# ymax            :   1.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0400E+07  7.6000E+06  1.5000E-02  1.5000E-03
+#---------------------------------------------------

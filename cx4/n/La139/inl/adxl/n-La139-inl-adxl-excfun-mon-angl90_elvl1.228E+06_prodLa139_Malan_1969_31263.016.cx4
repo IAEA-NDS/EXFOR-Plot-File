@@ -1,0 +1,29 @@
+# EXFOR #         : 31263.016  
+# EXFOR Ver.      : 20150723
+# TRANS #         : 3172
+# Author          : J.C.Malan et al.
+# Reference       : Nucl.Phys.A 124 (1969) 111
+# DOI             : 10.1016/0375-9474(69)90523-5
+# Quantity        : 139La(n,inl)139La partial angular differential cross section
+# REACTION        : 57-LA-139(N,INL)57-LA-139,PAR,DA
+# File ID         : n-La139-inl-adxl-excfun-mon-angl90_elvl1.228E+06_prodLa139_Malan_1969_31263.016
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   1.2280E+06
+#
+# npts            : 5           
+# xmin            :   1.4500E+06
+# xmax            :   1.6980E+06
+# ymin            :   7.0000E-03
+# ymax            :   1.0400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4500E+06  3.0000E+03  7.0000E-03  2.5000E-03
+  1.4680E+06  3.0000E+03  9.1000E-03  2.5000E-03
+  1.5700E+06  3.0000E+03  1.0400E-02  2.5000E-03
+  1.6800E+06  3.0000E+03  9.7000E-03  2.5000E-03
+  1.6980E+06  3.0000E+03  9.9000E-03  2.5000E-03
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : 13613.003  
+# EXFOR Ver.      : 20211005
+# TRANS #         : 1493
+# Author          : B.Siebels et al.
+# Reference       : Phys.Rev.C 52 (1995) 1488
+# DOI             : 10.1103/PhysRevC.52.1488
+# Quantity        : 23Na(n,p)23Ne partial angular differential cross section
+# REACTION        : 11-NA-23(N,P)10-NE-23,PAR,DA
+# File ID         : n-Na23-p-adxl-lvldis-mon-einc1.980E+08_angl2_prodNe23_Siebels_1995_13613.003
+#
+# Einc (eV)       :   1.9800E+08
+# theta,lab (deg) :    1.5000000
+#
+# npts            : 4           
+# xmin            :   0.0000E+00
+# xmax            :   3.4450E+06
+# ymin            :   3.0000E-04
+# ymax            :   2.3400E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  3.0000E-04  5.1000E-05
+  1.0170E+06  0.0000E+00  3.6400E-04  5.5000E-05
+  1.8230E+06  0.0000E+00  3.1200E-04  5.8000E-05
+  3.4450E+06  1.3000E+04  2.3400E-03  2.4000E-04
+#---------------------------------------------------

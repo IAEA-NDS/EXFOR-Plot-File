@@ -1,0 +1,22 @@
+# EXFOR #         : 22679.002  
+# EXFOR Ver.      : 20131202
+# TRANS #         : 2238
+# Author          : S.Nakamura et al.
+# Reference       : J.Nucl.Sci.Technol. 38 (2001) 1029
+# DOI             : 10.1080/18811248.2001.9715132
+# Quantity        : 90Sr(n,g)91Sr cross section
+# REACTION        : 38-SR-90(N,G)38-SR-91,,SIG
+# File ID         : n-Sr90-g-sig-excfun-mon-prodSr91_Nakamura_2001_22679.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.0100E-02
+# ymax            :   1.0100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.0100E-02  1.3000E-03
+#---------------------------------------------------

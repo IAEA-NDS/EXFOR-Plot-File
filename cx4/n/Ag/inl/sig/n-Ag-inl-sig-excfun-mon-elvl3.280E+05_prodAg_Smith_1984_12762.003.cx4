@@ -1,0 +1,28 @@
+# EXFOR #         : 12762.003  
+# EXFOR Ver.      : 20250601
+# TRANS #         : 1520
+# Author          : A.B.Smith et al.
+# Reference       : Nucl.Phys.A 415 (1984) 1
+# DOI             : N/A
+# Quantity        : natAg(n,inl)natAg partial cross section
+# REACTION        : 47-AG-0(N,INL)47-AG-0,PAR,SIG,,AV
+# File ID         : n-Ag-inl-sig-excfun-mon-elvl3.280E+05_prodAg_Smith_1984_12762.003
+#
+# Elvl (eV)       :   3.2800E+05
+# dElvl (eV)      :   1.3000E+04
+#
+# npts            : 4           
+# xmin            :   1.6000E+06
+# xmax            :   1.9000E+06
+# ymin            :   2.8800E-01
+# ymax            :   3.6100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+06  1.0000E+04  3.6100E-01  7.2200E-02
+  1.7000E+06  1.0000E+04  3.4400E-01  6.8800E-02
+  1.8000E+06  1.0000E+04  3.4800E-01  6.9600E-02
+  1.9000E+06  1.0000E+04  2.8800E-01  5.7600E-02
+#---------------------------------------------------

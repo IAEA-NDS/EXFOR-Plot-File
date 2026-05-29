@@ -1,0 +1,23 @@
+# EXFOR #         : 13370.002  
+# EXFOR Ver.      : 19891220
+# TRANS #         : 0000
+# Author          : G.P.Ford et al.
+# Reference       : Report AECD-3551, 1953
+# DOI             : N/A
+# Quantity        : 235U(n,f)141La independent fission product yield
+# REACTION        : 92-U-235(N,F)57-LA-141,IND,FY,,MXW
+# File ID         : n-U235-f-fyi-excfun-mxw-prodLa141_Ford_1953_13370.002
+#
+# npts            : 2           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.7000E-04
+# ymax            :   2.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,ind      dFY,ind     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.2000E-04  1.5000E-05
+  2.5300E-02  0.0000E+00  1.7000E-04  1.5000E-05
+#---------------------------------------------------

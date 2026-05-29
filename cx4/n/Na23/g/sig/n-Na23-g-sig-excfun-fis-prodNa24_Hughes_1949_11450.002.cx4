@@ -1,0 +1,22 @@
+# EXFOR #         : 11450.002  
+# EXFOR Ver.      : 20021212
+# TRANS #         : 0000
+# Author          : D.J.Hughes et al.
+# Reference       : Phys.Rev. 75 (1949) 1781
+# DOI             : 10.1103/PhysRev.75.1781
+# Quantity        : 23Na(n,g)24Na cross section
+# REACTION        : 11-NA-23(N,G)11-NA-24,,SIG,,FIS
+# File ID         : n-Na23-g-sig-excfun-fis-prodNa24_Hughes_1949_11450.002
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.9000E-04
+# ymax            :   2.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.9000E-04  0.0000E+00
+#---------------------------------------------------

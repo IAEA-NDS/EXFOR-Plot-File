@@ -1,0 +1,22 @@
+# EXFOR #         : 11328.022  
+# EXFOR Ver.      : 20250629
+# TRANS #         : 1521
+# Author          : L.A.Rayburn
+# Reference       : Phys.Rev. 122 (1961) 168
+# DOI             : 10.1103/PhysRev.122.168
+# Quantity        : 92Mo(n,2n)91gMo cumulative production cross section
+# REACTION        : 42-MO-92(N,2N)42-MO-91-G,M+,SIG
+# File ID         : n-Mo92-x-sigc-excfun-mon-prodMo91g_Rayburn_1961_11328.022
+#
+# npts            : 1           
+# xmin            :   1.4400E+07
+# xmax            :   1.4400E+07
+# ymin            :   2.1100E-01
+# ymax            :   2.1100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4400E+07  3.0000E+05  2.1100E-01  1.5614E-02
+#---------------------------------------------------

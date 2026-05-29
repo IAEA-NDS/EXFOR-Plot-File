@@ -1,0 +1,27 @@
+# EXFOR #         : 41185.006  
+# EXFOR Ver.      : 20191107
+# TRANS #         : 4184
+# Author          : L.L.Litvinskij et al.
+# Reference       : Yad.Reak.Konst.  No.1 (1994) 15
+# DOI             : N/A
+# Quantity        : 197Au(n,el)197Au angular differential cross section
+# REACTION        : 79-AU-197(N,EL)79-AU-197,,DA
+# File ID         : n-Au197-el-adxl-angdisl-mon-einc1.340E+05_prodAu197_Litvinskij_1994_41185.006
+#
+# Einc (eV)       :   1.3400E+05
+# dEinc (eV)      :   7.5000E+03
+#
+# npts            : 3           
+# xmin            :   45.0000000
+# xmax            :  135.0000000
+# ymin            :   5.9900E-01
+# ymax            :   8.8500E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  45.0000000   0.0000000  8.8500E-01  3.0000E-02
+  90.0000000   0.0000000  7.3000E-01  3.4000E-02
+ 135.0000000   0.0000000  5.9900E-01  3.1000E-02
+#---------------------------------------------------

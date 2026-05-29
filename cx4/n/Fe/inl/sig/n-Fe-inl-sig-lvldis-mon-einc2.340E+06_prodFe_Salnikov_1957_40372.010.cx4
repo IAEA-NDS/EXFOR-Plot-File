@@ -1,0 +1,24 @@
+# EXFOR #         : 40372.010  
+# EXFOR Ver.      : 20170120
+# TRANS #         : 4175
+# Author          : O.A.Salnikov
+# Reference       : Sov.At.Energy 3 (1957) 869
+# DOI             : 10.1007/BF01480069
+# Quantity        : natFe(n,inl)natFe partial cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-0,PAR,SIG
+# File ID         : n-Fe-inl-sig-lvldis-mon-einc2.340E+06_prodFe_Salnikov_1957_40372.010
+#
+# Einc (eV)       :   2.3400E+06
+#
+# npts            : 1           
+# xmin            :   8.5000E+05
+# xmax            :   8.5000E+05
+# ymin            :   9.0000E-01
+# ymax            :   9.0000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.5000E+05  0.0000E+00  9.0000E-01  7.8000E-02
+#---------------------------------------------------

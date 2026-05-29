@@ -1,0 +1,26 @@
+# EXFOR #         : 20245.010  
+# EXFOR Ver.      : 20200921
+# TRANS #         : 2296
+# Author          : K.Nyberg-Ponnert et al.
+# Reference       : Phys.Scr. 4 (1971) 165
+# DOI             : 10.1088/0031-8949/4/4-5/004
+# Quantity        : 24Mg(n,a)21Ne partial gamma angular differential cross section
+# REACTION        : 12-MG-24(N,A)10-NE-21,PAR,DA,G
+# File ID         : n-Mg24-a-adxgl-enedisl-mon-einc1.510E+07_angl80_prodNe21_Nyberg+Ponnert_1971_20245.010
+#
+# Einc (eV)       :   1.5100E+07
+# dEinc (eV)      :   4.0000E+05
+# theta,lab (deg) :   80.0000000
+#
+# npts            : 1           
+# xmin            :   3.5200E+05
+# xmax            :   3.5200E+05
+# ymin            :   7.8000E-03
+# ymax            :   7.8000E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.5200E+05  3.0000E+03  7.8000E-03  1.3000E-03
+#---------------------------------------------------

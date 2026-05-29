@@ -1,0 +1,25 @@
+# EXFOR #         : 40560.003  
+# EXFOR Ver.      : 20230724
+# TRANS #         : 4214
+# Author          : P.E.Vorotnikov et al.
+# Reference       : Report INDC(CCP)-118 Vol.(2) page 119, 1977
+# DOI             : N/A
+# Quantity        : 238U(n,inl)238U partial cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,SIG
+# File ID         : n-U238-inl-sig-lvldis-mon-einc9.500E+05_prodU238_Vorotnikov_1977_40560.003
+#
+# Einc (eV)       :   9.5000E+05
+#
+# npts            : 2           
+# xmin            :   4.5000E+04
+# xmax            :   1.4800E+05
+# ymin            :   5.6000E-01
+# ymax            :   1.2000E+00
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+04  0.0000E+00  1.2000E+00  9.0000E-02
+  1.4800E+05  0.0000E+00  5.6000E-01  4.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 31629.002  
+# EXFOR Ver.      : 20080725
+# TRANS #         : 3128
+# Author          : Zhou Feng-Qun et al.
+# Reference       : High En.Nucl.Phy.Ch. 31 (2007) 625
+# DOI             : N/A
+# Quantity        : 128Te(n,2n)127mTe cross section
+# REACTION        : 52-TE-128(N,2N)52-TE-127-M,,SIG
+# File ID         : n-Te128-2n-sig-excfun-mon-prodTe127m_Zhou%Feng+Qun_2007_31629.002
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4600E+07
+# ymin            :   7.3700E-01
+# ymax            :   8.5300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  2.0000E+05  7.3700E-01  6.9000E-02
+  1.4600E+07  3.0000E+05  8.5300E-01  8.2000E-02
+#---------------------------------------------------

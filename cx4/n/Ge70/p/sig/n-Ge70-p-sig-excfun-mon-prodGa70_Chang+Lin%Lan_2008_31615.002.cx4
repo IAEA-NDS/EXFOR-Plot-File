@@ -1,0 +1,23 @@
+# EXFOR #         : 31615.002  
+# EXFOR Ver.      : 20080715
+# TRANS #         : 3128
+# Author          : Chang-Lin Lan et al.
+# Reference       : Radiat.Phys.Chem. 77 (2008) 854
+# DOI             : 10.1016/j.radphyschem.2008.03.002
+# Quantity        : 70Ge(n,p)70Ga cross section
+# REACTION        : 32-GE-70(N,P)31-GA-70,,SIG
+# File ID         : n-Ge70-p-sig-excfun-mon-prodGa70_Chang+Lin%Lan_2008_31615.002
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   6.0100E-02
+# ymax            :   1.5010E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  3.0000E+05  1.5010E-01  1.3800E-02
+  1.4800E+07  3.0000E+05  6.0100E-02  6.3100E-03
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : 40230.005  
+# EXFOR Ver.      : 20151208
+# TRANS #         : 4173
+# Author          : G.N.Lovchikova
+# Reference       : Sov.At.Energy 13 (1963) 648
+# DOI             : 10.1007/BF01587331
+# Quantity        : natTi(n,el)natTi angular differential cross section
+# REACTION        : 22-TI-0(N,EL)22-TI-0,,DA
+# File ID         : n-Ti-el-adxl-angdisl-mon-einc9.000E+05_prodTi_Lovchikova_1963_40230.005
+#
+# Einc (eV)       :   9.0000E+05
+# dEinc (eV)      :   4.0000E+04
+#
+# npts            : 5           
+# xmin            :   29.5425200
+# xmax            :  150.4470000
+# ymin            :   1.8000E-01
+# ymax            :   4.8000E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 150.4470000   0.0000000  3.0000E-01  4.0000E-02
+ 120.0000000   0.0000000  1.8000E-01  4.0000E-02
+  90.0000000   0.0000000  1.8000E-01  4.0000E-02
+  60.0000000   0.0000000  2.7000E-01  4.0000E-02
+  29.5425200   0.0000000  4.8000E-01  4.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,32 @@
+# EXFOR #         : 11702.003  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : D.M.Van Patter et al.
+# Reference       : Proceedings of Nuclear Structure Conf., Kingston 1960 page 244
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe partial gamma angular differential cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,DA,G,4PI
+# File ID         : n-Fe56-inl-adxgl-excfun-mon-angl100_eoutl1.260E+06_prodFe56_Van%Patter_1964_11702.003
+#
+# theta,lab (deg) :  100.0000000
+# dtheta,lab (deg):   40.0000000
+# Eout,lab (eV)   :   1.2600E+06
+#
+# npts            : 7           
+# xmin            :   2.2600E+06
+# xmax            :   3.3800E+06
+# ymin            :   9.5493E-04
+# ymax            :   1.1618E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.2600E+06  3.0000E+04  9.5493E-04  0.0000E+00
+  2.5800E+06  3.0000E+04  3.5810E-03  0.0000E+00
+  2.6700E+06  3.0000E+04  5.3317E-03  0.0000E+00
+  2.7600E+06  3.0000E+04  4.7746E-03  0.0000E+00
+  3.0000E+06  3.0000E+04  7.7190E-03  0.0000E+00
+  3.2000E+06  3.0000E+04  9.7085E-03  0.0000E+00
+  3.3800E+06  3.0000E+04  1.1618E-02  0.0000E+00
+#---------------------------------------------------

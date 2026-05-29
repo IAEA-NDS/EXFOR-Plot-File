@@ -1,0 +1,22 @@
+# EXFOR #         : 22425.014  
+# EXFOR Ver.      : 20201212
+# TRANS #         : 2296
+# Author          : N.Shinohara et al.
+# Reference       : J.Nucl.Sci.Technol. 36 (1999) 232
+# DOI             : 10.1080/18811248.1999.9726203
+# Quantity        : 241Am(n,f)131I independent production cross section
+# REACTION        : 95-AM-241(N,F)53-I-131,,SIG,,MXW
+# File ID         : n-Am241-x-sig-excfun-mxw-prodI131_Shinohara_1999_22425.014
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.4200E-01
+# ymax            :   1.4200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.4200E-01  1.2000E-02
+#---------------------------------------------------

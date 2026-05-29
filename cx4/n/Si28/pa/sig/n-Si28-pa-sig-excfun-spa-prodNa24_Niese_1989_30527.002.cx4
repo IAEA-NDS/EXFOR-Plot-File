@@ -1,0 +1,22 @@
+# EXFOR #         : 30527.002  
+# EXFOR Ver.      : 20090312
+# TRANS #         : 3137
+# Author          : S.Niese
+# Reference       : Isot.Env.Health St. 25 No.1 (1989) 28
+# DOI             : 10.1080/10256018908624043
+# Quantity        : 28Si(n,p+a)24Na cross section
+# REACTION        : 14-SI-28(N,P+A)11-NA-24,,SIG,,SPA
+# File ID         : n-Si28-pa-sig-excfun-spa-prodNa24_Niese_1989_30527.002
+#
+# npts            : 1           
+# xmin            :   2.0000E+06
+# xmax            :   2.0000E+06
+# ymin            :   2.1000E-09
+# ymax            :   2.1000E-09
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  2.1000E-09  4.0000E-10
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 14294.002  
+# EXFOR Ver.      : 20170731
+# TRANS #         : 1430
+# Author          : A.De Volpi et al.
+# Reference       : Proceedings of Nuclear Data For Reactors Conf., Paris 1966 1 page 297
+# DOI             : N/A
+# Quantity        : 235U(n,f) total fission neutron multiplicity
+# REACTION        : 92-U-235(N,F),,NU,,MXW
+# File ID         : n-U235-f-nut-excfun-mxw-De%Volpi_1966_14294.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.4360E+00
+# ymax            :   2.4360E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-t        dnu-t       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.4360E+00  3.6540E-02
+#---------------------------------------------------

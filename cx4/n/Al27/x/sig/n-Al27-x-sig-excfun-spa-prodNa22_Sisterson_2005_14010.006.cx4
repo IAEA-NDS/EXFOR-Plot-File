@@ -1,0 +1,24 @@
+# EXFOR #         : 14010.006  
+# EXFOR Ver.      : 20180818
+# TRANS #         : 1443
+# Author          : J.M.Sisterson et al.
+# Reference       : Nucl.Instrum.Meth.B 234 (2005) 419
+# DOI             : 10.1016/j.nimb.2005.02.023
+# Quantity        : 27Al(n,x) independent production cross section
+# REACTION        : 13-AL-27(N,X)ELEM/MASS,,SIG,,SPA
+# File ID         : n-Al27-x-sig-excfun-spa-prodNa22_Sisterson_2005_14010.006
+#
+# npts            : 3           
+# xmin            :   3.7535E+08
+# xmax            :   3.7625E+08
+# ymin            :   7.7000E-03
+# ymax            :   9.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7535E+08  3.7465E+08  9.1000E-03  1.1000E-03
+  3.7562E+08  3.7438E+08  7.7000E-03  1.0000E-03
+  3.7625E+08  3.7375E+08  7.8000E-03  1.0000E-03
+#---------------------------------------------------

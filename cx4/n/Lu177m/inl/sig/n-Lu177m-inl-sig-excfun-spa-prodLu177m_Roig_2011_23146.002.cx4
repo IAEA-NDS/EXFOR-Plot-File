@@ -1,0 +1,22 @@
+# EXFOR #         : 23146.002  
+# EXFOR Ver.      : 20110825
+# TRANS #         : 2228
+# Author          : O.Roig et al.
+# Reference       : Phys.Rev.C 83 (2011) 064617
+# DOI             : 10.1103/PhysRevC.83.064617
+# Quantity        : 177mLu(n,inl)177Lu cross section
+# REACTION        : 71-LU-177-M(N,INL)71-LU-177,,SIG,,SPA
+# File ID         : n-Lu177m-inl-sig-excfun-spa-prodLu177m_Roig_2011_23146.002
+#
+# npts            : 1           
+# xmin            :   4.5000E-03
+# xmax            :   4.5000E-03
+# ymin            :   3.6300E+02
+# ymax            :   3.6300E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E-03  0.0000E+00  3.6300E+02  4.8000E+01
+#---------------------------------------------------

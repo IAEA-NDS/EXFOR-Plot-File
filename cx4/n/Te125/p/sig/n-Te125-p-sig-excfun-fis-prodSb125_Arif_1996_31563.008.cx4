@@ -1,0 +1,22 @@
+# EXFOR #         : 31563.008  
+# EXFOR Ver.      : 20051214
+# TRANS #         : 3118
+# Author          : M.Arif et al.
+# Reference       : Radiochim.Acta 73 (1996) 45
+# DOI             : 10.1524/ract.1996.73.1.45
+# Quantity        : 125Te(n,p)125Sb cross section
+# REACTION        : 52-TE-125(N,P)51-SB-125,,SIG,,FIS
+# File ID         : n-Te125-p-sig-excfun-fis-prodSb125_Arif_1996_31563.008
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.6700E-04
+# ymax            :   1.6700E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.6700E-04  1.2000E-05
+#---------------------------------------------------

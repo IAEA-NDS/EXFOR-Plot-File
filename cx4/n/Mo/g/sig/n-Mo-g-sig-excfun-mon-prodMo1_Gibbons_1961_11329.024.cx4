@@ -1,0 +1,23 @@
+# EXFOR #         : 11329.024  
+# EXFOR Ver.      : 20120416
+# TRANS #         : 1380
+# Author          : J.H.Gibbons et al.
+# Reference       : Phys.Rev. 122 (1961) 182
+# DOI             : 10.1103/PhysRev.122.182
+# Quantity        : natMo(n,g) cross section
+# REACTION        : 42-MO-0(N,G),,SIG
+# File ID         : n-Mo-g-sig-excfun-mon-prodMo1_Gibbons_1961_11329.024
+#
+# npts            : 2           
+# xmin            :   3.0000E+04
+# xmax            :   6.5000E+04
+# ymin            :   6.9000E-02
+# ymax            :   1.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  7.0000E+03  1.4000E-01  1.2600E-02
+  6.5000E+04  2.0000E+04  6.9000E-02  6.2100E-03
+#---------------------------------------------------

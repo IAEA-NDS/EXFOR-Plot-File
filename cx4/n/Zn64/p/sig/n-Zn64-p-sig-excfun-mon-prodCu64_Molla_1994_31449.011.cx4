@@ -1,0 +1,25 @@
+# EXFOR #         : 31449.011  
+# EXFOR Ver.      : 20071207
+# TRANS #         : 3124
+# Author          : N.I.Molla et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 2 page 938
+# DOI             : N/A
+# Quantity        : 64Zn(n,p)64Cu cross section
+# REACTION        : 30-ZN-64(N,P)29-CU-64,,SIG
+# File ID         : n-Zn64-p-sig-excfun-mon-prodCu64_Molla_1994_31449.011
+#
+# npts            : 4           
+# xmin            :   1.3900E+07
+# xmax            :   1.4710E+07
+# ymin            :   2.0110E-01
+# ymax            :   2.2820E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3900E+07  0.0000E+00  2.2820E-01  1.8500E-02
+  1.4100E+07  0.0000E+00  2.2460E-01  1.9000E-02
+  1.4510E+07  0.0000E+00  2.1740E-01  1.9400E-02
+  1.4710E+07  0.0000E+00  2.0110E-01  1.7900E-02
+#---------------------------------------------------

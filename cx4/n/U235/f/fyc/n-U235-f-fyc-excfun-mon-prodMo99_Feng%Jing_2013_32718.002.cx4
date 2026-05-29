@@ -1,0 +1,24 @@
+# EXFOR #         : 32718.002  
+# EXFOR Ver.      : 20221116
+# TRANS #         : 3209
+# Author          : Feng Jing et al.
+# Reference       : At.En.Sci.Technol. 47 (2013) 1473
+# DOI             : N/A
+# Quantity        : 235U(n,f)99Mo cumulative fission product yield
+# REACTION        : 92-U-235(N,F)42-MO-99,CUM,FY
+# File ID         : n-U235-f-fyc-excfun-mon-prodMo99_Feng%Jing_2013_32718.002
+#
+# npts            : 3           
+# xmin            :   5.7000E+05
+# xmax            :   1.5000E+06
+# ymin            :   6.2800E-02
+# ymax            :   6.6200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  5.7000E+05  0.0000E+00  6.6100E-02  2.1152E-03
+  1.0000E+06  0.0000E+00  6.6200E-02  2.0522E-03
+  1.5000E+06  0.0000E+00  6.2800E-02  1.7584E-03
+#---------------------------------------------------

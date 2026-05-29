@@ -1,0 +1,22 @@
+# EXFOR #         : 31633.002  
+# EXFOR Ver.      : 20200716
+# TRANS #         : 3197
+# Author          : P.Bem et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 2 page 983
+# DOI             : N/A
+# Quantity        : 181Ta(n,5n)177Ta cross section
+# REACTION        : 73-TA-181(N,5N)73-TA-177,,SIG,,SPA
+# File ID         : n-Ta181-5n-sig-excfun-spa-prodTa177_Bem_2007_31633.002
+#
+# npts            : 1           
+# xmin            :   3.5000E+07
+# xmax            :   3.5000E+07
+# ymin            :   2.4000E-02
+# ymax            :   2.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+07  0.0000E+00  2.4000E-02  2.8800E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 13393.007  
+# EXFOR Ver.      : 20201215
+# TRANS #         : 1477
+# Author          : T.J.Kennett et al.
+# Reference       : Phys.Rev. 103 (1956) 323
+# DOI             : 10.1103/PhysRev.103.323
+# Quantity        : 239Pu(n,f)130Xe cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)54-XE-130,CUM,FY,,FIS
+# File ID         : n-Pu239-f-fyc-excfun-fis-prodXe130_Kennett_1956_13393.007
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   5.2000E-05
+# ymax            :   5.2000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  5.2000E-05  0.0000E+00
+#---------------------------------------------------

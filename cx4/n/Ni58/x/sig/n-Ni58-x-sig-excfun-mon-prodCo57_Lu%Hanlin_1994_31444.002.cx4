@@ -1,0 +1,25 @@
+# EXFOR #         : 31444.002  
+# EXFOR Ver.      : 20211005
+# TRANS #         : 3202
+# Author          : Lu Hanlin et al.
+# Reference       : Chin.J.Nucl.Phys. 16 (1994) 263
+# DOI             : N/A
+# Quantity        : 58Ni(n,x)57Co independent production cross section
+# REACTION        : 28-NI-58(N,X)27-CO-57,,SIG
+# File ID         : n-Ni58-x-sig-excfun-mon-prodCo57_Lu%Hanlin_1994_31444.002
+#
+# npts            : 4           
+# xmin            :   1.3550E+07
+# xmax            :   1.4850E+07
+# ymin            :   5.1600E-01
+# ymax            :   6.8800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3550E+07  1.2000E+05  5.1600E-01  1.6000E-02
+  1.4000E+07  1.0000E+05  5.8500E-01  1.6000E-02
+  1.4620E+07  2.4000E+05  6.7300E-01  1.9000E-02
+  1.4850E+07  3.2000E+05  6.8800E-01  2.0000E-02
+#---------------------------------------------------

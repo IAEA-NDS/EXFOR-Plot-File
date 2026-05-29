@@ -1,0 +1,22 @@
+# EXFOR #         : 22784.009  
+# EXFOR Ver.      : 20081124
+# TRANS #         : 2206
+# Author          : T.Veerapaspong et al.
+# Reference       : J.Nucl.Sci.Technol. 36 No.10 (1999) 855
+# DOI             : 10.1080/18811248.1999.9726276
+# Quantity        : 145Nd(n,g)146Nd cross section
+# REACTION        : 60-ND-145(N,G)60-ND-146,,SIG,,SPA
+# File ID         : n-Nd145-g-sig-excfun-spa-prodNd146_Veerapaspong_1999_22784.009
+#
+# npts            : 1           
+# xmin            :   5.5000E+05
+# xmax            :   5.5000E+05
+# ymin            :   8.5000E-02
+# ymax            :   8.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+05  5.0000E+04  8.5000E-02  4.0000E-03
+#---------------------------------------------------

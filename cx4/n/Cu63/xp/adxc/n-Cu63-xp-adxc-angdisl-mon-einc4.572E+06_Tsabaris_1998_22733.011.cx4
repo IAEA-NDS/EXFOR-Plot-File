@@ -1,0 +1,27 @@
+# EXFOR #         : 22733.011  
+# EXFOR Ver.      : 20060209
+# TRANS #         : 2176
+# Author          : C.Tsabaris et al.
+# Reference       : Nucl.Sci.Eng. 128 (1998) 47
+# DOI             : 10.13182/NSE128-47
+# Quantity        : 63Cu(n,p+x) angular differential cross section
+# REACTION        : 29-CU-63(N,X)1-H-1,,DA
+# File ID         : n-Cu63-xp-adxc-angdisl-mon-einc4.572E+06_Tsabaris_1998_22733.011
+#
+# Einc (eV)       :   4.5723E+06
+#
+# npts            : 4           
+# xmin            :   51.0000000
+# xmax            :  141.0000000
+# ymin            :   4.7900E-03
+# ymax            :   5.6200E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  51.0000000   0.0000000  4.7900E-03  8.6000E-04
+  79.0000000   0.0000000  5.6000E-03  5.1000E-04
+ 109.0000000   0.0000000  4.9500E-03  5.3000E-04
+ 141.0000000   0.0000000  5.6200E-03  5.3000E-04
+#---------------------------------------------------

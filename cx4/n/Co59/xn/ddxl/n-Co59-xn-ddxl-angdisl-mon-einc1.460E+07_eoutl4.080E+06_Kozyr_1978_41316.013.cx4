@@ -1,0 +1,29 @@
+# EXFOR #         : 41316.013  
+# EXFOR Ver.      : 20200312
+# TRANS #         : 4186
+# Author          : Yu.E.Kozyr' et al.
+# Reference       : Yad.Fiz. 27 (1978) 616
+# DOI             : N/A
+# Quantity        : 59Co(n,n+x) double differential cross section
+# REACTION        : 27-CO-59(N,X)0-NN-1,,DA/DE
+# File ID         : n-Co59-xn-ddxl-angdisl-mon-einc1.460E+07_eoutl4.080E+06_Kozyr_1978_41316.013
+#
+# Einc (eV)       :   1.4600E+07
+# dEinc (eV)      :   1.7000E-09
+# Eout,lab (eV)   :   4.0800E+06
+#
+# npts            : 4           
+# xmin            :   30.0000000
+# xmax            :   90.0000000
+# ymin            :   9.1100E-09
+# ymax            :   1.0000E-08
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  30.0000000   2.5000000  1.0000E-08  7.0000E-10
+  50.0000000   2.5000000  9.9500E-09  5.9700E-10
+  70.0000000   2.5000000  9.1100E-09  3.6440E-10
+  90.0000000   2.5000000  9.1500E-09  5.4900E-10
+#---------------------------------------------------

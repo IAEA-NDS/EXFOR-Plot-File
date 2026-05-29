@@ -1,0 +1,27 @@
+# EXFOR #         : 31119.004  
+# EXFOR Ver.      : 20090921
+# TRANS #         : 3142
+# Author          : D.Winterhalter
+# Reference       : Nucl.Phys. 43 (1963) 339
+# DOI             : 10.1016/0029-5582(63)90353-5
+# Quantity        : 27Al(n,el)27Al angular differential cross section
+# REACTION        : 13-AL-27(N,EL)13-AL-27,,DA
+# File ID         : n-Al27-el-adxc-angdisc-mon-einc2.760E+06_prodAl27_Winterhalter_1963_31119.004
+#
+# Einc (eV)       :   2.7600E+06
+#
+# npts            : 4           
+# xmin            :   30.0000000
+# xmax            :  120.0000000
+# ymin            :   7.4000E-02
+# ymax            :   3.5000E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  3.5000E-01  7.7000E-02
+  60.0000000   0.0000000  1.2800E-01  9.0000E-03
+  90.0000000   0.0000000  1.1000E-01  1.8000E-02
+ 120.0000000   0.0000000  7.4000E-02  8.0000E-03
+#---------------------------------------------------

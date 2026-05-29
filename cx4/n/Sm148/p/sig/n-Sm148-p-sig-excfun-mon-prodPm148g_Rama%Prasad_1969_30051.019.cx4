@@ -1,0 +1,22 @@
+# EXFOR #         : 30051.019  
+# EXFOR Ver.      : 20140625
+# TRANS #         : 3165
+# Author          : P.Rama Prasad et al.
+# Reference       : Nucl.Phys.A 125 (1969) 57
+# DOI             : 10.1016/0375-9474(69)90828-8
+# Quantity        : 148Sm(n,p)148gPm cross section
+# REACTION        : 62-SM-148(N,P)61-PM-148-G,,SIG
+# File ID         : n-Sm148-p-sig-excfun-mon-prodPm148g_Rama%Prasad_1969_30051.019
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   1.4300E-02
+# ymax            :   1.4300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  1.4300E-02  2.3000E-03
+#---------------------------------------------------

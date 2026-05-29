@@ -1,0 +1,22 @@
+# EXFOR #         : 21648.006  
+# EXFOR Ver.      : 20101114
+# TRANS #         : 2225
+# Author          : R.Woelfle et al.
+# Reference       : Radiochim.Acta 27 (1980) 65
+# DOI             : 10.1524/ract.1980.27.2.65
+# Quantity        : 58Ni(n,x)57Co independent production cross section
+# REACTION        : 28-NI-58(N,X)27-CO-57,,SIG,,FIS
+# File ID         : n-Ni58-x-sig-excfun-fis-prodCo57_Woelfle_1980_21648.006
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.4000E-04
+# ymax            :   2.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.4000E-04  3.5000E-05
+#---------------------------------------------------

@@ -1,0 +1,31 @@
+# EXFOR #         : 13001.006  
+# EXFOR Ver.      : 20140420
+# TRANS #         : 1401
+# Author          : D.L.Nellis et al.
+# Reference       : Bull.Am.Phys.Soc. 7 (1962) 120(J6)
+# DOI             : N/A
+# Quantity        : natW(n,inl)natW partial gamma angular differential cross section
+# REACTION        : 74-W-0(N,INL)74-W-0,PAR,DA,G
+# File ID         : n-W-inl-adxgl-enedisl-mon-einc4.100E+06_angl90_prodW_Nellis_1962_13001.006
+#
+# Einc (eV)       :   4.1000E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 6           
+# xmin            :   1.2900E+06
+# xmax            :   3.7450E+06
+# ymin            :   6.4000E-03
+# ymax            :   1.0400E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.2900E+06  2.0000E+05  1.0400E-01  2.0800E-02
+  1.7850E+06  2.9500E+05  8.6100E-02  1.7220E-02
+  2.2750E+06  1.9500E+05  4.2800E-02  8.5600E-03
+  2.7650E+06  2.9500E+05  3.9300E-02  7.8600E-03
+  3.2550E+06  1.9500E+05  1.4600E-02  2.9200E-03
+  3.7450E+06  2.9500E+05  6.4000E-03  1.2800E-03
+#---------------------------------------------------

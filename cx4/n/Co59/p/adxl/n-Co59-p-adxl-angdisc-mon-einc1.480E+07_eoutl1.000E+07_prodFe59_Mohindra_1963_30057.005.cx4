@@ -1,0 +1,29 @@
+# EXFOR #         : 30057.005  
+# EXFOR Ver.      : 20120515
+# TRANS #         : 3155
+# Author          : R.K.Mohindra et al.
+# Reference       : Nucl.Phys. 44 (1963) 597
+# DOI             : 10.1016/0029-5582(63)90052-X
+# Quantity        : 59Co(n,p)59Fe partial angular differential cross section
+# REACTION        : 27-CO-59(N,P)26-FE-59,PAR,DA
+# File ID         : n-Co59-p-adxl-angdisc-mon-einc1.480E+07_eoutl1.000E+07_prodFe59_Mohindra_1963_30057.005
+#
+# Einc (eV)       :   1.4800E+07
+# Eout,lab (eV)   :   1.0000E+07
+# dEout,lab (eV)  :   1.0000E+06
+#
+# npts            : 4           
+# xmin            :    0.0000000
+# xmax            :  135.0000000
+# ymin            :   1.2500E-03
+# ymax            :   1.6500E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000  17.0000000  1.6500E-03  0.0000E+00
+  45.0000000  17.0000000  1.5000E-03  0.0000E+00
+ 105.0000000  17.0000000  1.3000E-03  0.0000E+00
+ 135.0000000  17.0000000  1.2500E-03  0.0000E+00
+#---------------------------------------------------

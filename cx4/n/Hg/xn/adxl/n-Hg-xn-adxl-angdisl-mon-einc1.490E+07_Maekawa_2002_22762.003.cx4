@@ -1,0 +1,26 @@
+# EXFOR #         : 22762.003  
+# EXFOR Ver.      : 20071113
+# TRANS #         : 2190
+# Author          : F.Maekawa et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 986
+# DOI             : N/A
+# Quantity        : natHg(n,n+x) angular differential cross section
+# REACTION        : 80-HG-0(N,X)0-NN-1,,DA
+# File ID         : n-Hg-xn-adxl-angdisl-mon-einc1.490E+07_Maekawa_2002_22762.003
+#
+# Einc (eV)       :   1.4900E+07
+#
+# npts            : 3           
+# xmin            :   33.7260000
+# xmax            :   94.1640000
+# ymin            :   2.0020E-02
+# ymax            :   2.4566E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  33.7260000   3.3000000  2.4566E-01  7.3698E-02
+  62.7870000   5.0000000  3.8880E-02  1.1664E-02
+  94.1640000   4.8000000  2.0020E-02  6.0060E-03
+#---------------------------------------------------

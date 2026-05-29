@@ -1,0 +1,28 @@
+# EXFOR #         : 20337.010  
+# EXFOR Ver.      : 20170430
+# TRANS #         : 2261
+# Author          : S.Tanaka et al.
+# Reference       : Nucl.Phys.A 179 (1972) 513
+# DOI             : 10.1016/0375-9474(72)90387-9
+# Quantity        : 141Pr(n,inl)141Pr partial angular differential cross section
+# REACTION        : 59-PR-141(N,INL)59-PR-141,PAR,DA
+# File ID         : n-Pr141-inl-adxc-angdisc-mon-einc3.070E+06_elvl1.450E+05_prodPr141_Tanaka_1972_20337.010
+#
+# Einc (eV)       :   3.0700E+06
+# dEinc (eV)      :   2.0000E+04
+# Elvl (eV)       :   1.4500E+05
+#
+# npts            : 3           
+# xmin            :   80.3865600
+# xmax            :  100.4280000
+# ymin            :   7.8000E-03
+# ymax            :   1.2500E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 100.4280000   0.0000000  8.1000E-03  7.0000E-04
+  90.4010700   0.0000000  7.8000E-03  9.0000E-04
+  80.3865600   0.0000000  1.2500E-02  1.0000E-03
+#---------------------------------------------------

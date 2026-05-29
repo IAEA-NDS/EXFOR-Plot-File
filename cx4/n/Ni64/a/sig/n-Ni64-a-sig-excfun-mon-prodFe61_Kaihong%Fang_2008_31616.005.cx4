@@ -1,0 +1,23 @@
+# EXFOR #         : 31616.005  
+# EXFOR Ver.      : 20080715
+# TRANS #         : 3128
+# Author          : Kaihong Fang et al.
+# Reference       : Appl.Radiat.Isot. 66 (2008) 1104
+# DOI             : 10.1016/j.apradiso.2007.10.011
+# Quantity        : 64Ni(n,a)61Fe cross section
+# REACTION        : 28-NI-64(N,A)26-FE-61,,SIG
+# File ID         : n-Ni64-a-sig-excfun-mon-prodFe61_Kaihong%Fang_2008_31616.005
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4600E+07
+# ymin            :   3.0000E-03
+# ymax            :   5.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  3.0000E+05  3.0000E-03  5.1000E-04
+  1.4600E+07  3.0000E+05  5.0000E-03  6.4000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 33222.003  
+# EXFOR Ver.      : 20260314
+# TRANS #         : 3222
+# Author          : R.Chauhan et al.
+# Reference       : J.Rad.Nucl.Chem. 334 (2025) 6521
+# DOI             : 10.1007/s10967-024-09789-9
+# Quantity        : 67Zn(n,p)67Cu cross section
+# REACTION        : 30-ZN-67(N,P)29-CU-67,,SIG,,SPA
+# File ID         : n-Zn67-p-sig-excfun-spa-prodCu67_Chauhan_2025_33222.003
+#
+# npts            : 2           
+# xmin            :   1.4980E+07
+# xmax            :   1.7100E+07
+# ymin            :   4.1120E-02
+# ymax            :   5.3410E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4980E+07  8.1000E+05  5.3410E-02  2.2600E-03
+  1.7100E+07  8.2000E+05  4.1120E-02  3.4000E-03
+#---------------------------------------------------

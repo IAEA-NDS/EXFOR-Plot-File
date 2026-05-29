@@ -1,0 +1,25 @@
+# EXFOR #         : 21706.002  
+# EXFOR Ver.      : 20161001
+# TRANS #         : 2253
+# Author          : H.U.Zwicky et al.
+# Reference       : Radiochim.Acta 27 (1980) 121
+# DOI             : 10.1524/ract.1980.27.3.121
+# Quantity        : 233U(n,f) independent fission product yield
+# REACTION        : 92-U-233(N,F)ELEM/MASS,IND,FY,,MXW
+# File ID         : n-U233-f-fyi-nucdis-mxw-einc2.530E-02_Zwicky_1980_21706.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 61148.0     
+# xmax            : 61148.1     
+# ymin            :   2.4000E-07
+# ymax            :   6.8000E-07
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     61148.1  6.8000E-07  9.0000E-08
+     61148.0  2.4000E-07  6.0000E-08
+#---------------------------------------------------

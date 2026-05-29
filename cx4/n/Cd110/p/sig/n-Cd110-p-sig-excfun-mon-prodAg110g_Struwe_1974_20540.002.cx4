@@ -1,0 +1,22 @@
+# EXFOR #         : 20540.002  
+# EXFOR Ver.      : 20071216
+# TRANS #         : 2190
+# Author          : W.Struwe et al.
+# Reference       : Nucl.Phys.A 222 (1974) 605
+# DOI             : 10.1016/0375-9474(74)90342-X
+# Quantity        : 110Cd(n,p)110gAg cross section
+# REACTION        : 48-CD-110(N,P)47-AG-110-G,,SIG
+# File ID         : n-Cd110-p-sig-excfun-mon-prodAg110g_Struwe_1974_20540.002
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   1.7300E-02
+# ymax            :   1.7300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  1.7300E-02  2.6000E-03
+#---------------------------------------------------

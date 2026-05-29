@@ -1,0 +1,22 @@
+# EXFOR #         : 11857.002  
+# EXFOR Ver.      : 19830919
+# TRANS #         : 0000
+# Author          : J.H.Reynolds
+# Reference       : Phys.Rev. 79 (1950) 886
+# DOI             : 10.1103/PhysRev.79.886
+# Quantity        : 80Kr(n,g)81Kr cross section
+# REACTION        : 36-KR-80(N,G)36-KR-81,,SIG,,SPA
+# File ID         : n-Kr80-g-sig-excfun-spa-prodKr81_Reynolds_1950_11857.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.2500E+01
+# ymax            :   1.2500E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.2500E+01  1.5000E+00
+#---------------------------------------------------

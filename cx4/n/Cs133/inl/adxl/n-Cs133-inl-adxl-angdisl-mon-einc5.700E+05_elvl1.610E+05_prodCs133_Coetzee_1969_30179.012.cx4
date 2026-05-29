@@ -1,0 +1,30 @@
+# EXFOR #         : 30179.012  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : N.Coetzee et al.
+# Reference       : Report PEL-191 page 43, 1969
+# DOI             : N/A
+# Quantity        : 133Cs(n,inl)133Cs partial angular differential cross section
+# REACTION        : 55-CS-133(N,INL)55-CS-133,PAR,DA
+# File ID         : n-Cs133-inl-adxl-angdisl-mon-einc5.700E+05_elvl1.610E+05_prodCs133_Coetzee_1969_30179.012
+#
+# Einc (eV)       :   5.7000E+05
+# Elvl (eV)       :   1.6100E+05
+# dElvl (eV)      :   1.0000E+03
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   3.1800E-02
+# ymax            :   3.5500E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  3.1900E-02  2.5000E-03
+  60.0000000   0.0000000  3.4000E-02  2.6000E-03
+  90.0000000   0.0000000  3.5500E-02  2.2000E-03
+ 120.0000000   0.0000000  3.1800E-02  2.0000E-03
+ 150.0000000   0.0000000  3.2700E-02  2.1000E-03
+#---------------------------------------------------

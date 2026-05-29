@@ -1,0 +1,22 @@
+# EXFOR #         : 23035.025.2
+# EXFOR Ver.      : 20211202
+# TRANS #         : 2305
+# Author          : M.Heil et al.
+# Reference       : Phys.Rev.C 78 (2008) 025802
+# DOI             : 10.1103/PhysRevC.78.025802
+# Quantity        : 81Br(n,g)82Br cross section
+# REACTION        : 35-BR-81(N,G)35-BR-82,,SIG,,SPA/AV
+# File ID         : n-Br81-g-sig-excfun-spa-prodBr82_Heil_2008_23035.025.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   2.6000E-01
+# ymax            :   2.6000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  2.6000E-01  9.0000E-03
+#---------------------------------------------------

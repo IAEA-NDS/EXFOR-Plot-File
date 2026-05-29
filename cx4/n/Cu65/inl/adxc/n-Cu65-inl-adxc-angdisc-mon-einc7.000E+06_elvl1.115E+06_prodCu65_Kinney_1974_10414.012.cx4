@@ -1,0 +1,28 @@
+# EXFOR #         : 10414.012  
+# EXFOR Ver.      : 20030220
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4908, 1974
+# DOI             : N/A
+# Quantity        : 65Cu(n,inl)65Cu partial angular differential cross section
+# REACTION        : 29-CU-65(N,INL)29-CU-65,PAR,DA
+# File ID         : n-Cu65-inl-adxc-angdisc-mon-einc7.000E+06_elvl1.115E+06_prodCu65_Kinney_1974_10414.012
+#
+# Einc (eV)       :   7.0000E+06
+# dEinc (eV)      :   6.0000E+04
+# Elvl (eV)       :   1.1150E+06
+#
+# npts            : 3           
+# xmin            :   48.2100000
+# xmax            :   78.4400000
+# ymin            :   2.0900E-03
+# ymax            :   2.8500E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  48.2100000   0.0000000  2.8500E-03  0.0000E+00
+  55.7900000   0.0000000  2.2900E-03  0.0000E+00
+  78.4400000   0.0000000  2.0900E-03  0.0000E+00
+#---------------------------------------------------

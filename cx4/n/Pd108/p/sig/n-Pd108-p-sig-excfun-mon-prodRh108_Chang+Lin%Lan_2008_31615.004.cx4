@@ -1,0 +1,23 @@
+# EXFOR #         : 31615.004  
+# EXFOR Ver.      : 20080715
+# TRANS #         : 3128
+# Author          : Chang-Lin Lan et al.
+# Reference       : Radiat.Phys.Chem. 77 (2008) 854
+# DOI             : 10.1016/j.radphyschem.2008.03.002
+# Quantity        : 108Pd(n,p)108Rh cross section
+# REACTION        : 46-PD-108(N,P)45-RH-108,,SIG
+# File ID         : n-Pd108-p-sig-excfun-mon-prodRh108_Chang+Lin%Lan_2008_31615.004
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   7.9900E-03
+# ymax            :   1.3500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  3.0000E+05  7.9900E-03  6.4000E-04
+  1.4800E+07  3.0000E+05  1.3500E-02  1.3400E-03
+#---------------------------------------------------

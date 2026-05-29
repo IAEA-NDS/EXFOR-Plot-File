@@ -1,0 +1,31 @@
+# EXFOR #         : 32246.003  
+# EXFOR Ver.      : 20180827
+# TRANS #         : 3186
+# Author          : I.A.Tostkii
+# Reference       : Proceedings of Low and Medium Energy Nucl.Reactons, Moscow 1957 page 190
+# DOI             : N/A
+# Quantity        : natCu(n,el)natCu angular differential cross section
+# REACTION        : 29-CU-0(N,EL)29-CU-0,,DA
+# File ID         : n-Cu-el-adxl-angdisl-mon-einc2.800E+06_prodCu_Tostkii_1957_32246.003
+#
+# Einc (eV)       :   2.8000E+06
+#
+# npts            : 8           
+# xmin            :   23.8793300
+# xmax            :  137.5783000
+# ymin            :   2.4939E-05
+# ymax            :   4.6861E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 137.5783000   0.0000000  3.6474E-05  5.4326E-06
+ 125.1767000   0.0000000  2.4939E-05  2.9293E-06
+ 110.0536000   0.0000000  5.4749E-05  5.3651E-06
+  89.7249700   0.0000000  6.1265E-05  4.4470E-06
+  75.1019400   0.0000000  4.6643E-05  3.7279E-06
+  59.6022400   0.0000000  4.6874E-05  6.5583E-06
+  37.3730700   0.0000000  1.8007E-04  9.0462E-06
+  23.8793300   0.0000000  4.6861E-04  2.5309E-05
+#---------------------------------------------------

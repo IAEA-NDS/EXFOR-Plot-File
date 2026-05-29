@@ -1,0 +1,26 @@
+# EXFOR #         : 12780.002  
+# EXFOR Ver.      : 19850821
+# TRANS #         : 0000
+# Author          : M.Drosg
+# Reference       : Report LA-7269-MS, 1978
+# DOI             : N/A
+# Quantity        : 1H(n,el)1H angular differential cross section
+# REACTION        : 1-H-1(N,EL)1-H-1,,DA
+# File ID         : n-H1-el-adxc-angdisc-mon-einc2.370E+07_prodH1_Drosg_1978_12780.002
+#
+# Einc (eV)       :   2.3700E+07
+#
+# npts            : 3           
+# xmin            :   53.1300000
+# xmax            :   99.2500000
+# ymin            :   3.0400E-02
+# ymax            :   3.1100E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  53.1300000   0.0000000  3.1000E-02  7.4400E-04
+  69.7900000   0.0000000  3.0400E-02  6.0800E-04
+  99.2500000   0.0000000  3.1100E-02  4.6650E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 32751.002  
+# EXFOR Ver.      : 20171018
+# TRANS #         : 3181
+# Author          : Chang-Lin Lan et al.
+# Reference       : Eur.Phys.J.A 52 (2016) 345
+# DOI             : 10.1140/epja/i2016-16345-1
+# Quantity        : 232Th(n,f)141Ba cumulative production cross section
+# REACTION        : 90-TH-232(N,F)56-BA-141,(CUM),SIG
+# File ID         : n-Th232-x-sigc-excfun-mon-prodBa141_Chang+Lin%Lan_2016_32751.002
+#
+# npts            : 3           
+# xmin            :   1.4100E+07
+# xmax            :   1.4700E+07
+# ymin            :   1.2200E-02
+# ymax            :   1.3300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  3.0000E+05  1.2200E-02  4.0000E-04
+  1.4500E+07  3.0000E+05  1.3000E-02  5.0000E-04
+  1.4700E+07  3.0000E+05  1.3300E-02  5.0000E-04
+#---------------------------------------------------

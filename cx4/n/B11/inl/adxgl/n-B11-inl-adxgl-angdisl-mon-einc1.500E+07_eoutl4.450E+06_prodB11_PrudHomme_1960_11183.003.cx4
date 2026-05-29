@@ -1,0 +1,25 @@
+# EXFOR #         : 11183.003  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : J.T.Prud'Homme et al.
+# Reference       : Report AFSWC-TR-60-30, 1960
+# DOI             : N/A
+# Quantity        : 11B(n,inl)11B partial gamma angular differential cross section
+# REACTION        : 5-B-11(N,INL)5-B-11,PAR,DA,G
+# File ID         : n-B11-inl-adxgl-angdisl-mon-einc1.500E+07_eoutl4.450E+06_prodB11_PrudHomme_1960_11183.003
+#
+# Einc (eV)       :   1.5000E+07
+# Eout,lab (eV)   :   4.4500E+06
+#
+# npts            : 1           
+# xmin            :   67.0019300
+# xmax            :   67.0019300
+# ymin            :   1.8100E-02
+# ymax            :   1.8100E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  67.0019300  23.0000000  1.8100E-02  0.0000E+00
+#---------------------------------------------------

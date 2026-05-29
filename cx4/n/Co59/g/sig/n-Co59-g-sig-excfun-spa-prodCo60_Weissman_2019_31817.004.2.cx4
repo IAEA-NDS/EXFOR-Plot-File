@@ -1,0 +1,22 @@
+# EXFOR #         : 31817.004.2
+# EXFOR Ver.      : 20200506
+# TRANS #         : 3196
+# Author          : L.Weissman et al.
+# Reference       : Phys.Rev.C 100 (2019) 065804
+# DOI             : 10.1103/PhysRevC.100.065804
+# Quantity        : 59Co(n,g)60Co cross section
+# REACTION        : 27-CO-59(N,G)27-CO-60,,SIG,,SPA
+# File ID         : n-Co59-g-sig-excfun-spa-prodCo60_Weissman_2019_31817.004.2
+#
+# npts            : 1           
+# xmin            :   2.8000E+04
+# xmax            :   2.8000E+04
+# ymin            :   3.7900E-02
+# ymax            :   3.7900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8000E+04  0.0000E+00  3.7900E-02  9.0000E-04
+#---------------------------------------------------

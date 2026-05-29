@@ -1,0 +1,23 @@
+# EXFOR #         : 12763.004.2
+# EXFOR Ver.      : 20210731
+# TRANS #         : 1485
+# Author          : R.J.Prestwood et al.
+# Reference       : Phys.Rev.C 29 (1984) 805
+# DOI             : 10.1103/PhysRevC.29.805
+# Quantity        : 88Y(n,2n)87Y cross section
+# REACTION        : 39-Y-88(N,2N)39-Y-87,,SIG
+# File ID         : n-Y88-2n-sig-excfun-mon-prodY87_Prestwood_1984_12763.004.2
+#
+# npts            : 2           
+# xmin            :   1.4190E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.1400E+00
+# ymax            :   1.1800E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4190E+07  4.0000E+04  1.1400E+00  5.0000E-02
+  1.4800E+07  1.0000E+05  1.1800E+00  5.0000E-02
+#---------------------------------------------------

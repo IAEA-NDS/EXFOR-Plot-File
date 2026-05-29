@@ -1,0 +1,25 @@
+# EXFOR #         : 12740.002  
+# EXFOR Ver.      : 19830824
+# TRANS #         : 0000
+# Author          : K.Rengan et al.
+# Reference       : Progress report UCAR-10062-81-1 page 111, 1982
+# DOI             : N/A
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY,,SPA
+# File ID         : n-U235-f-fyi-nucdis-spa-einc2.530E-02_Rengan_1982_12740.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 34085.9     
+# xmax            : 34086.9     
+# ymin            :   7.2000E-03
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     34085.9  1.0000E-02  5.0000E-04
+     34086.9  7.2000E-03  3.6000E-04
+#---------------------------------------------------

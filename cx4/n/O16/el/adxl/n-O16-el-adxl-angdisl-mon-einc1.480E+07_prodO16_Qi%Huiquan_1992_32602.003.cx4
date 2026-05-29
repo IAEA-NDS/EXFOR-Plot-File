@@ -1,0 +1,28 @@
+# EXFOR #         : 32602.003  
+# EXFOR Ver.      : 20240216
+# TRANS #         : 3211
+# Author          : Qi Huiquan et al.
+# Reference       : Chin.J.Nucl.Phys. 14 (1992) 15
+# DOI             : N/A
+# Quantity        : 16O(n,el)16O angular differential cross section
+# REACTION        : 8-O-16(N,EL)8-O-16,,DA
+# File ID         : n-O16-el-adxl-angdisl-mon-einc1.480E+07_prodO16_Qi%Huiquan_1992_32602.003
+#
+# Einc (eV)       :   1.4800E+07
+#
+# npts            : 5           
+# xmin            :    2.6000000
+# xmax            :    8.6000000
+# ymin            :   1.0200E+00
+# ymax            :   1.2500E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.6000000   0.0000000  1.1900E+00  1.5000E-01
+   3.4000000   0.0000000  1.2500E+00  1.6000E-01
+   4.9000000   0.0000000  1.0700E+00  1.3000E-01
+   6.6000000   0.0000000  1.0200E+00  1.3000E-01
+   8.6000000   0.0000000  1.0600E+00  1.4000E-01
+#---------------------------------------------------

@@ -1,0 +1,31 @@
+# EXFOR #         : 40037.027  
+# EXFOR Ver.      : 20060324
+# TRANS #         : 4138
+# Author          : O.A.Salnikov et al.
+# Reference       : Report YK-7 page 102, 1971
+# DOI             : N/A
+# Quantity        : natCu(n,inl)natCu partial angular differential cross section
+# REACTION        : 29-CU-0(N,INL)29-CU-0,PAR,DA
+# File ID         : n-Cu-inl-adxl-angdisl-mon-einc1.436E+07_eoutl1.490E+06_prodCu_Salnikov_1971_40037.027
+#
+# Einc (eV)       :   1.4360E+07
+# dEinc (eV)      :   1.4000E+05
+# Eout,lab (eV)   :   1.4900E+06
+# dEout,lab (eV)  :   1.4900E+06
+#
+# npts            : 5           
+# xmin            :   31.0000000
+# xmax            :  151.0000000
+# ymin            :   9.1400E-02
+# ymax            :   1.2350E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  31.0000000   8.0000000  9.7200E-02  1.7000E-03
+  61.0000000   8.0000000  1.2350E-01  2.1000E-03
+  91.0000000   8.0000000  1.0360E-01  1.8000E-03
+ 121.0000000   8.0000000  9.1400E-02  1.5000E-03
+ 151.0000000   8.0000000  9.8800E-02  1.7000E-03
+#---------------------------------------------------

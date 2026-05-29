@@ -1,0 +1,27 @@
+# EXFOR #         : 23039.004  
+# EXFOR Ver.      : 20160106
+# TRANS #         : 2247
+# Author          : L.C.Mihailescu et al.
+# Reference       : Nucl.Phys.A 811 (2008) 1
+# DOI             : N/A
+# Quantity        : 208Pb(n,inl)208Pb partial cross section
+# REACTION        : 82-PB-208(N,INL)82-PB-208,PAR,SIG
+# File ID         : n-Pb208-inl-sig-lvldis-mon-einc4.999E+06_prodPb208_Mihailescu_2008_23039.004
+#
+# Einc (eV)       :   4.9986E+06
+# dEinc (eV)      :   2.5015E+04
+#
+# npts            : 3           
+# xmin            :   4.2063E+06
+# xmax            :   4.4808E+06
+# ymin            :   2.4698E-02
+# ymax            :   7.4994E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.2063E+06  0.0000E+00  3.0168E-02  4.7070E-03
+  4.2619E+06  0.0000E+00  7.4994E-02  1.1711E-02
+  4.4808E+06  0.0000E+00  2.4698E-02  4.3400E-03
+#---------------------------------------------------

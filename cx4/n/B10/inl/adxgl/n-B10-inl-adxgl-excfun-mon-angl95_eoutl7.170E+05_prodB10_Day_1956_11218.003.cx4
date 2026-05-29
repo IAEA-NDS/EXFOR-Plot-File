@@ -1,0 +1,25 @@
+# EXFOR #         : 11218.003  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : R.B.Day
+# Reference       : Phys.Rev. 102 (1956) 767
+# DOI             : 10.1103/PhysRev.102.767
+# Quantity        : 10B(n,inl)10B partial gamma angular differential cross section
+# REACTION        : 5-B-10(N,INL)5-B-10,PAR,DA,G,4PI
+# File ID         : n-B10-inl-adxgl-excfun-mon-angl95_eoutl7.170E+05_prodB10_Day_1956_11218.003
+#
+# theta,lab (deg) :   95.0000000
+# Eout,lab (eV)   :   7.1700E+05
+#
+# npts            : 1           
+# xmin            :   2.5600E+06
+# xmax            :   2.5600E+06
+# ymin            :   2.4669E-03
+# ymax            :   2.4669E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.5600E+06  3.0000E+04  2.4669E-03  2.3873E-04
+#---------------------------------------------------

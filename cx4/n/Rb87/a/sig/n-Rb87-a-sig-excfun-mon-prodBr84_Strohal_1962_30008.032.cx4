@@ -1,0 +1,22 @@
+# EXFOR #         : 30008.032  
+# EXFOR Ver.      : 20040109
+# TRANS #         : 0000
+# Author          : P.Strohal et al.
+# Reference       : Nucl.Phys. 30 (1962) 49
+# DOI             : 10.1016/0029-5582(62)90031-7
+# Quantity        : 87Rb(n,a)84Br cross section
+# REACTION        : 37-RB-87(N,A)35-BR-84,,SIG
+# File ID         : n-Rb87-a-sig-excfun-mon-prodBr84_Strohal_1962_30008.032
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   5.9000E-02
+# ymax            :   5.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  0.0000E+00  5.9000E-02  1.2000E-02
+#---------------------------------------------------

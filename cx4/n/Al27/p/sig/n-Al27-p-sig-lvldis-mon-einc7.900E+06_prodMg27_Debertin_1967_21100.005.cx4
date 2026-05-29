@@ -1,0 +1,25 @@
+# EXFOR #         : 21100.005  
+# EXFOR Ver.      : 20070927
+# TRANS #         : 2187
+# Author          : K.Debertin et al.
+# Reference       : Nucl.Phys.A 101 (1967) 473
+# DOI             : 10.1016/0375-9474(67)90200-X
+# Quantity        : 27Al(n,p)27Mg partial cross section
+# REACTION        : 13-AL-27(N,P)12-MG-27,PAR,SIG
+# File ID         : n-Al27-p-sig-lvldis-mon-einc7.900E+06_prodMg27_Debertin_1967_21100.005
+#
+# Einc (eV)       :   7.9000E+06
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   9.8000E+05
+# ymin            :   7.1000E-03
+# ymax            :   9.8000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  7.1000E-03  7.0000E-04
+  9.8000E+05  0.0000E+00  9.8000E-03  1.0000E-03
+#---------------------------------------------------

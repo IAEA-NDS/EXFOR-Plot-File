@@ -1,0 +1,22 @@
+# EXFOR #         : 20380.003  
+# EXFOR Ver.      : 19840109
+# TRANS #         : 0000
+# Author          : H.Liskien
+# Reference       : Nucl.Phys.A 118 (1968) 379
+# DOI             : 10.1016/0375-9474(68)90344-8
+# Quantity        : 103Rh(n,3n)101mRh cross section
+# REACTION        : 45-RH-103(N,3N)45-RH-101-M,,SIG
+# File ID         : n-Rh103-3n-sig-excfun-mon-prodRh101m_Liskien_1968_20380.003
+#
+# npts            : 1           
+# xmin            :   1.9500E+07
+# xmax            :   1.9500E+07
+# ymin            :   7.5000E-02
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9500E+07  2.0000E+05  7.5000E-02  8.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,30 @@
+# EXFOR #         : 10572.004  
+# EXFOR Ver.      : 20040702
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Proceedings of Int.Conf.on Interact.of Neutr.with Nuclei,Lowell 1976 2 page 1319
+# DOI             : N/A
+# Quantity        : 23Na(n,el)23Na angular differential cross section
+# REACTION        : 11-NA-23(N,EL)11-NA-23,,DA
+# File ID         : n-Na23-el-adxc-angdisc-mon-einc1.346E+06_prodNa23_Kinney_1976_10572.004
+#
+# Einc (eV)       :   1.3460E+06
+#
+# npts            : 7           
+# xmin            :   25.0100000
+# xmax            :  156.0500000
+# ymin            :   6.7000E-02
+# ymax            :   5.9100E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  25.0100000   0.0000000  5.9100E-01  6.0000E-02
+  40.5700000   0.0000000  4.7900E-01  4.9000E-02
+  57.0400000   0.0000000  3.7800E-01  3.8000E-02
+  92.4900000   0.0000000  1.3900E-01  1.3000E-02
+ 127.0400000   0.0000000  1.1000E-01  1.1000E-02
+ 141.6000000   0.0000000  9.2000E-02  1.1000E-02
+ 156.0500000   0.0000000  6.7000E-02  6.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 10010.004  
+# EXFOR Ver.      : 19990617
+# TRANS #         : 0000
+# Author          : A.B.Smith et al.
+# Reference       : Nucl.Sci.Eng. 41 (1970) 63
+# DOI             : 10.13182/NSE70-A20364
+# Quantity        : 209Bi(n,inl)209Bi partial angular differential cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,DA
+# File ID         : n-Bi209-inl-adxl-excfun-mon-angl145_elvl8.950E+05_prodBi209_Smith_1970_10010.004
+#
+# theta,lab (deg) :  145.0000000
+# Elvl (eV)       :   8.9500E+05
+#
+# npts            : 1           
+# xmin            :   1.0900E+06
+# xmax            :   1.0900E+06
+# ymin            :   1.2500E-02
+# ymax            :   1.2500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.0900E+06  1.0000E+04  1.2500E-02  1.7000E-03
+#---------------------------------------------------

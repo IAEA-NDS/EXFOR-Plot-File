@@ -1,0 +1,23 @@
+# EXFOR #         : 12436.002  
+# EXFOR Ver.      : 19830809
+# TRANS #         : 0000
+# Author          : B.C.Diven et al.
+# Reference       : Private communication  (1957)
+# DOI             : N/A
+# Quantity        : 235U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-235(N,F),PR,NU
+# File ID         : n-U235-f-nup-excfun-mon-Diven_1957_12436.002
+#
+# npts            : 2           
+# xmin            :   1.2500E+06
+# xmax            :   4.8000E+06
+# ymin            :   2.6500E+00
+# ymax            :   3.2000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.2500E+06  0.0000E+00  2.6500E+00  7.0000E-02
+  4.8000E+06  0.0000E+00  3.2000E+00  8.0000E-02
+#---------------------------------------------------

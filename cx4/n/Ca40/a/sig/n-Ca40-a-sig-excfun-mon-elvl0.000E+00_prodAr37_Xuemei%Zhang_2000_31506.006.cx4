@@ -1,0 +1,25 @@
+# EXFOR #         : 31506.006  
+# EXFOR Ver.      : 20220812
+# TRANS #         : 3208
+# Author          : Xuemei Zhang et al.
+# Reference       : Nucl.Sci.Eng. 134 (2000) 89
+# DOI             : 10.13182/NSE00-A2102
+# Quantity        : 40Ca(n,a)37Ar partial cross section
+# REACTION        : 20-CA-40(N,A)18-AR-37,PAR,SIG
+# File ID         : n-Ca40-a-sig-excfun-mon-elvl0.000E+00_prodAr37_Xuemei%Zhang_2000_31506.006
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :   4.9300E+06
+# xmax            :   5.9800E+06
+# ymin            :   9.3000E-02
+# ymax            :   1.5700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9300E+06  1.2000E+05  1.5700E-01  1.5000E-02
+  5.9800E+06  1.2000E+05  9.3000E-02  9.0000E-03
+#---------------------------------------------------

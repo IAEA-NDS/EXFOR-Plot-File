@@ -1,0 +1,23 @@
+# EXFOR #         : 40083.006  
+# EXFOR Ver.      : 20260209
+# TRANS #         : 4226
+# Author          : A.A.Druzhinin et al.
+# Reference       : Sov.J.Nucl.Phys. 5 (1967) 13
+# DOI             : N/A
+# Quantity        : 187Re(n,g)188Re cross section
+# REACTION        : 75-RE-187(N,G)75-RE-188,,SIG,,SPA
+# File ID         : n-Re187-g-sig-excfun-spa-prodRe188_Druzhinin_1967_40083.006
+#
+# npts            : 2           
+# xmin            :   6.0000E+05
+# xmax            :   8.0000E+05
+# ymin            :   2.2000E-01
+# ymax            :   2.8000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+05  0.0000E+00  2.8000E-01  3.0000E-02
+  8.0000E+05  0.0000E+00  2.2000E-01  1.0000E-02
+#---------------------------------------------------

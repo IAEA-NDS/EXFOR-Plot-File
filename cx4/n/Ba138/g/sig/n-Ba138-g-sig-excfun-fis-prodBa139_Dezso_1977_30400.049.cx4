@@ -1,0 +1,22 @@
+# EXFOR #         : 30400.049  
+# EXFOR Ver.      : 20090309
+# TRANS #         : 3135
+# Author          : Z.Dezso et al.
+# Reference       : Proceedings of 4.All Union Conf.on Neutron Phys.,Kiev,18-22 Apr 1977 3 page 32
+# DOI             : N/A
+# Quantity        : 138Ba(n,g)139Ba cross section
+# REACTION        : 56-BA-138(N,G)56-BA-139,,SIG,,FIS
+# File ID         : n-Ba138-g-sig-excfun-fis-prodBa139_Dezso_1977_30400.049
+#
+# npts            : 1           
+# xmin            :   1.4100E+06
+# xmax            :   1.4100E+06
+# ymin            :   3.8000E-03
+# ymax            :   3.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+06  0.0000E+00  3.8000E-03  4.0000E-04
+#---------------------------------------------------

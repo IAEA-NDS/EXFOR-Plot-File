@@ -1,0 +1,22 @@
+# EXFOR #         : 30038.009  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : J.Csikai
+# Reference       : Proceedings of Nuclear Structure Study with Neutrons, Antwerp 1965 page 537
+# DOI             : N/A
+# Quantity        : 64Zn(n,2n)63Zn cross section
+# REACTION        : 30-ZN-64(N,2N)30-ZN-63,,SIG
+# File ID         : n-Zn64-2n-sig-excfun-mon-prodZn63_Csikai_1965_30038.009
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   2.0000E-01
+# ymax            :   2.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  1.0000E+05  2.0000E-01  1.3000E-02
+#---------------------------------------------------

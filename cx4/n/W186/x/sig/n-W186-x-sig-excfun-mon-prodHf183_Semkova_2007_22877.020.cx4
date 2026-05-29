@@ -1,0 +1,27 @@
+# EXFOR #         : 22877.020  
+# EXFOR Ver.      : 20231026
+# TRANS #         : 2319
+# Author          : V.Semkova et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 1 page 559
+# DOI             : N/A
+# Quantity        : 186W(n,x)183Hf independent production cross section
+# REACTION        : 74-W-186(N,X)72-HF-183,,SIG
+# File ID         : n-W186-x-sig-excfun-mon-prodHf183_Semkova_2007_22877.020
+#
+# npts            : 6           
+# xmin            :   1.4800E+07
+# xmax            :   2.0600E+07
+# ymin            :   6.2000E-04
+# ymax            :   2.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  2.0000E+05  6.2000E-04  9.0000E-05
+  1.6100E+07  3.0000E+05  1.0100E-03  1.9000E-04
+  1.7000E+07  3.0000E+05  1.3700E-03  2.0000E-04
+  1.7900E+07  2.0000E+05  1.6200E-03  2.0000E-04
+  1.9400E+07  2.0000E+05  1.8600E-03  2.0000E-04
+  2.0600E+07  1.0000E+05  2.1000E-03  2.0000E-04
+#---------------------------------------------------

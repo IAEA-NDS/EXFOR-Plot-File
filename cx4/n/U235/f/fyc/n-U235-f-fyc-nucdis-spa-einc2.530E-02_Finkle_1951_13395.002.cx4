@@ -1,0 +1,26 @@
+# EXFOR #         : 13395.002  
+# EXFOR Ver.      : 20160608
+# TRANS #         : 1418
+# Author          : B.Finkle et al.
+# Reference       : Radiochemical Studies, Fission Products, USA, 1951 2 page 1368 (1951)
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U235-f-fyc-nucdis-spa-einc2.530E-02_Finkle_1951_13395.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 3           
+# xmin            : 47111.9     
+# xmax            : 63155.9     
+# ymin            :   9.0000E-06
+# ymax            :   1.9000E-04
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     47111.9  6.0000E-05  0.0000E+00
+     48115.1  9.0000E-06  0.0000E+00
+     63155.9  1.9000E-04  0.0000E+00
+#---------------------------------------------------

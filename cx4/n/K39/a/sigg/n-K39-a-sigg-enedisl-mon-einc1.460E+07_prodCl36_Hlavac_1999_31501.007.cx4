@@ -1,0 +1,26 @@
+# EXFOR #         : 31501.007  
+# EXFOR Ver.      : 20120502
+# TRANS #         : 3155
+# Author          : S.Hlavac et al.
+# Reference       : Report INDC(NDS)-412 page 12, 1999
+# DOI             : N/A
+# Quantity        : 39K(n,a)36Cl partial gamma production cross section
+# REACTION        : 19-K-39(N,A)17-CL-36,PAR,SIG,G
+# File ID         : n-K39-a-sigg-enedisl-mon-einc1.460E+07_prodCl36_Hlavac_1999_31501.007
+#
+# Einc (eV)       :   1.4600E+07
+#
+# npts            : 3           
+# xmin            :   7.8840E+05
+# xmax            :   1.9510E+06
+# ymin            :   9.7000E-03
+# ymax            :   2.0100E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.8840E+05  0.0000E+00  2.0100E-02  2.2000E-03
+  1.1647E+06  0.0000E+00  1.7300E-02  1.6000E-03
+  1.9510E+06  0.0000E+00  9.7000E-03  1.6000E-03
+#---------------------------------------------------

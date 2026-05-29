@@ -1,0 +1,22 @@
+# EXFOR #         : 11882.006  
+# EXFOR Ver.      : 20200504
+# TRANS #         : 1468
+# Author          : H.A.Grench et al.
+# Reference       : Nucl.Phys.A 94 (1967) 157
+# DOI             : 10.1016/0375-9474(67)90816-0
+# Quantity        : 89Y(n,g)90mY cross section
+# REACTION        : 39-Y-89(N,G)39-Y-90-M,,SIG
+# File ID         : n-Y89-g-sig-excfun-mon-prodY90m_Grench_1967_11882.006
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   5.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  8.0000E+05  5.0000E-04  7.0000E-05
+#---------------------------------------------------

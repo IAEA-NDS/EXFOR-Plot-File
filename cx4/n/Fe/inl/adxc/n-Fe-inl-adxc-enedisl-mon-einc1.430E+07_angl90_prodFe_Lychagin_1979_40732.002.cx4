@@ -1,0 +1,32 @@
+# EXFOR #         : 40732.002  
+# EXFOR Ver.      : 20200315
+# TRANS #         : 4186
+# Author          : A.A.Lychagin et al.
+# Reference       : Report FEI-923, 1979
+# DOI             : N/A
+# Quantity        : natFe(n,inl)natFe partial angular differential cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-0,PAR,DA
+# File ID         : n-Fe-inl-adxc-enedisl-mon-einc1.430E+07_angl90_prodFe_Lychagin_1979_40732.002
+#
+# Einc (eV)       :   1.4300E+07
+# dEinc (eV)      :   2.0000E+05
+# theta,lab (deg) :   90.0000000
+# dtheta,lab (deg):    1.0000000
+#
+# npts            : 6           
+# xmin            :   2.0000E+06
+# xmax            :   9.5000E+06
+# ymin            :   4.8000E-03
+# ymax            :   2.8900E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.0000E+06  5.0000E+05  2.8900E-02  9.0000E-04
+  3.0000E+06  5.0000E+05  1.7200E-02  6.0000E-04
+  4.0000E+06  5.0000E+05  1.1900E-02  5.0000E-04
+  5.5000E+06  1.0000E+06  1.2800E-02  5.0000E-04
+  7.5000E+06  1.0000E+06  6.8000E-03  3.0000E-04
+  9.5000E+06  1.0000E+06  4.8000E-03  3.0000E-04
+#---------------------------------------------------

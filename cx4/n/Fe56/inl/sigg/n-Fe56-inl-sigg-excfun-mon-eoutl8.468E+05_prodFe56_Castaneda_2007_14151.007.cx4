@@ -1,0 +1,29 @@
+# EXFOR #         : 14151.007  
+# EXFOR Ver.      : 20071116
+# TRANS #         : 1345
+# Author          : C.M.Castaneda et al.
+# Reference       : Nucl.Instrum.Meth.B 260 (2007) 508
+# DOI             : 10.1016/j.nimb.2007.04.019
+# Quantity        : 56Fe(n,inl)56Fe partial gamma production cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG,G,A
+# File ID         : n-Fe56-inl-sigg-excfun-mon-eoutl8.468E+05_prodFe56_Castaneda_2007_14151.007
+#
+# Eout,lab (eV)   :   8.4680E+05
+#
+# npts            : 6           
+# xmin            :   6.5000E+06
+# xmax            :   6.4500E+07
+# ymin            :   4.2505E-04
+# ymax            :   1.1117E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.5000E+06  0.0000E+00  1.1117E-02  1.0681E-03
+  1.7400E+07  0.0000E+00  2.7356E-03  9.8088E-04
+  2.2200E+07  0.0000E+00  1.5585E-03  3.1606E-04
+  3.2500E+07  0.0000E+00  1.1553E-03  9.8088E-05
+  4.2100E+07  0.0000E+00  6.9752E-04  1.3078E-04
+  6.4500E+07  0.0000E+00  4.2505E-04  1.1989E-04
+#---------------------------------------------------

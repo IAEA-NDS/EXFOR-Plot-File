@@ -1,0 +1,25 @@
+# EXFOR #         : 22209.009  
+# EXFOR Ver.      : 20160726
+# TRANS #         : 2252
+# Author          : Y.Ikeda et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 294
+# DOI             : N/A
+# Quantity        : 27Al(n,a)24Na cross section
+# REACTION        : 13-AL-27(N,A)11-NA-24,,SIG
+# File ID         : n-Al27-a-sig-excfun-mon-prodNa24_Ikeda_1991_22209.009
+#
+# npts            : 4           
+# xmin            :   9.5000E+06
+# xmax            :   1.3200E+07
+# ymin            :   7.7600E-02
+# ymax            :   1.2510E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5000E+06  5.0000E+05  7.7600E-02  3.9000E-03
+  1.1000E+07  5.0000E+05  1.0240E-01  4.5000E-03
+  1.2000E+07  5.0000E+05  1.1650E-01  4.3000E-03
+  1.3200E+07  5.0000E+05  1.2510E-01  6.9000E-03
+#---------------------------------------------------

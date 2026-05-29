@@ -1,0 +1,26 @@
+# EXFOR #         : 22325.010  
+# EXFOR Ver.      : 20190205
+# TRANS #         : 2274
+# Author          : Y.Kasugai et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 2 page 935
+# DOI             : N/A
+# Quantity        : 100Ru(n,p)100Tc cross section
+# REACTION        : 44-RU-100(N,P)43-TC-100,,SIG
+# File ID         : n-Ru100-p-sig-excfun-mon-prodTc100_Kasugai_1994_22325.010
+#
+# npts            : 5           
+# xmin            :   1.3700E+07
+# xmax            :   1.4950E+07
+# ymin            :   1.8000E-02
+# ymax            :   3.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3700E+07  5.0000E+04  2.2000E-02  8.0000E-03
+  1.4030E+07  5.0000E+04  1.8000E-02  6.0000E-03
+  1.4360E+07  5.0000E+04  2.6000E-02  7.0000E-03
+  1.4660E+07  5.0000E+04  3.3000E-02  8.0000E-03
+  1.4950E+07  5.0000E+04  3.5000E-02  8.0000E-03
+#---------------------------------------------------

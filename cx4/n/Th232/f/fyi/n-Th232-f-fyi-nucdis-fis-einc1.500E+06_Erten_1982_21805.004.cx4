@@ -1,0 +1,25 @@
+# EXFOR #         : 21805.004  
+# EXFOR Ver.      : 20161001
+# TRANS #         : 2253
+# Author          : H.N.Erten et al.
+# Reference       : Phys.Rev.C 25 (1982) 2519
+# DOI             : 10.1103/PhysRevC.25.2519
+# Quantity        : 232Th(n,f) independent fission product yield
+# REACTION        : 90-TH-232(N,F)ELEM/MASS,IND,FY,,FIS
+# File ID         : n-Th232-f-fyi-nucdis-fis-einc1.500E+06_Erten_1982_21805.004
+#
+# Einc (eV)       :   1.5000E+06
+#
+# npts            : 2           
+# xmin            : 41096.9     
+# xmax            : 41098.1     
+# ymin            :   4.2000E-07
+# ymax            :   2.4800E-05
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     41096.9  4.2000E-07  0.0000E+00
+     41098.1  2.4800E-05  5.3000E-06
+#---------------------------------------------------

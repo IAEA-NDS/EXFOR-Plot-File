@@ -1,0 +1,23 @@
+# EXFOR #         : 11707.003  
+# EXFOR Ver.      : 20200503
+# TRANS #         : 1468
+# Author          : E.E.Carroll Jr et al.
+# Reference       : Nucl.Sci.Eng. 22 (1965) 411
+# DOI             : 10.13182/NSE65-A20626
+# Quantity        : 54Fe(n,p)54Mn cross section
+# REACTION        : 26-FE-54(N,P)25-MN-54,,SIG
+# File ID         : n-Fe54-p-sig-excfun-mon-prodMn54_Carroll%Jr_1965_11707.003
+#
+# npts            : 2           
+# xmin            :   1.5700E+07
+# xmax            :   1.7400E+07
+# ymin            :   2.5700E-01
+# ymax            :   2.8600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5700E+07  7.0000E+05  2.8600E-01  2.9000E-02
+  1.7400E+07  7.0000E+05  2.5700E-01  2.6000E-02
+#---------------------------------------------------

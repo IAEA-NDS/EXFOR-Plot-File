@@ -1,0 +1,22 @@
+# EXFOR #         : 31534.003  
+# EXFOR Ver.      : 20040206
+# TRANS #         : 0000
+# Author          : Z.Pu et al.
+# Reference       : Appl.Radiat.Isot. 58 (2003) 723
+# DOI             : 10.1016/S0969-8043(03)00090-3
+# Quantity        : 69Ga(n,p)69mZn cross section
+# REACTION        : 31-GA-69(N,P)30-ZN-69-M,,SIG
+# File ID         : n-Ga69-p-sig-excfun-mon-prodZn69m_Pu_2003_31534.003
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   2.1500E-02
+# ymax            :   2.1500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.0000E+05  2.1500E-02  1.0000E-03
+#---------------------------------------------------

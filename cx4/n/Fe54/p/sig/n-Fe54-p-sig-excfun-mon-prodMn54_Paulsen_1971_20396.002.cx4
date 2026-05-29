@@ -1,0 +1,26 @@
+# EXFOR #         : 20396.002  
+# EXFOR Ver.      : 19861022
+# TRANS #         : 0000
+# Author          : A.Paulsen et al.
+# Reference       : Proceedings of Chemical Nucl. Data Conf.,Canterbury 1971
+# DOI             : N/A
+# Quantity        : 54Fe(n,p)54Mn cross section
+# REACTION        : 26-FE-54(N,P)25-MN-54,,SIG
+# File ID         : n-Fe54-p-sig-excfun-mon-prodMn54_Paulsen_1971_20396.002
+#
+# npts            : 5           
+# xmin            :   1.7100E+06
+# xmax            :   6.2700E+06
+# ymin            :   5.9000E-03
+# ymax            :   4.4100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7100E+06  1.2000E+05  5.9000E-03  6.0000E-04
+  2.2100E+06  1.1000E+05  3.7200E-02  2.8000E-03
+  4.1400E+06  1.7000E+05  2.6200E-01  1.7000E-02
+  5.2400E+06  2.3000E+05  3.9100E-01  2.5000E-02
+  6.2700E+06  1.7000E+05  4.4100E-01  2.9000E-02
+#---------------------------------------------------

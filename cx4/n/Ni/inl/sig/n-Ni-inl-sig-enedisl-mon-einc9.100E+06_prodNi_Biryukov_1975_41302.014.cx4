@@ -1,0 +1,26 @@
+# EXFOR #         : 41302.014  
+# EXFOR Ver.      : 20230323
+# TRANS #         : 4213
+# Author          : N.S.Biryukov et al.
+# Reference       : Report INDC(CCP)-099 Vol.(4) page 118, 1975
+# DOI             : N/A
+# Quantity        : natNi(n,inl)natNi partial cross section
+# REACTION        : 28-NI-0(N,INL)28-NI-0,PAR,SIG
+# File ID         : n-Ni-inl-sig-enedisl-mon-einc9.100E+06_prodNi_Biryukov_1975_41302.014
+#
+# Einc (eV)       :   9.1000E+06
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 2           
+# xmin            :   1.7500E+06
+# xmax            :   5.0000E+06
+# ymin            :   8.0000E-02
+# ymax            :   6.4000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7500E+06  1.2500E+06  6.4000E-01  3.0000E-02
+  5.0000E+06  1.0000E+06  8.0000E-02  1.0000E-02
+#---------------------------------------------------

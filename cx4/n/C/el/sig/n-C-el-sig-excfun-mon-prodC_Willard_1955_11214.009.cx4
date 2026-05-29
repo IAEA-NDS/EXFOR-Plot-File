@@ -1,0 +1,24 @@
+# EXFOR #         : 11214.009  
+# EXFOR Ver.      : 19860121
+# TRANS #         : 0000
+# Author          : H.B.Willard et al.
+# Reference       : Phys.Rev. 98 (1955) 669
+# DOI             : 10.1103/PhysRev.98.669
+# Quantity        : natC(n,el)natC cross section
+# REACTION        : 6-C-0(N,EL)6-C-0,,SIG
+# File ID         : n-C-el-sig-excfun-mon-prodC_Willard_1955_11214.009
+#
+# npts            : 3           
+# xmin            :   5.5000E+05
+# xmax            :   1.5000E+06
+# ymin            :   2.0000E+00
+# ymax            :   3.2700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+05  5.0000E+04  3.2700E+00  0.0000E+00
+  1.0000E+06  5.0000E+04  2.6400E+00  0.0000E+00
+  1.5000E+06  5.0000E+04  2.0000E+00  0.0000E+00
+#---------------------------------------------------

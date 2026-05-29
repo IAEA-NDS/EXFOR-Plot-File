@@ -1,0 +1,32 @@
+# EXFOR #         : 11218.015  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : R.B.Day
+# Reference       : Phys.Rev. 102 (1956) 767
+# DOI             : 10.1103/PhysRev.102.767
+# Quantity        : natCa(n,inl)natCa partial gamma angular differential cross section
+# REACTION        : 20-CA-0(N,INL),PAR,DA,G,4PI
+# File ID         : n-Ca-inl-adxgl-enedisl-mon-einc3.950E+06_angl95_prodCa_Day_1956_11218.015
+#
+# Einc (eV)       :   3.9500E+06
+# dEinc (eV)      :   3.0000E+04
+# theta,lab (deg) :   95.0000000
+#
+# npts            : 7           
+# xmin            :   3.0000E+04
+# xmax            :   3.9000E+06
+# ymin            :   5.5704E-04
+# ymax            :   9.5493E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.0000E+04  0.0000E+00  9.5493E-03  4.7746E-03
+  5.0800E+05  0.0000E+00  7.6394E-03  1.1141E-03
+  7.6700E+05  0.0000E+00  5.4113E-03  1.3528E-03
+  8.7700E+05  0.0000E+00  5.5704E-04  3.1831E-04
+  1.1520E+06  0.0000E+00  1.7507E-03  4.7746E-04
+  3.7400E+06  0.0000E+00  5.5704E-03  2.3077E-03
+  3.9000E+06  0.0000E+00  2.7852E-03  1.1937E-03
+#---------------------------------------------------

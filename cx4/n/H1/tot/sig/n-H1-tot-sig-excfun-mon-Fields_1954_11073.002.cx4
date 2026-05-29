@@ -1,0 +1,23 @@
+# EXFOR #         : 11073.002  
+# EXFOR Ver.      : 19820106
+# TRANS #         : 0000
+# Author          : R.E.Fields et al.
+# Reference       : Phys.Rev. 94 (1954) 389
+# DOI             : 10.1103/PhysRev.94.389
+# Quantity        : 1H(n,tot) cross section
+# REACTION        : 1-H-1(N,TOT),,SIG
+# File ID         : n-H1-tot-sig-excfun-mon-Fields_1954_11073.002
+#
+# npts            : 2           
+# xmin            :   1.0050E+06
+# xmax            :   2.5400E+06
+# ymin            :   2.5250E+00
+# ymax            :   4.2280E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0050E+06  3.0000E+03  4.2280E+00  1.8000E-02
+  2.5400E+06  6.0000E+03  2.5250E+00  9.0000E-03
+#---------------------------------------------------

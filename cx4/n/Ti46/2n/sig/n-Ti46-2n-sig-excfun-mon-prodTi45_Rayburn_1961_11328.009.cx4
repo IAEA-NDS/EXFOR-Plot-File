@@ -1,0 +1,22 @@
+# EXFOR #         : 11328.009  
+# EXFOR Ver.      : 19820324
+# TRANS #         : 0000
+# Author          : L.A.Rayburn
+# Reference       : Phys.Rev. 122 (1961) 168
+# DOI             : 10.1103/PhysRev.122.168
+# Quantity        : 46Ti(n,2n)45Ti cross section
+# REACTION        : 22-TI-46(N,2N)22-TI-45,,SIG
+# File ID         : n-Ti46-2n-sig-excfun-mon-prodTi45_Rayburn_1961_11328.009
+#
+# npts            : 1           
+# xmin            :   1.4400E+07
+# xmax            :   1.4400E+07
+# ymin            :   3.1800E-02
+# ymax            :   3.1800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4400E+07  3.0000E+05  3.1800E-02  2.4168E-03
+#---------------------------------------------------

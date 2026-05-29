@@ -1,0 +1,23 @@
+# EXFOR #         : 21231.004  
+# EXFOR Ver.      : 20070807
+# TRANS #         : 2186
+# Author          : R.O.Owens et al.
+# Reference       : Nucl.Phys.A 112 (1968) 337
+# DOI             : 10.1016/0375-9474(68)90206-6
+# Quantity        : natIn(n,inl)natIn cross section
+# REACTION        : 49-IN-0(N,INL)49-IN-0,,SIG
+# File ID         : n-In-inl-sig-excfun-mon-prodIn_Owens_1968_21231.004
+#
+# npts            : 2           
+# xmin            :   5.9810E+06
+# xmax            :   6.9700E+06
+# ymin            :   2.3000E+00
+# ymax            :   2.4000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9810E+06  2.0000E+05  2.4000E+00  1.0000E-01
+  6.9700E+06  1.5000E+05  2.3000E+00  1.3000E-01
+#---------------------------------------------------

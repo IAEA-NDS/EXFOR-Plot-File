@@ -1,0 +1,22 @@
+# EXFOR #         : 13860.012  
+# EXFOR Ver.      : 20021211
+# TRANS #         : 0000
+# Author          : D.J.Hughes et al.
+# Reference       : Phys.Rev. 91 (1953) 1423
+# DOI             : 10.1103/PhysRev.91.1423
+# Quantity        : 55Mn(n,g)56Mn cross section
+# REACTION        : 25-MN-55(N,G)25-MN-56,,SIG,,FIS
+# File ID         : n-Mn55-g-sig-excfun-fis-prodMn56_Hughes_1953_13860.012
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   3.8200E-03
+# ymax            :   3.8200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  3.8200E-03  0.0000E+00
+#---------------------------------------------------

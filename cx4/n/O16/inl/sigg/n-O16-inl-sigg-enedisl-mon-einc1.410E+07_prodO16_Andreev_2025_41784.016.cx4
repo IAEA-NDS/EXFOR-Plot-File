@@ -1,0 +1,27 @@
+# EXFOR #         : 41784.016  
+# EXFOR Ver.      : 20250905
+# TRANS #         : 4228
+# Author          : A.V.Andreev et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 89 (2025) 1254
+# DOI             : 10.1134/S1062873825712012
+# Quantity        : 16O(n,inl)16O partial gamma production cross section
+# REACTION        : 8-O-16(N,INL)8-O-16,PAR,SIG,G
+# File ID         : n-O16-inl-sigg-enedisl-mon-einc1.410E+07_prodO16_Andreev_2025_41784.016
+#
+# Einc (eV)       :   1.4100E+07
+#
+# npts            : 4           
+# xmin            :   2.7420E+09
+# xmax            :   7.1179E+09
+# ymin            :   2.7000E-02
+# ymax            :   1.1000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7420E+09  0.0000E+00  2.7000E-02  2.0000E-03
+  6.1299E+09  0.0000E+00  1.1000E-01  4.0000E-03
+  6.9171E+09  0.0000E+00  4.2000E-02  3.0000E-03
+  7.1179E+09  0.0000E+00  3.5000E-02  2.0000E-03
+#---------------------------------------------------

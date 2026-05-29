@@ -1,0 +1,22 @@
+# EXFOR #         : 31553.006  
+# EXFOR Ver.      : 20051129
+# TRANS #         : 3118
+# Author          : I.M.Cohen et al.
+# Reference       : Radiochim.Acta 93 (2005) 543
+# DOI             : 10.1524/ract.2005.93.9-10.543
+# Quantity        : 68Zn(n,a)65Ni cross section
+# REACTION        : 30-ZN-68(N,A)28-NI-65,,SIG,,FIS
+# File ID         : n-Zn68-a-sig-excfun-fis-prodNi65_Cohen_2005_31553.006
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   5.2100E-05
+# ymax            :   5.2100E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  5.2100E-05  2.3000E-06
+#---------------------------------------------------

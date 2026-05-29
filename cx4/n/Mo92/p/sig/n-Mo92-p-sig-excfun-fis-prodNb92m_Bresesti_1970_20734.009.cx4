@@ -1,0 +1,22 @@
+# EXFOR #         : 20734.009  
+# EXFOR Ver.      : 20101112
+# TRANS #         : 2225
+# Author          : A.M.Bresesti et al.
+# Reference       : Nucl.Sci.Eng. 40 (1970) 331
+# DOI             : 10.13182/NSE70-A19693
+# Quantity        : 92Mo(n,p)92mNb cross section
+# REACTION        : 42-MO-92(N,P)41-NB-92-M,,SIG,,FIS
+# File ID         : n-Mo92-p-sig-excfun-fis-prodNb92m_Bresesti_1970_20734.009
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   5.7500E-03
+# ymax            :   5.7500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  5.7500E-03  2.5000E-04
+#---------------------------------------------------

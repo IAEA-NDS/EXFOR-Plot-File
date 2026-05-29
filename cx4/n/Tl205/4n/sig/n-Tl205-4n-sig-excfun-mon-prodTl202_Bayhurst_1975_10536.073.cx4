@@ -1,0 +1,23 @@
+# EXFOR #         : 10536.073  
+# EXFOR Ver.      : 20040511
+# TRANS #         : 0000
+# Author          : B.P.Bayhurst et al.
+# Reference       : Phys.Rev.C 12 (1975) 451
+# DOI             : 10.1103/PhysRevC.12.451
+# Quantity        : 205Tl(n,4n)202Tl cross section
+# REACTION        : 81-TL-205(N,4N)81-TL-202,,SIG
+# File ID         : n-Tl205-4n-sig-excfun-mon-prodTl202_Bayhurst_1975_10536.073
+#
+# npts            : 2           
+# xmin            :   2.3350E+07
+# xmax            :   2.4490E+07
+# ymin            :   7.0000E-03
+# ymax            :   9.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3350E+07  1.2000E+05  7.0000E-03  0.0000E+00
+  2.4490E+07  1.3000E+05  9.0000E-03  0.0000E+00
+#---------------------------------------------------

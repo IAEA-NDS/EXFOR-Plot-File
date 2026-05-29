@@ -1,0 +1,26 @@
+# EXFOR #         : 20164.056  
+# EXFOR Ver.      : 20080211
+# TRANS #         : 2194
+# Author          : B.Joensson et al.
+# Reference       : Arkiv foer Fysik 39 (1969) 295
+# DOI             : N/A
+# Quantity        : 208Pb(n,inl)208Pb partial gamma angular differential cross section
+# REACTION        : 82-PB-208(N,INL)82-PB-208,PAR,DA,G,AV
+# File ID         : n-Pb208-inl-adxgl-enedisl-mon-einc1.510E+07_angl80_prodPb208_Joensson_1969_20164.056
+#
+# Einc (eV)       :   1.5100E+07
+# dEinc (eV)      :   4.0000E+05
+# theta,lab (deg) :   80.0000000
+#
+# npts            : 1           
+# xmin            :   8.0300E+05
+# xmax            :   8.0300E+05
+# ymin            :   3.2000E-02
+# ymax            :   3.2000E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.0300E+05  0.0000E+00  3.2000E-02  0.0000E+00
+#---------------------------------------------------

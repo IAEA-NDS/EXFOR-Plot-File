@@ -1,0 +1,22 @@
+# EXFOR #         : 30041.003  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : S.S.Hasan et al.
+# Reference       : Nucl.Phys.A 181 (1972) 101
+# DOI             : 10.1016/0375-9474(72)90903-7
+# Quantity        : 82Se(n,2n)81gSe cross section
+# REACTION        : 34-SE-82(N,2N)34-SE-81-G,,SIG
+# File ID         : n-Se82-2n-sig-excfun-mon-prodSe81g_Hasan_1972_30041.003
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   3.1000E-01
+# ymax            :   3.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  5.0000E+05  3.1000E-01  2.5000E-02
+#---------------------------------------------------

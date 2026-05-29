@@ -1,0 +1,26 @@
+# EXFOR #         : 21046.010  
+# EXFOR Ver.      : 20071227
+# TRANS #         : 2191
+# Author          : J.Martin et al.
+# Reference       : Nucl.Phys.A 113 No.3 (1968) 564
+# DOI             : 10.1016/0375-9474(68)90165-6
+# Quantity        : 31P(n,inl)31P partial cross section
+# REACTION        : 15-P-31(N,INL)15-P-31,PAR,SIG
+# File ID         : n-P31-inl-sig-lvldis-mon-einc5.950E+06_prodP31_Martin_1968_21046.010
+#
+# Einc (eV)       :   5.9500E+06
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 2           
+# xmin            :   1.2700E+06
+# xmax            :   2.2300E+06
+# ymin            :   1.3350E-01
+# ymax            :   1.5680E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2700E+06  0.0000E+00  1.3350E-01  8.6000E-03
+  2.2300E+06  0.0000E+00  1.5680E-01  1.0200E-02
+#---------------------------------------------------

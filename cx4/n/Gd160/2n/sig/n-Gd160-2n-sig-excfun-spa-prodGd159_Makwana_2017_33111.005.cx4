@@ -1,0 +1,23 @@
+# EXFOR #         : 33111.005  
+# EXFOR Ver.      : 20190402
+# TRANS #         : 3188
+# Author          : R.Makwana et al.
+# Reference       : Phys.Rev.C 96 (2017) 024608
+# DOI             : 10.1103/PhysRevC.96.024608
+# Quantity        : 160Gd(n,2n)159Gd cross section
+# REACTION        : 64-GD-160(N,2N)64-GD-159,,SIG,,SPA
+# File ID         : n-Gd160-2n-sig-excfun-spa-prodGd159_Makwana_2017_33111.005
+#
+# npts            : 2           
+# xmin            :   1.2470E+07
+# xmax            :   1.6630E+07
+# ymin            :   4.3500E-01
+# ymax            :   1.9130E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2470E+07  8.2500E+05  1.9130E+00  1.4300E-01
+  1.6630E+07  9.5000E+05  4.3500E-01  3.3000E-02
+#---------------------------------------------------

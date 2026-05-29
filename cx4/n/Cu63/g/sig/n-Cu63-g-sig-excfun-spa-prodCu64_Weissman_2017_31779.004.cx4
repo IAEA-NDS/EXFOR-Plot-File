@@ -1,0 +1,22 @@
+# EXFOR #         : 31779.004  
+# EXFOR Ver.      : 20171219
+# TRANS #         : 3181
+# Author          : L.Weissman et al.
+# Reference       : Phys.Rev.C 96 (2017) 015802
+# DOI             : 10.1103/PhysRevC.96.015802
+# Quantity        : 63Cu(n,g)64Cu cross section
+# REACTION        : 29-CU-63(N,G)29-CU-64,,SIG,,SPA
+# File ID         : n-Cu63-g-sig-excfun-spa-prodCu64_Weissman_2017_31779.004
+#
+# npts            : 1           
+# xmin            :   3.5000E+04
+# xmax            :   3.5000E+04
+# ymin            :   6.7100E-02
+# ymax            :   6.7100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+04  0.0000E+00  6.7100E-02  3.4000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 32736.002  
+# EXFOR Ver.      : 20161109
+# TRANS #         : 3177
+# Author          : Ming He et al.
+# Reference       : Nucl.Instrum.Meth.B 361 (2015) 517
+# DOI             : 10.1016/j.nimb.2015.01.060
+# Quantity        : 60Ni(n,2n)59Ni cross section
+# REACTION        : 28-NI-60(N,2N)28-NI-59,,SIG
+# File ID         : n-Ni60-2n-sig-excfun-mon-prodNi59_Ming%He_2015_32736.002
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   4.2600E-01
+# ymax            :   4.2600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  4.0000E+05  4.2600E-01  5.3000E-02
+#---------------------------------------------------

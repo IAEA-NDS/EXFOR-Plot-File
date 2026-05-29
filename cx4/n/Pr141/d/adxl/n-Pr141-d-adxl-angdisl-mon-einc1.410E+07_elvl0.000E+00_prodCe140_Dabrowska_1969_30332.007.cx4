@@ -1,0 +1,28 @@
+# EXFOR #         : 30332.007  
+# EXFOR Ver.      : 20090115
+# TRANS #         : 3134
+# Author          : W.Dabrowska et al.
+# Reference       : Progress report INDC(POL)-2 page 3, 1969
+# DOI             : N/A
+# Quantity        : 141Pr(n,d)140Ce partial angular differential cross section
+# REACTION        : 59-PR-141(N,D)58-CE-140,PAR,DA
+# File ID         : n-Pr141-d-adxl-angdisl-mon-einc1.410E+07_elvl0.000E+00_prodCe140_Dabrowska_1969_30332.007
+#
+# Einc (eV)       :   1.4100E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :    9.2207000
+# xmax            :   49.9520000
+# ymin            :   1.7630E-05
+# ymax            :   3.7787E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.2207000   0.0000000  3.7787E-04  1.4443E-04
+  21.4530000   0.0000000  3.5761E-04  1.2923E-04
+  37.1820000   0.0000000  2.6802E-04  1.2349E-04
+  49.9520000   0.0000000  1.7630E-05  1.0259E-04
+#---------------------------------------------------

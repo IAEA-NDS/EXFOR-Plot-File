@@ -1,0 +1,22 @@
+# EXFOR #         : 10214.007  
+# EXFOR Ver.      : 20210731
+# TRANS #         : 1485
+# Author          : J.K.Temperley et al.
+# Reference       : Report BRL-R-1491, 1970
+# DOI             : N/A
+# Quantity        : 104Ru(n,x)103Ru cumulative production cross section
+# REACTION        : 44-RU-104(N,X)44-RU-103,CUM,SIG
+# File ID         : n-Ru104-x-sigc-excfun-mon-prodRu103_Temperley_1970_10214.007
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   1.5700E+00
+# ymax            :   1.5700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  5.0000E+05  1.5700E+00  1.8000E-01
+#---------------------------------------------------

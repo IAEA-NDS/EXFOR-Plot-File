@@ -1,0 +1,29 @@
+# EXFOR #         : 11872.002  
+# EXFOR Ver.      : 19830919
+# TRANS #         : 0000
+# Author          : S.M.Shafroth et al.
+# Reference       : Phys.Rev. 129 (1963) 704
+# DOI             : 10.1103/PhysRev.129.704
+# Quantity        : 89Y(n,inl)89Y partial gamma angular differential cross section
+# REACTION        : 39-Y-89(N,INL)39-Y-89,PAR,DA,G,4PI
+# File ID         : n-Y89-inl-adxgl-excfun-mon-angl98_eoutl1.620E+06_prodY89_Shafroth_1963_11872.002
+#
+# theta,lab (deg) :   98.0000000
+# Eout,lab (eV)   :   1.6200E+06
+# dEout,lab (eV)  :   1.0000E+04
+#
+# npts            : 4           
+# xmin            :   2.7700E+06
+# xmax            :   3.3600E+06
+# ymin            :   3.9789E-04
+# ymax            :   7.9577E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.7700E+06  0.0000E+00  3.9789E-04  1.5915E-04
+  2.9700E+06  0.0000E+00  7.9577E-04  1.5915E-04
+  3.1600E+06  0.0000E+00  4.7746E-04  1.5915E-04
+  3.3600E+06  0.0000E+00  6.3662E-04  1.5915E-04
+#---------------------------------------------------

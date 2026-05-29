@@ -1,0 +1,23 @@
+# EXFOR #         : 30825.019  
+# EXFOR Ver.      : 20090910
+# TRANS #         : 3141
+# Author          : N.I.Molla et al.
+# Reference       : Report INDC(BAN)-003, 1986
+# DOI             : N/A
+# Quantity        : 98Mo(n,p)98mNb cross section
+# REACTION        : 42-MO-98(N,P)41-NB-98-M,,SIG
+# File ID         : n-Mo98-p-sig-excfun-mon-prodNb98m_Molla_1986_30825.019
+#
+# npts            : 2           
+# xmin            :   1.4600E+07
+# xmax            :   1.4800E+07
+# ymin            :   3.2600E-03
+# ymax            :   4.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  3.0000E+05  3.2600E-03  1.8100E-03
+  1.4800E+07  3.4000E+05  4.2000E-03  5.5000E-04
+#---------------------------------------------------

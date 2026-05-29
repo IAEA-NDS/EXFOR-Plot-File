@@ -1,0 +1,33 @@
+# EXFOR #         : 40531.006  
+# EXFOR Ver.      : 20211230
+# TRANS #         : 4203
+# Author          : I.A.Korzh et al.
+# Reference       : Proceedings of 3.All Union Conf.on Neutron Phys.,Kiev,9-13 Jun 1975 4 page 220
+# DOI             : N/A
+# Quantity        : 50Cr(n,inl)50Cr partial angular differential cross section
+# REACTION        : 24-CR-50(N,INL)24-CR-50,PAR,DA
+# File ID         : n-Cr50-inl-adxl-angdisl-mon-einc3.000E+06_elvl1.888E+06_prodCr50_Korzh_1975_40531.006
+#
+# Einc (eV)       :   3.0000E+06
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   1.8880E+06
+#
+# npts            : 8           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   1.1100E-02
+# ymax            :   1.3100E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  1.3100E-02  1.1000E-03
+  40.0000000   0.0000000  1.2400E-02  1.1000E-03
+  55.0000000   0.0000000  1.2100E-02  1.2000E-03
+  75.0000000   0.0000000  1.1200E-02  9.0000E-04
+  90.0000000   0.0000000  1.2000E-02  9.0000E-04
+ 105.0000000   0.0000000  1.1100E-02  9.0000E-04
+ 125.0000000   0.0000000  1.1100E-02  1.0000E-03
+ 150.0000000   0.0000000  1.1400E-02  1.4000E-03
+#---------------------------------------------------

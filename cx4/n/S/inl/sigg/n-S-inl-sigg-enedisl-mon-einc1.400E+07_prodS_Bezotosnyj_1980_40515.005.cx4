@@ -1,0 +1,28 @@
+# EXFOR #         : 40515.005  
+# EXFOR Ver.      : 20191212
+# TRANS #         : 4185
+# Author          : V.M.Bezotosnyj et al.
+# Reference       : Proceedings of 5.All Union Conf.on Neutron Phys.,Kiev,15-19 Sep 1980 2 page 21
+# DOI             : N/A
+# Quantity        : natS(n,inl)natS partial gamma production cross section
+# REACTION        : 16-S-0(N,INL)16-S-0,PAR,SIG,G
+# File ID         : n-S-inl-sigg-enedisl-mon-einc1.400E+07_prodS_Bezotosnyj_1980_40515.005
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 5           
+# xmin            :   1.2700E+06
+# xmax            :   3.2700E+06
+# ymin            :   2.4000E-02
+# ymax            :   3.5800E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2700E+06  0.0000E+00  1.2400E-01  1.3000E-02
+  1.7200E+06  0.0000E+00  1.7500E-01  2.1000E-02
+  2.2400E+06  0.0000E+00  3.5800E-01  3.9000E-02
+  2.7700E+06  0.0000E+00  6.8000E-02  1.3000E-02
+  3.2700E+06  0.0000E+00  2.4000E-02  4.0000E-03
+#---------------------------------------------------

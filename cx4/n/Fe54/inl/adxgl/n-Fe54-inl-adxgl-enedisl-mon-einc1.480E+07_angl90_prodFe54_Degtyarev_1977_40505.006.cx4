@@ -1,0 +1,25 @@
+# EXFOR #         : 40505.006  
+# EXFOR Ver.      : 20230724
+# TRANS #         : 4214
+# Author          : A.P.Degtyarev et al.
+# Reference       : Report INDC(CCP)-118 Vol.(2) page 57, 1977
+# DOI             : N/A
+# Quantity        : 54Fe(n,inl)54Fe partial gamma angular differential cross section
+# REACTION        : 26-FE-54(N,INL)26-FE-54,PAR,DA,G
+# File ID         : n-Fe54-inl-adxgl-enedisl-mon-einc1.480E+07_angl90_prodFe54_Degtyarev_1977_40505.006
+#
+# Einc (eV)       :   1.4800E+07
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   1.1300E+06
+# xmax            :   1.1300E+06
+# ymin            :   6.0000E-04
+# ymax            :   6.0000E-04
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1300E+06  0.0000E+00  6.0000E-04  2.0000E-04
+#---------------------------------------------------

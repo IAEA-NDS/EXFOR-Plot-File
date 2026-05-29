@@ -1,0 +1,22 @@
+# EXFOR #         : 30221.003  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : J.J.Van Loef
+# Reference       : Nucl.Phys. 24 (1961) 340
+# DOI             : 10.1016/0029-5582(61)90387-X
+# Quantity        : 61Ni(n,p)61Co cross section
+# REACTION        : 28-NI-61(N,P)27-CO-61,,SIG
+# File ID         : n-Ni61-p-sig-excfun-mon-prodCo61_Van%Loef_1961_30221.003
+#
+# npts            : 1           
+# xmin            :   3.3000E+06
+# xmax            :   3.3000E+06
+# ymin            :   3.0000E-03
+# ymax            :   3.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3000E+06  2.0000E+05  3.0000E-03  1.5000E-03
+#---------------------------------------------------

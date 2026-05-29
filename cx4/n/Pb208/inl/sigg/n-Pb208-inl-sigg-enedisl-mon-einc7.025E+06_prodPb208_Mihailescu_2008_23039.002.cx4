@@ -1,0 +1,30 @@
+# EXFOR #         : 23039.002  
+# EXFOR Ver.      : 20160106
+# TRANS #         : 2247
+# Author          : L.C.Mihailescu et al.
+# Reference       : Nucl.Phys.A 811 (2008) 1
+# DOI             : N/A
+# Quantity        : 208Pb(n,inl)208Pb partial gamma production cross section
+# REACTION        : 82-PB-208(N,INL)82-PB-208,PAR,SIG,G
+# File ID         : n-Pb208-inl-sigg-enedisl-mon-einc7.025E+06_prodPb208_Mihailescu_2008_23039.002
+#
+# Einc (eV)       :   7.0252E+06
+# dEinc (eV)      :   2.0870E+04
+#
+# npts            : 6           
+# xmin            :   7.6343E+05
+# xmax            :   1.4366E+06
+# ymin            :   3.1564E-02
+# ymax            :   1.1359E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.6343E+05  0.0000E+00  6.7504E-02  8.1850E-03
+  9.2765E+05  0.0000E+00  4.1450E-02  7.9100E-03
+  1.1262E+06  0.0000E+00  1.0255E-01  9.8660E-03
+  1.2259E+06  0.0000E+00  1.1359E-01  1.1337E-02
+  1.3809E+06  0.0000E+00  3.1564E-02  7.6540E-03
+  1.4366E+06  0.0000E+00  5.3840E-02  8.9280E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 10037.008  
+# EXFOR Ver.      : 19990719
+# TRANS #         : 0000
+# Author          : P.Boschung et al.
+# Reference       : Nucl.Phys.A 161 (1971) 593
+# DOI             : 10.1016/0375-9474(71)90388-5
+# Quantity        : 60Ni(n,el)60Ni cross section
+# REACTION        : 28-NI-60(N,EL)28-NI-60,,SIG
+# File ID         : n-Ni60-el-sig-excfun-mon-prodNi60_Boschung_1971_10037.008
+#
+# npts            : 2           
+# xmin            :   5.0500E+06
+# xmax            :   5.5800E+06
+# ymin            :   2.0430E+00
+# ymax            :   2.1620E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0500E+06  1.0000E+04  2.1620E+00  5.5000E-02
+  5.5800E+06  1.0000E+04  2.0430E+00  5.5000E-02
+#---------------------------------------------------

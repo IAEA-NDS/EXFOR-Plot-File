@@ -1,0 +1,27 @@
+# EXFOR #         : 20664.002  
+# EXFOR Ver.      : 20170723
+# TRANS #         : 2261
+# Author          : L.Drigo et al.
+# Reference       : Nuovo Cim.A 13 (1973) 867
+# DOI             : 10.1007/BF02804155
+# Quantity        : natPb(n,el)natPb angular differential cross section
+# REACTION        : 82-PB-0(N,EL)82-PB-0,,DA
+# File ID         : n-Pb-el-adxl-angdisl-mon-einc2.450E+06_prodPb_Drigo_1973_20664.002
+#
+# Einc (eV)       :   2.4500E+06
+# dEinc (eV)      :   4.0000E+04
+#
+# npts            : 3           
+# xmin            :    2.1000000
+# xmax            :    5.0000000
+# ymin            :   5.1000E+00
+# ymax            :   5.6000E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.1000000   0.0000000  5.6000E+00  2.0000E-01
+   3.0000000   0.0000000  5.3000E+00  2.0000E-01
+   5.0000000   0.0000000  5.1000E+00  2.0000E-01
+#---------------------------------------------------

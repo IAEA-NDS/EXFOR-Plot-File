@@ -1,0 +1,25 @@
+# EXFOR #         : 11269.008  
+# EXFOR Ver.      : 19860417
+# TRANS #         : 0000
+# Author          : W.L.Rogers et al.
+# Reference       : Bull.Am.Phys.Soc. 6 (1961) 61(TA7)
+# DOI             : N/A
+# Quantity        : 181Ta(n,inl)181Ta partial cross section
+# REACTION        : 73-TA-181(N,INL)73-TA-181,PAR,SIG
+# File ID         : n-Ta181-inl-sig-excfun-mon-elvl1.370E+05_prodTa181_Rogers_1961_11269.008
+#
+# Elvl (eV)       :   1.3700E+05
+#
+# npts            : 2           
+# xmin            :   7.0700E+05
+# xmax            :   9.0100E+05
+# ymin            :   1.1400E+00
+# ymax            :   1.2300E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0700E+05  0.0000E+00  1.2300E+00  1.2000E-01
+  9.0100E+05  0.0000E+00  1.1400E+00  1.0000E-01
+#---------------------------------------------------

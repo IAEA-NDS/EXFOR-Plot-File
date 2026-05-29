@@ -1,0 +1,22 @@
+# EXFOR #         : 21999.020  
+# EXFOR Ver.      : 20150921
+# TRANS #         : 2245
+# Author          : R.Pepelnik et al.
+# Reference       : Report GKSS-86-E-29, 1986
+# DOI             : N/A
+# Quantity        : 87Rb(n,p)87Kr cross section
+# REACTION        : 37-RB-87(N,P)36-KR-87,,SIG
+# File ID         : n-Rb87-p-sig-excfun-mon-prodKr87_Pepelnik_1986_21999.020
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   1.1600E-02
+# ymax            :   1.1600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  3.0000E+04  1.1600E-02  5.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,31 @@
+# EXFOR #         : 30332.006  
+# EXFOR Ver.      : 20090115
+# TRANS #         : 3134
+# Author          : W.Dabrowska et al.
+# Reference       : Progress report INDC(POL)-2 page 3, 1969
+# DOI             : N/A
+# Quantity        : 89Y(n,d)88Sr partial angular differential cross section
+# REACTION        : 39-Y-89(N,D)38-SR-88,PAR,DA
+# File ID         : n-Y89-d-adxl-angdisl-mon-einc1.410E+07_elvl0.000E+00_prodSr88_Dabrowska_1969_30332.006
+#
+# Einc (eV)       :   1.4100E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 7           
+# xmin            :    7.8401000
+# xmax            :   49.9540000
+# ymin            :   2.3291E-04
+# ymax            :   1.0581E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.8401000   0.0000000  1.0314E-03  2.0834E-04
+  14.7920000   0.0000000  1.0581E-03  2.2728E-04
+  20.4250000   0.0000000  5.0199E-04  2.0077E-04
+  26.8510000   0.0000000  6.4256E-04  2.0077E-04
+  34.9800000   0.0000000  2.3291E-04  2.1583E-04
+  42.7480000   0.0000000  4.6369E-04  1.4397E-04
+  49.9540000   0.0000000  2.5152E-04  1.8184E-04
+#---------------------------------------------------

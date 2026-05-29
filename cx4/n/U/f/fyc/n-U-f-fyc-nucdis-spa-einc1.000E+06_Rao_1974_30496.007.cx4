@@ -1,0 +1,25 @@
+# EXFOR #         : 30496.007  
+# EXFOR Ver.      : 20050623
+# TRANS #         : 3117
+# Author          : V.K.Rao et al.
+# Reference       : Phys.Rev.C 9 (1974) 1506
+# DOI             : 10.1103/PhysRevC.9.1506
+# Quantity        : natU(n,f) cumulative fission product yield
+# REACTION        : 92-U-0(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U-f-fyc-nucdis-spa-einc1.000E+06_Rao_1974_30496.007
+#
+# Einc (eV)       :   1.0000E+06
+#
+# npts            : 2           
+# xmin            : 38089.9     
+# xmax            : 47111.9     
+# ymin            :   3.8000E-04
+# ymax            :   4.4700E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     38089.9  4.4700E-02  2.2000E-03
+     47111.9  3.8000E-04  2.0000E-05
+#---------------------------------------------------

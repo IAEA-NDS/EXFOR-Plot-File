@@ -1,0 +1,22 @@
+# EXFOR #         : 40190.003.5
+# EXFOR Ver.      : 20150109
+# TRANS #         : 4169
+# Author          : N.I.Ivanova et al.
+# Reference       : Sov.At.Energy 30 (1971) 452
+# DOI             : 10.1007/BF01182175
+# Quantity        : 241Am(n,g)242gAm cross section
+# REACTION        : 95-AM-241(N,G)95-AM-242-G,,SIG,,FIS
+# File ID         : n-Am241-g-sig-excfun-fis-prodAm242g_Ivanova_1971_40190.003.5
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.3500E-01
+# ymax            :   2.3500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.3500E-01  0.0000E+00
+#---------------------------------------------------

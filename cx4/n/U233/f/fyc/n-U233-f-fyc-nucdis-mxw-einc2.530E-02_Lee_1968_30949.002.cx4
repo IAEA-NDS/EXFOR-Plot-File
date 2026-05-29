@@ -1,0 +1,28 @@
+# EXFOR #         : 30949.002  
+# EXFOR Ver.      : 20090914
+# TRANS #         : 3141
+# Author          : C.Lee et al.
+# Reference       : Progress report IA-1168 page 67(1), 1968
+# DOI             : N/A
+# Quantity        : 233U(n,f) cumulative fission product yield
+# REACTION        : 92-U-233(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-U233-f-fyc-nucdis-mxw-einc2.530E-02_Lee_1968_30949.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 5           
+# xmin            : 35084.0     
+# xmax            : 42099.9     
+# ymin            :   6.5000E-03
+# ymax            :   5.7500E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     35084.0  6.5000E-03  7.0000E-04
+     38091.9  5.3300E-02  5.0000E-03
+     38092.9  5.7500E-02  5.0000E-03
+     39093.9  5.4000E-02  5.0000E-03
+     42099.9  4.9000E-02  5.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 11450.025  
+# EXFOR Ver.      : 20021212
+# TRANS #         : 0000
+# Author          : D.J.Hughes et al.
+# Reference       : Phys.Rev. 75 (1949) 1781
+# DOI             : 10.1103/PhysRev.75.1781
+# Quantity        : 100Mo(n,g)101Mo cross section
+# REACTION        : 42-MO-100(N,G)42-MO-101,,SIG,,FIS
+# File ID         : n-Mo100-g-sig-excfun-fis-prodMo101_Hughes_1949_11450.025
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   1.5000E-02
+# ymax            :   1.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  1.5000E-02  0.0000E+00
+#---------------------------------------------------

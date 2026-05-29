@@ -1,0 +1,22 @@
+# EXFOR #         : 11850.010  
+# EXFOR Ver.      : 20220822
+# TRANS #         : 1500
+# Author          : K.G.Broadhead et al.
+# Reference       : Appl.Radiat.Isot. 18 (1967) 279
+# DOI             : 10.1016/0020-708X(67)90125-1
+# Quantity        : 179Hf(n,inl)179m1Hf cross section
+# REACTION        : 72-HF-179(N,INL)72-HF-179-M1,,SIG
+# File ID         : n-Hf179-inl-sig-excfun-mon-prodHf179m_Broadhead_1967_11850.010
+#
+# npts            : 1           
+# xmin            :   2.8000E+06
+# xmax            :   2.8000E+06
+# ymin            :   4.2200E-01
+# ymax            :   4.2200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8000E+06  7.0000E+04  4.2200E-01  8.8620E-02
+#---------------------------------------------------

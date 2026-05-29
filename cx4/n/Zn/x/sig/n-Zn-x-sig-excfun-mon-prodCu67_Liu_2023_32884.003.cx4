@@ -1,0 +1,22 @@
+# EXFOR #         : 32884.003  
+# EXFOR Ver.      : 20241204
+# TRANS #         : 3215
+# Author          : B.Liu et al.
+# Reference       : Appl.Radiat.Isot. 191 (2023) 110557
+# DOI             : 10.1016/j.apradiso.2022.110557
+# Quantity        : natZn(n,x)67Cu independent production cross section
+# REACTION        : 30-ZN-0(N,X)29-CU-67,,SIG
+# File ID         : n-Zn-x-sig-excfun-mon-prodCu67_Liu_2023_32884.003
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   2.4300E-03
+# ymax            :   2.4300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  2.0000E+05  2.4300E-03  1.6000E-04
+#---------------------------------------------------

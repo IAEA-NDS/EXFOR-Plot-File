@@ -1,0 +1,22 @@
+# EXFOR #         : 30135.003  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : J.Brzosko et al.
+# Reference       : Nucl.Phys. 74 (1965) 438
+# DOI             : 10.1016/0029-5582(65)90093-3
+# Quantity        : 130Te(n,2n)129mTe cross section
+# REACTION        : 52-TE-130(N,2N)52-TE-129-M,,SIG
+# File ID         : n-Te130-2n-sig-excfun-mon-prodTe129m_Brzosko_1965_30135.003
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   2.4700E-01
+# ymax            :   2.4700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  2.4700E-01  7.4000E-02
+#---------------------------------------------------

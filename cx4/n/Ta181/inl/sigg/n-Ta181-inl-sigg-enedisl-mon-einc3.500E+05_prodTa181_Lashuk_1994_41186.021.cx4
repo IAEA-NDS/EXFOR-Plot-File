@@ -1,0 +1,25 @@
+# EXFOR #         : 41186.021  
+# EXFOR Ver.      : 20191107
+# TRANS #         : 4184
+# Author          : A.I.Lashuk et al.
+# Reference       : Yad.Reak.Konst.  No.1 (1994) 26
+# DOI             : N/A
+# Quantity        : 181Ta(n,inl)181Ta partial gamma production cross section
+# REACTION        : 73-TA-181(N,INL)73-TA-181,PAR,SIG,G
+# File ID         : n-Ta181-inl-sigg-enedisl-mon-einc3.500E+05_prodTa181_Lashuk_1994_41186.021
+#
+# Einc (eV)       :   3.5000E+05
+#
+# npts            : 2           
+# xmin            :   1.3700E+05
+# xmax            :   1.5300E+05
+# ymin            :   1.4500E-01
+# ymax            :   2.0300E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3700E+05  0.0000E+00  2.0300E-01  2.2000E-02
+  1.5300E+05  0.0000E+00  1.4500E-01  1.6000E-02
+#---------------------------------------------------

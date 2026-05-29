@@ -1,0 +1,25 @@
+# EXFOR #         : 40811.007  
+# EXFOR Ver.      : 20091126
+# TRANS #         : 4148
+# Author          : D.L.Broder et al.
+# Reference       : Theory and Method of Nucl.Reactor Design,Moscow 1962 page 254 (1962)
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe partial gamma production cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+# File ID         : n-Fe56-inl-sigg-excfun-mon-eoutl2.130E+06_prodFe56_Broder_1962_40811.007
+#
+# Eout,lab (eV)   :   2.1300E+06
+#
+# npts            : 2           
+# xmin            :   3.4500E+06
+# xmax            :   3.9500E+06
+# ymin            :   1.3000E-01
+# ymax            :   1.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4500E+06  0.0000E+00  1.4000E-01  0.0000E+00
+  3.9500E+06  0.0000E+00  1.3000E-01  0.0000E+00
+#---------------------------------------------------

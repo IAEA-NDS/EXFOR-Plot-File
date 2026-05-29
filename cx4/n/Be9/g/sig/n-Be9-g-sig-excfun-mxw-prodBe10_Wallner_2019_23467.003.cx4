@@ -1,0 +1,22 @@
+# EXFOR #         : 23467.003  
+# EXFOR Ver.      : 20190226
+# TRANS #         : 2279
+# Author          : A.Wallner et al.
+# Reference       : Phys.Rev.C 99 (2019) 015804
+# DOI             : 10.1103/PhysRevC.99.015804
+# Quantity        : 9Be(n,g)10Be cross section
+# REACTION        : 4-BE-9(N,G)4-BE-10,,SIG,,MXW
+# File ID         : n-Be9-g-sig-excfun-mxw-prodBe10_Wallner_2019_23467.003
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   1.0440E-05
+# ymax            :   1.0440E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  1.0440E-05  6.3000E-07
+#---------------------------------------------------

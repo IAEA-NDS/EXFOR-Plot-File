@@ -1,0 +1,30 @@
+# EXFOR #         : 20474.004  
+# EXFOR Ver.      : 19840120
+# TRANS #         : 0000
+# Author          : J.Lachkar et al.
+# Reference       : Nucl.Sci.Eng. 55 (1974) 168
+# DOI             : 10.13182/NSE74-A28205
+# Quantity        : 56Fe(n,inl)56Fe partial gamma angular differential cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,DA,G
+# File ID         : n-Fe56-inl-adxgl-angdisl-mon-einc2.500E+06_eoutl1.238E+06_prodFe56_Lachkar_1974_20474.004
+#
+# Einc (eV)       :   2.5000E+06
+# dEinc (eV)      :   1.0000E+05
+# Eout,lab (eV)   :   1.2383E+06
+#
+# npts            : 5           
+# xmin            :   55.0004500
+# xmax            :  129.9994000
+# ymin            :   9.2000E-03
+# ymax            :   1.1300E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 129.9994000   0.0000000  1.1300E-02  2.6000E-03
+ 109.9999000   0.0000000  1.0100E-02  2.4000E-03
+  90.0000000   0.0000000  9.2000E-03  2.3000E-03
+  70.0000000   0.0000000  9.5000E-03  2.4000E-03
+  55.0004500   0.0000000  1.0700E-02  2.2000E-03
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 40680.026  
+# EXFOR Ver.      : 20211203
+# TRANS #         : 4201
+# Author          : N.P.Glazkov
+# Reference       : At.En. 15 (1963) 416
+# DOI             : N/A
+# Quantity        : natZr(n,inl)natZr partial cross section
+# REACTION        : 40-ZR-0(N,INL)40-ZR-0,PAR,SIG
+# File ID         : n-Zr-inl-sig-excfun-mon-elvl9.300E+05_prodZr_Glazkov_1963_40680.026
+#
+# Elvl (eV)       :   9.3000E+05
+#
+# npts            : 1           
+# xmin            :   1.2000E+06
+# xmax            :   1.2000E+06
+# ymin            :   3.2000E-01
+# ymax            :   3.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+06  0.0000E+00  3.2000E-01  3.0000E-02
+#---------------------------------------------------

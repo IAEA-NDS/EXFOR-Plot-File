@@ -1,0 +1,22 @@
+# EXFOR #         : 41001.027  
+# EXFOR Ver.      : 20250805
+# TRANS #         : 4224
+# Author          : Yu.N.Trofimov
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 331
+# DOI             : N/A
+# Quantity        : 158Gd(n,g)159Gd cross section
+# REACTION        : 64-GD-158(N,G)64-GD-159,,SIG
+# File ID         : n-Gd158-g-sig-excfun-mon-prodGd159_Trofimov_1987_41001.027
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   5.8000E-02
+# ymax            :   5.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  5.8000E-02  6.0000E-03
+#---------------------------------------------------

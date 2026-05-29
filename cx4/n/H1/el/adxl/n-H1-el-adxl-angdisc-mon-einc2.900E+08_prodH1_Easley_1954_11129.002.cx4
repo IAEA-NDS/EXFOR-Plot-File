@@ -1,0 +1,27 @@
+# EXFOR #         : 11129.002  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : J.W.Easley
+# Reference       : Report UCRL-2693, 1954
+# DOI             : N/A
+# Quantity        : 1H(n,el)1H angular differential cross section
+# REACTION        : 1-H-1(N,EL)1-H-1,,DA
+# File ID         : n-H1-el-adxl-angdisc-mon-einc2.900E+08_prodH1_Easley_1954_11129.002
+#
+# Einc (eV)       :   2.9000E+08
+# dEinc (eV)      :   6.0000E+07
+#
+# npts            : 3           
+# xmin            :   10.5798400
+# xmax            :   37.8144800
+# ymin            :   3.6000E-03
+# ymax            :   5.6000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.5798400   0.0000000  5.6000E-03  1.1000E-02
+  21.7205300   0.0000000  4.3000E-03  9.0000E-03
+  37.8144800   0.0000000  3.6000E-03  7.0000E-03
+#---------------------------------------------------

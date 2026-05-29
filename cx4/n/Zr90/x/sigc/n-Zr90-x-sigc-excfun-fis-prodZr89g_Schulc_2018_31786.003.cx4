@@ -1,0 +1,22 @@
+# EXFOR #         : 31786.003  
+# EXFOR Ver.      : 20180304
+# TRANS #         : 3182
+# Author          : M.Schulc et al.
+# Reference       : Appl.Radiat.Isot. 132 (2018) 29
+# DOI             : 10.1016/j.apradiso.2017.11.008
+# Quantity        : 90Zr(n,2n)89gZr cumulative production cross section
+# REACTION        : 40-ZR-90(N,2N)40-ZR-89-G,M+,SIG,,FIS
+# File ID         : n-Zr90-x-sigc-excfun-fis-prodZr89g_Schulc_2018_31786.003
+#
+# npts            : 1           
+# xmin            :   1.4200E+06
+# xmax            :   1.4200E+06
+# ymin            :   2.1620E-04
+# ymax            :   2.1620E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+06  0.0000E+00  2.1620E-04  7.5670E-06
+#---------------------------------------------------

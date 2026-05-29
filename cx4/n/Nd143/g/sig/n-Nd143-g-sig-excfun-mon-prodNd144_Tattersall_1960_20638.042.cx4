@@ -1,0 +1,22 @@
+# EXFOR #         : 20638.042  
+# EXFOR Ver.      : 20060330
+# TRANS #         : 2177
+# Author          : R.B.Tattersall et al.
+# Reference       : J.Nucl.Energy A 12 (1960) 32
+# DOI             : 10.1016/0368-3265(60)90006-2
+# Quantity        : 143Nd(n,g)144Nd cross section
+# REACTION        : 60-ND-143(N,G)60-ND-144,,SIG
+# File ID         : n-Nd143-g-sig-excfun-mon-prodNd144_Tattersall_1960_20638.042
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.3600E+02
+# ymax            :   3.3600E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.3600E+02  1.0000E+01
+#---------------------------------------------------

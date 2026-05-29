@@ -1,0 +1,25 @@
+# EXFOR #         : 40139.006  
+# EXFOR Ver.      : 20200121
+# TRANS #         : 4186
+# Author          : D.L.Broder et al.
+# Reference       : At.En. 16 (1964) 103
+# DOI             : N/A
+# Quantity        : 58Ni(n,inl)58Ni partial gamma production cross section
+# REACTION        : 28-NI-58(N,INL)28-NI-58,PAR,SIG,G
+# File ID         : n-Ni58-inl-sigg-excfun-mon-eoutl1.800E+06_prodNi58_Broder_1964_40139.006
+#
+# Eout,lab (eV)   :   1.8000E+06
+#
+# npts            : 2           
+# xmin            :   3.7800E+06
+# xmax            :   4.0000E+06
+# ymin            :   6.0000E-02
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7800E+06  8.0000E+04  6.0000E-02  0.0000E+00
+  4.0000E+06  8.0000E+04  7.5000E-02  0.0000E+00
+#---------------------------------------------------

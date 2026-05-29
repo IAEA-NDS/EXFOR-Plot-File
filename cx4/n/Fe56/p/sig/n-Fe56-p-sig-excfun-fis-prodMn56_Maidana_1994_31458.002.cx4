@@ -1,0 +1,22 @@
+# EXFOR #         : 31458.002  
+# EXFOR Ver.      : 20100307
+# TRANS #         : 3144
+# Author          : N.L.Maidana et al.
+# Reference       : Radiochim.Acta 64 No.1 (1994) 7
+# DOI             : 10.1524/ract.1994.64.1.7
+# Quantity        : 56Fe(n,p)56Mn cross section
+# REACTION        : 26-FE-56(N,P)25-MN-56,,SIG,,FIS
+# File ID         : n-Fe56-p-sig-excfun-fis-prodMn56_Maidana_1994_31458.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.1420E-03
+# ymax            :   1.1420E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.1420E-03  3.5000E-05
+#---------------------------------------------------

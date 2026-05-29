@@ -1,0 +1,22 @@
+# EXFOR #         : 21003.005  
+# EXFOR Ver.      : 20150803
+# TRANS #         : 2243
+# Author          : W.Mannhart et al.
+# Reference       : Nucl.Sci.Eng. 69 (1979) 333
+# DOI             : 10.13182/NSE79-A20622
+# Quantity        : 197Au(n,g)198gAu cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198-G,,SIG,,FIS
+# File ID         : n-Au197-g-sig-excfun-fis-prodAu198g_Mannhart_1979_21003.005
+#
+# npts            : 1           
+# xmin            :   1.4200E+06
+# xmax            :   1.4200E+06
+# ymin            :   7.6200E-02
+# ymax            :   7.6200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+06  0.0000E+00  7.6200E-02  1.8000E-03
+#---------------------------------------------------

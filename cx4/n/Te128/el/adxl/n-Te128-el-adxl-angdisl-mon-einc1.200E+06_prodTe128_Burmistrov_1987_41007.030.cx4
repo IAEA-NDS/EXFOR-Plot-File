@@ -1,0 +1,29 @@
+# EXFOR #         : 41007.030  
+# EXFOR Ver.      : 20120420
+# TRANS #         : 4157
+# Author          : Yu.M.Burmistrov et al.
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 217
+# DOI             : N/A
+# Quantity        : 128Te(n,el)128Te angular differential cross section
+# REACTION        : 52-TE-128(N,EL)52-TE-128,,DA
+# File ID         : n-Te128-el-adxl-angdisl-mon-einc1.200E+06_prodTe128_Burmistrov_1987_41007.030
+#
+# Einc (eV)       :   1.2000E+06
+# dEinc (eV)      :   6.0000E+04
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  152.0000000
+# ymin            :   9.6000E-02
+# ymax            :   1.5840E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  1.5840E+00  1.1100E-01
+  60.0000000   0.0000000  5.7700E-01  4.0000E-02
+  90.0000000   0.0000000  1.8400E-01  1.3000E-02
+ 120.0000000   0.0000000  9.6000E-02  8.0000E-03
+ 152.0000000   0.0000000  3.0600E-01  2.1000E-02
+#---------------------------------------------------

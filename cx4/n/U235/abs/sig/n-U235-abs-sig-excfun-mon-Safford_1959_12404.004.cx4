@@ -1,0 +1,22 @@
+# EXFOR #         : 12404.004  
+# EXFOR Ver.      : 19800528
+# TRANS #         : 0000
+# Author          : G.J.Safford et al.
+# Reference       : Nucl.Sci.Eng. 6 (1959) 433
+# DOI             : 10.13182/NSE59-A25682
+# Quantity        : 235U(n,abs) cross section
+# REACTION        : 92-U-235(N,ABS),,SIG,,RTE
+# File ID         : n-U235-abs-sig-excfun-mon-Safford_1959_12404.004
+#
+# npts            : 1           
+# xmin            :   2.9100E-03
+# xmax            :   2.9100E-03
+# ymin            :   2.1326E+03
+# ymax            :   2.1326E+03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9100E-03  0.0000E+00  2.1326E+03  6.1174E+00
+#---------------------------------------------------

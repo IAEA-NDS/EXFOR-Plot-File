@@ -1,0 +1,23 @@
+# EXFOR #         : 10940.005  
+# EXFOR Ver.      : 19860529
+# TRANS #         : 0000
+# Author          : C.Zanelli et al.
+# Reference       : Phys.Rev.C 23 (1981) 1015
+# DOI             : 10.1103/PhysRevC.23.1015
+# Quantity        : natFe(n,non) cross section
+# REACTION        : 26-FE-0(N,NON),,SIG
+# File ID         : n-Fe-non-sig-excfun-mon-Zanelli_1981_10940.005
+#
+# npts            : 2           
+# xmin            :   4.0300E+07
+# xmax            :   5.0400E+07
+# ymin            :   8.9900E-01
+# ymax            :   9.0900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0300E+07  0.0000E+00  9.0900E-01  3.9000E-02
+  5.0400E+07  0.0000E+00  8.9900E-01  4.2000E-02
+#---------------------------------------------------

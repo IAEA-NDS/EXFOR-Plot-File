@@ -1,0 +1,25 @@
+# EXFOR #         : 20286.003  
+# EXFOR Ver.      : 20180123
+# TRANS #         : 2261
+# Author          : M.Hosoe et al.
+# Reference       : J.Phys.Soc.Jpn. 14 (1959) 699
+# DOI             : 10.1143/JPSJ.14.699
+# Quantity        : 24Mg(n,inl)24Mg partial gamma production cross section
+# REACTION        : 12-MG-24(N,INL)12-MG-24,PAR,SIG,G
+# File ID         : n-Mg24-inl-sigg-enedisl-mon-einc2.950E+06_prodMg24_Hosoe_1959_20286.003
+#
+# Einc (eV)       :   2.9500E+06
+# dEinc (eV)      :   5.0000E+04
+#
+# npts            : 1           
+# xmin            :   1.3700E+06
+# xmax            :   1.3700E+06
+# ymin            :   6.6000E-01
+# ymax            :   6.6000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3700E+06  0.0000E+00  6.6000E-01  1.0000E-01
+#---------------------------------------------------

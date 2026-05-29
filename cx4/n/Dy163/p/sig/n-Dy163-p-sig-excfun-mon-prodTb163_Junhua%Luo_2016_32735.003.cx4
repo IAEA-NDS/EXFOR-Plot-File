@@ -1,0 +1,23 @@
+# EXFOR #         : 32735.003  
+# EXFOR Ver.      : 20170511
+# TRANS #         : 3179
+# Author          : Junhua Luo et al.
+# Reference       : Radiat.Phys.Chem. 123 (2016) 109
+# DOI             : 10.1016/j.radphyschem.2016.02.027
+# Quantity        : 163Dy(n,p)163Tb cross section
+# REACTION        : 66-DY-163(N,P)65-TB-163,,SIG
+# File ID         : n-Dy163-p-sig-excfun-mon-prodTb163_Junhua%Luo_2016_32735.003
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.6000E-03
+# ymax            :   2.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  1.6000E-03  3.0000E-04
+  1.4800E+07  2.0000E+05  2.8000E-03  5.0000E-04
+#---------------------------------------------------

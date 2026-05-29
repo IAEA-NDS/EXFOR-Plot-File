@@ -1,0 +1,22 @@
+# EXFOR #         : 10192.004  
+# EXFOR Ver.      : 20010214
+# TRANS #         : 0000
+# Author          : R.H.Fulmer et al.
+# Reference       : Nucl.Sci.Eng. 46 (1971) 314
+# DOI             : 10.13182/NSE71-A22365
+# Quantity        : 96Zr(n,g)97Zr cross section
+# REACTION        : 40-ZR-96(N,G)40-ZR-97,,SIG,,MXW
+# File ID         : n-Zr96-g-sig-excfun-mxw-prodZr97_Fulmer_1971_10192.004
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.0000E-02  3.0000E-03
+#---------------------------------------------------

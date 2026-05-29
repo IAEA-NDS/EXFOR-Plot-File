@@ -1,0 +1,25 @@
+# EXFOR #         : 40802.004  
+# EXFOR Ver.      : 20230214
+# TRANS #         : 4212
+# Author          : B.A.Benetskii
+# Reference       : Studies in Neutron Reactions, New York 1966 page 99 (1966)
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe partial gamma production cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+# File ID         : n-Fe56-inl-sigg-enedisl-mon-einc1.400E+07_prodFe56_Benetskii_1966_40802.004
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 2           
+# xmin            :   8.4000E+05
+# xmax            :   1.2400E+06
+# ymin            :   2.7000E-01
+# ymax            :   6.6000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.4000E+05  0.0000E+00  6.6000E-01  8.0000E-02
+  1.2400E+06  0.0000E+00  2.7000E-01  1.0000E-02
+#---------------------------------------------------

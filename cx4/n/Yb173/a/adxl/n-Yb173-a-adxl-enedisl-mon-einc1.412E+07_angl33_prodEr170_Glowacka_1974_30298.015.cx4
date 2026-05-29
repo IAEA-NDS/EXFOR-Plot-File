@@ -1,0 +1,26 @@
+# EXFOR #         : 30298.015  
+# EXFOR Ver.      : 20191128
+# TRANS #         : 3195
+# Author          : L.Glowacka et al.
+# Reference       : Progress report INDC(SEC)-42 page 193, 1974
+# DOI             : N/A
+# Quantity        : 173Yb(n,a)170Er partial angular differential cross section
+# REACTION        : 70-YB-173(N,A)68-ER-170,PAR,DA
+# File ID         : n-Yb173-a-adxl-enedisl-mon-einc1.412E+07_angl33_prodEr170_Glowacka_1974_30298.015
+#
+# Einc (eV)       :   1.4120E+07
+# theta,lab (deg) :   33.0000000
+# dtheta,lab (deg):   45.0000000
+#
+# npts            : 1           
+# xmin            :   1.9210E+07
+# xmax            :   1.9210E+07
+# ymin            :   4.1700E-04
+# ymax            :   4.1700E-04
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.9210E+07  2.9700E+06  4.1700E-04  2.9000E-05
+#---------------------------------------------------

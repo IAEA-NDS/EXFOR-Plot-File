@@ -1,0 +1,28 @@
+# EXFOR #         : 41005.023  
+# EXFOR Ver.      : 20120418
+# TRANS #         : 4157
+# Author          : R.M.Musaelyan et al.
+# Reference       : Yad.Fiz. 50 (1989) 1531
+# DOI             : N/A
+# Quantity        : 116Cd(n,inl)116Cd angular differential cross section
+# REACTION        : 48-CD-116(N,INL)48-CD-116,,DA
+# File ID         : n-Cd116-inl-adxl-angdisl-mon-einc1.000E+06_prodCd116_Musaelyan_1989_41005.023
+#
+# Einc (eV)       :   1.0000E+06
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   8.5000E-02
+# ymax            :   9.8000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  9.0000E-02  9.0000E-03
+  60.0000000   0.0000000  9.8000E-02  1.0000E-02
+  90.0000000   0.0000000  8.5000E-02  9.0000E-03
+ 120.0000000   0.0000000  8.6000E-02  9.0000E-03
+ 150.0000000   0.0000000  8.7000E-02  9.0000E-03
+#---------------------------------------------------

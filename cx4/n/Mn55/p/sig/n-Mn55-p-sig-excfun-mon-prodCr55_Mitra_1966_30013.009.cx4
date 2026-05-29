@@ -1,0 +1,22 @@
+# EXFOR #         : 30013.009  
+# EXFOR Ver.      : 20070806
+# TRANS #         : 3123
+# Author          : B.Mitra et al.
+# Reference       : Nucl.Phys. 83 (1966) 157
+# DOI             : 10.1016/0029-5582(66)90346-4
+# Quantity        : 55Mn(n,p)55Cr cross section
+# REACTION        : 25-MN-55(N,P)24-CR-55,,SIG
+# File ID         : n-Mn55-p-sig-excfun-mon-prodCr55_Mitra_1966_30013.009
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   5.9500E-02
+# ymax            :   5.9500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  1.0000E+05  5.9500E-02  5.9000E-03
+#---------------------------------------------------

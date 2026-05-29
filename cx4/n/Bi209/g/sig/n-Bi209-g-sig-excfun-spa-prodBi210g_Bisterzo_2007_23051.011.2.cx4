@@ -1,0 +1,22 @@
+# EXFOR #         : 23051.011.2
+# EXFOR Ver.      : 20211109
+# TRANS #         : 2305
+# Author          : S.Bisterzo et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 2 page 1333
+# DOI             : N/A
+# Quantity        : 209Bi(n,g)210gBi cross section
+# REACTION        : 83-BI-209(N,G)83-BI-210-G,,SIG,,SPA
+# File ID         : n-Bi209-g-sig-excfun-spa-prodBi210g_Bisterzo_2007_23051.011.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   2.4100E-03
+# ymax            :   2.4100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  5.0000E+02  2.4100E-03  7.0000E-05
+#---------------------------------------------------

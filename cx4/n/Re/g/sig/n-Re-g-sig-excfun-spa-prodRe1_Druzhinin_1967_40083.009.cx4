@@ -1,0 +1,23 @@
+# EXFOR #         : 40083.009  
+# EXFOR Ver.      : 20260209
+# TRANS #         : 4226
+# Author          : A.A.Druzhinin et al.
+# Reference       : Sov.J.Nucl.Phys. 5 (1967) 13
+# DOI             : N/A
+# Quantity        : natRe(n,g) cross section
+# REACTION        : 75-RE-0(N,G),,SIG,,SPA
+# File ID         : n-Re-g-sig-excfun-spa-prodRe1_Druzhinin_1967_40083.009
+#
+# npts            : 2           
+# xmin            :   6.0000E+05
+# xmax            :   8.0000E+05
+# ymin            :   2.7000E-01
+# ymax            :   3.3000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+05  0.0000E+00  3.3000E-01  4.0000E-02
+  8.0000E+05  0.0000E+00  2.7000E-01  3.0000E-02
+#---------------------------------------------------

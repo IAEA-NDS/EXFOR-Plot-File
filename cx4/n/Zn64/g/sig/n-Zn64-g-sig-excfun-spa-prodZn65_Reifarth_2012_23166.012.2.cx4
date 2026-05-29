@@ -1,0 +1,22 @@
+# EXFOR #         : 23166.012.2
+# EXFOR Ver.      : 20211119
+# TRANS #         : 2305
+# Author          : R.Reifarth et al.
+# Reference       : Phys.Rev.C 85 (2012) 035802
+# DOI             : 10.1103/PhysRevC.85.035802
+# Quantity        : 64Zn(n,g)65Zn cross section
+# REACTION        : 30-ZN-64(N,G)30-ZN-65,,SIG,,SPA
+# File ID         : n-Zn64-g-sig-excfun-spa-prodZn65_Reifarth_2012_23166.012.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   5.6800E-02
+# ymax            :   5.6800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  5.6800E-02  1.5000E-03
+#---------------------------------------------------

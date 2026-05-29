@@ -1,0 +1,28 @@
+# EXFOR #         : 40131.013  
+# EXFOR Ver.      : 20150109
+# TRANS #         : 4172
+# Author          : A.T.Bakov et al.
+# Reference       : Sov.At.Energy 29 (1970) 1080
+# DOI             : 10.1007/BF01666690
+# Quantity        : 209Bi(n,inl)209Bi partial gamma angular differential cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,DA,G,4PI/FIS
+# File ID         : n-Bi209-inl-adxgl-enedisl-fis-einc1.000E+06_angl90_prodBi209_Bakov_1970_40131.013
+#
+# Einc (eV)       :   1.0000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 4           
+# xmin            :   7.0000E+05
+# xmax            :   2.6200E+06
+# ymin            :   2.0690E-02
+# ymax            :   4.9338E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.0000E+05  0.0000E+00  2.0690E-02  6.2070E-03
+  9.0000E+05  0.0000E+00  3.8993E-02  3.5094E-03
+  1.6200E+06  0.0000E+00  4.9338E-02  4.4404E-03
+  2.6200E+06  0.0000E+00  3.6606E-02  9.8835E-03
+#---------------------------------------------------

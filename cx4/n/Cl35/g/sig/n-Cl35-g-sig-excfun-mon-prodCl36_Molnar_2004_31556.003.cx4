@@ -1,0 +1,22 @@
+# EXFOR #         : 31556.003  
+# EXFOR Ver.      : 20111026
+# TRANS #         : 3153
+# Author          : G.L.Molnar et al.
+# Reference       : Nucl.Instrum.Meth.B 213 (2004) 32
+# DOI             : 10.1016/S0168-583X(03)01529-5
+# Quantity        : 35Cl(n,g)36Cl cross section
+# REACTION        : 17-CL-35(N,G)17-CL-36,,SIG,,A
+# File ID         : n-Cl35-g-sig-excfun-mon-prodCl36_Molnar_2004_31556.003
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   4.3456E-01
+# ymax            :   4.3456E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  4.3456E-01  1.8470E-03
+#---------------------------------------------------

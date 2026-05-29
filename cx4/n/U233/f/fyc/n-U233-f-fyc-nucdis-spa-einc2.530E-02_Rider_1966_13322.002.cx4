@@ -1,0 +1,29 @@
+# EXFOR #         : 13322.002  
+# EXFOR Ver.      : 20161205
+# TRANS #         : 1425
+# Author          : B.F.Rider et al.
+# Reference       : Progress report GEAP-5270 page 2, 1966
+# DOI             : N/A
+# Quantity        : 233U(n,f) cumulative fission product yield
+# REACTION        : 92-U-233(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U233-f-fyc-nucdis-spa-einc2.530E-02_Rider_1966_13322.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 6           
+# xmin            : 60143.9     
+# xmax            : 60150.9     
+# ymin            :   4.8400E-03
+# ymax            :   5.9780E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     60143.9  5.9780E-02  1.4400E-03
+     60144.9  4.6160E-02  1.1300E-03
+     60145.9  3.3930E-02  8.0000E-04
+     60146.9  2.5160E-02  6.1000E-04
+     60148.9  1.2990E-02  3.1000E-04
+     60150.9  4.8400E-03  1.1500E-04
+#---------------------------------------------------

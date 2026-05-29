@@ -1,0 +1,23 @@
+# EXFOR #         : 21653.010  
+# EXFOR Ver.      : 20060605
+# TRANS #         : 2180
+# Author          : L.Koester et al.
+# Reference       : Z.Phys.A 296 No.1 (1980) 43
+# DOI             : 10.1007/BF01415613
+# Quantity        : 75As(n,tot) cross section
+# REACTION        : 33-AS-75(N,TOT),,SIG
+# File ID         : n-As75-tot-sig-excfun-mon-Koester_1980_21653.010
+#
+# npts            : 2           
+# xmin            :   1.2600E+00
+# xmax            :   5.1900E+00
+# ymin            :   5.7300E+00
+# ymax            :   5.9900E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+00  0.0000E+00  5.9900E+00  3.0000E-02
+  5.1900E+00  0.0000E+00  5.7300E+00  5.0000E-02
+#---------------------------------------------------

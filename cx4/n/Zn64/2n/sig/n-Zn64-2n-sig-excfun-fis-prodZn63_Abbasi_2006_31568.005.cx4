@@ -1,0 +1,22 @@
+# EXFOR #         : 31568.005  
+# EXFOR Ver.      : 20220126
+# TRANS #         : 3207
+# Author          : I.A.Abbasi et al.
+# Reference       : Radiochim.Acta 94 (2006) 63
+# DOI             : 10.1524/ract.2006.94.2.63
+# Quantity        : 64Zn(n,2n)63Zn cross section
+# REACTION        : 30-ZN-64(N,2N)30-ZN-63,,SIG,,FIS
+# File ID         : n-Zn64-2n-sig-excfun-fis-prodZn63_Abbasi_2006_31568.005
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   5.1000E-05
+# ymax            :   5.1000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  5.1000E-05  9.0000E-06
+#---------------------------------------------------

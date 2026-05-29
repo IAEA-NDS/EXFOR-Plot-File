@@ -1,0 +1,22 @@
+# EXFOR #         : 33132.002  
+# EXFOR Ver.      : 20191114
+# TRANS #         : 3193
+# Author          : R.Pachuau et al.
+# Reference       : Nucl.Phys.A 992 (2019) 121613
+# DOI             : 10.1016/j.nuclphysa.2019.121613
+# Quantity        : 69Ga(n,p)69mZn cross section
+# REACTION        : 31-GA-69(N,P)30-ZN-69-M,,SIG
+# File ID         : n-Ga69-p-sig-excfun-mon-prodZn69m_Pachuau_2019_33132.002
+#
+# npts            : 1           
+# xmin            :   1.4900E+07
+# xmax            :   1.4900E+07
+# ymin            :   2.2930E-02
+# ymax            :   2.2930E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4900E+07  1.0000E+04  2.2930E-02  1.4240E-03
+#---------------------------------------------------

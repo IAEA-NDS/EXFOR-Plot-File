@@ -1,0 +1,22 @@
+# EXFOR #         : 22148.007  
+# EXFOR Ver.      : 19910124
+# TRANS #         : 0000
+# Author          : T.B.Ryves et al.
+# Reference       : Ann.Nucl.Energy 17 (1990) 107
+# DOI             : 10.1016/0306-4549(90)90014-5
+# Quantity        : 209Bi(n,p)209Pb cross section
+# REACTION        : 83-BI-209(N,P)82-PB-209,,SIG
+# File ID         : n-Bi209-p-sig-excfun-mon-prodPb209_Ryves_1990_22148.007
+#
+# npts            : 1           
+# xmin            :   1.4300E+07
+# xmax            :   1.4300E+07
+# ymin            :   1.2100E-03
+# ymax            :   1.2100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4300E+07  1.0000E+05  1.2100E-03  1.2463E-04
+#---------------------------------------------------

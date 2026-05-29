@@ -1,0 +1,23 @@
+# EXFOR #         : 41461.003  
+# EXFOR Ver.      : 20100910
+# TRANS #         : 4150
+# Author          : G.N.Smirenkin et al.
+# Reference       : Yad.Fiz. 59 No.11 (1996) 1934
+# DOI             : N/A
+# Quantity        : 238U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-238(N,F),PR,NU
+# File ID         : n-U238-f-nup-excfun-mon-Smirenkin_1996_41461.003
+#
+# npts            : 2           
+# xmin            :   1.6000E+07
+# xmax            :   1.7700E+07
+# ymin            :   4.5800E+00
+# ymax            :   4.6300E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.6000E+07  0.0000E+00  4.5800E+00  1.4000E-01
+  1.7700E+07  0.0000E+00  4.6300E+00  1.4000E-01
+#---------------------------------------------------

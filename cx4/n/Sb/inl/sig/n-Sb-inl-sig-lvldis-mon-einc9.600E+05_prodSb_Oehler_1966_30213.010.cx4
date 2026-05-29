@@ -1,0 +1,25 @@
+# EXFOR #         : 30213.010  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : H.Oehler et al.
+# Reference       : Kernenergie 9 (1966) 95
+# DOI             : N/A
+# Quantity        : natSb(n,inl)natSb partial cross section
+# REACTION        : 51-SB-0(N,INL)51-SB-0,PAR,SIG
+# File ID         : n-Sb-inl-sig-lvldis-mon-einc9.600E+05_prodSb_Oehler_1966_30213.010
+#
+# Einc (eV)       :   9.6000E+05
+# dEinc (eV)      :   4.0000E+04
+#
+# npts            : 1           
+# xmin            :   1.6000E+05
+# xmax            :   1.6000E+05
+# ymin            :   3.6000E-01
+# ymax            :   3.6000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+05  0.0000E+00  3.6000E-01  6.0000E-02
+#---------------------------------------------------

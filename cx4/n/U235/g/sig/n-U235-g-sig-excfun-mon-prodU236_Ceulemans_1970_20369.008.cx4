@@ -1,0 +1,22 @@
+# EXFOR #         : 20369.008  
+# EXFOR Ver.      : 20051110
+# TRANS #         : 2174
+# Author          : H.Ceulemans et al.
+# Reference       : Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 1 page 461
+# DOI             : N/A
+# Quantity        : 235U(n,g)236U cross section
+# REACTION        : 92-U-235(N,G)92-U-236,,SIG
+# File ID         : n-U235-g-sig-excfun-mon-prodU236_Ceulemans_1970_20369.008
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   9.8700E+01
+# ymax            :   9.8700E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  9.8700E+01  4.5000E+00
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 20846.007  
+# EXFOR Ver.      : 20120718
+# TRANS #         : 2232
+# Author          : S.Shirato et al.
+# Reference       : Progress report NEANDC(J)-56 page 54, 1978
+# DOI             : N/A
+# Quantity        : 9Be(n,t)7Li partial angular differential cross section
+# REACTION        : 4-BE-9(N,T)3-LI-7,PAR,DA
+# File ID         : n-Be9-t-adxc-angdisc-mon-einc1.410E+07_elvl4.780E+05_prodLi7_Shirato_1978_20846.007
+#
+# Einc (eV)       :   1.4100E+07
+# Elvl (eV)       :   4.7800E+05
+#
+# npts            : 2           
+# xmin            :    9.8000000
+# xmax            :   75.5000000
+# ymin            :   5.5000E-04
+# ymax            :   9.5000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.8000000   0.0000000  9.5000E-04  8.0000E-05
+  75.5000000   0.0000000  5.5000E-04  1.3000E-04
+#---------------------------------------------------

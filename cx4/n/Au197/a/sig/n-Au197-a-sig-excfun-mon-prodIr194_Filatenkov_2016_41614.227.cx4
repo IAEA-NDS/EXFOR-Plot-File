@@ -1,0 +1,24 @@
+# EXFOR #         : 41614.227  
+# EXFOR Ver.      : 20160512
+# TRANS #         : 4174
+# Author          : A.A.Filatenkov
+# Reference       : Report INDC(CCP)-0460, 2016
+# DOI             : N/A
+# Quantity        : 197Au(n,a)194Ir cross section
+# REACTION        : 79-AU-197(N,A)77-IR-194,,SIG
+# File ID         : n-Au197-a-sig-excfun-mon-prodIr194_Filatenkov_2016_41614.227
+#
+# npts            : 3           
+# xmin            :   1.3640E+07
+# xmax            :   1.4820E+07
+# ymin            :   2.2000E-04
+# ymax            :   5.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3640E+07  0.0000E+00  2.2000E-04  5.8960E-05
+  1.4280E+07  0.0000E+00  3.7000E-04  9.9160E-05
+  1.4820E+07  0.0000E+00  5.6000E-04  1.5008E-04
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : 41152.002  
+# EXFOR Ver.      : 20110505
+# TRANS #         : 4152
+# Author          : A.A.Goverdovskiy et al.
+# Reference       : Report FEI-2242, 1992
+# DOI             : N/A
+# Quantity        : 36Ar(n,a)33S partial cross section
+# REACTION        : 18-AR-36(N,A)16-S-33,PAR,SIG
+# File ID         : n-Ar36-a-sig-lvldis-mon-einc5.120E+06_prodS33_Goverdovskiy_1992_41152.002
+#
+# Einc (eV)       :   5.1200E+06
+# dEinc (eV)      :   1.2000E+05
+#
+# npts            : 3           
+# xmin            :   0.0000E+00
+# xmax            :   1.9700E+06
+# ymin            :   3.5500E-02
+# ymax            :   9.3700E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  9.3700E-02  2.0000E-03
+  8.4000E+05  0.0000E+00  3.5500E-02  1.4000E-03
+  1.9700E+06  0.0000E+00  4.3700E-02  2.1000E-03
+#---------------------------------------------------

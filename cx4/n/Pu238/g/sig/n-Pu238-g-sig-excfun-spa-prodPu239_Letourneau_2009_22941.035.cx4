@@ -1,0 +1,22 @@
+# EXFOR #         : 22941.035  
+# EXFOR Ver.      : 20160910
+# TRANS #         : 2254
+# Author          : A.Letourneau et al.
+# Reference       : Proceedings of Workshop Nucl.Data Meas., Theo.&Appl., Budapest,2009 page 81
+# DOI             : N/A
+# Quantity        : 238Pu(n,g)239Pu cross section
+# REACTION        : 94-PU-238(N,G)94-PU-239,,SIG,,SPA
+# File ID         : n-Pu238-g-sig-excfun-spa-prodPu239_Letourneau_2009_22941.035
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   4.1100E+02
+# ymax            :   4.1100E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  4.1100E+02  2.0000E+01
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 21563.002  
+# EXFOR Ver.      : 20180810
+# TRANS #         : 2269
+# Author          : M.Lucas et al.
+# Reference       : Proceedings of Meeting on Natural Fission Reactors,Paris 1977 1 page 407
+# DOI             : N/A
+# Quantity        : 143Nd(n,g)144Nd cross section
+# REACTION        : 60-ND-143(N,G)60-ND-144,,SIG
+# File ID         : n-Nd143-g-sig-excfun-mon-prodNd144_Lucas_1977_21563.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.3500E+02
+# ymax            :   3.3500E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.3500E+02  0.0000E+00
+#---------------------------------------------------

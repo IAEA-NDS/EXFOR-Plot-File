@@ -1,0 +1,22 @@
+# EXFOR #         : 22808.011  
+# EXFOR Ver.      : 20210929
+# TRANS #         : 2304
+# Author          : H.Beer et al.
+# Reference       : Nucl.Phys.A 705 (2002) 239
+# DOI             : 10.1016/S0375-9474(02)00645-0
+# Quantity        : 78Kr(n,g)79Kr cross section
+# REACTION        : 36-KR-78(N,G)36-KR-79,,SIG,,MXW
+# File ID         : n-Kr78-g-sig-excfun-mxw-prodKr79_Beer_2002_22808.011
+#
+# npts            : 1           
+# xmin            :   5.2000E+04
+# xmax            :   5.2000E+04
+# ymin            :   2.2600E-01
+# ymax            :   2.2600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2000E+04  0.0000E+00  2.2600E-01  2.5000E-02
+#---------------------------------------------------

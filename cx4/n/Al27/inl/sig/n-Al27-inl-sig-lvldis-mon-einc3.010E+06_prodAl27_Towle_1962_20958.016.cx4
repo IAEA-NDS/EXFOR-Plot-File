@@ -1,0 +1,25 @@
+# EXFOR #         : 20958.016  
+# EXFOR Ver.      : 20120811
+# TRANS #         : 2232
+# Author          : J.H.Towle et al.
+# Reference       : Nucl.Phys. 39 (1962) 300
+# DOI             : 10.1016/0029-5582(62)90394-2
+# Quantity        : 27Al(n,inl)27Al partial cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,SIG
+# File ID         : n-Al27-inl-sig-lvldis-mon-einc3.010E+06_prodAl27_Towle_1962_20958.016
+#
+# Einc (eV)       :   3.0100E+06
+# dEinc (eV)      :   6.0000E+04
+#
+# npts            : 1           
+# xmin            :   2.2100E+06
+# xmax            :   2.2100E+06
+# ymin            :   2.0000E-01
+# ymax            :   2.0000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2100E+06  0.0000E+00  2.0000E-01  6.0000E-03
+#---------------------------------------------------

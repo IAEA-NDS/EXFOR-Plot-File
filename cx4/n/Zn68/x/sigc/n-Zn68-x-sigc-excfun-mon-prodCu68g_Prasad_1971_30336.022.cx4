@@ -1,0 +1,22 @@
+# EXFOR #         : 30336.022  
+# EXFOR Ver.      : 20090115
+# TRANS #         : 3134
+# Author          : R.Prasad et al.
+# Reference       : Nuovo Cim.A 3 (1971) 467
+# DOI             : 10.1007/BF02823319
+# Quantity        : 68Zn(n,p)68gCu cumulative production cross section
+# REACTION        : 30-ZN-68(N,P)29-CU-68-G,(M),SIG
+# File ID         : n-Zn68-x-sigc-excfun-mon-prodCu68g_Prasad_1971_30336.022
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.4000E-02
+# ymax            :   1.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  5.0000E+05  1.4000E-02  2.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 12634.043  
+# EXFOR Ver.      : 20260219
+# TRANS #         : 1527
+# Author          : J.R.Dunning et al.
+# Reference       : Phys.Rev. 48 (1935) 265
+# DOI             : 10.1103/PhysRev.48.265
+# Quantity        : natSn(n,tot) cross section
+# REACTION        : 50-SN-0(N,TOT),,SIG,,SPA
+# File ID         : n-Sn-tot-sig-excfun-spa-Dunning_1935_12634.043
+#
+# npts            : 2           
+# xmin            :   2.5000E-02
+# xmax            :   5.0000E+06
+# ymin            :   4.0000E+00
+# ymax            :   4.3000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  0.0000E+00  4.0000E+00  0.0000E+00
+  5.0000E+06  0.0000E+00  4.3000E+00  0.0000E+00
+#---------------------------------------------------

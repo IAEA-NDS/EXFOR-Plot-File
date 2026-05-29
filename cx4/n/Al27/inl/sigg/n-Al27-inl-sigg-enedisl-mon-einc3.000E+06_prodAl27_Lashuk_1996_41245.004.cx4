@@ -1,0 +1,26 @@
+# EXFOR #         : 41245.004  
+# EXFOR Ver.      : 20241224
+# TRANS #         : 4221
+# Author          : A.I.Lashuk
+# Reference       : Yad.Reak.Konst.  No.2 (1996) 59
+# DOI             : N/A
+# Quantity        : 27Al(n,inl)27Al partial gamma production cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,SIG,G
+# File ID         : n-Al27-inl-sigg-enedisl-mon-einc3.000E+06_prodAl27_Lashuk_1996_41245.004
+#
+# Einc (eV)       :   3.0000E+06
+#
+# npts            : 3           
+# xmin            :   8.4000E+05
+# xmax            :   2.1200E+06
+# ymin            :   7.9000E-02
+# ymax            :   2.4600E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.4000E+05  0.0000E+00  7.9000E-02  1.0000E-02
+  1.0000E+06  0.0000E+00  2.4600E-01  3.5000E-02
+  2.1200E+06  0.0000E+00  2.4300E-01  3.0000E-02
+#---------------------------------------------------

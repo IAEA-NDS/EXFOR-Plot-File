@@ -1,0 +1,23 @@
+# EXFOR #         : 23287.013  
+# EXFOR Ver.      : 20160302
+# TRANS #         : 2247
+# Author          : K.Ninomiya et al.
+# Reference       : Proc.Radiochim. 1 (2011) 123
+# DOI             : N/A
+# Quantity        : natSi(n,x)24Na independent production cross section
+# REACTION        : 14-SI-0(N,X)11-NA-24,,SIG
+# File ID         : n-Si-x-sig-excfun-mon-prodNa24_Ninomiya_2011_23287.013
+#
+# npts            : 2           
+# xmin            :   2.8700E+08
+# xmax            :   3.7000E+08
+# ymin            :   6.1000E-03
+# ymax            :   7.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8700E+08  5.0000E+06  6.1000E-03  2.0000E-03
+  3.7000E+08  6.5000E+06  7.5000E-03  2.4000E-03
+#---------------------------------------------------

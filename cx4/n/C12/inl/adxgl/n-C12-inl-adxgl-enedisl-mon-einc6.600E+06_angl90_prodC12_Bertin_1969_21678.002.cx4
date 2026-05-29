@@ -1,0 +1,25 @@
+# EXFOR #         : 21678.002  
+# EXFOR Ver.      : 19810611
+# TRANS #         : 0000
+# Author          : A.Bertin et al.
+# Reference       : Report CEA-R-3808 page , 1969
+# DOI             : N/A
+# Quantity        : 12C(n,inl)12C partial gamma angular differential cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,DA,G
+# File ID         : n-C12-inl-adxgl-enedisl-mon-einc6.600E+06_angl90_prodC12_Bertin_1969_21678.002
+#
+# Einc (eV)       :   6.6000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   4.4300E+06
+# xmax            :   4.4300E+06
+# ymin            :   1.7500E-02
+# ymax            :   1.7500E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.4300E+06  0.0000E+00  1.7500E-02  4.5000E-03
+#---------------------------------------------------

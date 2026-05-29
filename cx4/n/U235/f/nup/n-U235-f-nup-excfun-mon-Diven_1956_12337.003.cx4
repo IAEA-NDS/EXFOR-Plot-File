@@ -1,0 +1,22 @@
+# EXFOR #         : 12337.003  
+# EXFOR Ver.      : 20170824
+# TRANS #         : 1433
+# Author          : B.C.Diven et al.
+# Reference       : Phys.Rev. 101 (1956) 1012
+# DOI             : 10.1103/PhysRev.101.1012
+# Quantity        : 235U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-235(N,F),PR,NU
+# File ID         : n-U235-f-nup-excfun-mon-Diven_1956_12337.003
+#
+# npts            : 1           
+# xmin            :   8.0000E+04
+# xmax            :   8.0000E+04
+# ymin            :   2.4700E+00
+# ymax            :   2.4700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  8.0000E+04  0.0000E+00  2.4700E+00  3.0000E-02
+#---------------------------------------------------

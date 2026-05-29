@@ -1,0 +1,22 @@
+# EXFOR #         : 40504.008.1
+# EXFOR Ver.      : 20110920
+# TRANS #         : 4154
+# Author          : Yu.P.Gangrskiy et al.
+# Reference       : Proceedings of 3.All Union Conf.on Neutron Phys.,Kiev,9-13 Jun 1975 5 page 245
+# DOI             : N/A
+# Quantity        : 241Am(n,2n)240lAm cross section
+# REACTION        : 95-AM-241(N,2N)95-AM-240-L,,SIG
+# File ID         : n-Am241-2n-sig-excfun-mon-prodAm240l_Gangrskiy_1975_40504.008.1
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.0000E-04
+# ymax            :   2.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  0.0000E+00  2.0000E-04  5.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 10854.005  
+# EXFOR Ver.      : 20250601
+# TRANS #         : 1520
+# Author          : P.W.Lisowski et al.
+# Reference       : Report LA-8342, 1980
+# DOI             : N/A
+# Quantity        : 6Li(n,inl)6Li partial cross section
+# REACTION        : 3-LI-6(N,INL)3-LI-6,PAR,SIG
+# File ID         : n-Li6-inl-sig-lvldis-mon-einc9.830E+06_prodLi6_Lisowski_1980_10854.005
+#
+# Einc (eV)       :   9.8300E+06
+#
+# npts            : 2           
+# xmin            :   2.1800E+06
+# xmax            :   4.3100E+06
+# ymin            :   6.1000E-02
+# ymax            :   1.2100E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1800E+06  0.0000E+00  1.2100E-01  1.5000E-02
+  4.3100E+06  0.0000E+00  6.1000E-02  3.0000E-02
+#---------------------------------------------------

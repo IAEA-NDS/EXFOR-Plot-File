@@ -1,0 +1,22 @@
+# EXFOR #         : 22140.027  
+# EXFOR Ver.      : 20160113
+# TRANS #         : 2246
+# Author          : O.Horibe et al.
+# Reference       : Proceedings of 50 Years Nucl.Fission Conf., Washington D.C., 1989 2 page 923
+# DOI             : N/A
+# Quantity        : 42Ca(n,p)42K cross section
+# REACTION        : 20-CA-42(N,P)19-K-42,,SIG,,FIS
+# File ID         : n-Ca42-p-sig-excfun-fis-prodK42_Horibe_1989_22140.027
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.9200E-03
+# ymax            :   2.9200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.9200E-03  2.2000E-04
+#---------------------------------------------------

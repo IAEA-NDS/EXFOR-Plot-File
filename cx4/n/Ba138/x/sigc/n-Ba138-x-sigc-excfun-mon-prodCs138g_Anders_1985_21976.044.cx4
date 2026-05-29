@@ -1,0 +1,22 @@
+# EXFOR #         : 21976.044  
+# EXFOR Ver.      : 20150804
+# TRANS #         : 2245
+# Author          : B.Anders et al.
+# Reference       : Report GKSS-85-E-24, 1985
+# DOI             : N/A
+# Quantity        : 138Ba(n,p)138gCs cumulative production cross section
+# REACTION        : 56-BA-138(N,P)55-CS-138-G,M+,SIG
+# File ID         : n-Ba138-x-sigc-excfun-mon-prodCs138g_Anders_1985_21976.044
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.1000E-03
+# ymax            :   2.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  3.0000E+05  2.1000E-03  2.0000E-04
+#---------------------------------------------------

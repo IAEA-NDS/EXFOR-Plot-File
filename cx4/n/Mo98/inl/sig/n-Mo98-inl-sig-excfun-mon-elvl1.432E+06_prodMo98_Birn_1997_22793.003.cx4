@@ -1,0 +1,28 @@
+# EXFOR #         : 22793.003  
+# EXFOR Ver.      : 20130916
+# TRANS #         : 2236
+# Author          : I.-G.Birn et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 526
+# DOI             : N/A
+# Quantity        : 98Mo(n,inl)98Mo partial cross section
+# REACTION        : 42-MO-98(N,INL)42-MO-98,PAR,SIG,,AV
+# File ID         : n-Mo98-inl-sig-excfun-mon-elvl1.432E+06_prodMo98_Birn_1997_22793.003
+#
+# Elvl (eV)       :   1.4320E+06
+#
+# npts            : 5           
+# xmin            :   1.4500E+06
+# xmax            :   2.1000E+06
+# ymin            :   3.8000E-02
+# ymax            :   3.8900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+06  5.0000E+04  3.8000E-02  1.1000E-02
+  1.5500E+06  5.0000E+04  1.6100E-01  3.2000E-02
+  1.7000E+06  1.0000E+05  3.2600E-01  3.7000E-02
+  1.9000E+06  1.0000E+05  3.6300E-01  4.7000E-02
+  2.1000E+06  1.0000E+05  3.8900E-01  4.5000E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 30570.002  
+# EXFOR Ver.      : 20090506
+# TRANS #         : 3137
+# Author          : P.Kozma et al.
+# Reference       : Proceedings of 2.Symp.on Neutron Induced Reactions,Smolenice 1979 6 page 113
+# DOI             : N/A
+# Quantity        : 28Si(n,a)25Mg partial cross section
+# REACTION        : 14-SI-28(N,A)12-MG-25,PAR,SIG
+# File ID         : n-Si28-a-sig-lvldis-mon-einc1.470E+07_prodMg25_Kozma_1979_30570.002
+#
+# Einc (eV)       :   1.4700E+07
+# dEinc (eV)      :   1.4000E+05
+#
+# npts            : 1           
+# xmin            :   0.0000E+00
+# xmax            :   0.0000E+00
+# ymin            :   1.3200E-02
+# ymax            :   1.3200E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.3200E-02  1.3200E-03
+#---------------------------------------------------

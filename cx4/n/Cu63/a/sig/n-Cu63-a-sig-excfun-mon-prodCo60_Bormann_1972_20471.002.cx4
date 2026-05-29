@@ -1,0 +1,22 @@
+# EXFOR #         : 20471.002  
+# EXFOR Ver.      : 19791206
+# TRANS #         : 0000
+# Author          : M.Bormann et al.
+# Reference       : Nucl.Phys.A 186 (1972) 65
+# DOI             : 10.1016/0375-9474(72)90125-X
+# Quantity        : 63Cu(n,a)60Co cross section
+# REACTION        : 29-CU-63(N,A)27-CO-60,,SIG
+# File ID         : n-Cu63-a-sig-excfun-mon-prodCo60_Bormann_1972_20471.002
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   2.6100E-02
+# ymax            :   2.6100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  0.0000E+00  2.6100E-02  5.0000E-03
+#---------------------------------------------------

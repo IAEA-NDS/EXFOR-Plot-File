@@ -1,0 +1,27 @@
+# EXFOR #         : 33123.002.2
+# EXFOR Ver.      : 20190820
+# TRANS #         : 3190
+# Author          : A.V.R.Reddy et al.
+# Reference       : Progress report BARC-1381 page 25, 1987
+# DOI             : N/A
+# Quantity        : 241Pu(n,f) independent fission product yield
+# REACTION        : 94-PU-241(N,F)ELEM/MASS,IND,FY,,SPA
+# File ID         : n-Pu241-f-fyi-nucdis-spa-einc2.530E-02_Reddy_1987_33123.002.2
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 4           
+# xmin            : 53131.9     
+# xmax            : 53134.9     
+# ymin            :   2.1000E-05
+# ymax            :   1.5920E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     53131.9  2.1000E-05  0.0000E+00
+     53132.9  6.1700E-04  6.5000E-05
+     53133.9  6.7400E-04  7.1700E-04
+     53134.9  1.5920E-02  1.4300E-03
+#---------------------------------------------------

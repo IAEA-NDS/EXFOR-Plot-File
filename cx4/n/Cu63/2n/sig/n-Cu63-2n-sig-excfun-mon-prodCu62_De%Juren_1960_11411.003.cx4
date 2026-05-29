@@ -1,0 +1,22 @@
+# EXFOR #         : 11411.003  
+# EXFOR Ver.      : 19820813
+# TRANS #         : 0000
+# Author          : J.A.De Juren et al.
+# Reference       : Phys.Rev. 120 (1960) 901
+# DOI             : 10.1103/PhysRev.120.901
+# Quantity        : 63Cu(n,2n)62Cu cross section
+# REACTION        : 29-CU-63(N,2N)29-CU-62,,SIG
+# File ID         : n-Cu63-2n-sig-excfun-mon-prodCu62_De%Juren_1960_11411.003
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   5.3000E-01
+# ymax            :   5.3000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  0.0000E+00  5.3000E-01  2.6500E-02
+#---------------------------------------------------

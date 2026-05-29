@@ -1,0 +1,23 @@
+# EXFOR #         : 11329.019  
+# EXFOR Ver.      : 20120416
+# TRANS #         : 1380
+# Author          : J.H.Gibbons et al.
+# Reference       : Phys.Rev. 122 (1961) 182
+# DOI             : 10.1103/PhysRev.122.182
+# Quantity        : natSr(n,g) cross section
+# REACTION        : 38-SR-0(N,G),,SIG
+# File ID         : n-Sr-g-sig-excfun-mon-prodSr1_Gibbons_1961_11329.019
+#
+# npts            : 2           
+# xmin            :   3.0000E+04
+# xmax            :   6.5000E+04
+# ymin            :   2.4000E-02
+# ymax            :   1.5500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  7.0000E+03  1.5500E-01  1.5500E-02
+  6.5000E+04  2.0000E+04  2.4000E-02  2.4000E-03
+#---------------------------------------------------

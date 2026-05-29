@@ -1,0 +1,22 @@
+# EXFOR #         : 13079.002  
+# EXFOR Ver.      : 20200821
+# TRANS #         : 1473
+# Author          : R.R.Rickard et al.
+# Reference       : Nucl.Sci.Eng. 23 (1965) 115
+# DOI             : 10.13182/NSE65-A28135
+# Quantity        : 241Am(n,f)140Ba cumulative fission product yield
+# REACTION        : 95-AM-241(N,F)56-BA-140,CUM,FY,,MXW
+# File ID         : n-Am241-f-fyc-excfun-mxw-prodBa140_Rickard_1965_13079.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   5.2000E-02
+# ymax            :   5.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  5.2000E-02  1.0000E-03
+#---------------------------------------------------

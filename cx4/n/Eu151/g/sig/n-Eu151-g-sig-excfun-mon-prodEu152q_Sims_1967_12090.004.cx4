@@ -1,0 +1,22 @@
+# EXFOR #         : 12090.004  
+# EXFOR Ver.      : 20160608
+# TRANS #         : 1418
+# Author          : G.H.E.Sims et al.
+# Reference       : J.Inorg.Nucl.Chem. 29 (1967) 2671
+# DOI             : 10.1016/0022-1902(67)80004-6
+# Quantity        : 151Eu(n,g)152g+m2Eu cross section
+# REACTION        : 63-EU-151(N,G)63-EU-152-G+M2,,SIG
+# File ID         : n-Eu151-g-sig-excfun-mon-prodEu152q_Sims_1967_12090.004
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   4.4100E+03
+# ymax            :   4.4100E+03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  4.4100E+03  6.6000E+01
+#---------------------------------------------------

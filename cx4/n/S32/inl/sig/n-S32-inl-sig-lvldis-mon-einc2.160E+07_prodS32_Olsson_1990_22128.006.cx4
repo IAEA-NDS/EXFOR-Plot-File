@@ -1,0 +1,25 @@
+# EXFOR #         : 22128.006  
+# EXFOR Ver.      : 20101119
+# TRANS #         : 2225
+# Author          : N.Olsson et al.
+# Reference       : Nucl.Phys.A 513 (1990) 205
+# DOI             : 10.1016/0375-9474(90)90096-5
+# Quantity        : 32S(n,inl)32S partial cross section
+# REACTION        : 16-S-32(N,INL)16-S-32,PAR,SIG
+# File ID         : n-S32-inl-sig-lvldis-mon-einc2.160E+07_prodS32_Olsson_1990_22128.006
+#
+# Einc (eV)       :   2.1600E+07
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   2.2300E+06
+# xmax            :   2.2300E+06
+# ymin            :   4.6630E-02
+# ymax            :   4.6630E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2300E+06  0.0000E+00  4.6630E-02  1.5900E-03
+#---------------------------------------------------

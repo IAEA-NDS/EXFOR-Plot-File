@@ -1,0 +1,23 @@
+# EXFOR #         : 20625.022  
+# EXFOR Ver.      : 20180710
+# TRANS #         : 2269
+# Author          : E.M.Gryntakis et al.
+# Reference       : Thesis  (1976)
+# DOI             : N/A
+# Quantity        : 150Nd(n,g)151Nd cross section
+# REACTION        : 60-ND-150(N,G)60-ND-151,,SIG
+# File ID         : n-Nd150-g-sig-excfun-mon-prodNd151_Gryntakis_1976_20625.022
+#
+# npts            : 2           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   9.5000E-01
+# ymax            :   1.1700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.1700E+00  7.0000E-02
+  2.5300E-02  0.0000E+00  9.5000E-01  2.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 12132.002  
+# EXFOR Ver.      : 19821012
+# TRANS #         : 0000
+# Author          : R.D.Macfarlane et al.
+# Reference       : Phys.Rev. 127 (1962) 1665
+# DOI             : 10.1103/PhysRev.127.1665
+# Quantity        : 149Sm(n,a)146Nd partial cross section
+# REACTION        : 62-SM-149(N,A)60-ND-146,PAR,SIG,,MXW
+# File ID         : n-Sm149-a-sig-lvldis-mxw-einc2.530E-02_prodNd146_Macfarlane_1962_12132.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 1           
+# xmin            :   4.7640E+05
+# xmax            :   4.7640E+05
+# ymin            :   1.2100E-01
+# ymax            :   1.2100E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.7640E+05  0.0000E+00  1.2100E-01  1.5000E-02
+#---------------------------------------------------

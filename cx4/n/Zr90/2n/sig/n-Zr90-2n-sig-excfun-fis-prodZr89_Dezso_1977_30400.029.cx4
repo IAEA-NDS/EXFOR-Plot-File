@@ -1,0 +1,22 @@
+# EXFOR #         : 30400.029  
+# EXFOR Ver.      : 20090309
+# TRANS #         : 3135
+# Author          : Z.Dezso et al.
+# Reference       : Proceedings of 4.All Union Conf.on Neutron Phys.,Kiev,18-22 Apr 1977 3 page 32
+# DOI             : N/A
+# Quantity        : 90Zr(n,2n)89Zr cross section
+# REACTION        : 40-ZR-90(N,2N)40-ZR-89,,SIG,,FIS
+# File ID         : n-Zr90-2n-sig-excfun-fis-prodZr89_Dezso_1977_30400.029
+#
+# npts            : 1           
+# xmin            :   1.4100E+06
+# xmax            :   1.4100E+06
+# ymin            :   2.6700E-04
+# ymax            :   2.6700E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+06  0.0000E+00  2.6700E-04  1.5000E-05
+#---------------------------------------------------

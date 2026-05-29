@@ -1,0 +1,22 @@
+# EXFOR #         : 20530.002  
+# EXFOR Ver.      : 20120710
+# TRANS #         : 2232
+# Author          : F.Rigaud et al.
+# Reference       : Nucl.Phys.A 154 (1970) 243
+# DOI             : 10.1016/0375-9474(70)90153-3
+# Quantity        : 28Si(n,g)29Si cross section
+# REACTION        : 14-SI-28(N,G)14-SI-29,,SIG
+# File ID         : n-Si28-g-sig-excfun-mon-prodSi29_Rigaud_1970_20530.002
+#
+# npts            : 1           
+# xmin            :   1.4060E+07
+# xmax            :   1.4060E+07
+# ymin            :   6.4000E-04
+# ymax            :   6.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4060E+07  1.0000E+04  6.4000E-04  1.6500E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 20799.005  
+# EXFOR Ver.      : 20151212
+# TRANS #         : 2246
+# Author          : J.C.Robertson et al.
+# Reference       : J.Nucl.Energy 27 (1973) 531
+# DOI             : 10.1016/0022-3107(73)90084-1
+# Quantity        : 27Al(n,p)27Mg cross section
+# REACTION        : 13-AL-27(N,P)12-MG-27,,SIG
+# File ID         : n-Al27-p-sig-excfun-mon-prodMg27_Robertson_1973_20799.005
+#
+# npts            : 1           
+# xmin            :   1.4780E+07
+# xmax            :   1.4780E+07
+# ymin            :   6.8000E-02
+# ymax            :   6.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4780E+07  1.0000E+05  6.8000E-02  1.5000E-03
+#---------------------------------------------------

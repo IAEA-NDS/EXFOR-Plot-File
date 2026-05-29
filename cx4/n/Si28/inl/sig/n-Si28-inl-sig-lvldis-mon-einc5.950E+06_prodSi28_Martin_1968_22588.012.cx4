@@ -1,0 +1,25 @@
+# EXFOR #         : 22588.012  
+# EXFOR Ver.      : 20041117
+# TRANS #         : 0000
+# Author          : J.Martin et al.
+# Reference       : Nucl.Phys.A 113 (1968) 564
+# DOI             : 10.1016/0375-9474(68)90165-6
+# Quantity        : 28Si(n,inl)28Si partial cross section
+# REACTION        : 14-SI-28(N,INL)14-SI-28,PAR,SIG
+# File ID         : n-Si28-inl-sig-lvldis-mon-einc5.950E+06_prodSi28_Martin_1968_22588.012
+#
+# Einc (eV)       :   5.9500E+06
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   1.7800E+06
+# xmax            :   1.7800E+06
+# ymin            :   5.7800E-01
+# ymax            :   5.7800E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7800E+06  0.0000E+00  5.7800E-01  2.5000E-02
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 30298.007  
+# EXFOR Ver.      : 20191128
+# TRANS #         : 3195
+# Author          : L.Glowacka et al.
+# Reference       : Progress report INDC(SEC)-42 page 193, 1974
+# DOI             : N/A
+# Quantity        : 151Eu(n,a)148Pm partial angular differential cross section
+# REACTION        : 63-EU-151(N,A)61-PM-148,PAR,DA
+# File ID         : n-Eu151-a-adxl-enedisl-mon-einc1.419E+07_angl32_prodPm148_Glowacka_1974_30298.007
+#
+# Einc (eV)       :   1.4190E+07
+# theta,lab (deg) :   32.0000000
+# dtheta,lab (deg):   45.0000000
+#
+# npts            : 1           
+# xmin            :   1.8850E+07
+# xmax            :   1.8850E+07
+# ymin            :   9.2800E-04
+# ymax            :   9.2800E-04
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.8850E+07  3.3700E+06  9.2800E-04  2.9000E-05
+#---------------------------------------------------

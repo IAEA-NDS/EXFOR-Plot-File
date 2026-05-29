@@ -1,0 +1,23 @@
+# EXFOR #         : 31601.004  
+# EXFOR Ver.      : 20070727
+# TRANS #         : 3123
+# Author          : S.A.Jonah et al.
+# Reference       : Appl.Radiat.Isot. 66 (2008) 1377
+# DOI             : 10.1016/j.apradiso.2008.04.001
+# Quantity        : 28Si(n,p)28Al cross section
+# REACTION        : 14-SI-28(N,P)13-AL-28,,SIG,,FIS
+# File ID         : n-Si28-p-sig-excfun-fis-prodAl28_Jonah_2008_31601.004
+#
+# npts            : 2           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   6.8300E-03
+# ymax            :   6.8500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  6.8300E-03  2.2000E-04
+  1.5000E+06  0.0000E+00  6.8500E-03  2.1000E-04
+#---------------------------------------------------

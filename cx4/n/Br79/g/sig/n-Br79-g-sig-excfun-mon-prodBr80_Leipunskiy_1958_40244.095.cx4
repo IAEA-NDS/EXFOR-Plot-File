@@ -1,0 +1,23 @@
+# EXFOR #         : 40244.095  
+# EXFOR Ver.      : 20191120
+# TRANS #         : 4185
+# Author          : A.I.Leipunskiy et al.
+# Reference       : Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 50
+# DOI             : N/A
+# Quantity        : 79Br(n,g)80Br cross section
+# REACTION        : 35-BR-79(N,G)35-BR-80,,SIG
+# File ID         : n-Br79-g-sig-excfun-mon-prodBr80_Leipunskiy_1958_40244.095
+#
+# npts            : 2           
+# xmin            :   2.7000E+06
+# xmax            :   4.0000E+06
+# ymin            :   1.1700E-02
+# ymax            :   2.6400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7000E+06  0.0000E+00  2.6400E-02  5.0000E-04
+  4.0000E+06  0.0000E+00  1.1700E-02  3.0000E-04
+#---------------------------------------------------

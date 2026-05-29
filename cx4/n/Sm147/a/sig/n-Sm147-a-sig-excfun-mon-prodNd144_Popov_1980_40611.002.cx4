@@ -1,0 +1,22 @@
+# EXFOR #         : 40611.002  
+# EXFOR Ver.      : 20180213
+# TRANS #         : 4178
+# Author          : Yu.P.Popov et al.
+# Reference       : Yad.Fiz. 32 (1980) 893
+# DOI             : N/A
+# Quantity        : 147Sm(n,a)144Nd cross section
+# REACTION        : 62-SM-147(N,A)60-ND-144,,SIG,,AV
+# File ID         : n-Sm147-a-sig-excfun-mon-prodNd144_Popov_1980_40611.002
+#
+# npts            : 1           
+# xmin            :   3.5000E+04
+# xmax            :   3.5000E+04
+# ymin            :   2.8000E-05
+# ymax            :   2.8000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+04  1.5000E+04  2.8000E-05  5.0000E-06
+#---------------------------------------------------

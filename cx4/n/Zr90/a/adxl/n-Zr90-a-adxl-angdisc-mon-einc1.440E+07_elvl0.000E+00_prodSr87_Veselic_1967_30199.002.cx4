@@ -1,0 +1,25 @@
+# EXFOR #         : 30199.002  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : X.Veselic
+# Reference       : Private communication  (1967)
+# DOI             : N/A
+# Quantity        : 90Zr(n,a)87Sr partial angular differential cross section
+# REACTION        : 40-ZR-90(N,A)38-SR-87,PAR,DA
+# File ID         : n-Zr90-a-adxl-angdisc-mon-einc1.440E+07_elvl0.000E+00_prodSr87_Veselic_1967_30199.002
+#
+# Einc (eV)       :   1.4400E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   3.1000E-04
+# ymax            :   3.1000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  3.1000E-04  6.0000E-05
+#---------------------------------------------------

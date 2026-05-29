@@ -1,0 +1,22 @@
+# EXFOR #         : 33056.003  
+# EXFOR Ver.      : 20150121
+# TRANS #         : 3171
+# Author          : V.K.Mulik et al.
+# Reference       : Ann.Nucl.Energy 63 (2014) 233
+# DOI             : 10.1016/j.anucene.2013.07.042
+# Quantity        : 238U(n,2n)237U cross section
+# REACTION        : 92-U-238(N,2N)92-U-237,,SIG
+# File ID         : n-U238-2n-sig-excfun-mon-prodU237_Mulik_2014_33056.003
+#
+# npts            : 1           
+# xmin            :   1.5500E+07
+# xmax            :   1.5500E+07
+# ymin            :   5.3400E-01
+# ymax            :   5.3400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5500E+07  7.0000E+05  5.3400E-01  7.6000E-02
+#---------------------------------------------------

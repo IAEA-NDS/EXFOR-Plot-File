@@ -1,0 +1,22 @@
+# EXFOR #         : 13057.002.2
+# EXFOR Ver.      : 19890518
+# TRANS #         : 0000
+# Author          : J.G.Bayly et al.
+# Reference       : Can.J.Phys. 39 (1961) 1391
+# DOI             : 10.1139/p61-165
+# Quantity        : 239Pu(n,f)135Xe cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)54-XE-135,CUM,FY,,SPA
+# File ID         : n-Pu239-f-fyc-excfun-spa-prodXe135_Bayly_1961_13057.002.2
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   7.4300E-02
+# ymax            :   7.4300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.4300E-02  2.0061E-03
+#---------------------------------------------------

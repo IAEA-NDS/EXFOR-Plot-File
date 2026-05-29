@@ -1,0 +1,22 @@
+# EXFOR #         : 12547.002  
+# EXFOR Ver.      : 20220204
+# TRANS #         : 1496
+# Author          : H.H.Barschall et al.
+# Reference       : Phys.Rev. 58 (1940) 590
+# DOI             : 10.1103/PhysRev.58.590
+# Quantity        : natHe(n,el)natHe cross section
+# REACTION        : 2-HE-0(N,EL)2-HE-0,,SIG
+# File ID         : n-He-el-sig-excfun-mon-prodHe_Barschall_1940_12547.002
+#
+# npts            : 1           
+# xmin            :   2.5000E+06
+# xmax            :   2.5000E+06
+# ymin            :   1.5000E+00
+# ymax            :   1.5000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  0.0000E+00  1.5000E+00  3.0000E-01
+#---------------------------------------------------

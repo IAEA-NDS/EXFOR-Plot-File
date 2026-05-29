@@ -1,0 +1,23 @@
+# EXFOR #         : 32727.003  
+# EXFOR Ver.      : 20161004
+# TRANS #         : 3176
+# Author          : Junhua Luo et al.
+# Reference       : Ann.Nucl.Energy 57 (2013) 41
+# DOI             : 10.1016/j.anucene.2013.01.050
+# Quantity        : 170Yb(n,2n)169Yb cross section
+# REACTION        : 70-YB-170(N,2N)70-YB-169,,SIG
+# File ID         : n-Yb170-2n-sig-excfun-mon-prodYb169_Junhua%Luo_2013_32727.003
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   2.0250E+00
+# ymax            :   2.1380E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  2.0250E+00  9.2000E-02
+  1.4800E+07  2.0000E+05  2.1380E+00  1.0000E-01
+#---------------------------------------------------

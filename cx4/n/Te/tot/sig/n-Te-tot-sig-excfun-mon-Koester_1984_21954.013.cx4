@@ -1,0 +1,23 @@
+# EXFOR #         : 21954.013  
+# EXFOR Ver.      : 19850423
+# TRANS #         : 0000
+# Author          : L.Koester et al.
+# Reference       : Progress report NEANDC(E)-252U Vol.(5) page 46, 1984
+# DOI             : N/A
+# Quantity        : natTe(n,tot) cross section
+# REACTION        : 52-TE-0(N,TOT),,SIG
+# File ID         : n-Te-tot-sig-excfun-mon-Koester_1984_21954.013
+#
+# npts            : 2           
+# xmin            :   1.2600E+00
+# xmax            :   5.2000E+00
+# ymin            :   4.6500E+00
+# ymax            :   6.6800E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+00  0.0000E+00  6.6800E+00  0.0000E+00
+  5.2000E+00  0.0000E+00  4.6500E+00  0.0000E+00
+#---------------------------------------------------

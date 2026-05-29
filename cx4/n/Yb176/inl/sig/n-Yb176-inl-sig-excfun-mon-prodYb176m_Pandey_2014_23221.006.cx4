@@ -1,0 +1,22 @@
+# EXFOR #         : 23221.006  
+# EXFOR Ver.      : 20140219
+# TRANS #         : 2239
+# Author          : B.Pandey et al.
+# Reference       : Appl.Radiat.Isot. 85 (2014) 128
+# DOI             : 10.1016/j.apradiso.2013.11.114
+# Quantity        : 176Yb(n,inl)176mYb cross section
+# REACTION        : 70-YB-176(N,INL)70-YB-176-M,,SIG
+# File ID         : n-Yb176-inl-sig-excfun-mon-prodYb176m_Pandey_2014_23221.006
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   1.8500E-02
+# ymax            :   1.8500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  3.0000E+05  1.8500E-02  1.2000E-03
+#---------------------------------------------------

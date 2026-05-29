@@ -1,0 +1,23 @@
+# EXFOR #         : 22113.014  
+# EXFOR Ver.      : 19891211
+# TRANS #         : 0000
+# Author          : G.Boerker et al.
+# Reference       : Proceedings of Conf.on Nucl.Data For Sci.and Technol.,Mito 1988 page 193
+# DOI             : N/A
+# Quantity        : 28Si(n,el)28Si cross section
+# REACTION        : 14-SI-28(N,EL)14-SI-28,,SIG
+# File ID         : n-Si28-el-sig-excfun-mon-prodSi28_Boerker_1988_22113.014
+#
+# npts            : 2           
+# xmin            :   1.0163E+07
+# xmax            :   1.0163E+07
+# ymin            :   7.2340E-01
+# ymax            :   7.2480E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0163E+07  4.9000E+04  7.2340E-01  1.7600E-02
+  1.0163E+07  4.9000E+04  7.2480E-01  1.8600E-02
+#---------------------------------------------------

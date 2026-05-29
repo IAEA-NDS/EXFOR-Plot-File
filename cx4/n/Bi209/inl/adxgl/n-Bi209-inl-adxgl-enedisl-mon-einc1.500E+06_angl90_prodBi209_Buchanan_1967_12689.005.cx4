@@ -1,0 +1,26 @@
+# EXFOR #         : 12689.005  
+# EXFOR Ver.      : 20140419
+# TRANS #         : 1401
+# Author          : P.S.Buchanan et al.
+# Reference       : Bull.Am.Phys.Soc. 12 (1967) 921(Y5)
+# DOI             : N/A
+# Quantity        : 209Bi(n,inl)209Bi partial gamma angular differential cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,DA,G
+# File ID         : n-Bi209-inl-adxgl-enedisl-mon-einc1.500E+06_angl90_prodBi209_Buchanan_1967_12689.005
+#
+# Einc (eV)       :   1.5000E+06
+# dEinc (eV)      :   4.0000E+04
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   8.9400E+05
+# xmax            :   8.9400E+05
+# ymin            :   1.0800E-02
+# ymax            :   1.0800E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.9400E+05  0.0000E+00  1.0800E-02  2.1600E-03
+#---------------------------------------------------

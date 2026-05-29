@@ -1,0 +1,23 @@
+# EXFOR #         : 11261.018  
+# EXFOR Ver.      : 19860909
+# TRANS #         : 0000
+# Author          : C.T.Hibdon et al.
+# Reference       : Phys.Rev. 76 (1949) 100
+# DOI             : 10.1103/PhysRev.76.100
+# Quantity        : natCu(n,tot) cross section
+# REACTION        : 29-CU-0(N,TOT),,SIG
+# File ID         : n-Cu-tot-sig-excfun-mon-Hibdon_1949_11261.018
+#
+# npts            : 2           
+# xmin            :   1.2000E+02
+# xmax            :   3.4500E+02
+# ymin            :   6.6800E+00
+# ymax            :   6.8800E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+02  0.0000E+00  6.6800E+00  0.0000E+00
+  3.4500E+02  0.0000E+00  6.8800E+00  0.0000E+00
+#---------------------------------------------------

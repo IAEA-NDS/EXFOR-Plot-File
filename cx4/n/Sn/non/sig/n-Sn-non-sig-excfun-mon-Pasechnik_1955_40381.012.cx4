@@ -1,0 +1,24 @@
+# EXFOR #         : 40381.012  
+# EXFOR Ver.      : 20220322
+# TRANS #         : 4207
+# Author          : M.V.Pasechnik
+# Reference       : Proceedings of 1st UN Conf.Peaceful Uses Atomic Energy, Geneva 1955 2 page 3
+# DOI             : N/A
+# Quantity        : natSn(n,non) cross section
+# REACTION        : 50-SN-0(N,NON),,SIG
+# File ID         : n-Sn-non-sig-excfun-mon-Pasechnik_1955_40381.012
+#
+# npts            : 3           
+# xmin            :   2.5000E+06
+# xmax            :   4.1000E+06
+# ymin            :   1.6500E+00
+# ymax            :   2.1100E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  0.0000E+00  1.6500E+00  3.0000E-01
+  3.3000E+06  0.0000E+00  1.7300E+00  1.5000E-01
+  4.1000E+06  0.0000E+00  2.1100E+00  3.0000E-01
+#---------------------------------------------------

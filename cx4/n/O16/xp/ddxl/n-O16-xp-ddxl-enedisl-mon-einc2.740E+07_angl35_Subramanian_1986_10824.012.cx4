@@ -1,0 +1,30 @@
+# EXFOR #         : 10824.012  
+# EXFOR Ver.      : 19851119
+# TRANS #         : 0000
+# Author          : T.S.Subramanian et al.
+# Reference       : Phys.Rev.C 34 (1986) 1580
+# DOI             : 10.1103/PhysRevC.34.1580
+# Quantity        : 16O(n,p+x) double differential cross section
+# REACTION        : 8-O-16(N,X)1-H-1,,DA/DE
+# File ID         : n-O16-xp-ddxl-enedisl-mon-einc2.740E+07_angl35_Subramanian_1986_10824.012
+#
+# Einc (eV)       :   2.7400E+07
+# theta,lab (deg) :   35.0000000
+# dtheta,lab (deg):    3.0000000
+#
+# npts            : 5           
+# xmin            :   4.9000E+06
+# xmax            :   1.2900E+07
+# ymin            :   3.5000E-10
+# ymax            :   1.6800E-09
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  4.9000E+06  0.0000E+00  1.2800E-09  2.8000E-10
+  6.9000E+06  0.0000E+00  5.5000E-10  2.4000E-10
+  8.9000E+06  0.0000E+00  1.1300E-09  3.8000E-10
+  1.0900E+07  0.0000E+00  1.6800E-09  3.7000E-10
+  1.2900E+07  0.0000E+00  3.5000E-10  5.1000E-10
+#---------------------------------------------------

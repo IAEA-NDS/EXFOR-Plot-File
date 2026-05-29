@@ -1,0 +1,22 @@
+# EXFOR #         : 31497.027  
+# EXFOR Ver.      : 19990209
+# TRANS #         : 0000
+# Author          : Xiangzhong Kong et al.
+# Reference       : Appl.Radiat.Isot. 49 No.12 (1998) 1529
+# DOI             : 10.1016/S0969-8043(98)00018-9
+# Quantity        : 169Tm(n,a)166gHo cross section
+# REACTION        : 69-TM-169(N,A)67-HO-166-G,,SIG
+# File ID         : n-Tm169-a-sig-excfun-mon-prodHo166g_Xiangzhong%Kong_1998_31497.027
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   1.7000E-03
+# ymax            :   1.7000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  2.0000E+05  1.7000E-03  2.0000E-04
+#---------------------------------------------------

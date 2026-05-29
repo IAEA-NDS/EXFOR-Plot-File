@@ -1,0 +1,24 @@
+# EXFOR #         : 10234.007  
+# EXFOR Ver.      : 20010309
+# TRANS #         : 0000
+# Author          : S.Pearlstein et al.
+# Reference       : J.Nucl.Energy A/B 19 (1965) 497
+# DOI             : 10.1016/0368-3230(65)90129-1
+# Quantity        : natW(n,el)natW angular differential cross section
+# REACTION        : 74-W-0(N,EL)74-W-0,,DA,,AV
+# File ID         : n-W-el-adxl-angdisl-mon-einc1.400E+07_prodW_Pearlstein_1965_10234.007
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   2.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  2.0000E-02  2.0000E-03
+#---------------------------------------------------

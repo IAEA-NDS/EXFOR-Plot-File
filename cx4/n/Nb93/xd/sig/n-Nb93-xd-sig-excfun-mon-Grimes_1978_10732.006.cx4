@@ -1,0 +1,22 @@
+# EXFOR #         : 10732.006  
+# EXFOR Ver.      : 20090911
+# TRANS #         : 1355
+# Author          : S.M.Grimes et al.
+# Reference       : Phys.Rev.C 17 (1978) 508
+# DOI             : 10.1103/PhysRevC.17.508
+# Quantity        : 93Nb(n,d+x) cross section
+# REACTION        : 41-NB-93(N,X)1-H-2,,SIG
+# File ID         : n-Nb93-xd-sig-excfun-mon-Grimes_1978_10732.006
+#
+# npts            : 1           
+# xmin            :   1.5000E+07
+# xmax            :   1.5000E+07
+# ymin            :   8.0000E-03
+# ymax            :   8.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  0.0000E+00  8.0000E-03  3.0000E-03
+#---------------------------------------------------

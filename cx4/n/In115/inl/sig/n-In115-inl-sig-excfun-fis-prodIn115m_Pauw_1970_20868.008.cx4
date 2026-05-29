@@ -1,0 +1,23 @@
+# EXFOR #         : 20868.008  
+# EXFOR Ver.      : 20150721
+# TRANS #         : 2243
+# Author          : H.Pauw
+# Reference       : Report INDC(NED)-3, 1970
+# DOI             : N/A
+# Quantity        : 115In(n,inl)115mIn cross section
+# REACTION        : 49-IN-115(N,INL)49-IN-115-M,,SIG,,FIS
+# File ID         : n-In115-inl-sig-excfun-fis-prodIn115m_Pauw_1970_20868.008
+#
+# npts            : 2           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.2900E-01
+# ymax            :   2.5200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.2900E-01  2.8000E-02
+  1.5000E+06  0.0000E+00  2.5200E-01  1.9000E-02
+#---------------------------------------------------

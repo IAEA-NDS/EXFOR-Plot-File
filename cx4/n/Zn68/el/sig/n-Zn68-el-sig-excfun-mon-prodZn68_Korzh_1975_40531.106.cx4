@@ -1,0 +1,25 @@
+# EXFOR #         : 40531.106  
+# EXFOR Ver.      : 20211230
+# TRANS #         : 4203
+# Author          : I.A.Korzh et al.
+# Reference       : Proceedings of 3.All Union Conf.on Neutron Phys.,Kiev,9-13 Jun 1975 4 page 220
+# DOI             : N/A
+# Quantity        : 68Zn(n,el)68Zn cross section
+# REACTION        : 30-ZN-68(N,EL)30-ZN-68,,SIG
+# File ID         : n-Zn68-el-sig-excfun-mon-prodZn68_Korzh_1975_40531.106
+#
+# npts            : 4           
+# xmin            :   1.5000E+06
+# xmax            :   3.0000E+06
+# ymin            :   1.8970E+00
+# ymax            :   2.4120E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  5.0000E+04  2.3490E+00  2.6700E-01
+  2.0000E+06  5.0000E+04  2.4120E+00  1.8100E-01
+  2.5000E+06  5.0000E+04  1.8970E+00  1.9200E-01
+  3.0000E+06  5.0000E+04  1.8970E+00  1.3300E-01
+#---------------------------------------------------

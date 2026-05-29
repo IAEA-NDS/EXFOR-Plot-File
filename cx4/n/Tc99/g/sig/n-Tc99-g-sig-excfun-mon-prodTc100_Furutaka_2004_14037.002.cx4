@@ -1,0 +1,22 @@
+# EXFOR #         : 14037.002  
+# EXFOR Ver.      : 20050914
+# TRANS #         : 1337
+# Author          : K.Furutaka et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Santa Fe 2004 2 page 1454
+# DOI             : N/A
+# Quantity        : 99Tc(n,g)100Tc cross section
+# REACTION        : 43-TC-99(N,G)43-TC-100,,SIG
+# File ID         : n-Tc99-g-sig-excfun-mon-prodTc100_Furutaka_2004_14037.002
+#
+# npts            : 1           
+# xmin            :   2.5000E-02
+# xmax            :   2.5000E-02
+# ymin            :   2.2800E+01
+# ymax            :   2.2800E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  0.0000E+00  2.2800E+01  1.8000E+00
+#---------------------------------------------------

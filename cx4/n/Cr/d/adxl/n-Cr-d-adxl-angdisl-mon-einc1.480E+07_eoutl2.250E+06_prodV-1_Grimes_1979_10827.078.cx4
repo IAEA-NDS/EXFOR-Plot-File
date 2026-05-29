@@ -1,0 +1,28 @@
+# EXFOR #         : 10827.078  
+# EXFOR Ver.      : 20110731
+# TRANS #         : 1374
+# Author          : S.M.Grimes et al.
+# Reference       : Phys.Rev.C 19 (1979) 2127
+# DOI             : 10.1103/PhysRevC.19.2127
+# Quantity        : natCr(n,d) partial angular differential cross section
+# REACTION        : 24-CR-0(N,D),PAR,DA,,AV
+# File ID         : n-Cr-d-adxl-angdisl-mon-einc1.480E+07_eoutl2.250E+06_prodV-1_Grimes_1979_10827.078
+#
+# Einc (eV)       :   1.4800E+07
+# Eout,lab (eV)   :   2.2500E+06
+# dEout,lab (eV)  :   2.5000E+05
+#
+# npts            : 3           
+# xmin            :   45.0000000
+# xmax            :  135.0000000
+# ymin            :   2.5000E-05
+# ymax            :   3.6000E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  45.0000000   0.0000000  3.5000E-05  2.0000E-05
+  90.0000000   0.0000000  2.5000E-05  1.5000E-05
+ 135.0000000   0.0000000  3.6000E-05  2.0000E-05
+#---------------------------------------------------

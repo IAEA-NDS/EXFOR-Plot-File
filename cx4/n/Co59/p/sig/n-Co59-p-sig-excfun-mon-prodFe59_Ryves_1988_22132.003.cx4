@@ -1,0 +1,22 @@
+# EXFOR #         : 22132.003  
+# EXFOR Ver.      : 20140104
+# TRANS #         : 2238
+# Author          : T.B.Ryves et al.
+# Reference       : Ann.Nucl.Energy 15 (1988) 561
+# DOI             : 10.1016/0306-4549(88)90060-6
+# Quantity        : 59Co(n,p)59Fe cross section
+# REACTION        : 27-CO-59(N,P)26-FE-59,,SIG
+# File ID         : n-Co59-p-sig-excfun-mon-prodFe59_Ryves_1988_22132.003
+#
+# npts            : 1           
+# xmin            :   1.4300E+07
+# xmax            :   1.4300E+07
+# ymin            :   5.1900E-02
+# ymax            :   5.1900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4300E+07  0.0000E+00  5.1900E-02  1.1000E-03
+#---------------------------------------------------

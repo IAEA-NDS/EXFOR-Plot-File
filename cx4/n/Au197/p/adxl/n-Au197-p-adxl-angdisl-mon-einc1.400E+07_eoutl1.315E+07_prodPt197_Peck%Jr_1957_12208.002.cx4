@@ -1,0 +1,30 @@
+# EXFOR #         : 12208.002  
+# EXFOR Ver.      : 20080624
+# TRANS #         : 1349
+# Author          : R.A.Peck Jr
+# Reference       : Phys.Rev. 106 (1957) 965
+# DOI             : 10.1103/PhysRev.106.965
+# Quantity        : 197Au(n,p)197Pt partial angular differential cross section
+# REACTION        : 79-AU-197(N,P)78-PT-197,PAR,DA,,AV
+# File ID         : n-Au197-p-adxl-angdisl-mon-einc1.400E+07_eoutl1.315E+07_prodPt197_Peck%Jr_1957_12208.002
+#
+# Einc (eV)       :   1.4000E+07
+# Eout,lab (eV)   :   1.3150E+07
+# dEout,lab (eV)  :   5.5000E+05
+#
+# npts            : 5           
+# xmin            :   12.4989400
+# xmax            :   32.5417100
+# ymin            :   4.0000E-04
+# ymax            :   1.2800E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  32.5417100   2.5000000  4.0000E-04  3.0000E-04
+  27.5013400   2.5000000  1.1000E-03  5.0000E-04
+  22.4969300   2.5000000  6.0000E-03  8.0000E-04
+  17.5032200   2.5000000  6.8000E-03  1.2000E-03
+  12.4989400   2.5000000  1.2800E-02  1.8000E-03
+#---------------------------------------------------

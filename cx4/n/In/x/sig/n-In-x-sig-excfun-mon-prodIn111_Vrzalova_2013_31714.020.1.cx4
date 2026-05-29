@@ -1,0 +1,23 @@
+# EXFOR #         : 31714.020.1
+# EXFOR Ver.      : 20130717
+# TRANS #         : 3162
+# Author          : J.Vrzalova et al.
+# Reference       : Nucl.Instrum.Meth.A 726 (2013) 84
+# DOI             : 10.1016/j.nima.2013.05.133
+# Quantity        : natIn(n,x)111In independent production cross section
+# REACTION        : 49-IN-0(N,X)49-IN-111,,SIG
+# File ID         : n-In-x-sig-excfun-mon-prodIn111_Vrzalova_2013_31714.020.1
+#
+# npts            : 2           
+# xmin            :   3.0400E+07
+# xmax            :   3.5900E+07
+# ymin            :   3.3000E-02
+# ymax            :   4.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0400E+07  8.0000E+05  4.9000E-02  7.0000E-03
+  3.5900E+07  8.0000E+05  3.3000E-02  5.0000E-03
+#---------------------------------------------------

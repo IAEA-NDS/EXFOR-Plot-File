@@ -1,0 +1,22 @@
+# EXFOR #         : 20734.004  
+# EXFOR Ver.      : 20101112
+# TRANS #         : 2225
+# Author          : A.M.Bresesti et al.
+# Reference       : Nucl.Sci.Eng. 40 (1970) 331
+# DOI             : 10.13182/NSE70-A19693
+# Quantity        : 54Fe(n,p)54Mn cross section
+# REACTION        : 26-FE-54(N,P)25-MN-54,,SIG,,FIS
+# File ID         : n-Fe54-p-sig-excfun-fis-prodMn54_Bresesti_1970_20734.004
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   7.6500E-02
+# ymax            :   7.6500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  7.6500E-02  3.0000E-03
+#---------------------------------------------------

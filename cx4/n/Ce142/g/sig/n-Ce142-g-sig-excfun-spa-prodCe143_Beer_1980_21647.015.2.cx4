@@ -1,0 +1,22 @@
+# EXFOR #         : 21647.015.2
+# EXFOR Ver.      : 20210801
+# TRANS #         : 2303
+# Author          : H.Beer et al.
+# Reference       : Phys.Rev.C 21 (1980) 534
+# DOI             : 10.1103/PhysRevC.21.534
+# Quantity        : 142Ce(n,g)143Ce cross section
+# REACTION        : 58-CE-142(N,G)58-CE-143,,SIG,,SPA
+# File ID         : n-Ce142-g-sig-excfun-spa-prodCe143_Beer_1980_21647.015.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   2.8700E-02
+# ymax            :   2.8700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  2.8700E-02  1.2000E-03
+#---------------------------------------------------

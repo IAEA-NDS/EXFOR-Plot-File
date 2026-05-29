@@ -1,0 +1,22 @@
+# EXFOR #         : 31591.002  
+# EXFOR Ver.      : 20120502
+# TRANS #         : 3155
+# Author          : E.L.Dorval et al.
+# Reference       : J.Rad.Nucl.Chem. 270 (2006) 603
+# DOI             : 10.1007/s10967-006-0468-z
+# Quantity        : 75As(n,p)75mGe cross section
+# REACTION        : 33-AS-75(N,P)32-GE-75-M,,SIG,,FIS
+# File ID         : n-As75-p-sig-excfun-fis-prodGe75m_Dorval_2006_31591.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.9200E-04
+# ymax            :   2.9200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.9200E-04  2.2000E-05
+#---------------------------------------------------

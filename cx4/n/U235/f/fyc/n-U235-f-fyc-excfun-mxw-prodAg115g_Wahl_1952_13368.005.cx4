@@ -1,0 +1,22 @@
+# EXFOR #         : 13368.005  
+# EXFOR Ver.      : 20201213
+# TRANS #         : 1477
+# Author          : A.C.Wahl et al.
+# Reference       : Phys.Rev. 85 (1952) 570
+# DOI             : 10.1103/PhysRev.85.570
+# Quantity        : 235U(n,f)115gAg cumulative fission product yield
+# REACTION        : 92-U-235(N,F)47-AG-115-G,CUM,FY,,MXW
+# File ID         : n-U235-f-fyc-excfun-mxw-prodAg115g_Wahl_1952_13368.005
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   7.8000E-05
+# ymax            :   7.8000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.8000E-05  7.8000E-06
+#---------------------------------------------------

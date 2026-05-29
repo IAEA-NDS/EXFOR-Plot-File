@@ -1,0 +1,23 @@
+# EXFOR #         : 21709.002  
+# EXFOR Ver.      : 20151213
+# TRANS #         : 2246
+# Author          : J.Laurec et al.
+# Reference       : Report CEA-R-5109, 1981
+# DOI             : N/A
+# Quantity        : 89Y(n,2n)88Y cross section
+# REACTION        : 39-Y-89(N,2N)39-Y-88,,SIG
+# File ID         : n-Y89-2n-sig-excfun-mon-prodY88_Laurec_1981_21709.002
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4800E+07
+# ymin            :   8.7400E-01
+# ymax            :   9.8400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.0000E+05  8.7400E-01  3.8000E-02
+  1.4800E+07  3.0000E+05  9.8400E-01  4.3000E-02
+#---------------------------------------------------

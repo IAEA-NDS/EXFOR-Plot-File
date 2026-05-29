@@ -1,0 +1,28 @@
+# EXFOR #         : 10153.002  
+# EXFOR Ver.      : 20001211
+# TRANS #         : 0000
+# Author          : J.A.Nelson et al.
+# Reference       : Phys.Rev.C 3 (1971) 307
+# DOI             : 10.1103/PhysRevC.3.307
+# Quantity        : 197Au(n,inl)197Au partial gamma angular differential cross section
+# REACTION        : 79-AU-197(N,INL)79-AU-197,PAR,DA,G
+# File ID         : n-Au197-inl-adxgl-excfun-mon-angl95_eoutl1.372E+06_prodAu197_Nelson_1971_10153.002
+#
+# theta,lab (deg) :   95.0000000
+# Eout,lab (eV)   :   1.3715E+06
+# dEout,lab (eV)  :   5.0000E+02
+#
+# npts            : 3           
+# xmin            :   1.6000E+06
+# xmax            :   2.2000E+06
+# ymin            :   1.6000E-03
+# ymax            :   2.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.6000E+06  0.0000E+00  1.6000E-03  4.0000E-04
+  1.9000E+06  0.0000E+00  1.9000E-03  4.7500E-04
+  2.2000E+06  0.0000E+00  2.6000E-03  6.5000E-04
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 13158.012  
+# EXFOR Ver.      : 19890711
+# TRANS #         : 0000
+# Author          : P.P.Guss et al.
+# Reference       : Phys.Rev.C 39 (1989) 405
+# DOI             : 10.1103/PhysRevC.39.405
+# Quantity        : 120Sn(n,inl)120Sn partial cross section
+# REACTION        : 50-SN-120(N,INL)50-SN-120,PAR,SIG
+# File ID         : n-Sn120-inl-sig-lvldis-mon-einc1.392E+07_prodSn120_Guss_1989_13158.012
+#
+# Einc (eV)       :   1.3923E+07
+# dEinc (eV)      :   4.7000E+04
+#
+# npts            : 2           
+# xmin            :   1.1710E+06
+# xmax            :   2.4000E+06
+# ymin            :   4.3000E-02
+# ymax            :   5.1000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1710E+06  0.0000E+00  5.1000E-02  4.0000E-03
+  2.4000E+06  0.0000E+00  4.3000E-02  2.0000E-03
+#---------------------------------------------------

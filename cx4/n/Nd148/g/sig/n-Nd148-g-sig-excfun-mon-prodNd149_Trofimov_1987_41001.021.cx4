@@ -1,0 +1,22 @@
+# EXFOR #         : 41001.021  
+# EXFOR Ver.      : 20250805
+# TRANS #         : 4224
+# Author          : Yu.N.Trofimov
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 331
+# DOI             : N/A
+# Quantity        : 148Nd(n,g)149Nd cross section
+# REACTION        : 60-ND-148(N,G)60-ND-149,,SIG
+# File ID         : n-Nd148-g-sig-excfun-mon-prodNd149_Trofimov_1987_41001.021
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   3.3000E-02
+# ymax            :   3.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  3.3000E-02  4.0000E-03
+#---------------------------------------------------

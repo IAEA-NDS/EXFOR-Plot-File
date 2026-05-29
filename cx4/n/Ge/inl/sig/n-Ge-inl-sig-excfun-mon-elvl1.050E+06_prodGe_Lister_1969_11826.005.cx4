@@ -1,0 +1,26 @@
+# EXFOR #         : 11826.005  
+# EXFOR Ver.      : 19860501
+# TRANS #         : 0000
+# Author          : D.Lister et al.
+# Reference       : Phys.Rev. 183 (1969) 954
+# DOI             : 10.1103/PhysRev.183.954
+# Quantity        : natGe(n,inl)natGe partial cross section
+# REACTION        : 32-GE-0(N,INL),PAR,SIG
+# File ID         : n-Ge-inl-sig-excfun-mon-elvl1.050E+06_prodGe_Lister_1969_11826.005
+#
+# Elvl (eV)       :   1.0500E+06
+#
+# npts            : 3           
+# xmin            :   1.4000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.8450E-01
+# ymax            :   1.9830E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+06  2.0000E+04  1.8450E-01  2.0100E-02
+  1.4500E+06  2.0000E+04  1.9830E-01  2.1400E-02
+  1.5000E+06  2.0000E+04  1.9330E-01  1.6300E-02
+#---------------------------------------------------

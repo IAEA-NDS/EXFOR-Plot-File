@@ -1,0 +1,22 @@
+# EXFOR #         : 30234.009  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : A.Lakshmana Rao et al.
+# Reference       : Phys.Rev.C 6 (1972) 572
+# DOI             : 10.1103/PhysRevC.6.572
+# Quantity        : 80Se(n,g)81gSe cross section
+# REACTION        : 34-SE-80(N,G)34-SE-81-G,,SIG
+# File ID         : n-Se80-g-sig-excfun-mon-prodSe81g_Lakshmana%Rao_1972_30234.009
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   5.5000E-02
+# ymax            :   5.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  5.0000E+03  5.5000E-02  1.1000E-02
+#---------------------------------------------------

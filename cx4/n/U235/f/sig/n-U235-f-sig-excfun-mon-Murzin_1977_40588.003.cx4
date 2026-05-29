@@ -1,0 +1,22 @@
+# EXFOR #         : 40588.003  
+# EXFOR Ver.      : 20230724
+# TRANS #         : 4214
+# Author          : A.V.Murzin et al.
+# Reference       : Proceedings of 4.All Union Conf.on Neutron Phys.,Kiev,18-22 Apr 1977 2 page 252
+# DOI             : N/A
+# Quantity        : 235U(n,f) cross section
+# REACTION        : 92-U-235(N,F),,SIG,,AV
+# File ID         : n-U235-f-sig-excfun-mon-Murzin_1977_40588.003
+#
+# npts            : 1           
+# xmin            :   2.0000E+03
+# xmax            :   2.0000E+03
+# ymin            :   6.2700E+00
+# ymax            :   6.2700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+03  3.0000E+02  6.2700E+00  1.3000E-01
+#---------------------------------------------------

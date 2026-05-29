@@ -1,0 +1,25 @@
+# EXFOR #         : 32001.005  
+# EXFOR Ver.      : 20100923
+# TRANS #         : 3147
+# Author          : D.Schmidt et al.
+# Reference       : Nucl.Sci.Eng. 96 (1987) 159
+# DOI             : 10.13182/NSE87-A16376
+# Quantity        : 6Li(n,inl)6Li partial cross section
+# REACTION        : 3-LI-6(N,INL)3-LI-6,PAR,SIG
+# File ID         : n-Li6-inl-sig-excfun-mon-elvl2.184E+06_prodLi6_Schmidt_1987_32001.005
+#
+# Elvl (eV)       :   2.1840E+06
+#
+# npts            : 2           
+# xmin            :   7.7500E+06
+# xmax            :   8.9000E+06
+# ymin            :   1.2700E-01
+# ymax            :   1.4500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.7500E+06  1.6000E+05  1.4500E-01  1.2000E-02
+  8.9000E+06  1.3800E+05  1.2700E-01  1.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 23230.003  
+# EXFOR Ver.      : 20140414
+# TRANS #         : 2238
+# Author          : K.Kobayashi
+# Reference       : Proceedings of 8th Symposium on Reactor Dosimetry, Vail, CO, 1993
+# DOI             : N/A
+# Quantity        : 27Al(n,p)27Mg cross section
+# REACTION        : 13-AL-27(N,P)12-MG-27,,SIG,,FIS
+# File ID         : n-Al27-p-sig-excfun-fis-prodMg27_Kobayashi_1993_23230.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.8700E-03
+# ymax            :   3.8700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.8700E-03  2.3100E-04
+#---------------------------------------------------

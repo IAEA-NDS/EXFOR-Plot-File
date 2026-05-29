@@ -1,0 +1,25 @@
+# EXFOR #         : 21714.004  
+# EXFOR Ver.      : 20191115
+# TRANS #         : 2283
+# Author          : A.Emsallem et al.
+# Reference       : Proceedings of 4.Symp.Neutr.Capt.Gamma-Ray Spectrosc.,Grenoble 1981 page 460
+# DOI             : N/A
+# Quantity        : 177Hf(n,a)174Yb partial cross section
+# REACTION        : 72-HF-177(N,A)70-YB-174,PAR,SIG,,MXW
+# File ID         : n-Hf177-a-sig-lvldis-mxw-einc2.530E-02_prodYb174_Emsallem_1981_21714.004
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            :   2.5200E+05
+# xmax            :   5.3000E+05
+# ymin            :   3.0000E-06
+# ymax            :   1.5000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5200E+05  0.0000E+00  1.5000E-05  5.0000E-06
+  5.3000E+05  0.0000E+00  3.0000E-06  2.0000E-06
+#---------------------------------------------------

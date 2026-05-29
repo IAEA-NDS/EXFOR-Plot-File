@@ -1,0 +1,28 @@
+# EXFOR #         : 20333.013  
+# EXFOR Ver.      : 20170430
+# TRANS #         : 2261
+# Author          : K.Nishimura et al.
+# Reference       : Nucl.Phys. 70 (1965) 421
+# DOI             : 10.1016/0029-5582(65)90538-9
+# Quantity        : natMo(n,inl)natMo partial gamma production cross section
+# REACTION        : 42-MO-0(N,INL)42-MO-0,PAR,SIG,G
+# File ID         : n-Mo-inl-sigg-excfun-mon-eoutl1.060E+06_prodMo_Nishimura_1965_20333.013
+#
+# Eout,lab (eV)   :   1.0600E+06
+#
+# npts            : 5           
+# xmin            :   1.0010E+06
+# xmax            :   1.4940E+06
+# ymin            :   1.0000E-03
+# ymax            :   8.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0010E+06  1.2500E+04  1.0000E-03  0.0000E+00
+  1.1980E+06  1.2500E+04  1.4000E-02  5.0000E-03
+  1.2980E+06  1.2500E+04  7.7000E-02  7.0000E-03
+  1.3960E+06  1.2500E+04  8.9000E-02  8.0000E-03
+  1.4940E+06  1.2500E+04  6.7000E-02  7.0000E-03
+#---------------------------------------------------

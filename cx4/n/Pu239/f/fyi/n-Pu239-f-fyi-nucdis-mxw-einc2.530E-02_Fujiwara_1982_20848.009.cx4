@@ -1,0 +1,26 @@
+# EXFOR #         : 20848.009  
+# EXFOR Ver.      : 20220205
+# TRANS #         : 2309
+# Author          : I.Fujiwara et al.
+# Reference       : J.Phys.Soc.Jpn. 51 (1982) 1713
+# DOI             : 10.1143/JPSJ.51.1713
+# Quantity        : 239Pu(n,f) independent fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,IND,FY,,MXW
+# File ID         : n-Pu239-f-fyi-nucdis-mxw-einc2.530E-02_Fujiwara_1982_20848.009
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 3           
+# xmin            : 55138.9     
+# xmax            : 55138.9     
+# ymin            :   2.6000E-03
+# ymax            :   8.4000E-03
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     55138.9  8.4000E-03  7.0000E-04
+     55138.9  5.8000E-03  6.0000E-04
+     55138.9  2.6000E-03  3.0000E-04
+#---------------------------------------------------

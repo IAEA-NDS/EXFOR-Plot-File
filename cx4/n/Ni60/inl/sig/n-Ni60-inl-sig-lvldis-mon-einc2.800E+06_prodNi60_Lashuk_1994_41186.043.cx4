@@ -1,0 +1,26 @@
+# EXFOR #         : 41186.043  
+# EXFOR Ver.      : 20191107
+# TRANS #         : 4184
+# Author          : A.I.Lashuk et al.
+# Reference       : Yad.Reak.Konst.  No.1 (1994) 26
+# DOI             : N/A
+# Quantity        : 60Ni(n,inl)60Ni partial cross section
+# REACTION        : 28-NI-60(N,INL)28-NI-60,PAR,SIG
+# File ID         : n-Ni60-inl-sig-lvldis-mon-einc2.800E+06_prodNi60_Lashuk_1994_41186.043
+#
+# Einc (eV)       :   2.8000E+06
+#
+# npts            : 3           
+# xmin            :   1.3330E+06
+# xmax            :   2.5040E+06
+# ymin            :   1.6100E-01
+# ymax            :   8.7500E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3330E+06  0.0000E+00  8.7500E-01  8.1000E-02
+  2.1570E+06  0.0000E+00  2.6400E-01  3.5000E-02
+  2.5040E+06  0.0000E+00  1.6100E-01  1.9000E-02
+#---------------------------------------------------

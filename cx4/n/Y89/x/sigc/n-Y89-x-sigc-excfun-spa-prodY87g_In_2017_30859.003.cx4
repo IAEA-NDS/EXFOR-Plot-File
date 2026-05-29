@@ -1,0 +1,23 @@
+# EXFOR #         : 30859.003  
+# EXFOR Ver.      : 20250820
+# TRANS #         : 3221
+# Author          : E.J.In et al.
+# Reference       : EPJ Web Conf. 146 (2017) 11026
+# DOI             : 10.1051/epjconf/201714611026
+# Quantity        : 89Y(n,3n)87gY cumulative production cross section
+# REACTION        : 39-Y-89(N,3N)39-Y-87-G,(M),SIG,,SPA
+# File ID         : n-Y89-x-sigc-excfun-spa-prodY87g_In_2017_30859.003
+#
+# npts            : 2           
+# xmin            :   2.9800E+07
+# xmax            :   3.4800E+07
+# ymin            :   1.4300E-01
+# ymax            :   2.0500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9800E+07  1.8000E+06  1.4300E-01  1.6000E-02
+  3.4800E+07  1.8000E+06  2.0500E-01  3.4000E-02
+#---------------------------------------------------

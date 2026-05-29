@@ -1,0 +1,25 @@
+# EXFOR #         : 14742.003  
+# EXFOR Ver.      : 20220204
+# TRANS #         : 1496
+# Author          : H.H.Barschall et al.
+# Reference       : Phys.Rev. 59 (1941) 917(18)
+# DOI             : N/A
+# Quantity        : natFe(n,el)natFe angular differential cross section
+# REACTION        : 26-FE-0(N,EL)26-FE-0,,DA,,4PI
+# File ID         : n-Fe-el-adxl-angdisl-mon-einc2.500E+06_prodFe_Barschall_1941_14742.003
+#
+# Einc (eV)       :   2.5000E+06
+#
+# npts            : 2           
+# xmin            :   45.0000000
+# xmax            :  100.0000000
+# ymin            :   4.5359E-02
+# ymax            :   1.3528E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 100.0000000  20.0000000  4.5359E-02  1.1937E-02
+  45.0000000  10.0000000  1.3528E-01  2.3873E-02
+#---------------------------------------------------

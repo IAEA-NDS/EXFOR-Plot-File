@@ -1,0 +1,23 @@
+# EXFOR #         : 10940.004  
+# EXFOR Ver.      : 19860529
+# TRANS #         : 0000
+# Author          : C.Zanelli et al.
+# Reference       : Phys.Rev.C 23 (1981) 1015
+# DOI             : 10.1103/PhysRevC.23.1015
+# Quantity        : natCa(n,non) cross section
+# REACTION        : 20-CA-0(N,NON),,SIG
+# File ID         : n-Ca-non-sig-excfun-mon-Zanelli_1981_10940.004
+#
+# npts            : 2           
+# xmin            :   4.0300E+07
+# xmax            :   5.0400E+07
+# ymin            :   8.4900E-01
+# ymax            :   9.3000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0300E+07  0.0000E+00  9.3000E-01  5.3000E-02
+  5.0400E+07  0.0000E+00  8.4900E-01  1.1200E-01
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 23144.003  
+# EXFOR Ver.      : 20170921
+# TRANS #         : 2265
+# Author          : S.Sekimoto et al.
+# Reference       : Prog.Nucl.Sci.Techn. 1 (2011) 89
+# DOI             : 10.15669/pnst.1.89
+# Quantity        : 89Y(n,x)75Br independent production cross section
+# REACTION        : 39-Y-89(N,X)35-BR-75,,SIG
+# File ID         : n-Y89-x-sig-excfun-mon-prodBr75_Sekimoto_2011_23144.003
+#
+# npts            : 1           
+# xmin            :   2.8700E+08
+# xmax            :   2.8700E+08
+# ymin            :   3.8200E-03
+# ymax            :   3.8200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8700E+08  0.0000E+00  3.8200E-03  6.5000E-04
+#---------------------------------------------------

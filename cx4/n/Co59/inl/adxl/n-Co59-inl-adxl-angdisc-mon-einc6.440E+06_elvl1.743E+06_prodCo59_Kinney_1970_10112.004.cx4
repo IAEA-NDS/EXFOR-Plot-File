@@ -1,0 +1,27 @@
+# EXFOR #         : 10112.004  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4549, 1970
+# DOI             : N/A
+# Quantity        : 59Co(n,inl)59Co partial angular differential cross section
+# REACTION        : 27-CO-59(N,INL)27-CO-59,PAR,DA
+# File ID         : n-Co59-inl-adxl-angdisc-mon-einc6.440E+06_elvl1.743E+06_prodCo59_Kinney_1970_10112.004
+#
+# Einc (eV)       :   6.4400E+06
+# dEinc (eV)      :   1.3000E+05
+# Elvl (eV)       :   1.7430E+06
+#
+# npts            : 2           
+# xmin            :  120.4900000
+# xmax            :  135.3100000
+# ymin            :   8.6000E-04
+# ymax            :   1.3500E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 120.4900000   0.0000000  8.6000E-04  0.0000E+00
+ 135.3100000   0.0000000  1.3500E-03  0.0000E+00
+#---------------------------------------------------

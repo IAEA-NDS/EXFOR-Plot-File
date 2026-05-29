@@ -1,0 +1,23 @@
+# EXFOR #         : 41280.034  
+# EXFOR Ver.      : 20241212
+# TRANS #         : 4221
+# Author          : V.P.Vertebnyy et al.
+# Reference       : Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 1 page 651
+# DOI             : N/A
+# Quantity        : 161Dy(n,el)161Dy cross section
+# REACTION        : 66-DY-161(N,EL)66-DY-161,,SIG
+# File ID         : n-Dy161-el-sig-excfun-mon-prodDy161_Vertebnyy_1970_41280.034
+#
+# npts            : 2           
+# xmin            :   2.5300E-02
+# xmax            :   7.0000E-02
+# ymin            :   2.0000E+01
+# ymax            :   2.2000E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.2000E+01  4.0000E-01
+  7.0000E-02  0.0000E+00  2.0000E+01  3.0000E-01
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : 20866.012  
+# EXFOR Ver.      : 20180828
+# TRANS #         : 2270
+# Author          : K.A.Connell et al.
+# Reference       : Appl.Radiat.Isot. 26 (1975) 71
+# DOI             : 10.1016/0020-708X(75)90105-2
+# Quantity        : 32S(n,inl)32S partial gamma angular differential cross section
+# REACTION        : 16-S-32(N,INL)16-S-32,PAR,DA,G
+# File ID         : n-S32-inl-adxgl-angdisl-mon-einc1.420E+07_eoutl2.240E+06_prodS32_Connell_1975_20866.012
+#
+# Einc (eV)       :   1.4200E+07
+# Eout,lab (eV)   :   2.2400E+06
+#
+# npts            : 5           
+# xmin            :   25.3646100
+# xmax            :   90.0401000
+# ymin            :   1.9220E-02
+# ymax            :   3.2010E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0401000   0.0000000  1.9220E-02  3.0700E-03
+  70.2692800   0.0000000  2.3070E-02  2.6700E-03
+  60.0463000   0.0000000  2.6780E-02  2.8000E-03
+  40.0841100   0.0000000  3.2010E-02  2.9300E-03
+  25.3646100   0.0000000  2.6500E-02  2.4100E-03
+#---------------------------------------------------

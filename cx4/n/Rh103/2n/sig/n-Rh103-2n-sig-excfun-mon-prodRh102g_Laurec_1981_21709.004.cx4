@@ -1,0 +1,23 @@
+# EXFOR #         : 21709.004  
+# EXFOR Ver.      : 20151213
+# TRANS #         : 2246
+# Author          : J.Laurec et al.
+# Reference       : Report CEA-R-5109, 1981
+# DOI             : N/A
+# Quantity        : 103Rh(n,2n)102gRh cross section
+# REACTION        : 45-RH-103(N,2N)45-RH-102-G,,SIG
+# File ID         : n-Rh103-2n-sig-excfun-mon-prodRh102g_Laurec_1981_21709.004
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4800E+07
+# ymin            :   8.0500E-01
+# ymax            :   8.3000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.0000E+05  8.0500E-01  4.8000E-02
+  1.4800E+07  3.0000E+05  8.3000E-01  5.0000E-02
+#---------------------------------------------------

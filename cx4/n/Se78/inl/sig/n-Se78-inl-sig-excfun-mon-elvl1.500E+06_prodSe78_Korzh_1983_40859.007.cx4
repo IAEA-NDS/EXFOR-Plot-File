@@ -1,0 +1,25 @@
+# EXFOR #         : 40859.007  
+# EXFOR Ver.      : 20231226
+# TRANS #         : 4216
+# Author          : I.A.Korzh et al.
+# Reference       : Proceedings of 6.All-Union Conf.on Neutron Physics,Kiev,2-6 Oct.1983 3 page 173
+# DOI             : N/A
+# Quantity        : 78Se(n,inl)78Se partial cross section
+# REACTION        : 34-SE-78(N,INL)34-SE-78,PAR,SIG
+# File ID         : n-Se78-inl-sig-excfun-mon-elvl1.500E+06_prodSe78_Korzh_1983_40859.007
+#
+# Elvl (eV)       :   1.5000E+06
+#
+# npts            : 2           
+# xmin            :   2.5000E+06
+# xmax            :   3.0000E+06
+# ymin            :   2.2500E-01
+# ymax            :   2.9200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  0.0000E+00  2.9200E-01  1.3000E-02
+  3.0000E+06  0.0000E+00  2.2500E-01  1.1000E-02
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 12977.021  
+# EXFOR Ver.      : 20120426
+# TRANS #         : 1381
+# Author          : L.R.Greenwood
+# Reference       : Report (proceedings) ASTM-STP-956 page 743, 1987
+# DOI             : N/A
+# Quantity        : 107Ag(n,2n)106mAg cross section
+# REACTION        : 47-AG-107(N,2N)47-AG-106-M,,SIG
+# File ID         : n-Ag107-2n-sig-excfun-mon-prodAg106m_Greenwood_1987_12977.021
+#
+# npts            : 3           
+# xmin            :   1.4500E+07
+# xmax            :   1.4900E+07
+# ymin            :   5.4700E-01
+# ymax            :   5.6700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  2.0000E+05  5.4700E-01  8.2050E-03
+  1.4800E+07  2.0000E+05  5.5100E-01  8.2650E-03
+  1.4900E+07  2.0000E+05  5.6700E-01  8.5050E-03
+#---------------------------------------------------

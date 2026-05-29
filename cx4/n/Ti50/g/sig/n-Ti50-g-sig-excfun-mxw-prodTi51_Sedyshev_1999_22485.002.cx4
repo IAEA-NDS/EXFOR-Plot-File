@@ -1,0 +1,23 @@
+# EXFOR #         : 22485.002  
+# EXFOR Ver.      : 20121223
+# TRANS #         : 2234
+# Author          : P.V.Sedyshev et al.
+# Reference       : Phys.Rev.C 60 (1999) 054613
+# DOI             : 10.1103/PhysRevC.60.054613
+# Quantity        : 50Ti(n,g)51Ti cross section
+# REACTION        : 22-TI-50(N,G)22-TI-51,,SIG,,MXW
+# File ID         : n-Ti50-g-sig-excfun-mxw-prodTi51_Sedyshev_1999_22485.002
+#
+# npts            : 2           
+# xmin            :   2.5000E+04
+# xmax            :   5.2000E+04
+# ymin            :   2.7360E-03
+# ymax            :   3.6120E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  3.6120E-03  9.5000E-05
+  5.2000E+04  0.0000E+00  2.7360E-03  1.1300E-04
+#---------------------------------------------------

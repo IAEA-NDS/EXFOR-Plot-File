@@ -1,0 +1,23 @@
+# EXFOR #         : 23284.003  
+# EXFOR Ver.      : 20151215
+# TRANS #         : 2248
+# Author          : G.Feinberg et al.
+# Reference       : Phys.Rev.C 85 (2012) 055810
+# DOI             : 10.1103/PhysRevC.85.055810
+# Quantity        : 197Au(n,g)198Au cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198,,SIG,,MXW
+# File ID         : n-Au197-g-sig-excfun-mxw-prodAu198_Feinberg_2012_23284.003
+#
+# npts            : 2           
+# xmin            :   2.8000E+04
+# xmax            :   2.8000E+04
+# ymin            :   6.1900E-01
+# ymax            :   6.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8000E+04  0.0000E+00  6.2000E-01  1.7000E-02
+  2.8000E+04  0.0000E+00  6.1900E-01  1.7000E-02
+#---------------------------------------------------

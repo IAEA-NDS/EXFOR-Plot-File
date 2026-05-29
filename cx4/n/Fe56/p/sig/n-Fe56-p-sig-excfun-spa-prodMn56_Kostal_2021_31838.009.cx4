@@ -1,0 +1,22 @@
+# EXFOR #         : 31838.009  
+# EXFOR Ver.      : 20211110
+# TRANS #         : 3206
+# Author          : M.Kostal et al.
+# Reference       : Ann.Nucl.Energy 158 (2021) 108268
+# DOI             : 10.1016/j.anucene.2021.108268
+# Quantity        : 56Fe(n,p)56Mn cross section
+# REACTION        : 26-FE-56(N,P)25-MN-56,,SIG,,SPA
+# File ID         : n-Fe56-p-sig-excfun-spa-prodMn56_Kostal_2021_31838.009
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.0840E-07
+# ymax            :   2.0840E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.0840E-07  4.1680E-09
+#---------------------------------------------------

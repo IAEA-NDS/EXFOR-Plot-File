@@ -1,0 +1,23 @@
+# EXFOR #         : 22658.005  
+# EXFOR Ver.      : 20150926
+# TRANS #         : 2246
+# Author          : Y.Ikeda et al.
+# Reference       : Report (proceedings) INDC(NDS)-342 page 19, 1996
+# DOI             : N/A
+# Quantity        : 93Nb(n,inl)93mNb cross section
+# REACTION        : 41-NB-93(N,INL)41-NB-93-M,,SIG
+# File ID         : n-Nb93-inl-sig-excfun-mon-prodNb93m_Ikeda_1996_22658.005
+#
+# npts            : 2           
+# xmin            :   1.4500E+07
+# xmax            :   1.4800E+07
+# ymin            :   4.3000E-02
+# ymax            :   4.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  0.0000E+00  4.3000E-02  9.0000E-03
+  1.4500E+07  0.0000E+00  4.4000E-02  9.0000E-03
+#---------------------------------------------------

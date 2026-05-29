@@ -1,0 +1,26 @@
+# EXFOR #         : 22091.002  
+# EXFOR Ver.      : 20240823
+# TRANS #         : 2321
+# Author          : T.Iwasaki et al.
+# Reference       : Proceedings of Conf.on Nucl.Data For Sci.and Technol.,Mito 1988 page 87
+# DOI             : N/A
+# Quantity        : 235U(n,f) cross section
+# REACTION        : 92-U-235(N,F),,SIG
+# File ID         : n-U235-f-sig-excfun-mon-Iwasaki_1988_22091.002
+#
+# npts            : 5           
+# xmin            :   1.3510E+07
+# xmax            :   1.4900E+07
+# ymin            :   1.9950E+00
+# ymax            :   2.1190E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3510E+07  1.5000E+05  1.9950E+00  4.9875E-02
+  1.3970E+07  4.0000E+04  2.0400E+00  5.3040E-02
+  1.4100E+07  5.0000E+04  2.0570E+00  5.7596E-02
+  1.4490E+07  1.7000E+05  2.1190E+00  5.7213E-02
+  1.4900E+07  2.9000E+05  2.1140E+00  5.7078E-02
+#---------------------------------------------------

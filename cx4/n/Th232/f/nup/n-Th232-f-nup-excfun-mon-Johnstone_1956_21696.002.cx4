@@ -1,0 +1,22 @@
+# EXFOR #         : 21696.002  
+# EXFOR Ver.      : 20121109
+# TRANS #         : 2234
+# Author          : I.Johnstone
+# Reference       : Report AERE-NP/R-1912, 1956
+# DOI             : N/A
+# Quantity        : 232Th(n,f) prompt fission neutron multiplicity
+# REACTION        : 90-TH-232(N,F),PR,NU
+# File ID         : n-Th232-f-nup-excfun-mon-Johnstone_1956_21696.002
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   3.5500E+00
+# ymax            :   3.5500E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.4100E+07  0.0000E+00  3.5500E+00  2.8000E-01
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 12939.005  
+# EXFOR Ver.      : 19860130
+# TRANS #         : 0000
+# Author          : J.A.Templon et al.
+# Reference       : Nucl.Sci.Eng. 91 (1985) 451
+# DOI             : 10.13182/NSE85-A18361
+# Quantity        : 9Be(n,el)9Be cross section
+# REACTION        : 4-BE-9(N,EL)4-BE-9,,SIG
+# File ID         : n-Be9-el-sig-excfun-mon-prodBe9_Templon_1985_12939.005
+#
+# npts            : 3           
+# xmin            :   1.0962E+07
+# xmax            :   1.6887E+07
+# ymin            :   9.7007E-01
+# ymax            :   1.0110E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0962E+07  0.0000E+00  1.0110E+00  3.2730E-02
+  1.3890E+07  0.0000E+00  9.7007E-01  5.0100E-02
+  1.6887E+07  0.0000E+00  9.7504E-01  7.0200E-02
+#---------------------------------------------------

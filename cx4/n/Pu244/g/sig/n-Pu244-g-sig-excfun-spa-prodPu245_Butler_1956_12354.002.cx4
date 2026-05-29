@@ -1,0 +1,22 @@
+# EXFOR #         : 12354.002  
+# EXFOR Ver.      : 19911122
+# TRANS #         : 0000
+# Author          : J.P.Butler et al.
+# Reference       : Phys.Rev. 103 (1956) 634
+# DOI             : 10.1103/PhysRev.103.634
+# Quantity        : 244Pu(n,g)245Pu cross section
+# REACTION        : 94-PU-244(N,G)94-PU-245,,SIG,,SPA
+# File ID         : n-Pu244-g-sig-excfun-spa-prodPu245_Butler_1956_12354.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.1000E+00
+# ymax            :   2.1000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.1000E+00  3.0000E-01
+#---------------------------------------------------

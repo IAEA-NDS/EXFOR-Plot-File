@@ -1,0 +1,23 @@
+# EXFOR #         : 11721.004  
+# EXFOR Ver.      : 20050427
+# TRANS #         : 1333
+# Author          : S.R.Salisbury et al.
+# Reference       : Phys.Rev. 140 (1965) B305
+# DOI             : 10.1103/PhysRev.140.B305
+# Quantity        : 54Fe(n,2n)53Fe cross section
+# REACTION        : 26-FE-54(N,2N)26-FE-53,,SIG
+# File ID         : n-Fe54-2n-sig-excfun-mon-prodFe53_Salisbury_1965_11721.004
+#
+# npts            : 2           
+# xmin            :   1.4050E+07
+# xmax            :   1.6750E+07
+# ymin            :   2.8300E-03
+# ymax            :   5.0400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4050E+07  1.0500E+06  2.8300E-03  5.0000E-05
+  1.6750E+07  5.5000E+05  5.0400E-02  5.0000E-03
+#---------------------------------------------------

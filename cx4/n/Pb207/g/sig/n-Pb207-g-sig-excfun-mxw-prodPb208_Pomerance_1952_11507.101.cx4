@@ -1,0 +1,22 @@
+# EXFOR #         : 11507.101  
+# EXFOR Ver.      : 20190830
+# TRANS #         : 1459
+# Author          : H.Pomerance
+# Reference       : Phys.Rev. 88 (1952) 412
+# DOI             : 10.1103/PhysRev.88.412
+# Quantity        : 207Pb(n,g)208Pb cross section
+# REACTION        : 82-PB-207(N,G)82-PB-208,,SIG,,MXW
+# File ID         : n-Pb207-g-sig-excfun-mxw-prodPb208_Pomerance_1952_11507.101
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   7.0000E-01
+# ymax            :   7.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.0000E-01  7.0000E-02
+#---------------------------------------------------

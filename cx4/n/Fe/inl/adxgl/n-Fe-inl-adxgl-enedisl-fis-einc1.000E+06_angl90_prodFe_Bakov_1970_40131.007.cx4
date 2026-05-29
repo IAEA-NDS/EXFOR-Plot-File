@@ -1,0 +1,30 @@
+# EXFOR #         : 40131.007  
+# EXFOR Ver.      : 20150109
+# TRANS #         : 4172
+# Author          : A.T.Bakov et al.
+# Reference       : Sov.At.Energy 29 (1970) 1080
+# DOI             : 10.1007/BF01666690
+# Quantity        : natFe(n,inl)natFe partial gamma angular differential cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-0,PAR,DA,G,4PI/FIS
+# File ID         : n-Fe-inl-adxgl-enedisl-fis-einc1.000E+06_angl90_prodFe_Bakov_1970_40131.007
+#
+# Einc (eV)       :   1.0000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 6           
+# xmin            :   8.5000E+05
+# xmax            :   3.6000E+06
+# ymin            :   1.2732E-02
+# ymax            :   5.8887E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.5000E+05  0.0000E+00  5.8887E-02  4.1221E-03
+  1.2500E+06  0.0000E+00  1.9894E-02  1.5915E-03
+  1.8600E+06  0.0000E+00  1.7507E-02  1.7507E-03
+  2.1200E+06  0.0000E+00  1.5915E-02  1.2732E-03
+  2.6600E+06  0.0000E+00  1.2732E-02  2.2918E-03
+  3.6000E+06  0.0000E+00  2.0690E-02  3.7242E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 40411.002  
+# EXFOR Ver.      : 20170130
+# TRANS #         : 4175
+# Author          : G.P.Antropov et al.
+# Reference       : Sov.At.Energy 5 (1958) 1352
+# DOI             : 10.1007/BF01506468
+# Quantity        : 238U(n,2n)237U cross section
+# REACTION        : 92-U-238(N,2N)92-U-237,,SIG
+# File ID         : n-U238-2n-sig-excfun-mon-prodU237_Antropov_1958_40411.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+07
+# xmax            :   1.5000E+07
+# ymin            :   9.0000E-01
+# ymax            :   9.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  0.0000E+00  9.0000E-01  1.5000E-01
+#---------------------------------------------------

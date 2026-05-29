@@ -1,0 +1,31 @@
+# EXFOR #         : 10111.003  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4515, 1970
+# DOI             : N/A
+# Quantity        : natFe(n,inl)56Fe partial angular differential cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-56,PAR,DA
+# File ID         : n-Fe-inl-adxl-angdisc-mon-einc8.560E+06_elvl2.084E+06_prodFe_Kinney_1970_10111.003
+#
+# Einc (eV)       :   8.5600E+06
+# dEinc (eV)      :   8.0000E+04
+# Elvl (eV)       :   2.0840E+06
+#
+# npts            : 6           
+# xmin            :   55.9700000
+# xmax            :  135.3400000
+# ymin            :   9.7000E-04
+# ymax            :   2.1300E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  55.9700000   0.0000000  1.1600E-03  0.0000E+00
+  61.0300000   0.0000000  2.1300E-03  0.0000E+00
+  91.1800000   0.0000000  1.0000E-03  0.0000E+00
+ 120.5300000   0.0000000  9.7000E-04  0.0000E+00
+ 127.9400000   0.0000000  1.3300E-03  0.0000E+00
+ 135.3400000   0.0000000  1.0300E-03  0.0000E+00
+#---------------------------------------------------

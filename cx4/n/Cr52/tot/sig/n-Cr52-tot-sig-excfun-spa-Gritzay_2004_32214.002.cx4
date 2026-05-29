@@ -1,0 +1,23 @@
+# EXFOR #         : 32214.002  
+# EXFOR Ver.      : 20200312
+# TRANS #         : 3195
+# Author          : O.O.Gritzay et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Santa Fe 2004 page 969
+# DOI             : N/A
+# Quantity        : 52Cr(n,tot) cross section
+# REACTION        : 24-CR-52(N,TOT),,SIG,,SPA
+# File ID         : n-Cr52-tot-sig-excfun-spa-Gritzay_2004_32214.002
+#
+# npts            : 2           
+# xmin            :   2.3210E+04
+# xmax            :   5.6993E+04
+# ymin            :   2.4780E+00
+# ymax            :   7.2200E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3210E+04  1.9025E+03  2.4780E+00  5.3000E-02
+  5.6993E+04  3.3400E+03  7.2200E+00  1.2000E-01
+#---------------------------------------------------

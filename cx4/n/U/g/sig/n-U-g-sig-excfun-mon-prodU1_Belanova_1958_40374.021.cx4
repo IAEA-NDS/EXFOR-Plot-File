@@ -1,0 +1,24 @@
+# EXFOR #         : 40374.021  
+# EXFOR Ver.      : 20100317
+# TRANS #         : 4149
+# Author          : T.S.Belanova
+# Reference       : Zh.Eksp.Teor.Fiz. 34 No.3 (1958) 574
+# DOI             : N/A
+# Quantity        : natU(n,g) cross section
+# REACTION        : 92-U-0(N,G),,SIG
+# File ID         : n-U-g-sig-excfun-mon-prodU1_Belanova_1958_40374.021
+#
+# npts            : 3           
+# xmin            :   2.4000E+04
+# xmax            :   8.3000E+05
+# ymin            :   1.4600E-01
+# ymax            :   5.6800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+04  3.0000E+03  5.6800E-01  1.0000E-02
+  2.2000E+05  2.0000E+04  1.4600E-01  1.6000E-02
+  8.3000E+05  4.0000E+04  1.6100E-01  6.0000E-03
+#---------------------------------------------------

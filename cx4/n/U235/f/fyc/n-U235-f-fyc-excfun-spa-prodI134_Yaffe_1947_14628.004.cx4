@@ -1,0 +1,23 @@
+# EXFOR #         : 14628.004  
+# EXFOR Ver.      : 20200411
+# TRANS #         : 1470
+# Author          : L.Yaffe et al.
+# Reference       : Can.J.Res.B 25 (1947) 371
+# DOI             : N/A
+# Quantity        : 235U(n,f)134I cumulative fission product yield
+# REACTION        : 92-U-235(N,F)53-I-134,CUM,FY,,SPA
+# File ID         : n-U235-f-fyc-excfun-spa-prodI134_Yaffe_1947_14628.004
+#
+# npts            : 2           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   5.7000E-02
+# ymax            :   5.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  5.8000E-02  1.0000E-03
+  2.5300E-02  0.0000E+00  5.7000E-02  2.5000E-03
+#---------------------------------------------------

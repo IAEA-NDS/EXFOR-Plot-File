@@ -1,0 +1,22 @@
+# EXFOR #         : 21453.005  
+# EXFOR Ver.      : 20120917
+# TRANS #         : 2234
+# Author          : J.Leroy
+# Reference       : J.Phys.(Paris) 21 (1960) 617
+# DOI             : 10.1051/jphysrad:01960002108-9061700
+# Quantity        : 238U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-238(N,F),PR,NU,,FIS
+# File ID         : n-U238-f-nup-excfun-fis-Leroy_1960_21453.005
+#
+# npts            : 1           
+# xmin            :   3.1000E+06
+# xmax            :   3.1000E+06
+# ymin            :   2.9300E+00
+# ymax            :   2.9300E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  3.1000E+06  0.0000E+00  2.9300E+00  7.5000E-02
+#---------------------------------------------------

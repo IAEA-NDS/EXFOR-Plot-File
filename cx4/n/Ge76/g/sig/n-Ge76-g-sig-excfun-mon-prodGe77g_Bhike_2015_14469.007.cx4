@@ -1,0 +1,23 @@
+# EXFOR #         : 14469.007  
+# EXFOR Ver.      : 20220822
+# TRANS #         : 1500
+# Author          : M.Bhike et al.
+# Reference       : Phys.Lett.B 741 (2015) 150
+# DOI             : 10.1016/j.physletb.2014.12.004
+# Quantity        : 76Ge(n,g)77gGe cross section
+# REACTION        : 32-GE-76(N,G)32-GE-77-G,,SIG
+# File ID         : n-Ge76-g-sig-excfun-mon-prodGe77g_Bhike_2015_14469.007
+#
+# npts            : 2           
+# xmin            :   3.8000E+05
+# xmax            :   8.6000E+05
+# ymin            :   2.2400E-03
+# ymax            :   5.7500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8000E+05  1.1000E+05  5.7500E-03  5.7000E-04
+  8.6000E+05  1.1000E+05  2.2400E-03  3.8000E-04
+#---------------------------------------------------

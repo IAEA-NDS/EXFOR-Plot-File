@@ -1,0 +1,23 @@
+# EXFOR #         : 14056.006  
+# EXFOR Ver.      : 20051114
+# TRANS #         : 1339
+# Author          : J.M.Sisterson et al.
+# Reference       : Nucl.Instrum.Meth.B 240 (2005) 617
+# DOI             : 10.1016/j.nimb.2005.06.005
+# Quantity        : natCu(n,x)59Fe independent production cross section
+# REACTION        : 29-CU-0(N,X)26-FE-59,,SIG
+# File ID         : n-Cu-x-sig-excfun-mon-prodFe59_Sisterson_2005_14056.006
+#
+# npts            : 2           
+# xmin            :   7.0700E+07
+# xmax            :   1.1080E+08
+# ymin            :   3.0000E-03
+# ymax            :   4.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0700E+07  5.8000E+06  3.0000E-03  1.2000E-03
+  1.1080E+08  4.2000E+06  4.2000E-03  1.2000E-03
+#---------------------------------------------------

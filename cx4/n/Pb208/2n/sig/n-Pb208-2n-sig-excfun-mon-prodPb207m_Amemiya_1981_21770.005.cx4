@@ -1,0 +1,22 @@
+# EXFOR #         : 21770.005  
+# EXFOR Ver.      : 20140104
+# TRANS #         : 2238
+# Author          : S.Amemiya et al.
+# Reference       : J.Nucl.Sci.Technol. 18 (1981) 323
+# DOI             : 10.1080/18811248.1981.9733262
+# Quantity        : 208Pb(n,2n)207mPb cross section
+# REACTION        : 82-PB-208(N,2N)82-PB-207-M,,SIG
+# File ID         : n-Pb208-2n-sig-excfun-mon-prodPb207m_Amemiya_1981_21770.005
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.2200E+00
+# ymax            :   1.2200E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  0.0000E+00  1.2200E+00  1.0000E-01
+#---------------------------------------------------

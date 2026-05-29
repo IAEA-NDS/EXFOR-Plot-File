@@ -1,0 +1,26 @@
+# EXFOR #         : 41077.002  
+# EXFOR Ver.      : 20020729
+# TRANS #         : 0000
+# Author          : K.A.Petrzhak et al.
+# Reference       : Yad.Fiz. 11 (1970) 1178
+# DOI             : N/A
+# Quantity        : 238U(n,f) cumulative fission product yield
+# REACTION        : 92-U-238(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-U238-f-fyc-nucdis-mon-einc1.470E+07_Petrzhak_1970_41077.002
+#
+# Einc (eV)       :   1.4700E+07
+#
+# npts            : 3           
+# xmin            : 54131.0     
+# xmax            : 54136.9     
+# ymin            :   1.8640E-01
+# ymax            :   2.6620E-01
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     54131.0  1.8640E-01  5.5000E-03
+     54132.9  2.3060E-01  4.8000E-03
+     54136.9  2.6620E-01  5.5000E-03
+#---------------------------------------------------

@@ -1,0 +1,31 @@
+# EXFOR #         : 40457.003  
+# EXFOR Ver.      : 20210220
+# TRANS #         : 4195
+# Author          : V.Ya.Baryba et al.
+# Reference       : At.En. 43 (1977) 266
+# DOI             : N/A
+# Quantity        : 238U(n,inl)238U partial angular differential cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,DA
+# File ID         : n-U238-inl-adxl-angdisl-mon-einc2.470E+06_elvl1.125E+06_prodU238_Baryba_1977_40457.003
+#
+# Einc (eV)       :   2.4700E+06
+# dEinc (eV)      :   1.0000E+05
+# Elvl (eV)       :   1.1250E+06
+# dElvl (eV)      :   2.2500E+05
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   2.7200E-02
+# ymax            :   3.5400E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  3.5400E-02  1.5000E-03
+  60.0000000   0.0000000  3.0700E-02  1.1000E-03
+  90.0000000   0.0000000  3.0200E-02  1.1000E-03
+ 120.0000000   0.0000000  2.8100E-02  1.2000E-03
+ 150.0000000   0.0000000  2.7200E-02  1.4000E-03
+#---------------------------------------------------

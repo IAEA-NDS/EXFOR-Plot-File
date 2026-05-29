@@ -1,0 +1,23 @@
+# EXFOR #         : 11076.002  
+# EXFOR Ver.      : 20221004
+# TRANS #         : 1505
+# Author          : J.B.Weddell et al.
+# Reference       : Phys.Rev. 95 (1954) 117
+# DOI             : 10.1103/PhysRev.95.117
+# Quantity        : 6Li(n,t)4He cross section
+# REACTION        : 3-LI-6(N,T)2-HE-4,,SIG
+# File ID         : n-Li6-t-sig-excfun-mon-prodHe4_Weddell_1954_11076.002
+#
+# npts            : 2           
+# xmin            :   1.5000E+06
+# xmax            :   2.0000E+06
+# ymin            :   2.4000E-01
+# ymax            :   2.8000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.8000E-01  5.0000E-02
+  2.0000E+06  0.0000E+00  2.4000E-01  4.0000E-02
+#---------------------------------------------------

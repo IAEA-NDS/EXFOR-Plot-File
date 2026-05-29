@@ -1,0 +1,23 @@
+# EXFOR #         : 10940.002  
+# EXFOR Ver.      : 19810428
+# TRANS #         : 0000
+# Author          : C.Zanelli et al.
+# Reference       : Phys.Rev.C 23 (1981) 1015
+# DOI             : 10.1103/PhysRevC.23.1015
+# Quantity        : natC(n,non) cross section
+# REACTION        : 6-C-0(N,NON),,SIG
+# File ID         : n-C-non-sig-excfun-mon-Zanelli_1981_10940.002
+#
+# npts            : 2           
+# xmin            :   4.0300E+07
+# xmax            :   5.0400E+07
+# ymin            :   3.4400E-01
+# ymax            :   3.5600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0300E+07  0.0000E+00  3.5600E-01  2.8000E-02
+  5.0400E+07  0.0000E+00  3.4400E-01  2.8000E-02
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 22365.002  
+# EXFOR Ver.      : 19990604
+# TRANS #         : 0000
+# Author          : Y.Satoh et al.
+# Reference       : Report (proceedings) JAERI-C-95-008 page 189, 1995
+# DOI             : N/A
+# Quantity        : 23Na(n,p)23Ne cross section
+# REACTION        : 11-NA-23(N,P)10-NE-23,,SIG
+# File ID         : n-Na23-p-sig-excfun-mon-prodNe23_Satoh_1995_22365.002
+#
+# npts            : 3           
+# xmin            :   1.3650E+07
+# xmax            :   1.4870E+07
+# ymin            :   4.0500E-02
+# ymax            :   4.3400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3650E+07  9.0000E+04  4.3400E-02  5.9458E-03
+  1.4280E+07  9.0000E+04  4.2100E-02  5.4309E-03
+  1.4870E+07  9.0000E+04  4.0500E-02  5.5485E-03
+#---------------------------------------------------

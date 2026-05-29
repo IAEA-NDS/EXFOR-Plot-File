@@ -1,0 +1,27 @@
+# EXFOR #         : 30767.003.2
+# EXFOR Ver.      : 20010402
+# TRANS #         : 0000
+# Author          : E.Dobreva et al.
+# Reference       : J.Rad.Nucl.Chem. 81 (1984) 29
+# DOI             : 10.1007/BF02132918
+# Quantity        : 238U(n,f) independent fission product yield
+# REACTION        : 92-U-238(N,F)ELEM/MASS,IND,FY,,SPA
+# File ID         : n-U238-f-fyi-nucdis-spa-einc1.000E+06_Dobreva_1984_30767.003.2
+#
+# Einc (eV)       :   1.0000E+06
+#
+# npts            : 4           
+# xmin            : 52133.9     
+# xmax            : 53134.9     
+# ymin            :   1.8000E-04
+# ymax            :   2.9100E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     53132.9  1.8000E-04  5.0000E-06
+     52133.9  2.9100E-02  1.8000E-03
+     53133.9  1.9900E-03  4.0000E-04
+     53134.9  7.7000E-03  7.0000E-04
+#---------------------------------------------------

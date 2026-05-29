@@ -1,0 +1,26 @@
+# EXFOR #         : 22329.002  
+# EXFOR Ver.      : 19981102
+# TRANS #         : 0000
+# Author          : M.C.Moxon et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 page 981
+# DOI             : N/A
+# Quantity        : 238U(n,inl)238U partial angular differential cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,DA
+# File ID         : n-U238-inl-adxl-angdisl-mon-einc1.824E+05_elvl4.491E+04_prodU238_Moxon_1994_22329.002
+#
+# Einc (eV)       :   1.8240E+05
+# dEinc (eV)      :   5.0000E+01
+# Elvl (eV)       :   4.4910E+04
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   9.2800E-02
+# ymax            :   9.2800E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  9.2800E-02  4.0000E-03
+#---------------------------------------------------

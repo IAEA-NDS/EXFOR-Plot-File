@@ -1,0 +1,31 @@
+# EXFOR #         : 11500.004  
+# EXFOR Ver.      : 20120412
+# TRANS #         : 1381
+# Author          : V.E.Scherrer et al.
+# Reference       : Phys.Rev. 98 (1955) 224(B7)
+# DOI             : N/A
+# Quantity        : 55Mn(n,inl)55Mn partial gamma angular differential cross section
+# REACTION        : 25-MN-55(N,INL)25-MN-55,PAR,DA,G,4PI
+# File ID         : n-Mn55-inl-adxgl-enedisl-mon-einc2.500E+06_angl90_prodMn55_Scherrer_1955_11500.004
+#
+# Einc (eV)       :   2.5000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 7           
+# xmin            :   1.3000E+05
+# xmax            :   2.2200E+06
+# ymin            :   1.7507E-05
+# ymax            :   3.8197E-05
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.3000E+05  0.0000E+00  3.8197E-05  9.5493E-06
+  5.8000E+05  0.0000E+00  2.6261E-05  6.5651E-06
+  8.7000E+05  0.0000E+00  3.8197E-05  9.5493E-06
+  1.1600E+06  0.0000E+00  1.8303E-05  4.5757E-06
+  1.5000E+06  0.0000E+00  2.3873E-05  5.9683E-06
+  1.8600E+06  0.0000E+00  1.7507E-05  4.3768E-06
+  2.2200E+06  0.0000E+00  2.3873E-05  5.9683E-06
+#---------------------------------------------------

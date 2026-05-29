@@ -1,0 +1,25 @@
+# EXFOR #         : 20878.011  
+# EXFOR Ver.      : 20211221
+# TRANS #         : 2306
+# Author          : H.O.Denschlag et al.
+# Reference       : Private communication  (1977)
+# DOI             : N/A
+# Quantity        : 249Cf(n,f) cumulative fission product yield
+# REACTION        : 98-CF-249(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-Cf249-f-fyc-nucdis-mxw-einc2.530E-02_Denschlag_1977_20878.011
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 50132.9     
+# xmax            : 51132.9     
+# ymin            :   1.4000E-03
+# ymax            :   1.7900E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     50132.9  1.4000E-03  6.0000E-04
+     51132.9  1.7900E-02  4.1000E-03
+#---------------------------------------------------

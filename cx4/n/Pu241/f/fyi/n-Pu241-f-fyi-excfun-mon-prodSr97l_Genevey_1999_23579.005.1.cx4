@@ -1,0 +1,22 @@
+# EXFOR #         : 23579.005.1
+# EXFOR Ver.      : 20200801
+# TRANS #         : 2293
+# Author          : J.Genevey et al.
+# Reference       : Phys.Rev.C 59 (1999) 82
+# DOI             : 10.1103/PhysRevC.59.82
+# Quantity        : 241Pu(n,f)97lSr independent fission product yield
+# REACTION        : 94-PU-241(N,F)38-SR-97-L,IND,FY
+# File ID         : n-Pu241-f-fyi-excfun-mon-prodSr97l_Genevey_1999_23579.005.1
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.0000E-03
+# ymax            :   1.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,ind      dFY,ind     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.0000E-03  3.0000E-04
+#---------------------------------------------------

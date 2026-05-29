@@ -1,0 +1,22 @@
+# EXFOR #         : 23166.016.2
+# EXFOR Ver.      : 20211119
+# TRANS #         : 2305
+# Author          : R.Reifarth et al.
+# Reference       : Phys.Rev.C 85 (2012) 035802
+# DOI             : 10.1103/PhysRevC.85.035802
+# Quantity        : 70Zn(n,g)71mZn cross section
+# REACTION        : 30-ZN-70(N,G)30-ZN-71-M,,SIG,,SPA
+# File ID         : n-Zn70-g-sig-excfun-spa-prodZn71m_Reifarth_2012_23166.016.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   7.2100E-03
+# ymax            :   7.2100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  7.2100E-03  3.5000E-04
+#---------------------------------------------------

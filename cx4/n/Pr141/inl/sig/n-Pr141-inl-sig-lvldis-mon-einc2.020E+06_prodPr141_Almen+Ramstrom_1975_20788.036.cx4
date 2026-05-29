@@ -1,0 +1,26 @@
+# EXFOR #         : 20788.036  
+# EXFOR Ver.      : 20120731
+# TRANS #         : 2232
+# Author          : E.Almen-Ramstrom
+# Reference       : Report AE-503, 1975
+# DOI             : N/A
+# Quantity        : 141Pr(n,inl)141Pr partial cross section
+# REACTION        : 59-PR-141(N,INL)59-PR-141,PAR,SIG
+# File ID         : n-Pr141-inl-sig-lvldis-mon-einc2.020E+06_prodPr141_Almen+Ramstrom_1975_20788.036
+#
+# Einc (eV)       :   2.0200E+06
+#
+# npts            : 3           
+# xmin            :   1.1230E+06
+# xmax            :   1.4775E+06
+# ymin            :   2.0600E-01
+# ymax            :   5.0300E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1230E+06  5.0000E+03  2.7200E-01  4.1000E-02
+  1.2955E+06  3.5000E+03  2.0600E-01  3.1000E-02
+  1.4775E+06  4.2500E+04  5.0300E-01  7.5000E-02
+#---------------------------------------------------

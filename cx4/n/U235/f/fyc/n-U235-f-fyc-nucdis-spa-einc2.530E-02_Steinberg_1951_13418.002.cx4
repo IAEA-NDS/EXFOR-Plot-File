@@ -1,0 +1,25 @@
+# EXFOR #         : 13418.002  
+# EXFOR Ver.      : 20201010
+# TRANS #         : 1474
+# Author          : E.P.Steinberg
+# Reference       : Private communication  (1951)
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U235-f-fyc-nucdis-spa-einc2.530E-02_Steinberg_1951_13418.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 50121.9     
+# xmax            : 50125.9     
+# ymin            :   1.2000E-04
+# ymax            :   1.4000E-04
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     50121.9  1.4000E-04  0.0000E+00
+     50125.9  1.2000E-04  0.0000E+00
+#---------------------------------------------------

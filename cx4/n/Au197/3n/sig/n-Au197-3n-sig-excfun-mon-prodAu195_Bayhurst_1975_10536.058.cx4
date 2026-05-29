@@ -1,0 +1,23 @@
+# EXFOR #         : 10536.058  
+# EXFOR Ver.      : 20040511
+# TRANS #         : 0000
+# Author          : B.P.Bayhurst et al.
+# Reference       : Phys.Rev.C 12 (1975) 451
+# DOI             : 10.1103/PhysRevC.12.451
+# Quantity        : 197Au(n,3n)195Au cross section
+# REACTION        : 79-AU-197(N,3N)79-AU-195,,SIG
+# File ID         : n-Au197-3n-sig-excfun-mon-prodAu195_Bayhurst_1975_10536.058
+#
+# npts            : 2           
+# xmin            :   1.6190E+07
+# xmax            :   2.8080E+07
+# ymin            :   3.5000E-02
+# ymax            :   1.5350E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6190E+07  1.3000E+05  3.5000E-02  2.0000E-02
+  2.8080E+07  1.4000E+05  1.5350E+00  7.1000E-02
+#---------------------------------------------------

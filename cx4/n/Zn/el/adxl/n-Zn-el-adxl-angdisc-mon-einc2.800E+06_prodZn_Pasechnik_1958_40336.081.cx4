@@ -1,0 +1,31 @@
+# EXFOR #         : 40336.081  
+# EXFOR Ver.      : 20100322
+# TRANS #         : 4149
+# Author          : M.V.Pasechnik et al.
+# Reference       : Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 18
+# DOI             : N/A
+# Quantity        : natZn(n,el)natZn angular differential cross section
+# REACTION        : 30-ZN-0(N,EL)30-ZN-0,,DA
+# File ID         : n-Zn-el-adxl-angdisc-mon-einc2.800E+06_prodZn_Pasechnik_1958_40336.081
+#
+# Einc (eV)       :   2.8000E+06
+#
+# npts            : 8           
+# xmin            :   25.3646100
+# xmax            :  140.5608000
+# ymin            :   5.6500E-02
+# ymax            :   7.7830E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  25.3646100   0.0000000  7.7830E-01  5.8300E-02
+  45.6211100   0.0000000  2.7410E-01  1.9600E-02
+  60.7579600   0.0000000  8.8600E-02  1.5800E-02
+  74.8409100   0.0000000  5.6500E-02  4.0000E-03
+  89.8739400   0.0000000  9.0000E-02  6.0000E-03
+ 109.8281000   0.0000000  9.7000E-02  1.1100E-02
+ 123.7313000   0.0000000  7.1200E-02  6.1000E-03
+ 140.5608000   0.0000000  9.0100E-02  7.2000E-03
+#---------------------------------------------------

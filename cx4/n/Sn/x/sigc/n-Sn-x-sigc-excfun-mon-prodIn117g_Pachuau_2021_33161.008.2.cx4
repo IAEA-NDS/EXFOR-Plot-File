@@ -1,0 +1,22 @@
+# EXFOR #         : 33161.008.2
+# EXFOR Ver.      : 20210830
+# TRANS #         : 3205
+# Author          : R.Pachuau et al.
+# Reference       : Eur.Phys.J.A 57 (2021) 268
+# DOI             : 10.1140/epja/s10050-021-00578-6
+# Quantity        : natSn(n,x)117gIn cumulative production cross section
+# REACTION        : 50-SN-0(N,X)49-IN-117-G,M+,SIG
+# File ID         : n-Sn-x-sigc-excfun-mon-prodIn117g_Pachuau_2021_33161.008.2
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   9.0000E-04
+# ymax            :   9.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  2.0000E+05  9.0000E-04  1.1000E-04
+#---------------------------------------------------

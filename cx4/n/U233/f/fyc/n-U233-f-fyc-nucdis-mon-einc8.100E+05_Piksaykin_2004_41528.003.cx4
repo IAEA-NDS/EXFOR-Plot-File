@@ -1,0 +1,27 @@
+# EXFOR #         : 41528.003  
+# EXFOR Ver.      : 20210316
+# TRANS #         : 4195
+# Author          : V.M.Piksaykin et al.
+# Reference       : Report (proceedings) ISINN-12 page 342, 2004
+# DOI             : N/A
+# Quantity        : 233U(n,f) cumulative fission product yield
+# REACTION        : 92-U-233(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-U233-f-fyc-nucdis-mon-einc8.100E+05_Piksaykin_2004_41528.003
+#
+# Einc (eV)       :   8.1000E+05
+#
+# npts            : 4           
+# xmin            : 53137.9     
+# xmax            : 53140.9     
+# ymin            :   1.6000E-04
+# ymax            :   1.5500E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     53137.9  1.5500E-02  6.0000E-04
+     53138.9  4.5100E-03  8.0000E-05
+     53139.9  1.1200E-03  2.0000E-05
+     53140.9  1.6000E-04  1.0000E-05
+#---------------------------------------------------

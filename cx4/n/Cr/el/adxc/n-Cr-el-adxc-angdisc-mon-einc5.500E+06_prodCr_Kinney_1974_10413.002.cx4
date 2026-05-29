@@ -1,0 +1,27 @@
+# EXFOR #         : 10413.002  
+# EXFOR Ver.      : 20030220
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4806, 1974
+# DOI             : N/A
+# Quantity        : natCr(n,el)natCr angular differential cross section
+# REACTION        : 24-CR-0(N,EL)24-CR-0,,DA
+# File ID         : n-Cr-el-adxc-angdisc-mon-einc5.500E+06_prodCr_Kinney_1974_10413.002
+#
+# Einc (eV)       :   5.5000E+06
+# dEinc (eV)      :   5.0000E+04
+#
+# npts            : 3           
+# xmin            :   48.3200000
+# xmax            :   63.4800000
+# ymin            :   2.9700E-02
+# ymax            :   1.9288E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  48.3200000   0.0000000  1.9288E-01  0.0000E+00
+  55.9100000   0.0000000  8.1760E-02  0.0000E+00
+  63.4800000   0.0000000  2.9700E-02  0.0000E+00
+#---------------------------------------------------

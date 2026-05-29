@@ -1,0 +1,26 @@
+# EXFOR #         : 30594.006  
+# EXFOR Ver.      : 20211005
+# TRANS #         : 3202
+# Author          : Shi Zong-Ren et al.
+# Reference       : Chin.J.Nucl.Phys. 1 (1979) 45
+# DOI             : N/A
+# Quantity        : 24Mg(n,inl)24Mg partial gamma angular differential cross section
+# REACTION        : 12-MG-24(N,INL)12-MG-24,PAR,DA,G
+# File ID         : n-Mg24-inl-adxgl-enedisl-mon-einc1.490E+07_angl93_prodMg24_Shi%Zong+Ren_1979_30594.006
+#
+# Einc (eV)       :   1.4900E+07
+# dEinc (eV)      :   2.3000E+05
+# theta,lab (deg) :   93.0000000
+#
+# npts            : 1           
+# xmin            :   1.3700E+06
+# xmax            :   1.3700E+06
+# ymin            :   2.9300E-02
+# ymax            :   2.9300E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.3700E+06  0.0000E+00  2.9300E-02  2.3000E-03
+#---------------------------------------------------

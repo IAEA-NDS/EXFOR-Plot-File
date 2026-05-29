@@ -1,0 +1,30 @@
+# EXFOR #         : 40275.002  
+# EXFOR Ver.      : 20151215
+# TRANS #         : 4173
+# Author          : N.S.Biryukov et al.
+# Reference       : Sov.J.Nucl.Phys. 19 (1974) 613
+# DOI             : N/A
+# Quantity        : 93Nb(n,inl)93Nb double differential cross section
+# REACTION        : 41-NB-93(N,INL)41-NB-93,,DA/DE
+# File ID         : n-Nb93-inl-ddxl-angdisl-mon-einc9.100E+06_eoutl5.070E+06_prodNb93_Biryukov_1974_40275.002
+#
+# Einc (eV)       :   9.1000E+06
+# dEinc (eV)      :   2.0000E+05
+# Eout,lab (eV)   :   5.0700E+06
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   1.5000E-09
+# ymax            :   5.3000E-09
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  30.0000000   0.0000000  5.3000E-09  1.1000E-09
+  60.0000000   0.0000000  2.8000E-09  1.2000E-09
+  90.0000000   0.0000000  4.6000E-09  1.3000E-09
+ 120.0000000   0.0000000  1.5000E-09  1.0000E-09
+ 150.0000000   0.0000000  3.3000E-09  1.1000E-09
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 10683.004  
+# EXFOR Ver.      : 20080925
+# TRANS #         : 1350
+# Author          : D.C.Harris et al.
+# Reference       : Nucl.Sci.Eng. 63 (1977) 504
+# DOI             : 10.13182/NSE77-A27065
+# Quantity        : 238U(n,f)140Ba cumulative fission product yield
+# REACTION        : 92-U-238(N,F)56-BA-140,CUM,FY,,FIS
+# File ID         : n-U238-f-fyc-excfun-fis-prodBa140_Harris_1977_10683.004
+#
+# npts            : 1           
+# xmin            :   1.5200E+06
+# xmax            :   1.5200E+06
+# ymin            :   6.0700E-02
+# ymax            :   6.0700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  1.5200E+06  0.0000E+00  6.0700E-02  3.9000E-02
+#---------------------------------------------------

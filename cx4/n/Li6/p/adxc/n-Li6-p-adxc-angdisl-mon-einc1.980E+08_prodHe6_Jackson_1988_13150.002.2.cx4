@@ -1,0 +1,24 @@
+# EXFOR #         : 13150.002.2
+# EXFOR Ver.      : 19890123
+# TRANS #         : 0000
+# Author          : K.P.Jackson et al.
+# Reference       : Phys.Lett.B 201 (1988) 25
+# DOI             : 10.1016/0370-2693(88)90073-1
+# Quantity        : 6Li(n,p)6He angular differential cross section
+# REACTION        : 3-LI-6(N,P)2-HE-6,,DA
+# File ID         : n-Li6-p-adxc-angdisl-mon-einc1.980E+08_prodHe6_Jackson_1988_13150.002.2
+#
+# Einc (eV)       :   1.9800E+08
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   1.5510E-02
+# ymax            :   1.5510E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  1.5510E-02  5.5000E-04
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 13227.002  
+# EXFOR Ver.      : 19881102
+# TRANS #         : 0000
+# Author          : R.J.Meyer et al.
+# Reference       : Progress report ANL-6900 page 339, 1964
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U235-f-fyc-nucdis-spa-einc2.530E-02_Meyer_1964_13227.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 55133.9     
+# xmax            : 55137.9     
+# ymin            :   6.2200E-02
+# ymax            :   6.6500E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     55133.9  6.6500E-02  7.0000E-04
+     55137.9  6.2200E-02  4.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 10798.006  
+# EXFOR Ver.      : 20101023
+# TRANS #         : 1368
+# Author          : S.Nagy et al.
+# Reference       : Phys.Rev.C 17 (1978) 163
+# DOI             : 10.1103/PhysRevC.17.163
+# Quantity        : 238U(n,f) cumulative fission product yield
+# REACTION        : 92-U-238(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-U238-f-fyc-nucdis-mon-einc3.900E+06_Nagy_1978_10798.006
+#
+# Einc (eV)       :   3.9000E+06
+#
+# npts            : 3           
+# xmin            : 47113.0     
+# xmax            : 50121.0     
+# ymin            :   2.9000E-04
+# ymax            :   3.4000E-04
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     47113.0  3.4000E-04  8.0000E-05
+     48115.0  2.9000E-04  3.0000E-05
+     50121.0  2.9000E-04  3.0000E-05
+#---------------------------------------------------

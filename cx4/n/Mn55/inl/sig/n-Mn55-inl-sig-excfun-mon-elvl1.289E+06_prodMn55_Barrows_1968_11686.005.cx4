@@ -1,0 +1,25 @@
+# EXFOR #         : 11686.005  
+# EXFOR Ver.      : 20220320
+# TRANS #         : 1494
+# Author          : A.W.Barrows et al.
+# Reference       : Nucl.Phys.A 107 (1968) 153
+# DOI             : 10.1016/0375-9474(68)90732-X
+# Quantity        : 55Mn(n,inl)55Mn partial cross section
+# REACTION        : 25-MN-55(N,INL)25-MN-55,PAR,SIG
+# File ID         : n-Mn55-inl-sig-excfun-mon-elvl1.289E+06_prodMn55_Barrows_1968_11686.005
+#
+# Elvl (eV)       :   1.2890E+06
+#
+# npts            : 2           
+# xmin            :   1.8300E+06
+# xmax            :   2.2100E+06
+# ymin            :   3.8000E-02
+# ymax            :   6.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8300E+06  7.0000E+04  3.8000E-02  0.0000E+00
+  2.2100E+06  7.0000E+04  6.9000E-02  0.0000E+00
+#---------------------------------------------------

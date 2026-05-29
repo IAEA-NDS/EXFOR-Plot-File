@@ -1,0 +1,22 @@
+# EXFOR #         : 30712.016  
+# EXFOR Ver.      : 20150520
+# TRANS #         : 3170
+# Author          : K.Dietze et al.
+# Reference       : Kernenergie 29 (1986) 401
+# DOI             : N/A
+# Quantity        : 103Rh(n,abs) cross section
+# REACTION        : 45-RH-103(N,ABS),,SIG,,SPA
+# File ID         : n-Rh103-abs-sig-excfun-spa-Dietze_1986_30712.016
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   1.6100E+00
+# ymax            :   1.6100E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  1.6100E+00  1.8000E-01
+#---------------------------------------------------

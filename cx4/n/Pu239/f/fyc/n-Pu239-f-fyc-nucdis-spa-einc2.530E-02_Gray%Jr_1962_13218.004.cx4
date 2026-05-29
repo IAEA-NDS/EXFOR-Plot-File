@@ -1,0 +1,25 @@
+# EXFOR #         : 13218.004  
+# EXFOR Ver.      : 20210519
+# TRANS #         : 1486
+# Author          : J.Gray Jr et al.
+# Reference       : Private communication  (1962)
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-Pu239-f-fyc-nucdis-spa-einc2.530E-02_Gray%Jr_1962_13218.004
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 36085.0     
+# xmax            : 36085.0     
+# ymin            :   1.1820E-03
+# ymax            :   1.3140E-03
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     36085.0  1.1820E-03  1.1000E-05
+     36085.0  1.3140E-03  1.1000E-05
+#---------------------------------------------------

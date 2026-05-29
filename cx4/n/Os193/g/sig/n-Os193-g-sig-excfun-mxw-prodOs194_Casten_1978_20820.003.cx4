@@ -1,0 +1,22 @@
+# EXFOR #         : 20820.003  
+# EXFOR Ver.      : 20201218
+# TRANS #         : 2296
+# Author          : R.F.Casten et al.
+# Reference       : Phys.Lett.B 76 (1978) 280
+# DOI             : 10.1016/0370-2693(78)90787-6
+# Quantity        : 193Os(n,g)194Os cross section
+# REACTION        : 76-OS-193(N,G)76-OS-194,,SIG,,MXW
+# File ID         : n-Os193-g-sig-excfun-mxw-prodOs194_Casten_1978_20820.003
+#
+# npts            : 1           
+# xmin            :   2.5000E-02
+# xmax            :   2.5000E-02
+# ymin            :   3.8000E+01
+# ymax            :   3.8000E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  0.0000E+00  3.8000E+01  1.0000E+01
+#---------------------------------------------------

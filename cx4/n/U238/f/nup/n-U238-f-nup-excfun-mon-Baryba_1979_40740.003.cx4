@@ -1,0 +1,22 @@
+# EXFOR #         : 40740.003  
+# EXFOR Ver.      : 20111220
+# TRANS #         : 4155
+# Author          : V.Ya.Baryba et al.
+# Reference       : Report FEI-947, 1979
+# DOI             : N/A
+# Quantity        : 238U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-238(N,F),PR,NU
+# File ID         : n-U238-f-nup-excfun-mon-Baryba_1979_40740.003
+#
+# npts            : 1           
+# xmin            :   1.4300E+07
+# xmax            :   1.4300E+07
+# ymin            :   5.0700E+00
+# ymax            :   5.0700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.4300E+07  0.0000E+00  5.0700E+00  1.3000E-01
+#---------------------------------------------------

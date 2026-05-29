@@ -1,0 +1,22 @@
+# EXFOR #         : 30812.009  
+# EXFOR Ver.      : 20090910
+# TRANS #         : 3141
+# Author          : I.Ribansky et al.
+# Reference       : Ann.Nucl.Energy 12 (1985) 577
+# DOI             : 10.1016/0306-4549(85)90010-6
+# Quantity        : 54Cr(n,a)51Ti cross section
+# REACTION        : 24-CR-54(N,A)22-TI-51,,SIG
+# File ID         : n-Cr54-a-sig-excfun-mon-prodTi51_Ribansky_1985_30812.009
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   1.1000E-02
+# ymax            :   1.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  0.0000E+00  1.1000E-02  5.0000E-04
+#---------------------------------------------------

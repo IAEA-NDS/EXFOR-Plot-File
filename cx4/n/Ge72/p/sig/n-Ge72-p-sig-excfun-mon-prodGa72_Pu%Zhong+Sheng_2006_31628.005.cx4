@@ -1,0 +1,24 @@
+# EXFOR #         : 31628.005  
+# EXFOR Ver.      : 20080724
+# TRANS #         : 3128
+# Author          : Pu Zhong-Sheng et al.
+# Reference       : High En.Nucl.Phy.Ch. 30 (2006) 1171
+# DOI             : N/A
+# Quantity        : 72Ge(n,p)72Ga cross section
+# REACTION        : 32-GE-72(N,P)31-GA-72,,SIG
+# File ID         : n-Ge72-p-sig-excfun-mon-prodGa72_Pu%Zhong+Sheng_2006_31628.005
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.4600E+07
+# ymin            :   2.6000E-02
+# ymax            :   2.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  3.0000E+05  2.6000E-02  3.0000E-03
+  1.4100E+07  2.0000E+05  2.9000E-02  3.0000E-03
+  1.4600E+07  3.0000E+05  2.8000E-02  3.0000E-03
+#---------------------------------------------------

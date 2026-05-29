@@ -1,0 +1,23 @@
+# EXFOR #         : 41614.189  
+# EXFOR Ver.      : 20160512
+# TRANS #         : 4174
+# Author          : A.A.Filatenkov
+# Reference       : Report INDC(CCP)-0460, 2016
+# DOI             : N/A
+# Quantity        : 186W(n,n+a)182mHf cross section
+# REACTION        : 74-W-186(N,N+A)72-HF-182-M,,SIG
+# File ID         : n-W186-na-sig-excfun-mon-prodHf182m_Filatenkov_2016_41614.189
+#
+# npts            : 2           
+# xmin            :   1.4720E+07
+# xmax            :   1.4810E+07
+# ymin            :   6.3000E-06
+# ymax            :   6.5000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4720E+07  0.0000E+00  6.3000E-06  1.2978E-06
+  1.4810E+07  0.0000E+00  6.5000E-06  1.5015E-06
+#---------------------------------------------------

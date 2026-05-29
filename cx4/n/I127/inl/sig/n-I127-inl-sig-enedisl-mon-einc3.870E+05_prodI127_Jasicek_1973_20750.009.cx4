@@ -1,0 +1,26 @@
+# EXFOR #         : 20750.009  
+# EXFOR Ver.      : 20170724
+# TRANS #         : 2263
+# Author          : H.A.Jasicek
+# Reference       : Thesis  (1973)
+# DOI             : N/A
+# Quantity        : 127I(n,inl)127I partial cross section
+# REACTION        : 53-I-127(N,INL)53-I-127,PAR,SIG
+# File ID         : n-I127-inl-sig-enedisl-mon-einc3.870E+05_prodI127_Jasicek_1973_20750.009
+#
+# Einc (eV)       :   3.8700E+05
+# dEinc (eV)      :   9.0000E+03
+#
+# npts            : 2           
+# xmin            :   6.0000E+04
+# xmax            :   2.0000E+05
+# ymin            :   2.0000E-01
+# ymax            :   6.6000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+04  3.0000E+04  6.6000E-01  1.5000E-01
+  2.0000E+05  3.0000E+04  2.0000E-01  1.0000E-01
+#---------------------------------------------------

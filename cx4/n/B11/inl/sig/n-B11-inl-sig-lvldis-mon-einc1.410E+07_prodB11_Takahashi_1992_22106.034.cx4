@@ -1,0 +1,27 @@
+# EXFOR #         : 22106.034  
+# EXFOR Ver.      : 20090320
+# TRANS #         : 2209
+# Author          : A.Takahashi et al.
+# Reference       : Report OKTAV-A-92-01, 1992
+# DOI             : N/A
+# Quantity        : 11B(n,inl)11B partial cross section
+# REACTION        : 5-B-11(N,INL)5-B-11,PAR,SIG
+# File ID         : n-B11-inl-sig-lvldis-mon-einc1.410E+07_prodB11_Takahashi_1992_22106.034
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 3           
+# xmin            :   2.1250E+06
+# xmax            :   1.0600E+07
+# ymin            :   2.1800E-02
+# ymax            :   7.1700E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1250E+06  0.0000E+00  4.2700E-02  1.7000E-03
+  7.9780E+06  0.0000E+00  2.1800E-02  1.5000E-03
+  1.0600E+07  0.0000E+00  7.1700E-02  5.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 14019.002  
+# EXFOR Ver.      : 20181203
+# TRANS #         : 1445
+# Author          : G.H.R.Kegel et al.
+# Reference       : Progress report DOE-NDC-12 page 151, 1978
+# DOI             : N/A
+# Quantity        : 238U(n,inl)238U angular differential cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,,DA
+# File ID         : n-U238-inl-adxl-angdisl-mon-einc1.120E+05_prodU238_Kegel_1978_14019.002
+#
+# Einc (eV)       :   1.1200E+05
+#
+# npts            : 1           
+# xmin            :  135.0000000
+# xmax            :  135.0000000
+# ymin            :   5.6600E-02
+# ymax            :   5.6600E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 135.0000000   0.0000000  5.6600E-02  7.6000E-03
+#---------------------------------------------------

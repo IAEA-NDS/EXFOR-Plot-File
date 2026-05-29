@@ -1,0 +1,27 @@
+# EXFOR #         : 13266.002  
+# EXFOR Ver.      : 20200110
+# TRANS #         : 1465
+# Author          : A.A.Delucchi et al.
+# Reference       : Phys.Rev.C 1 (1970) 1491
+# DOI             : 10.1103/PhysRevC.1.1491
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY,,SPA
+# File ID         : n-U235-f-fyi-nucdis-spa-einc2.530E-02_Delucchi_1970_13266.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 4           
+# xmin            : 53131.9     
+# xmax            : 53134.9     
+# ymin            :   4.2000E-05
+# ymax            :   9.0000E-03
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     53131.9  4.2000E-05  4.0000E-06
+     53132.9  1.7400E-04  1.1000E-05
+     53133.9  1.7600E-03  9.0000E-05
+     53134.9  9.0000E-03  8.0000E-04
+#---------------------------------------------------

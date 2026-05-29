@@ -1,0 +1,22 @@
+# EXFOR #         : 30812.005  
+# EXFOR Ver.      : 20211005
+# TRANS #         : 3202
+# Author          : I.Ribansky et al.
+# Reference       : Ann.Nucl.Energy 12 (1985) 577
+# DOI             : 10.1016/0306-4549(85)90010-6
+# Quantity        : 53Cr(n,x)52V independent production cross section
+# REACTION        : 24-CR-53(N,X)23-V-52,,SIG
+# File ID         : n-Cr53-x-sig-excfun-mon-prodV52_Ribansky_1985_30812.005
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   7.6000E-02
+# ymax            :   7.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  0.0000E+00  7.6000E-02  6.0000E-04
+#---------------------------------------------------

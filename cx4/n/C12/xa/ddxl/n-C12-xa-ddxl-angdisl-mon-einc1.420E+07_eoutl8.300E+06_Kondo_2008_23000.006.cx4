@@ -1,0 +1,27 @@
+# EXFOR #         : 23000.006  
+# EXFOR Ver.      : 20090826
+# TRANS #         : 2217
+# Author          : K.Kondo et al.
+# Reference       : J.Nucl.Sci.Technol. 45 No.2 (2008) 103
+# DOI             : 10.1080/18811248.2008.9711420
+# Quantity        : 12C(n,a+x) double differential cross section
+# REACTION        : 6-C-12(N,X)2-HE-4,,DA/DE
+# File ID         : n-C12-xa-ddxl-angdisl-mon-einc1.420E+07_eoutl8.300E+06_Kondo_2008_23000.006
+#
+# Einc (eV)       :   1.4200E+07
+# dEinc (eV)      :   2.0000E+05
+# Eout,lab (eV)   :   8.3000E+06
+# dEout,lab (eV)  :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   15.0000000
+# xmax            :   15.0000000
+# ymin            :   1.4290E-08
+# ymax            :   1.4290E-08
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  15.0000000   0.0000000  1.4290E-08  1.3950E-08
+#---------------------------------------------------

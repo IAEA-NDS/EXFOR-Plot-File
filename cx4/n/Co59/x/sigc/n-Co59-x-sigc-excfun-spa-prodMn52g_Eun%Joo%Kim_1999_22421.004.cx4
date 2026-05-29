@@ -1,0 +1,24 @@
+# EXFOR #         : 22421.004  
+# EXFOR Ver.      : 20171108
+# TRANS #         : 2267
+# Author          : Eun Joo Kim et al.
+# Reference       : J.Nucl.Sci.Technol. 36 No.1 (1999) 29
+# DOI             : 10.1080/18811248.1999.9726179
+# Quantity        : 59Co(n,x)52gMn cumulative production cross section
+# REACTION        : 27-CO-59(N,X)25-MN-52-G,M+,SIG,,SPA
+# File ID         : n-Co59-x-sigc-excfun-spa-prodMn52g_Eun%Joo%Kim_1999_22421.004
+#
+# npts            : 3           
+# xmin            :   6.1000E+07
+# xmax            :   7.5000E+07
+# ymin            :   2.5200E-03
+# ymax            :   3.7260E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.1000E+07  1.3000E+06  2.5200E-03  2.3260E-04
+  6.5000E+07  1.2500E+06  2.9070E-03  3.8660E-04
+  7.5000E+07  1.7000E+06  3.7260E-03  6.2220E-04
+#---------------------------------------------------

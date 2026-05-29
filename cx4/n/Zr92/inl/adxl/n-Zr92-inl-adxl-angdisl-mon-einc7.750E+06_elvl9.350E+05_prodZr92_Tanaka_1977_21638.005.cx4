@@ -1,0 +1,29 @@
+# EXFOR #         : 21638.005  
+# EXFOR Ver.      : 20220218
+# TRANS #         : 2309
+# Author          : S.Tanaka et al.
+# Reference       : Progress report NEANDC(J)-51 page 11, 1977
+# DOI             : N/A
+# Quantity        : 92Zr(n,inl)92Zr partial angular differential cross section
+# REACTION        : 40-ZR-92(N,INL)40-ZR-92,PAR,DA
+# File ID         : n-Zr92-inl-adxl-angdisl-mon-einc7.750E+06_elvl9.350E+05_prodZr92_Tanaka_1977_21638.005
+#
+# Einc (eV)       :   7.7500E+06
+# dEinc (eV)      :   1.0000E+05
+# Elvl (eV)       :   9.3500E+05
+#
+# npts            : 4           
+# xmin            :  110.0000000
+# xmax            :  140.0000000
+# ymin            :   2.3300E-03
+# ymax            :   3.1100E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 110.0000000   0.0000000  2.3300E-03  3.3000E-04
+ 120.0000000   0.0000000  2.6900E-03  3.0000E-04
+ 130.0000000   0.0000000  2.6000E-03  2.3000E-04
+ 140.0000000   0.0000000  3.1100E-03  2.9000E-04
+#---------------------------------------------------

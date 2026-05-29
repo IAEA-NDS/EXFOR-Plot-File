@@ -1,0 +1,27 @@
+# EXFOR #         : 10113.002  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4807, 1974
+# DOI             : N/A
+# Quantity        : natNi(n,el)natNi angular differential cross section
+# REACTION        : 28-NI-0(N,EL)28-NI-0,,DA
+# File ID         : n-Ni-el-adxl-angdisc-mon-einc7.030E+06_prodNi_Kinney_1974_10113.002
+#
+# Einc (eV)       :   7.0300E+06
+# dEinc (eV)      :   6.0000E+04
+#
+# npts            : 3           
+# xmin            :   70.9200000
+# xmax            :   85.9800000
+# ymin            :   2.8470E-02
+# ymax            :   3.4170E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  70.9200000   0.0000000  2.8470E-02  0.0000E+00
+  78.4600000   0.0000000  3.4170E-02  0.0000E+00
+  85.9800000   0.0000000  3.3210E-02  0.0000E+00
+#---------------------------------------------------

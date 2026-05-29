@@ -1,0 +1,23 @@
+# EXFOR #         : 20930.004  
+# EXFOR Ver.      : 20150702
+# TRANS #         : 2243
+# Author          : D.Crumpton et al.
+# Reference       : J.Inorg.Nucl.Chem. 31 (1969) 1
+# DOI             : N/A
+# Quantity        : 92Mo(n,2n)91gMo cross section
+# REACTION        : 42-MO-92(N,2N)42-MO-91-G,,SIG
+# File ID         : n-Mo92-2n-sig-excfun-mon-prodMo91g_Crumpton_1969_20930.004
+#
+# npts            : 2           
+# xmin            :   1.4700E+07
+# xmax            :   1.4800E+07
+# ymin            :   2.2200E-01
+# ymax            :   2.2700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  2.0000E+05  2.2200E-01  1.0000E-02
+  1.4800E+07  0.0000E+00  2.2700E-01  1.0000E-02
+#---------------------------------------------------

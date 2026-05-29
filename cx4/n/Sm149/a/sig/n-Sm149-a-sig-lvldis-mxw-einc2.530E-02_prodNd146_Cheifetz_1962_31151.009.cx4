@@ -1,0 +1,24 @@
+# EXFOR #         : 31151.009  
+# EXFOR Ver.      : 20131004
+# TRANS #         : 3161
+# Author          : E.Cheifetz et al.
+# Reference       : Phys.Lett. 1 (1962) 289
+# DOI             : 10.1016/0031-9163(62)91388-4
+# Quantity        : 149Sm(n,a)146Nd partial cross section
+# REACTION        : 62-SM-149(N,A)60-ND-146,PAR,SIG,,MXW
+# File ID         : n-Sm149-a-sig-lvldis-mxw-einc2.530E-02_prodNd146_Cheifetz_1962_31151.009
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 1           
+# xmin            :   4.3000E+05
+# xmax            :   4.3000E+05
+# ymin            :   3.7000E-02
+# ymax            :   3.7000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3000E+05  0.0000E+00  3.7000E-02  1.0000E-02
+#---------------------------------------------------

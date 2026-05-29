@@ -1,0 +1,29 @@
+# EXFOR #         : 22830.008  
+# EXFOR Ver.      : 20040325
+# TRANS #         : 0000
+# Author          : T.Sanami et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 No.1 (2002) 421
+# DOI             : N/A
+# Quantity        : natO(n,t+x) double differential cross section
+# REACTION        : 8-O-0(N,X)1-H-3,,DA/DE
+# File ID         : n-O-xt-ddxl-enedisl-mon-einc7.500E+07_angl125_Sanami_2002_22830.008
+#
+# Einc (eV)       :   7.5000E+07
+# theta,lab (deg) :  125.0000000
+#
+# npts            : 5           
+# xmin            :   2.8500E+07
+# xmax            :   4.0500E+07
+# ymin            :  -0.0000E+00
+# ymax            :   1.6260E-12
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.8500E+07  1.5000E+06  1.8830E-13  5.3220E-13
+  3.1500E+07  1.5000E+06  9.7140E-13  9.7880E-13
+  3.4500E+07  1.5000E+06 -0.0000E+00  0.0000E+00
+  3.7500E+07  1.5000E+06  1.6260E-12  1.1000E-12
+  4.0500E+07  1.5000E+06  3.3680E-13  2.6050E-13
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 20822.003  
+# EXFOR Ver.      : 20060807
+# TRANS #         : 2178
+# Author          : J.C.Robertson et al.
+# Reference       : J.Nucl.Energy 26 No.1 (1972) 1
+# DOI             : 10.1016/0022-3107(72)90041-X
+# Quantity        : 29Si(n,a)26Mg partial cross section
+# REACTION        : 14-SI-29(N,A)12-MG-26,PAR,SIG
+# File ID         : n-Si29-a-sig-lvldis-mon-einc5.310E+06_prodMg26_Robertson_1972_20822.003
+#
+# Einc (eV)       :   5.3100E+06
+# dEinc (eV)      :   6.0000E+04
+#
+# npts            : 1           
+# xmin            :   1.8100E+06
+# xmax            :   1.8100E+06
+# ymin            :   1.3400E-02
+# ymax            :   1.3400E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8100E+06  0.0000E+00  1.3400E-02  2.0000E-03
+#---------------------------------------------------

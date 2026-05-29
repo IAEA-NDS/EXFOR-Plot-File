@@ -1,0 +1,26 @@
+# EXFOR #         : 22491.014.1
+# EXFOR Ver.      : 20151006
+# TRANS #         : 2246
+# Author          : S.Benck et al.
+# Reference       : Phys.Rev.C 58 No.3 (1998) 1558
+# DOI             : 10.1103/PhysRevC.58.1558
+# Quantity        : 27Al(n,a+x) double differential cross section
+# REACTION        : 13-AL-27(N,X)2-HE-4,,DA/DE
+# File ID         : n-Al27-xa-ddxl-angdisl-mon-einc3.750E+07_eoutl3.750E+07_Benck_1998_22491.014.1
+#
+# Einc (eV)       :   3.7500E+07
+# dEinc (eV)      :   1.5000E+06
+# Eout,lab (eV)   :   3.7500E+07
+#
+# npts            : 1           
+# xmin            :   20.0000000
+# xmax            :   20.0000000
+# ymin            :   2.7000E-11
+# ymax            :   2.7000E-11
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  20.0000000   0.0000000  2.7000E-11  2.0000E-11
+#---------------------------------------------------

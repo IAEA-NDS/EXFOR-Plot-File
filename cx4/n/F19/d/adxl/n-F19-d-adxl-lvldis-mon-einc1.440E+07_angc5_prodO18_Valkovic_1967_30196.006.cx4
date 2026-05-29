@@ -1,0 +1,26 @@
+# EXFOR #         : 30196.006  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : V.Valkovic et al.
+# Reference       : Nucl.Phys.A 98 (1967) 305
+# DOI             : 10.1016/0375-9474(67)90141-8
+# Quantity        : 19F(n,d)18O partial angular differential cross section
+# REACTION        : 9-F-19(N,D)8-O-18,PAR,DA
+# File ID         : n-F19-d-adxl-lvldis-mon-einc1.440E+07_angc5_prodO18_Valkovic_1967_30196.006
+#
+# Einc (eV)       :   1.4400E+07
+# theta,cm (deg)  :    5.0000000
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   1.9800E+06
+# ymin            :   2.0700E-03
+# ymax            :   2.1800E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  2.1800E-02  0.0000E+00
+  1.9800E+06  0.0000E+00  2.0700E-03  0.0000E+00
+#---------------------------------------------------

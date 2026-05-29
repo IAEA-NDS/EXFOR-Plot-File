@@ -1,0 +1,25 @@
+# EXFOR #         : 22186.070  
+# EXFOR Ver.      : 20090519
+# TRANS #         : 2213
+# Author          : A.Takahashi et al.
+# Reference       : Report OKTAV-A-92-01, 1992
+# DOI             : N/A
+# Quantity        : natSb(n,inl)natSb partial cross section
+# REACTION        : 51-SB-0(N,INL)51-SB-0,PAR,SIG
+# File ID         : n-Sb-inl-sig-lvldis-mon-einc1.410E+07_prodSb_Takahashi_1992_22186.070
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 1           
+# xmin            :   2.5000E+06
+# xmax            :   2.5000E+06
+# ymin            :   8.0000E-02
+# ymax            :   8.0000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  1.5000E+06  8.0000E-02  1.6000E-02
+#---------------------------------------------------

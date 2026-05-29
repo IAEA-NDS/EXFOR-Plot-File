@@ -1,0 +1,22 @@
+# EXFOR #         : 41015.004  
+# EXFOR Ver.      : 20160604
+# TRANS #         : 4176
+# Author          : Yu.N.Trofimov
+# Reference       : Yad.Reak.Konst.  No.2 (1989) 11
+# DOI             : N/A
+# Quantity        : 120Te(n,g)121gTe cumulative production cross section
+# REACTION        : 52-TE-120(N,G)52-TE-121-G,(M),SIG
+# File ID         : n-Te120-x-sigc-excfun-mon-prodTe121g_Trofimov_1989_41015.004
+#
+# npts            : 1           
+# xmin            :   5.0000E+05
+# xmax            :   5.0000E+05
+# ymin            :   1.1500E-01
+# ymax            :   1.1500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+05  0.0000E+00  1.1500E-01  1.4000E-02
+#---------------------------------------------------

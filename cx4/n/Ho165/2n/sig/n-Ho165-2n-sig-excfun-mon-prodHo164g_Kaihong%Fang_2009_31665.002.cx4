@@ -1,0 +1,23 @@
+# EXFOR #         : 31665.002  
+# EXFOR Ver.      : 20101216
+# TRANS #         : 3148
+# Author          : Kaihong Fang et al.
+# Reference       : Radiat.Meas. 44 (2009) 68
+# DOI             : 10.1016/j.radmeas.2008.11.001
+# Quantity        : 165Ho(n,2n)164gHo cross section
+# REACTION        : 67-HO-165(N,2N)67-HO-164-G,,SIG
+# File ID         : n-Ho165-2n-sig-excfun-mon-prodHo164g_Kaihong%Fang_2009_31665.002
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4600E+07
+# ymin            :   4.4900E-01
+# ymax            :   5.1300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  2.0000E+05  5.1300E-01  5.8000E-02
+  1.4600E+07  3.0000E+05  4.4900E-01  6.1000E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 32748.002  
+# EXFOR Ver.      : 20171222
+# TRANS #         : 3181
+# Author          : Yu.M.Gledenov et al.
+# Reference       : Phys.Rev.C 89 (2014) 064607
+# DOI             : 10.1103/PhysRevC.89.064607
+# Quantity        : 57Fe(n,a)54Cr partial cross section
+# REACTION        : 26-FE-57(N,A)24-CR-54,PAR,SIG
+# File ID         : n-Fe57-a-sig-excfun-mon-elvl1.824E+06_prodCr54_Gledenov_2014_32748.002
+#
+# Elvl (eV)       :   1.8240E+06
+#
+# npts            : 2           
+# xmin            :   6.0000E+06
+# xmax            :   6.5000E+06
+# ymin            :   5.5000E-04
+# ymax            :   8.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+06  1.2000E+05  5.5000E-04  1.1000E-04
+  6.5000E+06  1.0000E+05  8.2000E-04  1.5000E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 41506.012  
+# EXFOR Ver.      : 20260206
+# TRANS #         : 4226
+# Author          : A.I.Egorov et al.
+# Reference       : Appl.Radiat.Isot. 65 (2007) 1290
+# DOI             : 10.1016/j.apradiso.2007.06.010
+# Quantity        : 124Sn(n,g)125mSn cross section
+# REACTION        : 50-SN-124(N,G)50-SN-125-M,,SIG
+# File ID         : n-Sn124-g-sig-excfun-mon-prodSn125m_Egorov_2007_41506.012
+#
+# npts            : 1           
+# xmin            :   2.8000E-02
+# xmax            :   2.8000E-02
+# ymin            :   1.5000E-01
+# ymax            :   1.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8000E-02  2.0000E-03  1.5000E-01  5.0000E-03
+#---------------------------------------------------

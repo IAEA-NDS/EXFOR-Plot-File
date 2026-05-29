@@ -1,0 +1,29 @@
+# EXFOR #         : 40230.009  
+# EXFOR Ver.      : 20151208
+# TRANS #         : 4173
+# Author          : G.N.Lovchikova
+# Reference       : Sov.At.Energy 13 (1963) 648
+# DOI             : 10.1007/BF01587331
+# Quantity        : natSi(n,el)natSi angular differential cross section
+# REACTION        : 14-SI-0(N,EL)14-SI-0,,DA
+# File ID         : n-Si-el-adxl-angdisl-mon-einc9.000E+05_prodSi_Lovchikova_1963_40230.009
+#
+# Einc (eV)       :   9.0000E+05
+# dEinc (eV)      :   4.0000E+04
+#
+# npts            : 5           
+# xmin            :   30.0040500
+# xmax            :  149.9856000
+# ymin            :   1.7500E-01
+# ymax            :   4.7000E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 149.9856000   0.0000000  1.7500E-01  2.0000E-02
+ 120.0000000   0.0000000  2.1000E-01  1.5000E-02
+  90.0000000   0.0000000  2.7000E-01  1.5000E-02
+  60.0000000   0.0000000  3.7000E-01  1.5000E-02
+  30.0040500   0.0000000  4.7000E-01  4.0000E-02
+#---------------------------------------------------

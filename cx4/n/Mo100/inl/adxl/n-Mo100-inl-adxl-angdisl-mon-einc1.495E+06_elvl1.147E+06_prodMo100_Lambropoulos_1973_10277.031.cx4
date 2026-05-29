@@ -1,0 +1,32 @@
+# EXFOR #         : 10277.031  
+# EXFOR Ver.      : 20011227
+# TRANS #         : 0000
+# Author          : P.Lambropoulos et al.
+# Reference       : Nucl.Phys.A 201 (1973) 1
+# DOI             : N/A
+# Quantity        : 100Mo(n,inl)100Mo partial angular differential cross section
+# REACTION        : 42-MO-100(N,INL)42-MO-100,PAR,DA
+# File ID         : n-Mo100-inl-adxl-angdisl-mon-einc1.495E+06_elvl1.147E+06_prodMo100_Lambropoulos_1973_10277.031
+#
+# Einc (eV)       :   1.4950E+06
+# dEinc (eV)      :   2.0000E+04
+# Elvl (eV)       :   1.1470E+06
+# dElvl (eV)      :   2.0000E+04
+#
+# npts            : 6           
+# xmin            :   28.5000000
+# xmax            :  154.5000000
+# ymin            :   1.4000E-02
+# ymax            :   2.4000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  28.5000000   0.0000000  2.4000E-02  0.0000E+00
+  38.5000000   0.0000000  2.2000E-02  0.0000E+00
+  69.5000000   0.0000000  1.5000E-02  0.0000E+00
+ 114.5000000   0.0000000  1.4000E-02  0.0000E+00
+ 129.5000000   0.0000000  1.5000E-02  0.0000E+00
+ 154.5000000   0.0000000  1.7000E-02  0.0000E+00
+#---------------------------------------------------

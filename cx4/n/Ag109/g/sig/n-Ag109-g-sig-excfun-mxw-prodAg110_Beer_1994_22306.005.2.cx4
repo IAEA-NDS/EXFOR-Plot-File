@@ -1,0 +1,22 @@
+# EXFOR #         : 22306.005.2
+# EXFOR Ver.      : 20210903
+# TRANS #         : 2303
+# Author          : H.Beer et al.
+# Reference       : Nucl.Instrum.Meth.A 337 (1994) 492
+# DOI             : 10.1016/0168-9002(94)91119-3
+# Quantity        : 109Ag(n,g)110Ag cross section
+# REACTION        : 47-AG-109(N,G)47-AG-110,,SIG,,MXW
+# File ID         : n-Ag109-g-sig-excfun-mxw-prodAg110_Beer_1994_22306.005.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   9.3200E-01
+# ymax            :   9.3200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  9.3200E-01  7.5000E-02
+#---------------------------------------------------

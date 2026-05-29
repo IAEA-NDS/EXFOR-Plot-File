@@ -1,0 +1,25 @@
+# EXFOR #         : 21558.002  
+# EXFOR Ver.      : 19800612
+# TRANS #         : 0000
+# Author          : A.-H.Hawa et al.
+# Reference       : Report KFK-1888 page , 1974
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-U235-f-fyc-nucdis-mxw-einc2.530E-02_Hawa_1974_21558.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 36088.9     
+# xmax            : 54138.9     
+# ymin            :   3.0900E-02
+# ymax            :   5.2800E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     36088.9  3.0900E-02  0.0000E+00
+     54138.9  5.2800E-02  0.0000E+00
+#---------------------------------------------------

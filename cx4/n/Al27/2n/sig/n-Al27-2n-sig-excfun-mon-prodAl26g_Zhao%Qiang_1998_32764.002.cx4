@@ -1,0 +1,23 @@
+# EXFOR #         : 32764.002  
+# EXFOR Ver.      : 20181120
+# TRANS #         : 3187
+# Author          : Zhao Qiang et al.
+# Reference       : Chin.Phys.Lett. 15 (1998) 8
+# DOI             : 10.1088/0256-307X/15/1/004
+# Quantity        : 27Al(n,2n)26gAl cross section
+# REACTION        : 13-AL-27(N,2N)13-AL-26-G,,SIG
+# File ID         : n-Al27-2n-sig-excfun-mon-prodAl26g_Zhao%Qiang_1998_32764.002
+#
+# npts            : 2           
+# xmin            :   1.4800E+07
+# xmax            :   1.4900E+07
+# ymin            :   5.4000E-02
+# ymax            :   7.7500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  0.0000E+00  5.4000E-02  4.3000E-03
+  1.4900E+07  0.0000E+00  7.7500E-02  5.3000E-03
+#---------------------------------------------------

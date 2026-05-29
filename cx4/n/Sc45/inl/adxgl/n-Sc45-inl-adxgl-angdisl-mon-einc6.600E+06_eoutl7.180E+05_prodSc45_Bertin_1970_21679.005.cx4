@@ -1,0 +1,28 @@
+# EXFOR #         : 21679.005  
+# EXFOR Ver.      : 19810611
+# TRANS #         : 0000
+# Author          : A.Bertin et al.
+# Reference       : Report CEA-R-4047 page , 1970
+# DOI             : N/A
+# Quantity        : 45Sc(n,inl)45Sc partial gamma angular differential cross section
+# REACTION        : 21-SC-45(N,INL)21-SC-45,PAR,DA,G
+# File ID         : n-Sc45-inl-adxgl-angdisl-mon-einc6.600E+06_eoutl7.180E+05_prodSc45_Bertin_1970_21679.005
+#
+# Einc (eV)       :   6.6000E+06
+# Eout,lab (eV)   :   7.1800E+05
+#
+# npts            : 4           
+# xmin            :   45.0000000
+# xmax            :  120.0000000
+# ymin            :   6.9000E-03
+# ymax            :   8.9000E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  45.0000000   0.0000000  6.9000E-03  9.0000E-04
+  60.0000000   0.0000000  8.9000E-03  1.2000E-03
+  90.0000000   0.0000000  7.9000E-03  1.1000E-03
+ 120.0000000   0.0000000  8.8000E-03  1.2000E-03
+#---------------------------------------------------

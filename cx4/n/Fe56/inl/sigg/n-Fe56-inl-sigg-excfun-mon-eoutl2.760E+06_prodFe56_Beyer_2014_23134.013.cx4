@@ -1,0 +1,28 @@
+# EXFOR #         : 23134.013  
+# EXFOR Ver.      : 20160628
+# TRANS #         : 2251
+# Author          : R.Beyer et al.
+# Reference       : Nucl.Phys.A 927 (2014) 41
+# DOI             : 10.1016/j.nuclphysa.2014.03.010
+# Quantity        : 56Fe(n,inl)56Fe partial gamma production cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+# File ID         : n-Fe56-inl-sigg-excfun-mon-eoutl2.760E+06_prodFe56_Beyer_2014_23134.013
+#
+# Eout,lab (eV)   :   2.7600E+06
+#
+# npts            : 5           
+# xmin            :   4.3050E+06
+# xmax            :   7.0600E+06
+# ymin            :   1.9000E-02
+# ymax            :   5.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3050E+06  0.0000E+00  2.4000E-02  5.0000E-03
+  4.8180E+06  0.0000E+00  5.0000E-02  7.0000E-03
+  5.4280E+06  0.0000E+00  3.4000E-02  8.0000E-03
+  6.1630E+06  0.0000E+00  1.9000E-02  5.0000E-03
+  7.0600E+06  0.0000E+00  2.8000E-02  7.0000E-03
+#---------------------------------------------------

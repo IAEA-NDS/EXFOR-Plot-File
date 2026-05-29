@@ -1,0 +1,27 @@
+# EXFOR #         : 33030.006  
+# EXFOR Ver.      : 20100901
+# TRANS #         : 3146
+# Author          : H.Naik et al.
+# Reference       : Radiochim.Acta 62 (1993) 1
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-Pu239-f-fyc-nucdis-mon-einc2.500E-02_Naik_1993_33030.006
+#
+# Einc (eV)       :   2.5000E-02
+#
+# npts            : 4           
+# xmin            : 50128.9     
+# xmax            : 52134.9     
+# ymin            :   6.1200E-03
+# ymax            :   5.1470E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     50128.9  6.1200E-03  3.3000E-04
+     51131.9  2.5110E-02  7.5000E-04
+     52132.9  5.1470E-02  1.9000E-04
+     52134.9  5.1110E-02  5.5000E-04
+#---------------------------------------------------

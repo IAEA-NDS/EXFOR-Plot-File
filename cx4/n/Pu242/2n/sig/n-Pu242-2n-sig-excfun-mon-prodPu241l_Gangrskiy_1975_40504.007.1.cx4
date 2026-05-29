@@ -1,0 +1,22 @@
+# EXFOR #         : 40504.007.1
+# EXFOR Ver.      : 20110920
+# TRANS #         : 4154
+# Author          : Yu.P.Gangrskiy et al.
+# Reference       : Proceedings of 3.All Union Conf.on Neutron Phys.,Kiev,9-13 Jun 1975 5 page 245
+# DOI             : N/A
+# Quantity        : 242Pu(n,2n)241lPu cross section
+# REACTION        : 94-PU-242(N,2N)94-PU-241-L,,SIG
+# File ID         : n-Pu242-2n-sig-excfun-mon-prodPu241l_Gangrskiy_1975_40504.007.1
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   3.0000E-04
+# ymax            :   3.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  0.0000E+00  3.0000E-04  7.5000E-05
+#---------------------------------------------------

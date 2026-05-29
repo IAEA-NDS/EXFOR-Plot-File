@@ -1,0 +1,22 @@
+# EXFOR #         : 41215.009  
+# EXFOR Ver.      : 20191217
+# TRANS #         : 4185
+# Author          : V.I.Popov
+# Reference       : Soviet Progress in Neutron Physics, New York 1963 page 224 (1963)
+# DOI             : N/A
+# Quantity        : 27Al(n,el)27Al cross section
+# REACTION        : 13-AL-27(N,EL)13-AL-27,,SIG
+# File ID         : n-Al27-el-sig-excfun-mon-prodAl27_Popov_1963_41215.009
+#
+# npts            : 1           
+# xmin            :   3.1000E+06
+# xmax            :   3.1000E+06
+# ymin            :   2.1000E+00
+# ymax            :   2.1000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.1000E+06  0.0000E+00  2.1000E+00  1.0000E-01
+#---------------------------------------------------

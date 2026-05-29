@@ -1,0 +1,29 @@
+# EXFOR #         : 22831.003  
+# EXFOR Ver.      : 20041126
+# TRANS #         : 2183
+# Author          : V.Blideanu et al.
+# Reference       : Phys.Rev.C 70 No.1 (2004) 014607
+# DOI             : 10.1103/PhysRevC.70.014607
+# Quantity        : natFe(n,d+x) double differential cross section
+# REACTION        : 26-FE-0(N,X)1-H-2,,DA/DE
+# File ID         : n-Fe-xd-ddxl-angdisl-mon-einc9.600E+07_eoutl5.800E+07_Blideanu_2004_22831.003
+#
+# Einc (eV)       :   9.6000E+07
+# Eout,lab (eV)   :   5.8000E+07
+#
+# npts            : 5           
+# xmin            :   20.0000000
+# xmax            :  100.0000000
+# ymin            :   5.3000E-12
+# ymax            :   4.8820E-10
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  20.0000000   4.0000000  4.8820E-10  2.0000E-11
+  40.0000000   4.0000000  2.2550E-10  1.3600E-11
+  60.0000000   4.0000000  8.6900E-11  8.4000E-12
+  80.0000000   4.0000000  1.6400E-11  3.7000E-12
+ 100.0000000   4.0000000  5.3000E-12  2.5000E-12
+#---------------------------------------------------

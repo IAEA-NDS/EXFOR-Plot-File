@@ -1,0 +1,22 @@
+# EXFOR #         : 40956.011  
+# EXFOR Ver.      : 20160604
+# TRANS #         : 4176
+# Author          : A.V.Bushuev et al.
+# Reference       : Sov.At.Energy 63 (1987) 721
+# DOI             : 10.1007/BF01126630
+# Quantity        : 56Fe(n,p)56Mn cross section
+# REACTION        : 26-FE-56(N,P)25-MN-56,,SIG,,FIS
+# File ID         : n-Fe56-p-sig-excfun-fis-prodMn56_Bushuev_1987_40956.011
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   1.2000E-03
+# ymax            :   1.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  1.2000E-03  1.5000E-04
+#---------------------------------------------------

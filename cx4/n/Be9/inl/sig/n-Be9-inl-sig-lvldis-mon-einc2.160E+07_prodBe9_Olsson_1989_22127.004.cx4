@@ -1,0 +1,26 @@
+# EXFOR #         : 22127.004  
+# EXFOR Ver.      : 19891211
+# TRANS #         : 0000
+# Author          : N.Olsson et al.
+# Reference       : Private communication  (1989)
+# DOI             : N/A
+# Quantity        : 9Be(n,inl)9Be partial cross section
+# REACTION        : 4-BE-9(N,INL)4-BE-9,PAR,SIG
+# File ID         : n-Be9-inl-sig-lvldis-mon-einc2.160E+07_prodBe9_Olsson_1989_22127.004
+#
+# Einc (eV)       :   2.1600E+07
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 2           
+# xmin            :   2.4290E+06
+# xmax            :   6.8000E+06
+# ymin            :   5.1600E-02
+# ymax            :   8.6000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4290E+06  0.0000E+00  8.6000E-02  4.4200E-03
+  6.8000E+06  0.0000E+00  5.1600E-02  2.6900E-03
+#---------------------------------------------------

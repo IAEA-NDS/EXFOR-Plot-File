@@ -1,0 +1,26 @@
+# EXFOR #         : 13007.003.1
+# EXFOR Ver.      : 20140528
+# TRANS #         : 1401
+# Author          : D.O.Nellis et al.
+# Reference       : Progress report ORO-2791-32 page 78, 1971
+# DOI             : N/A
+# Quantity        : 184W(n,inl)184W partial gamma angular differential cross section
+# REACTION        : 74-W-184(N,INL)74-W-184,PAR,DA,G
+# File ID         : n-W184-inl-adxgl-enedisl-mon-einc1.020E+06_angl55_prodW184_Nellis_1971_13007.003.1
+#
+# Einc (eV)       :   1.0200E+06
+# dEinc (eV)      :   3.0000E+04
+# theta,lab (deg) :   55.0000000
+#
+# npts            : 1           
+# xmin            :   2.5000E+05
+# xmax            :   2.5000E+05
+# ymin            :   3.5100E-02
+# ymax            :   3.5100E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.5000E+05  0.0000E+00  3.5100E-02  7.0200E-03
+#---------------------------------------------------

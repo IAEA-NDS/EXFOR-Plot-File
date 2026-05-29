@@ -1,0 +1,22 @@
+# EXFOR #         : 20737.003  
+# EXFOR Ver.      : 19840201
+# TRANS #         : 0000
+# Author          : J.Rivier et al.
+# Reference       : Radiochim.Acta 8 (1967) 196
+# DOI             : 10.1524/ract.1967.8.4.196
+# Quantity        : 183W(n,p)183Ta cross section
+# REACTION        : 74-W-183(N,P)73-TA-183,,SIG,,FIS
+# File ID         : n-W183-p-sig-excfun-fis-prodTa183_Rivier_1967_20737.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.8000E-06
+# ymax            :   2.8000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.8000E-06  5.0000E-07
+#---------------------------------------------------

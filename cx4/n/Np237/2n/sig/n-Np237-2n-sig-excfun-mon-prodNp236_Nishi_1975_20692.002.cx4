@@ -1,0 +1,23 @@
+# EXFOR #         : 20692.002  
+# EXFOR Ver.      : 19840127
+# TRANS #         : 0000
+# Author          : T.Nishi et al.
+# Reference       : Progress report NEANDC(J)-42L page 20, 1975
+# DOI             : N/A
+# Quantity        : 237Np(n,2n)236Np cross section
+# REACTION        : 93-NP-237(N,2N)93-NP-236,,SIG
+# File ID         : n-Np237-2n-sig-excfun-mon-prodNp236_Nishi_1975_20692.002
+#
+# npts            : 2           
+# xmin            :   9.6000E+06
+# xmax            :   1.4200E+07
+# ymin            :   4.5000E-01
+# ymax            :   5.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.6000E+06  0.0000E+00  4.5000E-01  0.0000E+00
+  1.4200E+07  0.0000E+00  5.1000E-01  0.0000E+00
+#---------------------------------------------------

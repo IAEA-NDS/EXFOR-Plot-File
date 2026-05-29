@@ -1,0 +1,24 @@
+# EXFOR #         : 33094.003  
+# EXFOR Ver.      : 20181106
+# TRANS #         : 3187
+# Author          : B.S.Shivashankar et al.
+# Reference       : Nucl.Sci.Eng. 179 (2015) 423
+# DOI             : 10.13182/NSE14-19
+# Quantity        : 58Ni(n,p)58Co cross section
+# REACTION        : 28-NI-58(N,P)27-CO-58,,SIG
+# File ID         : n-Ni58-p-sig-excfun-mon-prodCo58_Shivashankar_2015_33094.003
+#
+# npts            : 3           
+# xmin            :   5.8883E+06
+# xmax            :   1.5867E+07
+# ymin            :   2.0340E-01
+# ymax            :   7.1080E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.8883E+06  1.1940E+05  5.4470E-01  4.4500E-02
+  1.0113E+07  5.6300E+04  7.1080E-01  4.5800E-02
+  1.5867E+07  1.2970E+05  2.0340E-01  1.5900E-02
+#---------------------------------------------------

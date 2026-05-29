@@ -1,0 +1,22 @@
+# EXFOR #         : 31837.010  
+# EXFOR Ver.      : 20211103
+# TRANS #         : 3206
+# Author          : M.Tessler et al.
+# Reference       : Phys.Rev.C 104 (2021) 015806
+# DOI             : 10.1103/PhysRevC.104.015806
+# Quantity        : 80Kr(n,g)81Kr cross section
+# REACTION        : 36-KR-80(N,G)36-KR-81,,SIG,,MXW
+# File ID         : n-Kr80-g-sig-excfun-mxw-prodKr81_Tessler_2021_31837.010
+#
+# npts            : 1           
+# xmin            :   3.0000E+04
+# xmax            :   3.0000E+04
+# ymin            :   2.5700E-01
+# ymax            :   2.5700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  0.0000E+00  2.5700E-01  1.6000E-02
+#---------------------------------------------------

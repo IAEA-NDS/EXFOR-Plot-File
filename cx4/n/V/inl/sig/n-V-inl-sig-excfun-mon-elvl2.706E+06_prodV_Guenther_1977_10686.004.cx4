@@ -1,0 +1,27 @@
+# EXFOR #         : 10686.004  
+# EXFOR Ver.      : 20081104
+# TRANS #         : 1350
+# Author          : P.Guenther et al.
+# Reference       : Nucl.Sci.Eng. 64 (1977) 733
+# DOI             : 10.13182/NSE77-A27102
+# Quantity        : natV(n,inl)natV partial cross section
+# REACTION        : 23-V-0(N,INL)23-V-0,PAR,SIG
+# File ID         : n-V-inl-sig-excfun-mon-elvl2.706E+06_prodV_Guenther_1977_10686.004
+#
+# Elvl (eV)       :   2.7060E+06
+# dElvl (eV)      :   3.0000E+04
+#
+# npts            : 3           
+# xmin            :   3.6000E+06
+# xmax            :   4.0000E+06
+# ymin            :   3.2000E-02
+# ymax            :   1.1600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6000E+06  0.0000E+00  3.2000E-02  2.0000E-02
+  3.8000E+06  0.0000E+00  6.8000E-02  2.0000E-02
+  4.0000E+06  0.0000E+00  1.1600E-01  2.5000E-02
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : 33030.010  
+# EXFOR Ver.      : 20100901
+# TRANS #         : 3146
+# Author          : H.Naik et al.
+# Reference       : Radiochim.Acta 62 (1993) 1
+# DOI             : N/A
+# Quantity        : 245Cm(n,f) cumulative fission product yield
+# REACTION        : 96-CM-245(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-Cm245-f-fyc-nucdis-mon-einc2.500E-02_Naik_1993_33030.010
+#
+# Einc (eV)       :   2.5000E-02
+#
+# npts            : 4           
+# xmin            : 50128.9     
+# xmax            : 52134.9     
+# ymin            :   4.9900E-03
+# ymax            :   3.9820E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     50128.9  4.9900E-03  2.1000E-04
+     51131.9  1.9060E-02  8.2000E-04
+     52132.9  3.9820E-02  4.9000E-04
+     52134.9  3.9540E-02  8.8000E-04
+#---------------------------------------------------

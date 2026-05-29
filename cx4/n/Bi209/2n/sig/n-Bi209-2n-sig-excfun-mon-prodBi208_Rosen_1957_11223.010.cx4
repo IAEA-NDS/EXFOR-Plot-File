@@ -1,0 +1,22 @@
+# EXFOR #         : 11223.010  
+# EXFOR Ver.      : 20100609
+# TRANS #         : 1365
+# Author          : L.Rosen et al.
+# Reference       : Phys.Rev. 107 (1957) 824
+# DOI             : 10.1103/PhysRev.107.824
+# Quantity        : 209Bi(n,2n)208Bi cross section
+# REACTION        : 83-BI-209(N,2N)83-BI-208,,SIG
+# File ID         : n-Bi209-2n-sig-excfun-mon-prodBi208_Rosen_1957_11223.010
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   2.3000E+00
+# ymax            :   2.3000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  2.3000E+00  3.0000E-01
+#---------------------------------------------------

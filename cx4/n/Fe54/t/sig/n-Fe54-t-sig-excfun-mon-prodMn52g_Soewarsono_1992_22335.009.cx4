@@ -1,0 +1,24 @@
+# EXFOR #         : 22335.009  
+# EXFOR Ver.      : 20110131
+# TRANS #         : 2226
+# Author          : T.S.Soewarsono et al.
+# Reference       : Report (proceedings) JAERI-M-92-027 page 354, 1992
+# DOI             : N/A
+# Quantity        : 54Fe(n,t)52gMn cross section
+# REACTION        : 26-FE-54(N,T)25-MN-52-G,,SIG
+# File ID         : n-Fe54-t-sig-excfun-mon-prodMn52g_Soewarsono_1992_22335.009
+#
+# npts            : 3           
+# xmin            :   2.7580E+07
+# xmax            :   3.8260E+07
+# ymin            :   7.2100E-02
+# ymax            :   2.5100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7580E+07  8.2000E+05  7.2100E-02  1.7600E-02
+  3.2800E+07  7.2000E+05  1.8800E-01  6.8000E-02
+  3.8260E+07  6.1000E+05  2.5100E-01  4.5000E-02
+#---------------------------------------------------

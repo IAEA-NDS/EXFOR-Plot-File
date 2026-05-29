@@ -1,0 +1,28 @@
+# EXFOR #         : 20750.002  
+# EXFOR Ver.      : 20170724
+# TRANS #         : 2263
+# Author          : H.A.Jasicek
+# Reference       : Thesis  (1973)
+# DOI             : N/A
+# Quantity        : natAg(n,inl)natAg partial cross section
+# REACTION        : 47-AG-0(N,INL)47-AG-0,PAR,SIG
+# File ID         : n-Ag-inl-sig-enedisl-mon-einc9.590E+05_prodAg_Jasicek_1973_20750.002
+#
+# Einc (eV)       :   9.5900E+05
+# dEinc (eV)      :   1.5000E+04
+#
+# npts            : 4           
+# xmin            :   7.5000E+04
+# xmax            :   7.3000E+05
+# ymin            :   2.5000E-01
+# ymax            :   5.0000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.5000E+04  3.0000E+04  2.9000E-01  1.0000E-01
+  3.1000E+05  3.0000E+04  5.0000E-01  6.0000E-02
+  4.1000E+05  3.0000E+04  3.6000E-01  7.0000E-02
+  7.3000E+05  3.0000E+04  2.5000E-01  5.0000E-02
+#---------------------------------------------------

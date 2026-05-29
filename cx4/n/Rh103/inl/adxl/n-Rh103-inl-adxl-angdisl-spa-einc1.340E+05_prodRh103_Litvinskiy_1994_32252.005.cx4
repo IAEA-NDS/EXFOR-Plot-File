@@ -1,0 +1,27 @@
+# EXFOR #         : 32252.005  
+# EXFOR Ver.      : 20241117
+# TRANS #         : 3214
+# Author          : L.L.Litvinskiy et al.
+# Reference       : Ukr.Fiz.Zh. 39 (1994) 276
+# DOI             : N/A
+# Quantity        : 103Rh(n,inl)103Rh angular differential cross section
+# REACTION        : 45-RH-103(N,INL)45-RH-103,,DA,,SPA
+# File ID         : n-Rh103-inl-adxl-angdisl-spa-einc1.340E+05_prodRh103_Litvinskiy_1994_32252.005
+#
+# Einc (eV)       :   1.3400E+05
+# dEinc (eV)      :   1.5000E+04
+#
+# npts            : 3           
+# xmin            :   45.0000000
+# xmax            :  135.0000000
+# ymin            :   2.6840E-03
+# ymax            :   4.1080E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  45.0000000   0.0000000  3.4270E-03  1.7270E-03
+  90.0000000   0.0000000  2.6840E-03  1.2530E-03
+ 135.0000000   0.0000000  4.1080E-03  1.4230E-03
+#---------------------------------------------------

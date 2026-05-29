@@ -1,0 +1,22 @@
+# EXFOR #         : 13700.027  
+# EXFOR Ver.      : 20170620
+# TRANS #         : 1429
+# Author          : G.R.Keepin et al.
+# Reference       : Phys.Rev. 107 (1957) 1044
+# DOI             : 10.1103/PhysRev.107.1044
+# Quantity        : 239Pu(n,f) delayed fission neutron multiplicity
+# REACTION        : 94-PU-239(N,F),DL,NU,,MXW
+# File ID         : n-Pu239-f-nud-excfun-mxw-Keepin_1957_13700.027
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   6.1000E-03
+# ymax            :   6.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-d        dnu-d       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  6.1000E-03  3.0000E-04
+#---------------------------------------------------

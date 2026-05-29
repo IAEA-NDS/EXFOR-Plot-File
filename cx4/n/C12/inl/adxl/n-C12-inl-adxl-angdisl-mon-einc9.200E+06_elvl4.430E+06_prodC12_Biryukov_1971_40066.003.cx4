@@ -1,0 +1,26 @@
+# EXFOR #         : 40066.003  
+# EXFOR Ver.      : 20250731
+# TRANS #         : 4224
+# Author          : N.S.Biryukov
+# Reference       : Report FEI-272, 1971
+# DOI             : N/A
+# Quantity        : 12C(n,inl)12C partial angular differential cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,DA
+# File ID         : n-C12-inl-adxl-angdisl-mon-einc9.200E+06_elvl4.430E+06_prodC12_Biryukov_1971_40066.003
+#
+# Einc (eV)       :   9.2000E+06
+# dEinc (eV)      :   3.0000E+05
+# Elvl (eV)       :   4.4300E+06
+#
+# npts            : 1           
+# xmin            :   32.0000000
+# xmax            :   32.0000000
+# ymin            :   4.7000E-02
+# ymax            :   4.7000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  32.0000000   0.0000000  4.7000E-02  9.0000E-03
+#---------------------------------------------------

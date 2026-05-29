@@ -1,0 +1,22 @@
+# EXFOR #         : 30803.002  
+# EXFOR Ver.      : 20160708
+# TRANS #         : 3174
+# Author          : M.Herman et al.
+# Reference       : Private communication  (1984)
+# DOI             : N/A
+# Quantity        : 90Zr(n,2n)89gZr cumulative production cross section
+# REACTION        : 40-ZR-90(N,2N)40-ZR-89-G,M+,SIG
+# File ID         : n-Zr90-x-sigc-excfun-mon-prodZr89g_Herman_1984_30803.002
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   7.1530E-01
+# ymax            :   7.1530E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  3.0000E+05  7.1530E-01  4.2300E-02
+#---------------------------------------------------

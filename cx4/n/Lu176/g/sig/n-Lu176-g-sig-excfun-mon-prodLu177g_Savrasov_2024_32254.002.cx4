@@ -1,0 +1,22 @@
+# EXFOR #         : 32254.002  
+# EXFOR Ver.      : 20250221
+# TRANS #         : 3217
+# Author          : A.M.Savrasov et al.
+# Reference       : Nucl.Phys.A 1041 (2024) 122788
+# DOI             : 10.1016/j.nuclphysa.2023.122788
+# Quantity        : 176Lu(n,g)177gLu cross section
+# REACTION        : 71-LU-176(N,G)71-LU-177-G,,SIG
+# File ID         : n-Lu176-g-sig-excfun-mon-prodLu177g_Savrasov_2024_32254.002
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   1.9640E-02
+# ymax            :   1.9640E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  3.0000E+05  1.9640E-02  2.1000E-03
+#---------------------------------------------------

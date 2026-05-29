@@ -1,0 +1,26 @@
+# EXFOR #         : 21138.006  
+# EXFOR Ver.      : 19800328
+# TRANS #         : 0000
+# Author          : G.C.Bonazzola et al.
+# Reference       : Nucl.Phys. 68 (1965) 369
+# DOI             : 10.1016/0029-5582(65)90653-X
+# Quantity        : 31P(n,inl)31P partial cross section
+# REACTION        : 15-P-31(N,INL)15-P-31,PAR,SIG
+# File ID         : n-P31-inl-sig-lvldis-mon-einc1.420E+07_prodP31_Bonazzola_1965_21138.006
+#
+# Einc (eV)       :   1.4200E+07
+# dEinc (eV)      :   7.1000E+05
+#
+# npts            : 2           
+# xmin            :   1.2600E+06
+# xmax            :   2.1300E+06
+# ymin            :   2.5900E-02
+# ymax            :   3.3400E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1300E+06  0.0000E+00  3.3400E-02  2.8000E-03
+  1.2600E+06  0.0000E+00  2.5900E-02  2.6000E-03
+#---------------------------------------------------

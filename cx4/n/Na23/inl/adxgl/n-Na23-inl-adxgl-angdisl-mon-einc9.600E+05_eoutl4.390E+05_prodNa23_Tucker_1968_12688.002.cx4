@@ -1,0 +1,26 @@
+# EXFOR #         : 12688.002  
+# EXFOR Ver.      : 20230707
+# TRANS #         : 1507
+# Author          : W.E.Tucker et al.
+# Reference       : Bull.Am.Phys.Soc. 13 (1968) 874(AD16)
+# DOI             : N/A
+# Quantity        : 23Na(n,inl)23Na partial gamma angular differential cross section
+# REACTION        : 11-NA-23(N,INL)11-NA-23,PAR,DA,G
+# File ID         : n-Na23-inl-adxgl-angdisl-mon-einc9.600E+05_eoutl4.390E+05_prodNa23_Tucker_1968_12688.002
+#
+# Einc (eV)       :   9.6000E+05
+# dEinc (eV)      :   4.0000E+04
+# Eout,lab (eV)   :   4.3900E+05
+#
+# npts            : 1           
+# xmin            :   55.0000000
+# xmax            :   55.0000000
+# ymin            :   2.3100E-02
+# ymax            :   2.3100E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  55.0000000   0.0000000  2.3100E-02  3.0000E-03
+#---------------------------------------------------

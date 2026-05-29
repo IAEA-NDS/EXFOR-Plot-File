@@ -1,0 +1,22 @@
+# EXFOR #         : 31842.015  
+# EXFOR Ver.      : 20211208
+# TRANS #         : 3206
+# Author          : J.Jarosik et al.
+# Reference       : Nucl.Instrum.Meth.B 511 (2022) 64
+# DOI             : 10.1016/j.nimb.2021.10.018
+# Quantity        : 209Bi(n,4n)206Bi cross section
+# REACTION        : 83-BI-209(N,4N)83-BI-206,,SIG
+# File ID         : n-Bi209-4n-sig-excfun-mon-prodBi206_Jarosik_2022_31842.015
+#
+# npts            : 1           
+# xmin            :   2.7500E+07
+# xmax            :   2.7500E+07
+# ymin            :   4.2000E-01
+# ymax            :   4.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7500E+07  7.0000E+05  4.2000E-01  4.0000E-02
+#---------------------------------------------------

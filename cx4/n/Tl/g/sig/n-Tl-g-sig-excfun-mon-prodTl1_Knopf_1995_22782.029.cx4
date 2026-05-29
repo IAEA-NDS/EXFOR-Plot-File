@@ -1,0 +1,23 @@
+# EXFOR #         : 22782.029  
+# EXFOR Ver.      : 20060523
+# TRANS #         : 2178
+# Author          : K.Knopf et al.
+# Reference       : Z.Phys.A 352 (1995) 449
+# DOI             : 10.1007/BF01299763
+# Quantity        : natTl(n,g) cross section
+# REACTION        : 81-TL-0(N,G),,SIG
+# File ID         : n-Tl-g-sig-excfun-mon-prodTl1_Knopf_1995_22782.029
+#
+# npts            : 2           
+# xmin            :   1.2600E+00
+# xmax            :   5.1900E+00
+# ymin            :   2.5000E-01
+# ymax            :   4.9200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+00  0.0000E+00  4.9200E-01  1.5000E-02
+  5.1900E+00  0.0000E+00  2.5000E-01  1.2000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 10193.003  
+# EXFOR Ver.      : 20010214
+# TRANS #         : 0000
+# Author          : D.Drake et al.
+# Reference       : Phys.Lett.B 36 (1971) 557
+# DOI             : 10.1016/0370-2693(71)90088-8
+# Quantity        : 165Ho(n,g)166Ho cross section
+# REACTION        : 67-HO-165(N,G)67-HO-166,,SIG
+# File ID         : n-Ho165-g-sig-excfun-mon-prodHo166_Drake_1971_10193.003
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   1.0180E-03
+# ymax            :   1.0180E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  1.0180E-03  2.5450E-04
+#---------------------------------------------------

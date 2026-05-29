@@ -1,0 +1,22 @@
+# EXFOR #         : 21563.009  
+# EXFOR Ver.      : 20180810
+# TRANS #         : 2269
+# Author          : M.Lucas et al.
+# Reference       : Proceedings of Meeting on Natural Fission Reactors,Paris 1977 1 page 407
+# DOI             : N/A
+# Quantity        : 82Kr(n,g)83gKr cross section
+# REACTION        : 36-KR-82(N,G)36-KR-83-G,,SIG
+# File ID         : n-Kr82-g-sig-excfun-mon-prodKr83g_Lucas_1977_21563.009
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.8000E+01
+# ymax            :   1.8000E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.8000E+01  4.0000E+00
+#---------------------------------------------------

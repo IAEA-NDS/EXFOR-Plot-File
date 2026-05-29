@@ -1,0 +1,22 @@
+# EXFOR #         : 32710.004  
+# EXFOR Ver.      : 20130416
+# TRANS #         : 3160
+# Author          : Yanbin Zhang et al.
+# Reference       : Ann.Nucl.Energy 53 (2013) 99
+# DOI             : 10.1016/j.anucene.2012.10.008
+# Quantity        : 142Nd(n,2n)141mNd cross section
+# REACTION        : 60-ND-142(N,2N)60-ND-141-M,,SIG
+# File ID         : n-Nd142-2n-sig-excfun-mon-prodNd141m_Yanbin%Zhang_2013_32710.004
+#
+# npts            : 1           
+# xmin            :   1.3500E+07
+# xmax            :   1.3500E+07
+# ymin            :   5.8000E-01
+# ymax            :   5.8000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  5.8000E-01  5.9000E-02
+#---------------------------------------------------

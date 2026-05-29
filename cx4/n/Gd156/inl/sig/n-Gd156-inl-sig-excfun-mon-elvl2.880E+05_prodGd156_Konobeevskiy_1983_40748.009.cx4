@@ -1,0 +1,31 @@
+# EXFOR #         : 40748.009  
+# EXFOR Ver.      : 20231113
+# TRANS #         : 4216
+# Author          : E.S.Konobeevskiy et al.
+# Reference       : Proceedings of 6.All-Union Conf.on Neutron Physics,Kiev,2-6 Oct.1983 3 page 203
+# DOI             : N/A
+# Quantity        : 156Gd(n,inl)156Gd partial cross section
+# REACTION        : 64-GD-156(N,INL)64-GD-156,PAR,SIG
+# File ID         : n-Gd156-inl-sig-excfun-mon-elvl2.880E+05_prodGd156_Konobeevskiy_1983_40748.009
+#
+# Elvl (eV)       :   2.8800E+05
+#
+# npts            : 8           
+# xmin            :   4.4300E+05
+# xmax            :   1.0920E+06
+# ymin            :   5.0000E-02
+# ymax            :   4.9000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.4300E+05  9.0000E+04  5.0000E-02  1.0000E-02
+  5.3300E+05  9.0000E+04  1.0000E-01  2.0000E-02
+  6.2200E+05  9.0000E+04  1.5000E-01  2.0000E-02
+  7.1300E+05  9.0000E+04  1.9000E-01  3.0000E-02
+  8.0500E+05  9.0000E+04  2.5000E-01  4.0000E-02
+  8.9800E+05  9.0000E+04  3.2000E-01  5.0000E-02
+  9.9400E+05  9.0000E+04  3.8000E-01  6.0000E-02
+  1.0920E+06  9.0000E+04  4.9000E-01  7.0000E-02
+#---------------------------------------------------

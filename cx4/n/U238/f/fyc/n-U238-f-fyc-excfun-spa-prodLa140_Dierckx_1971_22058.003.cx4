@@ -1,0 +1,22 @@
+# EXFOR #         : 22058.003  
+# EXFOR Ver.      : 19880805
+# TRANS #         : 0000
+# Author          : R.Dierckx et al.
+# Reference       : J.Nucl.Energy 25 (1971) 85
+# DOI             : 10.1016/0022-3107(71)90061-X
+# Quantity        : 238U(n,f)140La cumulative fission product yield
+# REACTION        : 92-U-238(N,F)57-LA-140,CUM,FY,,SPA
+# File ID         : n-U238-f-fyc-excfun-spa-prodLa140_Dierckx_1971_22058.003
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   5.6700E-02
+# ymax            :   5.6700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  5.6700E-02  1.2000E-02
+#---------------------------------------------------

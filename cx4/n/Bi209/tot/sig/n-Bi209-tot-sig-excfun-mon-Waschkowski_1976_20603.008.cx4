@@ -1,0 +1,23 @@
+# EXFOR #         : 20603.008  
+# EXFOR Ver.      : 19840127
+# TRANS #         : 0000
+# Author          : W.Waschkowski et al.
+# Reference       : Z.Naturforsch. A 31 (1976) 115
+# DOI             : 10.1515/zna-1976-0202
+# Quantity        : 209Bi(n,tot) cross section
+# REACTION        : 83-BI-209(N,TOT),,SIG
+# File ID         : n-Bi209-tot-sig-excfun-mon-Waschkowski_1976_20603.008
+#
+# npts            : 2           
+# xmin            :   1.2600E+00
+# xmax            :   5.1900E+00
+# ymin            :   9.2566E+00
+# ymax            :   9.2830E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+00  0.0000E+00  9.2566E+00  4.2000E-03
+  5.1900E+00  0.0000E+00  9.2830E+00  4.0000E-03
+#---------------------------------------------------

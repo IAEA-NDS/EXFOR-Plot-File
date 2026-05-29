@@ -1,0 +1,26 @@
+# EXFOR #         : 30985.008  
+# EXFOR Ver.      : 20090919
+# TRANS #         : 3141
+# Author          : N.I.Molla et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 355
+# DOI             : N/A
+# Quantity        : 92Zr(n,p)92Y cross section
+# REACTION        : 40-ZR-92(N,P)39-Y-92,,SIG
+# File ID         : n-Zr92-p-sig-excfun-mon-prodY92_Molla_1991_30985.008
+#
+# npts            : 5           
+# xmin            :   1.3640E+07
+# xmax            :   1.4830E+07
+# ymin            :   1.6300E-02
+# ymax            :   2.0500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3640E+07  0.0000E+00  1.6300E-02  1.3000E-03
+  1.3880E+07  0.0000E+00  1.6600E-02  1.4000E-03
+  1.4100E+07  0.0000E+00  1.8200E-02  1.5000E-03
+  1.4580E+07  0.0000E+00  2.0500E-02  1.0000E-03
+  1.4830E+07  0.0000E+00  2.0100E-02  1.6000E-03
+#---------------------------------------------------

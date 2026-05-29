@@ -1,0 +1,22 @@
+# EXFOR #         : 30106.008  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : S.Lulic et al.
+# Reference       : Nucl.Phys.A 154 (1970) 273
+# DOI             : 10.1016/0375-9474(70)90155-7
+# Quantity        : 75As(n,2p)74Ga cross section
+# REACTION        : 33-AS-75(N,2P)31-GA-74,,SIG
+# File ID         : n-As75-2p-sig-excfun-mon-prodGa74_Lulic_1970_30106.008
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   5.2000E-05
+# ymax            :   5.2000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  5.2000E-05  2.9000E-05
+#---------------------------------------------------

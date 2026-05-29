@@ -1,0 +1,22 @@
+# EXFOR #         : 21515.002  
+# EXFOR Ver.      : 20230207
+# TRANS #         : 2313
+# Author          : D.Szteinsznaider et al.
+# Reference       : Proceedings of 1st UN Conf.Peaceful Uses Atomic Energy, Geneva 1955 4 page 245
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cross section
+# REACTION        : 94-PU-239(N,F),,SIG,,AV
+# File ID         : n-Pu239-f-sig-excfun-mon-Szteinsznaider_1955_21515.002
+#
+# npts            : 1           
+# xmin            :   1.0750E+06
+# xmax            :   1.0750E+06
+# ymin            :   2.0400E+00
+# ymax            :   2.0400E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0750E+06  9.2500E+05  2.0400E+00  1.2000E-01
+#---------------------------------------------------

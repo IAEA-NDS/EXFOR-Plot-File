@@ -1,0 +1,22 @@
+# EXFOR #         : 30181.002  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : S.Amiel et al.
+# Reference       : Nucl.Sci.Eng. 18 (1964) 105
+# DOI             : 10.13182/NSE64-A18145
+# Quantity        : 17O(n,p)17N cross section
+# REACTION        : 8-O-17(N,P)7-N-17,,SIG,,FIS
+# File ID         : n-O17-p-sig-excfun-fis-prodN17_Amiel_1964_30181.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   7.4000E-06
+# ymax            :   7.4000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  7.4000E-06  6.0000E-07
+#---------------------------------------------------

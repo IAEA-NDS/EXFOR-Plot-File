@@ -1,0 +1,28 @@
+# EXFOR #         : 31528.003  
+# EXFOR Ver.      : 20030321
+# TRANS #         : 0000
+# Author          : Hongyu Zhou et al.
+# Reference       : Nucl.Sci.Eng. 125 (1997) 61
+# DOI             : 10.13182/NSE97-A24254
+# Quantity        : 27Al(n,p)27Mg partial gamma angular differential cross section
+# REACTION        : 13-AL-27(N,P)12-MG-27,PAR,DA,G
+# File ID         : n-Al27-p-adxgl-angdisl-mon-einc1.490E+07_eoutl9.553E+05_prodMg27_Hongyu%Zhou_1997_31528.003
+#
+# Einc (eV)       :   1.4900E+07
+# dEinc (eV)      :   5.0000E+05
+# Eout,lab (eV)   :   9.5530E+05
+#
+# npts            : 3           
+# xmin            :   55.0000000
+# xmax            :  140.0000000
+# ymin            :   6.6000E-04
+# ymax            :   9.6000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  55.0000000   0.0000000  8.3000E-04  6.0000E-05
+  90.0000000   0.0000000  9.6000E-04  9.0000E-05
+ 140.0000000   0.0000000  6.6000E-04  5.0000E-05
+#---------------------------------------------------

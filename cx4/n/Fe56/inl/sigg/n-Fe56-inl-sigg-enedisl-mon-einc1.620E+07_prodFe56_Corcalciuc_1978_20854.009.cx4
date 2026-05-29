@@ -1,0 +1,27 @@
+# EXFOR #         : 20854.009  
+# EXFOR Ver.      : 20131211
+# TRANS #         : 2238
+# Author          : V.Corcalciuc et al.
+# Reference       : Nucl.Phys.A 307 No.3 (1978) 445
+# DOI             : 10.1016/0375-9474(78)90459-1
+# Quantity        : 56Fe(n,inl)56Fe partial gamma production cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+# File ID         : n-Fe56-inl-sigg-enedisl-mon-einc1.620E+07_prodFe56_Corcalciuc_1978_20854.009
+#
+# Einc (eV)       :   1.6200E+07
+# dEinc (eV)      :   4.0000E+05
+#
+# npts            : 3           
+# xmin            :   8.4670E+05
+# xmax            :   1.8107E+06
+# ymin            :   6.8000E-02
+# ymax            :   4.3200E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.4670E+05  0.0000E+00  4.3200E-01  5.0000E-02
+  1.2387E+06  0.0000E+00  2.2500E-01  1.4000E-02
+  1.8107E+06  0.0000E+00  6.8000E-02  1.5000E-02
+#---------------------------------------------------

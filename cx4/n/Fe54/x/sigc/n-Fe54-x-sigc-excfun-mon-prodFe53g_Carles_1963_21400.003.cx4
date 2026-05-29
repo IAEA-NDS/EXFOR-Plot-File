@@ -1,0 +1,22 @@
+# EXFOR #         : 21400.003  
+# EXFOR Ver.      : 20090215
+# TRANS #         : 2207
+# Author          : C.Carles
+# Reference       : Compt.Rend. 257 (1963) 659
+# DOI             : N/A
+# Quantity        : 54Fe(n,2n)53gFe cumulative production cross section
+# REACTION        : 26-FE-54(N,2N)26-FE-53-G,M+,SIG
+# File ID         : n-Fe54-x-sigc-excfun-mon-prodFe53g_Carles_1963_21400.003
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.0000E+05  1.0000E-02  5.6000E-03
+#---------------------------------------------------

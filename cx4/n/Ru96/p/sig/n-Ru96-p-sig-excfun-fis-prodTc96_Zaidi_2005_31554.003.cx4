@@ -1,0 +1,22 @@
+# EXFOR #         : 31554.003  
+# EXFOR Ver.      : 20051129
+# TRANS #         : 3118
+# Author          : J.H.Zaidi et al.
+# Reference       : Radiochim.Acta 93 (2005) 547
+# DOI             : 10.1524/ract.2005.93.9-10.547
+# Quantity        : 96Ru(n,p)96Tc cross section
+# REACTION        : 44-RU-96(N,P)43-TC-96,,SIG,,FIS
+# File ID         : n-Ru96-p-sig-excfun-fis-prodTc96_Zaidi_2005_31554.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   8.4000E-03
+# ymax            :   8.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  8.4000E-03  1.1000E-03
+#---------------------------------------------------

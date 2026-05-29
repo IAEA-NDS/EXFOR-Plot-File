@@ -1,0 +1,26 @@
+# EXFOR #         : 11495.017  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : D.B.Thomson
+# Reference       : Phys.Rev. 129 (1963) 1649
+# DOI             : 10.1103/PhysRev.129.1649
+# Quantity        : 75As(n,inl)75As partial angular differential cross section
+# REACTION        : 33-AS-75(N,INL)33-AS-75,PAR,DA
+# File ID         : n-As75-inl-adxl-enedisl-mon-einc7.000E+06_angl90_prodAs75_Thomson_1963_11495.017
+#
+# Einc (eV)       :   7.0000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 2           
+# xmin            :   1.7500E+06
+# xmax            :   4.0000E+06
+# ymin            :   2.1000E-02
+# ymax            :   9.3900E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7500E+06  1.2500E+06  9.3900E-02  9.0000E-03
+  4.0000E+06  1.0000E+06  2.1000E-02  4.0000E-03
+#---------------------------------------------------

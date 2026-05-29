@@ -1,0 +1,29 @@
+# EXFOR #         : 21677.006  
+# EXFOR Ver.      : 20170811
+# TRANS #         : 2264
+# Author          : G.Clayeux et al.
+# Reference       : Report CEA-R-3807, 1969
+# DOI             : N/A
+# Quantity        : 16O(n,inl)16O partial gamma angular differential cross section
+# REACTION        : 8-O-16(N,INL)8-O-16,PAR,DA,G
+# File ID         : n-O16-inl-adxgl-enedisl-mon-einc1.410E+07_angl90_prodO16_Clayeux_1969_21677.006
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 4           
+# xmin            :   2.7400E+06
+# xmax            :   7.1200E+06
+# ymin            :   2.2000E-03
+# ymax            :   1.1200E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.7400E+06  0.0000E+00  2.2000E-03  5.0000E-04
+  6.1300E+06  0.0000E+00  1.1200E-02  2.0000E-03
+  6.9200E+06  0.0000E+00  2.4000E-03  5.0000E-04
+  7.1200E+06  0.0000E+00  3.7000E-03  7.0000E-04
+#---------------------------------------------------

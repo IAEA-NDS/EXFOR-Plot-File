@@ -1,0 +1,27 @@
+# EXFOR #         : 40306.011  
+# EXFOR Ver.      : 20161012
+# TRANS #         : 4175
+# Author          : V.Corcalciuc et al.
+# Reference       : Sov.J.Nucl.Phys. 20 (1975) 574
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe partial gamma angular differential cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,DA,G,4PI
+# File ID         : n-Fe56-inl-adxgl-enedisl-mon-einc2.180E+07_angl55_prodFe56_Corcalciuc_1975_40306.011
+#
+# Einc (eV)       :   2.1800E+07
+# dEinc (eV)      :   4.0000E+05
+# theta,lab (deg) :   55.0000000
+#
+# npts            : 2           
+# xmin            :   8.4680E+05
+# xmax            :   1.2390E+06
+# ymin            :   4.1380E-03
+# ymax            :   3.7958E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.4680E+05  0.0000E+00  3.7958E-02  0.0000E+00
+  1.2390E+06  0.0000E+00  4.1380E-03  0.0000E+00
+#---------------------------------------------------

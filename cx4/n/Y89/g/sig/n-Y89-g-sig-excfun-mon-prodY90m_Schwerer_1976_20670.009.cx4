@@ -1,0 +1,22 @@
+# EXFOR #         : 20670.009  
+# EXFOR Ver.      : 19840127
+# TRANS #         : 0000
+# Author          : O.Schwerer et al.
+# Reference       : Nucl.Phys.A 264 (1976) 105
+# DOI             : 10.1016/0375-9474(76)90147-0
+# Quantity        : 89Y(n,g)90mY cross section
+# REACTION        : 39-Y-89(N,G)39-Y-90-M,,SIG
+# File ID         : n-Y89-g-sig-excfun-mon-prodY90m_Schwerer_1976_20670.009
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   4.0000E-04
+# ymax            :   4.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  4.0000E-04  6.0000E-05
+#---------------------------------------------------

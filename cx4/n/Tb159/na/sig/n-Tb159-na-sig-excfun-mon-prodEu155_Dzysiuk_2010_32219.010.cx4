@@ -1,0 +1,22 @@
+# EXFOR #         : 32219.010  
+# EXFOR Ver.      : 20110816
+# TRANS #         : 3151
+# Author          : N.Dzysiuk et al.
+# Reference       : Phys.Rev.C 81 (2010) 014610
+# DOI             : 10.1103/PhysRevC.81.014610
+# Quantity        : 159Tb(n,n+a)155Eu cross section
+# REACTION        : 65-TB-159(N,N+A)63-EU-155,,SIG
+# File ID         : n-Tb159-na-sig-excfun-mon-prodEu155_Dzysiuk_2010_32219.010
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   4.0000E-05
+# ymax            :   4.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  3.0000E+05  4.0000E-05  2.0000E-05
+#---------------------------------------------------

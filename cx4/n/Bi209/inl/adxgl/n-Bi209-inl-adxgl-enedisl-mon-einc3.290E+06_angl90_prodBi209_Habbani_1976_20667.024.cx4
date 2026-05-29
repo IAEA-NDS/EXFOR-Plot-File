@@ -1,0 +1,26 @@
+# EXFOR #         : 20667.024  
+# EXFOR Ver.      : 20170723
+# TRANS #         : 2261
+# Author          : F.I.Habbani et al.
+# Reference       : Nucl.Intrum.Meth. 134 No.3 (1976) 545
+# DOI             : 10.1016/0029-554X(76)90099-9
+# Quantity        : 209Bi(n,inl)209Bi partial gamma angular differential cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,DA,G
+# File ID         : n-Bi209-inl-adxgl-enedisl-mon-einc3.290E+06_angl90_prodBi209_Habbani_1976_20667.024
+#
+# Einc (eV)       :   3.2900E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 2           
+# xmin            :   9.0400E+05
+# xmax            :   1.6040E+06
+# ymin            :   2.6100E-02
+# ymax            :   3.8100E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.0400E+05  0.0000E+00  2.6100E-02  2.8000E-03
+  1.6040E+06  0.0000E+00  3.8100E-02  4.4000E-03
+#---------------------------------------------------

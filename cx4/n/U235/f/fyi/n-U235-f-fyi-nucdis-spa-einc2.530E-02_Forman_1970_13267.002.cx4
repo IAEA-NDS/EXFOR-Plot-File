@@ -1,0 +1,30 @@
+# EXFOR #         : 13267.002  
+# EXFOR Ver.      : 20190506
+# TRANS #         : 1451
+# Author          : L.Forman et al.
+# Reference       : Report (proceedings) CERN-70-30 Vol.(1) page 589, 1970
+# DOI             : N/A
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY,,SPA
+# File ID         : n-U235-f-fyi-nucdis-spa-einc2.530E-02_Forman_1970_13267.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 7           
+# xmin            : 55138.0     
+# xmax            : 55146.9     
+# ymin            :   7.3000E-05
+# ymax            :   2.5800E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     55138.0  3.2200E-03  0.0000E+00
+     55139.9  1.2700E-02  0.0000E+00
+     55141.9  2.5800E-02  0.0000E+00
+     55142.9  1.4600E-02  0.0000E+00
+     55143.9  9.7900E-03  0.0000E+00
+     55145.9  1.0000E-03  0.0000E+00
+     55146.9  7.3000E-05  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 32730.006  
+# EXFOR Ver.      : 20170517
+# TRANS #         : 3179
+# Author          : Junhua Luo et al.
+# Reference       : Radiochim.Acta 104 (2016) 523
+# DOI             : 10.1515/ract-2016-0001
+# Quantity        : 154Sm(n,a)151Nd cross section
+# REACTION        : 62-SM-154(N,A)60-ND-151,,SIG
+# File ID         : n-Sm154-a-sig-excfun-mon-prodNd151_Junhua%Luo_2016_32730.006
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   4.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  4.0000E-04  2.0000E-04
+  1.4800E+07  2.0000E+05  5.0000E-04  3.0000E-04
+#---------------------------------------------------

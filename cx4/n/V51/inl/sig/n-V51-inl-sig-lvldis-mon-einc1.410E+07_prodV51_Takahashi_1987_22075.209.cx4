@@ -1,0 +1,26 @@
+# EXFOR #         : 22075.209  
+# EXFOR Ver.      : 20090611
+# TRANS #         : 2213
+# Author          : A.Takahashi et al.
+# Reference       : Report OKTAV-A-87-03, 1987
+# DOI             : N/A
+# Quantity        : 51V(n,inl)51V partial cross section
+# REACTION        : 23-V-51(N,INL)23-V-51,PAR,SIG
+# File ID         : n-V51-inl-sig-lvldis-mon-einc1.410E+07_prodV51_Takahashi_1987_22075.209
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 2           
+# xmin            :   1.7100E+06
+# xmax            :   2.7450E+06
+# ymin            :   6.2100E-03
+# ymax            :   2.0300E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7450E+06  3.3500E+05  6.2100E-03  7.4000E-04
+  1.7100E+06  1.0000E+05  2.0300E-02  1.0000E-03
+#---------------------------------------------------

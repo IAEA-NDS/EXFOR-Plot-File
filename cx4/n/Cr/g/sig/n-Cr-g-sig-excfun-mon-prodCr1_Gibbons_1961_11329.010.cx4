@@ -1,0 +1,23 @@
+# EXFOR #         : 11329.010  
+# EXFOR Ver.      : 20120416
+# TRANS #         : 1380
+# Author          : J.H.Gibbons et al.
+# Reference       : Phys.Rev. 122 (1961) 182
+# DOI             : 10.1103/PhysRev.122.182
+# Quantity        : natCr(n,g) cross section
+# REACTION        : 24-CR-0(N,G),,SIG
+# File ID         : n-Cr-g-sig-excfun-mon-prodCr1_Gibbons_1961_11329.010
+#
+# npts            : 2           
+# xmin            :   3.0000E+04
+# xmax            :   6.5000E+04
+# ymin            :   3.5000E-03
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  7.0000E+03  1.0000E-02  3.0000E-03
+  6.5000E+04  2.0000E+04  3.5000E-03  1.0000E-03
+#---------------------------------------------------

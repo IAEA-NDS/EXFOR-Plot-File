@@ -1,0 +1,25 @@
+# EXFOR #         : 40278.005  
+# EXFOR Ver.      : 20091112
+# TRANS #         : 4148
+# Author          : Yu.G.Degtyarev et al.
+# Reference       : Izv.Ross.AN,Fiz. 35 No.11 (1971) 2341
+# DOI             : N/A
+# Quantity        : 52Cr(n,inl)52Cr partial cross section
+# REACTION        : 24-CR-52(N,INL)24-CR-52,PAR,SIG
+# File ID         : n-Cr52-inl-sig-lvldis-mon-einc3.000E+06_prodCr52_Degtyarev_1971_40278.005
+#
+# Einc (eV)       :   3.0000E+06
+#
+# npts            : 2           
+# xmin            :   1.4340E+06
+# xmax            :   2.3680E+06
+# ymin            :   3.2000E-02
+# ymax            :   4.6700E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4340E+06  0.0000E+00  4.6700E-01  3.3000E-02
+  2.3680E+06  0.0000E+00  3.2000E-02  2.5000E-02
+#---------------------------------------------------

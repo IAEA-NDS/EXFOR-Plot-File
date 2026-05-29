@@ -1,0 +1,25 @@
+# EXFOR #         : 11218.007  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : R.B.Day
+# Reference       : Phys.Rev. 102 (1956) 767
+# DOI             : 10.1103/PhysRev.102.767
+# Quantity        : 16O(n,inl)16O partial gamma angular differential cross section
+# REACTION        : 8-O-16(N,INL)8-O-16,PAR,DA,G,4PI
+# File ID         : n-O16-inl-adxgl-excfun-mon-angl95_eoutl6.094E+06_prodO16_Day_1956_11218.007
+#
+# theta,lab (deg) :   95.0000000
+# Eout,lab (eV)   :   6.0940E+06
+#
+# npts            : 1           
+# xmin            :   7.0600E+06
+# xmax            :   7.0600E+06
+# ymin            :   7.9577E-03
+# ymax            :   7.9577E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.0600E+06  3.0000E+04  7.9577E-03  1.9099E-02
+#---------------------------------------------------

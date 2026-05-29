@@ -1,0 +1,22 @@
+# EXFOR #         : 11010.009  
+# EXFOR Ver.      : 20150826
+# TRANS #         : 1409
+# Author          : V.Hummel et al.
+# Reference       : Phys.Rev. 82 (1951) 67
+# DOI             : 10.1103/PhysRev.82.67
+# Quantity        : 103Rh(n,g)104mRh cross section
+# REACTION        : 45-RH-103(N,G)45-RH-104-M,,SIG
+# File ID         : n-Rh103-g-sig-excfun-mon-prodRh104m_Hummel_1951_11010.009
+#
+# npts            : 1           
+# xmin            :   2.4000E+04
+# xmax            :   2.4000E+04
+# ymin            :   2.0000E-01
+# ymax            :   2.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+04  0.0000E+00  2.0000E-01  3.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,31 @@
+# EXFOR #         : 20266.006  
+# EXFOR Ver.      : 20170425
+# TRANS #         : 2261
+# Author          : A.Yoshimura et al.
+# Reference       : Progress report EANDC(J)-1 page 24, 1965
+# DOI             : N/A
+# Quantity        : natTa(n,el)natTa angular differential cross section
+# REACTION        : 73-TA-0(N,EL)73-TA-0,,DA
+# File ID         : n-Ta-el-adxl-angdisl-mon-einc1.410E+07_prodTa_Yoshimura_1965_20266.006
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 7           
+# xmin            :   30.0029100
+# xmax            :  149.9970000
+# ymin            :   2.6000E-02
+# ymax            :   2.5700E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 149.9970000   0.0000000  2.9000E-02  0.0000E+00
+ 125.0016000   0.0000000  3.6000E-02  0.0000E+00
+  99.9971900   0.0000000  2.6000E-02  0.0000E+00
+  80.0028000   0.0000000  5.0000E-02  0.0000E+00
+  60.0000000   0.0000000  5.8000E-02  0.0000E+00
+  40.0039600   0.0000000  2.5700E-01  0.0000E+00
+  30.0029100   0.0000000  2.2800E-01  0.0000E+00
+#---------------------------------------------------

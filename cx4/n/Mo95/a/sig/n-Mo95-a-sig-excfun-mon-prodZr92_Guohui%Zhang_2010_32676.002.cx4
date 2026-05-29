@@ -1,0 +1,24 @@
+# EXFOR #         : 32676.002  
+# EXFOR Ver.      : 20100510
+# TRANS #         : 3146
+# Author          : Guohui Zhang et al.
+# Reference       : Appl.Radiat.Isot. 68 (2010) 180
+# DOI             : 10.1016/j.apradiso.2009.09.013
+# Quantity        : 95Mo(n,a)92Zr cross section
+# REACTION        : 42-MO-95(N,A)40-ZR-92,,SIG
+# File ID         : n-Mo95-a-sig-excfun-mon-prodZr92_Guohui%Zhang_2010_32676.002
+#
+# npts            : 3           
+# xmin            :   4.0000E+06
+# xmax            :   6.0000E+06
+# ymin            :   7.0000E-04
+# ymax            :   1.7000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+06  2.3000E+05  7.0000E-04  7.0000E-05
+  5.0000E+06  1.6000E+05  1.2200E-03  1.2000E-04
+  6.0000E+06  1.2000E+05  1.7000E-03  1.7000E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 21649.003  
+# EXFOR Ver.      : 20170215
+# TRANS #         : 2259
+# Author          : S.M.Qaim et al.
+# Reference       : Report BNL-NCS-51245 page 539, 1980
+# DOI             : N/A
+# Quantity        : 50Cr(n,3n)48Cr cross section
+# REACTION        : 24-CR-50(N,3N)24-CR-48,,SIG,,SPA
+# File ID         : n-Cr50-3n-sig-excfun-spa-prodCr48_Qaim_1980_21649.003
+#
+# npts            : 1           
+# xmin            :   2.0000E+07
+# xmax            :   2.0000E+07
+# ymin            :   7.0000E-05
+# ymax            :   7.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+07  0.0000E+00  7.0000E-05  3.0000E-05
+#---------------------------------------------------

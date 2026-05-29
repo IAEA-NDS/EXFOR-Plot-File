@@ -1,0 +1,24 @@
+# EXFOR #         : 21338.020  
+# EXFOR Ver.      : 20051121
+# TRANS #         : 2174
+# Author          : G.Haouat et al.
+# Reference       : Phys.Rev.C 20 (1979) 78
+# DOI             : 10.1103/PhysRevC.20.78
+# Quantity        : 148Nd(n,inl)148Nd partial cross section
+# REACTION        : 60-ND-148(N,INL)60-ND-148,PAR,SIG
+# File ID         : n-Nd148-inl-sig-lvldis-mon-einc7.000E+06_prodNd148_Haouat_1979_21338.020
+#
+# Einc (eV)       :   7.0000E+06
+#
+# npts            : 1           
+# xmin            :   3.0200E+05
+# xmax            :   3.0200E+05
+# ymin            :   2.3700E-01
+# ymax            :   2.3700E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0200E+05  0.0000E+00  2.3700E-01  1.7000E-02
+#---------------------------------------------------

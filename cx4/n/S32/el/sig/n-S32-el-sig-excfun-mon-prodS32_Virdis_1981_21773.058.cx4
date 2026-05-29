@@ -1,0 +1,23 @@
+# EXFOR #         : 21773.058  
+# EXFOR Ver.      : 20121208
+# TRANS #         : 2234
+# Author          : A.Virdis
+# Reference       : Report CEA-R-5144, 1981
+# DOI             : N/A
+# Quantity        : 32S(n,el)32S cross section
+# REACTION        : 16-S-32(N,EL)16-S-32,,SIG
+# File ID         : n-S32-el-sig-excfun-mon-prodS32_Virdis_1981_21773.058
+#
+# npts            : 2           
+# xmin            :   9.7600E+06
+# xmax            :   1.4830E+07
+# ymin            :   6.8700E-01
+# ymax            :   8.3500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.7600E+06  8.0000E+04  8.3500E-01  3.4235E-02
+  1.4830E+07  6.0000E+04  6.8700E-01  5.2212E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 10034.065  
+# EXFOR Ver.      : 19990719
+# TRANS #         : 0000
+# Author          : J.Meadows et al.
+# Reference       : Z.Phys. 243 (1971) 171
+# DOI             : N/A
+# Quantity        : 165Ho(n,inl)165Ho partial cross section
+# REACTION        : 67-HO-165(N,INL)67-HO-165,PAR,SIG
+# File ID         : n-Ho165-inl-sig-excfun-mon-elvl1.143E+06_prodHo165_Meadows_1971_10034.065
+#
+# Elvl (eV)       :   1.1430E+06
+# dElvl (eV)      :   2.0000E+04
+#
+# npts            : 1           
+# xmin            :   1.4750E+06
+# xmax            :   1.4750E+06
+# ymin            :   2.1860E-01
+# ymax            :   2.1860E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4750E+06  2.0000E+04  2.1860E-01  1.0030E-01
+#---------------------------------------------------

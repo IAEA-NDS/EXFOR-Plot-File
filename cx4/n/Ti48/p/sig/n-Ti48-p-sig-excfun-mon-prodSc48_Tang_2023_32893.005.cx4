@@ -1,0 +1,22 @@
+# EXFOR #         : 32893.005  
+# EXFOR Ver.      : 20241208
+# TRANS #         : 3215
+# Author          : X.Tang et al.
+# Reference       : Appl.Radiat.Isot. 193 (2023) 110636
+# DOI             : 10.1016/j.apradiso.2022.110636
+# Quantity        : 48Ti(n,p)48Sc cross section
+# REACTION        : 22-TI-48(N,P)21-SC-48,,SIG
+# File ID         : n-Ti48-p-sig-excfun-mon-prodSc48_Tang_2023_32893.005
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   6.3900E-02
+# ymax            :   6.3900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  6.3900E-02  2.8000E-03
+#---------------------------------------------------

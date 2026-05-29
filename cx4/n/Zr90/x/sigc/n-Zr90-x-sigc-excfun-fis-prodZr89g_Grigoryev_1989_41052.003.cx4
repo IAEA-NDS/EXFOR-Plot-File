@@ -1,0 +1,22 @@
+# EXFOR #         : 41052.003  
+# EXFOR Ver.      : 20180328
+# TRANS #         : 4178
+# Author          : E.I.Grigoryev et al.
+# Reference       : Yad.Reak.Konst.  No.3 (1989) 117
+# DOI             : N/A
+# Quantity        : 90Zr(n,2n)89gZr cumulative production cross section
+# REACTION        : 40-ZR-90(N,2N)40-ZR-89-G,M+,SIG,,FIS
+# File ID         : n-Zr90-x-sigc-excfun-fis-prodZr89g_Grigoryev_1989_41052.003
+#
+# npts            : 1           
+# xmin            :   1.3200E+06
+# xmax            :   1.3200E+06
+# ymin            :   9.4500E-05
+# ymax            :   9.4500E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3200E+06  0.0000E+00  9.4500E-05  4.5000E-06
+#---------------------------------------------------

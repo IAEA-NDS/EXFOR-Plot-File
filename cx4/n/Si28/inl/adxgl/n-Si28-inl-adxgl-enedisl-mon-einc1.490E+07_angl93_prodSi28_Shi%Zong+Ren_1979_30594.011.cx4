@@ -1,0 +1,26 @@
+# EXFOR #         : 30594.011  
+# EXFOR Ver.      : 20211005
+# TRANS #         : 3202
+# Author          : Shi Zong-Ren et al.
+# Reference       : Chin.J.Nucl.Phys. 1 (1979) 45
+# DOI             : N/A
+# Quantity        : 28Si(n,inl)28Si partial gamma angular differential cross section
+# REACTION        : 14-SI-28(N,INL)14-SI-28,PAR,DA,G
+# File ID         : n-Si28-inl-adxgl-enedisl-mon-einc1.490E+07_angl93_prodSi28_Shi%Zong+Ren_1979_30594.011
+#
+# Einc (eV)       :   1.4900E+07
+# dEinc (eV)      :   2.3000E+05
+# theta,lab (deg) :   93.0000000
+#
+# npts            : 1           
+# xmin            :   1.7800E+06
+# xmax            :   1.7800E+06
+# ymin            :   2.8600E-02
+# ymax            :   2.8600E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7800E+06  0.0000E+00  2.8600E-02  2.9000E-03
+#---------------------------------------------------

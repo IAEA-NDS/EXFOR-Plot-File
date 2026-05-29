@@ -1,0 +1,27 @@
+# EXFOR #         : 41007.051  
+# EXFOR Ver.      : 20120420
+# TRANS #         : 4157
+# Author          : Yu.M.Burmistrov et al.
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 217
+# DOI             : N/A
+# Quantity        : 128Te(n,inl)128Te cross section
+# REACTION        : 52-TE-128(N,INL)52-TE-128,,SIG
+# File ID         : n-Te128-inl-sig-excfun-mon-prodTe128_Burmistrov_1987_41007.051
+#
+# npts            : 6           
+# xmin            :   8.5000E+05
+# xmax            :   1.0900E+06
+# ymin            :   3.9000E-01
+# ymax            :   7.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.5000E+05  0.0000E+00  3.9000E-01  4.0000E-01
+  9.0000E+05  0.0000E+00  5.4000E-01  5.0000E-01
+  9.4000E+05  0.0000E+00  5.8000E-01  6.0000E-01
+  9.9000E+05  0.0000E+00  6.4000E-01  6.0000E-01
+  1.0400E+06  0.0000E+00  6.8000E-01  7.0000E-01
+  1.0900E+06  0.0000E+00  7.4000E-01  7.0000E-01
+#---------------------------------------------------

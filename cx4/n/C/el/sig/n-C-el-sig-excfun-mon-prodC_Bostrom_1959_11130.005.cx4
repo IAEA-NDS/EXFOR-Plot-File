@@ -1,0 +1,24 @@
+# EXFOR #         : 11130.005  
+# EXFOR Ver.      : 19860121
+# TRANS #         : 0000
+# Author          : N.A.Bostrom et al.
+# Reference       : Report WADC-TN-59-107, 1959
+# DOI             : N/A
+# Quantity        : natC(n,el)natC cross section
+# REACTION        : 6-C-0(N,EL)6-C-0,,SIG
+# File ID         : n-C-el-sig-excfun-mon-prodC_Bostrom_1959_11130.005
+#
+# npts            : 3           
+# xmin            :   4.2100E+06
+# xmax            :   7.5800E+06
+# ymin            :   1.3000E+00
+# ymax            :   1.8000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.2100E+06  1.0000E+05  1.8000E+00  3.0000E-01
+  4.7000E+06  9.0000E+04  1.5000E+00  3.0000E-01
+  7.5800E+06  1.0000E+05  1.3000E+00  2.0000E-01
+#---------------------------------------------------

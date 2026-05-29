@@ -1,0 +1,23 @@
+# EXFOR #         : 40685.013  
+# EXFOR Ver.      : 20231010
+# TRANS #         : 4215
+# Author          : I.A.Korzh
+# Reference       : Sov.At.Energy 16 (1964) 312
+# DOI             : 10.1007/BF01122981
+# Quantity        : natSe(n,el)natSe cross section
+# REACTION        : 34-SE-0(N,EL)34-SE-0,,SIG
+# File ID         : n-Se-el-sig-excfun-mon-prodSe_Korzh_1964_40685.013
+#
+# npts            : 2           
+# xmin            :   5.0000E+05
+# xmax            :   8.0000E+05
+# ymin            :   4.7200E+00
+# ymax            :   5.8900E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+05  5.0000E+04  5.8900E+00  2.0000E-01
+  8.0000E+05  5.0000E+04  4.7200E+00  2.0000E-01
+#---------------------------------------------------

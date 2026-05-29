@@ -1,0 +1,25 @@
+# EXFOR #         : 14325.008  
+# EXFOR Ver.      : 20120522
+# TRANS #         : 1383
+# Author          : F.C.Engesser et al.
+# Reference       : Report USNRDL-TR-916, 1965
+# DOI             : N/A
+# Quantity        : 28Si(n,inl)28Si partial gamma angular differential cross section
+# REACTION        : 14-SI-28(N,INL)14-SI-28,PAR,DA,G
+# File ID         : n-Si28-inl-adxgl-enedisl-mon-einc2.800E+06_angl90_prodSi28_Engesser_1965_14325.008
+#
+# Einc (eV)       :   2.8000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   1.7800E+06
+# xmax            :   1.7800E+06
+# ymin            :   4.4500E-02
+# ymax            :   4.4500E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7800E+06  0.0000E+00  4.4500E-02  0.0000E+00
+#---------------------------------------------------

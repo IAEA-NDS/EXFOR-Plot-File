@@ -1,0 +1,22 @@
+# EXFOR #         : 11289.005  
+# EXFOR Ver.      : 19810428
+# TRANS #         : 0000
+# Author          : N.W.Golchert et al.
+# Reference       : Nucl.Phys. 73 (1965) 349
+# DOI             : 10.1016/0029-5582(65)90680-2
+# Quantity        : 99Tc(n,a)96Nb cross section
+# REACTION        : 43-TC-99(N,A)41-NB-96,,SIG
+# File ID         : n-Tc99-a-sig-excfun-mon-prodNb96_Golchert_1965_11289.005
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   2.0200E-03
+# ymax            :   2.0200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  0.0000E+00  2.0200E-03  2.2000E-04
+#---------------------------------------------------

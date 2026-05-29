@@ -1,0 +1,28 @@
+# EXFOR #         : 12378.007  
+# EXFOR Ver.      : 20250601
+# TRANS #         : 1520
+# Author          : L.Cranberg et al.
+# Reference       : Phys.Rev. 109 (1958) 2063
+# DOI             : 10.1103/PhysRev.109.2063
+# Quantity        : 238U(n,inl)238U partial angular differential cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,DA
+# File ID         : n-U238-inl-adxl-excfun-mon-angl90_elvl9.800E+05_prodU238_Cranberg_1958_12378.007
+#
+# theta,lab (deg) :   90.0000000
+# dtheta,lab (deg):   10.0000000
+# Elvl (eV)       :   9.8000E+05
+# dElvl (eV)      :   2.0000E+04
+#
+# npts            : 2           
+# xmin            :   1.5000E+06
+# xmax            :   1.8900E+06
+# ymin            :   3.7000E-02
+# ymax            :   4.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.5000E+06  3.6000E+04  3.7000E-02  4.0000E-03
+  1.8900E+06  3.0000E+04  4.1000E-02  4.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 12977.019  
+# EXFOR Ver.      : 20120426
+# TRANS #         : 1381
+# Author          : L.R.Greenwood
+# Reference       : Report (proceedings) ASTM-STP-956 page 743, 1987
+# DOI             : N/A
+# Quantity        : natZr(n,x)89gZr cumulative production cross section
+# REACTION        : 40-ZR-0(N,X)40-ZR-89-G,M+,SIG
+# File ID         : n-Zr-x-sigc-excfun-mon-prodZr89g_Greenwood_1987_12977.019
+#
+# npts            : 5           
+# xmin            :   1.4500E+07
+# xmax            :   1.4900E+07
+# ymin            :   7.3700E-01
+# ymax            :   8.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  2.0000E+05  7.3700E-01  1.1055E-02
+  1.4650E+07  2.0000E+05  7.9600E-01  1.1940E-02
+  1.4800E+07  2.0000E+05  8.2400E-01  1.2360E-02
+  1.4850E+07  2.0000E+05  8.5000E-01  1.2750E-02
+  1.4900E+07  2.0000E+05  8.4600E-01  1.2690E-02
+#---------------------------------------------------

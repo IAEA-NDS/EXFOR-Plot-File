@@ -1,0 +1,23 @@
+# EXFOR #         : 31654.005  
+# EXFOR Ver.      : 20080926
+# TRANS #         : 3131
+# Author          : Changlin Lan et al.
+# Reference       : Ann.Nucl.Energy 35 (2008) 2105
+# DOI             : 10.1016/j.anucene.2008.05.009
+# Quantity        : 72Ge(n,a)69mZn cross section
+# REACTION        : 32-GE-72(N,A)30-ZN-69-M,,SIG
+# File ID         : n-Ge72-a-sig-excfun-mon-prodZn69m_Changlin%Lan_2008_31654.005
+#
+# npts            : 2           
+# xmin            :   1.3600E+07
+# xmax            :   1.4100E+07
+# ymin            :   6.3000E-03
+# ymax            :   6.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3600E+07  3.0000E+05  6.3000E-03  9.0000E-04
+  1.4100E+07  2.0000E+05  6.6000E-03  7.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : 10285.004  
+# EXFOR Ver.      : 20081204
+# TRANS #         : 1350
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4810, 1973
+# DOI             : N/A
+# Quantity        : 48Ti(n,inl)48Ti partial angular differential cross section
+# REACTION        : 22-TI-48(N,INL)22-TI-48,PAR,DA,,A
+# File ID         : n-Ti48-inl-adxl-angdisc-mon-einc8.040E+06_elvl9.830E+05_prodTi48_Kinney_1973_10285.004
+#
+# Einc (eV)       :   8.0400E+06
+# dEinc (eV)      :   2.5000E+04
+# Elvl (eV)       :   9.8300E+05
+#
+# npts            : 3           
+# xmin            :   71.2000000
+# xmax            :   86.2800000
+# ymin            :   5.2632E-05
+# ymax            :   5.8464E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  71.2000000   0.0000000  5.6158E-05  0.0000E+00
+  78.7500000   0.0000000  5.8464E-05  0.0000E+00
+  86.2800000   0.0000000  5.2632E-05  0.0000E+00
+#---------------------------------------------------

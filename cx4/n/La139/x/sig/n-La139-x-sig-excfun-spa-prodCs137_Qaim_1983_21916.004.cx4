@@ -1,0 +1,22 @@
+# EXFOR #         : 21916.004  
+# EXFOR Ver.      : 20170203
+# TRANS #         : 2259
+# Author          : S.M.Qaim et al.
+# Reference       : Nucl.Phys.A 410 No.3 (1983) 421
+# DOI             : 10.1016/0375-9474(83)90634-6
+# Quantity        : 139La(n,x)137Cs independent production cross section
+# REACTION        : 57-LA-139(N,X)55-CS-137,,SIG,,SPA
+# File ID         : n-La139-x-sig-excfun-spa-prodCs137_Qaim_1983_21916.004
+#
+# npts            : 1           
+# xmin            :   2.2500E+07
+# xmax            :   2.2500E+07
+# ymin            :   2.1000E-04
+# ymax            :   2.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2500E+07  7.9000E+06  2.1000E-04  4.0000E-05
+#---------------------------------------------------

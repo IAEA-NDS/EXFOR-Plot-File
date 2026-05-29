@@ -1,0 +1,23 @@
+# EXFOR #         : 22145.009.2
+# EXFOR Ver.      : 20210820
+# TRANS #         : 2303
+# Author          : F.Kaeppeler et al.
+# Reference       : Phys.Rev.C 35 (1987) 936
+# DOI             : 10.1103/PhysRevC.35.936
+# Quantity        : 84Kr(n,g)85mKr cross section
+# REACTION        : 36-KR-84(N,G)36-KR-85-M,,SIG,,SPA
+# File ID         : n-Kr84-g-sig-excfun-spa-prodKr85m_Kaeppeler_1987_22145.009.2
+#
+# npts            : 2           
+# xmin            :   2.5000E+04
+# xmax            :   5.2000E+04
+# ymin            :   3.6300E-03
+# ymax            :   3.9400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  3.9400E-03  3.0000E-04
+  5.2000E+04  0.0000E+00  3.6300E-03  5.4000E-04
+#---------------------------------------------------

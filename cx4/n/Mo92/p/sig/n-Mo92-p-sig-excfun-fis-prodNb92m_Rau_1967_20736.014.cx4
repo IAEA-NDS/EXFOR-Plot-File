@@ -1,0 +1,22 @@
+# EXFOR #         : 20736.014  
+# EXFOR Ver.      : 19840201
+# TRANS #         : 0000
+# Author          : G.Rau
+# Reference       : Nukleonik 9 (1967) 228
+# DOI             : N/A
+# Quantity        : 92Mo(n,p)92mNb cross section
+# REACTION        : 42-MO-92(N,P)41-NB-92-M,,SIG,,FIS
+# File ID         : n-Mo92-p-sig-excfun-fis-prodNb92m_Rau_1967_20736.014
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   6.7400E-03
+# ymax            :   6.7400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  6.7400E-03  2.7000E-04
+#---------------------------------------------------

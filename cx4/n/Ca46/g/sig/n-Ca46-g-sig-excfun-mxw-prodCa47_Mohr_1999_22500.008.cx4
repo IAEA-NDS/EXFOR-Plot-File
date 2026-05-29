@@ -1,0 +1,23 @@
+# EXFOR #         : 22500.008  
+# EXFOR Ver.      : 20090820
+# TRANS #         : 2212
+# Author          : P.Mohr et al.
+# Reference       : Phys.Rev.C 59 (1999) 3410
+# DOI             : 10.1103/PhysRevC.59.3410
+# Quantity        : 46Ca(n,g)47Ca cross section
+# REACTION        : 20-CA-46(N,G)20-CA-47,,SIG,,MXW
+# File ID         : n-Ca46-g-sig-excfun-mxw-prodCa47_Mohr_1999_22500.008
+#
+# npts            : 2           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   4.4230E-03
+# ymax            :   4.8070E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  4.8070E-03  6.2491E-04
+  2.5000E+04  0.0000E+00  4.4230E-03  5.7499E-04
+#---------------------------------------------------

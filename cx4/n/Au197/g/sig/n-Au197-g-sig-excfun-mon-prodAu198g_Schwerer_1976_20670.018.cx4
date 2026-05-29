@@ -1,0 +1,22 @@
+# EXFOR #         : 20670.018  
+# EXFOR Ver.      : 19840127
+# TRANS #         : 0000
+# Author          : O.Schwerer et al.
+# Reference       : Nucl.Phys.A 264 (1976) 105
+# DOI             : 10.1016/0375-9474(76)90147-0
+# Quantity        : 197Au(n,g)198gAu cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198-G,,SIG
+# File ID         : n-Au197-g-sig-excfun-mon-prodAu198g_Schwerer_1976_20670.018
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   2.1000E-03
+# ymax            :   2.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  2.1000E-03  1.2000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 10214.009  
+# EXFOR Ver.      : 20210731
+# TRANS #         : 1485
+# Author          : J.K.Temperley et al.
+# Reference       : Report BRL-R-1491, 1970
+# DOI             : N/A
+# Quantity        : 110Pd(n,x)109Pd cumulative production cross section
+# REACTION        : 46-PD-110(N,X)46-PD-109,CUM,SIG
+# File ID         : n-Pd110-x-sigc-excfun-mon-prodPd109_Temperley_1970_10214.009
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   9.5000E-01
+# ymax            :   9.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  5.0000E+05  9.5000E-01  1.1000E-01
+#---------------------------------------------------

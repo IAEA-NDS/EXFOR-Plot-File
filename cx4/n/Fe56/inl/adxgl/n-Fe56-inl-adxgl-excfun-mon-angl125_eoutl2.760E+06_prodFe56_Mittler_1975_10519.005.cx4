@@ -1,0 +1,27 @@
+# EXFOR #         : 10519.005  
+# EXFOR Ver.      : 20040427
+# TRANS #         : 0000
+# Author          : A.Mittler et al.
+# Reference       : Thesis  (1975)
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe partial gamma angular differential cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,DA,G
+# File ID         : n-Fe56-inl-adxgl-excfun-mon-angl125_eoutl2.760E+06_prodFe56_Mittler_1975_10519.005
+#
+# theta,lab (deg) :  125.0000000
+# Eout,lab (eV)   :   2.7600E+06
+#
+# npts            : 3           
+# xmin            :   3.7900E+06
+# xmax            :   3.9620E+06
+# ymin            :   3.3700E-03
+# ymax            :   4.8400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.7900E+06  0.0000E+00  3.3700E-03  5.0000E-04
+  3.8910E+06  0.0000E+00  4.8400E-03  5.1000E-04
+  3.9620E+06  0.0000E+00  4.6200E-03  4.9000E-04
+#---------------------------------------------------

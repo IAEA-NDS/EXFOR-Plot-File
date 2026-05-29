@@ -1,0 +1,22 @@
+# EXFOR #         : 21980.008  
+# EXFOR Ver.      : 19860703
+# TRANS #         : 0000
+# Author          : L.Koester et al.
+# Reference       : Z.Phys.A 320 (1985) 661
+# DOI             : 10.1007/BF01411868
+# Quantity        : 64Zn(n,g)65Zn cross section
+# REACTION        : 30-ZN-64(N,G)30-ZN-65,,SIG
+# File ID         : n-Zn64-g-sig-excfun-mon-prodZn65_Koester_1985_21980.008
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.1000E+00
+# ymax            :   1.1000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.1000E+00  1.0000E-01
+#---------------------------------------------------

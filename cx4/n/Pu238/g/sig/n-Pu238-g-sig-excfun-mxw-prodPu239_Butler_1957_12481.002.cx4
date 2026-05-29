@@ -1,0 +1,22 @@
+# EXFOR #         : 12481.002  
+# EXFOR Ver.      : 19860602
+# TRANS #         : 0000
+# Author          : J.Butler et al.
+# Reference       : Can.J.Phys. 35 (1957) 147
+# DOI             : 10.1139/p57-018
+# Quantity        : 238Pu(n,g)239Pu cross section
+# REACTION        : 94-PU-238(N,G)94-PU-239,,SIG,,MXW
+# File ID         : n-Pu238-g-sig-excfun-mxw-prodPu239_Butler_1957_12481.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   4.1000E+02
+# ymax            :   4.1000E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  4.1000E+02  1.4000E+01
+#---------------------------------------------------

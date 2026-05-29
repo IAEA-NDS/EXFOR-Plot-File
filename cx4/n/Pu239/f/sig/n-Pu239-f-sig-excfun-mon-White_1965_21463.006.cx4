@@ -1,0 +1,26 @@
+# EXFOR #         : 21463.006  
+# EXFOR Ver.      : 20071219
+# TRANS #         : 2190
+# Author          : P.H.White et al.
+# Reference       : Proceedings of Physics and Chemistry of Fission Conf., Salzburg 1965 1 page 219
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cross section
+# REACTION        : 94-PU-239(N,F),,SIG
+# File ID         : n-Pu239-f-sig-excfun-mon-White_1965_21463.006
+#
+# npts            : 5           
+# xmin            :   4.0000E+04
+# xmax            :   5.5000E+05
+# ymin            :   1.4500E+00
+# ymax            :   1.5600E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+04  1.0000E+04  1.4500E+00  5.0750E-02
+  6.7000E+04  1.0000E+04  1.4600E+00  5.1100E-02
+  1.2700E+05  7.0000E+03  1.5100E+00  5.2850E-02
+  3.1200E+05  7.0000E+03  1.5200E+00  5.3200E-02
+  5.5000E+05  1.0000E+04  1.5600E+00  5.4600E-02
+#---------------------------------------------------

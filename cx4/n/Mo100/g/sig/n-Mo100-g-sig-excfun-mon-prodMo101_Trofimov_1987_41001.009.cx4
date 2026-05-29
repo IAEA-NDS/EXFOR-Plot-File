@@ -1,0 +1,22 @@
+# EXFOR #         : 41001.009  
+# EXFOR Ver.      : 20250805
+# TRANS #         : 4224
+# Author          : Yu.N.Trofimov
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 331
+# DOI             : N/A
+# Quantity        : 100Mo(n,g)101Mo cross section
+# REACTION        : 42-MO-100(N,G)42-MO-101,,SIG
+# File ID         : n-Mo100-g-sig-excfun-mon-prodMo101_Trofimov_1987_41001.009
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  1.0000E-02  1.0000E-03
+#---------------------------------------------------

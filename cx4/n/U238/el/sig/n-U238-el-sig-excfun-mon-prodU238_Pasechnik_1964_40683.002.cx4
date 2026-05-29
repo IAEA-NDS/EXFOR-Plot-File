@@ -1,0 +1,22 @@
+# EXFOR #         : 40683.002  
+# EXFOR Ver.      : 20231010
+# TRANS #         : 4215
+# Author          : M.V.Pasechnik et al.
+# Reference       : Sov.At.Energy 16 (1964) 246
+# DOI             : 10.1007/BF01122966
+# Quantity        : 238U(n,el)238U cross section
+# REACTION        : 92-U-238(N,EL)92-U-238,,SIG
+# File ID         : n-U238-el-sig-excfun-mon-prodU238_Pasechnik_1964_40683.002
+#
+# npts            : 1           
+# xmin            :   8.0000E+05
+# xmax            :   8.0000E+05
+# ymin            :   6.0000E+00
+# ymax            :   6.0000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+05  5.0000E+04  6.0000E+00  2.2000E-01
+#---------------------------------------------------

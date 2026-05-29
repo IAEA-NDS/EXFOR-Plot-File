@@ -1,0 +1,26 @@
+# EXFOR #         : 21381.007  
+# EXFOR Ver.      : 20050915
+# TRANS #         : 2174
+# Author          : M.A.Grace et al.
+# Reference       : Phys.Rev. 82 (1951) 969
+# DOI             : N/A
+# Quantity        : natCu(n,inl)natCu partial gamma production cross section
+# REACTION        : 29-CU-0(N,INL)29-CU-0,PAR,SIG,G
+# File ID         : n-Cu-inl-sigg-enedisl-mon-einc2.500E+06_prodCu_Grace_1951_21381.007
+#
+# Einc (eV)       :   2.5000E+06
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 2           
+# xmin            :   1.1000E+06
+# xmax            :   2.2000E+06
+# ymin            :   3.4000E-01
+# ymax            :   1.2000E+00
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1000E+06  0.0000E+00  1.2000E+00  6.0000E-01
+  2.2000E+06  0.0000E+00  3.4000E-01  1.2000E-01
+#---------------------------------------------------

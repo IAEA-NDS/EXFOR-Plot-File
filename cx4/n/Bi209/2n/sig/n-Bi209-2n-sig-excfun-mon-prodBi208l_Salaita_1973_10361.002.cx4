@@ -1,0 +1,22 @@
+# EXFOR #         : 10361.002  
+# EXFOR Ver.      : 20230707
+# TRANS #         : 1507
+# Author          : G.N.Salaita et al.
+# Reference       : J.Inorg.Nucl.Chem. 35 (1973) 2139
+# DOI             : 10.1016/0022-1902(73)80276-3
+# Quantity        : 209Bi(n,2n)208lBi cross section
+# REACTION        : 83-BI-209(N,2N)83-BI-208-L,,SIG
+# File ID         : n-Bi209-2n-sig-excfun-mon-prodBi208l_Salaita_1973_10361.002
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   3.9300E-01
+# ymax            :   3.9300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  3.0000E+05  3.9300E-01  3.5000E-02
+#---------------------------------------------------

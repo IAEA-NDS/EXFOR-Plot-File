@@ -1,0 +1,33 @@
+# EXFOR #         : 13002.002  
+# EXFOR Ver.      : 20140528
+# TRANS #         : 1401
+# Author          : T.C.Martin et al.
+# Reference       : Progress report ORO-2791-32 page 62, 1971
+# DOI             : N/A
+# Quantity        : natZr(n,inl)natZr partial gamma angular differential cross section
+# REACTION        : 40-ZR-0(N,INL)40-ZR-0,PAR,DA,G
+# File ID         : n-Zr-inl-adxgl-enedisl-mon-einc5.000E+06_angl55_prodZr_Martin_1971_13002.002
+#
+# Einc (eV)       :   5.0000E+06
+# dEinc (eV)      :   8.0000E+04
+# theta,lab (deg) :   55.0000000
+#
+# npts            : 8           
+# xmin            :   7.1000E+05
+# xmax            :   4.7500E+06
+# ymin            :   2.6000E-03
+# ymax            :   1.7560E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.1000E+05  2.1000E+05  1.7560E-01  3.5120E-02
+  1.7500E+06  2.5000E+05  7.0200E-02  1.4040E-02
+  2.3400E+06  1.6000E+05  7.9300E-02  1.5860E-02
+  2.7500E+06  2.5000E+05  1.9000E-02  3.8000E-03
+  3.2500E+06  2.5000E+05  1.4600E-02  2.9200E-03
+  3.7500E+06  2.5000E+05  9.7000E-03  1.9400E-03
+  4.2500E+06  2.5000E+05  5.3000E-03  1.0600E-03
+  4.7500E+06  2.5000E+05  2.6000E-03  5.2000E-04
+#---------------------------------------------------

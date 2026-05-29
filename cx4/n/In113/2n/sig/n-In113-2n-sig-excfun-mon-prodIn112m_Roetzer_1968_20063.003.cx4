@@ -1,0 +1,22 @@
+# EXFOR #         : 20063.003  
+# EXFOR Ver.      : 20201210
+# TRANS #         : 2296
+# Author          : H.Roetzer
+# Reference       : Nucl.Phys.A 109 (1968) 694
+# DOI             : 10.1016/0375-9474(68)90040-7
+# Quantity        : 113In(n,2n)112mIn cross section
+# REACTION        : 49-IN-113(N,2N)49-IN-112-M,,SIG
+# File ID         : n-In113-2n-sig-excfun-mon-prodIn112m_Roetzer_1968_20063.003
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   1.4900E+00
+# ymax            :   1.4900E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  1.5000E+05  1.4900E+00  1.5000E-01
+#---------------------------------------------------

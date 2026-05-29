@@ -1,0 +1,22 @@
+# EXFOR #         : 30660.002.M
+# EXFOR Ver.      : 20090830
+# TRANS #         : 3140
+# Author          : I.Ribansky et al.
+# Reference       : J.Phys.G 9 (1983) 1537
+# DOI             : 10.1088/0305-4616/9/12/014
+# Quantity        : 46Ti(n,p)46mSc cross section
+# REACTION        : 22-TI-46(N,P)21-SC-46-M,,SIG
+# File ID         : n-Ti46-p-sig-excfun-mon-prodSc46m_Ribansky_1983_30660.002.m
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   5.5000E-02
+# ymax            :   5.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  2.5000E+05  5.5000E-02  2.2000E-03
+#---------------------------------------------------

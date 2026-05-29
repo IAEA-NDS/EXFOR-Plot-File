@@ -1,0 +1,25 @@
+# EXFOR #         : 40047.017  
+# EXFOR Ver.      : 20070730
+# TRANS #         : 4141
+# Author          : Ju.G.Degtjarev et al.
+# Reference       : At.En. 23 No.6 (1967) 568
+# DOI             : N/A
+# Quantity        : 52Cr(n,inl)52Cr partial cross section
+# REACTION        : 24-CR-52(N,INL)24-CR-52,PAR,SIG
+# File ID         : n-Cr52-inl-sig-excfun-mon-elvl3.130E+06_prodCr52_Degtjarev_1967_40047.017
+#
+# Elvl (eV)       :   3.1300E+06
+#
+# npts            : 2           
+# xmin            :   3.3600E+06
+# xmax            :   3.7600E+06
+# ymin            :   1.8000E-01
+# ymax            :   4.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3600E+06  0.0000E+00  1.8000E-01  3.0000E-02
+  3.7600E+06  0.0000E+00  4.0000E-01  6.0000E-02
+#---------------------------------------------------

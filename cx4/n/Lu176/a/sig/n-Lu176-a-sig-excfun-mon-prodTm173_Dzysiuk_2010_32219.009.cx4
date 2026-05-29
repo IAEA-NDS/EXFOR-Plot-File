@@ -1,0 +1,22 @@
+# EXFOR #         : 32219.009  
+# EXFOR Ver.      : 20110816
+# TRANS #         : 3151
+# Author          : N.Dzysiuk et al.
+# Reference       : Phys.Rev.C 81 (2010) 014610
+# DOI             : 10.1103/PhysRevC.81.014610
+# Quantity        : 176Lu(n,a)173Tm cross section
+# REACTION        : 71-LU-176(N,A)69-TM-173,,SIG
+# File ID         : n-Lu176-a-sig-excfun-mon-prodTm173_Dzysiuk_2010_32219.009
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   1.6000E-03
+# ymax            :   1.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  3.0000E+05  1.6000E-03  3.0000E-04
+#---------------------------------------------------

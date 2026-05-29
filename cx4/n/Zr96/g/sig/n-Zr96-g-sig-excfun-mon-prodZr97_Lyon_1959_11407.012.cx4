@@ -1,0 +1,22 @@
+# EXFOR #         : 11407.012  
+# EXFOR Ver.      : 20260110
+# TRANS #         : 1525
+# Author          : W.S.Lyon et al.
+# Reference       : Phys.Rev. 114 (1959) 1619
+# DOI             : 10.1103/PhysRev.114.1619
+# Quantity        : 96Zr(n,g)97Zr cross section
+# REACTION        : 40-ZR-96(N,G)40-ZR-97,,SIG
+# File ID         : n-Zr96-g-sig-excfun-mon-prodZr97_Lyon_1959_11407.012
+#
+# npts            : 1           
+# xmin            :   1.9500E+05
+# xmax            :   1.9500E+05
+# ymin            :   7.0000E-03
+# ymax            :   7.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9500E+05  5.0000E+04  7.0000E-03  2.0000E-03
+#---------------------------------------------------

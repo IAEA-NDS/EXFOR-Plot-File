@@ -1,0 +1,22 @@
+# EXFOR #         : 20670.016  
+# EXFOR Ver.      : 19840127
+# TRANS #         : 0000
+# Author          : O.Schwerer et al.
+# Reference       : Nucl.Phys.A 264 (1976) 105
+# DOI             : 10.1016/0375-9474(76)90147-0
+# Quantity        : 186W(n,g)187W cross section
+# REACTION        : 74-W-186(N,G)74-W-187,,SIG
+# File ID         : n-W186-g-sig-excfun-mon-prodW187_Schwerer_1976_20670.016
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   2.2000E-03
+# ymax            :   2.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  2.2000E-03  5.0000E-04
+#---------------------------------------------------

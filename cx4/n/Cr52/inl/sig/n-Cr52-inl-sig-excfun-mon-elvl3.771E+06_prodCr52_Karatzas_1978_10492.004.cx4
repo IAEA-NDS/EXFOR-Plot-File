@@ -1,0 +1,25 @@
+# EXFOR #         : 10492.004  
+# EXFOR Ver.      : 20100513
+# TRANS #         : 1364
+# Author          : P.T.Karatzas et al.
+# Reference       : Nucl.Sci.Eng. 67 (1978) 34
+# DOI             : 10.13182/NSE78-A27235
+# Quantity        : 52Cr(n,inl)52Cr partial cross section
+# REACTION        : 24-CR-52(N,INL)24-CR-52,PAR,SIG,,A
+# File ID         : n-Cr52-inl-sig-excfun-mon-elvl3.771E+06_prodCr52_Karatzas_1978_10492.004
+#
+# Elvl (eV)       :   3.7710E+06
+#
+# npts            : 2           
+# xmin            :   3.8700E+06
+# xmax            :   3.9700E+06
+# ymin            :   1.7902E-04
+# ymax            :   3.1030E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8700E+06  0.0000E+00  1.7902E-04  5.9674E-05
+  3.9700E+06  0.0000E+00  3.1030E-04  9.5478E-05
+#---------------------------------------------------

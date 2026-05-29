@@ -1,0 +1,29 @@
+# EXFOR #         : 10785.002  
+# EXFOR Ver.      : 20230518
+# TRANS #         : 1509
+# Author          : R.V.LeClaire et al.
+# Reference       : Phys.Rev.C 18 (1978) 1185
+# DOI             : 10.1103/PhysRevC.18.1185
+# Quantity        : 59Co(n,inl)59Co partial gamma angular differential cross section
+# REACTION        : 27-CO-59(N,INL)27-CO-59,PAR,DA,G
+# File ID         : n-Co59-inl-adxgl-angdisl-mon-einc2.260E+06_eoutl1.744E+06_prodCo59_LeClaire_1978_10785.002
+#
+# Einc (eV)       :   2.2600E+06
+# Eout,lab (eV)   :   1.7440E+06
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  130.0000000
+# ymin            :   5.3000E-03
+# ymax            :   6.1000E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  5.6000E-03  8.0000E-04
+  55.0000000   0.0000000  6.0000E-03  9.0000E-04
+  90.0000000   0.0000000  6.1000E-03  9.0000E-04
+ 110.0000000   0.0000000  5.3000E-03  9.0000E-04
+ 130.0000000   0.0000000  5.7000E-03  9.0000E-04
+#---------------------------------------------------

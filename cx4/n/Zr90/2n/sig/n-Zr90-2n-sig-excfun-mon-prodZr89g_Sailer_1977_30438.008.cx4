@@ -1,0 +1,22 @@
+# EXFOR #         : 30438.008  
+# EXFOR Ver.      : 20090310
+# TRANS #         : 3135
+# Author          : K.Sailer et al.
+# Reference       : Proceedings of 4.All Union Conf.on Neutron Phys.,Kiev,18-22 Apr 1977 1 page 246
+# DOI             : N/A
+# Quantity        : 90Zr(n,2n)89gZr cross section
+# REACTION        : 40-ZR-90(N,2N)40-ZR-89-G,,SIG
+# File ID         : n-Zr90-2n-sig-excfun-mon-prodZr89g_Sailer_1977_30438.008
+#
+# npts            : 1           
+# xmin            :   1.4810E+07
+# xmax            :   1.4810E+07
+# ymin            :   6.1700E-01
+# ymax            :   6.1700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4810E+07  2.5000E+05  6.1700E-01  1.5000E-02
+#---------------------------------------------------

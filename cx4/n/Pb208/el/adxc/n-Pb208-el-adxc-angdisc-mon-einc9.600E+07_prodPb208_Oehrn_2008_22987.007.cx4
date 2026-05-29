@@ -1,0 +1,25 @@
+# EXFOR #         : 22987.007  
+# EXFOR Ver.      : 20080609
+# TRANS #         : 2200
+# Author          : A.Oehrn et al.
+# Reference       : Phys.Rev.C 77 (2008) 024605
+# DOI             : 10.1103/PhysRevC.77.024605
+# Quantity        : 208Pb(n,el)208Pb angular differential cross section
+# REACTION        : 82-PB-208(N,EL)82-PB-208,,DA
+# File ID         : n-Pb208-el-adxc-angdisc-mon-einc9.600E+07_prodPb208_Oehrn_2008_22987.007
+#
+# Einc (eV)       :   9.6000E+07
+# dEinc (eV)      :   5.0000E+05
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   6.0000E+01
+# ymax            :   6.0000E+01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   1.0000000  6.0000E+01  1.4000E+01
+#---------------------------------------------------

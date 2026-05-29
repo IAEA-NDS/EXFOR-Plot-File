@@ -1,0 +1,25 @@
+# EXFOR #         : 13076.003  
+# EXFOR Ver.      : 20200820
+# TRANS #         : 1473
+# Author          : A.Okazaki et al.
+# Reference       : Can.J.Phys. 43 (1965) 1036
+# DOI             : 10.1139/p65-102
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-Pu239-f-fyc-nucdis-spa-einc2.530E-02_Okazaki_1965_13076.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 53135.9     
+# xmax            : 56140.9     
+# ymin            :   5.1600E-02
+# ymax            :   5.9700E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     53135.9  5.9700E-02  9.0000E-04
+     56140.9  5.1600E-02  7.0000E-04
+#---------------------------------------------------

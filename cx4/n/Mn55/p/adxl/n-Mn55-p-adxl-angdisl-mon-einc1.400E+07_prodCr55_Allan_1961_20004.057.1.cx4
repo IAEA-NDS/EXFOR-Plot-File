@@ -1,0 +1,24 @@
+# EXFOR #         : 20004.057.1
+# EXFOR Ver.      : 20181026
+# TRANS #         : 2273
+# Author          : D.L.Allan
+# Reference       : Nucl.Phys. 24 (1961) 274
+# DOI             : 10.1016/0029-5582(61)90380-7
+# Quantity        : 55Mn(n,p)55Cr angular differential cross section
+# REACTION        : 25-MN-55(N,P)24-CR-55,,DA,,4PI
+# File ID         : n-Mn55-p-adxl-angdisl-mon-einc1.400E+07_prodCr55_Allan_1961_20004.057.1
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 1           
+# xmin            :  120.0000000
+# xmax            :  120.0000000
+# ymin            :   3.4218E-03
+# ymax            :   3.4218E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 120.0000000   0.0000000  3.4218E-03  5.5704E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 22019.006  
+# EXFOR Ver.      : 19861212
+# TRANS #         : 0000
+# Author          : W.Mannhart
+# Reference       : Proceedings of 5th Symposium on Reactor Dosimetry, Geesthacht, 1984 2 page 801
+# DOI             : N/A
+# Quantity        : 127I(n,2n)126I cross section
+# REACTION        : 53-I-127(N,2N)53-I-126,,SIG,,FIS
+# File ID         : n-I127-2n-sig-excfun-fis-prodI126_Mannhart_1984_22019.006
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.0700E-03
+# ymax            :   2.0700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.0700E-03  7.0000E-05
+#---------------------------------------------------

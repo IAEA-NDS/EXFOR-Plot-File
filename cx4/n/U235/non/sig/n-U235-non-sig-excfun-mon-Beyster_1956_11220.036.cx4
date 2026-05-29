@@ -1,0 +1,23 @@
+# EXFOR #         : 11220.036  
+# EXFOR Ver.      : 20140131
+# TRANS #         : 1395
+# Author          : J.R.Beyster et al.
+# Reference       : Phys.Rev. 104 (1956) 1319
+# DOI             : 10.1103/PhysRev.104.1319
+# Quantity        : 235U(n,non) cross section
+# REACTION        : 92-U-235(N,NON),,SIG
+# File ID         : n-U235-non-sig-excfun-mon-Beyster_1956_11220.036
+#
+# npts            : 2           
+# xmin            :   1.0000E+06
+# xmax            :   2.5000E+06
+# ymin            :   2.7000E+00
+# ymax            :   3.2500E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.7000E+00  3.0000E-01
+  2.5000E+06  0.0000E+00  3.2500E+00  3.0000E-01
+#---------------------------------------------------

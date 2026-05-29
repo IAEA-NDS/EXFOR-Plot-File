@@ -1,0 +1,22 @@
+# EXFOR #         : 10013.008  
+# EXFOR Ver.      : 20170330
+# TRANS #         : 1426
+# Author          : M.Lounsbury et al.
+# Reference       : Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 1 page 287
+# DOI             : N/A
+# Quantity        : 240Pu(n,g)241Pu cross section
+# REACTION        : 94-PU-240(N,G)94-PU-241,,SIG
+# File ID         : n-Pu240-g-sig-excfun-mon-prodPu241_Lounsbury_1970_10013.008
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.8950E+02
+# ymax            :   2.8950E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.8950E+02  1.4000E+00
+#---------------------------------------------------

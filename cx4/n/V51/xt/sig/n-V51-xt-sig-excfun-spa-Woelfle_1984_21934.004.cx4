@@ -1,0 +1,22 @@
+# EXFOR #         : 21934.004  
+# EXFOR Ver.      : 20170212
+# TRANS #         : 2259
+# Author          : R.Woelfle et al.
+# Reference       : Nucl.Phys.A 423 (1984) 130
+# DOI             : 10.1016/0375-9474(84)90301-4
+# Quantity        : 51V(n,t+x) cross section
+# REACTION        : 23-V-51(N,X)1-H-3,,SIG,,SPA
+# File ID         : n-V51-xt-sig-excfun-spa-Woelfle_1984_21934.004
+#
+# npts            : 1           
+# xmin            :   1.2000E+07
+# xmax            :   1.2000E+07
+# ymin            :   5.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+07  0.0000E+00  5.0000E-04  1.5000E-04
+#---------------------------------------------------

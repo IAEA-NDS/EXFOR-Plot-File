@@ -1,0 +1,22 @@
+# EXFOR #         : 40081.002  
+# EXFOR Ver.      : 20150910
+# TRANS #         : 4170
+# Author          : I.M.Kuks et al.
+# Reference       : Sov.At.Energy 30 (1971) 64
+# DOI             : 10.1007/BF01788405
+# Quantity        : 238U(n,f) cross section
+# REACTION        : 92-U-238(N,F),,SIG
+# File ID         : n-U238-f-sig-excfun-mon-Kuks_1971_40081.002
+#
+# npts            : 1           
+# xmin            :   2.5000E+06
+# xmax            :   2.5000E+06
+# ymin            :   5.5000E-01
+# ymax            :   5.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  0.0000E+00  5.5000E-01  2.0000E-02
+#---------------------------------------------------

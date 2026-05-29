@@ -1,0 +1,28 @@
+# EXFOR #         : 22645.005  
+# EXFOR Ver.      : 20070430
+# TRANS #         : 2185
+# Author          : T.Miura et al.
+# Reference       : Ann.Nucl.Energy 28 (2001) 937
+# DOI             : 10.1016/S0306-4549(00)00102-X
+# Quantity        : 238U(n,n+x) double differential cross section
+# REACTION        : 92-U-238(N,X)0-NN-1,,DA/DE
+# File ID         : n-U238-xn-ddxl-angdisl-mon-einc2.600E+06_eoutl2.250E+05_Miura_2001_22645.005
+#
+# Einc (eV)       :   2.6000E+06
+# Eout,lab (eV)   :   2.2500E+05
+#
+# npts            : 4           
+# xmin            :   30.0000000
+# xmax            :  145.0000000
+# ymin            :   1.2132E-07
+# ymax            :   1.6603E-07
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  30.0000000   0.0000000  1.4842E-07  2.8483E-08
+  45.0000000   0.0000000  1.6603E-07  2.3985E-08
+  90.0000000   0.0000000  1.2132E-07  2.0432E-08
+ 145.0000000   0.0000000  1.3879E-07  2.9153E-08
+#---------------------------------------------------

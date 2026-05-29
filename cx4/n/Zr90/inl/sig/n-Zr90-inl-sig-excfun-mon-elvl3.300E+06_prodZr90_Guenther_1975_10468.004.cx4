@@ -1,0 +1,25 @@
+# EXFOR #         : 10468.004  
+# EXFOR Ver.      : 20260205
+# TRANS #         : 1528
+# Author          : P.Guenther et al.
+# Reference       : Phys.Rev.C 12 (1975) 1797
+# DOI             : 10.1103/PhysRevC.12.1797
+# Quantity        : 90Zr(n,inl)90Zr partial cross section
+# REACTION        : 40-ZR-90(N,INL)40-ZR-90,PAR,SIG
+# File ID         : n-Zr90-inl-sig-excfun-mon-elvl3.300E+06_prodZr90_Guenther_1975_10468.004
+#
+# Elvl (eV)       :   3.3000E+06
+# dElvl (eV)      :   2.0000E+04
+#
+# npts            : 1           
+# xmin            :   4.0000E+06
+# xmax            :   4.0000E+06
+# ymin            :   2.2030E-01
+# ymax            :   2.2030E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+06  0.0000E+00  2.2030E-01  4.0600E-02
+#---------------------------------------------------

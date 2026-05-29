@@ -1,0 +1,22 @@
+# EXFOR #         : 21009.021  
+# EXFOR Ver.      : 20170201
+# TRANS #         : 2259
+# Author          : C.H.Wu et al.
+# Reference       : Nucl.Phys.A 329 (1979) 63
+# DOI             : 10.1016/0375-9474(79)90280-X
+# Quantity        : 67Zn(n,he3)65Ni cross section
+# REACTION        : 30-ZN-67(N,HE3)28-NI-65,,SIG,,SPA
+# File ID         : n-Zn67-h-sig-excfun-spa-prodNi65_Wu_1979_21009.021
+#
+# npts            : 1           
+# xmin            :   2.2500E+07
+# xmax            :   2.2500E+07
+# ymin            :   4.6000E-04
+# ymax            :   4.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2500E+07  7.9000E+06  4.6000E-04  1.3000E-04
+#---------------------------------------------------

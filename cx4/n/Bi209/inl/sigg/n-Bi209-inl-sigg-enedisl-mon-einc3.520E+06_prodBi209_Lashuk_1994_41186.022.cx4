@@ -1,0 +1,27 @@
+# EXFOR #         : 41186.022  
+# EXFOR Ver.      : 20191107
+# TRANS #         : 4184
+# Author          : A.I.Lashuk et al.
+# Reference       : Yad.Reak.Konst.  No.1 (1994) 26
+# DOI             : N/A
+# Quantity        : 209Bi(n,inl)209Bi partial gamma production cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,SIG,G
+# File ID         : n-Bi209-inl-sigg-enedisl-mon-einc3.520E+06_prodBi209_Lashuk_1994_41186.022
+#
+# Einc (eV)       :   3.5200E+06
+#
+# npts            : 4           
+# xmin            :   8.9400E+05
+# xmax            :   2.7370E+06
+# ymin            :   2.1200E-01
+# ymax            :   6.4000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.9400E+05  0.0000E+00  6.4000E-01  6.2000E-02
+  9.9100E+05  0.0000E+00  2.1200E-01  2.4000E-02
+  1.6060E+06  0.0000E+00  6.1000E-01  6.0000E-02
+  2.7370E+06  0.0000E+00  2.3000E-01  2.5000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 41144.002  
+# EXFOR Ver.      : 20151001
+# TRANS #         : 4171
+# Author          : H.Maerten et al.
+# Reference       : At.En. 69 No.1 (1990) 28
+# DOI             : N/A
+# Quantity        : 235U(n,n+x) cross section
+# REACTION        : 92-U-235(N,X)0-NN-1,,SIG,,SPA
+# File ID         : n-U235-xn-sig-excfun-spa-Maerten_1990_41144.002
+#
+# npts            : 1           
+# xmin            :   1.4900E+06
+# xmax            :   1.4900E+06
+# ymin            :   3.5200E+00
+# ymax            :   3.5200E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4900E+06  5.0000E+04  3.5200E+00  2.5000E-01
+#---------------------------------------------------

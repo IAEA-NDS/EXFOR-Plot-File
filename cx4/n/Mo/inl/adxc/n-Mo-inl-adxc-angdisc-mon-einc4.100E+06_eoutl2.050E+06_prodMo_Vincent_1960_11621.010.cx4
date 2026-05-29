@@ -1,0 +1,32 @@
+# EXFOR #         : 11621.010  
+# EXFOR Ver.      : 19830815
+# TRANS #         : 0000
+# Author          : L.D.Vincent et al.
+# Reference       : Report WADD-TR-60-217, 1960
+# DOI             : N/A
+# Quantity        : natMo(n,inl)natMo partial angular differential cross section
+# REACTION        : 42-MO-0(N,INL),PAR,DA
+# File ID         : n-Mo-inl-adxc-angdisc-mon-einc4.100E+06_eoutl2.050E+06_prodMo_Vincent_1960_11621.010
+#
+# Einc (eV)       :   4.1000E+06
+# dEinc (eV)      :   1.0000E+05
+# Eout,lab (eV)   :   2.0500E+06
+# dEout,lab (eV)  :   2.0500E+06
+#
+# npts            : 6           
+# xmin            :   30.6834100
+# xmax            :  136.0544000
+# ymin            :   1.6900E-01
+# ymax            :   1.9900E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.6834100   0.0000000  1.8200E-01  1.8000E-02
+  45.5729900   0.0000000  1.9000E-01  1.9000E-02
+  61.3145900   0.0000000  1.9900E-01  1.8000E-02
+  91.1459900   0.0000000  1.7800E-01  1.8000E-02
+ 121.3322000   0.0000000  1.8600E-01  1.8000E-02
+ 136.0544000   0.0000000  1.6900E-01  2.5000E-02
+#---------------------------------------------------

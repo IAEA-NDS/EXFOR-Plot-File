@@ -1,0 +1,23 @@
+# EXFOR #         : 12837.006  
+# EXFOR Ver.      : 20140129
+# TRANS #         : 1398
+# Author          : S.Raman et al.
+# Reference       : Phys.Rev.C 28 (1983) 602
+# DOI             : 10.1103/PhysRevC.28.602
+# Quantity        : 86Kr(n,g)87Kr cross section
+# REACTION        : 36-KR-86(N,G)36-KR-87,,SIG,,MXW
+# File ID         : n-Kr86-g-sig-excfun-mxw-prodKr87_Raman_1983_12837.006
+#
+# npts            : 2           
+# xmin            :   2.5000E+04
+# xmax            :   3.0000E+04
+# ymin            :   4.8000E-03
+# ymax            :   5.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  5.1000E-03  1.2000E-03
+  3.0000E+04  0.0000E+00  4.8000E-03  1.2000E-03
+#---------------------------------------------------

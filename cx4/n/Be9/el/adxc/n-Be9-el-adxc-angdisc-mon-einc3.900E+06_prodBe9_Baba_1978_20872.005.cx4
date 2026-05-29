@@ -1,0 +1,28 @@
+# EXFOR #         : 20872.005  
+# EXFOR Ver.      : 20200911
+# TRANS #         : 2291
+# Author          : M.Baba et al.
+# Reference       : Proceedings of Int.Conf.on Neutr.Phys.and Nucl.Data,Harwell 1978 page 198
+# DOI             : N/A
+# Quantity        : 9Be(n,el)9Be angular differential cross section
+# REACTION        : 4-BE-9(N,EL)4-BE-9,,DA
+# File ID         : n-Be9-el-adxc-angdisc-mon-einc3.900E+06_prodBe9_Baba_1978_20872.005
+#
+# Einc (eV)       :   3.9000E+06
+#
+# npts            : 5           
+# xmin            :   39.1949600
+# xmax            :  140.8050000
+# ymin            :   2.7100E-02
+# ymax            :   2.4200E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  39.1949600   0.0000000  2.4200E-01  1.1000E-02
+  54.7601800   0.0000000  1.7600E-01  1.1000E-02
+  70.7919000   0.0000000  6.7000E-02  3.0000E-03
+  90.0000000   0.0000000  2.7100E-02  1.7000E-03
+ 140.8050000   0.0000000  1.1100E-01  1.0000E-02
+#---------------------------------------------------

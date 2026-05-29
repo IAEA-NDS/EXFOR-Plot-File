@@ -1,0 +1,23 @@
+# EXFOR #         : 11495.055  
+# EXFOR Ver.      : 20230912
+# TRANS #         : 1508
+# Author          : D.B.Thomson
+# Reference       : Phys.Rev. 129 (1963) 1649
+# DOI             : 10.1103/PhysRev.129.1649
+# Quantity        : natTl(n,inl)natTl cross section
+# REACTION        : 81-TL-0(N,INL)81-TL-0,,SIG
+# File ID         : n-Tl-inl-sig-excfun-mon-prodTl_Thomson_1963_11495.055
+#
+# npts            : 2           
+# xmin            :   5.0000E+06
+# xmax            :   6.0000E+06
+# ymin            :   2.6900E+00
+# ymax            :   2.7600E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+06  0.0000E+00  2.6900E+00  2.5000E-01
+  6.0000E+06  0.0000E+00  2.7600E+00  2.6000E-01
+#---------------------------------------------------

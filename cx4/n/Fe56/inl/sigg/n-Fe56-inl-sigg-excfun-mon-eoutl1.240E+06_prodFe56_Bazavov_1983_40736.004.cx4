@@ -1,0 +1,26 @@
+# EXFOR #         : 40736.004  
+# EXFOR Ver.      : 20231113
+# TRANS #         : 4216
+# Author          : D.A.Bazavov et al.
+# Reference       : Ukr.Fiz.Zh. 28 No.12 (1983) 1791
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe partial gamma production cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+# File ID         : n-Fe56-inl-sigg-excfun-mon-eoutl1.240E+06_prodFe56_Bazavov_1983_40736.004
+#
+# Eout,lab (eV)   :   1.2400E+06
+#
+# npts            : 3           
+# xmin            :   2.5200E+06
+# xmax            :   3.0200E+06
+# ymin            :   5.3400E-02
+# ymax            :   1.6770E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5200E+06  0.0000E+00  5.3400E-02  8.0000E-04
+  2.7200E+06  0.0000E+00  9.0900E-02  7.0000E-04
+  3.0200E+06  0.0000E+00  1.6770E-01  1.7000E-03
+#---------------------------------------------------

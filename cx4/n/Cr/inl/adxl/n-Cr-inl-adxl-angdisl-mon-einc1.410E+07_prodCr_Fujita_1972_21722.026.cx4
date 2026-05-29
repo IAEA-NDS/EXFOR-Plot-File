@@ -1,0 +1,24 @@
+# EXFOR #         : 21722.026  
+# EXFOR Ver.      : 20110227
+# TRANS #         : 2226
+# Author          : I.Fujita et al.
+# Reference       : J.Nucl.Sci.Technol. 9 (1972) 301
+# DOI             : 10.1080/18811248.1972.9734846
+# Quantity        : natCr(n,inl)natCr angular differential cross section
+# REACTION        : 24-CR-0(N,INL)24-CR-0,,DA,,4PI
+# File ID         : n-Cr-inl-adxl-angdisl-mon-einc1.410E+07_prodCr_Fujita_1972_21722.026
+#
+# Einc (eV)       :   1.4100E+07
+#
+# npts            : 1           
+# xmin            :  110.0000000
+# xmax            :  110.0000000
+# ymin            :   1.0106E-01
+# ymax            :   1.0106E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 110.0000000   0.0000000  1.0106E-01  1.0027E-02
+#---------------------------------------------------

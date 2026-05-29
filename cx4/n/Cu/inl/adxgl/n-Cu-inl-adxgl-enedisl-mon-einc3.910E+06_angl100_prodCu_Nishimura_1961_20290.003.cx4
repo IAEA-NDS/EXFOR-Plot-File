@@ -1,0 +1,28 @@
+# EXFOR #         : 20290.003  
+# EXFOR Ver.      : 20170425
+# TRANS #         : 2261
+# Author          : K.Nishimura
+# Reference       : J.Phys.Soc.Jpn. 16 (1961) 355
+# DOI             : 10.1143/JPSJ.16.355
+# Quantity        : natCu(n,inl)natCu partial gamma angular differential cross section
+# REACTION        : 29-CU-0(N,INL)29-CU-0,PAR,DA,G
+# File ID         : n-Cu-inl-adxgl-enedisl-mon-einc3.910E+06_angl100_prodCu_Nishimura_1961_20290.003
+#
+# Einc (eV)       :   3.9100E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :  100.0000000
+#
+# npts            : 3           
+# xmin            :   9.6500E+05
+# xmax            :   1.3300E+06
+# ymin            :   3.9700E-02
+# ymax            :   1.0800E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.6500E+05  1.5000E+04  7.4100E-02  1.1115E-02
+  1.1100E+06  2.0000E+04  1.0800E-01  1.6200E-02
+  1.3300E+06  2.0000E+04  3.9700E-02  5.9550E-03
+#---------------------------------------------------

@@ -1,0 +1,30 @@
+# EXFOR #         : 14185.021  
+# EXFOR Ver.      : 20090505
+# TRANS #         : 1353
+# Author          : M.L.Brooks et al.
+# Reference       : Phys.Rev.C 45 (1992) 2343
+# DOI             : 10.1103/PhysRevC.45.2343
+# Quantity        : natCu(n,pi++x) double differential cross section
+# REACTION        : 29-CU-0(N,X)1-PP-0,,DA/DE,,AV
+# File ID         : n-Cu-xpip-ddxl-enedisl-mon-einc3.875E+08_angl120_Brooks_1992_14185.021
+#
+# Einc (eV)       :   3.8750E+08
+# dEinc (eV)      :   1.2500E+07
+# theta,lab (deg) :  120.0000000
+# dtheta,lab (deg):    5.0000000
+#
+# npts            : 4           
+# xmin            :   2.5180E+07
+# xmax            :   7.4910E+07
+# ymin            :   1.3400E-12
+# ymax            :   2.7500E-12
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.5180E+07  0.0000E+00  1.7600E-12  3.2000E-13
+  4.0270E+07  0.0000E+00  2.7500E-12  3.3000E-13
+  5.6740E+07  0.0000E+00  1.9800E-12  2.7000E-13
+  7.4910E+07  0.0000E+00  1.3400E-12  2.0000E-13
+#---------------------------------------------------

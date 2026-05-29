@@ -1,0 +1,22 @@
+# EXFOR #         : 30100.006  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : G.Peto et al.
+# Reference       : Acta Phys.Hung. 24 (1968) 93
+# DOI             : 10.1007/BF03159394
+# Quantity        : 141Pr(n,2n)140Pr cross section
+# REACTION        : 59-PR-141(N,2N)59-PR-140,,SIG
+# File ID         : n-Pr141-2n-sig-excfun-mon-prodPr140_Peto_1968_30100.006
+#
+# npts            : 1           
+# xmin            :   1.5000E+07
+# xmax            :   1.5000E+07
+# ymin            :   2.0500E+00
+# ymax            :   2.0500E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  3.0000E+05  2.0500E+00  1.8000E-01
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 11205.002  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : M.H.Mac Gregor
+# Reference       : Proceedings of Nucl. Phys. Congress, Paris 1958 page 609
+# DOI             : N/A
+# Quantity        : 9Be(n,inl)9Be partial cross section
+# REACTION        : 4-BE-9(N,INL)4-BE-9,PAR,SIG
+# File ID         : n-Be9-inl-sig-excfun-mon-eoutl1.150E+07_prodBe9_Mac%Gregor_1958_11205.002
+#
+# Eout,lab (eV)   :   1.1500E+07
+# dEout,lab (eV)  :   2.5000E+06
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   5.0000E-02
+# ymax            :   5.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  0.0000E+00  5.0000E-02  2.0000E-02
+#---------------------------------------------------

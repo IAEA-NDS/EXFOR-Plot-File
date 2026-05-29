@@ -1,0 +1,25 @@
+# EXFOR #         : 40531.037  
+# EXFOR Ver.      : 20211230
+# TRANS #         : 4203
+# Author          : I.A.Korzh et al.
+# Reference       : Proceedings of 3.All Union Conf.on Neutron Phys.,Kiev,9-13 Jun 1975 4 page 220
+# DOI             : N/A
+# Quantity        : 60Ni(n,el)60Ni cross section
+# REACTION        : 28-NI-60(N,EL)28-NI-60,,SIG
+# File ID         : n-Ni60-el-sig-excfun-mon-prodNi60_Korzh_1975_40531.037
+#
+# npts            : 4           
+# xmin            :   1.5000E+06
+# xmax            :   3.0000E+06
+# ymin            :   2.0850E+00
+# ymax            :   2.7630E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  5.0000E+04  2.4740E+00  2.7400E-01
+  2.0000E+06  5.0000E+04  2.7630E+00  1.8700E-01
+  2.5000E+06  5.0000E+04  2.0850E+00  1.9700E-01
+  3.0000E+06  5.0000E+04  2.4940E+00  1.4500E-01
+#---------------------------------------------------

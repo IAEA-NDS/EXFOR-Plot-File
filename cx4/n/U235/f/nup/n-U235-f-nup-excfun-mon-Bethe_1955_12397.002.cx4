@@ -1,0 +1,23 @@
+# EXFOR #         : 12397.002  
+# EXFOR Ver.      : 19820519
+# TRANS #         : 0000
+# Author          : H.A.Bethe et al.
+# Reference       : Report LA-1939, 1955
+# DOI             : N/A
+# Quantity        : 235U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-235(N,F),PR,NU
+# File ID         : n-U235-f-nup-excfun-mon-Bethe_1955_12397.002
+#
+# npts            : 2           
+# xmin            :   4.0000E+06
+# xmax            :   4.5000E+06
+# ymin            :   3.1300E+00
+# ymax            :   3.2600E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  4.0000E+06  0.0000E+00  3.1300E+00  3.1000E-01
+  4.5000E+06  0.0000E+00  3.2600E+00  3.3000E-01
+#---------------------------------------------------

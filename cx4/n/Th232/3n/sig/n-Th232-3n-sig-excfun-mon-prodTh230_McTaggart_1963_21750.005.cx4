@@ -1,0 +1,22 @@
+# EXFOR #         : 21750.005  
+# EXFOR Ver.      : 20131118
+# TRANS #         : 2238
+# Author          : M.H.McTaggart et al.
+# Reference       : J.Nucl.Energy A/B 17 (1963) 437
+# DOI             : 10.1016/S0368-3230(63)80001-4
+# Quantity        : 232Th(n,3n)230Th cross section
+# REACTION        : 90-TH-232(N,3N)90-TH-230,,SIG
+# File ID         : n-Th232-3n-sig-excfun-mon-prodTh230_McTaggart_1963_21750.005
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   8.5000E-01
+# ymax            :   8.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  8.5000E-01  1.5000E-01
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 12462.002  
+# EXFOR Ver.      : 19830809
+# TRANS #         : 0000
+# Author          : D.Butler et al.
+# Reference       : Proceedings of Reactor Physics Sem., Vienna 1961 page 125
+# DOI             : N/A
+# Quantity        : 238U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-238(N,F),PR,NU
+# File ID         : n-U238-f-nup-excfun-mon-Butler_1961_12462.002
+#
+# npts            : 1           
+# xmin            :   1.5800E+06
+# xmax            :   1.5800E+06
+# ymin            :   2.5600E+00
+# ymax            :   2.5600E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.5800E+06  0.0000E+00  2.5600E+00  3.0000E-02
+#---------------------------------------------------

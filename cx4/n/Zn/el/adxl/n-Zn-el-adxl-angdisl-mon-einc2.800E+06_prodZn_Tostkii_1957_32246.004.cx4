@@ -1,0 +1,31 @@
+# EXFOR #         : 32246.004  
+# EXFOR Ver.      : 20180827
+# TRANS #         : 3186
+# Author          : I.A.Tostkii
+# Reference       : Proceedings of Low and Medium Energy Nucl.Reactons, Moscow 1957 page 190
+# DOI             : N/A
+# Quantity        : natZn(n,el)natZn angular differential cross section
+# REACTION        : 30-ZN-0(N,EL)30-ZN-0,,DA
+# File ID         : n-Zn-el-adxl-angdisl-mon-einc2.800E+06_prodZn_Tostkii_1957_32246.004
+#
+# Einc (eV)       :   2.8000E+06
+#
+# npts            : 8           
+# xmin            :   22.7056500
+# xmax            :  141.6559000
+# ymin            :   4.5244E-04
+# ymax            :   8.5206E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 141.6559000   0.0000000  4.9307E-04  1.0820E-05
+ 126.6053000   0.0000000  4.5563E-04  1.3530E-05
+ 110.3650000   0.0000000  4.7360E-04  1.1403E-05
+  89.8968600   0.0000000  4.7189E-04  1.9701E-05
+  76.0308100   0.0000000  4.5244E-04  8.8392E-06
+  59.2228600   0.0000000  5.0670E-04  8.4617E-06
+  37.3163900   0.0000000  6.3272E-04  1.0544E-05
+  22.7056500   0.0000000  8.5206E-04  1.3833E-05
+#---------------------------------------------------

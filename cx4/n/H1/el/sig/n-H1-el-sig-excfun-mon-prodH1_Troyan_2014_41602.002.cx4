@@ -1,0 +1,24 @@
+# EXFOR #         : 41602.002  
+# EXFOR Ver.      : 20141201
+# TRANS #         : 4166
+# Author          : Yu.A.Troyan et al.
+# Reference       : Fiz.El.Ch.At.Yad.Lt. 11 No.2/186 (2014) 186
+# DOI             : N/A
+# Quantity        : 1H(n,el)1H cross section
+# REACTION        : 1-H-1(N,EL)1-H-1,,SIG
+# File ID         : n-H1-el-sig-excfun-mon-prodH1_Troyan_2014_41602.002
+#
+# npts            : 3           
+# xmin            :   7.7148E+08
+# xmax            :   4.3446E+09
+# ymin            :   1.0700E-02
+# ymax            :   2.5600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.7148E+08  0.0000E+00  2.5600E-02  1.3000E-03
+  1.4803E+09  0.0000E+00  1.9100E-02  7.0000E-04
+  4.3446E+09  0.0000E+00  1.0700E-02  7.0000E-04
+#---------------------------------------------------

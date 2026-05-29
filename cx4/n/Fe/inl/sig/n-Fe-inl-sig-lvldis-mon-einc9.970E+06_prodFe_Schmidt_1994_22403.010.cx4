@@ -1,0 +1,29 @@
+# EXFOR #         : 22403.010  
+# EXFOR Ver.      : 20140822
+# TRANS #         : 2240
+# Author          : D.Schmidt et al.
+# Reference       : Report PTB-N-20, 1994
+# DOI             : N/A
+# Quantity        : natFe(n,inl)natFe partial cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-0,PAR,SIG
+# File ID         : n-Fe-inl-sig-lvldis-mon-einc9.970E+06_prodFe_Schmidt_1994_22403.010
+#
+# Einc (eV)       :   9.9700E+06
+# dEinc (eV)      :   2.0000E+04
+#
+# npts            : 5           
+# xmin            :   1.8350E+06
+# xmax            :   4.1400E+06
+# ymin            :   8.7350E-03
+# ymax            :   6.2809E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8350E+06  5.3500E+05  8.7350E-03  8.7350E-04
+  2.5850E+06  2.1500E+05  9.0206E-03  7.7036E-04
+  3.0250E+06  2.2500E+05  2.0435E-02  1.4856E-03
+  3.4650E+06  2.1500E+05  2.2819E-02  1.6042E-03
+  4.1400E+06  4.6000E+05  6.2809E-02  4.2019E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 10557.003  
+# EXFOR Ver.      : 20101115
+# TRANS #         : 1369
+# Author          : L.Green
+# Reference       : Nucl.Sci.Eng. 58 (1975) 361
+# DOI             : 10.13182/NSE75-A26792
+# Quantity        : 232Th(n,g)233Th cross section
+# REACTION        : 90-TH-232(N,G)90-TH-233,,SIG,,FIS
+# File ID         : n-Th232-g-sig-excfun-fis-prodTh233_Green_1975_10557.003
+#
+# npts            : 1           
+# xmin            :   2.1000E+06
+# xmax            :   2.1000E+06
+# ymin            :   8.7800E-02
+# ymax            :   8.7800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1000E+06  0.0000E+00  8.7800E-02  4.0000E-03
+#---------------------------------------------------

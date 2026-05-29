@@ -1,0 +1,23 @@
+# EXFOR #         : 11220.017  
+# EXFOR Ver.      : 20140131
+# TRANS #         : 1395
+# Author          : J.R.Beyster et al.
+# Reference       : Phys.Rev. 104 (1956) 1319
+# DOI             : 10.1103/PhysRev.104.1319
+# Quantity        : natZn(n,non) cross section
+# REACTION        : 30-ZN-0(N,NON),,SIG
+# File ID         : n-Zn-non-sig-excfun-mon-Beyster_1956_11220.017
+#
+# npts            : 2           
+# xmin            :   2.5000E+06
+# xmax            :   7.0000E+06
+# ymin            :   1.3000E+00
+# ymax            :   1.6100E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  0.0000E+00  1.3000E+00  1.0000E-01
+  7.0000E+06  0.0000E+00  1.6100E+00  1.0000E-01
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 20693.011  
+# EXFOR Ver.      : 20110227
+# TRANS #         : 2226
+# Author          : K.Kobayashi et al.
+# Reference       : J.Nucl.Sci.Technol. 13 (1976) 531
+# DOI             : 10.1080/18811248.1976.9734072
+# Quantity        : 93Nb(n,a)90mY cross section
+# REACTION        : 41-NB-93(N,A)39-Y-90-M,,SIG,,FIS
+# File ID         : n-Nb93-a-sig-excfun-fis-prodY90m_Kobayashi_1976_20693.011
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.1000E-05
+# ymax            :   2.1000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.1000E-05  1.1000E-06
+#---------------------------------------------------

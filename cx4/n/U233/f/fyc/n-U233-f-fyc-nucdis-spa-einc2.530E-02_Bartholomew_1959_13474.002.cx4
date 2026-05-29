@@ -1,0 +1,27 @@
+# EXFOR #         : 13474.002  
+# EXFOR Ver.      : 20100527
+# TRANS #         : 1366
+# Author          : R.M.Bartholomew et al.
+# Reference       : Can.J.Chem. 37 (1959) 660
+# DOI             : 10.1139/v59-091
+# Quantity        : 233U(n,f) cumulative fission product yield
+# REACTION        : 92-U-233(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U233-f-fyc-nucdis-spa-einc2.530E-02_Bartholomew_1959_13474.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 4           
+# xmin            : 38089.9     
+# xmax            : 57141.9     
+# ymin            :   5.5900E-02
+# ymax            :   6.1700E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     38089.9  5.8700E-02  1.2000E-03
+     38091.9  5.6100E-02  6.0000E-04
+     56139.9  5.5900E-02  2.0000E-04
+     57141.9  6.1700E-02  5.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 11461.029  
+# EXFOR Ver.      : 19820813
+# TRANS #         : 0000
+# Author          : H.A.Bethe et al.
+# Reference       : J.Nucl.Energy 4 (1957) 147
+# DOI             : 10.1016/0891-3919(57)90051-7
+# Quantity        : natSn(n,non) cross section
+# REACTION        : 50-SN-0(N,NON),,SIG,,FIS
+# File ID         : n-Sn-non-sig-excfun-fis-Bethe_1957_11461.029
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   3.6900E-01
+# ymax            :   3.6900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  3.6900E-01  5.0000E-02
+#---------------------------------------------------

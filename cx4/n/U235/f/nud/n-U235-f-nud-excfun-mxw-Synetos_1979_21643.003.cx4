@@ -1,0 +1,22 @@
+# EXFOR #         : 21643.003  
+# EXFOR Ver.      : 20130427
+# TRANS #         : 2236
+# Author          : S.Synetos et al.
+# Reference       : Report (proceedings) INDC(NDS)-107 page 183, 1979
+# DOI             : N/A
+# Quantity        : 235U(n,f) delayed fission neutron multiplicity
+# REACTION        : 92-U-235(N,F),DL,NU,,MXW
+# File ID         : n-U235-f-nud-excfun-mxw-Synetos_1979_21643.003
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.5600E-02
+# ymax            :   1.5600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-d        dnu-d       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.5600E-02  1.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 13585.004  
+# EXFOR Ver.      : 20171113
+# TRANS #         : 1436
+# Author          : A.B.Smith et al.
+# Reference       : Nucl.Phys.A 568 (1994) 221
+# DOI             : 10.1016/0375-9474(94)90199-6
+# Quantity        : natCd(n,inl)natCd partial cross section
+# REACTION        : 48-CD-0(N,INL)48-CD-0,PAR,SIG
+# File ID         : n-Cd-inl-sig-excfun-mon-elvl1.291E+06_prodCd_Smith_1994_13585.004
+#
+# Elvl (eV)       :   1.2910E+06
+#
+# npts            : 2           
+# xmin            :   6.5000E+06
+# xmax            :   7.1400E+06
+# ymin            :   3.0400E-02
+# ymax            :   3.2400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.5000E+06  0.0000E+00  3.2400E-02  4.0000E-03
+  7.1400E+06  0.0000E+00  3.0400E-02  4.0000E-03
+#---------------------------------------------------

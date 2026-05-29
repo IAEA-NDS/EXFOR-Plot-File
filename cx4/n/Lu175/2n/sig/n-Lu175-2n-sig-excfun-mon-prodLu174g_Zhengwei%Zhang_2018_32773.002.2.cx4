@@ -1,0 +1,24 @@
+# EXFOR #         : 32773.002.2
+# EXFOR Ver.      : 20191217
+# TRANS #         : 3196
+# Author          : Zhengwei Zhang et al.
+# Reference       : Appl.Radiat.Isot. 132 (2018) 61
+# DOI             : 10.1016/j.apradiso.2017.11.017
+# Quantity        : 175Lu(n,2n)174gLu cross section
+# REACTION        : 71-LU-175(N,2N)71-LU-174-G,,SIG
+# File ID         : n-Lu175-2n-sig-excfun-mon-prodLu174g_Zhengwei%Zhang_2018_32773.002.2
+#
+# npts            : 3           
+# xmin            :   1.4100E+07
+# xmax            :   1.4700E+07
+# ymin            :   1.4110E+00
+# ymax            :   1.4910E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  3.0000E+05  1.4330E+00  9.0000E-02
+  1.4500E+07  3.0000E+05  1.4910E+00  9.8000E-02
+  1.4700E+07  3.0000E+05  1.4110E+00  9.4000E-02
+#---------------------------------------------------

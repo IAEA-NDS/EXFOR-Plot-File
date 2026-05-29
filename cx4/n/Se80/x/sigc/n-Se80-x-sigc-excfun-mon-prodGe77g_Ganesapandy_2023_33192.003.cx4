@@ -1,0 +1,22 @@
+# EXFOR #         : 33192.003  
+# EXFOR Ver.      : 20231228
+# TRANS #         : 3212
+# Author          : T.S.Ganesapandy et al.
+# Reference       : Radiat.Phys.Chem. 212 (2023) 111101
+# DOI             : 10.1016/j.radphyschem.2023.111101
+# Quantity        : 80Se(n,a)77gGe cumulative production cross section
+# REACTION        : 34-SE-80(N,A)32-GE-77-G,M+,SIG
+# File ID         : n-Se80-x-sigc-excfun-mon-prodGe77g_Ganesapandy_2023_33192.003
+#
+# npts            : 1           
+# xmin            :   1.4770E+07
+# xmax            :   1.4770E+07
+# ymin            :   2.4800E-03
+# ymax            :   2.4800E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4770E+07  1.7000E+05  2.4800E-03  3.1000E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 20388.005  
+# EXFOR Ver.      : 19840109
+# TRANS #         : 0000
+# Author          : A.Paulsen et al.
+# Reference       : Nukleonik 10 (1967) 91
+# DOI             : N/A
+# Quantity        : 63Cu(n,a)60Co cross section
+# REACTION        : 29-CU-63(N,A)27-CO-60,,SIG,,SPA
+# File ID         : n-Cu63-a-sig-excfun-spa-prodCo60_Paulsen_1967_20388.005
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   3.4000E-04
+# ymax            :   3.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  3.4000E-04  4.0000E-05
+#---------------------------------------------------

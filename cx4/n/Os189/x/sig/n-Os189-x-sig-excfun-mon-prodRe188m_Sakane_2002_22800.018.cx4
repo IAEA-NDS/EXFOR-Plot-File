@@ -1,0 +1,22 @@
+# EXFOR #         : 22800.018  
+# EXFOR Ver.      : 20151018
+# TRANS #         : 2245
+# Author          : H.Sakane et al.
+# Reference       : Ann.Nucl.Energy 29 (2002) 53
+# DOI             : 10.1016/S0306-4549(01)00025-1
+# Quantity        : 189Os(n,x)188mRe independent production cross section
+# REACTION        : 76-OS-189(N,X)75-RE-188-M,,SIG
+# File ID         : n-Os189-x-sig-excfun-mon-prodRe188m_Sakane_2002_22800.018
+#
+# npts            : 1           
+# xmin            :   1.4870E+07
+# xmax            :   1.4870E+07
+# ymin            :   3.0000E-05
+# ymax            :   3.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4870E+07  0.0000E+00  3.0000E-05  1.3800E-05
+#---------------------------------------------------

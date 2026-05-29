@@ -1,0 +1,25 @@
+# EXFOR #         : 10829.003  
+# EXFOR Ver.      : 19800128
+# TRANS #         : 0000
+# Author          : P.J.Riley et al.
+# Reference       : Phys.Rev.C 17 (1978) 1881
+# DOI             : 10.1103/PhysRevC.17.1881
+# Quantity        : 7Li(n,d+x) angular differential cross section
+# REACTION        : 3-LI-7(N,X)1-H-2,,DA
+# File ID         : n-Li7-xd-adxl-angdisl-mon-einc8.000E+08_Riley_1978_10829.003
+#
+# Einc (eV)       :   8.0000E+08
+#
+# npts            : 2           
+# xmin            :    0.0000000
+# xmax            :   16.0000000
+# ymin            :   3.9000E-04
+# ymax            :   1.4700E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  1.4700E-03  0.0000E+00
+  16.0000000   0.0000000  3.9000E-04  0.0000E+00
+#---------------------------------------------------

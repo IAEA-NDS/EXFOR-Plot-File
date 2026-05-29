@@ -1,0 +1,22 @@
+# EXFOR #         : 31851.006  
+# EXFOR Ver.      : 20230822
+# TRANS #         : 3210
+# Author          : M.F.Attallah et al.
+# Reference       : J.Rad.Nucl.Chem. 331 (2022) 1723
+# DOI             : 10.1007/s10967-022-08232-1
+# Quantity        : 48Ti(n,p)48Sc cross section
+# REACTION        : 22-TI-48(N,P)21-SC-48,,SIG,,SPA
+# File ID         : n-Ti48-p-sig-excfun-spa-prodSc48_Attallah_2022_31851.006
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.3700E-03
+# ymax            :   2.3700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.3700E-03  1.1000E-04
+#---------------------------------------------------

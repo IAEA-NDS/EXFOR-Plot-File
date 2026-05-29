@@ -1,0 +1,22 @@
+# EXFOR #         : 21718.002  
+# EXFOR Ver.      : 19810120
+# TRANS #         : 0000
+# Author          : P.De Regge et al.
+# Reference       : Radiochim.Acta 19 No.3 (1972) 102
+# DOI             : N/A
+# Quantity        : 181Ta(n,p)181Hf cross section
+# REACTION        : 73-TA-181(N,P)72-HF-181,,SIG,,FIS
+# File ID         : n-Ta181-p-sig-excfun-fis-prodHf181_De%Regge_1972_21718.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.2000E-06
+# ymax            :   1.2000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.2000E-06  3.0000E-07
+#---------------------------------------------------

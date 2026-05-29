@@ -1,0 +1,22 @@
+# EXFOR #         : 10193.005  
+# EXFOR Ver.      : 20010214
+# TRANS #         : 0000
+# Author          : D.Drake et al.
+# Reference       : Phys.Lett.B 36 (1971) 557
+# DOI             : 10.1016/0370-2693(71)90088-8
+# Quantity        : 197Au(n,g)198Au cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198,,SIG
+# File ID         : n-Au197-g-sig-excfun-mon-prodAu198_Drake_1971_10193.005
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   9.3800E-04
+# ymax            :   9.3800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  9.3800E-04  2.3450E-04
+#---------------------------------------------------

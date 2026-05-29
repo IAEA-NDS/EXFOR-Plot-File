@@ -1,0 +1,25 @@
+# EXFOR #         : 11218.019  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : R.B.Day
+# Reference       : Phys.Rev. 102 (1956) 767
+# DOI             : 10.1103/PhysRev.102.767
+# Quantity        : 54Fe(n,inl)54Fe partial gamma angular differential cross section
+# REACTION        : 26-FE-54(N,INL)26-FE-54,PAR,DA,G,4PI
+# File ID         : n-Fe54-inl-adxgl-excfun-mon-angl95_eoutl1.405E+06_prodFe54_Day_1956_11218.019
+#
+# theta,lab (deg) :   95.0000000
+# Eout,lab (eV)   :   1.4050E+06
+#
+# npts            : 1           
+# xmin            :   2.5600E+06
+# xmax            :   2.5600E+06
+# ymin            :   6.0956E-02
+# ymax            :   6.0956E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.5600E+06  3.0000E+04  6.0956E-02  0.0000E+00
+#---------------------------------------------------

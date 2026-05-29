@@ -1,0 +1,22 @@
+# EXFOR #         : 11507.014  
+# EXFOR Ver.      : 20190830
+# TRANS #         : 1459
+# Author          : H.Pomerance
+# Reference       : Phys.Rev. 88 (1952) 412
+# DOI             : 10.1103/PhysRev.88.412
+# Quantity        : 47Ti(n,g)48Ti cross section
+# REACTION        : 22-TI-47(N,G)22-TI-48,,SIG,,MXW
+# File ID         : n-Ti47-g-sig-excfun-mxw-prodTi48_Pomerance_1952_11507.014
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.6200E+00
+# ymax            :   1.6200E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.6200E+00  3.2400E-01
+#---------------------------------------------------

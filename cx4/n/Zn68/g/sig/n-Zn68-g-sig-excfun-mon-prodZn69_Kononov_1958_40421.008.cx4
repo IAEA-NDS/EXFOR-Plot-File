@@ -1,0 +1,22 @@
+# EXFOR #         : 40421.008  
+# EXFOR Ver.      : 20221017
+# TRANS #         : 4209
+# Author          : V.N.Kononov et al.
+# Reference       : Sov.At.Energy 5 (1958) 1483
+# DOI             : 10.1007/BF01498493
+# Quantity        : 68Zn(n,g)69Zn cross section
+# REACTION        : 30-ZN-68(N,G)30-ZN-69,,SIG
+# File ID         : n-Zn68-g-sig-excfun-mon-prodZn69_Kononov_1958_40421.008
+#
+# npts            : 1           
+# xmin            :   2.4000E+04
+# xmax            :   2.4000E+04
+# ymin            :   2.3500E-02
+# ymax            :   2.3500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+04  0.0000E+00  2.3500E-02  2.8000E-03
+#---------------------------------------------------

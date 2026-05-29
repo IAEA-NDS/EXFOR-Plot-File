@@ -1,0 +1,30 @@
+# EXFOR #         : 40336.101  
+# EXFOR Ver.      : 20100322
+# TRANS #         : 4149
+# Author          : M.V.Pasechnik et al.
+# Reference       : Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 18
+# DOI             : N/A
+# Quantity        : natFe(n,el)natFe angular differential cross section
+# REACTION        : 26-FE-0(N,EL)26-FE-0,,DA
+# File ID         : n-Fe-el-adxl-angdisc-mon-einc2.800E+06_prodFe_Pasechnik_1958_40336.101
+#
+# Einc (eV)       :   2.8000E+06
+#
+# npts            : 7           
+# xmin            :   25.4447500
+# xmax            :  124.8199000
+# ymin            :   4.9950E-02
+# ymax            :   7.2630E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  25.4447500   0.0000000  7.2630E-01  4.8400E-02
+  45.7332300   0.0000000  2.8280E-01  1.9500E-02
+  60.8564100   0.0000000  1.0510E-01  1.2800E-02
+  75.9953800   0.0000000  5.7470E-02  4.9500E-03
+  89.0259200   0.0000000  4.9950E-02  4.9900E-03
+ 108.9655000   0.0000000  8.2900E-02  1.0100E-02
+ 124.8199000   0.0000000  8.1600E-02  1.0200E-02
+#---------------------------------------------------

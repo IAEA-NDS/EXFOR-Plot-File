@@ -1,0 +1,26 @@
+# EXFOR #         : 40047.021  
+# EXFOR Ver.      : 20070730
+# TRANS #         : 4141
+# Author          : Ju.G.Degtjarev et al.
+# Reference       : At.En. 23 No.6 (1967) 568
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe partial cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG
+# File ID         : n-Fe56-inl-sig-excfun-mon-elvl3.030E+06_prodFe56_Degtjarev_1967_40047.021
+#
+# Elvl (eV)       :   3.0300E+06
+# dElvl (eV)      :   9.0000E+04
+#
+# npts            : 2           
+# xmin            :   3.3600E+06
+# xmax            :   3.7600E+06
+# ymin            :   1.3000E-01
+# ymax            :   1.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3600E+06  0.0000E+00  1.3000E-01  2.7000E-02
+  3.7600E+06  0.0000E+00  1.4000E-01  3.3000E-02
+#---------------------------------------------------

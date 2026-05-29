@@ -1,0 +1,29 @@
+# EXFOR #         : 21782.058  
+# EXFOR Ver.      : 20150730
+# TRANS #         : 2243
+# Author          : G.Haouat et al.
+# Reference       : Nucl.Sci.Eng. 81 No.4 (1982) 491
+# DOI             : 10.13182/NSE82-A21439
+# Quantity        : 242Pu(n,inl)242Pu partial angular differential cross section
+# REACTION        : 94-PU-242(N,INL)94-PU-242,PAR,DA
+# File ID         : n-Pu242-inl-adxl-angdisl-mon-einc3.400E+06_elvl1.470E+05_prodPu242_Haouat_1982_21782.058
+#
+# Einc (eV)       :   3.4000E+06
+# dEinc (eV)      :   1.4000E+04
+# Elvl (eV)       :   1.4700E+05
+#
+# npts            : 4           
+# xmin            :   80.0700000
+# xmax            :  160.0300000
+# ymin            :   6.7100E-03
+# ymax            :   1.8000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  80.0700000   0.0000000  1.8000E-02  4.5400E-03
+ 120.1000000   0.0000000  1.1980E-02  2.4400E-03
+ 139.9100000   0.0000000  8.1700E-03  2.4300E-03
+ 160.0300000   0.0000000  6.7100E-03  2.3100E-03
+#---------------------------------------------------

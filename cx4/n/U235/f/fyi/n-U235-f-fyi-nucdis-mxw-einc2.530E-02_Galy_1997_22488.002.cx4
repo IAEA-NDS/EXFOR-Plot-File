@@ -1,0 +1,28 @@
+# EXFOR #         : 22488.002  
+# EXFOR Ver.      : 20001030
+# TRANS #         : 0000
+# Author          : J.Galy et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 673
+# DOI             : N/A
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY,,MXW
+# File ID         : n-U235-f-fyi-nucdis-mxw-einc2.530E-02_Galy_1997_22488.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 5           
+# xmin            : 37086.1     
+# xmax            : 56137.1     
+# ymin            :   3.0000E-08
+# ymax            :   9.0000E-04
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     37086.1  3.0000E-08  5.0000E-09
+     54134.1  9.0000E-04  4.0000E-04
+     55136.1  1.8000E-05  3.0000E-06
+     55135.1  3.4000E-07  5.0000E-08
+     56137.1  1.6000E-05  8.0000E-06
+#---------------------------------------------------

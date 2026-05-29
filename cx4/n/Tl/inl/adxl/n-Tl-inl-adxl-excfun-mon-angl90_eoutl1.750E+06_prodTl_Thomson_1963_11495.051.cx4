@@ -1,0 +1,29 @@
+# EXFOR #         : 11495.051  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : D.B.Thomson
+# Reference       : Phys.Rev. 129 (1963) 1649
+# DOI             : 10.1103/PhysRev.129.1649
+# Quantity        : natTl(n,inl)natTl partial angular differential cross section
+# REACTION        : 81-TL-0(N,INL),PAR,DA
+# File ID         : n-Tl-inl-adxl-excfun-mon-angl90_eoutl1.750E+06_prodTl_Thomson_1963_11495.051
+#
+# theta,lab (deg) :   90.0000000
+# Eout,lab (eV)   :   1.7500E+06
+# dEout,lab (eV)  :   1.2500E+06
+#
+# npts            : 4           
+# xmin            :   4.0000E+06
+# xmax            :   7.0000E+06
+# ymin            :   1.4700E-01
+# ymax            :   1.6500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.0000E+06  0.0000E+00  1.6500E-01  1.7000E-02
+  5.0000E+06  0.0000E+00  1.6400E-01  1.6000E-02
+  6.0000E+06  0.0000E+00  1.5800E-01  1.6000E-02
+  7.0000E+06  0.0000E+00  1.4700E-01  1.5000E-02
+#---------------------------------------------------

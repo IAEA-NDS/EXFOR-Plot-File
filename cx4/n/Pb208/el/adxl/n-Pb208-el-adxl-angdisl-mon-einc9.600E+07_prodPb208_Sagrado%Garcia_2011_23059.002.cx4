@@ -1,0 +1,27 @@
+# EXFOR #         : 23059.002  
+# EXFOR Ver.      : 20120109
+# TRANS #         : 2230
+# Author          : I.C.Sagrado Garcia et al.
+# Reference       : Phys.Rev.C 84 (2011) 044619
+# DOI             : 10.1103/PhysRevC.84.044619
+# Quantity        : 208Pb(n,el)208Pb angular differential cross section
+# REACTION        : 82-PB-208(N,EL)82-PB-208,,DA
+# File ID         : n-Pb208-el-adxl-angdisl-mon-einc9.600E+07_prodPb208_Sagrado%Garcia_2011_23059.002
+#
+# Einc (eV)       :   9.6000E+07
+#
+# npts            : 4           
+# xmin            :   15.0000000
+# xmax            :   60.0000000
+# ymin            :   2.8000E-03
+# ymax            :   9.9300E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.0000000   0.0000000  9.9300E-01  2.0000E-02
+  24.0000000   0.0000000  3.6400E-01  4.0000E-03
+  30.0000000   0.0000000  2.1200E-01  3.2000E-02
+  60.0000000   0.0000000  2.8000E-03  1.0000E-03
+#---------------------------------------------------

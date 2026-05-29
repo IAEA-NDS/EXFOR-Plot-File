@@ -1,0 +1,32 @@
+# EXFOR #         : 12699.003  
+# EXFOR Ver.      : 20140419
+# TRANS #         : 1401
+# Author          : W.E.Tucker et al.
+# Reference       : Progress report ORO-2791-32 page 49, 1971
+# DOI             : N/A
+# Quantity        : natNi(n,inl)natNi partial gamma angular differential cross section
+# REACTION        : 28-NI-0(N,INL)28-NI-0,PAR,DA,G
+# File ID         : n-Ni-inl-adxgl-enedisl-mon-einc4.100E+06_angl90_prodNi_Tucker_1971_12699.003
+#
+# Einc (eV)       :   4.1000E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 7           
+# xmin            :   7.5000E+05
+# xmax            :   3.7500E+06
+# ymin            :   2.5000E-03
+# ymax            :   1.4480E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.5000E+05  2.5000E+05  8.3800E-02  1.2570E-02
+  1.2500E+06  2.5000E+05  1.4480E-01  2.1720E-02
+  1.7500E+06  2.5000E+05  3.5100E-02  5.2650E-03
+  2.2500E+06  2.5000E+05  1.0400E-02  1.5600E-03
+  2.7500E+06  2.5000E+05  4.1000E-03  6.1500E-04
+  3.2500E+06  2.5000E+05  9.1000E-03  1.3650E-03
+  3.7500E+06  2.5000E+05  2.5000E-03  3.7500E-04
+#---------------------------------------------------

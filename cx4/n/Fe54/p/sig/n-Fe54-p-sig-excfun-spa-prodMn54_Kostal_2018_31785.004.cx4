@@ -1,0 +1,22 @@
+# EXFOR #         : 31785.004  
+# EXFOR Ver.      : 20180508
+# TRANS #         : 3184
+# Author          : M.Kostal et al.
+# Reference       : Ann.Nucl.Energy 112 (2018) 759
+# DOI             : 10.1016/j.anucene.2017.10.036
+# Quantity        : 54Fe(n,p)54Mn cross section
+# REACTION        : 26-FE-54(N,P)25-MN-54,,SIG,,SPA
+# File ID         : n-Fe54-p-sig-excfun-spa-prodMn54_Kostal_2018_31785.004
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.0100E-02
+# ymax            :   2.0100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.0100E-02  7.0350E-04
+#---------------------------------------------------

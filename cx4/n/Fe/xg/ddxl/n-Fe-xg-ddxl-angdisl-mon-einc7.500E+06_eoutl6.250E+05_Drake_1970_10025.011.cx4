@@ -1,0 +1,29 @@
+# EXFOR #         : 10025.011  
+# EXFOR Ver.      : 19990719
+# TRANS #         : 0000
+# Author          : D.M.Drake et al.
+# Reference       : Nucl.Sci.Eng. 40 (1970) 294
+# DOI             : 10.13182/NSE70-A19690
+# Quantity        : natFe(n,g+x) double differential cross section
+# REACTION        : 26-FE-0(N,X)0-G-0,,DA/DE
+# File ID         : n-Fe-xg-ddxl-angdisl-mon-einc7.500E+06_eoutl6.250E+05_Drake_1970_10025.011
+#
+# Einc (eV)       :   7.5000E+06
+# Eout,lab (eV)   :   6.2500E+05
+# dEout,lab (eV)  :   1.2500E+05
+#
+# npts            : 4           
+# xmin            :   39.0000000
+# xmax            :   90.0000000
+# ymin            :   8.8000E-08
+# ymax            :   1.0800E-07
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  39.0000000   0.0000000  1.0800E-07  0.0000E+00
+  55.0000000   0.0000000  1.0000E-07  0.0000E+00
+  72.0000000   0.0000000  1.0100E-07  0.0000E+00
+  90.0000000   0.0000000  8.8000E-08  0.0000E+00
+#---------------------------------------------------

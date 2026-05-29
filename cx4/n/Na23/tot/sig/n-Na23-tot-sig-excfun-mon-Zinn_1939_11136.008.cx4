@@ -1,0 +1,23 @@
+# EXFOR #         : 11136.008  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : W.H.Zinn et al.
+# Reference       : Phys.Rev. 56 (1939) 260
+# DOI             : 10.1103/PhysRev.56.260
+# Quantity        : 23Na(n,tot) cross section
+# REACTION        : 11-NA-23(N,TOT),,SIG
+# File ID         : n-Na23-tot-sig-excfun-mon-Zinn_1939_11136.008
+#
+# npts            : 2           
+# xmin            :   2.4600E+06
+# xmax            :   2.8800E+06
+# ymin            :   2.3700E+00
+# ymax            :   2.7000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4600E+06  0.0000E+00  2.7000E+00  1.6000E-01
+  2.8800E+06  4.0000E+04  2.3700E+00  9.0000E-01
+#---------------------------------------------------

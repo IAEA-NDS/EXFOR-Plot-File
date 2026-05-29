@@ -1,0 +1,25 @@
+# EXFOR #         : 11615.003  
+# EXFOR Ver.      : 19830815
+# TRANS #         : 0000
+# Author          : J.B.Weddell et al.
+# Reference       : Phys.Rev. 99 (1955) 621(F6)
+# DOI             : N/A
+# Quantity        : natZr(n,el)natZr angular differential cross section
+# REACTION        : 40-ZR-0(N,EL),,DA
+# File ID         : n-Zr-el-adxl-angdisl-mon-einc4.400E+06_prodZr_Weddell_1955_11615.003
+#
+# Einc (eV)       :   4.4000E+06
+# dEinc (eV)      :   5.0000E+04
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   9.6000E-02
+# ymax            :   9.6000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   5.0000000  9.6000E-02  2.4000E-02
+#---------------------------------------------------

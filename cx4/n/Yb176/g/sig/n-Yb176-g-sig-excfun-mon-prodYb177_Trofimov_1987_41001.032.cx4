@@ -1,0 +1,22 @@
+# EXFOR #         : 41001.032  
+# EXFOR Ver.      : 20250805
+# TRANS #         : 4224
+# Author          : Yu.N.Trofimov
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 331
+# DOI             : N/A
+# Quantity        : 176Yb(n,g)177Yb cross section
+# REACTION        : 70-YB-176(N,G)70-YB-177,,SIG
+# File ID         : n-Yb176-g-sig-excfun-mon-prodYb177_Trofimov_1987_41001.032
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.2000E-02
+# ymax            :   2.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.2000E-02  4.0000E-03
+#---------------------------------------------------

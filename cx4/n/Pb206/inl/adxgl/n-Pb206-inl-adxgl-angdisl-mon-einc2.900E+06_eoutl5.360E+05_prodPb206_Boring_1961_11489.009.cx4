@@ -1,0 +1,30 @@
+# EXFOR #         : 11489.009  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : J.W.Boring et al.
+# Reference       : Phys.Rev. 124 (1961) 1531
+# DOI             : 10.1103/PhysRev.124.1531
+# Quantity        : 206Pb(n,inl)206Pb partial gamma angular differential cross section
+# REACTION        : 82-PB-206(N,INL)82-PB-206,PAR,DA,G
+# File ID         : n-Pb206-inl-adxgl-angdisl-mon-einc2.900E+06_eoutl5.360E+05_prodPb206_Boring_1961_11489.009
+#
+# Einc (eV)       :   2.9000E+06
+# dEinc (eV)      :   1.7000E+05
+# Eout,lab (eV)   :   5.3600E+05
+#
+# npts            : 5           
+# xmin            :    0.0000000
+# xmax            :   88.0000000
+# ymin            :   5.3000E-02
+# ymax            :   9.2000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000  18.0000000  5.3000E-02  1.1000E-02
+  22.0000000  18.0000000  8.6000E-02  1.6000E-02
+  45.0000000  18.0000000  9.2000E-02  1.8000E-02
+  66.0000000  18.0000000  8.4000E-02  1.3000E-02
+  88.0000000  18.0000000  7.5000E-02  1.0000E-02
+#---------------------------------------------------

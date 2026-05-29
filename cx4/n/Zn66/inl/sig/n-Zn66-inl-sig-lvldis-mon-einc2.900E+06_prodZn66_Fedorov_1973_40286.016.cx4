@@ -1,0 +1,25 @@
+# EXFOR #         : 40286.016  
+# EXFOR Ver.      : 20220712
+# TRANS #         : 4207
+# Author          : M.B.Fedorov et al.
+# Reference       : Proceedings of 2.Conf.on Neutron Physics, Kiev 1973 3 page 56
+# DOI             : N/A
+# Quantity        : 66Zn(n,inl)66Zn partial cross section
+# REACTION        : 30-ZN-66(N,INL)30-ZN-66,PAR,SIG
+# File ID         : n-Zn66-inl-sig-lvldis-mon-einc2.900E+06_prodZn66_Fedorov_1973_40286.016
+#
+# Einc (eV)       :   2.9000E+06
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   1.0370E+06
+# xmax            :   1.0370E+06
+# ymin            :   5.1600E-01
+# ymax            :   5.1600E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0370E+06  0.0000E+00  5.1600E-01  3.6000E-02
+#---------------------------------------------------

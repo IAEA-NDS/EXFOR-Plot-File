@@ -1,0 +1,29 @@
+# EXFOR #         : 11404.023  
+# EXFOR Ver.      : 20200419
+# TRANS #         : 1466
+# Author          : R.C.Block et al.
+# Reference       : Phys.Rev. 109 (1958) 1620
+# DOI             : 10.1103/PhysRev.109.1620
+# Quantity        : natSr(n,el)natSr angular differential cross section
+# REACTION        : 38-SR-0(N,EL)38-SR-0,,DA,,4PI
+# File ID         : n-Sr-el-adxl-excfun-mon-angl180_prodSr_Block_1958_11404.023
+#
+# theta,lab (deg) :  180.0000000
+#
+# npts            : 6           
+# xmin            :   5.6000E+04
+# xmax            :   9.7000E+04
+# ymin            :   4.8542E-01
+# ymax            :   6.0479E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.6000E+04  0.0000E+00  4.8542E-01  0.0000E+00
+  6.6000E+04  0.0000E+00  6.0479E-01  4.7746E-02
+  7.5000E+04  0.0000E+00  5.1725E-01  0.0000E+00
+  8.3000E+04  0.0000E+00  5.7296E-01  0.0000E+00
+  9.0000E+04  0.0000E+00  4.9338E-01  1.5915E-02
+  9.7000E+04  0.0000E+00  6.0479E-01  4.7746E-02
+#---------------------------------------------------

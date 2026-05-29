@@ -1,0 +1,24 @@
+# EXFOR #         : 20240.002  
+# EXFOR Ver.      : 20120708
+# TRANS #         : 2232
+# Author          : G.Deconninck et al.
+# Reference       : Phys.Rev.C 1 (1970) 1326
+# DOI             : 10.1103/PhysRevC.1.1326
+# Quantity        : natC(n,el)natC cross section
+# REACTION        : 6-C-0(N,EL)6-C-0,,SIG
+# File ID         : n-C-el-sig-excfun-mon-prodC_Deconninck_1970_20240.002
+#
+# npts            : 3           
+# xmin            :   1.7270E+07
+# xmax            :   1.9880E+07
+# ymin            :   8.8400E-01
+# ymax            :   1.0440E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7270E+07  5.6000E+05  8.8400E-01  8.8400E-03
+  1.8250E+07  3.4000E+05  8.9900E-01  8.9900E-03
+  1.9880E+07  2.1000E+05  1.0440E+00  1.0440E-02
+#---------------------------------------------------

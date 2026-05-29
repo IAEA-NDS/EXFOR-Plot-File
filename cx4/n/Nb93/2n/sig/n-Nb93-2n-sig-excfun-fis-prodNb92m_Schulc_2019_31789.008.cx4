@@ -1,0 +1,22 @@
+# EXFOR #         : 31789.008  
+# EXFOR Ver.      : 20190121
+# TRANS #         : 3188
+# Author          : M.Schulc et al.
+# Reference       : Appl.Radiat.Isot. 143 (2019) 132
+# DOI             : 10.1016/j.apradiso.2018.10.027
+# Quantity        : 93Nb(n,2n)92mNb cross section
+# REACTION        : 41-NB-93(N,2N)41-NB-92-M,,SIG,,FIS
+# File ID         : n-Nb93-2n-sig-excfun-fis-prodNb92m_Schulc_2019_31789.008
+#
+# npts            : 1           
+# xmin            :   1.4200E+06
+# xmax            :   1.4200E+06
+# ymin            :   8.2480E-04
+# ymax            :   8.2480E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+06  0.0000E+00  8.2480E-04  3.2167E-05
+#---------------------------------------------------

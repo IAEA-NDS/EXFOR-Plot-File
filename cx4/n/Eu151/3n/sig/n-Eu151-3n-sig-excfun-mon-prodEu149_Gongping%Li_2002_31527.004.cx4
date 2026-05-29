@@ -1,0 +1,22 @@
+# EXFOR #         : 31527.004  
+# EXFOR Ver.      : 20030320
+# TRANS #         : 0000
+# Author          : Gongping Li et al.
+# Reference       : Appl.Radiat.Isot. 56 (2002) 731
+# DOI             : 10.1016/S0969-8043(01)00247-0
+# Quantity        : 151Eu(n,3n)149Eu cross section
+# REACTION        : 63-EU-151(N,3N)63-EU-149,,SIG
+# File ID         : n-Eu151-3n-sig-excfun-mon-prodEu149_Gongping%Li_2002_31527.004
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   2.6500E-03
+# ymax            :   2.6500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  2.0000E+05  2.6500E-03  4.0000E-04
+#---------------------------------------------------

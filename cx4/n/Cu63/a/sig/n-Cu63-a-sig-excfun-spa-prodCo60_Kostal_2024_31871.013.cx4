@@ -1,0 +1,22 @@
+# EXFOR #         : 31871.013  
+# EXFOR Ver.      : 20260212
+# TRANS #         : 3222
+# Author          : M.Kostal et al.
+# Reference       : Ann.Nucl.Energy 206 (2024) 110616
+# DOI             : 10.1016/j.anucene.2024.110616
+# Quantity        : 63Cu(n,a)60Co cross section
+# REACTION        : 29-CU-63(N,A)27-CO-60,,SIG,,SPA
+# File ID         : n-Cu63-a-sig-excfun-spa-prodCo60_Kostal_2024_31871.013
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   1.3940E-04
+# ymax            :   1.3940E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  1.3940E-04  4.0426E-06
+#---------------------------------------------------

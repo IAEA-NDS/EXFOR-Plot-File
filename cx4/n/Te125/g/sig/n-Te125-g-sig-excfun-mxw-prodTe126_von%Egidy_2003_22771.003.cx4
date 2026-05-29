@@ -1,0 +1,22 @@
+# EXFOR #         : 22771.003  
+# EXFOR Ver.      : 20061201
+# TRANS #         : 2181
+# Author          : T.von Egidy et al.
+# Reference       : Nucl.Phys.A 714 (2003) 355
+# DOI             : 10.1016/S0375-9474(02)01400-8
+# Quantity        : 125Te(n,g)126Te cross section
+# REACTION        : 52-TE-125(N,G)52-TE-126,,SIG,,MXW
+# File ID         : n-Te125-g-sig-excfun-mxw-prodTe126_von%Egidy_2003_22771.003
+#
+# npts            : 1           
+# xmin            :   2.5000E-02
+# xmax            :   2.5000E-02
+# ymin            :   1.0900E+00
+# ymax            :   1.0900E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  0.0000E+00  1.0900E+00  1.7000E-01
+#---------------------------------------------------

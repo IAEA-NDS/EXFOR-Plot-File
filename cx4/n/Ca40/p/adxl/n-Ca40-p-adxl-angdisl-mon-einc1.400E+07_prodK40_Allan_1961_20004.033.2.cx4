@@ -1,0 +1,24 @@
+# EXFOR #         : 20004.033.2
+# EXFOR Ver.      : 20181026
+# TRANS #         : 2273
+# Author          : D.L.Allan
+# Reference       : Nucl.Phys. 24 (1961) 274
+# DOI             : 10.1016/0029-5582(61)90380-7
+# Quantity        : 40Ca(n,p)40K angular differential cross section
+# REACTION        : 20-CA-40(N,P)19-K-40,,DA,,4PI
+# File ID         : n-Ca40-p-adxl-angdisl-mon-einc1.400E+07_prodK40_Allan_1961_20004.033.2
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 1           
+# xmin            :  120.0000000
+# xmax            :  120.0000000
+# ymin            :   2.3714E-02
+# ymax            :   2.3714E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 120.0000000   0.0000000  2.3714E-02  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 20905.019  
+# EXFOR Ver.      : 20170731
+# TRANS #         : 2263
+# Author          : J.H.Towle et al.
+# Reference       : Nucl.Phys.A 100 (1967) 257
+# DOI             : 10.1016/0375-9474(67)90408-3
+# Quantity        : 60Ni(n,inl)60Ni angular differential cross section
+# REACTION        : 28-NI-60(N,INL)28-NI-60,,DA,,4PI
+# File ID         : n-Ni60-inl-adxl-angdisl-mon-einc7.000E+06_prodNi60_Towle_1967_20905.019
+#
+# Einc (eV)       :   7.0000E+06
+# dEinc (eV)      :   7.5000E+04
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   1.1141E-01
+# ymax            :   1.1141E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  1.1141E-01  5.5704E-03
+#---------------------------------------------------

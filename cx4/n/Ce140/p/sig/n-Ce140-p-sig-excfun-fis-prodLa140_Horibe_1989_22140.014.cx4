@@ -1,0 +1,22 @@
+# EXFOR #         : 22140.014  
+# EXFOR Ver.      : 20160113
+# TRANS #         : 2246
+# Author          : O.Horibe et al.
+# Reference       : Proceedings of 50 Years Nucl.Fission Conf., Washington D.C., 1989 2 page 923
+# DOI             : N/A
+# Quantity        : 140Ce(n,p)140La cross section
+# REACTION        : 58-CE-140(N,P)57-LA-140,,SIG,,FIS
+# File ID         : n-Ce140-p-sig-excfun-fis-prodLa140_Horibe_1989_22140.014
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   4.1500E-06
+# ymax            :   4.1500E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  4.1500E-06  2.9000E-07
+#---------------------------------------------------

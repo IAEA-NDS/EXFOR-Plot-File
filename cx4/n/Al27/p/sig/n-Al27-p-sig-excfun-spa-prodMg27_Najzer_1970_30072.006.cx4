@@ -1,0 +1,22 @@
+# EXFOR #         : 30072.006  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : M.Najzer et al.
+# Reference       : Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 2 page 571
+# DOI             : N/A
+# Quantity        : 27Al(n,p)27Mg cross section
+# REACTION        : 13-AL-27(N,P)12-MG-27,,SIG,,SPA
+# File ID         : n-Al27-p-sig-excfun-spa-prodMg27_Najzer_1970_30072.006
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.9000E-03
+# ymax            :   2.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.9000E-03  3.0000E-04
+#---------------------------------------------------

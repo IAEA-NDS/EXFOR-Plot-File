@@ -1,0 +1,23 @@
+# EXFOR #         : 14092.003  
+# EXFOR Ver.      : 20060310
+# TRANS #         : 1340
+# Author          : J.M.Sisterson et al.
+# Reference       : Nucl.Instrum.Meth.B 245 (2006) 371
+# DOI             : 10.1016/j.nimb.2005.12.002
+# Quantity        : natFe(n,x)46Sc independent production cross section
+# REACTION        : 26-FE-0(N,X)21-SC-46,,SIG
+# File ID         : n-Fe-x-sig-excfun-mon-prodSc46_Sisterson_2006_14092.003
+#
+# npts            : 2           
+# xmin            :   1.1220E+08
+# xmax            :   1.5160E+08
+# ymin            :   2.6000E-03
+# ymax            :   3.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1220E+08  0.0000E+00  3.6000E-03  6.0000E-04
+  1.5160E+08  0.0000E+00  2.6000E-03  1.1000E-03
+#---------------------------------------------------

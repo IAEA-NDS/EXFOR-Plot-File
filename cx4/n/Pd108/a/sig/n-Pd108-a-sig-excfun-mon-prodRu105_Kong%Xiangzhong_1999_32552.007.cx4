@@ -1,0 +1,22 @@
+# EXFOR #         : 32552.007  
+# EXFOR Ver.      : 20010413
+# TRANS #         : 0000
+# Author          : Kong Xiangzhong et al.
+# Reference       : Appl.Radiat.Isot. 50 (1999) 361
+# DOI             : 10.1016/S0969-8043(97)10144-0
+# Quantity        : 108Pd(n,a)105Ru cross section
+# REACTION        : 46-PD-108(N,A)44-RU-105,,SIG
+# File ID         : n-Pd108-a-sig-excfun-mon-prodRu105_Kong%Xiangzhong_1999_32552.007
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.5000E-03
+# ymax            :   2.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  2.0000E+05  2.5000E-03  3.0000E-04
+#---------------------------------------------------

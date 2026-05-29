@@ -1,0 +1,22 @@
+# EXFOR #         : 30438.011  
+# EXFOR Ver.      : 20090310
+# TRANS #         : 3135
+# Author          : K.Sailer et al.
+# Reference       : Proceedings of 4.All Union Conf.on Neutron Phys.,Kiev,18-22 Apr 1977 1 page 246
+# DOI             : N/A
+# Quantity        : 92Zr(n,p)92Y cross section
+# REACTION        : 40-ZR-92(N,P)39-Y-92,,SIG
+# File ID         : n-Zr92-p-sig-excfun-mon-prodY92_Sailer_1977_30438.011
+#
+# npts            : 1           
+# xmin            :   1.4810E+07
+# xmax            :   1.4810E+07
+# ymin            :   2.0600E-02
+# ymax            :   2.0600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4810E+07  2.5000E+05  2.0600E-02  6.0000E-04
+#---------------------------------------------------

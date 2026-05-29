@@ -1,0 +1,22 @@
+# EXFOR #         : 11399.051  
+# EXFOR Ver.      : 20260110
+# TRANS #         : 1525
+# Author          : R.L.Macklin et al.
+# Reference       : Phys.Rev. 107 (1957) 504
+# DOI             : 10.1103/PhysRev.107.504
+# Quantity        : 232Th(n,g)233Th cross section
+# REACTION        : 90-TH-232(N,G)90-TH-233,,SIG
+# File ID         : n-Th232-g-sig-excfun-mon-prodTh233_Macklin_1957_11399.051
+#
+# npts            : 1           
+# xmin            :   2.4000E+04
+# xmax            :   2.4000E+04
+# ymin            :   5.0000E-01
+# ymax            :   5.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+04  0.0000E+00  5.0000E-01  1.0000E-01
+#---------------------------------------------------

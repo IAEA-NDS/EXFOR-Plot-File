@@ -1,0 +1,22 @@
+# EXFOR #         : 31842.003  
+# EXFOR Ver.      : 20211208
+# TRANS #         : 3206
+# Author          : J.Jarosik et al.
+# Reference       : Nucl.Instrum.Meth.B 511 (2022) 64
+# DOI             : 10.1016/j.nimb.2021.10.018
+# Quantity        : 59Co(n,2n)58mCo cross section
+# REACTION        : 27-CO-59(N,2N)27-CO-58-M,,SIG
+# File ID         : n-Co59-2n-sig-excfun-mon-prodCo58m_Jarosik_2022_31842.003
+#
+# npts            : 1           
+# xmin            :   1.7500E+07
+# xmax            :   1.7500E+07
+# ymin            :   4.8000E-01
+# ymax            :   4.8000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7500E+07  1.0000E+06  4.8000E-01  4.0000E-02
+#---------------------------------------------------

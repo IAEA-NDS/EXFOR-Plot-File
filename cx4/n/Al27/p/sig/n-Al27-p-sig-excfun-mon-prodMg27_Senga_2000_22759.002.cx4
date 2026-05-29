@@ -1,0 +1,23 @@
+# EXFOR #         : 22759.002  
+# EXFOR Ver.      : 20090306
+# TRANS #         : 2210
+# Author          : T.Senga et al.
+# Reference       : Report (proceedings) JAERI-C-2000-005 page 208, 2000
+# DOI             : N/A
+# Quantity        : 27Al(n,p)27Mg cross section
+# REACTION        : 13-AL-27(N,P)12-MG-27,,SIG
+# File ID         : n-Al27-p-sig-excfun-mon-prodMg27_Senga_2000_22759.002
+#
+# npts            : 2           
+# xmin            :   3.2482E+06
+# xmax            :   4.0686E+06
+# ymin            :   1.8354E-03
+# ymax            :   3.2419E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2482E+06  0.0000E+00  1.8354E-03  0.0000E+00
+  4.0686E+06  0.0000E+00  3.2419E-03  0.0000E+00
+#---------------------------------------------------

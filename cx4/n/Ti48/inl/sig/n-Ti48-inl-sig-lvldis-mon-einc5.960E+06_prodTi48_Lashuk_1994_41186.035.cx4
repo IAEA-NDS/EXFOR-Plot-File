@@ -1,0 +1,26 @@
+# EXFOR #         : 41186.035  
+# EXFOR Ver.      : 20191107
+# TRANS #         : 4184
+# Author          : A.I.Lashuk et al.
+# Reference       : Yad.Reak.Konst.  No.1 (1994) 26
+# DOI             : N/A
+# Quantity        : 48Ti(n,inl)48Ti partial cross section
+# REACTION        : 22-TI-48(N,INL)22-TI-48,PAR,SIG
+# File ID         : n-Ti48-inl-sig-lvldis-mon-einc5.960E+06_prodTi48_Lashuk_1994_41186.035
+#
+# Einc (eV)       :   5.9600E+06
+#
+# npts            : 3           
+# xmin            :   3.3550E+06
+# xmax            :   3.7000E+06
+# ymin            :   2.1000E-02
+# ymax            :   9.9000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3550E+06  0.0000E+00  9.9000E-02  1.2000E-02
+  3.6150E+06  0.0000E+00  5.8000E-02  8.0000E-03
+  3.7000E+06  0.0000E+00  2.1000E-02  4.0000E-03
+#---------------------------------------------------

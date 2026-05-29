@@ -1,0 +1,22 @@
+# EXFOR #         : 32867.005  
+# EXFOR Ver.      : 20241211
+# TRANS #         : 3215
+# Author          : B.Liu et al.
+# Reference       : Appl.Radiat.Isot. 184 (2022) 110209
+# DOI             : 10.1016/j.apradiso.2022.110209
+# Quantity        : 124Sn(n,2n)123gSn cross section
+# REACTION        : 50-SN-124(N,2N)50-SN-123-G,,SIG
+# File ID         : n-Sn124-2n-sig-excfun-mon-prodSn123g_Liu_2022_32867.005
+#
+# npts            : 1           
+# xmin            :   1.3600E+07
+# xmax            :   1.3600E+07
+# ymin            :   1.2189E+00
+# ymax            :   1.2189E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3600E+07  2.0000E+05  1.2189E+00  1.2000E-01
+#---------------------------------------------------

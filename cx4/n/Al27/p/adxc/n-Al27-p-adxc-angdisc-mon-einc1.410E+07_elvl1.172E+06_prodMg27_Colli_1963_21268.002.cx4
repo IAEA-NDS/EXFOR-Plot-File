@@ -1,0 +1,29 @@
+# EXFOR #         : 21268.002  
+# EXFOR Ver.      : 20220218
+# TRANS #         : 2310
+# Author          : L.Colli et al.
+# Reference       : Nuovo Cim. 29 (1963) 983
+# DOI             : 10.1007/BF02827961
+# Quantity        : 27Al(n,p)27Mg partial angular differential cross section
+# REACTION        : 13-AL-27(N,P)12-MG-27,PAR,DA
+# File ID         : n-Al27-p-adxc-angdisc-mon-einc1.410E+07_elvl1.172E+06_prodMg27_Colli_1963_21268.002
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.0000E+05
+# Elvl (eV)       :   1.1720E+06
+#
+# npts            : 4           
+# xmin            :   23.8368400
+# xmax            :   56.5025400
+# ymin            :   2.2000E-04
+# ymax            :   5.7000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  56.5025400   0.0000000  2.2000E-04  1.1000E-04
+  46.6699400   0.0000000  2.2000E-04  1.1000E-04
+  34.6843000   0.0000000  4.1000E-04  1.1000E-04
+  23.8368400   0.0000000  5.7000E-04  1.1000E-04
+#---------------------------------------------------

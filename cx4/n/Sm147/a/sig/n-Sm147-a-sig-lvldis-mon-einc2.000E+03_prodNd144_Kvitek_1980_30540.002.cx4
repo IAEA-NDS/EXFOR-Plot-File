@@ -1,0 +1,25 @@
+# EXFOR #         : 30540.002  
+# EXFOR Ver.      : 20090503
+# TRANS #         : 3137
+# Author          : J.Kvitek et al.
+# Reference       : Z.Phys.A 294 (1980) 197
+# DOI             : 10.1007/BF01435056
+# Quantity        : 147Sm(n,a)144Nd partial cross section
+# REACTION        : 62-SM-147(N,A)60-ND-144,PAR,SIG
+# File ID         : n-Sm147-a-sig-lvldis-mon-einc2.000E+03_prodNd144_Kvitek_1980_30540.002
+#
+# Einc (eV)       :   2.0000E+03
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   6.9500E+05
+# ymin            :   7.8000E-05
+# ymax            :   1.1850E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.1850E-04  2.2000E-05
+  6.9500E+05  0.0000E+00  7.8000E-05  1.7000E-05
+#---------------------------------------------------

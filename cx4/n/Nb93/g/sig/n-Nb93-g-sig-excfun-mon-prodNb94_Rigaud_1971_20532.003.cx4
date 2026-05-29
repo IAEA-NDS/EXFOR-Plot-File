@@ -1,0 +1,22 @@
+# EXFOR #         : 20532.003  
+# EXFOR Ver.      : 20080131
+# TRANS #         : 2193
+# Author          : F.Rigaud et al.
+# Reference       : Nucl.Phys.A 173 (1971) 551
+# DOI             : 10.1016/0375-9474(71)90970-5
+# Quantity        : 93Nb(n,g)94Nb cross section
+# REACTION        : 41-NB-93(N,G)41-NB-94,,SIG
+# File ID         : n-Nb93-g-sig-excfun-mon-prodNb94_Rigaud_1971_20532.003
+#
+# npts            : 1           
+# xmin            :   1.4060E+07
+# xmax            :   1.4060E+07
+# ymin            :   8.0000E-04
+# ymax            :   8.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4060E+07  1.0000E+04  8.0000E-04  2.0000E-04
+#---------------------------------------------------

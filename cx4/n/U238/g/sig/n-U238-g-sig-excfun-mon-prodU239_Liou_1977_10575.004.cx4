@@ -1,0 +1,22 @@
+# EXFOR #         : 10575.004  
+# EXFOR Ver.      : 20160804
+# TRANS #         : 1421
+# Author          : H.I.Liou et al.
+# Reference       : Nucl.Sci.Eng. 62 (1977) 463
+# DOI             : 10.13182/NSE77-A26985
+# Quantity        : 238U(n,g)239U cross section
+# REACTION        : 92-U-238(N,G)92-U-239,,SIG
+# File ID         : n-U238-g-sig-excfun-mon-prodU239_Liou_1977_10575.004
+#
+# npts            : 1           
+# xmin            :   2.5000E+00
+# xmax            :   2.5000E+00
+# ymin            :   4.5000E-01
+# ymax            :   4.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+00  0.0000E+00  4.5000E-01  2.4000E-01
+#---------------------------------------------------

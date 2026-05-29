@@ -1,0 +1,25 @@
+# EXFOR #         : 14826.003  
+# EXFOR Ver.      : 20240314
+# TRANS #         : 1514
+# Author          : S.Kim et al.
+# Reference       : Nucl.Instrum.Meth.A 1059 (2024) 169001
+# DOI             : 10.1016/j.nima.2023.169001
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-Pu239-f-fyc-nucdis-mon-einc2.530E-02_Kim_2024_14826.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 38095.9     
+# xmax            : 55140.9     
+# ymin            :   4.0000E-02
+# ymax            :   5.0000E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     38095.9  4.0000E-02  1.0000E-02
+     55140.9  5.0000E-02  1.0000E-02
+#---------------------------------------------------

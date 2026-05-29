@@ -1,0 +1,22 @@
+# EXFOR #         : 23543.003  
+# EXFOR Ver.      : 20201210
+# TRANS #         : 2296
+# Author          : A.Kjelberg et al.
+# Reference       : J.Inorg.Nucl.Chem. 11 (1959) 173
+# DOI             : 10.1016/0022-1902(59)80243-8
+# Quantity        : 235U(n,f)77mGe independent fission product yield
+# REACTION        : 92-U-235(N,F)32-GE-77-M,IND,FY
+# File ID         : n-U235-f-fyi-excfun-mon-prodGe77m_Kjelberg_1959_23543.003
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   5.0000E-05
+# ymax            :   5.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,ind      dFY,ind     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  5.0000E-05  1.0000E-05
+#---------------------------------------------------

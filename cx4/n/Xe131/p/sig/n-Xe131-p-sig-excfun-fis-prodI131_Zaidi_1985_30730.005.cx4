@@ -1,0 +1,22 @@
+# EXFOR #         : 30730.005  
+# EXFOR Ver.      : 20090906
+# TRANS #         : 3140
+# Author          : J.H.Zaidi et al.
+# Reference       : Radiochim.Acta 38 (1985) 123
+# DOI             : 10.1524/ract.1985.38.3.123
+# Quantity        : 131Xe(n,p)131I cross section
+# REACTION        : 54-XE-131(N,P)53-I-131,,SIG,,FIS
+# File ID         : n-Xe131-p-sig-excfun-fis-prodI131_Zaidi_1985_30730.005
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   7.0000E-06
+# ymax            :   7.0000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  7.0000E-06  1.0000E-06
+#---------------------------------------------------

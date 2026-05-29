@@ -1,0 +1,28 @@
+# EXFOR #         : 31453.003  
+# EXFOR Ver.      : 20100307
+# TRANS #         : 3144
+# Author          : Hou Long et al.
+# Reference       : Chin.J.Nucl.Phys. 16 (1994) 344
+# DOI             : N/A
+# Quantity        : 56Fe(n,g)57Fe angular differential cross section
+# REACTION        : 26-FE-56(N,G)26-FE-57,,DA
+# File ID         : n-Fe56-g-adxl-excfun-mon-angl125_prodFe57_Hou%Long_1994_31453.003
+#
+# theta,lab (deg) :  125.0000000
+#
+# npts            : 5           
+# xmin            :   9.0000E+06
+# xmax            :   2.0000E+07
+# ymin            :   1.7700E-04
+# ymax            :   5.9400E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.0000E+06  0.0000E+00  5.9400E-04  8.9000E-05
+  1.0000E+07  0.0000E+00  5.9400E-04  8.9000E-05
+  1.2500E+07  0.0000E+00  5.6200E-04  8.4000E-05
+  1.5000E+07  0.0000E+00  4.4100E-04  6.6000E-05
+  2.0000E+07  0.0000E+00  1.7700E-04  2.7000E-05
+#---------------------------------------------------

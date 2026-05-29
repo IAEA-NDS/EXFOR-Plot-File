@@ -1,0 +1,25 @@
+# EXFOR #         : 10876.005  
+# EXFOR Ver.      : 20070706
+# TRANS #         : 1344
+# Author          : A.Smith et al.
+# Reference       : Nucl.Phys.A 332 (1979) 297
+# DOI             : 10.1016/0375-9474(79)90004-6
+# Quantity        : 107Ag(n,inl)107Ag partial cross section
+# REACTION        : 47-AG-107(N,INL)47-AG-107,PAR,SIG
+# File ID         : n-Ag107-inl-sig-excfun-mon-eoutl2.270E+06_prodAg107_Smith_1979_10876.005
+#
+# Eout,lab (eV)   :   2.2700E+06
+#
+# npts            : 2           
+# xmin            :   3.0000E+06
+# xmax            :   3.4000E+06
+# ymin            :   1.0000E-01
+# ymax            :   1.0200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  0.0000E+00  1.0000E-01  3.0000E-02
+  3.4000E+06  0.0000E+00  1.0200E-01  3.0000E-02
+#---------------------------------------------------

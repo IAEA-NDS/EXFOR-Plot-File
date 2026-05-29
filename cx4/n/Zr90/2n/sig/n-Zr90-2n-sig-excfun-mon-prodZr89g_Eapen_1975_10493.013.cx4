@@ -1,0 +1,22 @@
+# EXFOR #         : 10493.013  
+# EXFOR Ver.      : 20040114
+# TRANS #         : 0000
+# Author          : P.K.Eapen et al.
+# Reference       : J.Inorg.Nucl.Chem. 37 (1975) 1121
+# DOI             : 10.1016/0022-1902(75)80455-6
+# Quantity        : 90Zr(n,2n)89gZr cross section
+# REACTION        : 40-ZR-90(N,2N)40-ZR-89-G,,SIG
+# File ID         : n-Zr90-2n-sig-excfun-mon-prodZr89g_Eapen_1975_10493.013
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   9.3200E-01
+# ymax            :   9.3200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  0.0000E+00  9.3200E-01  7.5000E-02
+#---------------------------------------------------

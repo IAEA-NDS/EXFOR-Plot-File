@@ -1,0 +1,22 @@
+# EXFOR #         : 31522.002  
+# EXFOR Ver.      : 20021105
+# TRANS #         : 0000
+# Author          : I.M.Cohen et al.
+# Reference       : J.Rad.Nucl.Chem.Lett 212 No.5 (1996) 353
+# DOI             : 10.1007/BF02162650
+# Quantity        : 70Ge(n,p)70Ga cross section
+# REACTION        : 32-GE-70(N,P)31-GA-70,,SIG,,FIS
+# File ID         : n-Ge70-p-sig-excfun-fis-prodGa70_Cohen_1996_31522.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.1000E-03
+# ymax            :   3.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.1000E-03  3.0000E-04
+#---------------------------------------------------

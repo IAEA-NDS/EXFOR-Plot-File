@@ -1,0 +1,29 @@
+# EXFOR #         : 14125.058  
+# EXFOR Ver.      : 20140527
+# TRANS #         : 1401
+# Author          : P.S.Buchanan et al.
+# Reference       : Progress report ORO-2791-32, 1971
+# DOI             : N/A
+# Quantity        : 207Pb(n,inl)207Pb partial gamma angular differential cross section
+# REACTION        : 82-PB-207(N,INL)82-PB-207,PAR,DA,G
+# File ID         : n-Pb207-inl-adxgl-excfun-mon-angl90_eoutl2.640E+06_prodPb207_Buchanan_1971_14125.058
+#
+# theta,lab (deg) :   90.0000000
+# Eout,lab (eV)   :   2.6400E+06
+#
+# npts            : 5           
+# xmin            :   3.0000E+06
+# xmax            :   4.5000E+06
+# ymin            :   2.0000E-03
+# ymax            :   2.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.0000E+06  2.0000E+05  2.0000E-03  1.0000E-03
+  3.2000E+06  2.0000E+05  7.0000E-03  1.0000E-03
+  3.5000E+06  1.5000E+05  8.0000E-03  2.0000E-03
+  4.1000E+06  1.0000E+05  2.2000E-02  4.0000E-03
+  4.5000E+06  1.0000E+05  2.1000E-02  4.0000E-03
+#---------------------------------------------------

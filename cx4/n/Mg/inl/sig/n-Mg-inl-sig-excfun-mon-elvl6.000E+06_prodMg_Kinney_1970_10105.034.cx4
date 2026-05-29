@@ -1,0 +1,26 @@
+# EXFOR #         : 10105.034  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4550, 1970
+# DOI             : N/A
+# Quantity        : natMg(n,inl)natMg partial cross section
+# REACTION        : 12-MG-0(N,INL)12-MG-0,PAR,SIG
+# File ID         : n-Mg-inl-sig-excfun-mon-elvl6.000E+06_prodMg_Kinney_1970_10105.034
+#
+# Elvl (eV)       :   6.0000E+06
+#
+# npts            : 3           
+# xmin            :   7.5500E+06
+# xmax            :   8.5600E+06
+# ymin            :   4.3030E-02
+# ymax            :   5.8470E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.5500E+06  4.0000E+04  5.8470E-02  1.9763E-02
+  7.6000E+06  1.0000E+05  4.3030E-02  7.0139E-03
+  8.5600E+06  8.0000E+04  5.6920E-02  5.8058E-03
+#---------------------------------------------------

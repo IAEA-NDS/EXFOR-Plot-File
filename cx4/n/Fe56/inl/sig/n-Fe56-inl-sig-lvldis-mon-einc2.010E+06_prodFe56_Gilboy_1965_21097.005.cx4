@@ -1,0 +1,25 @@
+# EXFOR #         : 21097.005  
+# EXFOR Ver.      : 20000102
+# TRANS #         : 0000
+# Author          : W.B.Gilboy et al.
+# Reference       : Nucl.Phys. 64 (1965) 130
+# DOI             : 10.1016/0029-5582(65)90846-1
+# Quantity        : 56Fe(n,inl)56Fe partial cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG
+# File ID         : n-Fe56-inl-sig-lvldis-mon-einc2.010E+06_prodFe56_Gilboy_1965_21097.005
+#
+# Einc (eV)       :   2.0100E+06
+# dEinc (eV)      :   7.0000E+04
+#
+# npts            : 1           
+# xmin            :   8.4500E+05
+# xmax            :   8.4500E+05
+# ymin            :   8.6000E-01
+# ymax            :   8.6000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.4500E+05  0.0000E+00  8.6000E-01  2.6000E-02
+#---------------------------------------------------

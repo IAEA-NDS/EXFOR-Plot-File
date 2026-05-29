@@ -1,0 +1,23 @@
+# EXFOR #         : 40685.006  
+# EXFOR Ver.      : 20231010
+# TRANS #         : 4215
+# Author          : I.A.Korzh
+# Reference       : Sov.At.Energy 16 (1964) 312
+# DOI             : 10.1007/BF01122981
+# Quantity        : natMg(n,el)natMg cross section
+# REACTION        : 12-MG-0(N,EL)12-MG-0,,SIG
+# File ID         : n-Mg-el-sig-excfun-mon-prodMg_Korzh_1964_40685.006
+#
+# npts            : 2           
+# xmin            :   5.0000E+05
+# xmax            :   8.0000E+05
+# ymin            :   3.8000E+00
+# ymax            :   6.2400E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+05  5.0000E+04  6.2400E+00  1.3000E-01
+  8.0000E+05  5.0000E+04  3.8000E+00  1.3000E-01
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : 12702.002  
+# EXFOR Ver.      : 20210928
+# TRANS #         : 1493
+# Author          : V.M.Cottles
+# Reference       : Thesis  (1975)
+# DOI             : N/A
+# Quantity        : 203Tl(n,inl)203Tl partial gamma angular differential cross section
+# REACTION        : 81-TL-203(N,INL)81-TL-203,PAR,DA,G
+# File ID         : n-Tl203-inl-adxgl-excfun-mon-angl95_eoutl1.171E+06_prodTl203_Cottles_1975_12702.002
+#
+# theta,lab (deg) :   95.0000000
+# Eout,lab (eV)   :   1.1710E+06
+#
+# npts            : 5           
+# xmin            :   1.7100E+06
+# xmax            :   2.1110E+06
+# ymin            :   1.0700E-03
+# ymax            :   5.3990E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7100E+06  0.0000E+00  1.0700E-03  6.1500E-04
+  1.8220E+06  0.0000E+00  2.5780E-03  9.1600E-04
+  1.9230E+06  0.0000E+00  3.8440E-03  1.0990E-03
+  2.0210E+06  0.0000E+00  4.4370E-03  1.2830E-03
+  2.1110E+06  0.0000E+00  5.3990E-03  1.4090E-03
+#---------------------------------------------------

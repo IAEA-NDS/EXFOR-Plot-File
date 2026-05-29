@@ -1,0 +1,23 @@
+# EXFOR #         : 40773.002  
+# EXFOR Ver.      : 20191214
+# TRANS #         : 4185
+# Author          : L.N.Katsaurov et al.
+# Reference       : At.En. Suppl.  No.5 (1957) 71
+# DOI             : N/A
+# Quantity        : 3H(n,tot) cross section
+# REACTION        : 1-H-3(N,TOT),,SIG
+# File ID         : n-H3-tot-sig-excfun-mon-Katsaurov_1957_40773.002
+#
+# npts            : 2           
+# xmin            :   2.5000E+06
+# xmax            :   1.4000E+07
+# ymin            :   6.3000E-01
+# ymax            :   2.5000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  0.0000E+00  2.5000E+00  5.0000E-01
+  1.4000E+07  0.0000E+00  6.3000E-01  1.7000E-01
+#---------------------------------------------------

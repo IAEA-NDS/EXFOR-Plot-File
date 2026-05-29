@@ -1,0 +1,33 @@
+# EXFOR #         : 20434.005  
+# EXFOR Ver.      : 20170430
+# TRANS #         : 2261
+# Author          : J.Sigaud et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 893
+# DOI             : N/A
+# Quantity        : 82Se(n,inl)82Se partial gamma angular differential cross section
+# REACTION        : 34-SE-82(N,INL)34-SE-82,PAR,DA,G
+# File ID         : n-Se82-inl-adxgl-enedisl-mon-einc3.100E+06_angl55_prodSe82_Sigaud_1975_20434.005
+#
+# Einc (eV)       :   3.1000E+06
+# theta,lab (deg) :   55.0000000
+#
+# npts            : 9           
+# xmin            :   6.5480E+05
+# xmax            :   1.9721E+06
+# ymin            :   2.5000E-03
+# ymax            :   1.0710E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.5480E+05  0.0000E+00  1.0710E-01  1.0700E-02
+  7.5570E+05  0.0000E+00  7.7000E-03  8.0000E-04
+  8.1735E+05  9.5000E+02  3.5000E-03  7.0000E-04
+  1.0786E+06  1.2500E+03  2.2300E-02  2.2000E-03
+  1.1133E+06  0.0000E+00  2.5000E-03  5.0000E-04
+  1.7321E+06  0.0000E+00  2.0900E-02  2.1000E-03
+  1.8608E+06  0.0000E+00  3.4000E-03  7.0000E-04
+  1.8963E+06  0.0000E+00  3.3000E-03  7.0000E-04
+  1.9721E+06  0.0000E+00  9.2000E-03  1.4000E-03
+#---------------------------------------------------

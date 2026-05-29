@@ -1,0 +1,23 @@
+# EXFOR #         : 31601.011  
+# EXFOR Ver.      : 20070727
+# TRANS #         : 3123
+# Author          : S.A.Jonah et al.
+# Reference       : Appl.Radiat.Isot. 66 (2008) 1377
+# DOI             : 10.1016/j.apradiso.2008.04.001
+# Quantity        : 64Zn(n,p)64Cu cross section
+# REACTION        : 30-ZN-64(N,P)29-CU-64,,SIG,,FIS
+# File ID         : n-Zn64-p-sig-excfun-fis-prodCu64_Jonah_2008_31601.011
+#
+# npts            : 2           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   4.9700E-02
+# ymax            :   5.3100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  4.9700E-02  2.1000E-03
+  1.5000E+06  0.0000E+00  5.3100E-02  4.0000E-03
+#---------------------------------------------------

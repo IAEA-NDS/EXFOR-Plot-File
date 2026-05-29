@@ -1,0 +1,22 @@
+# EXFOR #         : 30038.007  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : J.Csikai
+# Reference       : Proceedings of Nuclear Structure Study with Neutrons, Antwerp 1965 page 537
+# DOI             : N/A
+# Quantity        : 63Cu(n,2n)62Cu cross section
+# REACTION        : 29-CU-63(N,2N)29-CU-62,,SIG
+# File ID         : n-Cu63-2n-sig-excfun-mon-prodCu62_Csikai_1965_30038.007
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   5.4100E-01
+# ymax            :   5.4100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  1.0000E+05  5.4100E-01  0.0000E+00
+#---------------------------------------------------

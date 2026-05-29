@@ -1,0 +1,29 @@
+# EXFOR #         : 21374.002  
+# EXFOR Ver.      : 19860609
+# TRANS #         : 0000
+# Author          : C.P.Van Zyl et al.
+# Reference       : Philos.Mag. 1 (1956) 1003
+# DOI             : 10.1080/14786435608238182
+# Quantity        : natLi(n,el)natLi angular differential cross section
+# REACTION        : 3-LI-0(N,EL)3-LI-0,,DA
+# File ID         : n-Li-el-adxl-angdisl-mon-einc1.360E+08_prodLi_Van%Zyl_1956_21374.002
+#
+# Einc (eV)       :   1.3600E+08
+# dEinc (eV)      :   4.0000E+06
+#
+# npts            : 5           
+# xmin            :    0.0000000
+# xmax            :   17.6000000
+# ymin            :   7.3500E-02
+# ymax            :   3.9730E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  3.9730E-01  2.2900E-02
+   2.2000000   0.0000000  3.8970E-01  1.5300E-02
+   4.0000000   0.0000000  3.8220E-01  1.5300E-02
+  15.0000000   0.0000000  1.0790E-01  7.7000E-03
+  17.6000000   0.0000000  7.3500E-02  7.7000E-03
+#---------------------------------------------------

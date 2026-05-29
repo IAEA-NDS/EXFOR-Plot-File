@@ -1,0 +1,23 @@
+# EXFOR #         : 22428.010  
+# EXFOR Ver.      : 19991202
+# TRANS #         : 0000
+# Author          : H.Sakane et al.
+# Reference       : Report (proceedings) JAERI-C-98-003 page 318, 1998
+# DOI             : N/A
+# Quantity        : 185Re(n,p)185mW cross section
+# REACTION        : 75-RE-185(N,P)74-W-185-M,,SIG
+# File ID         : n-Re185-p-sig-excfun-mon-prodW185m_Sakane_1998_22428.010
+#
+# npts            : 2           
+# xmin            :   1.3400E+07
+# xmax            :   1.4870E+07
+# ymin            :   9.0000E-04
+# ymax            :   1.8900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3400E+07  9.0000E+04  9.0000E-04  3.8000E-04
+  1.4870E+07  9.0000E+04  1.8900E-03  7.4000E-04
+#---------------------------------------------------

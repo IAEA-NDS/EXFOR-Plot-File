@@ -1,0 +1,22 @@
+# EXFOR #         : 32867.003  
+# EXFOR Ver.      : 20241211
+# TRANS #         : 3215
+# Author          : B.Liu et al.
+# Reference       : Appl.Radiat.Isot. 184 (2022) 110209
+# DOI             : 10.1016/j.apradiso.2022.110209
+# Quantity        : natSn(n,x)117mSn independent production cross section
+# REACTION        : 50-SN-0(N,X)50-SN-117-M,,SIG
+# File ID         : n-Sn-x-sig-excfun-mon-prodSn117m_Liu_2022_32867.003
+#
+# npts            : 1           
+# xmin            :   1.3600E+07
+# xmax            :   1.3600E+07
+# ymin            :   2.0240E-01
+# ymax            :   2.0240E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3600E+07  2.0000E+05  2.0240E-01  2.1000E-02
+#---------------------------------------------------

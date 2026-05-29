@@ -1,0 +1,23 @@
+# EXFOR #         : 21660.015  
+# EXFOR Ver.      : 20060605
+# TRANS #         : 2180
+# Author          : L.Koester et al.
+# Reference       : Z.Phys.A 292 No.1 (1979) 95
+# DOI             : 10.1007/BF01434635
+# Quantity        : 27Al(n,tot) cross section
+# REACTION        : 13-AL-27(N,TOT),,SIG
+# File ID         : n-Al27-tot-sig-excfun-mon-Koester_1979_21660.015
+#
+# npts            : 2           
+# xmin            :   1.2600E+00
+# xmax            :   5.1900E+00
+# ymin            :   1.4290E+00
+# ymax            :   1.4451E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+00  0.0000E+00  1.4451E+00  1.1000E-03
+  5.1900E+00  0.0000E+00  1.4290E+00  1.1000E-03
+#---------------------------------------------------

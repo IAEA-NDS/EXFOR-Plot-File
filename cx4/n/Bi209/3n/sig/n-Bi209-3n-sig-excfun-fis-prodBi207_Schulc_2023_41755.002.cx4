@@ -1,0 +1,22 @@
+# EXFOR #         : 41755.002  
+# EXFOR Ver.      : 20230118
+# TRANS #         : 4213
+# Author          : M.Schulc et al.
+# Reference       : Radiat.Phys.Chem. 206 (2023) 110804
+# DOI             : 10.1016/j.radphyschem.2023.110804
+# Quantity        : 209Bi(n,3n)207Bi cross section
+# REACTION        : 83-BI-209(N,3N)83-BI-207,,SIG,,FIS
+# File ID         : n-Bi209-3n-sig-excfun-fis-prodBi207_Schulc_2023_41755.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.4300E-05
+# ymax            :   1.4300E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.4300E-05  9.7240E-07
+#---------------------------------------------------

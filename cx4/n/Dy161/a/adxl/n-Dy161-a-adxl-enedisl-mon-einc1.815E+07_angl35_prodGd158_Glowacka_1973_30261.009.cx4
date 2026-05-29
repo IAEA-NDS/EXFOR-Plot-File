@@ -1,0 +1,27 @@
+# EXFOR #         : 30261.009  
+# EXFOR Ver.      : 20191128
+# TRANS #         : 3195
+# Author          : L.Glowacka et al.
+# Reference       : Progress report INR-1464 page 1, 1973
+# DOI             : N/A
+# Quantity        : 161Dy(n,a)158Gd partial angular differential cross section
+# REACTION        : 66-DY-161(N,A)64-GD-158,PAR,DA
+# File ID         : n-Dy161-a-adxl-enedisl-mon-einc1.815E+07_angl35_prodGd158_Glowacka_1973_30261.009
+#
+# Einc (eV)       :   1.8150E+07
+# dEinc (eV)      :   6.0000E+04
+# theta,lab (deg) :   35.0000000
+# dtheta,lab (deg):   20.0000000
+#
+# npts            : 1           
+# xmin            :   2.2650E+07
+# xmax            :   2.2650E+07
+# ymin            :   5.9000E-04
+# ymax            :   5.9000E-04
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.2650E+07  3.4500E+06  5.9000E-04  1.1000E-04
+#---------------------------------------------------

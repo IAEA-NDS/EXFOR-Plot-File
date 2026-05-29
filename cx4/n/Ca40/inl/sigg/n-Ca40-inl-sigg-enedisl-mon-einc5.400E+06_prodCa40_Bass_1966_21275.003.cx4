@@ -1,0 +1,27 @@
+# EXFOR #         : 21275.003  
+# EXFOR Ver.      : 19801024
+# TRANS #         : 0000
+# Author          : R.Bass et al.
+# Reference       : Progress report EANDC(E)-66U page 64, 1966
+# DOI             : N/A
+# Quantity        : 40Ca(n,inl)40Ca partial gamma production cross section
+# REACTION        : 20-CA-40(N,INL)20-CA-40,PAR,SIG,G
+# File ID         : n-Ca40-inl-sigg-enedisl-mon-einc5.400E+06_prodCa40_Bass_1966_21275.003
+#
+# Einc (eV)       :   5.4000E+06
+# dEinc (eV)      :   1.5000E+05
+#
+# npts            : 3           
+# xmin            :   3.3500E+06
+# xmax            :   3.9000E+06
+# ymin            :   6.1000E-02
+# ymax            :   1.6790E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3500E+06  0.0000E+00  6.1000E-02  1.2200E-02
+  3.7300E+06  0.0000E+00  1.6040E-01  3.2080E-02
+  3.9000E+06  0.0000E+00  1.6790E-01  3.3580E-02
+#---------------------------------------------------

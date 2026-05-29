@@ -1,0 +1,22 @@
+# EXFOR #         : 11450.038  
+# EXFOR Ver.      : 20021212
+# TRANS #         : 0000
+# Author          : D.J.Hughes et al.
+# Reference       : Phys.Rev. 75 (1949) 1781
+# DOI             : 10.1103/PhysRev.75.1781
+# Quantity        : 204Hg(n,g)205Hg cross section
+# REACTION        : 80-HG-204(N,G)80-HG-205,,SIG,,FIS
+# File ID         : n-Hg204-g-sig-excfun-fis-prodHg205_Hughes_1949_11450.038
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   8.8000E-02
+# ymax            :   8.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  8.8000E-02  0.0000E+00
+#---------------------------------------------------

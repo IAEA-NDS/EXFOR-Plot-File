@@ -1,0 +1,24 @@
+# EXFOR #         : 22889.008  
+# EXFOR Ver.      : 20051115
+# TRANS #         : 2175
+# Author          : P.Reimer et al.
+# Reference       : Phys.Rev.C 71 (2005) 044617
+# DOI             : 10.1103/PhysRevC.71.044617
+# Quantity        : 96Mo(n,x)95mNb independent production cross section
+# REACTION        : 42-MO-96(N,X)41-NB-95-M,,SIG
+# File ID         : n-Mo96-x-sig-excfun-mon-prodNb95m_Reimer_2005_22889.008
+#
+# npts            : 3           
+# xmin            :   1.6200E+07
+# xmax            :   2.0600E+07
+# ymin            :   3.3000E-03
+# ymax            :   1.4200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6200E+07  3.0000E+05  3.3000E-03  4.0000E-04
+  1.9300E+07  1.0000E+05  1.2000E-02  1.0000E-03
+  2.0600E+07  1.0000E+05  1.4200E-02  2.1000E-03
+#---------------------------------------------------

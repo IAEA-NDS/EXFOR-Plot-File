@@ -1,0 +1,22 @@
+# EXFOR #         : 21515.007  
+# EXFOR Ver.      : 20230207
+# TRANS #         : 2313
+# Author          : D.Szteinsznaider et al.
+# Reference       : Proceedings of 1st UN Conf.Peaceful Uses Atomic Energy, Geneva 1955 4 page 245
+# DOI             : N/A
+# Quantity        : 235U(n,f) cross section
+# REACTION        : 92-U-235(N,F),,SIG,,AV
+# File ID         : n-U235-f-sig-excfun-mon-Szteinsznaider_1955_21515.007
+#
+# npts            : 1           
+# xmin            :   8.5000E+05
+# xmax            :   8.5000E+05
+# ymin            :   1.1500E+00
+# ymax            :   1.1500E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.5000E+05  1.5000E+05  1.1500E+00  1.5000E-01
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 10145.012  
+# EXFOR Ver.      : 20001211
+# TRANS #         : 0000
+# Author          : W.D.Lu et al.
+# Reference       : Phys.Rev.C 1 (1970) 358
+# DOI             : 10.1103/PhysRevC.1.358
+# Quantity        : 105Pd(n,p)105Rh cross section
+# REACTION        : 46-PD-105(N,P)45-RH-105,,SIG
+# File ID         : n-Pd105-p-sig-excfun-mon-prodRh105_Lu_1970_10145.012
+#
+# npts            : 1           
+# xmin            :   1.4400E+07
+# xmax            :   1.4400E+07
+# ymin            :   3.7600E-02
+# ymax            :   3.7600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4400E+07  3.0000E+05  3.7600E-02  2.0000E-03
+#---------------------------------------------------

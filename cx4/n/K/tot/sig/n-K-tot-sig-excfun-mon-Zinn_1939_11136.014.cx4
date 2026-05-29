@@ -1,0 +1,23 @@
+# EXFOR #         : 11136.014  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : W.H.Zinn et al.
+# Reference       : Phys.Rev. 56 (1939) 260
+# DOI             : 10.1103/PhysRev.56.260
+# Quantity        : natK(n,tot) cross section
+# REACTION        : 19-K-0(N,TOT),,SIG
+# File ID         : n-K-tot-sig-excfun-mon-Zinn_1939_11136.014
+#
+# npts            : 2           
+# xmin            :   2.4600E+06
+# xmax            :   2.8800E+06
+# ymin            :   3.1300E+00
+# ymax            :   3.4400E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4600E+06  0.0000E+00  3.4400E+00  1.8000E-01
+  2.8800E+06  4.0000E+04  3.1300E+00  1.5000E-01
+#---------------------------------------------------

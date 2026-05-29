@@ -1,0 +1,30 @@
+# EXFOR #         : 11489.007  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : J.W.Boring et al.
+# Reference       : Phys.Rev. 124 (1961) 1531
+# DOI             : 10.1103/PhysRev.124.1531
+# Quantity        : 56Fe(n,inl)56Fe partial gamma angular differential cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,DA,G
+# File ID         : n-Fe56-inl-adxgl-angdisl-mon-einc2.900E+06_eoutl8.500E+05_prodFe56_Boring_1961_11489.007
+#
+# Einc (eV)       :   2.9000E+06
+# dEinc (eV)      :   1.7000E+05
+# Eout,lab (eV)   :   8.5000E+05
+#
+# npts            : 5           
+# xmin            :    0.0000000
+# xmax            :   77.5257900
+# ymin            :   8.4000E-02
+# ymax            :   1.2900E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000  18.0000000  1.2900E-01  1.4000E-02
+  19.9987600  18.0000000  1.2300E-01  1.3000E-02
+  36.0016500  18.0000000  1.1400E-01  1.2000E-02
+  52.4827600  18.0000000  1.0800E-01  1.1000E-02
+  77.5257900  18.0000000  8.4000E-02  8.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : 10487.009  
+# EXFOR Ver.      : 20040114
+# TRANS #         : 0000
+# Author          : F.G.Perey et al.
+# Reference       : Report ORNL-4523, 1970
+# DOI             : N/A
+# Quantity        : 60Ni(n,inl)60Ni partial angular differential cross section
+# REACTION        : 28-NI-60(N,INL)28-NI-60,PAR,DA
+# File ID         : n-Ni60-inl-adxc-angdisc-mon-einc8.040E+06_elvl4.040E+06_prodNi60_Perey_1970_10487.009
+#
+# Einc (eV)       :   8.0400E+06
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   4.0395E+06
+# dElvl (eV)      :   1.5150E+05
+#
+# npts            : 3           
+# xmin            :   71.2900000
+# xmax            :   86.3700000
+# ymin            :   7.9200E-03
+# ymax            :   1.0110E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  71.2900000   0.0000000  1.0110E-02  0.0000E+00
+  78.8400000   0.0000000  7.9200E-03  0.0000E+00
+  86.3700000   0.0000000  8.1200E-03  0.0000E+00
+#---------------------------------------------------

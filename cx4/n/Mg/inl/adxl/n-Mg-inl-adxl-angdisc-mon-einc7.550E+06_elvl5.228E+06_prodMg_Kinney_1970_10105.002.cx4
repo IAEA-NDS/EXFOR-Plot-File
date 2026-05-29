@@ -1,0 +1,28 @@
+# EXFOR #         : 10105.002  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4550, 1970
+# DOI             : N/A
+# Quantity        : natMg(n,inl)natMg partial angular differential cross section
+# REACTION        : 12-MG-0(N,INL)12-MG-0,PAR,DA
+# File ID         : n-Mg-inl-adxl-angdisc-mon-einc7.550E+06_elvl5.228E+06_prodMg_Kinney_1970_10105.002
+#
+# Einc (eV)       :   7.5500E+06
+# dEinc (eV)      :   4.0000E+04
+# Elvl (eV)       :   5.2280E+06
+#
+# npts            : 3           
+# xmin            :  123.4000000
+# xmax            :  137.7000000
+# ymin            :   3.8900E-03
+# ymax            :   4.5500E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 123.4000000   0.0000000  4.5500E-03  0.0000E+00
+ 130.5800000   0.0000000  4.0900E-03  0.0000E+00
+ 137.7000000   0.0000000  3.8900E-03  0.0000E+00
+#---------------------------------------------------

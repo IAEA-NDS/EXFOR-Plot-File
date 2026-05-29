@@ -1,0 +1,26 @@
+# EXFOR #         : 22393.009  
+# EXFOR Ver.      : 20090218
+# TRANS #         : 2208
+# Author          : Y.Kasugai et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 635
+# DOI             : N/A
+# Quantity        : 141Pr(n,p)141Ce cross section
+# REACTION        : 59-PR-141(N,P)58-CE-141,,SIG
+# File ID         : n-Pr141-p-sig-excfun-mon-prodCe141_Kasugai_1997_22393.009
+#
+# npts            : 5           
+# xmin            :   1.3380E+07
+# xmax            :   1.4950E+07
+# ymin            :   9.0000E-03
+# ymax            :   1.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3380E+07  0.0000E+00  9.0000E-03  7.0000E-04
+  1.3700E+07  0.0000E+00  9.7000E-03  8.0000E-04
+  1.4360E+07  0.0000E+00  9.9000E-03  1.0000E-03
+  1.4660E+07  0.0000E+00  1.1500E-02  9.0000E-04
+  1.4950E+07  0.0000E+00  1.2000E-02  8.0000E-04
+#---------------------------------------------------

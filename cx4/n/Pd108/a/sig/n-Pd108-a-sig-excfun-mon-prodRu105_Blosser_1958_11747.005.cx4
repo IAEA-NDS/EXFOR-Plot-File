@@ -1,0 +1,22 @@
+# EXFOR #         : 11747.005  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : H.G.Blosser et al.
+# Reference       : Phys.Rev. 110 (1958) 531
+# DOI             : 10.1103/PhysRev.110.531
+# Quantity        : 108Pd(n,a)105Ru cross section
+# REACTION        : 46-PD-108(N,A)44-RU-105,,SIG
+# File ID         : n-Pd108-a-sig-excfun-mon-prodRu105_Blosser_1958_11747.005
+#
+# npts            : 1           
+# xmin            :   1.4050E+07
+# xmax            :   1.4050E+07
+# ymin            :   2.3000E-03
+# ymax            :   2.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4050E+07  5.5000E+05  2.3000E-03  4.0000E-04
+#---------------------------------------------------

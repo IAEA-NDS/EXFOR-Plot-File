@@ -1,0 +1,25 @@
+# EXFOR #         : 31846.004  
+# EXFOR Ver.      : 20220117
+# TRANS #         : 3207
+# Author          : M.S.Uddin
+# Reference       : Radiochim.Acta 110 (2022) 1
+# DOI             : N/A
+# Quantity        : 90Zr(n,2n)89gZr cumulative production cross section
+# REACTION        : 40-ZR-90(N,2N)40-ZR-89-G,M+,SIG
+# File ID         : n-Zr90-x-sigc-excfun-mon-prodZr89g_Uddin_2022_31846.004
+#
+# npts            : 4           
+# xmin            :   1.4000E+07
+# xmax            :   1.4710E+07
+# ymin            :   6.1200E-01
+# ymax            :   8.8100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4710E+07  1.5000E+05  8.8100E-01  7.2000E-02
+  1.4510E+07  1.6000E+05  7.8000E-01  5.5000E-02
+  1.4310E+07  1.7000E+05  7.4300E-01  5.2000E-02
+  1.4000E+07  1.8000E+05  6.1200E-01  4.5000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 12021.002  
+# EXFOR Ver.      : 19830802
+# TRANS #         : 1336
+# Author          : D.C.Stupegia
+# Reference       : J.Nucl.Energy A 12 (1960) 16
+# DOI             : 10.1016/0368-3265(60)90003-7
+# Quantity        : 137Cs(n,g)138Cs cross section
+# REACTION        : 55-CS-137(N,G)55-CS-138,,SIG,,MXW
+# File ID         : n-Cs137-g-sig-excfun-mxw-prodCs138_Stupegia_1960_12021.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.1000E-01
+# ymax            :   1.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.1000E-01  3.3000E-02
+#---------------------------------------------------

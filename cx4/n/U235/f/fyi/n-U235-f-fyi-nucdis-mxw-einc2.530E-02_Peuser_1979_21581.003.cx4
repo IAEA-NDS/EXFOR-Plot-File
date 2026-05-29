@@ -1,0 +1,26 @@
+# EXFOR #         : 21581.003  
+# EXFOR Ver.      : 20201211
+# TRANS #         : 2296
+# Author          : P.Peuser et al.
+# Reference       : Z.Phys.A 289 (1979) 219
+# DOI             : 10.1007/BF01435940
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY,,MXW
+# File ID         : n-U235-f-fyi-nucdis-mxw-einc2.530E-02_Peuser_1979_21581.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 3           
+# xmin            : 37097.9     
+# xmax            : 37099.9     
+# ymin            :   2.5000E-06
+# ymax            :   4.6000E-04
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     37097.9  4.6000E-04  1.5000E-04
+     37098.9  2.2000E-05  9.0000E-06
+     37099.9  2.5000E-06  1.3000E-06
+#---------------------------------------------------

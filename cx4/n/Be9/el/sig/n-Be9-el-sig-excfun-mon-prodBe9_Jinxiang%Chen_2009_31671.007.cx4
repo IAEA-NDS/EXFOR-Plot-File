@@ -1,0 +1,23 @@
+# EXFOR #         : 31671.007  
+# EXFOR Ver.      : 20090421
+# TRANS #         : 3136
+# Author          : Jinxiang Chen et al.
+# Reference       : Ann.Nucl.Energy 36 (2009) 668
+# DOI             : 10.1016/j.anucene.2008.12.027
+# Quantity        : 9Be(n,el)9Be cross section
+# REACTION        : 4-BE-9(N,EL)4-BE-9,,SIG
+# File ID         : n-Be9-el-sig-excfun-mon-prodBe9_Jinxiang%Chen_2009_31671.007
+#
+# npts            : 2           
+# xmin            :   5.9000E+06
+# xmax            :   6.4000E+06
+# ymin            :   1.1350E+00
+# ymax            :   1.1860E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+06  0.0000E+00  1.1860E+00  1.1267E-01
+  6.4000E+06  0.0000E+00  1.1350E+00  1.2939E-01
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 22140.019  
+# EXFOR Ver.      : 20160113
+# TRANS #         : 2246
+# Author          : O.Horibe et al.
+# Reference       : Proceedings of 50 Years Nucl.Fission Conf., Washington D.C., 1989 2 page 923
+# DOI             : N/A
+# Quantity        : 59Co(n,p)59Fe cross section
+# REACTION        : 27-CO-59(N,P)26-FE-59,,SIG,,FIS
+# File ID         : n-Co59-p-sig-excfun-fis-prodFe59_Horibe_1989_22140.019
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.3900E-03
+# ymax            :   1.3900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.3900E-03  1.0000E-04
+#---------------------------------------------------

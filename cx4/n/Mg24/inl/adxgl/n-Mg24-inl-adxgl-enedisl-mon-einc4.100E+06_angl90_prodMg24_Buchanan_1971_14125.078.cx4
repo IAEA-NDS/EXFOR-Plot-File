@@ -1,0 +1,26 @@
+# EXFOR #         : 14125.078  
+# EXFOR Ver.      : 20140527
+# TRANS #         : 1401
+# Author          : P.S.Buchanan et al.
+# Reference       : Progress report ORO-2791-32, 1971
+# DOI             : N/A
+# Quantity        : 24Mg(n,inl)24Mg partial gamma angular differential cross section
+# REACTION        : 12-MG-24(N,INL)12-MG-24,PAR,DA,G
+# File ID         : n-Mg24-inl-adxgl-enedisl-mon-einc4.100E+06_angl90_prodMg24_Buchanan_1971_14125.078
+#
+# Einc (eV)       :   4.1000E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   1.3700E+06
+# xmax            :   1.3700E+06
+# ymin            :   2.8000E-02
+# ymax            :   2.8000E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.3700E+06  0.0000E+00  2.8000E-02  5.6000E-03
+#---------------------------------------------------

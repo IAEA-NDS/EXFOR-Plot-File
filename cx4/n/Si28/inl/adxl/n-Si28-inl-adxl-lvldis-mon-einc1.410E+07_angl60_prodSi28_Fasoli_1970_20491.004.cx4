@@ -1,0 +1,31 @@
+# EXFOR #         : 20491.004  
+# EXFOR Ver.      : 19840120
+# TRANS #         : 0000
+# Author          : U.Fasoli et al.
+# Reference       : Report INFN/BE-70/10, 1970
+# DOI             : N/A
+# Quantity        : 28Si(n,inl)28Si partial angular differential cross section
+# REACTION        : 14-SI-28(N,INL)14-SI-28,PAR,DA
+# File ID         : n-Si28-inl-adxl-lvldis-mon-einc1.410E+07_angl60_prodSi28_Fasoli_1970_20491.004
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.1000E+06
+# theta,lab (deg) :   60.0000000
+#
+# npts            : 6           
+# xmin            :   1.7700E+06
+# xmax            :   7.9300E+06
+# ymin            :   3.0000E-04
+# ymax            :   1.1600E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7700E+06  0.0000E+00  1.1600E-02  3.0000E-04
+  4.7900E+06  1.8000E+05  2.3000E-03  1.0000E-04
+  6.2700E+06  0.0000E+00  3.0000E-04  1.0000E-04
+  6.6900E+06  0.0000E+00  9.0000E-04  1.0000E-04
+  7.1450E+06  2.5500E+05  3.3000E-03  2.0000E-04
+  7.9300E+06  0.0000E+00  1.3000E-03  1.0000E-04
+#---------------------------------------------------

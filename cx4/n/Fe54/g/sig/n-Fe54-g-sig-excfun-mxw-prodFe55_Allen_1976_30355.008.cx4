@@ -1,0 +1,22 @@
+# EXFOR #         : 30355.008  
+# EXFOR Ver.      : 20090115
+# TRANS #         : 3134
+# Author          : B.J.Allen et al.
+# Reference       : Nucl.Phys.A 269 (1976) 408
+# DOI             : 10.1016/0375-9474(76)90690-4
+# Quantity        : 54Fe(n,g)55Fe cross section
+# REACTION        : 26-FE-54(N,G)26-FE-55,,SIG,,MXW
+# File ID         : n-Fe54-g-sig-excfun-mxw-prodFe55_Allen_1976_30355.008
+#
+# npts            : 1           
+# xmin            :   3.0000E+04
+# xmax            :   3.0000E+04
+# ymin            :   3.3600E-02
+# ymax            :   3.3600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  0.0000E+00  3.3600E-02  2.7000E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 31542.003  
+# EXFOR Ver.      : 20161202
+# TRANS #         : 3176
+# Author          : Vuong Huu Tan et al.
+# Reference       : Report INDC(VN)-011, 2004
+# DOI             : N/A
+# Quantity        : 158Gd(n,g)159Gd cross section
+# REACTION        : 64-GD-158(N,G)64-GD-159,,SIG
+# File ID         : n-Gd158-g-sig-excfun-mon-prodGd159_Vuong%Huu%Tan_2004_31542.003
+#
+# npts            : 2           
+# xmin            :   5.5000E+04
+# xmax            :   1.4400E+05
+# ymin            :   1.1485E-01
+# ymax            :   1.9942E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+04  4.0000E+03  1.9942E-01  1.1500E-02
+  1.4400E+05  1.1000E+04  1.1485E-01  5.2600E-03
+#---------------------------------------------------

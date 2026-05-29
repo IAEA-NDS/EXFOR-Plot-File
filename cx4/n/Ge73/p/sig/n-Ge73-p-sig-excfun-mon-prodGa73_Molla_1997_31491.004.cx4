@@ -1,0 +1,26 @@
+# EXFOR #         : 31491.004  
+# EXFOR Ver.      : 20100923
+# TRANS #         : 3146
+# Author          : N.I.Molla et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 517
+# DOI             : N/A
+# Quantity        : 73Ge(n,p)73Ga cross section
+# REACTION        : 32-GE-73(N,P)31-GA-73,,SIG
+# File ID         : n-Ge73-p-sig-excfun-mon-prodGa73_Molla_1997_31491.004
+#
+# npts            : 5           
+# xmin            :   1.3820E+07
+# xmax            :   1.4710E+07
+# ymin            :   2.0450E-02
+# ymax            :   3.0760E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3820E+07  0.0000E+00  2.0450E-02  1.9700E-03
+  1.4100E+07  0.0000E+00  2.1350E-02  2.0300E-03
+  1.4310E+07  0.0000E+00  3.0760E-02  2.9200E-03
+  1.4570E+07  0.0000E+00  2.8100E-02  2.7400E-03
+  1.4710E+07  0.0000E+00  2.6610E-02  2.5500E-03
+#---------------------------------------------------

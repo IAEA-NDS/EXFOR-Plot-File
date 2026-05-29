@@ -1,0 +1,22 @@
+# EXFOR #         : 11071.003  
+# EXFOR Ver.      : 20100518
+# TRANS #         : 1364
+# Author          : G.M.Frye Jr
+# Reference       : Phys.Rev. 93 (1954) 1086
+# DOI             : 10.1103/PhysRev.93.1086
+# Quantity        : 6Li(n,p)6He cross section
+# REACTION        : 3-LI-6(N,P)2-HE-6,,SIG
+# File ID         : n-Li6-p-sig-excfun-mon-prodHe6_Frye%Jr_1954_11071.003
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   6.0000E-03
+# ymax            :   6.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  5.0000E+05  6.0000E-03  2.0000E-03
+#---------------------------------------------------

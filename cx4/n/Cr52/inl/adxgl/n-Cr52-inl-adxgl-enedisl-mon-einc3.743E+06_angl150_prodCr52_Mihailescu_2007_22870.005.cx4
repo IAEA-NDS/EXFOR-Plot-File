@@ -1,0 +1,30 @@
+# EXFOR #         : 22870.005  
+# EXFOR Ver.      : 20160106
+# TRANS #         : 2247
+# Author          : L.C.Mihailescu et al.
+# Reference       : Nucl.Phys.A 786 (2007) 1
+# DOI             : N/A
+# Quantity        : 52Cr(n,inl)52Cr partial gamma angular differential cross section
+# REACTION        : 24-CR-52(N,INL)24-CR-52,PAR,DA,G
+# File ID         : n-Cr52-inl-adxgl-enedisl-mon-einc3.743E+06_angl150_prodCr52_Mihailescu_2007_22870.005
+#
+# Einc (eV)       :   3.7427E+06
+# dEinc (eV)      :   4.0450E+03
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 5           
+# xmin            :   9.3554E+05
+# xmax            :   1.7275E+06
+# ymin            :   4.4290E-03
+# ymax            :   7.2391E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.3554E+05  0.0000E+00  1.1385E-02  1.1710E-03
+  1.3336E+06  0.0000E+00  9.8670E-03  1.0420E-03
+  1.4341E+06  0.0000E+00  7.2391E-02  3.1280E-03
+  1.5307E+06  0.0000E+00  7.9800E-03  9.7300E-04
+  1.7275E+06  0.0000E+00  4.4290E-03  9.0500E-04
+#---------------------------------------------------

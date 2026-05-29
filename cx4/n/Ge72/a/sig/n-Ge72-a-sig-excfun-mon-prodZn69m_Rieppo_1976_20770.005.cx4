@@ -1,0 +1,22 @@
+# EXFOR #         : 20770.005  
+# EXFOR Ver.      : 20090108
+# TRANS #         : 2207
+# Author          : R.Rieppo et al.
+# Reference       : J.Inorg.Nucl.Chem. 38 No.11 (1976) 1927
+# DOI             : 10.1016/0022-1902(76)80439-3
+# Quantity        : 72Ge(n,a)69mZn cross section
+# REACTION        : 32-GE-72(N,A)30-ZN-69-M,,SIG
+# File ID         : n-Ge72-a-sig-excfun-mon-prodZn69m_Rieppo_1976_20770.005
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   1.1000E-02
+# ymax            :   1.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  3.0000E+05  1.1000E-02  1.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 10469.017  
+# EXFOR Ver.      : 19820219
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4907, 1974
+# DOI             : N/A
+# Quantity        : 54Fe(n,inl)54Fe partial cross section
+# REACTION        : 26-FE-54(N,INL)26-FE-54,PAR,SIG
+# File ID         : n-Fe54-inl-sig-excfun-mon-elvl1.409E+06_prodFe54_Kinney_1974_10469.017
+#
+# Elvl (eV)       :   1.4090E+06
+#
+# npts            : 3           
+# xmin            :   5.5000E+06
+# xmax            :   8.5000E+06
+# ymin            :   5.9130E-02
+# ymax            :   1.7830E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+06  9.0000E+04  1.7830E-01  1.4264E-02
+  7.0000E+06  6.0000E+04  9.1000E-02  7.4620E-03
+  8.5000E+06  5.0000E+04  5.9130E-02  5.3217E-03
+#---------------------------------------------------

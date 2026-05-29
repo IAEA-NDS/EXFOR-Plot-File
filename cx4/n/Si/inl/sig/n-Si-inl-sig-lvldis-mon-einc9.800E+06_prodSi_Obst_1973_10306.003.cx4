@@ -1,0 +1,25 @@
+# EXFOR #         : 10306.003  
+# EXFOR Ver.      : 20020823
+# TRANS #         : 0000
+# Author          : A.W.Obst et al.
+# Reference       : Phys.Rev.C 7 (1973) 1076
+# DOI             : 10.1103/PhysRevC.7.1076
+# Quantity        : natSi(n,inl)natSi partial cross section
+# REACTION        : 14-SI-0(N,INL)14-SI-0,PAR,SIG
+# File ID         : n-Si-inl-sig-lvldis-mon-einc9.800E+06_prodSi_Obst_1973_10306.003
+#
+# Einc (eV)       :   9.8000E+06
+# dEinc (eV)      :   6.0000E+04
+#
+# npts            : 1           
+# xmin            :   2.0000E+06
+# xmax            :   2.0000E+06
+# ymin            :   2.1500E-01
+# ymax            :   2.1500E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  2.1500E-01  3.5000E-02
+#---------------------------------------------------

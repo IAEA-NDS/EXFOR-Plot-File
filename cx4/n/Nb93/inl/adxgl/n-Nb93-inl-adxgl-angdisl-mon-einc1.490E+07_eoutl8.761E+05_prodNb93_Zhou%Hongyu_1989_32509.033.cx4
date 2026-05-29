@@ -1,0 +1,32 @@
+# EXFOR #         : 32509.033  
+# EXFOR Ver.      : 20100323
+# TRANS #         : 3147
+# Author          : Zhou Hongyu et al.
+# Reference       : High En.Nucl.Phy.Ch. 13 (1989) 173
+# DOI             : N/A
+# Quantity        : 93Nb(n,inl)93Nb partial gamma angular differential cross section
+# REACTION        : 41-NB-93(N,INL)41-NB-93,PAR,DA,G
+# File ID         : n-Nb93-inl-adxgl-angdisl-mon-einc1.490E+07_eoutl8.761E+05_prodNb93_Zhou%Hongyu_1989_32509.033
+#
+# Einc (eV)       :   1.4900E+07
+# dEinc (eV)      :   5.0000E+05
+# Eout,lab (eV)   :   8.7614E+05
+#
+# npts            : 7           
+# xmin            :   30.0000000
+# xmax            :  140.0000000
+# ymin            :   6.4900E-04
+# ymax            :   1.0270E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  7.4100E-04  1.1800E-04
+  40.0000000   0.0000000  7.5300E-04  1.2700E-04
+  55.0000000   0.0000000  1.0270E-03  1.5300E-04
+  90.0000000   0.0000000  8.0800E-04  1.2900E-04
+ 110.0000000   0.0000000  7.1900E-04  1.0900E-04
+ 125.0000000   0.0000000  7.0900E-04  2.1200E-04
+ 140.0000000   0.0000000  6.4900E-04  1.6200E-04
+#---------------------------------------------------

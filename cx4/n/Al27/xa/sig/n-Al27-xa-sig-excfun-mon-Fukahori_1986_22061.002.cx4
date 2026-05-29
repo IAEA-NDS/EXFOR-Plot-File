@@ -1,0 +1,22 @@
+# EXFOR #         : 22061.002  
+# EXFOR Ver.      : 19871211
+# TRANS #         : 0000
+# Author          : T.Fukahori et al.
+# Reference       : J.Nucl.Sci.Technol. 23 (1986) 91
+# DOI             : 10.1080/18811248.1986.9734954
+# Quantity        : 27Al(n,a+x) cross section
+# REACTION        : 13-AL-27(N,X)2-HE-4,,SIG
+# File ID         : n-Al27-xa-sig-excfun-mon-Fukahori_1986_22061.002
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.4100E-01
+# ymax            :   1.4100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  5.0000E+05  1.4100E-01  8.0000E-03
+#---------------------------------------------------

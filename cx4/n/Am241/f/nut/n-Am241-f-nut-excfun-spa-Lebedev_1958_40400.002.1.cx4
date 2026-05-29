@@ -1,0 +1,22 @@
+# EXFOR #         : 40400.002.1
+# EXFOR Ver.      : 20160220
+# TRANS #         : 4175
+# Author          : V.I.Lebedev et al.
+# Reference       : Sov.At.Energy 5 (1958) 1019
+# DOI             : 10.1007/BF01587539
+# Quantity        : 241Am(n,f) total fission neutron multiplicity
+# REACTION        : 95-AM-241(N,F),,NU,,SPA
+# File ID         : n-Am241-f-nut-excfun-spa-Lebedev_1958_40400.002.1
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.1400E+00
+# ymax            :   3.1400E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-t        dnu-t       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.1400E+00  5.0000E-02
+#---------------------------------------------------

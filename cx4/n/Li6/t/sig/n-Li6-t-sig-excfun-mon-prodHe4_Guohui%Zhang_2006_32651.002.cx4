@@ -1,0 +1,24 @@
+# EXFOR #         : 32651.002  
+# EXFOR Ver.      : 20090519
+# TRANS #         : 3138
+# Author          : Guohui Zhang et al.
+# Reference       : Nucl.Sci.Eng. 153 (2006) 41
+# DOI             : 10.13182/NSE153-41
+# Quantity        : 6Li(n,t)4He cross section
+# REACTION        : 3-LI-6(N,T)2-HE-4,,SIG
+# File ID         : n-Li6-t-sig-excfun-mon-prodHe4_Guohui%Zhang_2006_32651.002
+#
+# npts            : 3           
+# xmin            :   1.0500E+06
+# xmax            :   2.2500E+06
+# ymin            :   2.0310E-01
+# ymax            :   2.4060E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0500E+06  9.0000E+04  2.4060E-01  1.7800E-02
+  1.5400E+06  8.0000E+04  2.3340E-01  1.7300E-02
+  2.2500E+06  6.0000E+04  2.0310E-01  1.3800E-02
+#---------------------------------------------------

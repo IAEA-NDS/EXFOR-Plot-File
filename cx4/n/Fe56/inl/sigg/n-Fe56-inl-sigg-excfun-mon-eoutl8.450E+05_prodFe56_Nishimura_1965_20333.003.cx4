@@ -1,0 +1,28 @@
+# EXFOR #         : 20333.003  
+# EXFOR Ver.      : 20170430
+# TRANS #         : 2261
+# Author          : K.Nishimura et al.
+# Reference       : Nucl.Phys. 70 (1965) 421
+# DOI             : 10.1016/0029-5582(65)90538-9
+# Quantity        : 56Fe(n,inl)56Fe partial gamma production cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+# File ID         : n-Fe56-inl-sigg-excfun-mon-eoutl8.450E+05_prodFe56_Nishimura_1965_20333.003
+#
+# Eout,lab (eV)   :   8.4500E+05
+#
+# npts            : 5           
+# xmin            :   2.5320E+06
+# xmax            :   2.6340E+06
+# ymin            :   7.1400E-01
+# ymax            :   8.9900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5320E+06  1.2500E+04  8.6600E-01  7.5000E-02
+  2.5580E+06  1.2500E+04  8.9900E-01  7.7000E-02
+  2.5840E+06  1.2500E+04  8.2300E-01  7.1000E-02
+  2.6100E+06  1.2500E+04  7.1400E-01  6.2000E-02
+  2.6340E+06  1.2500E+04  7.3900E-01  6.4000E-02
+#---------------------------------------------------

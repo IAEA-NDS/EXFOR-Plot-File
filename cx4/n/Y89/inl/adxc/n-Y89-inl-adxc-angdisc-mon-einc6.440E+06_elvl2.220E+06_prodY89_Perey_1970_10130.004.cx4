@@ -1,0 +1,28 @@
+# EXFOR #         : 10130.004  
+# EXFOR Ver.      : 20220320
+# TRANS #         : 1494
+# Author          : F.G.Perey et al.
+# Reference       : Report ORNL-4552, 1970
+# DOI             : N/A
+# Quantity        : 89Y(n,inl)89Y partial angular differential cross section
+# REACTION        : 39-Y-89(N,INL)39-Y-89,PAR,DA
+# File ID         : n-Y89-inl-adxc-angdisc-mon-einc6.440E+06_elvl2.220E+06_prodY89_Perey_1970_10130.004
+#
+# Einc (eV)       :   6.4400E+06
+# dEinc (eV)      :   1.3000E+05
+# Elvl (eV)       :   2.2200E+06
+#
+# npts            : 3           
+# xmin            :  120.2000000
+# xmax            :  135.0800000
+# ymin            :   2.0200E-03
+# ymax            :   2.7900E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 120.2000000   0.0000000  2.7900E-03  0.0000E+00
+ 127.6400000   0.0000000  2.4000E-03  0.0000E+00
+ 135.0800000   0.0000000  2.0200E-03  0.0000E+00
+#---------------------------------------------------

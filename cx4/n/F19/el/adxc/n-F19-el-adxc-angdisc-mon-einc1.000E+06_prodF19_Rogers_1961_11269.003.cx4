@@ -1,0 +1,28 @@
+# EXFOR #         : 11269.003  
+# EXFOR Ver.      : 19860417
+# TRANS #         : 0000
+# Author          : W.L.Rogers et al.
+# Reference       : Bull.Am.Phys.Soc. 6 (1961) 61(TA7)
+# DOI             : N/A
+# Quantity        : 19F(n,el)19F angular differential cross section
+# REACTION        : 9-F-19(N,EL)9-F-19,,DA
+# File ID         : n-F19-el-adxc-angdisc-mon-einc1.000E+06_prodF19_Rogers_1961_11269.003
+#
+# Einc (eV)       :   1.0000E+06
+# dEinc (eV)      :   3.0000E+04
+#
+# npts            : 4           
+# xmin            :   31.0186000
+# xmax            :  121.9379000
+# ymin            :   1.2000E-01
+# ymax            :   5.3000E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  31.0186000   0.0000000  5.3000E-01  3.5000E-02
+  62.0305900   0.0000000  3.6000E-01  3.5000E-02
+  92.9807200   0.0000000  1.9000E-01  3.5000E-02
+ 121.9379000   0.0000000  1.2000E-01  3.0000E-02
+#---------------------------------------------------

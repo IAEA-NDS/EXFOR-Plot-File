@@ -1,0 +1,23 @@
+# EXFOR #         : 20033.009  
+# EXFOR Ver.      : 20200920
+# TRANS #         : 2291
+# Author          : R.Rieder et al.
+# Reference       : Acta Physica Austr. 23 (1966) 42
+# DOI             : N/A
+# Quantity        : 90Zr(n,2n)89gZr cumulative production cross section
+# REACTION        : 40-ZR-90(N,2N)40-ZR-89-G,M+,SIG
+# File ID         : n-Zr90-x-sigc-excfun-mon-prodZr89g_Rieder_1966_20033.009
+#
+# npts            : 2           
+# xmin            :   1.4050E+07
+# xmax            :   1.4700E+07
+# ymin            :   5.9500E-01
+# ymax            :   7.3700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4050E+07  5.0000E+04  5.9500E-01  2.9750E-02
+  1.4700E+07  1.0000E+05  7.3700E-01  3.6850E-02
+#---------------------------------------------------

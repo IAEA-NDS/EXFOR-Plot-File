@@ -1,0 +1,27 @@
+# EXFOR #         : 20516.002  
+# EXFOR Ver.      : 20120710
+# TRANS #         : 2232
+# Author          : J.F.Loude et al.
+# Reference       : Helv.Phys.Acta 44 (1971) 33
+# DOI             : N/A
+# Quantity        : 12C(n,a)9Be partial angular differential cross section
+# REACTION        : 6-C-12(N,A)4-BE-9,PAR,DA
+# File ID         : n-C12-a-adxc-angdisc-mon-einc1.400E+07_elvl0.000E+00_prodBe9_Loude_1971_20516.002
+#
+# Einc (eV)       :   1.4000E+07
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :   11.8020700
+# xmax            :   25.3003400
+# ymin            :   5.7000E-03
+# ymax            :   6.1000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  25.3003400   0.0000000  6.1000E-03  4.8800E-04
+  11.8020700   0.0000000  5.7000E-03  2.6790E-04
+#---------------------------------------------------

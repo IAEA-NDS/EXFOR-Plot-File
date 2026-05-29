@@ -1,0 +1,25 @@
+# EXFOR #         : 23061.003  
+# EXFOR Ver.      : 20090622
+# TRANS #         : 2214
+# Author          : C.Wagemans et al.
+# Reference       : Report (proceedings) AIP-1090 page 84, 2009
+# DOI             : N/A
+# Quantity        : 99Ru(n,a)96Mo partial cross section
+# REACTION        : 44-RU-99(N,A)42-MO-96,PAR,SIG,,MXW
+# File ID         : n-Ru99-a-sig-lvldis-mxw-einc2.530E-02_prodMo96_Wagemans_2009_23061.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   7.7800E+05
+# ymin            :   1.6000E-06
+# ymax            :   2.1000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.6000E-06  3.0000E-07
+  7.7800E+05  0.0000E+00  2.1000E-05  2.0000E-06
+#---------------------------------------------------

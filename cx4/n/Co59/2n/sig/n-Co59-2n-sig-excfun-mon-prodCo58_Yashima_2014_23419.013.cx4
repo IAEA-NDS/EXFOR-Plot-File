@@ -1,0 +1,22 @@
+# EXFOR #         : 23419.013  
+# EXFOR Ver.      : 20180830
+# TRANS #         : 2271
+# Author          : H.Yashima et al.
+# Reference       : Radiat.Prot.Dosim. 161 (2014) 139
+# DOI             : 10.1093/rpd/nct334
+# Quantity        : 59Co(n,2n)58Co cross section
+# REACTION        : 27-CO-59(N,2N)27-CO-58,,SIG
+# File ID         : n-Co59-2n-sig-excfun-mon-prodCo58_Yashima_2014_23419.013
+#
+# npts            : 1           
+# xmin            :   3.8600E+08
+# xmax            :   3.8600E+08
+# ymin            :   6.5000E-02
+# ymax            :   6.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8600E+08  1.0000E+06  6.5000E-02  2.1000E-02
+#---------------------------------------------------

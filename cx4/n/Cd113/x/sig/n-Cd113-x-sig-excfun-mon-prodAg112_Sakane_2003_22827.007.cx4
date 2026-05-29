@@ -1,0 +1,24 @@
+# EXFOR #         : 22827.007  
+# EXFOR Ver.      : 20040221
+# TRANS #         : 0000
+# Author          : H.Sakane et al.
+# Reference       : Ann.Nucl.Energy 30 (2003) 1847
+# DOI             : 10.1016/S0306-4549(03)00160-9
+# Quantity        : 113Cd(n,x)112Ag independent production cross section
+# REACTION        : 48-CD-113(N,X)47-AG-112,,SIG
+# File ID         : n-Cd113-x-sig-excfun-mon-prodAg112_Sakane_2003_22827.007
+#
+# npts            : 3           
+# xmin            :   1.4350E+07
+# xmax            :   1.4870E+07
+# ymin            :   3.0000E-04
+# ymax            :   9.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4870E+07  0.0000E+00  9.5000E-04  1.8050E-04
+  1.4640E+07  0.0000E+00  5.5000E-04  1.4850E-04
+  1.4350E+07  0.0000E+00  3.0000E-04  1.5600E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 21647.013.2
+# EXFOR Ver.      : 20210801
+# TRANS #         : 2303
+# Author          : H.Beer et al.
+# Reference       : Phys.Rev.C 21 (1980) 534
+# DOI             : 10.1103/PhysRevC.21.534
+# Quantity        : 138Ba(n,g)139Ba cross section
+# REACTION        : 56-BA-138(N,G)56-BA-139,,SIG,,SPA
+# File ID         : n-Ba138-g-sig-excfun-spa-prodBa139_Beer_1980_21647.013.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   4.6700E-03
+# ymax            :   4.6700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  4.6700E-03  2.1000E-04
+#---------------------------------------------------

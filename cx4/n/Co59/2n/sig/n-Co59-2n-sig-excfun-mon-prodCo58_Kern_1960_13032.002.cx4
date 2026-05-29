@@ -1,0 +1,23 @@
+# EXFOR #         : 13032.002  
+# EXFOR Ver.      : 19860624
+# TRANS #         : 0000
+# Author          : B.D.Kern et al.
+# Reference       : Progress report A-KTY-59/60 page 3, 1960
+# DOI             : N/A
+# Quantity        : 59Co(n,2n)58Co cross section
+# REACTION        : 27-CO-59(N,2N)27-CO-58,,SIG
+# File ID         : n-Co59-2n-sig-excfun-mon-prodCo58_Kern_1960_13032.002
+#
+# npts            : 2           
+# xmin            :   1.2620E+07
+# xmax            :   1.6750E+07
+# ymin            :   3.5000E-01
+# ymax            :   7.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2620E+07  0.0000E+00  3.5000E-01  0.0000E+00
+  1.6750E+07  0.0000E+00  7.0000E-01  0.0000E+00
+#---------------------------------------------------

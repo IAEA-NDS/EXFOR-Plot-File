@@ -1,0 +1,27 @@
+# EXFOR #         : 12765.002  
+# EXFOR Ver.      : 20181203
+# TRANS #         : 1445
+# Author          : C.A.Ciarcia et al.
+# Reference       : Nucl.Sci.Eng. 91 (1985) 428
+# DOI             : 10.13182/NSE85-A18359
+# Quantity        : 232Th(n,inl)232Th partial angular differential cross section
+# REACTION        : 90-TH-232(N,INL)90-TH-232,PAR,DA,,4PI
+# File ID         : n-Th232-inl-adxl-excfun-mon-angl125_elvl1.303E+06_prodTh232_Ciarcia_1985_12765.002
+#
+# theta,lab (deg) :  125.0000000
+# Elvl (eV)       :   1.3032E+06
+#
+# npts            : 3           
+# xmin            :   1.8000E+06
+# xmax            :   2.0000E+06
+# ymin            :   1.5136E-03
+# ymax            :   1.8032E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.8000E+06  7.5000E+03  1.8032E-03  2.8887E-04
+  1.9000E+06  7.5000E+03  1.6687E-03  2.6658E-04
+  2.0000E+06  7.5000E+03  1.5136E-03  2.4192E-04
+#---------------------------------------------------

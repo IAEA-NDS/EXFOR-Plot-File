@@ -1,0 +1,23 @@
+# EXFOR #         : 22012.004  
+# EXFOR Ver.      : 20211228
+# TRANS #         : 2306
+# Author          : W.Enz et al.
+# Reference       : Ann.Phys.(Berl.) 42 No.3 (1985) 283
+# DOI             : N/A
+# Quantity        : 27Al(n,a)24lNa cross section
+# REACTION        : 13-AL-27(N,A)11-NA-24-L,,SIG
+# File ID         : n-Al27-a-sig-excfun-mon-prodNa24l_Enz_1985_22012.004
+#
+# npts            : 2           
+# xmin            :   7.9000E+06
+# xmax            :   8.1000E+06
+# ymin            :   1.4500E-02
+# ymax            :   1.9900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.9000E+06  6.5000E+04  1.4500E-02  2.0000E-03
+  8.1000E+06  6.0000E+04  1.9900E-02  2.8000E-03
+#---------------------------------------------------

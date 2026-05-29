@@ -1,0 +1,26 @@
+# EXFOR #         : 40082.017  
+# EXFOR Ver.      : 20210728
+# TRANS #         : 4200
+# Author          : V.V.Filippov et al.
+# Reference       : Proceedings of Nuclear Data for Computations Sem., Dubna 1968 page (ASS-68/17)
+# DOI             : N/A
+# Quantity        : natMo(n,tot) cross section
+# REACTION        : 42-MO-0(N,TOT),,SIG
+# File ID         : n-Mo-tot-sig-excfun-mon-Filippov_1968_40082.017
+#
+# npts            : 5           
+# xmin            :   4.4000E+04
+# xmax            :   3.4000E+05
+# ymin            :   8.6600E+00
+# ymax            :   8.9200E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.4000E+04  2.1000E+04  8.9200E+00  1.1000E-01
+  6.0000E+04  3.3000E+04  8.8900E+00  2.0000E-01
+  1.3200E+05  2.6000E+04  8.7800E+00  7.0000E-02
+  2.1700E+05  1.7000E+04  8.8900E+00  1.0000E-01
+  3.4000E+05  2.0000E+04  8.6600E+00  5.0000E-02
+#---------------------------------------------------

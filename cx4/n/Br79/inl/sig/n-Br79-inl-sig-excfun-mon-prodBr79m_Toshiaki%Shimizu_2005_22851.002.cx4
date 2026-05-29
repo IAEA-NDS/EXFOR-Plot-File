@@ -1,0 +1,23 @@
+# EXFOR #         : 22851.002  
+# EXFOR Ver.      : 20051107
+# TRANS #         : 2174
+# Author          : Toshiaki Shimizu et al.
+# Reference       : Ann.Nucl.Energy 32 (2005) 949
+# DOI             : 10.1016/j.anucene.2005.02.008
+# Quantity        : 79Br(n,inl)79mBr cross section
+# REACTION        : 35-BR-79(N,INL)35-BR-79-M,,SIG
+# File ID         : n-Br79-inl-sig-excfun-mon-prodBr79m_Toshiaki%Shimizu_2005_22851.002
+#
+# npts            : 2           
+# xmin            :   2.5400E+06
+# xmax            :   3.1000E+06
+# ymin            :   2.7800E-01
+# ymax            :   4.0300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5400E+06  5.0000E+04  2.7800E-01  3.3000E-02
+  3.1000E+06  5.0000E+04  4.0300E-01  3.9000E-02
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 23286.004  
+# EXFOR Ver.      : 20160126
+# TRANS #         : 2247
+# Author          : L.C.Mihailescu et al.
+# Reference       : Report EUR-22343, 2006
+# DOI             : N/A
+# Quantity        : 207Pb(n,inl)207Pb partial cross section
+# REACTION        : 82-PB-207(N,INL)82-PB-207,PAR,SIG
+# File ID         : n-Pb207-inl-sig-excfun-mon-elvl4.103E+06_prodPb207_Mihailescu_2006_23286.004
+#
+# Elvl (eV)       :   4.1030E+06
+#
+# npts            : 3           
+# xmin            :   4.1124E+06
+# xmax            :   4.3055E+06
+# ymin            :   3.9380E-03
+# ymax            :   1.1808E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.1124E+06  4.6625E+04  3.9380E-03  1.6580E-03
+  4.2073E+06  4.8250E+04  6.5770E-03  2.3120E-03
+  4.3055E+06  4.9955E+04  1.1808E-02  2.4150E-03
+#---------------------------------------------------

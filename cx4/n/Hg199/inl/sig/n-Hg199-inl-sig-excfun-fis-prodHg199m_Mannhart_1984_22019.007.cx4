@@ -1,0 +1,22 @@
+# EXFOR #         : 22019.007  
+# EXFOR Ver.      : 19861212
+# TRANS #         : 0000
+# Author          : W.Mannhart
+# Reference       : Proceedings of 5th Symposium on Reactor Dosimetry, Geesthacht, 1984 2 page 801
+# DOI             : N/A
+# Quantity        : 199Hg(n,inl)199mHg cross section
+# REACTION        : 80-HG-199(N,INL)80-HG-199-M,,SIG,,FIS
+# File ID         : n-Hg199-inl-sig-excfun-fis-prodHg199m_Mannhart_1984_22019.007
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.9500E-01
+# ymax            :   2.9500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.9500E-01  8.0000E-03
+#---------------------------------------------------

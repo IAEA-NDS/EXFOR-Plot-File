@@ -1,0 +1,22 @@
+# EXFOR #         : 11610.005  
+# EXFOR Ver.      : 20200503
+# TRANS #         : 1468
+# Author          : M.Hillman
+# Reference       : Nucl.Phys. 37 (1962) 78
+# DOI             : 10.1016/0029-5582(62)90246-8
+# Quantity        : 50Ti(n,a)47Ca cross section
+# REACTION        : 22-TI-50(N,A)20-CA-47,,SIG
+# File ID         : n-Ti50-a-sig-excfun-mon-prodCa47_Hillman_1962_11610.005
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  5.0000E+05  1.0000E-02  2.0000E-03
+#---------------------------------------------------

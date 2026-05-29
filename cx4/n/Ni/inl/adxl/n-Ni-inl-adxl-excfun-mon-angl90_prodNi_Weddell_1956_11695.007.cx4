@@ -1,0 +1,25 @@
+# EXFOR #         : 11695.007  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : J.B.Weddell
+# Reference       : Bull.Am.Phys.Soc. 1 (1956) 339(P8)
+# DOI             : N/A
+# Quantity        : natNi(n,inl)natNi angular differential cross section
+# REACTION        : 28-NI-0(N,INL),,DA
+# File ID         : n-Ni-inl-adxl-excfun-mon-angl90_prodNi_Weddell_1956_11695.007
+#
+# theta,lab (deg) :   90.0000000
+# dtheta,lab (deg):    5.0000000
+#
+# npts            : 1           
+# xmin            :   4.4000E+06
+# xmax            :   4.4000E+06
+# ymin            :   2.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.4000E+06  5.0000E+06  2.0000E-02  7.0000E-03
+#---------------------------------------------------

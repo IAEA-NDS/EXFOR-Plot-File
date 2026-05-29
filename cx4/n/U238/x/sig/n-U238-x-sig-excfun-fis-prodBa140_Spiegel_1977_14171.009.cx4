@@ -1,0 +1,22 @@
+# EXFOR #         : 14171.009  
+# EXFOR Ver.      : 20160927
+# TRANS #         : 1424
+# Author          : V.Spiegel et al.
+# Reference       : Proceedings of 2nd Symposium on Reactor Dosimetry, Palo Alto 1977 2 page 959
+# DOI             : N/A
+# Quantity        : 238U(n,f)140Ba independent production cross section
+# REACTION        : 92-U-238(N,F)56-BA-140,,SIG,,FIS
+# File ID         : n-U238-x-sig-excfun-fis-prodBa140_Spiegel_1977_14171.009
+#
+# npts            : 1           
+# xmin            :   1.4200E+06
+# xmax            :   1.4200E+06
+# ymin            :   2.8400E-01
+# ymax            :   2.8400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+06  0.0000E+00  2.8400E-01  2.7264E-02
+#---------------------------------------------------

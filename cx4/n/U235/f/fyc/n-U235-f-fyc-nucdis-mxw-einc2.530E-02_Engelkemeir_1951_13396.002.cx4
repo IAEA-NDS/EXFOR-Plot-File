@@ -1,0 +1,31 @@
+# EXFOR #         : 13396.002  
+# EXFOR Ver.      : 19891220
+# TRANS #         : 0000
+# Author          : D.W.Engelkemeir et al.
+# Reference       : Radiochemical Studies, Fission Products, USA, 1951 2 page 1372 (1951)
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-U235-f-fyc-nucdis-mxw-einc2.530E-02_Engelkemeir_1951_13396.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 8           
+# xmin            : 46109.9     
+# xmax            : 62156.9     
+# ymin            :   8.3000E-05
+# ymax            :   2.8000E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     46109.9  2.8000E-04  0.0000E+00
+     47111.9  1.8000E-04  0.0000E+00
+     46112.9  8.3000E-05  0.0000E+00
+     48115.9  2.0000E-04  0.0000E+00
+     51127.9  9.4000E-04  0.0000E+00
+     53131.9  2.8000E-02  0.0000E+00
+     62153.9  1.5000E-03  0.0000E+00
+     62156.9  1.4000E-04  0.0000E+00
+#---------------------------------------------------

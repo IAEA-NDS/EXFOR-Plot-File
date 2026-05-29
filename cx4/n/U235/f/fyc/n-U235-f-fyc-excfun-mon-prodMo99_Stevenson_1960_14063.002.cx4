@@ -1,0 +1,22 @@
+# EXFOR #         : 14063.002  
+# EXFOR Ver.      : 20180818
+# TRANS #         : 1443
+# Author          : P.C.Stevenson et al.
+# Reference       : Phys.Rev. 117 (1960) 186
+# DOI             : 10.1103/PhysRev.117.186
+# Quantity        : 235U(n,f)99Mo cumulative fission product yield
+# REACTION        : 92-U-235(N,F)42-MO-99,CUM,FY
+# File ID         : n-U235-f-fyc-excfun-mon-prodMo99_Stevenson_1960_14063.002
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   5.0100E-02
+# ymax            :   5.0100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  5.0100E-02  1.5000E-03
+#---------------------------------------------------

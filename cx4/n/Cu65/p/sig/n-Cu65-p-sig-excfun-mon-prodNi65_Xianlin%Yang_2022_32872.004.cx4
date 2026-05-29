@@ -1,0 +1,23 @@
+# EXFOR #         : 32872.004  
+# EXFOR Ver.      : 20241211
+# TRANS #         : 3215
+# Author          : Xianlin Yang et al.
+# Reference       : Radiat.Phys.Chem. 197 (2022) 110192
+# DOI             : 10.1016/j.radphyschem.2022.110192
+# Quantity        : 65Cu(n,p)65Ni cross section
+# REACTION        : 29-CU-65(N,P)28-NI-65,,SIG
+# File ID         : n-Cu65-p-sig-excfun-mon-prodNi65_Xianlin%Yang_2022_32872.004
+#
+# npts            : 2           
+# xmin            :   1.4500E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.1460E-02
+# ymax            :   2.2200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  2.0000E+05  2.2200E-02  1.6600E-03
+  1.4700E+07  2.0000E+05  2.1460E-02  1.3900E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 22939.025.2
+# EXFOR Ver.      : 20211020
+# TRANS #         : 2305
+# Author          : I.Dillmann et al.
+# Reference       : Phys.Rev.C 81 (2010) 015801
+# DOI             : 10.1103/PhysRevC.81.015801
+# Quantity        : 102Pd(n,g)103Pd cross section
+# REACTION        : 46-PD-102(N,G)46-PD-103,,SIG,,SPA
+# File ID         : n-Pd102-g-sig-excfun-spa-prodPd103_Dillmann_2010_22939.025.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   3.9900E-01
+# ymax            :   3.9900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  5.0000E+02  3.9900E-01  1.7000E-02
+#---------------------------------------------------

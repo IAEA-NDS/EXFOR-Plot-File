@@ -1,0 +1,22 @@
+# EXFOR #         : 11802.003  
+# EXFOR Ver.      : 19830927
+# TRANS #         : 0000
+# Author          : A.H.Armstrong et al.
+# Reference       : Nucl.Phys. 19 (1960) 40
+# DOI             : 10.1016/0029-5582(60)90216-9
+# Quantity        : 64Zn(n,p)64Cu cross section
+# REACTION        : 30-ZN-64(N,P)29-CU-64,,SIG
+# File ID         : n-Zn64-p-sig-excfun-mon-prodCu64_Armstrong_1960_11802.003
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   2.0000E-01
+# ymax            :   2.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  2.0000E-01  0.0000E+00
+#---------------------------------------------------

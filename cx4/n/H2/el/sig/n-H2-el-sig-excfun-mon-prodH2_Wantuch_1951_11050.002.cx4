@@ -1,0 +1,23 @@
+# EXFOR #         : 11050.002  
+# EXFOR Ver.      : 19830909
+# TRANS #         : 0000
+# Author          : E.Wantuch
+# Reference       : Phys.Rev. 84 (1951) 169
+# DOI             : 10.1103/PhysRev.84.169
+# Quantity        : 2H(n,el)2H cross section
+# REACTION        : 1-H-2(N,EL)1-H-2,,SIG
+# File ID         : n-H2-el-sig-excfun-mon-prodH2_Wantuch_1951_11050.002
+#
+# npts            : 2           
+# xmin            :   4.5000E+06
+# xmax            :   5.5000E+06
+# ymin            :   1.5000E+00
+# ymax            :   1.8000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+06  1.0000E+05  1.8000E+00  2.0000E-01
+  5.5000E+06  1.0000E+05  1.5000E+00  2.0000E-01
+#---------------------------------------------------

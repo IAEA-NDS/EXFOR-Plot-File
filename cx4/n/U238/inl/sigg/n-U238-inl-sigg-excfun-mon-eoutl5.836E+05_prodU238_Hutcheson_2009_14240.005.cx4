@@ -1,0 +1,28 @@
+# EXFOR #         : 14240.005  
+# EXFOR Ver.      : 20090813
+# TRANS #         : 1357
+# Author          : A.Hutcheson et al.
+# Reference       : Phys.Rev.C 80 (2009) 014603
+# DOI             : 10.1103/PhysRevC.80.014603
+# Quantity        : 238U(n,inl)238U partial gamma production cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,SIG,G
+# File ID         : n-U238-inl-sigg-excfun-mon-eoutl5.836E+05_prodU238_Hutcheson_2009_14240.005
+#
+# Eout,lab (eV)   :   5.8355E+05
+#
+# npts            : 5           
+# xmin            :   5.0000E+06
+# xmax            :   1.4000E+07
+# ymin            :   1.7390E-02
+# ymax            :   7.8970E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+06  5.0000E+05  7.4510E-02  4.3700E-03
+  6.0000E+06  5.5000E+05  7.8970E-02  3.3700E-03
+  8.0000E+06  3.5000E+05  2.9140E-02  1.1500E-03
+  1.0000E+07  2.5000E+05  3.0380E-02  8.5000E-04
+  1.4000E+07  1.7000E+05  1.7390E-02  3.6000E-04
+#---------------------------------------------------

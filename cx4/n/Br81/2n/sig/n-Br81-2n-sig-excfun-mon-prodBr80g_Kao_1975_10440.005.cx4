@@ -1,0 +1,22 @@
+# EXFOR #         : 10440.005  
+# EXFOR Ver.      : 20030408
+# TRANS #         : 0000
+# Author          : T.H.Kao et al.
+# Reference       : Nucl.Phys.A 237 (1975) 11
+# DOI             : 10.1016/0375-9474(75)90459-5
+# Quantity        : 81Br(n,2n)80gBr cross section
+# REACTION        : 35-BR-81(N,2N)35-BR-80-G,,SIG
+# File ID         : n-Br81-2n-sig-excfun-mon-prodBr80g_Kao_1975_10440.005
+#
+# npts            : 1           
+# xmin            :   1.5100E+07
+# xmax            :   1.5100E+07
+# ymin            :   3.6400E-01
+# ymax            :   3.6400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5100E+07  3.0000E+05  3.6400E-01  2.6000E-02
+#---------------------------------------------------

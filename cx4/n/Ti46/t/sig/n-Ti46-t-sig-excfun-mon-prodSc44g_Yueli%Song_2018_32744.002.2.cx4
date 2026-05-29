@@ -1,0 +1,24 @@
+# EXFOR #         : 32744.002.2
+# EXFOR Ver.      : 20190220
+# TRANS #         : 3188
+# Author          : Yueli Song et al.
+# Reference       : Nucl.Instrum.Meth.B 432 (2018) 20
+# DOI             : 10.1016/j.nimb.2018.06.025
+# Quantity        : 46Ti(n,t)44gSc cross section
+# REACTION        : 22-TI-46(N,T)21-SC-44-G,,SIG
+# File ID         : n-Ti46-t-sig-excfun-mon-prodSc44g_Yueli%Song_2018_32744.002.2
+#
+# npts            : 3           
+# xmin            :   1.4100E+07
+# xmax            :   1.4800E+07
+# ymin            :   8.3000E-05
+# ymax            :   1.2700E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  2.0000E+05  8.3000E-05  9.0000E-06
+  1.4400E+07  3.0000E+05  1.1700E-04  1.3000E-05
+  1.4800E+07  2.0000E+05  1.2700E-04  1.7000E-05
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 11177.002  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : J.De Juren et al.
+# Reference       : Phys.Rev. 81 (1951) 919
+# DOI             : 10.1103/PhysRev.81.919
+# Quantity        : 1H(n,tot) cross section
+# REACTION        : 1-H-1(N,TOT),,SIG
+# File ID         : n-H1-tot-sig-excfun-mon-De%Juren_1951_11177.002
+#
+# npts            : 2           
+# xmin            :   1.6000E+08
+# xmax            :   2.2000E+08
+# ymin            :   4.1000E-02
+# ymax            :   5.1200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+08  0.0000E+00  5.1200E-02  2.6000E-01
+  2.2000E+08  0.0000E+00  4.1000E-02  4.1000E-03
+#---------------------------------------------------

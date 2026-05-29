@@ -1,0 +1,22 @@
+# EXFOR #         : 11747.006  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : H.G.Blosser et al.
+# Reference       : Phys.Rev. 110 (1958) 531
+# DOI             : 10.1103/PhysRev.110.531
+# Quantity        : 133Cs(n,a)130I cross section
+# REACTION        : 55-CS-133(N,A)53-I-130,,SIG
+# File ID         : n-Cs133-a-sig-excfun-mon-prodI130_Blosser_1958_11747.006
+#
+# npts            : 1           
+# xmin            :   1.4050E+07
+# xmax            :   1.4050E+07
+# ymin            :   1.0000E-03
+# ymax            :   1.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4050E+07  5.5000E+05  1.0000E-03  3.0000E-04
+#---------------------------------------------------

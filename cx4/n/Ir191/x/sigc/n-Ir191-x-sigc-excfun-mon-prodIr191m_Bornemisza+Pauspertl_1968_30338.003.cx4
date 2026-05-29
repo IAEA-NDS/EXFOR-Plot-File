@@ -1,0 +1,22 @@
+# EXFOR #         : 30338.003  
+# EXFOR Ver.      : 20220816
+# TRANS #         : 3208
+# Author          : P.Bornemisza-Pauspertl et al.
+# Reference       : ATOMKI Koezlem. 10 (1968) 112
+# DOI             : N/A
+# Quantity        : 191Ir(n,inl)191m1Ir cumulative production cross section
+# REACTION        : 77-IR-191(N,INL)77-IR-191-M1,(M),SIG
+# File ID         : n-Ir191-x-sigc-excfun-mon-prodIr191m_Bornemisza+Pauspertl_1968_30338.003
+#
+# npts            : 1           
+# xmin            :   2.8000E+06
+# xmax            :   2.8000E+06
+# ymin            :   5.6000E-01
+# ymax            :   5.6000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8000E+06  4.0000E+05  5.6000E-01  1.1000E-01
+#---------------------------------------------------

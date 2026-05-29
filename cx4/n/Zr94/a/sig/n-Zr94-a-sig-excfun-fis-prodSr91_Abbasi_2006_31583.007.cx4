@@ -1,0 +1,22 @@
+# EXFOR #         : 31583.007  
+# EXFOR Ver.      : 20060714
+# TRANS #         : 3120
+# Author          : I.A.Abbasi et al.
+# Reference       : Radiochim.Acta 94 (2006) 381
+# DOI             : 10.1524/ract.2006.94.8.381
+# Quantity        : 94Zr(n,a)91Sr cross section
+# REACTION        : 40-ZR-94(N,A)38-SR-91,,SIG,,FIS
+# File ID         : n-Zr94-a-sig-excfun-fis-prodSr91_Abbasi_2006_31583.007
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.0000E-05
+# ymax            :   2.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.0000E-05  4.0000E-06
+#---------------------------------------------------

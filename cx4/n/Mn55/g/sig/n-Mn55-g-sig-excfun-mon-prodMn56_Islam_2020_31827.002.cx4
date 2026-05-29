@@ -1,0 +1,23 @@
+# EXFOR #         : 31827.002  
+# EXFOR Ver.      : 20200826
+# TRANS #         : 3197
+# Author          : M.A.Islam et al.
+# Reference       : Radiat.Phys.Chem. 177 (2020) 109136
+# DOI             : 10.1016/j.radphyschem.2020.109136
+# Quantity        : 55Mn(n,g)56Mn cross section
+# REACTION        : 25-MN-55(N,G)25-MN-56,,SIG
+# File ID         : n-Mn55-g-sig-excfun-mon-prodMn56_Islam_2020_31827.002
+#
+# npts            : 2           
+# xmin            :   3.3400E-02
+# xmax            :   5.3600E-02
+# ymin            :   9.0300E+00
+# ymax            :   1.1070E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.3600E-02  0.0000E+00  9.0300E+00  5.2000E-01
+  3.3400E-02  0.0000E+00  1.1070E+01  6.4000E-01
+#---------------------------------------------------

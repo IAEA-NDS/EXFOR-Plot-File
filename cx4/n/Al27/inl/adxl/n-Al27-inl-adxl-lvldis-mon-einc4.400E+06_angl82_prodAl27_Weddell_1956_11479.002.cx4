@@ -1,0 +1,28 @@
+# EXFOR #         : 11479.002  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : J.B.Weddell
+# Reference       : Phys.Rev. 104 (1956) 1069
+# DOI             : 10.1103/PhysRev.104.1069
+# Quantity        : 27Al(n,inl)27Al partial angular differential cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,DA
+# File ID         : n-Al27-inl-adxl-lvldis-mon-einc4.400E+06_angl82_prodAl27_Weddell_1956_11479.002
+#
+# Einc (eV)       :   4.4000E+06
+# dEinc (eV)      :   5.0000E+04
+# theta,lab (deg) :   81.9984400
+# dtheta,lab (deg):    5.0000000
+#
+# npts            : 2           
+# xmin            :   2.2300E+06
+# xmax            :   3.0300E+06
+# ymin            :   1.0000E-02
+# ymax            :   1.5000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.2300E+06  0.0000E+00  1.5000E-02  5.0000E-03
+  3.0300E+06  0.0000E+00  1.0000E-02  5.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 11081.002  
+# EXFOR Ver.      : 19820106
+# TRANS #         : 0000
+# Author          : P.Hillman et al.
+# Reference       : Phys.Rev. 96 (1954) 115
+# DOI             : 10.1103/PhysRev.96.115
+# Quantity        : 1H(n,tot) cross section
+# REACTION        : 1-H-1(N,TOT),,SIG
+# File ID         : n-H1-tot-sig-excfun-mon-Hillman_1954_11081.002
+#
+# npts            : 2           
+# xmin            :   4.7500E+07
+# xmax            :   8.8000E+07
+# ymin            :   8.4500E-02
+# ymax            :   1.9600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.7500E+07  2.0000E+06  1.9600E-01  1.0000E-02
+  8.8000E+07  2.0000E+06  8.4500E-02  2.0000E-03
+#---------------------------------------------------

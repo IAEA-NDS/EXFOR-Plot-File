@@ -1,0 +1,24 @@
+# EXFOR #         : 32778.003  
+# EXFOR Ver.      : 20210129
+# TRANS #         : 3200
+# Author          : Zhang Zhengwei et al.
+# Reference       : Radiat.Phys.Chem. 141 (2017) 138
+# DOI             : 10.1016/j.radphyschem.2017.06.018
+# Quantity        : 232Th(n,f)134Te cumulative production cross section
+# REACTION        : 90-TH-232(N,F)52-TE-134,(CUM),SIG,,AV
+# File ID         : n-Th232-x-sigc-excfun-mon-prodTe134_Zhang%Zhengwei_2017_32778.003
+#
+# npts            : 3           
+# xmin            :   1.4100E+07
+# xmax            :   1.4700E+07
+# ymin            :   9.5700E-03
+# ymax            :   1.0700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  3.0000E+05  9.5700E-03  4.7000E-04
+  1.4500E+07  3.0000E+05  1.0000E-02  5.0000E-04
+  1.4700E+07  3.0000E+05  1.0700E-02  6.0000E-04
+#---------------------------------------------------

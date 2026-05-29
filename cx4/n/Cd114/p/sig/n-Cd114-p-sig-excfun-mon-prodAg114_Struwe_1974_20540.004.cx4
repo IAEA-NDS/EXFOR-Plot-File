@@ -1,0 +1,22 @@
+# EXFOR #         : 20540.004  
+# EXFOR Ver.      : 20071216
+# TRANS #         : 2190
+# Author          : W.Struwe et al.
+# Reference       : Nucl.Phys.A 222 (1974) 605
+# DOI             : 10.1016/0375-9474(74)90342-X
+# Quantity        : 114Cd(n,p)114Ag cross section
+# REACTION        : 48-CD-114(N,P)47-AG-114,,SIG
+# File ID         : n-Cd114-p-sig-excfun-mon-prodAg114_Struwe_1974_20540.004
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   5.0000E-03
+# ymax            :   5.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  5.0000E-03  1.3000E-03
+#---------------------------------------------------

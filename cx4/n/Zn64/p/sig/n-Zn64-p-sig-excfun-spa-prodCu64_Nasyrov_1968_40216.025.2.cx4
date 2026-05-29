@@ -1,0 +1,22 @@
+# EXFOR #         : 40216.025.2
+# EXFOR Ver.      : 20150915
+# TRANS #         : 4170
+# Author          : F.Nasyrov et al.
+# Reference       : At.En. 25 No.5 (1968) 437
+# DOI             : N/A
+# Quantity        : 64Zn(n,p)64Cu cross section
+# REACTION        : 30-ZN-64(N,P)29-CU-64,,SIG,,SPA
+# File ID         : n-Zn64-p-sig-excfun-spa-prodCu64_Nasyrov_1968_40216.025.2
+#
+# npts            : 1           
+# xmin            :   1.4200E+06
+# xmax            :   1.4200E+06
+# ymin            :   1.5000E-02
+# ymax            :   1.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+06  4.0000E+04  1.5000E-02  2.3000E-03
+#---------------------------------------------------

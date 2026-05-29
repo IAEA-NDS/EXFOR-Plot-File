@@ -1,0 +1,26 @@
+# EXFOR #         : 11130.026  
+# EXFOR Ver.      : 19840207
+# TRANS #         : 0000
+# Author          : N.A.Bostrom et al.
+# Reference       : Report WADC-TN-59-107, 1959
+# DOI             : N/A
+# Quantity        : 206Pb(n,inl)206Pb partial gamma angular differential cross section
+# REACTION        : 82-PB-206(N,INL)82-PB-206,PAR,DA,G
+# File ID         : n-Pb206-inl-adxgl-angdisl-mon-einc1.010E+06_eoutl8.000E+05_prodPb206_Bostrom_1959_11130.026
+#
+# Einc (eV)       :   1.0100E+06
+# dEinc (eV)      :   1.0000E+04
+# Eout,lab (eV)   :   8.0000E+05
+#
+# npts            : 1           
+# xmin            :   67.0000000
+# xmax            :   67.0000000
+# ymin            :   3.1000E-02
+# ymax            :   3.1000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  67.0000000   0.0000000  3.1000E-02  7.0000E-03
+#---------------------------------------------------

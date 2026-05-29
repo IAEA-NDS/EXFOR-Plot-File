@@ -1,0 +1,22 @@
+# EXFOR #         : 30251.002  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : S.Niese
+# Reference       : Kernenergie 7 (1964) 105
+# DOI             : N/A
+# Quantity        : 30Si(n,a)27Mg cross section
+# REACTION        : 14-SI-30(N,A)12-MG-27,,SIG,,FIS
+# File ID         : n-Si30-a-sig-excfun-fis-prodMg27_Niese_1964_30251.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.5000E-04
+# ymax            :   1.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.5000E-04  2.0000E-05
+#---------------------------------------------------

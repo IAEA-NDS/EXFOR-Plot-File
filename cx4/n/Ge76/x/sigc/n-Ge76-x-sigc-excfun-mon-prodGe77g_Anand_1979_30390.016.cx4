@@ -1,0 +1,22 @@
+# EXFOR #         : 30390.016  
+# EXFOR Ver.      : 20220203
+# TRANS #         : 3207
+# Author          : R.P.Anand et al.
+# Reference       : Nuovo Cim.A 50 (1979) 247
+# DOI             : 10.1007/BF02902005
+# Quantity        : 76Ge(n,g)77gGe cumulative production cross section
+# REACTION        : 32-GE-76(N,G)32-GE-77-G,M+,SIG
+# File ID         : n-Ge76-x-sigc-excfun-mon-prodGe77g_Anand_1979_30390.016
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   4.0000E-02
+# ymax            :   4.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  5.0000E+03  4.0000E-02  1.2000E-02
+#---------------------------------------------------

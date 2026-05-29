@@ -1,0 +1,27 @@
+# EXFOR #         : 13474.003  
+# EXFOR Ver.      : 20100527
+# TRANS #         : 1366
+# Author          : R.M.Bartholomew et al.
+# Reference       : Can.J.Chem. 37 (1959) 660
+# DOI             : 10.1139/v59-091
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-Pu239-f-fyc-nucdis-spa-einc2.530E-02_Bartholomew_1959_13474.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 4           
+# xmin            : 38089.9     
+# xmax            : 57141.9     
+# ymin            :   1.7100E-02
+# ymax            :   6.0700E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     38089.9  1.7100E-02  4.0000E-04
+     38091.9  2.4500E-02  5.0000E-04
+     56139.9  6.0700E-02  9.0000E-04
+     57141.9  5.7500E-02  9.0000E-04
+#---------------------------------------------------

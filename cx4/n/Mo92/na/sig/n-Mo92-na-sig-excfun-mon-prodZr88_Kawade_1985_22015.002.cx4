@@ -1,0 +1,23 @@
+# EXFOR #         : 22015.002  
+# EXFOR Ver.      : 20190205
+# TRANS #         : 2274
+# Author          : K.Kawade et al.
+# Reference       : J.Nucl.Sci.Technol. 22 (1985) 851
+# DOI             : 10.1080/18811248.1985.9735734
+# Quantity        : 92Mo(n,n+a)88Zr cross section
+# REACTION        : 42-MO-92(N,N+A)40-ZR-88,,SIG
+# File ID         : n-Mo92-na-sig-excfun-mon-prodZr88_Kawade_1985_22015.002
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4600E+07
+# ymin            :   4.9000E-05
+# ymax            :   1.8000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.0000E+05  4.9000E-05  8.0000E-06
+  1.4600E+07  1.0000E+05  1.8000E-04  5.0000E-05
+#---------------------------------------------------

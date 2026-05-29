@@ -1,0 +1,24 @@
+# EXFOR #         : 20004.043.2
+# EXFOR Ver.      : 20181026
+# TRANS #         : 2273
+# Author          : D.L.Allan
+# Reference       : Nucl.Phys. 24 (1961) 274
+# DOI             : 10.1016/0029-5582(61)90380-7
+# Quantity        : 48Ti(n,p)48Sc angular differential cross section
+# REACTION        : 22-TI-48(N,P)21-SC-48,,DA,,4PI
+# File ID         : n-Ti48-p-adxl-angdisl-mon-einc1.400E+07_prodSc48_Allan_1961_20004.043.2
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 1           
+# xmin            :  120.0000000
+# xmax            :  120.0000000
+# ymin            :   2.3077E-03
+# ymax            :   2.3077E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 120.0000000   0.0000000  2.3077E-03  0.0000E+00
+#---------------------------------------------------

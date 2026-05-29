@@ -1,0 +1,23 @@
+# EXFOR #         : 20795.011  
+# EXFOR Ver.      : 19840207
+# TRANS #         : 0000
+# Author          : D.S.Mather et al.
+# Reference       : Report AWRE-O-72/72 page , 1972
+# DOI             : N/A
+# Quantity        : 235U(n,3n)233U cross section
+# REACTION        : 92-U-235(N,3N)92-U-233,,SIG
+# File ID         : n-U235-3n-sig-excfun-mon-prodU233_Mather_1972_20795.011
+#
+# npts            : 2           
+# xmin            :   1.2400E+07
+# xmax            :   1.4100E+07
+# ymin            :   2.3000E-02
+# ymax            :   1.1400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2400E+07  0.0000E+00  2.3000E-02  6.2000E-02
+  1.4100E+07  0.0000E+00  1.1400E-01  2.1000E-02
+#---------------------------------------------------

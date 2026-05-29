@@ -1,0 +1,22 @@
+# EXFOR #         : 14171.006  
+# EXFOR Ver.      : 20160927
+# TRANS #         : 1424
+# Author          : V.Spiegel et al.
+# Reference       : Proceedings of 2nd Symposium on Reactor Dosimetry, Palo Alto 1977 2 page 959
+# DOI             : N/A
+# Quantity        : 47Ti(n,p)47Sc cross section
+# REACTION        : 22-TI-47(N,P)21-SC-47,,SIG,,FIS
+# File ID         : n-Ti47-p-sig-excfun-fis-prodSc47_Spiegel_1977_14171.006
+#
+# npts            : 1           
+# xmin            :   1.4200E+06
+# xmax            :   1.4200E+06
+# ymin            :   2.0200E-02
+# ymax            :   2.0200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+06  0.0000E+00  2.0200E-02  1.2524E-03
+#---------------------------------------------------

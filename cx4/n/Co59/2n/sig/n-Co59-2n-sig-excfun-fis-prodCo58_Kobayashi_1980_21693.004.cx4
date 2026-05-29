@@ -1,0 +1,22 @@
+# EXFOR #         : 21693.004  
+# EXFOR Ver.      : 20101112
+# TRANS #         : 2224
+# Author          : K.Kobayashi et al.
+# Reference       : Progress report NEANDC(J)-67 page 42, 1980
+# DOI             : N/A
+# Quantity        : 59Co(n,2n)58Co cross section
+# REACTION        : 27-CO-59(N,2N)27-CO-58,,SIG,,FIS
+# File ID         : n-Co59-2n-sig-excfun-fis-prodCo58_Kobayashi_1980_21693.004
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.2700E-04
+# ymax            :   2.2700E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.2700E-04  1.1000E-05
+#---------------------------------------------------

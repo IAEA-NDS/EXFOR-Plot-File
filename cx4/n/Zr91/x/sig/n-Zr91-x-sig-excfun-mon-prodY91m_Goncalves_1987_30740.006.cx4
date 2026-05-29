@@ -1,0 +1,22 @@
+# EXFOR #         : 30740.006  
+# EXFOR Ver.      : 20100305
+# TRANS #         : 3144
+# Author          : I.F.Goncalves et al.
+# Reference       : Appl.Radiat.Isot. 38 No.11 (1987) 989
+# DOI             : 10.1016/0883-2889(87)90274-7
+# Quantity        : 91Zr(n,x)91mY independent production cross section
+# REACTION        : 40-ZR-91(N,X)39-Y-91-M,,SIG
+# File ID         : n-Zr91-x-sig-excfun-mon-prodY91m_Goncalves_1987_30740.006
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.9900E-02
+# ymax            :   1.9900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  1.7000E+05  1.9900E-02  9.0000E-04
+#---------------------------------------------------

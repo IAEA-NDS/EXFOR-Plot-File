@@ -1,0 +1,22 @@
+# EXFOR #         : 40848.002  
+# EXFOR Ver.      : 20231226
+# TRANS #         : 4216
+# Author          : E.I.Grigor'ev et al.
+# Reference       : Report INDC(CCP)-235 Vol.(3) page 187, 1983
+# DOI             : N/A
+# Quantity        : 103Rh(n,inl)103mRh cross section
+# REACTION        : 45-RH-103(N,INL)45-RH-103-M,,SIG,,FIS
+# File ID         : n-Rh103-inl-sig-excfun-fis-prodRh103m_Grigorev_1983_40848.002
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   7.0200E-01
+# ymax            :   7.0200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  7.0200E-01  2.8080E-02
+#---------------------------------------------------

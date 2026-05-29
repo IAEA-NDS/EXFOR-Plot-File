@@ -1,0 +1,25 @@
+# EXFOR #         : 23574.002  
+# EXFOR Ver.      : 20200505
+# TRANS #         : 2287
+# Author          : L.Balcarczyuk et al.
+# Reference       : Nukleonik 7 (1965) 169
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-U235-f-fyc-nucdis-mxw-einc2.530E-02_Balcarczyuk_1965_23574.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 44103.9     
+# xmax            : 55136.9     
+# ymin            :   8.5600E-05
+# ymax            :   2.9700E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     55136.9  8.5600E-05  5.1360E-06
+     44103.9  2.9700E-02  1.7820E-03
+#---------------------------------------------------

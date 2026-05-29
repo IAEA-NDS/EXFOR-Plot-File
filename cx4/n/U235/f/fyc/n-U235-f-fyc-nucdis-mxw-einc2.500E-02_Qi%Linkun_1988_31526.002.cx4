@@ -1,0 +1,26 @@
+# EXFOR #         : 31526.002  
+# EXFOR Ver.      : 20030130
+# TRANS #         : 0000
+# Author          : Qi Linkun et al.
+# Reference       : Proceedings of Conf.on Nucl.Data For Sci.and Technol.,Mito 1988 page 967
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-U235-f-fyc-nucdis-mxw-einc2.500E-02_Qi%Linkun_1988_31526.002
+#
+# Einc (eV)       :   2.5000E-02
+#
+# npts            : 3           
+# xmin            : 40095.9     
+# xmax            : 58144.9     
+# ymin            :   5.3400E-02
+# ymax            :   6.3900E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     40095.9  6.3900E-02  2.1000E-03
+     42099.9  6.0800E-02  1.6000E-03
+     58144.9  5.3400E-02  3.4000E-03
+#---------------------------------------------------

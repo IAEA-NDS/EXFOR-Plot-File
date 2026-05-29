@@ -1,0 +1,25 @@
+# EXFOR #         : 13415.002  
+# EXFOR Ver.      : 19891220
+# TRANS #         : 0000
+# Author          : J.M.Siegel et al.
+# Reference       : Radiochemical Studies, Fission Products, USA, 1951 2 page 549 (1951)
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U235-f-fyc-nucdis-spa-einc2.530E-02_Siegel_1951_13415.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 30072.9     
+# xmax            : 31073.9     
+# ymin            :   1.5000E-07
+# ymax            :   1.0000E-06
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     30072.9  1.5000E-07  0.0000E+00
+     31073.9  1.0000E-06  0.0000E+00
+#---------------------------------------------------

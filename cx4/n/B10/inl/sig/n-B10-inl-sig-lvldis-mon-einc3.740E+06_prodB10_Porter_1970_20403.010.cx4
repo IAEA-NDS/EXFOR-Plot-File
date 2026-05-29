@@ -1,0 +1,27 @@
+# EXFOR #         : 20403.010  
+# EXFOR Ver.      : 20180821
+# TRANS #         : 2270
+# Author          : D.Porter et al.
+# Reference       : Report AWRE-O-45/70, 1970
+# DOI             : N/A
+# Quantity        : 10B(n,inl)10B partial cross section
+# REACTION        : 5-B-10(N,INL)5-B-10,PAR,SIG
+# File ID         : n-B10-inl-sig-lvldis-mon-einc3.740E+06_prodB10_Porter_1970_20403.010
+#
+# Einc (eV)       :   3.7400E+06
+# dEinc (eV)      :   2.1000E+04
+#
+# npts            : 3           
+# xmin            :   7.1700E+05
+# xmax            :   2.1540E+06
+# ymin            :   5.4000E-03
+# ymax            :   4.8100E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.1700E+05  0.0000E+00  4.8100E-02  4.6000E-03
+  1.7400E+06  0.0000E+00  5.4000E-03  4.8000E-03
+  2.1540E+06  0.0000E+00  2.2000E-02  1.1000E-03
+#---------------------------------------------------

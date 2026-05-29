@@ -1,0 +1,23 @@
+# EXFOR #         : 41256.004  
+# EXFOR Ver.      : 20191221
+# TRANS #         : 4185
+# Author          : G.N.Lovchikova et al.
+# Reference       : Neitronnaya Fizika, Moskva 1961 page 294 (1961)
+# DOI             : N/A
+# Quantity        : natMo(n,non) cross section
+# REACTION        : 42-MO-0(N,NON),,SIG
+# File ID         : n-Mo-non-sig-excfun-mon-Lovchikova_1961_41256.004
+#
+# npts            : 2           
+# xmin            :   2.5000E+06
+# xmax            :   2.5000E+06
+# ymin            :   4.6000E-01
+# ymax            :   1.3600E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  0.0000E+00  1.3600E+00  4.0000E-02
+  2.5000E+06  0.0000E+00  4.6000E-01  3.0000E-02
+#---------------------------------------------------

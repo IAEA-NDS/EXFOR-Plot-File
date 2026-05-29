@@ -1,0 +1,22 @@
+# EXFOR #         : 22148.002  
+# EXFOR Ver.      : 19910124
+# TRANS #         : 0000
+# Author          : T.B.Ryves et al.
+# Reference       : Ann.Nucl.Energy 17 (1990) 107
+# DOI             : 10.1016/0306-4549(90)90014-5
+# Quantity        : 165Ho(n,p)165Dy cross section
+# REACTION        : 67-HO-165(N,P)66-DY-165,,SIG
+# File ID         : n-Ho165-p-sig-excfun-mon-prodDy165_Ryves_1990_22148.002
+#
+# npts            : 1           
+# xmin            :   1.4300E+07
+# xmax            :   1.4300E+07
+# ymin            :   4.0700E-03
+# ymax            :   4.0700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4300E+07  1.0000E+05  4.0700E-03  2.7269E-04
+#---------------------------------------------------

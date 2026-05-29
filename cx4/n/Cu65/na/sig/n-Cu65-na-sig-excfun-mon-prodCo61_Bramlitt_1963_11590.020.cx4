@@ -1,0 +1,22 @@
+# EXFOR #         : 11590.020  
+# EXFOR Ver.      : 20160809
+# TRANS #         : 1421
+# Author          : E.T.Bramlitt et al.
+# Reference       : Phys.Rev. 131 (1963) 2649
+# DOI             : 10.1103/PhysRev.131.2649
+# Quantity        : 65Cu(n,n+a)61Co cross section
+# REACTION        : 29-CU-65(N,N+A)27-CO-61,,SIG
+# File ID         : n-Cu65-na-sig-excfun-mon-prodCo61_Bramlitt_1963_11590.020
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.9000E-03
+# ymax            :   2.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  2.0000E+05  2.9000E-03  8.0000E-04
+#---------------------------------------------------

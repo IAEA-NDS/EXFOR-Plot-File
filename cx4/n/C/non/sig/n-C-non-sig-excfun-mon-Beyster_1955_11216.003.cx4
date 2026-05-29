@@ -1,0 +1,23 @@
+# EXFOR #         : 11216.003  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : J.R.Beyster et al.
+# Reference       : Phys.Rev. 98 (1955) 1216
+# DOI             : 10.1103/PhysRev.98.1216
+# Quantity        : natC(n,non) cross section
+# REACTION        : 6-C-0(N,NON),,SIG
+# File ID         : n-C-non-sig-excfun-mon-Beyster_1955_11216.003
+#
+# npts            : 2           
+# xmin            :   1.0000E+06
+# xmax            :   4.0700E+06
+# ymin            :   0.0000E+00
+# ymax            :   4.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  2.0000E+05  0.0000E+00  4.0000E-02
+  4.0700E+06  7.0000E+05  4.0000E-02  4.0000E-02
+#---------------------------------------------------

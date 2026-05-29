@@ -1,0 +1,24 @@
+# EXFOR #         : 20939.005  
+# EXFOR Ver.      : 20120708
+# TRANS #         : 2234
+# Author          : C.A.Uttley
+# Reference       : Proceedings of Nuclear Structure Study with Neutrons, Antwerp 1965 page 535(98)
+# DOI             : N/A
+# Quantity        : 239Pu(n,tot) cross section
+# REACTION        : 94-PU-239(N,TOT),,SIG
+# File ID         : n-Pu239-tot-sig-excfun-mon-Uttley_1965_20939.005
+#
+# npts            : 3           
+# xmin            :   1.0230E+02
+# xmax            :   1.6320E+02
+# ymin            :   2.0010E-01
+# ymax            :   7.0070E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0230E+02  0.0000E+00  2.0010E-01  0.0000E+00
+  1.0860E+02  0.0000E+00  7.0070E-01  0.0000E+00
+  1.6320E+02  0.0000E+00  3.0290E-01  0.0000E+00
+#---------------------------------------------------

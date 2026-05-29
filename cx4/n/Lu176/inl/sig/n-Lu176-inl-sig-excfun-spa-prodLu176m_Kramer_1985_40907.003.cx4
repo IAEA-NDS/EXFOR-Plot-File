@@ -1,0 +1,22 @@
+# EXFOR #         : 40907.003  
+# EXFOR Ver.      : 20260209
+# TRANS #         : 4226
+# Author          : N.D.Kramer et al.
+# Reference       : Proceedings of 35.Conf.Nucl.Spectr.and Nucl.Struct.,Leningrad 1985 page 372
+# DOI             : N/A
+# Quantity        : 176Lu(n,inl)176mLu cross section
+# REACTION        : 71-LU-176(N,INL)71-LU-176-M,,SIG,,SPA
+# File ID         : n-Lu176-inl-sig-excfun-spa-prodLu176m_Kramer_1985_40907.003
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.2000E-01
+# ymax            :   2.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.2000E-01  5.0000E-02
+#---------------------------------------------------

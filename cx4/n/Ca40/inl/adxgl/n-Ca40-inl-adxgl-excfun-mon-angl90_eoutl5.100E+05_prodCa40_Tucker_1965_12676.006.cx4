@@ -1,0 +1,31 @@
+# EXFOR #         : 12676.006  
+# EXFOR Ver.      : 20050518
+# TRANS #         : 0000
+# Author          : W.E.Tucker
+# Reference       : Phys.Rev. 140 (1965) B1541
+# DOI             : 10.1103/PhysRev.140.B1541
+# Quantity        : 40Ca(n,inl)40Ca partial gamma angular differential cross section
+# REACTION        : 20-CA-40(N,INL)20-CA-40,PAR,DA,G
+# File ID         : n-Ca40-inl-adxgl-excfun-mon-angl90_eoutl5.100E+05_prodCa40_Tucker_1965_12676.006
+#
+# theta,lab (deg) :   90.0000000
+# Eout,lab (eV)   :   5.1000E+05
+#
+# npts            : 7           
+# xmin            :   3.5000E+06
+# xmax            :   5.0000E+06
+# ymin            :   6.0000E-04
+# ymax            :   1.5700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.5000E+06  0.0000E+00  6.0000E-04  2.0000E-04
+  3.7500E+06  0.0000E+00  8.2000E-03  2.5000E-03
+  4.0000E+06  0.0000E+00  7.1000E-03  2.0000E-03
+  4.2000E+06  0.0000E+00  8.3000E-03  1.7000E-03
+  4.4300E+06  0.0000E+00  1.0100E-02  2.4000E-03
+  4.7500E+06  0.0000E+00  1.2400E-02  2.5000E-03
+  5.0000E+06  0.0000E+00  1.5700E-02  3.1000E-03
+#---------------------------------------------------

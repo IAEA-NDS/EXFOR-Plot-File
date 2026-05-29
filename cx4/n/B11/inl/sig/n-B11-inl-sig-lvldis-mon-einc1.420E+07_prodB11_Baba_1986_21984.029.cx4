@@ -1,0 +1,24 @@
+# EXFOR #         : 21984.029  
+# EXFOR Ver.      : 20151128
+# TRANS #         : 2247
+# Author          : M.Baba et al.
+# Reference       : Radiat.Eff. 92 (1986) 223
+# DOI             : 10.1080/00337578608208327
+# Quantity        : 11B(n,inl)11B partial cross section
+# REACTION        : 5-B-11(N,INL)5-B-11,PAR,SIG
+# File ID         : n-B11-inl-sig-lvldis-mon-einc1.420E+07_prodB11_Baba_1986_21984.029
+#
+# Einc (eV)       :   1.4200E+07
+#
+# npts            : 1           
+# xmin            :   2.1400E+06
+# xmax            :   2.1400E+06
+# ymin            :   3.0200E-02
+# ymax            :   3.0200E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1400E+06  0.0000E+00  3.0200E-02  3.4000E-03
+#---------------------------------------------------

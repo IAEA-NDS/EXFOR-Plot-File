@@ -1,0 +1,22 @@
+# EXFOR #         : 11747.003  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : H.G.Blosser et al.
+# Reference       : Phys.Rev. 110 (1958) 531
+# DOI             : 10.1103/PhysRev.110.531
+# Quantity        : 79Br(n,a)76As cross section
+# REACTION        : 35-BR-79(N,A)33-AS-76,,SIG
+# File ID         : n-Br79-a-sig-excfun-mon-prodAs76_Blosser_1958_11747.003
+#
+# npts            : 1           
+# xmin            :   1.4050E+07
+# xmax            :   1.4050E+07
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4050E+07  5.5000E+05  1.0000E-02  1.8000E-03
+#---------------------------------------------------

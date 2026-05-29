@@ -1,0 +1,26 @@
+# EXFOR #         : 10210.005  
+# EXFOR Ver.      : 19821012
+# TRANS #         : 0000
+# Author          : G.Tessler et al.
+# Reference       : Phys.Rev.C 2 (1970) 2390
+# DOI             : 10.1103/PhysRevC.2.2390
+# Quantity        : 94Zr(n,inl)94Zr partial gamma production cross section
+# REACTION        : 40-ZR-94(N,INL)40-ZR-94,PAR,SIG,G
+# File ID         : n-Zr94-inl-sigg-excfun-mon-elvl2.360E+06_prodZr94_Tessler_1970_10210.005
+#
+# Elvl (eV)       :   2.3600E+06
+#
+# npts            : 3           
+# xmin            :   2.3690E+06
+# xmax            :   2.5770E+06
+# ymin            :   1.3700E-02
+# ymax            :   5.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3690E+06  0.0000E+00  1.3700E-02  9.3000E-03
+  2.4530E+06  0.0000E+00  2.5000E-02  8.0000E-03
+  2.5770E+06  0.0000E+00  5.7000E-02  1.4000E-02
+#---------------------------------------------------

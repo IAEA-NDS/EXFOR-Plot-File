@@ -1,0 +1,26 @@
+# EXFOR #         : 11489.004  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : J.W.Boring et al.
+# Reference       : Phys.Rev. 124 (1961) 1531
+# DOI             : 10.1103/PhysRev.124.1531
+# Quantity        : 55Mn(n,inl)55Mn partial gamma production cross section
+# REACTION        : 25-MN-55(N,INL)25-MN-55,PAR,SIG,G
+# File ID         : n-Mn55-inl-sigg-enedisl-mon-einc2.900E+06_prodMn55_Boring_1961_11489.004
+#
+# Einc (eV)       :   2.9000E+06
+# dEinc (eV)      :   1.7000E+05
+#
+# npts            : 2           
+# xmin            :   8.6100E+05
+# xmax            :   1.1800E+06
+# ymin            :   3.1000E-01
+# ymax            :   3.5600E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.6100E+05  0.0000E+00  3.5600E-01  2.0000E-02
+  1.1800E+06  0.0000E+00  3.1000E-01  2.0000E-02
+#---------------------------------------------------

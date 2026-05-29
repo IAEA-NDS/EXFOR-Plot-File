@@ -1,0 +1,29 @@
+# EXFOR #         : 32226.004  
+# EXFOR Ver.      : 20091116
+# TRANS #         : 3143
+# Author          : R.M.Musaelyan et al.
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 217
+# DOI             : N/A
+# Quantity        : 126Te(n,el)126Te angular differential cross section
+# REACTION        : 52-TE-126(N,EL)52-TE-126,,DA
+# File ID         : n-Te126-el-adxl-angdisl-mon-einc1.200E+06_prodTe126_Musaelyan_1987_32226.004
+#
+# Einc (eV)       :   1.2000E+06
+# dEinc (eV)      :   5.5000E+04
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  152.0000000
+# ymin            :   1.0470E-01
+# ymax            :   1.4210E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  1.4210E+00  7.4000E-02
+  60.0000000   0.0000000  5.2400E-01  2.6000E-02
+  90.0000000   0.0000000  1.3800E-01  8.6000E-03
+ 120.0000000   0.0000000  1.0470E-01  6.5000E-03
+ 152.0000000   0.0000000  2.7600E-01  1.3800E-02
+#---------------------------------------------------

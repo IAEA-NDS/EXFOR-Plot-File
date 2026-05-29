@@ -1,0 +1,22 @@
+# EXFOR #         : 20721.010  
+# EXFOR Ver.      : 20150912
+# TRANS #         : 2243
+# Author          : N.I.Molla et al.
+# Reference       : Nucl.Phys.A 283 (1977) 269
+# DOI             : 10.1016/0375-9474(77)90431-6
+# Quantity        : 50Ti(n,x)49Sc independent production cross section
+# REACTION        : 22-TI-50(N,X)21-SC-49,,SIG
+# File ID         : n-Ti50-x-sig-excfun-mon-prodSc49_Molla_1977_20721.010
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   3.0000E-03
+# ymax            :   3.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  3.0000E+05  3.0000E-03  8.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : 40787.011  
+# EXFOR Ver.      : 20231113
+# TRANS #         : 4216
+# Author          : G.N.Lovchikova
+# Reference       : J.Exp.Theor.Phys. 11 (1960) 1036
+# DOI             : N/A
+# Quantity        : 209Bi(n,el)209Bi angular differential cross section
+# REACTION        : 83-BI-209(N,EL)83-BI-209,,DA
+# File ID         : n-Bi209-el-adxl-angdisl-mon-einc2.200E+05_prodBi209_Lovchikova_1960_40787.011
+#
+# Einc (eV)       :   2.2000E+05
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   5.4000E-04
+# ymax            :   9.5000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000  10.0000000  9.5000E-04  5.0000E-05
+  60.0000000  10.0000000  7.6000E-04  2.0000E-05
+  90.0000000  10.0000000  5.6000E-04  2.0000E-05
+ 120.0000000  10.0000000  5.5000E-04  4.0000E-05
+ 150.0000000  10.0000000  5.4000E-04  6.0000E-05
+#---------------------------------------------------

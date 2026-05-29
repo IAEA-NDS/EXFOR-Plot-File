@@ -1,0 +1,22 @@
+# EXFOR #         : 30013.005  
+# EXFOR Ver.      : 20070806
+# TRANS #         : 3123
+# Author          : B.Mitra et al.
+# Reference       : Nucl.Phys. 83 (1966) 157
+# DOI             : 10.1016/0029-5582(66)90346-4
+# Quantity        : 27Al(n,p)27Mg cross section
+# REACTION        : 13-AL-27(N,P)12-MG-27,,SIG
+# File ID         : n-Al27-p-sig-excfun-mon-prodMg27_Mitra_1966_30013.005
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   9.7000E-02
+# ymax            :   9.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  1.0000E+05  9.7000E-02  1.0000E-02
+#---------------------------------------------------

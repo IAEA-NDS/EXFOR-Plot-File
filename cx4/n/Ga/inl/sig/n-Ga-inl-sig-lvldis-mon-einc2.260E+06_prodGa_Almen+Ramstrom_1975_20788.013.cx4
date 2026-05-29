@@ -1,0 +1,28 @@
+# EXFOR #         : 20788.013  
+# EXFOR Ver.      : 20120731
+# TRANS #         : 2232
+# Author          : E.Almen-Ramstrom
+# Reference       : Report AE-503, 1975
+# DOI             : N/A
+# Quantity        : natGa(n,inl)natGa partial cross section
+# REACTION        : 31-GA-0(N,INL)31-GA-0,PAR,SIG
+# File ID         : n-Ga-inl-sig-lvldis-mon-einc2.260E+06_prodGa_Almen+Ramstrom_1975_20788.013
+#
+# Einc (eV)       :   2.2600E+06
+#
+# npts            : 5           
+# xmin            :   3.5450E+05
+# xmax            :   1.3645E+06
+# ymin            :   9.1000E-02
+# ymax            :   2.1800E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5450E+05  3.5500E+04  9.1000E-02  1.8000E-02
+  5.3050E+05  4.3500E+04  2.1800E-01  3.3000E-02
+  9.1850E+05  4.6500E+04  2.1700E-01  3.3000E-02
+  1.0675E+06  4.0500E+04  1.5300E-01  2.3000E-02
+  1.3645E+06  3.0500E+04  1.0100E-01  2.0000E-02
+#---------------------------------------------------

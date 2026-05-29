@@ -1,0 +1,22 @@
+# EXFOR #         : 40389.018  
+# EXFOR Ver.      : 20220322
+# TRANS #         : 4207
+# Author          : N.V.Skovorodkin et al.
+# Reference       : Sov.At.Energy 35 (1973) 1109
+# DOI             : 10.1007/BF01161890
+# Quantity        : 241Am(n,f)136Cs independent fission product yield
+# REACTION        : 95-AM-241(N,F)55-CS-136,IND,FY,,SPA
+# File ID         : n-Am241-f-fyi-excfun-spa-prodCs136_Skovorodkin_1973_40389.018
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.6600E-03
+# ymax            :   2.6600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,ind      dFY,ind     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.6600E-03  1.4000E-04
+#---------------------------------------------------

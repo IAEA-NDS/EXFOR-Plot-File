@@ -1,0 +1,28 @@
+# EXFOR #         : 30563.015  
+# EXFOR Ver.      : 20090505
+# TRANS #         : 3137
+# Author          : D.Seeliger et al.
+# Reference       : Nucl.Phys.A 460 (1986) 265
+# DOI             : 10.1016/0375-9474(86)90127-2
+# Quantity        : 28Si(n,inl)28Si partial angular differential cross section
+# REACTION        : 14-SI-28(N,INL)14-SI-28,PAR,DA
+# File ID         : n-Si28-inl-adxc-angdisc-mon-einc1.200E+07_elvl6.272E+06_prodSi28_Seeliger_1986_30563.015
+#
+# Einc (eV)       :   1.2000E+07
+# dEinc (eV)      :   1.0900E+05
+# Elvl (eV)       :   6.2720E+06
+#
+# npts            : 3           
+# xmin            :   41.9430000
+# xmax            :  161.0400000
+# ymin            :   2.9090E-03
+# ymax            :   4.5480E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  41.9430000   4.3000000  3.8450E-03  9.5900E-04
+  62.6180000   4.3000000  2.9090E-03  2.6810E-03
+ 161.0400000   4.3000000  4.5480E-03  2.7440E-03
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : 41007.026  
+# EXFOR Ver.      : 20120420
+# TRANS #         : 4157
+# Author          : Yu.M.Burmistrov et al.
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 217
+# DOI             : N/A
+# Quantity        : 130Te(n,el)130Te angular differential cross section
+# REACTION        : 52-TE-130(N,EL)52-TE-130,,DA
+# File ID         : n-Te130-el-adxl-angdisl-mon-einc9.000E+05_prodTe130_Burmistrov_1987_41007.026
+#
+# Einc (eV)       :   9.0000E+05
+# dEinc (eV)      :   6.0000E+04
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   1.7100E-01
+# ymax            :   1.5730E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  1.5730E+00  1.1000E-01
+  60.0000000   0.0000000  7.6100E-01  5.3000E-02
+  90.0000000   0.0000000  2.6000E-01  1.8000E-02
+ 120.0000000   0.0000000  1.7100E-01  1.2000E-02
+ 150.0000000   0.0000000  3.1400E-01  2.2000E-02
+#---------------------------------------------------

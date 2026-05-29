@@ -1,0 +1,27 @@
+# EXFOR #         : 21754.002  
+# EXFOR Ver.      : 20151213
+# TRANS #         : 2246
+# Author          : D.C.Aumann et al.
+# Reference       : J.Inorg.Nucl.Chem. 43 No.10 (1981) 2223
+# DOI             : 10.1016/0022-1902(81)80236-9
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY,,MXW
+# File ID         : n-U235-f-fyi-nucdis-mxw-einc2.530E-02_Aumann_1981_21754.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 4           
+# xmin            : 45101.0     
+# xmax            : 45102.9     
+# ymin            :   3.2000E-13
+# ymax            :   1.1700E-11
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     45102.1  5.2000E-12  2.5000E-12
+     45102.0  6.5000E-12  1.7000E-12
+     45102.9  1.1700E-11  3.0000E-12
+     45101.0  3.2000E-13  8.0000E-14
+#---------------------------------------------------

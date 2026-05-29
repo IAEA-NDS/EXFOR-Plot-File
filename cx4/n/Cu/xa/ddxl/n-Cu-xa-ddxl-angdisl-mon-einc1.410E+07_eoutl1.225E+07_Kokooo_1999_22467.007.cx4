@@ -1,0 +1,28 @@
+# EXFOR #         : 22467.007  
+# EXFOR Ver.      : 20000603
+# TRANS #         : 0000
+# Author          : Kokooo et al.
+# Reference       : Nucl.Sci.Eng. 132 No.1 (1999) 16
+# DOI             : 10.13182/NSE99-A2046
+# Quantity        : natCu(n,a+x) double differential cross section
+# REACTION        : 29-CU-0(N,X)2-HE-4,,DA/DE
+# File ID         : n-Cu-xa-ddxl-angdisl-mon-einc1.410E+07_eoutl1.225E+07_Kokooo_1999_22467.007
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.0000E+05
+# Eout,lab (eV)   :   1.2250E+07
+#
+# npts            : 3           
+# xmin            :   30.0000000
+# xmax            :   90.0000000
+# ymin            :   7.1540E-11
+# ymax            :   2.0150E-10
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  30.0000000   0.0000000  2.0150E-10  7.6720E-11
+  60.0000000   0.0000000  7.1540E-11  5.0570E-11
+  90.0000000   0.0000000  1.5880E-10  1.0390E-10
+#---------------------------------------------------

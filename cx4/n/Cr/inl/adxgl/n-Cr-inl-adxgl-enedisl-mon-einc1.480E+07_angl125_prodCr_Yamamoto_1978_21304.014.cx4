@@ -1,0 +1,32 @@
+# EXFOR #         : 21304.014  
+# EXFOR Ver.      : 20230130
+# TRANS #         : 2313
+# Author          : T.Yamamoto et al.
+# Reference       : J.Nucl.Sci.Technol. 15 (1978) 797
+# DOI             : 10.1080/18811248.1978.9735594
+# Quantity        : natCr(n,inl)natCr partial gamma angular differential cross section
+# REACTION        : 24-CR-0(N,INL)24-CR-0,PAR,DA,G
+# File ID         : n-Cr-inl-adxgl-enedisl-mon-einc1.480E+07_angl125_prodCr_Yamamoto_1978_21304.014
+#
+# Einc (eV)       :   1.4800E+07
+# dEinc (eV)      :   2.0000E+05
+# theta,lab (deg) :  125.0000000
+# dtheta,lab (deg):    6.0000000
+#
+# npts            : 6           
+# xmin            :   7.4400E+05
+# xmax            :   1.5330E+06
+# ymin            :   5.9000E-03
+# ymax            :   5.8700E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.4400E+05  0.0000E+00  1.0200E-02  3.4000E-03
+  9.3400E+05  0.0000E+00  1.6800E-02  2.1000E-03
+  1.2140E+06  0.0000E+00  1.2600E-02  2.3000E-03
+  1.3340E+06  0.0000E+00  1.3800E-02  2.3000E-03
+  1.4340E+06  0.0000E+00  5.8700E-02  4.1000E-03
+  1.5330E+06  0.0000E+00  5.9000E-03  1.8000E-03
+#---------------------------------------------------

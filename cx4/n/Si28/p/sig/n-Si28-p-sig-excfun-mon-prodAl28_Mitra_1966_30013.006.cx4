@@ -1,0 +1,22 @@
+# EXFOR #         : 30013.006  
+# EXFOR Ver.      : 20070806
+# TRANS #         : 3123
+# Author          : B.Mitra et al.
+# Reference       : Nucl.Phys. 83 (1966) 157
+# DOI             : 10.1016/0029-5582(66)90346-4
+# Quantity        : 28Si(n,p)28Al cross section
+# REACTION        : 14-SI-28(N,P)13-AL-28,,SIG
+# File ID         : n-Si28-p-sig-excfun-mon-prodAl28_Mitra_1966_30013.006
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   2.2200E-01
+# ymax            :   2.2200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  1.0000E+05  2.2200E-01  1.2000E-02
+#---------------------------------------------------

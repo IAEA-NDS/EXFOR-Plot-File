@@ -1,0 +1,29 @@
+# EXFOR #         : 20478.002  
+# EXFOR Ver.      : 19840120
+# TRANS #         : 0000
+# Author          : J.Lachkar et al.
+# Reference       : Proceedings of 2.Conf.on Neutron Physics, Kiev 1973 3 page 187
+# DOI             : N/A
+# Quantity        : 23Na(n,inl)23Na partial gamma angular differential cross section
+# REACTION        : 11-NA-23(N,INL)11-NA-23,PAR,DA,G
+# File ID         : n-Na23-inl-adxgl-angdisl-mon-einc8.300E+06_eoutl2.542E+06_prodNa23_Lachkar_1973_20478.002
+#
+# Einc (eV)       :   8.3000E+06
+# dEinc (eV)      :   5.0000E+04
+# Eout,lab (eV)   :   2.5423E+06
+#
+# npts            : 4           
+# xmin            :   50.0005600
+# xmax            :  109.9999000
+# ymin            :   9.0000E-04
+# ymax            :   1.4000E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 109.9999000   0.0000000  1.1000E-03  7.0000E-04
+  90.0000000   0.0000000  9.0000E-04  6.0000E-04
+  70.0000000   0.0000000  1.4000E-03  4.0000E-04
+  50.0005600   0.0000000  1.4000E-03  6.0000E-04
+#---------------------------------------------------

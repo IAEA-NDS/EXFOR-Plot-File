@@ -1,0 +1,29 @@
+# EXFOR #         : 10827.096  
+# EXFOR Ver.      : 20110731
+# TRANS #         : 1374
+# Author          : S.M.Grimes et al.
+# Reference       : Phys.Rev.C 19 (1979) 2127
+# DOI             : 10.1103/PhysRevC.19.2127
+# Quantity        : natNi(n,d) partial angular differential cross section
+# REACTION        : 28-NI-0(N,D),PAR,DA,,AV
+# File ID         : n-Ni-d-adxl-angdisl-mon-einc1.480E+07_eoutl9.250E+06_prodCo-1_Grimes_1979_10827.096
+#
+# Einc (eV)       :   1.4800E+07
+# Eout,lab (eV)   :   9.2500E+06
+# dEout,lab (eV)  :   2.5000E+05
+#
+# npts            : 4           
+# xmin            :   30.0000000
+# xmax            :  135.0000000
+# ymin            :   4.0000E-06
+# ymax            :   5.0000E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  5.0000E-05  1.5000E-05
+  45.0000000   0.0000000  3.0000E-05  1.0000E-05
+  90.0000000   0.0000000  1.0000E-05  1.0000E-05
+ 135.0000000   0.0000000  4.0000E-06  8.0000E-06
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 23267.038.3
+# EXFOR Ver.      : 20211120
+# TRANS #         : 2305
+# Author          : J.Marganiec et al.
+# Reference       : Phys.Rev.C 90 (2014) 065801
+# DOI             : 10.1103/PhysRevC.90.065801
+# Quantity        : 196Pt(n,g)197gPt cumulative production cross section
+# REACTION        : 78-PT-196(N,G)78-PT-197-G,M+,SIG,,SPA/AV
+# File ID         : n-Pt196-x-sigc-excfun-spa-prodPt197g_Marganiec_2014_23267.038.3
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   1.7990E-01
+# ymax            :   1.7990E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  1.7990E-01  1.9789E-02
+#---------------------------------------------------

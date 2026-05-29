@@ -1,0 +1,22 @@
+# EXFOR #         : 11832.012  
+# EXFOR Ver.      : 19830919
+# TRANS #         : 0000
+# Author          : H.H.Kramer et al.
+# Reference       : Nucl.Sci.Eng. 22 (1965) 373
+# DOI             : 10.13182/NSE65-A20941
+# Quantity        : 87Sr(n,inl)87mSr cross section
+# REACTION        : 38-SR-87(N,INL)38-SR-87-M,,SIG,,FIS
+# File ID         : n-Sr87-inl-sig-excfun-fis-prodSr87m_Kramer_1965_11832.012
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   1.2000E-01
+# ymax            :   1.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  1.2000E-01  1.2000E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 11521.009  
+# EXFOR Ver.      : 20220320
+# TRANS #         : 1494
+# Author          : A.P.Arya et al.
+# Reference       : Bull.Am.Phys.Soc. 12 (1967) 124(HD4)
+# DOI             : N/A
+# Quantity        : 65Cu(n,inl)65Cu partial gamma angular differential cross section
+# REACTION        : 29-CU-65(N,INL)29-CU-65,PAR,DA,G
+# File ID         : n-Cu65-inl-adxgl-enedisl-mon-einc1.430E+07_angl90_prodCu65_Arya_1967_11521.009
+#
+# Einc (eV)       :   1.4300E+07
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   1.1100E+06
+# xmax            :   1.1100E+06
+# ymin            :   3.2300E-02
+# ymax            :   3.2300E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1100E+06  0.0000E+00  3.2300E-02  1.2000E-02
+#---------------------------------------------------

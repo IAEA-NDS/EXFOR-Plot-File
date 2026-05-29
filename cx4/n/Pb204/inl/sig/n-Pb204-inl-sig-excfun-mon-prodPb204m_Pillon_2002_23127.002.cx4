@@ -1,0 +1,23 @@
+# EXFOR #         : 23127.002  
+# EXFOR Ver.      : 20141126
+# TRANS #         : 2242
+# Author          : M.Pillon
+# Reference       : Private communication  (2002)
+# DOI             : N/A
+# Quantity        : 204Pb(n,inl)204mPb cross section
+# REACTION        : 82-PB-204(N,INL)82-PB-204-M,,SIG
+# File ID         : n-Pb204-inl-sig-excfun-mon-prodPb204m_Pillon_2002_23127.002
+#
+# npts            : 2           
+# xmin            :   2.8800E+06
+# xmax            :   1.4470E+07
+# ymin            :   1.7200E-02
+# ymax            :   6.6300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8800E+06  2.1300E+05  1.7200E-02  8.6000E-04
+  1.4470E+07  2.3900E+04  6.6300E-02  5.9000E-03
+#---------------------------------------------------

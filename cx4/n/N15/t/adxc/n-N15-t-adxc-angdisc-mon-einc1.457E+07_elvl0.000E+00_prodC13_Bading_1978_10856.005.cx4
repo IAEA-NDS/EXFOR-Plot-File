@@ -1,0 +1,30 @@
+# EXFOR #         : 10856.005  
+# EXFOR Ver.      : 20200229
+# TRANS #         : 1464
+# Author          : J.Bading et al.
+# Reference       : Bull.Am.Phys.Soc. 23 (1978) 525(BI1)
+# DOI             : N/A
+# Quantity        : 15N(n,t)13C partial angular differential cross section
+# REACTION        : 7-N-15(N,T)6-C-13,PAR,DA
+# File ID         : n-N15-t-adxc-angdisc-mon-einc1.457E+07_elvl0.000E+00_prodC13_Bading_1978_10856.005
+#
+# Einc (eV)       :   1.4570E+07
+# dEinc (eV)      :   2.0000E+04
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :   14.2000000
+# xmax            :   72.0000000
+# ymin            :   9.7000E-04
+# ymax            :   2.2800E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  14.2000000   0.0000000  2.2800E-03  3.3000E-04
+  19.6000000   0.0000000  2.1300E-03  3.3000E-04
+  27.7000000   0.0000000  2.1700E-03  3.0000E-04
+  40.2000000   0.0000000  1.7900E-03  2.9000E-04
+  72.0000000   0.0000000  9.7000E-04  3.7000E-04
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : 10073.125  
+# EXFOR Ver.      : 19991012
+# TRANS #         : 0000
+# Author          : A.B.Smith et al.
+# Reference       : Nucl.Sci.Eng. 49 (1972) 389
+# DOI             : 10.13182/NSE72-A22553
+# Quantity        : natPd(n,inl)natPd partial cross section
+# REACTION        : 46-PD-0(N,INL)46-PD-0,PAR,SIG
+# File ID         : n-Pd-inl-sig-excfun-mon-elvl8.300E+05_prodPd_Smith_1972_10073.125
+#
+# Elvl (eV)       :   8.3000E+05
+#
+# npts            : 4           
+# xmin            :   1.3000E+06
+# xmax            :   1.4500E+06
+# ymin            :   9.8800E-02
+# ymax            :   2.7130E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+06  2.0000E+04  9.8800E-02  7.1860E-02
+  1.3500E+06  2.0000E+04  2.5770E-01  8.2040E-02
+  1.4000E+06  2.0000E+04  2.0840E-01  8.5490E-02
+  1.4500E+06  2.0000E+04  2.7130E-01  8.9310E-02
+#---------------------------------------------------

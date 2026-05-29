@@ -1,0 +1,24 @@
+# EXFOR #         : 11341.006  
+# EXFOR Ver.      : 19860326
+# TRANS #         : 0000
+# Author          : N.A.Bostrom et al.
+# Reference       : Report WADC-TR-59-31, 1959
+# DOI             : N/A
+# Quantity        : natFe(n,el)natFe cross section
+# REACTION        : 26-FE-0(N,EL)26-FE-0,,SIG
+# File ID         : n-Fe-el-sig-excfun-mon-prodFe_Bostrom_1959_11341.006
+#
+# npts            : 3           
+# xmin            :   3.6700E+06
+# xmax            :   4.7000E+06
+# ymin            :   2.2000E+00
+# ymax            :   2.3000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6700E+06  1.2000E+05  2.3000E+00  2.0000E-01
+  4.2100E+06  1.0000E+05  2.2000E+00  2.0000E-01
+  4.7000E+06  9.0000E+04  2.2500E+00  2.0000E-01
+#---------------------------------------------------

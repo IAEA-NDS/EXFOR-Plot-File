@@ -1,0 +1,22 @@
+# EXFOR #         : 11590.023  
+# EXFOR Ver.      : 20160809
+# TRANS #         : 1421
+# Author          : E.T.Bramlitt et al.
+# Reference       : Phys.Rev. 131 (1963) 2649
+# DOI             : 10.1103/PhysRev.131.2649
+# Quantity        : 64Zn(n,p)64Cu cross section
+# REACTION        : 30-ZN-64(N,P)29-CU-64,,SIG
+# File ID         : n-Zn64-p-sig-excfun-mon-prodCu64_Bramlitt_1963_11590.023
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.3000E-01
+# ymax            :   2.3000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  2.0000E+05  2.3000E-01  3.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,30 @@
+# EXFOR #         : 40101.011  
+# EXFOR Ver.      : 20210729
+# TRANS #         : 4200
+# Author          : V.I.Popov et al.
+# Reference       : Proceedings of Neutron Physics Conf., Kiev 1971 1 page 223
+# DOI             : N/A
+# Quantity        : 23Na(n,inl)23Na partial angular differential cross section
+# REACTION        : 11-NA-23(N,INL)11-NA-23,PAR,DA
+# File ID         : n-Na23-inl-adxl-angdisl-mon-einc4.370E+06_elvl4.400E+05_prodNa23_Popov_1971_40101.011
+#
+# Einc (eV)       :   4.3700E+06
+# dEinc (eV)      :   1.8000E+05
+# Elvl (eV)       :   4.4000E+05
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   2.0200E+01
+# ymax            :   2.7900E+01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  2.0200E+01  4.0000E+00
+  60.0000000   0.0000000  2.0700E+01  3.9000E+00
+  90.0000000   0.0000000  2.3400E+01  5.1000E+00
+ 120.0000000   0.0000000  2.4600E+01  3.9000E+00
+ 150.0000000   0.0000000  2.7900E+01  6.1000E+00
+#---------------------------------------------------

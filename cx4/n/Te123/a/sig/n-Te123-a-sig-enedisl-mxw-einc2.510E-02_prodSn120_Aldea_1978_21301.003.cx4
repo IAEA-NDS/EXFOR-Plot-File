@@ -1,0 +1,25 @@
+# EXFOR #         : 21301.003  
+# EXFOR Ver.      : 19801024
+# TRANS #         : 0000
+# Author          : L.Aldea et al.
+# Reference       : Proceedings of 3.Symp.Neutr.Capt.Gamma Ray Spectr.,Brookhaven 1978
+# DOI             : N/A
+# Quantity        : 123Te(n,a)120Sn partial cross section
+# REACTION        : 52-TE-123(N,A)50-SN-120,PAR,SIG,,MXW
+# File ID         : n-Te123-a-sig-enedisl-mxw-einc2.510E-02_prodSn120_Aldea_1978_21301.003
+#
+# Einc (eV)       :   2.5100E-02
+#
+# npts            : 2           
+# xmin            :   6.1000E+06
+# xmax            :   7.3000E+06
+# ymin            :   1.2000E-05
+# ymax            :   4.2000E-05
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.1000E+06  0.0000E+00  1.2000E-05  5.0000E-06
+  7.3000E+06  0.0000E+00  4.2000E-05  7.0000E-06
+#---------------------------------------------------

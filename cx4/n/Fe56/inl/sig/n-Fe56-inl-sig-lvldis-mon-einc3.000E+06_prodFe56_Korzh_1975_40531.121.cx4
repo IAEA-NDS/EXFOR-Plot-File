@@ -1,0 +1,26 @@
+# EXFOR #         : 40531.121  
+# EXFOR Ver.      : 20211230
+# TRANS #         : 4203
+# Author          : I.A.Korzh et al.
+# Reference       : Proceedings of 3.All Union Conf.on Neutron Phys.,Kiev,9-13 Jun 1975 4 page 220
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe partial cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG
+# File ID         : n-Fe56-inl-sig-lvldis-mon-einc3.000E+06_prodFe56_Korzh_1975_40531.121
+#
+# Einc (eV)       :   3.0000E+06
+# dEinc (eV)      :   5.0000E+04
+#
+# npts            : 2           
+# xmin            :   8.4700E+05
+# xmax            :   2.0850E+06
+# ymin            :   1.4000E-01
+# ymax            :   7.2800E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.4700E+05  0.0000E+00  7.2800E-01  2.6000E-02
+  2.0850E+06  0.0000E+00  1.4000E-01  1.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 11223.006  
+# EXFOR Ver.      : 20100609
+# TRANS #         : 1365
+# Author          : L.Rosen et al.
+# Reference       : Phys.Rev. 107 (1957) 824
+# DOI             : 10.1103/PhysRev.107.824
+# Quantity        : 181Ta(n,inl)181Ta cross section
+# REACTION        : 73-TA-181(N,INL)73-TA-181,,SIG
+# File ID         : n-Ta181-inl-sig-excfun-mon-prodTa181_Rosen_1957_11223.006
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   1.7000E-01
+# ymax            :   1.7000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  1.7000E-01  3.0000E-02
+#---------------------------------------------------

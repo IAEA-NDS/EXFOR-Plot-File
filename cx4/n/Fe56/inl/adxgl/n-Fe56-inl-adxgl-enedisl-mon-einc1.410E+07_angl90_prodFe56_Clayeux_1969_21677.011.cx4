@@ -1,0 +1,29 @@
+# EXFOR #         : 21677.011  
+# EXFOR Ver.      : 20170811
+# TRANS #         : 2264
+# Author          : G.Clayeux et al.
+# Reference       : Report CEA-R-3807, 1969
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe partial gamma angular differential cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,DA,G,A
+# File ID         : n-Fe56-inl-adxgl-enedisl-mon-einc1.410E+07_angl90_prodFe56_Clayeux_1969_21677.011
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 4           
+# xmin            :   8.5000E+05
+# xmax            :   2.6000E+06
+# ymin            :   2.6157E-05
+# ymax            :   4.0979E-04
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.5000E+05  0.0000E+00  4.0979E-04  2.3977E-05
+  1.2400E+06  0.0000E+00  2.3977E-04  1.5258E-05
+  1.8100E+06  0.0000E+00  4.1415E-05  4.3595E-06
+  2.6000E+06  0.0000E+00  2.6157E-05  5.4494E-06
+#---------------------------------------------------

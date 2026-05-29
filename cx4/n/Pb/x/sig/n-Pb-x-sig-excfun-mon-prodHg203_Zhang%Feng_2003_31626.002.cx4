@@ -1,0 +1,24 @@
+# EXFOR #         : 31626.002  
+# EXFOR Ver.      : 20080722
+# TRANS #         : 3128
+# Author          : Zhang Feng et al.
+# Reference       : High En.Nucl.Phy.Ch. 27 (2003) 28
+# DOI             : N/A
+# Quantity        : natPb(n,x)203Hg independent production cross section
+# REACTION        : 82-PB-0(N,X)80-HG-203,,SIG
+# File ID         : n-Pb-x-sig-excfun-mon-prodHg203_Zhang%Feng_2003_31626.002
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.3500E-04
+# ymax            :   3.3300E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  2.3500E-04  1.6000E-05
+  1.4400E+07  2.0000E+05  2.9500E-04  2.0000E-05
+  1.4700E+07  2.0000E+05  3.3300E-04  2.3000E-05
+#---------------------------------------------------

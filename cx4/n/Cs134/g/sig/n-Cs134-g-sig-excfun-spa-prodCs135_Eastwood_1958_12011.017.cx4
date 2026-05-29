@@ -1,0 +1,23 @@
+# EXFOR #         : 12011.017  
+# EXFOR Ver.      : 20220530
+# TRANS #         : 1503
+# Author          : T.A.Eastwood et al.
+# Reference       : Proceedings of Second Internat. At.En. Conf., Geneva 1958 16 page 54(203)
+# DOI             : N/A
+# Quantity        : 134Cs(n,g)135Cs cross section
+# REACTION        : 55-CS-134(N,G)55-CS-135,,SIG,,SPA
+# File ID         : n-Cs134-g-sig-excfun-spa-prodCs135_Eastwood_1958_12011.017
+#
+# npts            : 2           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.3400E+02
+# ymax            :   1.4200E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.3400E+02  7.0000E+00
+  2.5300E-02  0.0000E+00  1.4200E+02  1.4000E+01
+#---------------------------------------------------

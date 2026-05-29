@@ -1,0 +1,24 @@
+# EXFOR #         : 11495.032  
+# EXFOR Ver.      : 20230912
+# TRANS #         : 1508
+# Author          : D.B.Thomson
+# Reference       : Phys.Rev. 129 (1963) 1649
+# DOI             : 10.1103/PhysRev.129.1649
+# Quantity        : natIn(n,inl)natIn cross section
+# REACTION        : 49-IN-0(N,INL)49-IN-0,,SIG
+# File ID         : n-In-inl-sig-excfun-mon-prodIn_Thomson_1963_11495.032
+#
+# npts            : 3           
+# xmin            :   5.0000E+06
+# xmax            :   7.0000E+06
+# ymin            :   2.0900E+00
+# ymax            :   2.3900E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+06  0.0000E+00  2.2700E+00  1.8000E-01
+  6.0000E+06  0.0000E+00  2.3900E+00  2.2000E-01
+  7.0000E+06  1.0000E+05  2.0900E+00  1.5000E-01
+#---------------------------------------------------

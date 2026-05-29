@@ -1,0 +1,28 @@
+# EXFOR #         : 10560.007  
+# EXFOR Ver.      : 20040517
+# TRANS #         : 0000
+# Author          : P.Guenther et al.
+# Reference       : Report ANL-NDM-16, 1975
+# DOI             : N/A
+# Quantity        : 238U(n,inl)238U partial angular differential cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,DA
+# File ID         : n-U238-inl-adxl-excfun-mon-angl120_elvl4.500E+04_prodU238_Guenther_1975_10560.007
+#
+# theta,lab (deg) :  120.0000000
+# Elvl (eV)       :   4.5000E+04
+#
+# npts            : 4           
+# xmin            :   1.5000E+06
+# xmax            :   3.0000E+06
+# ymin            :   2.4000E-02
+# ymax            :   4.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  4.9000E-02  7.3500E-03
+  2.1000E+06  0.0000E+00  3.3000E-02  4.9500E-03
+  2.7000E+06  0.0000E+00  2.4000E-02  4.8000E-03
+  3.0000E+06  0.0000E+00  2.5000E-02  7.0000E-03
+#---------------------------------------------------

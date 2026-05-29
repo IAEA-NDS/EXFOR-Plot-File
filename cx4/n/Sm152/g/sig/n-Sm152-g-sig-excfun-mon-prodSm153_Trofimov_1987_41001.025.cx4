@@ -1,0 +1,22 @@
+# EXFOR #         : 41001.025  
+# EXFOR Ver.      : 20250805
+# TRANS #         : 4224
+# Author          : Yu.N.Trofimov
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 331
+# DOI             : N/A
+# Quantity        : 152Sm(n,g)153Sm cross section
+# REACTION        : 62-SM-152(N,G)62-SM-153,,SIG
+# File ID         : n-Sm152-g-sig-excfun-mon-prodSm153_Trofimov_1987_41001.025
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   1.1000E-01
+# ymax            :   1.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  1.1000E-01  1.5000E-02
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 12977.005  
+# EXFOR Ver.      : 20120426
+# TRANS #         : 1381
+# Author          : L.R.Greenwood
+# Reference       : Report (proceedings) ASTM-STP-956 page 743, 1987
+# DOI             : N/A
+# Quantity        : natTi(n,x)46Sc independent production cross section
+# REACTION        : 22-TI-0(N,X)21-SC-46,,SIG
+# File ID         : n-Ti-x-sig-excfun-mon-prodSc46_Greenwood_1987_12977.005
+#
+# npts            : 5           
+# xmin            :   1.4500E+07
+# xmax            :   1.4900E+07
+# ymin            :   2.4400E-02
+# ymax            :   2.4700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  2.0000E+05  2.4600E-02  3.6900E-04
+  1.4650E+07  2.0000E+05  2.4400E-02  3.6600E-04
+  1.4800E+07  2.0000E+05  2.4500E-02  3.6750E-04
+  1.4850E+07  2.0000E+05  2.4700E-02  3.7050E-04
+  1.4900E+07  2.0000E+05  2.4400E-02  3.6600E-04
+#---------------------------------------------------

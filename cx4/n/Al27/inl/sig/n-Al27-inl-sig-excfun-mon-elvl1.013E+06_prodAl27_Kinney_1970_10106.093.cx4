@@ -1,0 +1,26 @@
+# EXFOR #         : 10106.093  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4516, 1970
+# DOI             : N/A
+# Quantity        : 27Al(n,inl)27Al partial cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,SIG
+# File ID         : n-Al27-inl-sig-excfun-mon-elvl1.013E+06_prodAl27_Kinney_1970_10106.093
+#
+# Elvl (eV)       :   1.0130E+06
+#
+# npts            : 3           
+# xmin            :   4.4600E+06
+# xmax            :   5.1800E+06
+# ymin            :   8.0890E-02
+# ymax            :   1.3507E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.4600E+06  7.0000E+04  1.3507E-01  1.9990E-02
+  5.0000E+06  5.0000E+04  8.0890E-02  7.5228E-03
+  5.1800E+06  5.0000E+04  1.0397E-01  1.8195E-02
+#---------------------------------------------------

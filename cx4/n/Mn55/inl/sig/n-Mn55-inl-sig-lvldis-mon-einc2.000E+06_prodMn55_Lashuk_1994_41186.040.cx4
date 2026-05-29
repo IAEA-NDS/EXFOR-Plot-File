@@ -1,0 +1,27 @@
+# EXFOR #         : 41186.040  
+# EXFOR Ver.      : 20191107
+# TRANS #         : 4184
+# Author          : A.I.Lashuk et al.
+# Reference       : Yad.Reak.Konst.  No.1 (1994) 26
+# DOI             : N/A
+# Quantity        : 55Mn(n,inl)55Mn partial cross section
+# REACTION        : 25-MN-55(N,INL)25-MN-55,PAR,SIG
+# File ID         : n-Mn55-inl-sig-lvldis-mon-einc2.000E+06_prodMn55_Lashuk_1994_41186.040
+#
+# Einc (eV)       :   2.0000E+06
+#
+# npts            : 4           
+# xmin            :   9.8400E+05
+# xmax            :   1.8830E+06
+# ymin            :   7.8000E-02
+# ymax            :   2.4700E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.8400E+05  0.0000E+00  2.4700E-01  3.1000E-02
+  1.2920E+06  0.0000E+00  1.0100E-01  1.1000E-02
+  1.5290E+06  0.0000E+00  8.4000E-02  9.0000E-03
+  1.8830E+06  0.0000E+00  7.8000E-02  9.0000E-03
+#---------------------------------------------------

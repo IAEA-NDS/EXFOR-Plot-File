@@ -1,0 +1,22 @@
+# EXFOR #         : 33161.012  
+# EXFOR Ver.      : 20210830
+# TRANS #         : 3205
+# Author          : R.Pachuau et al.
+# Reference       : Eur.Phys.J.A 57 (2021) 268
+# DOI             : 10.1140/epja/s10050-021-00578-6
+# Quantity        : 112Sn(n,x)111In cumulative production cross section
+# REACTION        : 50-SN-112(N,X)49-IN-111,CUM,SIG
+# File ID         : n-Sn112-x-sigc-excfun-mon-prodIn111_Pachuau_2021_33161.012
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   1.2052E+00
+# ymax            :   1.2052E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  2.0000E+05  1.2052E+00  5.4280E-02
+#---------------------------------------------------

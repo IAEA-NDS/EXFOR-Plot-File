@@ -1,0 +1,23 @@
+# EXFOR #         : 14251.003.1
+# EXFOR Ver.      : 20091124
+# TRANS #         : 1359
+# Author          : M.Bhike et al.
+# Reference       : Nucl.Sci.Eng. 163 (2009) 175
+# DOI             : 10.13182/NSE163-175
+# Quantity        : 92Mo(n,p)92mNb cross section
+# REACTION        : 42-MO-92(N,P)41-NB-92-M,,SIG
+# File ID         : n-Mo92-p-sig-excfun-mon-prodNb92m_Bhike_2009_14251.003.1
+#
+# npts            : 2           
+# xmin            :   1.6000E+06
+# xmax            :   3.7000E+06
+# ymin            :   1.5000E-04
+# ymax            :   2.3300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+06  3.0000E+04  1.5000E-04  6.0000E-05
+  3.7000E+06  3.0000E+04  2.3300E-02  2.9000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 30252.004  
+# EXFOR Ver.      : 20220127
+# TRANS #         : 3207
+# Author          : S.Niese et al.
+# Reference       : Kernenergie 6 (1963) 37
+# DOI             : N/A
+# Quantity        : 48Ti(n,p)48Sc cross section
+# REACTION        : 22-TI-48(N,P)21-SC-48,,SIG,,FIS
+# File ID         : n-Ti48-p-sig-excfun-fis-prodSc48_Niese_1963_30252.004
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   4.4000E-04
+# ymax            :   4.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  4.4000E-04  8.0000E-05
+#---------------------------------------------------

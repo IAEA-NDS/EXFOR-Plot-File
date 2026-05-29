@@ -1,0 +1,23 @@
+# EXFOR #         : 31454.003  
+# EXFOR Ver.      : 20160708
+# TRANS #         : 3174
+# Author          : Yu Wei-Xiang et al.
+# Reference       : Chin.J.Nucl.Phys. 17 (1995) 268
+# DOI             : N/A
+# Quantity        : 151Eu(n,2n)150gEu cross section
+# REACTION        : 63-EU-151(N,2N)63-EU-150-G,,SIG
+# File ID         : n-Eu151-2n-sig-excfun-mon-prodEu150g_Yu%Wei+Xiang_1995_31454.003
+#
+# npts            : 2           
+# xmin            :   9.5000E+06
+# xmax            :   9.9000E+06
+# ymin            :   3.0700E-01
+# ymax            :   4.9600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5000E+06  5.0000E+05  3.0700E-01  3.5000E-02
+  9.9000E+06  5.0000E+05  4.9600E-01  4.0000E-02
+#---------------------------------------------------

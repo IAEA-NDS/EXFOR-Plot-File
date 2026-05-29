@@ -1,0 +1,24 @@
+# EXFOR #         : 31628.008  
+# EXFOR Ver.      : 20100723
+# TRANS #         : 3146
+# Author          : Pu Zhong-Sheng et al.
+# Reference       : High En.Nucl.Phy.Ch. 30 (2006) 1171
+# DOI             : N/A
+# Quantity        : 74Ge(n,a)71mZn cross section
+# REACTION        : 32-GE-74(N,A)30-ZN-71-M,,SIG
+# File ID         : n-Ge74-a-sig-excfun-mon-prodZn71m_Pu%Zhong+Sheng_2006_31628.008
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.4600E+07
+# ymin            :   2.2000E-03
+# ymax            :   2.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  3.0000E+05  2.2000E-03  2.0000E-04
+  1.4100E+07  2.0000E+05  2.4000E-03  3.0000E-04
+  1.4600E+07  3.0000E+05  2.8000E-03  3.0000E-04
+#---------------------------------------------------

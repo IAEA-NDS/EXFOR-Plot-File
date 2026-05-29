@@ -1,0 +1,22 @@
+# EXFOR #         : 21322.005  
+# EXFOR Ver.      : 20080228
+# TRANS #         : 2196
+# Author          : A.H.Baston et al.
+# Reference       : J.Nucl.Energy A 13 (1960) 35
+# DOI             : 10.1016/S0368-3265(60)80006-0
+# Quantity        : 176Lu(n,g)177Lu cross section
+# REACTION        : 71-LU-176(N,G)71-LU-177,,SIG
+# File ID         : n-Lu176-g-sig-excfun-mon-prodLu177_Baston_1960_21322.005
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.1000E+03
+# ymax            :   2.1000E+03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.1000E+03  1.5000E+02
+#---------------------------------------------------

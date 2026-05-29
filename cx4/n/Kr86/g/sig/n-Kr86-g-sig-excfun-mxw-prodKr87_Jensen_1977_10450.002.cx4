@@ -1,0 +1,22 @@
+# EXFOR #         : 10450.002  
+# EXFOR Ver.      : 20030530
+# TRANS #         : 0000
+# Author          : C.M.Jensen et al.
+# Reference       : Phys.Rev.C 15 (1977) 1972
+# DOI             : 10.1103/PhysRevC.15.1972
+# Quantity        : 86Kr(n,g)87Kr cross section
+# REACTION        : 36-KR-86(N,G)36-KR-87,,SIG,,MXW
+# File ID         : n-Kr86-g-sig-excfun-mxw-prodKr87_Jensen_1977_10450.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.0000E-03
+# ymax            :   3.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.0000E-03  2.0000E-03
+#---------------------------------------------------

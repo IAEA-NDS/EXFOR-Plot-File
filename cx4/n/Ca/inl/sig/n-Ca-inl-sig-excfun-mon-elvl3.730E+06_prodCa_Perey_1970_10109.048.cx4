@@ -1,0 +1,26 @@
+# EXFOR #         : 10109.048  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : F.G.Perey et al.
+# Reference       : Report ORNL-4519, 1970
+# DOI             : N/A
+# Quantity        : natCa(n,inl)40Ca partial cross section
+# REACTION        : 20-CA-0(N,INL)20-CA-40,PAR,SIG
+# File ID         : n-Ca-inl-sig-excfun-mon-elvl3.730E+06_prodCa_Perey_1970_10109.048
+#
+# Elvl (eV)       :   3.7300E+06
+#
+# npts            : 3           
+# xmin            :   5.0000E+06
+# xmax            :   5.5000E+06
+# ymin            :   1.4001E-01
+# ymax            :   2.0544E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+06  5.0000E+04  2.0544E-01  5.6085E-02
+  5.1800E+06  5.0000E+04  1.4001E-01  2.2682E-02
+  5.5000E+06  5.0000E+04  1.6272E-01  1.9038E-02
+#---------------------------------------------------

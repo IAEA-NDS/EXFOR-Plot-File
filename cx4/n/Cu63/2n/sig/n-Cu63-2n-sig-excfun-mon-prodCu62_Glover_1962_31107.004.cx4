@@ -1,0 +1,22 @@
+# EXFOR #         : 31107.004  
+# EXFOR Ver.      : 20091020
+# TRANS #         : 3142
+# Author          : R.N.Glover et al.
+# Reference       : Nucl.Phys. 29 (1962) 309
+# DOI             : 10.1016/0029-5582(62)90183-9
+# Quantity        : 63Cu(n,2n)62Cu cross section
+# REACTION        : 29-CU-63(N,2N)29-CU-62,,SIG
+# File ID         : n-Cu63-2n-sig-excfun-mon-prodCu62_Glover_1962_31107.004
+#
+# npts            : 1           
+# xmin            :   1.4770E+07
+# xmax            :   1.4770E+07
+# ymin            :   5.7000E-01
+# ymax            :   5.7000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4770E+07  2.5000E+05  5.7000E-01  4.0000E-02
+#---------------------------------------------------

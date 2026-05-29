@@ -1,0 +1,26 @@
+# EXFOR #         : 22444.002  
+# EXFOR Ver.      : 20170210
+# TRANS #         : 2259
+# Author          : S.M.Qaim et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 297
+# DOI             : N/A
+# Quantity        : 48Ti(n,a)45Ca cross section
+# REACTION        : 22-TI-48(N,A)20-CA-45,,SIG
+# File ID         : n-Ti48-a-sig-excfun-mon-prodCa45_Qaim_1991_22444.002
+#
+# npts            : 5           
+# xmin            :   6.4800E+06
+# xmax            :   1.0470E+07
+# ymin            :   1.3000E-03
+# ymax            :   9.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.4800E+06  2.7000E+05  1.3000E-03  3.0000E-04
+  7.5200E+06  3.1000E+05  2.0000E-03  5.0000E-04
+  8.5300E+06  3.1000E+05  4.1000E-03  1.1000E-03
+  9.4900E+06  3.9000E+05  9.2000E-03  2.8000E-03
+  1.0470E+07  3.9000E+05  7.2000E-03  2.3000E-03
+#---------------------------------------------------

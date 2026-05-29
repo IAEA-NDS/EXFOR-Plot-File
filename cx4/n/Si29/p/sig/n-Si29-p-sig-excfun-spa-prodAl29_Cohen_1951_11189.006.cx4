@@ -1,0 +1,22 @@
+# EXFOR #         : 11189.006  
+# EXFOR Ver.      : 20200419
+# TRANS #         : 1466
+# Author          : B.L.Cohen
+# Reference       : Phys.Rev. 81 (1951) 184
+# DOI             : 10.1103/PhysRev.81.184
+# Quantity        : 29Si(n,p)29Al cross section
+# REACTION        : 14-SI-29(N,P)13-AL-29,,SIG,,SPA
+# File ID         : n-Si29-p-sig-excfun-spa-prodAl29_Cohen_1951_11189.006
+#
+# npts            : 1           
+# xmin            :   9.9000E+06
+# xmax            :   9.9000E+06
+# ymin            :   3.6000E-02
+# ymax            :   3.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9000E+06  8.1000E+06  3.6000E-02  5.4000E-03
+#---------------------------------------------------

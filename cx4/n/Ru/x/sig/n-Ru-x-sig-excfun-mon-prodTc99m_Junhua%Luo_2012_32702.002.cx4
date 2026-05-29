@@ -1,0 +1,23 @@
+# EXFOR #         : 32702.002  
+# EXFOR Ver.      : 20120820
+# TRANS #         : 3157
+# Author          : Junhua Luo et al.
+# Reference       : Radiat.Phys.Chem. 81 (2012) 495
+# DOI             : 10.1016/j.radphyschem.2012.01.016
+# Quantity        : natRu(n,x)99mTc independent production cross section
+# REACTION        : 44-RU-0(N,X)43-TC-99-M,IND,SIG
+# File ID         : n-Ru-x-sig-excfun-mon-prodTc99m_Junhua%Luo_2012_32702.002
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   9.2000E-03
+# ymax            :   9.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  9.6000E-03  1.5000E-03
+  1.4800E+07  2.0000E+05  9.2000E-03  1.1000E-03
+#---------------------------------------------------

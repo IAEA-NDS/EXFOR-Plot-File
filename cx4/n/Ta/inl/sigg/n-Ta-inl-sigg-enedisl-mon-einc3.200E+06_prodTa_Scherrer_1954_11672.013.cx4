@@ -1,0 +1,26 @@
+# EXFOR #         : 11672.013  
+# EXFOR Ver.      : 20120520
+# TRANS #         : 1381
+# Author          : V.E.Scherrer et al.
+# Reference       : Phys.Rev. 96 (1954) 386
+# DOI             : 10.1103/PhysRev.96.386
+# Quantity        : natTa(n,inl)natTa partial gamma production cross section
+# REACTION        : 73-TA-0(N,INL)73-TA-0,PAR,SIG,G
+# File ID         : n-Ta-inl-sigg-enedisl-mon-einc3.200E+06_prodTa_Scherrer_1954_11672.013
+#
+# Einc (eV)       :   3.2000E+06
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 2           
+# xmin            :   4.6000E+05
+# xmax            :   1.4400E+06
+# ymin            :   9.3000E-01
+# ymax            :   1.2600E+00
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.6000E+05  0.0000E+00  1.2600E+00  2.5200E-01
+  1.4400E+06  0.0000E+00  9.3000E-01  1.8600E-01
+#---------------------------------------------------

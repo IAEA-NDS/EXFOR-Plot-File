@@ -1,0 +1,26 @@
+# EXFOR #         : 11591.006  
+# EXFOR Ver.      : 20200503
+# TRANS #         : 1468
+# Author          : D.B.Nichols et al.
+# Reference       : Phys.Rev. 151 (1966) 879
+# DOI             : 10.1103/PhysRev.151.879
+# Quantity        : 37Cl(n,inl)37Cl partial gamma production cross section
+# REACTION        : 17-CL-37(N,INL)17-CL-37,PAR,SIG,G
+# File ID         : n-Cl37-inl-sigg-excfun-mon-eoutl1.726E+06_prodCl37_Nichols_1966_11591.006
+#
+# Eout,lab (eV)   :   1.7260E+06
+#
+# npts            : 3           
+# xmin            :   2.5400E+06
+# xmax            :   4.0300E+06
+# ymin            :   1.6700E-01
+# ymax            :   2.7800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5400E+06  7.0000E+04  1.6700E-01  0.0000E+00
+  3.0900E+06  7.0000E+04  2.4900E-01  0.0000E+00
+  4.0300E+06  7.0000E+04  2.7800E-01  0.0000E+00
+#---------------------------------------------------

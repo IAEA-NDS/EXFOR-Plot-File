@@ -1,0 +1,28 @@
+# EXFOR #         : 12645.006  
+# EXFOR Ver.      : 19920117
+# TRANS #         : 0000
+# Author          : R.D.Wilson
+# Reference       : Thesis  (1973)
+# DOI             : N/A
+# Quantity        : 90Zr(n,inl)90Zr partial angular differential cross section
+# REACTION        : 40-ZR-90(N,INL)40-ZR-90,PAR,DA
+# File ID         : n-Zr90-inl-adxl-excfun-mon-angl52_elvl2.745E+06_prodZr90_Wilson_1973_12645.006
+#
+# theta,lab (deg) :   52.0000000
+# Elvl (eV)       :   2.7450E+06
+#
+# npts            : 4           
+# xmin            :   3.6200E+06
+# xmax            :   4.5200E+06
+# ymin            :   2.5800E-02
+# ymax            :   2.8500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.6200E+06  4.0000E+04  2.5800E-02  2.7000E-03
+  3.9200E+06  5.0000E+04  2.7100E-02  2.9000E-03
+  4.2300E+06  5.0000E+04  2.8500E-02  2.1000E-03
+  4.5200E+06  5.0000E+04  2.6000E-02  2.2000E-03
+#---------------------------------------------------

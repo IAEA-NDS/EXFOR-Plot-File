@@ -1,0 +1,24 @@
+# EXFOR #         : 32514.004  
+# EXFOR Ver.      : 20150524
+# TRANS #         : 3170
+# Author          : Kong Xiangzhong et al.
+# Reference       : High En.Nucl.Phy.Ch. 19 (1995) 781
+# DOI             : N/A
+# Quantity        : 140Ce(n,2n)139Ce cross section
+# REACTION        : 58-CE-140(N,2N)58-CE-139,,SIG
+# File ID         : n-Ce140-2n-sig-excfun-mon-prodCe139_Kong%Xiangzhong_1995_32514.004
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.7220E+00
+# ymax            :   1.8300E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  7.0000E+04  1.7220E+00  9.6000E-02
+  1.4180E+07  7.0000E+04  1.7990E+00  1.0000E-01
+  1.4800E+07  1.1000E+05  1.8300E+00  1.1000E-01
+#---------------------------------------------------

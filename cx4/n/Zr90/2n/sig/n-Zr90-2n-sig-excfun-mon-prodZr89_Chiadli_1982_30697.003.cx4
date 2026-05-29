@@ -1,0 +1,23 @@
+# EXFOR #         : 30697.003  
+# EXFOR Ver.      : 20060315
+# TRANS #         : 3119
+# Author          : A.Chiadli et al.
+# Reference       : Progress report MOH-5 page 13, 1982
+# DOI             : N/A
+# Quantity        : 90Zr(n,2n)89Zr cross section
+# REACTION        : 40-ZR-90(N,2N)40-ZR-89,,SIG
+# File ID         : n-Zr90-2n-sig-excfun-mon-prodZr89_Chiadli_1982_30697.003
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4800E+07
+# ymin            :   6.6300E-01
+# ymax            :   8.8900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.0000E+05  6.6300E-01  5.4000E-02
+  1.4800E+07  3.0000E+05  8.8900E-01  5.7000E-02
+#---------------------------------------------------

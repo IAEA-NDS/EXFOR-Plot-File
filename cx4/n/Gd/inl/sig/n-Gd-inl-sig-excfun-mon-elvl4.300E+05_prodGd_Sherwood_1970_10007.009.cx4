@@ -1,0 +1,26 @@
+# EXFOR #         : 10007.009  
+# EXFOR Ver.      : 19990617
+# TRANS #         : 0000
+# Author          : G.L.Sherwood et al.
+# Reference       : Nucl.Sci.Eng. 39 (1970) 67
+# DOI             : 10.13182/NSE70-A21172
+# Quantity        : natGd(n,inl)natGd partial cross section
+# REACTION        : 64-GD-0(N,INL)64-GD-0,PAR,SIG
+# File ID         : n-Gd-inl-sig-excfun-mon-elvl4.300E+05_prodGd_Sherwood_1970_10007.009
+#
+# Elvl (eV)       :   4.3000E+05
+#
+# npts            : 3           
+# xmin            :   1.1000E+06
+# xmax            :   1.3000E+06
+# ymin            :   9.1280E-02
+# ymax            :   1.4830E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1000E+06  1.0000E+04  1.4830E-01  0.0000E+00
+  1.2000E+06  1.0000E+04  9.1280E-02  0.0000E+00
+  1.3000E+06  1.0000E+04  1.2100E-01  0.0000E+00
+#---------------------------------------------------

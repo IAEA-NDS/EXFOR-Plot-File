@@ -1,0 +1,25 @@
+# EXFOR #         : 30935.006  
+# EXFOR Ver.      : 20090913
+# TRANS #         : 3141
+# Author          : Wang Xiuyuan et al.
+# Reference       : Private communication  (1989)
+# DOI             : N/A
+# Quantity        : 185Re(n,2n)184mRe cross section
+# REACTION        : 75-RE-185(N,2N)75-RE-184-M,,SIG
+# File ID         : n-Re185-2n-sig-excfun-mon-prodRe184m_Wang%Xiuyuan_1989_30935.006
+#
+# npts            : 4           
+# xmin            :   1.3540E+07
+# xmax            :   1.4810E+07
+# ymin            :   3.0100E-01
+# ymax            :   4.1600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4810E+07  2.9000E+05  4.1600E-01  6.2000E-02
+  1.4670E+07  2.4000E+05  3.0100E-01  4.5000E-02
+  1.3730E+07  2.2000E+05  3.4500E-01  5.2000E-02
+  1.3540E+07  2.7000E+05  3.2200E-01  4.8000E-02
+#---------------------------------------------------

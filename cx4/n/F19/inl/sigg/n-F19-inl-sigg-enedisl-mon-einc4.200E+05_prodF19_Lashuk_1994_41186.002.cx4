@@ -1,0 +1,25 @@
+# EXFOR #         : 41186.002  
+# EXFOR Ver.      : 20191107
+# TRANS #         : 4184
+# Author          : A.I.Lashuk et al.
+# Reference       : Yad.Reak.Konst.  No.1 (1994) 26
+# DOI             : N/A
+# Quantity        : 19F(n,inl)19F partial gamma production cross section
+# REACTION        : 9-F-19(N,INL)9-F-19,PAR,SIG,G
+# File ID         : n-F19-inl-sigg-enedisl-mon-einc4.200E+05_prodF19_Lashuk_1994_41186.002
+#
+# Einc (eV)       :   4.2000E+05
+#
+# npts            : 2           
+# xmin            :   1.1000E+05
+# xmax            :   1.9700E+05
+# ymin            :   8.8900E-01
+# ymax            :   2.2240E+00
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1000E+05  0.0000E+00  8.8900E-01  6.1000E-02
+  1.9700E+05  0.0000E+00  2.2240E+00  1.5000E-01
+#---------------------------------------------------

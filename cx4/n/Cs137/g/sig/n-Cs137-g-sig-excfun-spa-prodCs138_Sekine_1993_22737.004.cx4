@@ -1,0 +1,22 @@
+# EXFOR #         : 22737.004  
+# EXFOR Ver.      : 20190830
+# TRANS #         : 2282
+# Author          : T.Sekine et al.
+# Reference       : J.Nucl.Sci.Technol. 30 (1993) 1099
+# DOI             : 10.1080/18811248.1993.9734595
+# Quantity        : 137Cs(n,g)138Cs cross section
+# REACTION        : 55-CS-137(N,G)55-CS-138,,SIG,,SPA
+# File ID         : n-Cs137-g-sig-excfun-spa-prodCs138_Sekine_1993_22737.004
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.9000E-01
+# ymax            :   2.9000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.9000E-01  2.0000E-02
+#---------------------------------------------------

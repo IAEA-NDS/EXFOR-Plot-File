@@ -1,0 +1,24 @@
+# EXFOR #         : 11704.002  
+# EXFOR Ver.      : 20140420
+# TRANS #         : 1401
+# Author          : R.W.Benjamin et al.
+# Reference       : Nucl.Phys. 79 (1966) 241
+# DOI             : 10.1016/0029-5582(66)90144-1
+# Quantity        : natFe(n,inl)natFe partial gamma production cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-0,PAR,SIG,G
+# File ID         : n-Fe-inl-sigg-excfun-mon-eoutl3.450E+06_prodFe_Benjamin_1966_11704.002
+#
+# Eout,lab (eV)   :   3.4500E+06
+#
+# npts            : 1           
+# xmin            :   4.0000E+06
+# xmax            :   4.0000E+06
+# ymin            :   4.9000E-02
+# ymax            :   4.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+06  1.2000E+05  4.9000E-02  9.8000E-03
+#---------------------------------------------------

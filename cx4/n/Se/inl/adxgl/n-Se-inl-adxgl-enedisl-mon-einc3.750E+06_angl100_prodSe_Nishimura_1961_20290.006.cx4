@@ -1,0 +1,27 @@
+# EXFOR #         : 20290.006  
+# EXFOR Ver.      : 20170425
+# TRANS #         : 2261
+# Author          : K.Nishimura
+# Reference       : J.Phys.Soc.Jpn. 16 (1961) 355
+# DOI             : 10.1143/JPSJ.16.355
+# Quantity        : natSe(n,inl)natSe partial gamma angular differential cross section
+# REACTION        : 34-SE-0(N,INL)34-SE-0,PAR,DA,G
+# File ID         : n-Se-inl-adxgl-enedisl-mon-einc3.750E+06_angl100_prodSe_Nishimura_1961_20290.006
+#
+# Einc (eV)       :   3.7500E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :  100.0000000
+#
+# npts            : 2           
+# xmin            :   5.6000E+05
+# xmax            :   6.6000E+05
+# ymin            :   2.2900E-02
+# ymax            :   8.9900E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.6000E+05  2.0000E+04  2.2900E-02  6.8700E-03
+  6.6000E+05  1.0000E+04  8.9900E-02  1.3485E-02
+#---------------------------------------------------

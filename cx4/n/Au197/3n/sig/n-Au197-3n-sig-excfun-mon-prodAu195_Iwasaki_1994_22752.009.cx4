@@ -1,0 +1,24 @@
+# EXFOR #         : 22752.009  
+# EXFOR Ver.      : 20081003
+# TRANS #         : 2204
+# Author          : S.Iwasaki et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 1 page 305
+# DOI             : N/A
+# Quantity        : 197Au(n,3n)195Au cross section
+# REACTION        : 79-AU-197(N,3N)79-AU-195,,SIG
+# File ID         : n-Au197-3n-sig-excfun-mon-prodAu195_Iwasaki_1994_22752.009
+#
+# npts            : 3           
+# xmin            :   1.6811E+07
+# xmax            :   1.9126E+07
+# ymin            :   1.9978E-01
+# ymax            :   6.8198E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6811E+07  0.0000E+00  1.9978E-01  0.0000E+00
+  1.8247E+07  0.0000E+00  3.9954E-01  0.0000E+00
+  1.9126E+07  0.0000E+00  6.8198E-01  0.0000E+00
+#---------------------------------------------------

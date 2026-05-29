@@ -1,0 +1,22 @@
+# EXFOR #         : 20264.004  
+# EXFOR Ver.      : 20110227
+# TRANS #         : 2226
+# Author          : A.Fabry et al.
+# Reference       : Proceedings of Nuclear Cross-Sections Techn. Conf., Washington 1968 2 page 1263
+# DOI             : N/A
+# Quantity        : 164Dy(n,g)165gDy cross section
+# REACTION        : 66-DY-164(N,G)66-DY-165-G,,SIG,,FIS
+# File ID         : n-Dy164-g-sig-excfun-fis-prodDy165g_Fabry_1968_20264.004
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.3300E-02
+# ymax            :   2.3300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.3300E-02  2.5000E-03
+#---------------------------------------------------

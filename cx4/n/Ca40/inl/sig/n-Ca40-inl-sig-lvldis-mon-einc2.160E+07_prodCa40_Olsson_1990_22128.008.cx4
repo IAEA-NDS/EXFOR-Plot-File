@@ -1,0 +1,25 @@
+# EXFOR #         : 22128.008  
+# EXFOR Ver.      : 20101119
+# TRANS #         : 2225
+# Author          : N.Olsson et al.
+# Reference       : Nucl.Phys.A 513 (1990) 205
+# DOI             : 10.1016/0375-9474(90)90096-5
+# Quantity        : 40Ca(n,inl)40Ca partial cross section
+# REACTION        : 20-CA-40(N,INL)20-CA-40,PAR,SIG
+# File ID         : n-Ca40-inl-sig-lvldis-mon-einc2.160E+07_prodCa40_Olsson_1990_22128.008
+#
+# Einc (eV)       :   2.1600E+07
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   4.4900E+06
+# xmax            :   4.4900E+06
+# ymin            :   2.0320E-02
+# ymax            :   2.0320E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.4900E+06  0.0000E+00  2.0320E-02  1.3500E-03
+#---------------------------------------------------

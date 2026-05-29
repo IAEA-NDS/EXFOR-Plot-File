@@ -1,0 +1,25 @@
+# EXFOR #         : 40532.019  
+# EXFOR Ver.      : 20211201
+# TRANS #         : 4203
+# Author          : I.A.Korzh et al.
+# Reference       : Ukr.Fiz.Zh. 22 (1977) 87
+# DOI             : N/A
+# Quantity        : 209Bi(n,inl)209Bi partial cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,SIG
+# File ID         : n-Bi209-inl-sig-excfun-mon-elvl1.620E+06_prodBi209_Korzh_1977_40532.019
+#
+# Elvl (eV)       :   1.6200E+06
+#
+# npts            : 2           
+# xmin            :   2.5000E+06
+# xmax            :   3.0000E+06
+# ymin            :   3.5400E-01
+# ymax            :   3.5600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  5.0000E+04  3.5600E-01  3.0000E-02
+  3.0000E+06  5.0000E+04  3.5400E-01  2.5000E-02
+#---------------------------------------------------

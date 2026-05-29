@@ -1,0 +1,22 @@
+# EXFOR #         : 41565.038  
+# EXFOR Ver.      : 20121010
+# TRANS #         : 4158
+# Author          : C.Bhatia et al.
+# Reference       : Appl.Radiat.Isot. 70 (2012) 1254
+# DOI             : 10.1016/j.apradiso.2011.11.020
+# Quantity        : 48Ti(n,x)47Sc independent production cross section
+# REACTION        : 22-TI-48(N,X)21-SC-47,,SIG,,SPA
+# File ID         : n-Ti48-x-sig-excfun-spa-prodSc47_Bhatia_2012_41565.038
+#
+# npts            : 1           
+# xmin            :   1.0471E+08
+# xmax            :   1.0471E+08
+# ymin            :   2.8900E-03
+# ymax            :   2.8900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0471E+08  9.5293E+07  2.8900E-03  2.7000E-04
+#---------------------------------------------------

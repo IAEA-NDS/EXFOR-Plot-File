@@ -1,0 +1,31 @@
+# EXFOR #         : 11934.010  
+# EXFOR Ver.      : 19830802
+# TRANS #         : 0000
+# Author          : R.A.Peck Jr
+# Reference       : Phys.Rev. 123 (1961) 1738
+# DOI             : 10.1103/PhysRev.123.1738
+# Quantity        : natSb(n,d) partial angular differential cross section
+# REACTION        : 51-SB-0(N,D),PAR,DA
+# File ID         : n-Sb-d-adxl-angdisl-mon-einc1.400E+07_elvl2.700E+06_prodSn-1_Peck%Jr_1961_11934.010
+#
+# Einc (eV)       :   1.4000E+07
+# dEinc (eV)      :   3.0000E+05
+# Elvl (eV)       :   2.7000E+06
+# dElvl (eV)      :   1.2000E+06
+#
+# npts            : 5           
+# xmin            :    9.9363670
+# xmax            :   29.5413600
+# ymin            :   3.4000E-02
+# ymax            :   7.3000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.9363670   1.0000000  3.4000E-02  5.0000E-03
+  16.2602000   1.0000000  4.8000E-02  9.0000E-03
+  21.5651800   1.0000000  5.9000E-02  9.0000E-03
+  25.8419300   1.0000000  7.3000E-02  1.0000E-02
+  29.5413600   1.0000000  4.3000E-02  8.0000E-03
+#---------------------------------------------------

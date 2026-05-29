@@ -1,0 +1,23 @@
+# EXFOR #         : 31646.002  
+# EXFOR Ver.      : 20080818
+# TRANS #         : 3130
+# Author          : Li Guozheng et al.
+# Reference       : High En.Nucl.Phy.Ch. 14 No.11 (1990) 1023
+# DOI             : N/A
+# Quantity        : 58Ni(n,2n)57Ni cross section
+# REACTION        : 28-NI-58(N,2N)28-NI-57,,SIG
+# File ID         : n-Ni58-2n-sig-excfun-mon-prodNi57_Li%Guozheng_1990_31646.002
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4620E+07
+# ymin            :   2.4430E-02
+# ymax            :   3.2610E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  0.0000E+00  2.4430E-02  9.5277E-04
+  1.4620E+07  0.0000E+00  3.2610E-02  1.1740E-03
+#---------------------------------------------------

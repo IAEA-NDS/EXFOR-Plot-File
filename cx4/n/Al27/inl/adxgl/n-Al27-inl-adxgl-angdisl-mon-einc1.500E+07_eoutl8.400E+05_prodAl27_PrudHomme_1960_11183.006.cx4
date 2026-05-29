@@ -1,0 +1,26 @@
+# EXFOR #         : 11183.006  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : J.T.Prud'Homme et al.
+# Reference       : Report AFSWC-TR-60-30, 1960
+# DOI             : N/A
+# Quantity        : 27Al(n,inl)27Al partial gamma angular differential cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,DA,G
+# File ID         : n-Al27-inl-adxgl-angdisl-mon-einc1.500E+07_eoutl8.400E+05_prodAl27_PrudHomme_1960_11183.006
+#
+# Einc (eV)       :   1.5000E+07
+# Eout,lab (eV)   :   8.4000E+05
+#
+# npts            : 2           
+# xmin            :   66.9832600
+# xmax            :   90.0000000
+# ymin            :   3.7000E-03
+# ymax            :   3.8000E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   2.0000000  3.8000E-03  1.5000E-03
+  66.9832600  23.0000000  3.7000E-03  1.5000E-03
+#---------------------------------------------------

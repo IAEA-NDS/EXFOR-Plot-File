@@ -1,0 +1,23 @@
+# EXFOR #         : 14689.003  
+# EXFOR Ver.      : 20210309
+# TRANS #         : 1482
+# Author          : H.L.Anderson et al.
+# Reference       : Phys.Rev. 70 (1946) 815
+# DOI             : 10.1103/PhysRev.70.815
+# Quantity        : 9Be(n,tot) cross section
+# REACTION        : 4-BE-9(N,TOT),,SIG
+# File ID         : n-Be9-tot-sig-excfun-mon-Anderson_1946_14689.003
+#
+# npts            : 2           
+# xmin            :   1.5516E-03
+# xmax            :   2.5300E-02
+# ymin            :   7.3000E-01
+# ymax            :   3.2500E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.2500E+00  0.0000E+00
+  1.5516E-03  0.0000E+00  7.3000E-01  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 31531.002  
+# EXFOR Ver.      : 20150813
+# TRANS #         : 3172
+# Author          : F.Sudbrock et al.
+# Reference       : Radiochim.Acta 88 (2000) 829
+# DOI             : 10.1524/ract.2000.88.12.829
+# Quantity        : natC(n,x)10Be independent production cross section
+# REACTION        : 6-C-0(N,X)4-BE-10,,SIG
+# File ID         : n-C-x-sig-excfun-mon-prodBe10_Sudbrock_2000_31531.002
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   2.4000E-04
+# ymax            :   2.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  2.4000E-04  2.0000E-05
+#---------------------------------------------------

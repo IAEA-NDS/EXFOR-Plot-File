@@ -1,0 +1,31 @@
+# EXFOR #         : 32246.005  
+# EXFOR Ver.      : 20180827
+# TRANS #         : 3186
+# Author          : I.A.Tostkii
+# Reference       : Proceedings of Low and Medium Energy Nucl.Reactons, Moscow 1957 page 190
+# DOI             : N/A
+# Quantity        : natCd(n,el)natCd angular differential cross section
+# REACTION        : 48-CD-0(N,EL)48-CD-0,,DA
+# File ID         : n-Cd-el-adxl-angdisl-mon-einc2.800E+06_prodCd_Tostkii_1957_32246.005
+#
+# Einc (eV)       :   2.8000E+06
+#
+# npts            : 8           
+# xmin            :   28.0180000
+# xmax            :  139.2355000
+# ymin            :   1.0056E-05
+# ymax            :   6.8577E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 139.2355000   0.0000000  3.5454E-05  4.1028E-06
+ 126.2564000   0.0000000  2.0200E-05  4.8851E-06
+ 113.0665000   0.0000000  1.0056E-05  2.7566E-06
+  90.4984800   0.0000000  4.6639E-05  6.0822E-06
+  74.1333100   0.0000000  7.0131E-05  5.1309E-06
+  60.3434300   0.0000000  6.9279E-05  5.2933E-06
+  39.1042100   0.0000000  3.6210E-04  2.8504E-05
+  28.0180000   0.0000000  6.8577E-04  7.2828E-05
+#---------------------------------------------------

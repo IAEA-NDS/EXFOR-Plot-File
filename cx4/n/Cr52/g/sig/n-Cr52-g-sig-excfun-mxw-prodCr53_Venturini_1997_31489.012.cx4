@@ -1,0 +1,22 @@
+# EXFOR #         : 31489.012  
+# EXFOR Ver.      : 20100923
+# TRANS #         : 3146
+# Author          : L.Venturini et al.
+# Reference       : Appl.Radiat.Isot. 48 No.4 (1997) 493
+# DOI             : 10.1016/S0969-8043(96)00285-0
+# Quantity        : 52Cr(n,g)53Cr cross section
+# REACTION        : 24-CR-52(N,G)24-CR-53,,SIG,,MXW
+# File ID         : n-Cr52-g-sig-excfun-mxw-prodCr53_Venturini_1997_31489.012
+#
+# npts            : 1           
+# xmin            :   2.5000E-02
+# xmax            :   2.5000E-02
+# ymin            :   8.6000E-01
+# ymax            :   8.6000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  0.0000E+00  8.6000E-01  3.0000E-02
+#---------------------------------------------------

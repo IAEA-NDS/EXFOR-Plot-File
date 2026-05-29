@@ -1,0 +1,27 @@
+# EXFOR #         : 10025.019  
+# EXFOR Ver.      : 19990719
+# TRANS #         : 0000
+# Author          : D.M.Drake et al.
+# Reference       : Nucl.Sci.Eng. 40 (1970) 294
+# DOI             : 10.13182/NSE70-A19690
+# Quantity        : natW(n,g+x) double differential cross section
+# REACTION        : 74-W-0(N,X)0-G-0,,DA/DE
+# File ID         : n-W-xg-ddxl-excfun-mon-angl55_eoutl4.125E+06_Drake_1970_10025.019
+#
+# theta,lab (deg) :   55.0000000
+# Eout,lab (eV)   :   4.1250E+06
+# dEout,lab (eV)  :   1.2500E+05
+#
+# npts            : 2           
+# xmin            :   6.0000E+06
+# xmax            :   7.5000E+06
+# ymin            :   2.9000E-08
+# ymax            :   3.5000E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  6.0000E+06  0.0000E+00  2.9000E-08  0.0000E+00
+  7.5000E+06  0.0000E+00  3.5000E-08  0.0000E+00
+#---------------------------------------------------

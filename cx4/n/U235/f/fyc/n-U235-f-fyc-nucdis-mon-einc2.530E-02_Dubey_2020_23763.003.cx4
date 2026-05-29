@@ -1,0 +1,25 @@
+# EXFOR #         : 23763.003  
+# EXFOR Ver.      : 20220317
+# TRANS #         : 2310
+# Author          : S.Dubey et al.
+# Reference       : Phys.Rev.C 102 (2020) 044602
+# DOI             : 10.1103/PhysRevC.102.044602
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-U235-f-fyc-nucdis-mon-einc2.530E-02_Dubey_2020_23763.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 37092.9     
+# xmax            : 38096.9     
+# ymin            :   3.6600E-02
+# ymax            :   4.9900E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     37092.9  4.9900E-02  8.0000E-04
+     38096.9  3.6600E-02  1.1000E-03
+#---------------------------------------------------

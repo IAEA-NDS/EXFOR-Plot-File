@@ -1,0 +1,28 @@
+# EXFOR #         : 23286.005  
+# EXFOR Ver.      : 20160126
+# TRANS #         : 2247
+# Author          : L.C.Mihailescu et al.
+# Reference       : Report EUR-22343, 2006
+# DOI             : N/A
+# Quantity        : 207Pb(n,inl)207Pb partial gamma angular differential cross section
+# REACTION        : 82-PB-207(N,INL)82-PB-207,PAR,DA,G
+# File ID         : n-Pb207-inl-adxgl-excfun-mon-angl150_eoutl3.928E+06_prodPb207_Mihailescu_2006_23286.005
+#
+# theta,lab (deg) :  150.0000000
+# Eout,lab (eV)   :   3.9280E+06
+#
+# npts            : 4           
+# xmin            :   3.9816E+06
+# xmax            :   5.3097E+06
+# ymin            :   5.1900E-04
+# ymax            :   1.1350E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.9816E+06  1.7744E+05  9.5000E-04  1.8200E-04
+  4.3626E+06  2.0355E+05  1.1350E-03  2.1300E-04
+  4.8012E+06  2.3506E+05  7.0100E-04  2.4100E-04
+  5.3097E+06  2.7344E+05  5.1900E-04  3.1400E-04
+#---------------------------------------------------

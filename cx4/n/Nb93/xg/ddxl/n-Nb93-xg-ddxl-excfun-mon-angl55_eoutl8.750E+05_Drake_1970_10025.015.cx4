@@ -1,0 +1,28 @@
+# EXFOR #         : 10025.015  
+# EXFOR Ver.      : 19990719
+# TRANS #         : 0000
+# Author          : D.M.Drake et al.
+# Reference       : Nucl.Sci.Eng. 40 (1970) 294
+# DOI             : 10.13182/NSE70-A19690
+# Quantity        : 93Nb(n,g+x) double differential cross section
+# REACTION        : 41-NB-93(N,X)0-G-0,,DA/DE
+# File ID         : n-Nb93-xg-ddxl-excfun-mon-angl55_eoutl8.750E+05_Drake_1970_10025.015
+#
+# theta,lab (deg) :   55.0000000
+# Eout,lab (eV)   :   8.7500E+05
+# dEout,lab (eV)  :   1.2500E+05
+#
+# npts            : 3           
+# xmin            :   4.0000E+06
+# xmax            :   7.6700E+06
+# ymin            :   4.7400E-07
+# ymax            :   5.3500E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  4.0000E+06  0.0000E+00  4.7400E-07  0.0000E+00
+  7.2000E+06  0.0000E+00  4.9000E-07  0.0000E+00
+  7.6700E+06  0.0000E+00  5.3500E-07  0.0000E+00
+#---------------------------------------------------

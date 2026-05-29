@@ -1,0 +1,29 @@
+# EXFOR #         : 30057.002  
+# EXFOR Ver.      : 20120515
+# TRANS #         : 3155
+# Author          : R.K.Mohindra et al.
+# Reference       : Nucl.Phys. 44 (1963) 597
+# DOI             : 10.1016/0029-5582(63)90052-X
+# Quantity        : 27Al(n,p)27Mg partial angular differential cross section
+# REACTION        : 13-AL-27(N,P)12-MG-27,PAR,DA
+# File ID         : n-Al27-p-adxl-angdisc-mon-einc1.480E+07_eoutl8.000E+06_prodMg27_Mohindra_1963_30057.002
+#
+# Einc (eV)       :   1.4800E+07
+# Eout,lab (eV)   :   8.0000E+06
+# dEout,lab (eV)  :   1.0000E+06
+#
+# npts            : 4           
+# xmin            :    0.0000000
+# xmax            :  135.0000000
+# ymin            :   9.5000E-04
+# ymax            :   2.0000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000  17.0000000  2.0000E-03  0.0000E+00
+  45.0000000  17.0000000  1.0000E-03  0.0000E+00
+ 105.0000000  17.0000000  1.0000E-03  0.0000E+00
+ 135.0000000  17.0000000  9.5000E-04  0.0000E+00
+#---------------------------------------------------

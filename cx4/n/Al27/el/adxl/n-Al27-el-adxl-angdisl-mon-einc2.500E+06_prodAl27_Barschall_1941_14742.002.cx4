@@ -1,0 +1,25 @@
+# EXFOR #         : 14742.002  
+# EXFOR Ver.      : 20220204
+# TRANS #         : 1496
+# Author          : H.H.Barschall et al.
+# Reference       : Phys.Rev. 59 (1941) 917(18)
+# DOI             : N/A
+# Quantity        : 27Al(n,el)27Al angular differential cross section
+# REACTION        : 13-AL-27(N,EL)13-AL-27,,DA,,4PI
+# File ID         : n-Al27-el-adxl-angdisl-mon-einc2.500E+06_prodAl27_Barschall_1941_14742.002
+#
+# Einc (eV)       :   2.5000E+06
+#
+# npts            : 2           
+# xmin            :   45.0000000
+# xmax            :  100.0000000
+# ymin            :   8.7535E-02
+# ymax            :   2.7056E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 100.0000000  20.0000000  8.7535E-02  1.5915E-02
+  45.0000000  10.0000000  2.7056E-01  3.9789E-02
+#---------------------------------------------------

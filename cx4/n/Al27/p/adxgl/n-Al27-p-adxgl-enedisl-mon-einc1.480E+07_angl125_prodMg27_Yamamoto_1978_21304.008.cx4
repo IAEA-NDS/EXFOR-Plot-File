@@ -1,0 +1,28 @@
+# EXFOR #         : 21304.008  
+# EXFOR Ver.      : 20230130
+# TRANS #         : 2313
+# Author          : T.Yamamoto et al.
+# Reference       : J.Nucl.Sci.Technol. 15 (1978) 797
+# DOI             : 10.1080/18811248.1978.9735594
+# Quantity        : 27Al(n,p)27Mg partial gamma angular differential cross section
+# REACTION        : 13-AL-27(N,P)12-MG-27,PAR,DA,G
+# File ID         : n-Al27-p-adxgl-enedisl-mon-einc1.480E+07_angl125_prodMg27_Yamamoto_1978_21304.008
+#
+# Einc (eV)       :   1.4800E+07
+# dEinc (eV)      :   2.0000E+05
+# theta,lab (deg) :  125.0000000
+# dtheta,lab (deg):    6.0000000
+#
+# npts            : 2           
+# xmin            :   9.8200E+05
+# xmax            :   1.7000E+06
+# ymin            :   2.5000E-03
+# ymax            :   3.8000E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.8200E+05  0.0000E+00  2.5000E-03  6.0000E-04
+  1.7000E+06  0.0000E+00  3.8000E-03  7.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 30196.004  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : V.Valkovic et al.
+# Reference       : Nucl.Phys.A 98 (1967) 305
+# DOI             : 10.1016/0375-9474(67)90141-8
+# Quantity        : 16O(n,d)15N partial angular differential cross section
+# REACTION        : 8-O-16(N,D)7-N-15,PAR,DA
+# File ID         : n-O16-d-adxl-angdisc-mon-einc1.440E+07_elvl0.000E+00_prodN15_Valkovic_1967_30196.004
+#
+# Einc (eV)       :   1.4400E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :    5.0000000
+# xmax            :    5.0000000
+# ymin            :   4.1000E-03
+# ymax            :   4.1000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0000000   0.0000000  4.1000E-03  1.3000E-04
+#---------------------------------------------------

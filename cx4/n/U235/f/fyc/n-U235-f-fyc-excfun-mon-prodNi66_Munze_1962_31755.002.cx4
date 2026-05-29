@@ -1,0 +1,22 @@
+# EXFOR #         : 31755.002  
+# EXFOR Ver.      : 20150430
+# TRANS #         : 3170
+# Author          : R.Munze et al.
+# Reference       : Kernenergie 5 (1962) 472
+# DOI             : N/A
+# Quantity        : 235U(n,f)66Ni cumulative fission product yield
+# REACTION        : 92-U-235(N,F)28-NI-66,CUM,FY
+# File ID         : n-U235-f-fyc-excfun-mon-prodNi66_Munze_1962_31755.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.0000E-10
+# ymax            :   2.0000E-10
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.0000E-10  4.0000E-11
+#---------------------------------------------------

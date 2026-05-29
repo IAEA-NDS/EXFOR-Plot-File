@@ -1,0 +1,22 @@
+# EXFOR #         : 31439.003  
+# EXFOR Ver.      : 20211006
+# TRANS #         : 3202
+# Author          : A.Kirov et al.
+# Reference       : Z.Phys.A 345 (1993) 285
+# DOI             : 10.1007/BF01280835
+# Quantity        : 152Sm(n,a)149Nd cross section
+# REACTION        : 62-SM-152(N,A)60-ND-149,,SIG
+# File ID         : n-Sm152-a-sig-excfun-mon-prodNd149_Kirov_1993_31439.003
+#
+# npts            : 1           
+# xmin            :   1.4540E+07
+# xmax            :   1.4540E+07
+# ymin            :   2.0000E-03
+# ymax            :   2.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4540E+07  2.4000E+05  2.0000E-03  6.0000E-04
+#---------------------------------------------------

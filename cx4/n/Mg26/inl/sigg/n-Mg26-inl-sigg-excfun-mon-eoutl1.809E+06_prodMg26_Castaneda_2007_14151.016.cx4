@@ -1,0 +1,26 @@
+# EXFOR #         : 14151.016  
+# EXFOR Ver.      : 20071116
+# TRANS #         : 1345
+# Author          : C.M.Castaneda et al.
+# Reference       : Nucl.Instrum.Meth.B 260 (2007) 508
+# DOI             : 10.1016/j.nimb.2007.04.019
+# Quantity        : 26Mg(n,inl)26Mg partial gamma production cross section
+# REACTION        : 12-MG-26(N,INL)12-MG-26,PAR,SIG,G,A
+# File ID         : n-Mg26-inl-sigg-excfun-mon-eoutl1.809E+06_prodMg26_Castaneda_2007_14151.016
+#
+# Eout,lab (eV)   :   1.8086E+06
+#
+# npts            : 3           
+# xmin            :   1.7400E+07
+# xmax            :   3.2500E+07
+# ymin            :   1.0884E-03
+# ymax            :   3.2653E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7400E+07  0.0000E+00  3.2653E-03  9.0703E-04
+  2.2200E+07  0.0000E+00  2.1769E-03  3.6281E-04
+  3.2500E+07  0.0000E+00  1.0884E-03  2.7211E-04
+#---------------------------------------------------

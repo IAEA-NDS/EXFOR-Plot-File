@@ -1,0 +1,26 @@
+# EXFOR #         : 41519.005  
+# EXFOR Ver.      : 20200703
+# TRANS #         : 4188
+# Author          : Yu.V.Grigoriev et al.
+# Reference       : Report (proceedings) ISINN-15 page 151, 2008
+# DOI             : N/A
+# Quantity        : natTa(n,tot) cross section
+# REACTION        : 73-TA-0(N,TOT),,SIG,,AV
+# File ID         : n-Ta-tot-sig-excfun-mon-Grigoriev_2008_41519.005
+#
+# npts            : 5           
+# xmin            :   7.3250E+01
+# xmax            :   1.5750E+03
+# ymin            :   3.4400E+01
+# ymax            :   6.9600E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.3250E+01  2.6750E+01  6.3300E+01  5.0000E+00
+  1.5750E+02  5.7500E+01  6.9600E+01  5.0000E+00
+  3.4000E+02  1.2500E+02  4.8400E+01  4.0000E+00
+  7.3250E+02  2.6750E+02  4.0200E+01  4.0000E+00
+  1.5750E+03  5.7500E+02  3.4400E+01  3.0000E+00
+#---------------------------------------------------

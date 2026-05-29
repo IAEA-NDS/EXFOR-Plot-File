@@ -1,0 +1,22 @@
+# EXFOR #         : 32884.004  
+# EXFOR Ver.      : 20241204
+# TRANS #         : 3215
+# Author          : B.Liu et al.
+# Reference       : Appl.Radiat.Isot. 191 (2023) 110557
+# DOI             : 10.1016/j.apradiso.2022.110557
+# Quantity        : 66Zn(n,2n)65Zn cross section
+# REACTION        : 30-ZN-66(N,2N)30-ZN-65,,SIG
+# File ID         : n-Zn66-2n-sig-excfun-mon-prodZn65_Liu_2023_32884.004
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   6.5560E-01
+# ymax            :   6.5560E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  2.0000E+05  6.5560E-01  3.3100E-02
+#---------------------------------------------------

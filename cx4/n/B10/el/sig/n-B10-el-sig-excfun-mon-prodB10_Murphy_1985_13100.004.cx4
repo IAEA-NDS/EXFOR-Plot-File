@@ -1,0 +1,23 @@
+# EXFOR #         : 13100.004  
+# EXFOR Ver.      : 19871008
+# TRANS #         : 0000
+# Author          : K.Murphy et al.
+# Reference       : Proceedings of Conf.on Nucl.Data f.Basic a.Appl.Sci.,Santa Fe 1985 1 page 219(JA48)
+# DOI             : N/A
+# Quantity        : 10B(n,el)10B cross section
+# REACTION        : 5-B-10(N,EL)5-B-10,,SIG
+# File ID         : n-B10-el-sig-excfun-mon-prodB10_Murphy_1985_13100.004
+#
+# npts            : 2           
+# xmin            :   1.4960E+07
+# xmax            :   1.6940E+07
+# ymin            :   9.2199E-01
+# ymax            :   9.8491E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4960E+07  0.0000E+00  9.2199E-01  8.7400E-03
+  1.6940E+07  0.0000E+00  9.8491E-01  1.0720E-02
+#---------------------------------------------------

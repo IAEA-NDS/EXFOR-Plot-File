@@ -1,0 +1,22 @@
+# EXFOR #         : 31497.012  
+# EXFOR Ver.      : 19990209
+# TRANS #         : 0000
+# Author          : Xiangzhong Kong et al.
+# Reference       : Appl.Radiat.Isot. 49 No.12 (1998) 1529
+# DOI             : 10.1016/S0969-8043(98)00018-9
+# Quantity        : 160Dy(n,p)160Tb cross section
+# REACTION        : 66-DY-160(N,P)65-TB-160,,SIG
+# File ID         : n-Dy160-p-sig-excfun-mon-prodTb160_Xiangzhong%Kong_1998_31497.012
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   7.2000E-03
+# ymax            :   7.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  2.0000E+05  7.2000E-03  8.0000E-04
+#---------------------------------------------------

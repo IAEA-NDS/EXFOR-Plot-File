@@ -1,0 +1,23 @@
+# EXFOR #         : 23521.004  
+# EXFOR Ver.      : 20190604
+# TRANS #         : 2280
+# Author          : K.W.Allen et al.
+# Reference       : Proc.R.Soc.Lond.A 192 (1947) 114
+# DOI             : 10.1098/rspa.1947.0141
+# Quantity        : 27Al(n,tot) cross section
+# REACTION        : 13-AL-27(N,TOT),,SIG
+# File ID         : n-Al27-tot-sig-excfun-mon-Allen_1947_23521.004
+#
+# npts            : 2           
+# xmin            :   3.5000E+05
+# xmax            :   5.5000E+05
+# ymin            :   3.5500E+00
+# ymax            :   3.8500E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+05  0.0000E+00  3.8500E+00  1.1550E-01
+  5.5000E+05  0.0000E+00  3.5500E+00  1.0650E-01
+#---------------------------------------------------

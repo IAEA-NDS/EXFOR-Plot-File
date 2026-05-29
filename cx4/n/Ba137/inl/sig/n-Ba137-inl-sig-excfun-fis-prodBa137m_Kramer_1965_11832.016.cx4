@@ -1,0 +1,22 @@
+# EXFOR #         : 11832.016  
+# EXFOR Ver.      : 19830919
+# TRANS #         : 0000
+# Author          : H.H.Kramer et al.
+# Reference       : Nucl.Sci.Eng. 22 (1965) 373
+# DOI             : 10.13182/NSE65-A20941
+# Quantity        : 137Ba(n,inl)137mBa cross section
+# REACTION        : 56-BA-137(N,INL)56-BA-137-M,,SIG,,FIS
+# File ID         : n-Ba137-inl-sig-excfun-fis-prodBa137m_Kramer_1965_11832.016
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.2000E-01
+# ymax            :   2.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.2000E-01  2.2000E-02
+#---------------------------------------------------

@@ -1,0 +1,30 @@
+# EXFOR #         : 10492.010  
+# EXFOR Ver.      : 20040114
+# TRANS #         : 0000
+# Author          : P.T.Karatzas et al.
+# Reference       : Nucl.Sci.Eng. 67 (1978) 34
+# DOI             : 10.13182/NSE78-A27235
+# Quantity        : 50Cr(n,inl)50Cr partial gamma angular differential cross section
+# REACTION        : 24-CR-50(N,INL)24-CR-50,PAR,DA,G
+# File ID         : n-Cr50-inl-adxgl-excfun-mon-angl125_eoutl2.138E+06_prodCr50_Karatzas_1978_10492.010
+#
+# theta,lab (deg) :  125.0000000
+# Eout,lab (eV)   :   2.1380E+06
+#
+# npts            : 6           
+# xmin            :   3.1700E+06
+# xmax            :   3.9700E+06
+# ymin            :   1.1100E-02
+# ymax            :   2.2800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.1700E+06  0.0000E+00  1.3100E-02  4.9000E-03
+  3.3700E+06  0.0000E+00  1.7400E-02  7.9000E-03
+  3.5700E+06  0.0000E+00  2.2400E-02  7.3000E-03
+  3.7700E+06  0.0000E+00  2.2800E-02  6.4000E-03
+  3.8700E+06  0.0000E+00  1.1100E-02  4.5000E-03
+  3.9700E+06  0.0000E+00  2.2200E-02  6.6000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 22883.012.2
+# EXFOR Ver.      : 20211012
+# TRANS #         : 2305
+# Author          : U.Ratzel et al.
+# Reference       : Phys.Rev.C 70 (2004) 065803
+# DOI             : 10.1103/PhysRevC.70.065803
+# Quantity        : 208Pb(n,g)209Pb cross section
+# REACTION        : 82-PB-208(N,G)82-PB-209,,SIG,,SPA
+# File ID         : n-Pb208-g-sig-excfun-spa-prodPb209_Ratzel_2004_22883.012.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   3.1000E-04
+# ymax            :   3.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  3.1000E-04  1.7000E-05
+#---------------------------------------------------

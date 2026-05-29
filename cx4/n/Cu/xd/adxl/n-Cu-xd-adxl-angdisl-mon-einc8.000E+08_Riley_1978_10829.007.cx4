@@ -1,0 +1,24 @@
+# EXFOR #         : 10829.007  
+# EXFOR Ver.      : 19800128
+# TRANS #         : 0000
+# Author          : P.J.Riley et al.
+# Reference       : Phys.Rev.C 17 (1978) 1881
+# DOI             : 10.1103/PhysRevC.17.1881
+# Quantity        : natCu(n,d+x) angular differential cross section
+# REACTION        : 29-CU-0(N,X)1-H-2,,DA
+# File ID         : n-Cu-xd-adxl-angdisl-mon-einc8.000E+08_Riley_1978_10829.007
+#
+# Einc (eV)       :   8.0000E+08
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   2.7200E-03
+# ymax            :   2.7200E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  2.7200E-03  0.0000E+00
+#---------------------------------------------------

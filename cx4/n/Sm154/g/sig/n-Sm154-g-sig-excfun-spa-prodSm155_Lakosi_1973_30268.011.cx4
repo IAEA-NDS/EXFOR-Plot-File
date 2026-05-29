@@ -1,0 +1,22 @@
+# EXFOR #         : 30268.011  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : L.Lakosi et al.
+# Reference       : Proceedings of 2.Conf.on Neutron Physics, Kiev 1973 4 page 312
+# DOI             : N/A
+# Quantity        : 154Sm(n,g)155Sm cross section
+# REACTION        : 62-SM-154(N,G)62-SM-155,,SIG,,SPA
+# File ID         : n-Sm154-g-sig-excfun-spa-prodSm155_Lakosi_1973_30268.011
+#
+# npts            : 1           
+# xmin            :   8.3000E+05
+# xmax            :   8.3000E+05
+# ymin            :   5.3000E-02
+# ymax            :   5.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.3000E+05  0.0000E+00  5.3000E-02  8.0000E-03
+#---------------------------------------------------

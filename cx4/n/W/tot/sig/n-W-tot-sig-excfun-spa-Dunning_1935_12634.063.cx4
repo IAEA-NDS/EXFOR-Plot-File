@@ -1,0 +1,23 @@
+# EXFOR #         : 12634.063  
+# EXFOR Ver.      : 20260219
+# TRANS #         : 1527
+# Author          : J.R.Dunning et al.
+# Reference       : Phys.Rev. 48 (1935) 265
+# DOI             : 10.1103/PhysRev.48.265
+# Quantity        : natW(n,tot) cross section
+# REACTION        : 74-W-0(N,TOT),,SIG,,SPA
+# File ID         : n-W-tot-sig-excfun-spa-Dunning_1935_12634.063
+#
+# npts            : 2           
+# xmin            :   2.5000E-02
+# xmax            :   5.0000E+06
+# ymin            :   5.3000E+00
+# ymax            :   2.3000E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  0.0000E+00  2.3000E+01  0.0000E+00
+  5.0000E+06  0.0000E+00  5.3000E+00  0.0000E+00
+#---------------------------------------------------

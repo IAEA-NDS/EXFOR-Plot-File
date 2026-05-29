@@ -1,0 +1,22 @@
+# EXFOR #         : 14296.003  
+# EXFOR Ver.      : 20170802
+# TRANS #         : 1430
+# Author          : R.Sher et al.
+# Reference       : J.Nucl.Energy A 12 (1960) 101
+# DOI             : 10.1016/0368-3265(60)90071-2
+# Quantity        : 238U(n,f) total fission neutron multiplicity
+# REACTION        : 92-U-238(N,F),,NU,,FIS
+# File ID         : n-U238-f-nut-excfun-fis-Sher_1960_14296.003
+#
+# npts            : 1           
+# xmin            :   2.8000E+06
+# xmax            :   2.8000E+06
+# ymin            :   2.9300E+00
+# ymax            :   2.9300E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-t        dnu-t       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  2.8000E+06  1.5000E+05  2.9300E+00  7.5000E-02
+#---------------------------------------------------

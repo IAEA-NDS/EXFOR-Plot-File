@@ -1,0 +1,23 @@
+# EXFOR #         : 20868.015.3
+# EXFOR Ver.      : 20150721
+# TRANS #         : 2243
+# Author          : H.Pauw
+# Reference       : Report INDC(NED)-3, 1970
+# DOI             : N/A
+# Quantity        : 197Au(n,2n)196Au cross section
+# REACTION        : 79-AU-197(N,2N)79-AU-196,,SIG,,SPA
+# File ID         : n-Au197-2n-sig-excfun-spa-prodAu196_Pauw_1970_20868.015.3
+#
+# npts            : 2           
+# xmin            :   4.5000E+06
+# xmax            :   4.5000E+06
+# ymin            :   3.5000E-02
+# ymax            :   4.0900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+06  0.0000E+00  4.0900E-02  1.2000E-03
+  4.5000E+06  0.0000E+00  3.5000E-02  1.4000E-03
+#---------------------------------------------------

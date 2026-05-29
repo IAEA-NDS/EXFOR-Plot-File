@@ -1,0 +1,22 @@
+# EXFOR #         : 30136.007  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : J.Brzosko et al.
+# Reference       : Nucl.Phys. 45 (1963) 579
+# DOI             : 10.1016/0029-5582(63)90833-2
+# Quantity        : 117Sn(n,p)117mIn cross section
+# REACTION        : 50-SN-117(N,P)49-IN-117-M,,SIG
+# File ID         : n-Sn117-p-sig-excfun-mon-prodIn117m_Brzosko_1963_30136.007
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   5.1000E-03
+# ymax            :   5.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  5.1000E-03  1.6000E-03
+#---------------------------------------------------

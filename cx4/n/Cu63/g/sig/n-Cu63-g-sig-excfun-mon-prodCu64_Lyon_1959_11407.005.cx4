@@ -1,0 +1,22 @@
+# EXFOR #         : 11407.005  
+# EXFOR Ver.      : 20260110
+# TRANS #         : 1525
+# Author          : W.S.Lyon et al.
+# Reference       : Phys.Rev. 114 (1959) 1619
+# DOI             : 10.1103/PhysRev.114.1619
+# Quantity        : 63Cu(n,g)64Cu cross section
+# REACTION        : 29-CU-63(N,G)29-CU-64,,SIG
+# File ID         : n-Cu63-g-sig-excfun-mon-prodCu64_Lyon_1959_11407.005
+#
+# npts            : 1           
+# xmin            :   1.9500E+05
+# xmax            :   1.9500E+05
+# ymin            :   4.2000E-02
+# ymax            :   4.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9500E+05  5.0000E+04  4.2000E-02  6.0000E-03
+#---------------------------------------------------

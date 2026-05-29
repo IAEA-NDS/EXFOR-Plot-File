@@ -1,0 +1,22 @@
+# EXFOR #         : 40848.004  
+# EXFOR Ver.      : 20231226
+# TRANS #         : 4216
+# Author          : E.I.Grigor'ev et al.
+# Reference       : Report INDC(CCP)-235 Vol.(3) page 187, 1983
+# DOI             : N/A
+# Quantity        : 115In(n,inl)115In cross section
+# REACTION        : 49-IN-115(N,INL)49-IN-115,,SIG,,FIS
+# File ID         : n-In115-inl-sig-excfun-fis-prodIn115_Grigorev_1983_40848.004
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   1.8800E-01
+# ymax            :   1.8800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  1.8800E-01  6.2040E-03
+#---------------------------------------------------

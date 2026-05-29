@@ -1,0 +1,22 @@
+# EXFOR #         : 23377.002  
+# EXFOR Ver.      : 20180724
+# TRANS #         : 2269
+# Author          : A.Letourneau et al.
+# Reference       : Proceedings of Symp.on Capt.Gamma Ray Spectroscopy, Pruhonice, 2002 page 734
+# DOI             : N/A
+# Quantity        : 209Bi(n,g)210Bi cross section
+# REACTION        : 83-BI-209(N,G)83-BI-210,,SIG,,MXW
+# File ID         : n-Bi209-g-sig-excfun-mxw-prodBi210_Letourneau_2002_23377.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.5000E-02
+# ymax            :   3.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.5000E-02  1.7500E-03
+#---------------------------------------------------

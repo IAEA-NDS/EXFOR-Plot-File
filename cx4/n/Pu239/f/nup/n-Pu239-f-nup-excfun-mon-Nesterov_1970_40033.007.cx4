@@ -1,0 +1,22 @@
+# EXFOR #         : 40033.007  
+# EXFOR Ver.      : 20120321
+# TRANS #         : 4156
+# Author          : V.G.Nesterov et al.
+# Reference       : Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 2 page 167
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) prompt fission neutron multiplicity
+# REACTION        : 94-PU-239(N,F),PR,NU
+# File ID         : n-Pu239-f-nup-excfun-mon-Nesterov_1970_40033.007
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.8720E+00
+# ymax            :   2.8720E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.8720E+00  2.5000E-02
+#---------------------------------------------------

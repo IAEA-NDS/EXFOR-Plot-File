@@ -1,0 +1,22 @@
+# EXFOR #         : 23520.003.1
+# EXFOR Ver.      : 20190604
+# TRANS #         : 2280
+# Author          : D.J.Littler et al.
+# Reference       : Proc.Phys.Soc.(UK) A 66 (1953) 700
+# DOI             : 10.1088/0370-1298/66/8/303
+# Quantity        : 209Bi(n,g)210gBi cross section
+# REACTION        : 83-BI-209(N,G)83-BI-210-G,,SIG,,SPA
+# File ID         : n-Bi209-g-sig-excfun-spa-prodBi210g_Littler_1953_23520.003.1
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.0500E-02
+# ymax            :   2.0500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.0500E-02  1.5000E-03
+#---------------------------------------------------

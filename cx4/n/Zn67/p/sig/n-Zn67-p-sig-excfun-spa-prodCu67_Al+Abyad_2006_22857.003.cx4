@@ -1,0 +1,22 @@
+# EXFOR #         : 22857.003  
+# EXFOR Ver.      : 20170301
+# TRANS #         : 2259
+# Author          : M.Al-Abyad et al.
+# Reference       : Appl.Radiat.Isot. 64 (2006) 717
+# DOI             : 10.1016/j.apradiso.2005.12.020
+# Quantity        : 67Zn(n,p)67Cu cross section
+# REACTION        : 30-ZN-67(N,P)29-CU-67,,SIG,,SPA
+# File ID         : n-Zn67-p-sig-excfun-spa-prodCu67_Al+Abyad_2006_22857.003
+#
+# npts            : 1           
+# xmin            :   3.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   5.1300E-03
+# ymax            :   5.1300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  0.0000E+00  5.1300E-03  8.7000E-04
+#---------------------------------------------------

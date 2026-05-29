@@ -1,0 +1,22 @@
+# EXFOR #         : 11885.009  
+# EXFOR Ver.      : 19830919
+# TRANS #         : 0000
+# Author          : H.Pomerance
+# Reference       : Progress report ORNL-1879 page 50, 1955
+# DOI             : N/A
+# Quantity        : 241Am(n,g)242Am cross section
+# REACTION        : 95-AM-241(N,G)95-AM-242,,SIG,,MXW
+# File ID         : n-Am241-g-sig-excfun-mxw-prodAm242_Pomerance_1955_11885.009
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   6.2500E+02
+# ymax            :   6.2500E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  6.2500E+02  3.5000E+01
+#---------------------------------------------------

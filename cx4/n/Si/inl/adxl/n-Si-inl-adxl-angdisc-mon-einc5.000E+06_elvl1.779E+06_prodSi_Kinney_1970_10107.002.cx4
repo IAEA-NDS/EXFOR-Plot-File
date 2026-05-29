@@ -1,0 +1,28 @@
+# EXFOR #         : 10107.002  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4517, 1970
+# DOI             : N/A
+# Quantity        : natSi(n,inl)28Si partial angular differential cross section
+# REACTION        : 14-SI-0(N,INL)14-SI-28,PAR,DA
+# File ID         : n-Si-inl-adxl-angdisc-mon-einc5.000E+06_elvl1.779E+06_prodSi_Kinney_1970_10107.002
+#
+# Einc (eV)       :   5.0000E+06
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   1.7790E+06
+#
+# npts            : 3           
+# xmin            :   57.1200000
+# xmax            :   92.5900000
+# ymin            :   5.2330E-02
+# ymax            :   6.0040E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  57.1200000   0.0000000  5.2460E-02  0.0000E+00
+  92.5800000   0.0000000  6.0040E-02  0.0000E+00
+  92.5900000   0.0000000  5.2330E-02  0.0000E+00
+#---------------------------------------------------

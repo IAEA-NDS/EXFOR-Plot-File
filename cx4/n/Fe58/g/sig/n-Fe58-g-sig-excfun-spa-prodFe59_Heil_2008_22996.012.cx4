@@ -1,0 +1,22 @@
+# EXFOR #         : 22996.012  
+# EXFOR Ver.      : 20211101
+# TRANS #         : 2305
+# Author          : M.Heil et al.
+# Reference       : Phys.Rev.C 77 (2008) 015808
+# DOI             : 10.1103/PhysRevC.77.015808
+# Quantity        : 58Fe(n,g)59Fe cross section
+# REACTION        : 26-FE-58(N,G)26-FE-59,,SIG,,SPA
+# File ID         : n-Fe58-g-sig-excfun-spa-prodFe59_Heil_2008_22996.012
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   1.3900E-02
+# ymax            :   1.3900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  1.3900E-02  6.0000E-04
+#---------------------------------------------------

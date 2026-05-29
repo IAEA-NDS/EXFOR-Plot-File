@@ -1,0 +1,30 @@
+# EXFOR #         : 22795.005  
+# EXFOR Ver.      : 20220202
+# TRANS #         : 2308
+# Author          : M.Kerveno et al.
+# Reference       : Phys.Rev.C 104 (2021) 044605
+# DOI             : 10.1103/PhysRevC.104.044605
+# Quantity        : 238U(n,inl)238U partial gamma angular differential cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,DA,G
+# File ID         : n-U238-inl-adxgl-excfun-mon-angl150_eoutl4.492E+04_prodU238_Kerveno_2021_22795.005
+#
+# theta,lab (deg) :  150.0000000
+# Eout,lab (eV)   :   4.4915E+04
+#
+# npts            : 6           
+# xmin            :   3.9572E+05
+# xmax            :   9.0330E+06
+# ymin            :   3.1487E-05
+# ymax            :   2.2830E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.0330E+06  1.4226E+06  3.1487E-05  2.2341E-05
+  6.0813E+06  1.5291E+06  5.6176E-05  2.8866E-05
+  3.4532E+06  1.0990E+06  1.5799E-04  4.2246E-05
+  1.7425E+06  6.1172E+05  2.2830E-04  6.1055E-05
+  8.4811E+05  2.8265E+05  2.1832E-04  5.8391E-05
+  3.9572E+05  1.6974E+05  1.5800E-04  4.2273E-05
+#---------------------------------------------------

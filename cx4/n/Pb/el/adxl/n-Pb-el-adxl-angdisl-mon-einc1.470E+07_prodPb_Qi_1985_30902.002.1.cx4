@@ -1,0 +1,28 @@
+# EXFOR #         : 30902.002.1
+# EXFOR Ver.      : 20250311
+# TRANS #         : 3218
+# Author          : H.Q.Qi et al.
+# Reference       : Report INDC(CPR)-006, 1985
+# DOI             : N/A
+# Quantity        : natPb(n,el)natPb angular differential cross section
+# REACTION        : 82-PB-0(N,EL)82-PB-0,,DA
+# File ID         : n-Pb-el-adxl-angdisl-mon-einc1.470E+07_prodPb_Qi_1985_30902.002.1
+#
+# Einc (eV)       :   1.4700E+07
+#
+# npts            : 5           
+# xmin            :    3.0000000
+# xmax            :    9.0000000
+# ymin            :   9.1000E+00
+# ymax            :   1.3800E+01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   3.0000000   0.0000000  1.3800E+01  7.0000E-01
+   4.5000000   0.0000000  1.2500E+01  7.0000E-01
+   6.0000000   0.0000000  1.1600E+01  6.0000E-01
+   7.5000000   0.0000000  1.1400E+01  6.0000E-01
+   9.0000000   0.0000000  9.1000E+00  5.0000E-01
+#---------------------------------------------------

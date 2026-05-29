@@ -1,0 +1,26 @@
+# EXFOR #         : 10158.013  
+# EXFOR Ver.      : 20140421
+# TRANS #         : 1401
+# Author          : D.O.Nellis et al.
+# Reference       : Phys.Rev.C 1 (1970) 847
+# DOI             : 10.1103/PhysRevC.1.847
+# Quantity        : 10B(n,inl)10B partial gamma angular differential cross section
+# REACTION        : 5-B-10(N,INL)5-B-10,PAR,DA,G
+# File ID         : n-B10-inl-adxgl-enedisl-mon-einc1.450E+06_angl55_prodB10_Nellis_1970_10158.013
+#
+# Einc (eV)       :   1.4500E+06
+# dEinc (eV)      :   5.0000E+04
+# theta,lab (deg) :   55.0000000
+#
+# npts            : 1           
+# xmin            :   7.1700E+05
+# xmax            :   7.1700E+05
+# ymin            :   3.1000E-04
+# ymax            :   3.1000E-04
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.1700E+05  0.0000E+00  3.1000E-04  4.0000E-05
+#---------------------------------------------------

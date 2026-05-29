@@ -1,0 +1,22 @@
+# EXFOR #         : 31828.004.1
+# EXFOR Ver.      : 20200911
+# TRANS #         : 3197
+# Author          : M.Schulc et al.
+# Reference       : Appl.Radiat.Isot. 166 (2020) 109313
+# DOI             : 10.1016/j.apradiso.2020.109313
+# Quantity        : 209Bi(n,3n)207Bi cross section
+# REACTION        : 83-BI-209(N,3N)83-BI-207,,SIG,,FIS
+# File ID         : n-Bi209-3n-sig-excfun-fis-prodBi207_Schulc_2020_31828.004.1
+#
+# npts            : 1           
+# xmin            :   1.3200E+06
+# xmax            :   1.3200E+06
+# ymin            :   8.3400E-06
+# ymax            :   8.3400E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3200E+06  0.0000E+00  8.3400E-06  4.8372E-07
+#---------------------------------------------------

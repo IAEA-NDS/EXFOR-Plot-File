@@ -1,0 +1,22 @@
+# EXFOR #         : 22843.002  
+# EXFOR Ver.      : 20161111
+# TRANS #         : 2255
+# Author          : H.Harada et al.
+# Reference       : J.Nucl.Sci.Technol. 41 No.1 (2004) 1
+# DOI             : 10.1080/18811248.2004.9715451
+# Quantity        : 238Np(n,g)239Np cross section
+# REACTION        : 93-NP-238(N,G)93-NP-239,,SIG,,MXW
+# File ID         : n-Np238-g-sig-excfun-mxw-prodNp239_Harada_2004_22843.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   4.7900E+02
+# ymax            :   4.7900E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  4.7900E+02  2.4000E+01
+#---------------------------------------------------

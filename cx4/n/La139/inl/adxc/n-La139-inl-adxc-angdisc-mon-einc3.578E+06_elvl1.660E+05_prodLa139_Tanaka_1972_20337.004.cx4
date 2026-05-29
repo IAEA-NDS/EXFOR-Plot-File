@@ -1,0 +1,27 @@
+# EXFOR #         : 20337.004  
+# EXFOR Ver.      : 20170430
+# TRANS #         : 2261
+# Author          : S.Tanaka et al.
+# Reference       : Nucl.Phys.A 179 (1972) 513
+# DOI             : 10.1016/0375-9474(72)90387-9
+# Quantity        : 139La(n,inl)139La partial angular differential cross section
+# REACTION        : 57-LA-139(N,INL)57-LA-139,PAR,DA
+# File ID         : n-La139-inl-adxc-angdisc-mon-einc3.578E+06_elvl1.660E+05_prodLa139_Tanaka_1972_20337.004
+#
+# Einc (eV)       :   3.5780E+06
+# dEinc (eV)      :   2.0000E+04
+# Elvl (eV)       :   1.6600E+05
+#
+# npts            : 2           
+# xmin            :   90.4010700
+# xmax            :  100.4280000
+# ymin            :   4.7000E-03
+# ymax            :   6.1000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 100.4280000   0.0000000  6.1000E-03  1.0000E-03
+  90.4010700   0.0000000  4.7000E-03  1.0000E-03
+#---------------------------------------------------

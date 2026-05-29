@@ -1,0 +1,27 @@
+# EXFOR #         : 13444.002.2
+# EXFOR Ver.      : 20101116
+# TRANS #         : 1369
+# Author          : G.P.Ford et al.
+# Reference       : Report LA-6129, 1976
+# DOI             : N/A
+# Quantity        : 232Th(n,f) cumulative fission product yield
+# REACTION        : 90-TH-232(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-Th232-f-fyc-nucdis-mon-einc1.470E+07_Ford_1976_13444.002.2
+#
+# Einc (eV)       :   1.4700E+07
+#
+# npts            : 4           
+# xmin            : 40097.9     
+# xmax            : 47111.9     
+# ymin            :   2.7200E-02
+# ymax            :   8.1500E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     40097.9  8.1500E-02  0.0000E+00
+     46109.9  2.7200E-02  0.0000E+00
+     47111.9  3.8680E-02  0.0000E+00
+     46112.9  2.7930E-02  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 14393.007  
+# EXFOR Ver.      : 20140603
+# TRANS #         : 1400
+# Author          : R.Block et al.
+# Reference       : Proceedings of Pile Neutron Research Symp., Vienna 1960 page 535
+# DOI             : N/A
+# Quantity        : natIn(n,g) cross section
+# REACTION        : 49-IN-0(N,G),,SIG
+# File ID         : n-In-g-sig-excfun-mon-prodIn1_Block_1960_14393.007
+#
+# npts            : 2           
+# xmin            :   2.5120E+04
+# xmax            :   4.6060E+04
+# ymin            :   6.4680E-01
+# ymax            :   8.2640E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5120E+04  0.0000E+00  8.2640E-01  5.9640E-02
+  4.6060E+04  0.0000E+00  6.4680E-01  0.0000E+00
+#---------------------------------------------------

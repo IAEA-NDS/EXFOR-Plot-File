@@ -1,0 +1,22 @@
+# EXFOR #         : 10809.004.2
+# EXFOR Ver.      : 20101103
+# TRANS #         : 1369
+# Author          : H.T.Heaton Ii et al.
+# Reference       : Report ANL-76-90 page 333, 1976
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cross section
+# REACTION        : 94-PU-239(N,F),,SIG,,FIS
+# File ID         : n-Pu239-f-sig-excfun-fis-Heaton%Ii_1976_10809.004.2
+#
+# npts            : 1           
+# xmin            :   2.1300E+06
+# xmax            :   2.1300E+06
+# ymin            :   1.8240E+00
+# ymax            :   1.8240E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1300E+06  0.0000E+00  1.8240E+00  3.5000E-02
+#---------------------------------------------------

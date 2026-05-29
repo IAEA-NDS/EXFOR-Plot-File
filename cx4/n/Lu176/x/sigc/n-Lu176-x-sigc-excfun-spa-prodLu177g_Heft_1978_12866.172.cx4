@@ -1,0 +1,22 @@
+# EXFOR #         : 12866.172  
+# EXFOR Ver.      : 20210920
+# TRANS #         : 1487
+# Author          : R.E.Heft
+# Reference       : Proceedings of Conf.on Computers in Activ.Analysis,Mayaguez 1978 page 495
+# DOI             : N/A
+# Quantity        : 176Lu(n,g)177gLu cumulative production cross section
+# REACTION        : 71-LU-176(N,G)71-LU-177-G,M+,SIG,,SPA
+# File ID         : n-Lu176-x-sigc-excfun-spa-prodLu177g_Heft_1978_12866.172
+#
+# npts            : 1           
+# xmin            :   2.5000E-02
+# xmax            :   2.5000E-02
+# ymin            :   3.3500E+03
+# ymax            :   3.3500E+03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  0.0000E+00  3.3500E+03  1.0000E+02
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 31449.005  
+# EXFOR Ver.      : 20071207
+# TRANS #         : 3124
+# Author          : N.I.Molla et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 2 page 938
+# DOI             : N/A
+# Quantity        : 59Co(n,p)59Fe cross section
+# REACTION        : 27-CO-59(N,P)26-FE-59,,SIG
+# File ID         : n-Co59-p-sig-excfun-mon-prodFe59_Molla_1994_31449.005
+#
+# npts            : 5           
+# xmin            :   1.3570E+07
+# xmax            :   1.4710E+07
+# ymin            :   5.1600E-02
+# ymax            :   5.6600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3570E+07  0.0000E+00  5.6600E-02  8.1000E-03
+  1.3900E+07  0.0000E+00  5.5200E-02  8.0000E-03
+  1.4100E+07  0.0000E+00  5.3600E-02  6.0000E-03
+  1.4510E+07  0.0000E+00  5.2800E-02  7.5000E-03
+  1.4710E+07  0.0000E+00  5.1600E-02  7.4000E-03
+#---------------------------------------------------

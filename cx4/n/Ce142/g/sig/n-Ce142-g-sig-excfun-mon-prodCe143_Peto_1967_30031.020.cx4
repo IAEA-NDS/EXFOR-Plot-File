@@ -1,0 +1,22 @@
+# EXFOR #         : 30031.020  
+# EXFOR Ver.      : 19900212
+# TRANS #         : 0000
+# Author          : G.Peto et al.
+# Reference       : J.Nucl.Energy 21 (1967) 797
+# DOI             : 10.1016/0022-3107(67)90089-5
+# Quantity        : 142Ce(n,g)143Ce cross section
+# REACTION        : 58-CE-142(N,G)58-CE-143,,SIG
+# File ID         : n-Ce142-g-sig-excfun-mon-prodCe143_Peto_1967_30031.020
+#
+# npts            : 1           
+# xmin            :   3.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   3.3400E-02
+# ymax            :   3.3400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  2.0000E+05  3.3400E-02  6.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 41001.024  
+# EXFOR Ver.      : 20250805
+# TRANS #         : 4224
+# Author          : Yu.N.Trofimov
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 331
+# DOI             : N/A
+# Quantity        : 151Eu(n,g)152Eu cross section
+# REACTION        : 63-EU-151(N,G)63-EU-152,,SIG
+# File ID         : n-Eu151-g-sig-excfun-mon-prodEu152_Trofimov_1987_41001.024
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.4000E-01
+# ymax            :   2.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.4000E-01  3.0000E-02
+#---------------------------------------------------

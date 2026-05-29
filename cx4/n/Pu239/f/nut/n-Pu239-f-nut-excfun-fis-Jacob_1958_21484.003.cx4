@@ -1,0 +1,22 @@
+# EXFOR #         : 21484.003  
+# EXFOR Ver.      : 19810204
+# TRANS #         : 0000
+# Author          : M.Jacob
+# Reference       : Report CEA-652 page 17, 1958
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) total fission neutron multiplicity
+# REACTION        : 94-PU-239(N,F),,NU,,FIS
+# File ID         : n-Pu239-f-nut-excfun-fis-Jacob_1958_21484.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.1000E+00
+# ymax            :   3.1000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-t        dnu-t       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.1000E+00  7.0000E-02
+#---------------------------------------------------

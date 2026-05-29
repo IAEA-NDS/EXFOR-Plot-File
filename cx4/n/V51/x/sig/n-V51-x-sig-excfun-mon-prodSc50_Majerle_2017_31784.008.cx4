@@ -1,0 +1,25 @@
+# EXFOR #         : 31784.008  
+# EXFOR Ver.      : 20180228
+# TRANS #         : 3182
+# Author          : M.Majerle et al.
+# Reference       : EPJ Web Conf. 146 (2017) 09019
+# DOI             : 10.1051/epjconf/201714609019
+# Quantity        : 51V(n,x)50Sc independent production cross section
+# REACTION        : 23-V-51(N,X)21-SC-50,,SIG
+# File ID         : n-V51-x-sig-excfun-mon-prodSc50_Majerle_2017_31784.008
+#
+# npts            : 4           
+# xmin            :   2.5000E+07
+# xmax            :   3.2600E+07
+# ymin            :   2.3000E-04
+# ymax            :   3.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+07  1.8000E+06  2.7000E-04  7.0000E-05
+  2.7400E+07  1.7000E+06  2.3000E-04  3.0000E-05
+  3.0000E+07  1.6000E+06  2.3000E-04  3.0000E-05
+  3.2600E+07  1.5000E+06  3.3000E-04  3.0000E-05
+#---------------------------------------------------

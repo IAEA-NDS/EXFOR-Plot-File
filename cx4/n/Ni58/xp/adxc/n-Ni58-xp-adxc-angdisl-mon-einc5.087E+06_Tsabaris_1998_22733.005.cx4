@@ -1,0 +1,27 @@
+# EXFOR #         : 22733.005  
+# EXFOR Ver.      : 20060209
+# TRANS #         : 2176
+# Author          : C.Tsabaris et al.
+# Reference       : Nucl.Sci.Eng. 128 (1998) 47
+# DOI             : 10.13182/NSE128-47
+# Quantity        : 58Ni(n,p+x) angular differential cross section
+# REACTION        : 28-NI-58(N,X)1-H-1,,DA
+# File ID         : n-Ni58-xp-adxc-angdisl-mon-einc5.087E+06_Tsabaris_1998_22733.005
+#
+# Einc (eV)       :   5.0873E+06
+#
+# npts            : 4           
+# xmin            :   51.0000000
+# xmax            :  141.0000000
+# ymin            :   3.4840E-02
+# ymax            :   3.6690E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  51.0000000   0.0000000  3.4840E-02  2.4800E-03
+  79.0000000   0.0000000  3.5110E-02  1.9800E-03
+ 109.0000000   0.0000000  3.5340E-02  1.9500E-03
+ 141.0000000   0.0000000  3.6690E-02  1.7900E-03
+#---------------------------------------------------

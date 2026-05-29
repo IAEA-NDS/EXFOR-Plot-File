@@ -1,0 +1,22 @@
+# EXFOR #         : 22459.006.2
+# EXFOR Ver.      : 20210924
+# TRANS #         : 2304
+# Author          : S.Jaag et al.
+# Reference       : Phys.Rev.C 51 (1995) 3465
+# DOI             : 10.1103/PhysRevC.51.3465
+# Quantity        : 155Eu(n,g)156Eu cross section
+# REACTION        : 63-EU-155(N,G)63-EU-156,,SIG,,MXW
+# File ID         : n-Eu155-g-sig-excfun-mxw-prodEu156_Jaag_1995_22459.006.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   1.6620E+00
+# ymax            :   1.6620E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  1.6620E+00  1.0000E-01
+#---------------------------------------------------

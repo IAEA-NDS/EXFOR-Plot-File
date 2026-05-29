@@ -1,0 +1,22 @@
+# EXFOR #         : 30938.002  
+# EXFOR Ver.      : 20090913
+# TRANS #         : 3141
+# Author          : J.Rama Rao et al.
+# Reference       : Nucl.Instrum.Meth.B 17 (1986) 368
+# DOI             : 10.1016/0168-583X(86)90128-X
+# Quantity        : 58Ni(n,2n)57Ni cross section
+# REACTION        : 28-NI-58(N,2N)28-NI-57,,SIG
+# File ID         : n-Ni58-2n-sig-excfun-mon-prodNi57_Rama%Rao_1986_30938.002
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   2.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  2.0000E-02  1.5000E-03
+#---------------------------------------------------

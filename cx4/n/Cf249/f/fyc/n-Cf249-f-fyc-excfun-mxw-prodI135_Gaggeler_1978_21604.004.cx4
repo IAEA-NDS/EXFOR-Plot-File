@@ -1,0 +1,22 @@
+# EXFOR #         : 21604.004  
+# EXFOR Ver.      : 20220209
+# TRANS #         : 2309
+# Author          : H.Gaggeler et al.
+# Reference       : Phys.Rev.C 17 (1978) 172
+# DOI             : 10.1103/PhysRevC.17.172
+# Quantity        : 249Cf(n,f)135I cumulative fission product yield
+# REACTION        : 98-CF-249(N,F)53-I-135,CUM,FY,,MXW
+# File ID         : n-Cf249-f-fyc-excfun-mxw-prodI135_Gaggeler_1978_21604.004
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.3000E-02
+# ymax            :   3.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.3000E-02  2.0000E-03
+#---------------------------------------------------

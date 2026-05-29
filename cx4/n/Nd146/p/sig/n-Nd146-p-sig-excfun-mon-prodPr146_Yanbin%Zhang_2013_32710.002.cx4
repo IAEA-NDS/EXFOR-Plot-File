@@ -1,0 +1,24 @@
+# EXFOR #         : 32710.002  
+# EXFOR Ver.      : 20130416
+# TRANS #         : 3160
+# Author          : Yanbin Zhang et al.
+# Reference       : Ann.Nucl.Energy 53 (2013) 99
+# DOI             : 10.1016/j.anucene.2012.10.008
+# Quantity        : 146Nd(n,p)146Pr cross section
+# REACTION        : 60-ND-146(N,P)59-PR-146,,SIG
+# File ID         : n-Nd146-p-sig-excfun-mon-prodPr146_Yanbin%Zhang_2013_32710.002
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.4700E+07
+# ymin            :   3.0600E-03
+# ymax            :   4.9300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  3.0600E-03  3.6000E-04
+  1.4100E+07  2.0000E+05  3.9200E-03  3.7000E-04
+  1.4700E+07  2.0000E+05  4.9300E-03  4.7000E-04
+#---------------------------------------------------

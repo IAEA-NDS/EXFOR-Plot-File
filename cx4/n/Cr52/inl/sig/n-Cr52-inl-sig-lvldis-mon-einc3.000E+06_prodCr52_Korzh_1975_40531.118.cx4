@@ -1,0 +1,26 @@
+# EXFOR #         : 40531.118  
+# EXFOR Ver.      : 20211230
+# TRANS #         : 4203
+# Author          : I.A.Korzh et al.
+# Reference       : Proceedings of 3.All Union Conf.on Neutron Phys.,Kiev,9-13 Jun 1975 4 page 220
+# DOI             : N/A
+# Quantity        : 52Cr(n,inl)52Cr partial cross section
+# REACTION        : 24-CR-52(N,INL)24-CR-52,PAR,SIG
+# File ID         : n-Cr52-inl-sig-lvldis-mon-einc3.000E+06_prodCr52_Korzh_1975_40531.118
+#
+# Einc (eV)       :   3.0000E+06
+# dEinc (eV)      :   5.0000E+04
+#
+# npts            : 2           
+# xmin            :   1.4340E+06
+# xmax            :   2.3700E+06
+# ymin            :   1.0000E-01
+# ymax            :   7.3700E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4340E+06  0.0000E+00  7.3700E-01  8.3000E-02
+  2.3700E+06  0.0000E+00  1.0000E-01  6.0000E-03
+#---------------------------------------------------

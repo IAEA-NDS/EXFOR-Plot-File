@@ -1,0 +1,28 @@
+# EXFOR #         : 20341.022  
+# EXFOR Ver.      : 20080526
+# TRANS #         : 2198
+# Author          : K.Tsukada et al.
+# Reference       : Proceedings of Reactor Physics Sem., Vienna 1961 1 page 75(18/12)
+# DOI             : N/A
+# Quantity        : 32S(n,inl)32S partial cross section
+# REACTION        : 16-S-32(N,INL)16-S-32,PAR,SIG
+# File ID         : n-S32-inl-sig-excfun-mon-elvl2.240E+06_prodS32_Tsukada_1961_20341.022
+#
+# Elvl (eV)       :   2.2400E+06
+#
+# npts            : 5           
+# xmin            :   3.5000E+06
+# xmax            :   4.8000E+06
+# ymin            :   3.0000E-01
+# ymax            :   4.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+06  0.0000E+00  3.3000E-01  6.0000E-02
+  3.8500E+06  0.0000E+00  4.4000E-01  6.0000E-02
+  4.2000E+06  0.0000E+00  3.8000E-01  5.0000E-02
+  4.5000E+06  0.0000E+00  3.4000E-01  5.0000E-02
+  4.8000E+06  0.0000E+00  3.0000E-01  5.0000E-02
+#---------------------------------------------------

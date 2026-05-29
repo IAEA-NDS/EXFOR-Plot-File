@@ -1,0 +1,28 @@
+# EXFOR #         : 20359.002  
+# EXFOR Ver.      : 20170430
+# TRANS #         : 2261
+# Author          : R.B.Galloway et al.
+# Reference       : Nucl.Phys.A 212 (1973) 182
+# DOI             : 10.1016/0375-9474(73)90043-2
+# Quantity        : natCu(n,el)natCu angular differential cross section
+# REACTION        : 29-CU-0(N,EL)29-CU-0,,DA
+# File ID         : n-Cu-el-adxl-angdisl-mon-einc3.000E+06_prodCu_Galloway_1973_20359.002
+#
+# Einc (eV)       :   3.0000E+06
+#
+# npts            : 5           
+# xmin            :    1.6606480
+# xmax            :    7.7013680
+# ymin            :   1.3200E+00
+# ymax            :   1.4700E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.7013680   0.5000000  1.3200E+00  2.0000E-02
+   5.0030880   0.5000000  1.3600E+00  2.0000E-02
+   3.6061340   0.5000000  1.3800E+00  2.0000E-02
+   2.2043490   0.5000000  1.4300E+00  2.0000E-02
+   1.6606480   0.5000000  1.4700E+00  2.0000E-02
+#---------------------------------------------------

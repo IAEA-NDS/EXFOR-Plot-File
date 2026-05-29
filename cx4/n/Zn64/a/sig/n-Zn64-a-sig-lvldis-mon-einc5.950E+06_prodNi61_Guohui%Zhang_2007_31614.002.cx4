@@ -1,0 +1,24 @@
+# EXFOR #         : 31614.002  
+# EXFOR Ver.      : 20080718
+# TRANS #         : 3129
+# Author          : Guohui Zhang et al.
+# Reference       : Nucl.Sci.Eng. 156 (2007) 115
+# DOI             : 10.13182/NSE07-A2690
+# Quantity        : 64Zn(n,a)61Ni partial cross section
+# REACTION        : 30-ZN-64(N,A)28-NI-61,PAR,SIG
+# File ID         : n-Zn64-a-sig-lvldis-mon-einc5.950E+06_prodNi61_Guohui%Zhang_2007_31614.002
+#
+# Einc (eV)       :   5.9500E+06
+#
+# npts            : 1           
+# xmin            :   1.4150E+05
+# xmax            :   1.4150E+05
+# ymin            :   2.6500E-02
+# ymax            :   2.6500E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4150E+05  1.4150E+05  2.6500E-02  1.7000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 22941.023  
+# EXFOR Ver.      : 20160910
+# TRANS #         : 2254
+# Author          : A.Letourneau et al.
+# Reference       : Proceedings of Workshop Nucl.Data Meas., Theo.&Appl., Budapest,2009 page 81
+# DOI             : N/A
+# Quantity        : 232Th(n,g)233Th cross section
+# REACTION        : 90-TH-232(N,G)90-TH-233,,SIG,,SPA
+# File ID         : n-Th232-g-sig-excfun-spa-prodTh233_Letourneau_2009_22941.023
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   6.2700E+00
+# ymax            :   6.2700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  6.2700E+00  1.8000E-01
+#---------------------------------------------------

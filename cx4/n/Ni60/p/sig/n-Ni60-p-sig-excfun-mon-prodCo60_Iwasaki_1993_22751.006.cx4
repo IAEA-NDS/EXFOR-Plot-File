@@ -1,0 +1,24 @@
+# EXFOR #         : 22751.006  
+# EXFOR Ver.      : 20080621
+# TRANS #         : 2200
+# Author          : S.Iwasaki et al.
+# Reference       : Report (proceedings) JAERI-M-93-046 page 257, 1993
+# DOI             : N/A
+# Quantity        : 60Ni(n,p)60Co cross section
+# REACTION        : 28-NI-60(N,P)27-CO-60,,SIG
+# File ID         : n-Ni60-p-sig-excfun-mon-prodCo60_Iwasaki_1993_22751.006
+#
+# npts            : 3           
+# xmin            :   1.7222E+07
+# xmax            :   1.9115E+07
+# ymin            :   7.6672E-02
+# ymax            :   1.0348E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7222E+07  2.4957E+05  1.0348E-01  6.0644E-03
+  1.8319E+07  2.3287E+05  9.2627E-02  5.1330E-03
+  1.9115E+07  2.9949E+05  7.6672E-02  5.5978E-03
+#---------------------------------------------------

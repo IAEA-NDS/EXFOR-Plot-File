@@ -1,0 +1,22 @@
+# EXFOR #         : 11010.005  
+# EXFOR Ver.      : 20150826
+# TRANS #         : 1409
+# Author          : V.Hummel et al.
+# Reference       : Phys.Rev. 82 (1951) 67
+# DOI             : 10.1103/PhysRev.82.67
+# Quantity        : 65Cu(n,g)66Cu cross section
+# REACTION        : 29-CU-65(N,G)29-CU-66,,SIG
+# File ID         : n-Cu65-g-sig-excfun-mon-prodCu66_Hummel_1951_11010.005
+#
+# npts            : 1           
+# xmin            :   2.4000E+04
+# xmax            :   2.4000E+04
+# ymin            :   2.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+04  0.0000E+00  2.0000E-02  4.0000E-03
+#---------------------------------------------------

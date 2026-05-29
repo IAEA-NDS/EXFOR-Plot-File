@@ -1,0 +1,23 @@
+# EXFOR #         : 14468.002  
+# EXFOR Ver.      : 20170213
+# TRANS #         : 1426
+# Author          : K.S.Krane
+# Reference       : Appl.Radiat.Isot. 121 (2017) 28
+# DOI             : 10.1016/j.apradiso.2016.12.029
+# Quantity        : 64Zn(n,g)65Zn cross section
+# REACTION        : 30-ZN-64(N,G)30-ZN-65,,SIG,,MXW
+# File ID         : n-Zn64-g-sig-excfun-mxw-prodZn65_Krane_2017_14468.002
+#
+# npts            : 2           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   6.9000E-01
+# ymax            :   7.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.0000E-01  3.0000E-02
+  2.5300E-02  0.0000E+00  6.9000E-01  3.0000E-02
+#---------------------------------------------------

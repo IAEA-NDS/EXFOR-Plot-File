@@ -1,0 +1,27 @@
+# EXFOR #         : 30261.011  
+# EXFOR Ver.      : 20191128
+# TRANS #         : 3195
+# Author          : L.Glowacka et al.
+# Reference       : Progress report INR-1464 page 1, 1973
+# DOI             : N/A
+# Quantity        : 165Ho(n,a)162Tb partial angular differential cross section
+# REACTION        : 67-HO-165(N,A)65-TB-162,PAR,DA
+# File ID         : n-Ho165-a-adxl-enedisl-mon-einc1.815E+07_angl36_prodTb162_Glowacka_1973_30261.011
+#
+# Einc (eV)       :   1.8150E+07
+# dEinc (eV)      :   6.5000E+04
+# theta,lab (deg) :   36.0000000
+# dtheta,lab (deg):   20.0000000
+#
+# npts            : 1           
+# xmin            :   2.1650E+07
+# xmax            :   2.1650E+07
+# ymin            :   3.2000E-04
+# ymax            :   3.2000E-04
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.1650E+07  2.6500E+06  3.2000E-04  7.0000E-05
+#---------------------------------------------------

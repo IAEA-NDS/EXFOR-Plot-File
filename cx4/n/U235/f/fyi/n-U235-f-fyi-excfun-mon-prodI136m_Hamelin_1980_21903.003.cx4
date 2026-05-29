@@ -1,0 +1,22 @@
+# EXFOR #         : 21903.003  
+# EXFOR Ver.      : 20110304
+# TRANS #         : 2226
+# Author          : Ch.Hamelin et al.
+# Reference       : J.Phys.Lett. 41 No.9 (1980) 223
+# DOI             : 10.1051/jphyslet:01980004109022300
+# Quantity        : 235U(n,f)136mI independent fission product yield
+# REACTION        : 92-U-235(N,F)53-I-136-M,IND,FY
+# File ID         : n-U235-f-fyi-excfun-mon-prodI136m_Hamelin_1980_21903.003
+#
+# npts            : 1           
+# xmin            :   3.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   2.5800E-02
+# ymax            :   2.5800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,ind      dFY,ind     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  3.0000E+06  0.0000E+00  2.5800E-02  9.0000E-04
+#---------------------------------------------------

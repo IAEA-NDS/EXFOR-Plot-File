@@ -1,0 +1,27 @@
+# EXFOR #         : 20872.002  
+# EXFOR Ver.      : 20200911
+# TRANS #         : 2291
+# Author          : M.Baba et al.
+# Reference       : Proceedings of Int.Conf.on Neutr.Phys.and Nucl.Data,Harwell 1978 page 198
+# DOI             : N/A
+# Quantity        : 9Be(n,el)9Be cross section
+# REACTION        : 4-BE-9(N,EL)4-BE-9,,SIG
+# File ID         : n-Be9-el-sig-excfun-mon-prodBe9_Baba_1978_20872.002
+#
+# npts            : 6           
+# xmin            :   3.2600E+06
+# xmax            :   1.5400E+07
+# ymin            :   9.0800E-01
+# ymax            :   2.0490E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2600E+06  0.0000E+00  2.0490E+00  1.4000E-01
+  3.9000E+06  0.0000E+00  1.4300E+00  1.0000E-01
+  4.5000E+06  0.0000E+00  1.4240E+00  1.0000E-01
+  6.4000E+06  0.0000E+00  1.1250E+00  1.5000E-01
+  7.0500E+06  0.0000E+00  1.1040E+00  1.4000E-01
+  1.5400E+07  0.0000E+00  9.0800E-01  9.0000E-02
+#---------------------------------------------------

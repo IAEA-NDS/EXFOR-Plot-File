@@ -1,0 +1,22 @@
+# EXFOR #         : 41217.004  
+# EXFOR Ver.      : 20191217
+# TRANS #         : 4185
+# Author          : V.N.Andreev
+# Reference       : Neitronnaya Fizika, Moskva 1961 page 287 (1961)
+# DOI             : N/A
+# Quantity        : 239Pu(n,non) cross section
+# REACTION        : 94-PU-239(N,NON),,SIG
+# File ID         : n-Pu239-non-sig-excfun-mon-Andreev_1961_41217.004
+#
+# npts            : 1           
+# xmin            :   9.5000E+05
+# xmax            :   9.5000E+05
+# ymin            :   2.8000E+00
+# ymax            :   2.8000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5000E+05  5.0000E+04  2.8000E+00  3.0000E-01
+#---------------------------------------------------

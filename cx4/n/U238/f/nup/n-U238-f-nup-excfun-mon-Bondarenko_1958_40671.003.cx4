@@ -1,0 +1,22 @@
+# EXFOR #         : 40671.003  
+# EXFOR Ver.      : 20191214
+# TRANS #         : 4185
+# Author          : I.I.Bondarenko et al.
+# Reference       : Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 353
+# DOI             : N/A
+# Quantity        : 238U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-238(N,F),PR,NU
+# File ID         : n-U238-f-nup-excfun-mon-Bondarenko_1958_40671.003
+#
+# npts            : 1           
+# xmin            :   4.0000E+06
+# xmax            :   4.0000E+06
+# ymin            :   3.1100E+00
+# ymax            :   3.1100E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  4.0000E+06  0.0000E+00  3.1100E+00  1.0000E-01
+#---------------------------------------------------

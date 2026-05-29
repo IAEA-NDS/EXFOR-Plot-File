@@ -1,0 +1,22 @@
+# EXFOR #         : 22019.005  
+# EXFOR Ver.      : 19861212
+# TRANS #         : 0000
+# Author          : W.Mannhart
+# Reference       : Proceedings of 5th Symposium on Reactor Dosimetry, Geesthacht, 1984 2 page 801
+# DOI             : N/A
+# Quantity        : 64Zn(n,p)64Cu cross section
+# REACTION        : 30-ZN-64(N,P)29-CU-64,,SIG,,FIS
+# File ID         : n-Zn64-p-sig-excfun-fis-prodCu64_Mannhart_1984_22019.005
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   4.1100E-02
+# ymax            :   4.1100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  4.1100E-02  1.3000E-03
+#---------------------------------------------------

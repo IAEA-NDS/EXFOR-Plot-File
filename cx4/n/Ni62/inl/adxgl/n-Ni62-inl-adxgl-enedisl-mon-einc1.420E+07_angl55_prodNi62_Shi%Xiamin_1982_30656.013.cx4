@@ -1,0 +1,26 @@
+# EXFOR #         : 30656.013  
+# EXFOR Ver.      : 20090515
+# TRANS #         : 3136
+# Author          : Shi Xiamin et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Antwerp 1982 page 373
+# DOI             : N/A
+# Quantity        : 62Ni(n,inl)62Ni partial gamma angular differential cross section
+# REACTION        : 28-NI-62(N,INL)28-NI-62,PAR,DA,G
+# File ID         : n-Ni62-inl-adxgl-enedisl-mon-einc1.420E+07_angl55_prodNi62_Shi%Xiamin_1982_30656.013
+#
+# Einc (eV)       :   1.4200E+07
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   55.0000000
+#
+# npts            : 1           
+# xmin            :   1.1633E+06
+# xmax            :   1.1633E+06
+# ymin            :   5.0600E-02
+# ymax            :   5.0600E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1633E+06  0.0000E+00  5.0600E-02  8.4000E-03
+#---------------------------------------------------

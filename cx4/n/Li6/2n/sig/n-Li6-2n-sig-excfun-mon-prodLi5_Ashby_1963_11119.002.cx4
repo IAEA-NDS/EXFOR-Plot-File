@@ -1,0 +1,22 @@
+# EXFOR #         : 11119.002  
+# EXFOR Ver.      : 20100610
+# TRANS #         : 1365
+# Author          : V.J.Ashby et al.
+# Reference       : Phys.Rev. 129 (1963) 1771
+# DOI             : 10.1103/PhysRev.129.1771
+# Quantity        : 6Li(n,2n)5Li cross section
+# REACTION        : 3-LI-6(N,2N)3-LI-5,,SIG
+# File ID         : n-Li6-2n-sig-excfun-mon-prodLi5_Ashby_1963_11119.002
+#
+# npts            : 1           
+# xmin            :   1.0200E+07
+# xmax            :   1.0200E+07
+# ymin            :   3.3000E-02
+# ymax            :   3.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0200E+07  0.0000E+00  3.3000E-02  1.5000E-02
+#---------------------------------------------------

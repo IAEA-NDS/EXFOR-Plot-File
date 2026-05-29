@@ -1,0 +1,28 @@
+# EXFOR #         : 21247.007  
+# EXFOR Ver.      : 19810722
+# TRANS #         : 0000
+# Author          : T.Knellwolf et al.
+# Reference       : Helv.Phys.Acta 39 (1966) 376
+# DOI             : N/A
+# Quantity        : 19F(n,a)16N angular differential cross section
+# REACTION        : 9-F-19(N,A)7-N-16,,DA
+# File ID         : n-F19-a-adxl-angdisc-mon-einc6.000E+06_prodN16_Knellwolf_1966_21247.007
+#
+# Einc (eV)       :   6.0000E+06
+# dEinc (eV)      :   4.8000E+05
+#
+# npts            : 4           
+# xmin            :    0.0000000
+# xmax            :   98.0015500
+# ymin            :   8.6000E-03
+# ymax            :   1.3400E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  98.0015500   0.0000000  8.8000E-03  1.1000E-03
+  66.0022900   0.0000000  8.6000E-03  1.0000E-03
+  34.0038500   0.0000000  1.1000E-02  1.2000E-03
+   0.0000000   0.0000000  1.3400E-02  1.4000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 30580.002  
+# EXFOR Ver.      : 20090506
+# TRANS #         : 3137
+# Author          : G.Pfrepper
+# Reference       : Isot.Env.Health St. 17 (1981) 6
+# DOI             : 10.1080/10256018108544527
+# Quantity        : 86Sr(n,p)86Rb cross section
+# REACTION        : 38-SR-86(N,P)37-RB-86,,SIG,,FIS
+# File ID         : n-Sr86-p-sig-excfun-fis-prodRb86_Pfrepper_1981_30580.002
+#
+# npts            : 1           
+# xmin            :   2.0000E+06
+# xmax            :   2.0000E+06
+# ymin            :   2.8000E-04
+# ymax            :   2.8000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  2.8000E-04  2.0000E-05
+#---------------------------------------------------

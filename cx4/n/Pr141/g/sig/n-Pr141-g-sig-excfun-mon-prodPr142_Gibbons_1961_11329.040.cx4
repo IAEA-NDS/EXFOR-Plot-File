@@ -1,0 +1,23 @@
+# EXFOR #         : 11329.040  
+# EXFOR Ver.      : 20120416
+# TRANS #         : 1380
+# Author          : J.H.Gibbons et al.
+# Reference       : Phys.Rev. 122 (1961) 182
+# DOI             : 10.1103/PhysRev.122.182
+# Quantity        : 141Pr(n,g)142Pr cross section
+# REACTION        : 59-PR-141(N,G)59-PR-142,,SIG
+# File ID         : n-Pr141-g-sig-excfun-mon-prodPr142_Gibbons_1961_11329.040
+#
+# npts            : 2           
+# xmin            :   3.0000E+04
+# xmax            :   6.5000E+04
+# ymin            :   5.9000E-02
+# ymax            :   1.1500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  7.0000E+03  1.1500E-01  1.0350E-02
+  6.5000E+04  2.0000E+04  5.9000E-02  5.3100E-03
+#---------------------------------------------------

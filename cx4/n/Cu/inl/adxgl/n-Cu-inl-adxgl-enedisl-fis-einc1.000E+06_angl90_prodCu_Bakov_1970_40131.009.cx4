@@ -1,0 +1,31 @@
+# EXFOR #         : 40131.009  
+# EXFOR Ver.      : 20150109
+# TRANS #         : 4172
+# Author          : A.T.Bakov et al.
+# Reference       : Sov.At.Energy 29 (1970) 1080
+# DOI             : 10.1007/BF01666690
+# Quantity        : natCu(n,inl)natCu partial gamma angular differential cross section
+# REACTION        : 29-CU-0(N,INL)29-CU-0,PAR,DA,G,4PI/FIS
+# File ID         : n-Cu-inl-adxgl-enedisl-fis-einc1.000E+06_angl90_prodCu_Bakov_1970_40131.009
+#
+# Einc (eV)       :   1.0000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 7           
+# xmin            :   6.7000E+05
+# xmax            :   2.0600E+06
+# ymin            :   3.1831E-03
+# ymax            :   3.5014E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.7000E+05  0.0000E+00  1.1141E-02  1.1141E-03
+  7.6000E+05  0.0000E+00  5.5704E-03  6.6845E-04
+  9.7000E+05  0.0000E+00  3.5014E-02  2.8011E-03
+  1.1100E+06  0.0000E+00  2.3077E-02  2.3077E-03
+  1.4300E+06  0.0000E+00  3.5014E-02  2.8011E-03
+  1.5400E+06  0.0000E+00  5.5704E-03  5.5704E-04
+  2.0600E+06  0.0000E+00  3.1831E-03  6.3662E-04
+#---------------------------------------------------

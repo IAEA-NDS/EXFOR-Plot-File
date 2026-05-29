@@ -1,0 +1,26 @@
+# EXFOR #         : 10849.002  
+# EXFOR Ver.      : 19860623
+# TRANS #         : 0000
+# Author          : J.M.Harrison
+# Reference       : Diss.Abstr.B 39 (1979) 5431
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe partial gamma angular differential cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,DA,G
+# File ID         : n-Fe56-inl-adxgl-enedisl-mon-einc3.000E+06_angl90_prodFe56_Harrison_1979_10849.002
+#
+# Einc (eV)       :   3.0000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 2           
+# xmin            :   1.2400E+06
+# xmax            :   1.8100E+06
+# ymin            :   8.2000E-03
+# ymax            :   1.0200E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.2400E+06  0.0000E+00  8.2000E-03  1.1000E-03
+  1.8100E+06  0.0000E+00  1.0200E-02  1.5000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 13575.002  
+# EXFOR Ver.      : 19930216
+# TRANS #         : 0000
+# Author          : G.C.Hanna et al.
+# Reference       : Phys.Rev. 81 (1951) 486
+# DOI             : 10.1103/PhysRev.81.486
+# Quantity        : 241Am(n,g)242gAm cumulative production cross section
+# REACTION        : 95-AM-241(N,G)95-AM-242-G,M+,SIG,,SPA
+# File ID         : n-Am241-x-sigc-excfun-spa-prodAm242g_Hanna_1951_13575.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   5.6800E+02
+# ymax            :   5.6800E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  5.6800E+02  5.6800E+01
+#---------------------------------------------------

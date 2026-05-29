@@ -1,0 +1,26 @@
+# EXFOR #         : 33125.003.1
+# EXFOR Ver.      : 20190822
+# TRANS #         : 3190
+# Author          : A.V.R.Reddy et al.
+# Reference       : Progress report BARC-1381 page 47, 1987
+# DOI             : N/A
+# Quantity        : 241Am(n,f) cumulative fission product yield
+# REACTION        : 95-AM-241(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-Am241-f-fyc-nucdis-spa-einc2.530E-02_Reddy_1987_33125.003.1
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 3           
+# xmin            : 52132.9     
+# xmax            : 52134.9     
+# ymin            :   4.9900E-03
+# ymax            :   1.1018E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     52132.9  5.7300E-03  1.3000E-04
+     52133.1  4.9900E-03  4.0000E-04
+     52134.9  1.1018E-02  7.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 20593.004  
+# EXFOR Ver.      : 20211219
+# TRANS #         : 2306
+# Author          : I.Kimura et al.
+# Reference       : J.Nucl.Sci.Technol. 10 (1973) 574
+# DOI             : 10.1080/18811248.1973.9735451
+# Quantity        : 115In(n,inl)115mIn cross section
+# REACTION        : 49-IN-115(N,INL)49-IN-115-M,,SIG,,FIS
+# File ID         : n-In115-inl-sig-excfun-fis-prodIn115m_Kimura_1973_20593.004
+#
+# npts            : 2           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.7650E-01
+# ymax            :   1.7740E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.7650E-01  8.8000E-03
+  1.5000E+06  0.0000E+00  1.7740E-01  9.8000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 21647.016.2
+# EXFOR Ver.      : 20210801
+# TRANS #         : 2303
+# Author          : H.Beer et al.
+# Reference       : Phys.Rev.C 21 (1980) 534
+# DOI             : 10.1103/PhysRevC.21.534
+# Quantity        : 175Lu(n,g)176mLu cross section
+# REACTION        : 71-LU-175(N,G)71-LU-176-M,,SIG,,SPA
+# File ID         : n-Lu175-g-sig-excfun-spa-prodLu176m_Beer_1980_21647.016.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   9.4100E-01
+# ymax            :   9.4100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  9.4100E-01  5.2000E-02
+#---------------------------------------------------

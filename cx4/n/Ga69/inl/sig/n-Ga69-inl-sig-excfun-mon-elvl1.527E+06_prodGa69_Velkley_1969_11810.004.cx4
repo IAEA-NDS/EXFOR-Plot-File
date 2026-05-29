@@ -1,0 +1,25 @@
+# EXFOR #         : 11810.004  
+# EXFOR Ver.      : 19930311
+# TRANS #         : 0000
+# Author          : D.E.Velkley et al.
+# Reference       : Phys.Rev. 179 (1969) 1090
+# DOI             : 10.1103/PhysRev.179.1090
+# Quantity        : 69Ga(n,inl)69Ga partial cross section
+# REACTION        : 31-GA-69(N,INL)31-GA-69,PAR,SIG
+# File ID         : n-Ga69-inl-sig-excfun-mon-elvl1.527E+06_prodGa69_Velkley_1969_11810.004
+#
+# Elvl (eV)       :   1.5270E+06
+#
+# npts            : 2           
+# xmin            :   1.7800E+06
+# xmax            :   2.5000E+06
+# ymin            :   2.8000E-02
+# ymax            :   5.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7800E+06  0.0000E+00  2.8000E-02  0.0000E+00
+  2.5000E+06  0.0000E+00  5.0000E-02  0.0000E+00
+#---------------------------------------------------

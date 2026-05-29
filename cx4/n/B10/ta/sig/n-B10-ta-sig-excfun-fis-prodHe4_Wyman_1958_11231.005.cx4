@@ -1,0 +1,22 @@
+# EXFOR #         : 11231.005  
+# EXFOR Ver.      : 19860114
+# TRANS #         : 0000
+# Author          : M.E.Wyman et al.
+# Reference       : Phys.Rev. 112 (1958) 1264
+# DOI             : 10.1103/PhysRev.112.1264
+# Quantity        : 10B(n,t+a)4He cross section
+# REACTION        : 5-B-10(N,T+A)2-HE-4,,SIG,,FIS
+# File ID         : n-B10-ta-sig-excfun-fis-prodHe4_Wyman_1958_11231.005
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   3.0000E-02
+# ymax            :   3.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  3.0000E-02  2.0000E-03
+#---------------------------------------------------

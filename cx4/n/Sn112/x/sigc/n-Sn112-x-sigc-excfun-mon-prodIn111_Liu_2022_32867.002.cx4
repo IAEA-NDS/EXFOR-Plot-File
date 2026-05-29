@@ -1,0 +1,22 @@
+# EXFOR #         : 32867.002  
+# EXFOR Ver.      : 20241211
+# TRANS #         : 3215
+# Author          : B.Liu et al.
+# Reference       : Appl.Radiat.Isot. 184 (2022) 110209
+# DOI             : 10.1016/j.apradiso.2022.110209
+# Quantity        : 112Sn(n,x)111In cumulative production cross section
+# REACTION        : 50-SN-112(N,X)49-IN-111,CUM,SIG
+# File ID         : n-Sn112-x-sigc-excfun-mon-prodIn111_Liu_2022_32867.002
+#
+# npts            : 1           
+# xmin            :   1.3600E+07
+# xmax            :   1.3600E+07
+# ymin            :   9.0180E-01
+# ymax            :   9.0180E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3600E+07  2.0000E+05  9.0180E-01  9.3000E-02
+#---------------------------------------------------

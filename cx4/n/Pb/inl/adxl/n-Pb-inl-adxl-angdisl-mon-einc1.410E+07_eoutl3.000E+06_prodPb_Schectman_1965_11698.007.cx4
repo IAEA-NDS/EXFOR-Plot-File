@@ -1,0 +1,26 @@
+# EXFOR #         : 11698.007  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : S.M.Schectman et al.
+# Reference       : Bull.Am.Phys.Soc. 10 (1965) 498(GB4)
+# DOI             : N/A
+# Quantity        : natPb(n,inl)natPb partial angular differential cross section
+# REACTION        : 82-PB-0(N,INL),PAR,DA
+# File ID         : n-Pb-inl-adxl-angdisl-mon-einc1.410E+07_eoutl3.000E+06_prodPb_Schectman_1965_11698.007
+#
+# Einc (eV)       :   1.4100E+07
+# Eout,lab (eV)   :   3.0000E+06
+# dEout,lab (eV)  :   2.0000E+06
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   2.5500E-01
+# ymax            :   2.5500E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  2.5500E-01  5.1000E-02
+#---------------------------------------------------

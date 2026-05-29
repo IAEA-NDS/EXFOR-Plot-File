@@ -1,0 +1,23 @@
+# EXFOR #         : 20416.120  
+# EXFOR Ver.      : 20170228
+# TRANS #         : 2259
+# Author          : J.Frehaut et al.
+# Reference       : Report CEA-R-6447, 2016
+# DOI             : N/A
+# Quantity        : 160Gd(n,3n)158Gd cross section
+# REACTION        : 64-GD-160(N,3N)64-GD-158,,SIG
+# File ID         : n-Gd160-3n-sig-excfun-mon-prodGd158_Frehaut_2016_20416.120
+#
+# npts            : 2           
+# xmin            :   1.4280E+07
+# xmax            :   1.4760E+07
+# ymin            :   9.0000E-03
+# ymax            :   4.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4280E+07  7.0000E+04  9.0000E-03  4.0000E-03
+  1.4760E+07  6.5000E+04  4.8000E-02  6.0000E-03
+#---------------------------------------------------

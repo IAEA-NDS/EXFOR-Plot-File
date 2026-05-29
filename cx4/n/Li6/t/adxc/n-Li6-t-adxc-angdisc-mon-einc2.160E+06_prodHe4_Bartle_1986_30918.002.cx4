@@ -1,0 +1,26 @@
+# EXFOR #         : 30918.002  
+# EXFOR Ver.      : 20100820
+# TRANS #         : 3146
+# Author          : C.M.Bartle
+# Reference       : Radiat.Eff. 95 (1986) 331
+# DOI             : 10.1080/00337578608208714
+# Quantity        : 6Li(n,t)4He angular differential cross section
+# REACTION        : 3-LI-6(N,T)2-HE-4,,DA
+# File ID         : n-Li6-t-adxc-angdisc-mon-einc2.160E+06_prodHe4_Bartle_1986_30918.002
+#
+# Einc (eV)       :   2.1600E+06
+#
+# npts            : 3           
+# xmin            :   44.6021200
+# xmax            :  126.4413000
+# ymin            :   1.0273E-02
+# ymax            :   1.9320E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 126.4413000   0.0000000  1.0273E-02  1.0381E-03
+  89.5989200   0.0000000  1.5150E-02  9.3000E-04
+  44.6021200   0.0000000  1.9320E-02  1.1500E-03
+#---------------------------------------------------

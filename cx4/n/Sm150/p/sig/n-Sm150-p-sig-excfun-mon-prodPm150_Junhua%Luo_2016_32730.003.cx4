@@ -1,0 +1,23 @@
+# EXFOR #         : 32730.003  
+# EXFOR Ver.      : 20170517
+# TRANS #         : 3179
+# Author          : Junhua Luo et al.
+# Reference       : Radiochim.Acta 104 (2016) 523
+# DOI             : 10.1515/ract-2016-0001
+# Quantity        : 150Sm(n,p)150Pm cross section
+# REACTION        : 62-SM-150(N,P)61-PM-150,,SIG
+# File ID         : n-Sm150-p-sig-excfun-mon-prodPm150_Junhua%Luo_2016_32730.003
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   3.0000E-03
+# ymax            :   4.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  3.0000E-03  2.0000E-04
+  1.4800E+07  2.0000E+05  4.5000E-03  3.0000E-04
+#---------------------------------------------------

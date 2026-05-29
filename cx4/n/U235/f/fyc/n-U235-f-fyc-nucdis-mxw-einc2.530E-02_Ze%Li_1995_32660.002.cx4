@@ -1,0 +1,26 @@
+# EXFOR #         : 32660.002  
+# EXFOR Ver.      : 20250310
+# TRANS #         : 3217
+# Author          : Ze Li et al.
+# Reference       : He Huax.Fang.Huaxue 17 (1995) 65
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-U235-f-fyc-nucdis-mxw-einc2.530E-02_Ze%Li_1995_32660.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 3           
+# xmin            : 40095.9     
+# xmax            : 60147.9     
+# ymin            :   2.2880E-02
+# ymax            :   6.5120E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     40095.9  6.5120E-02  1.6931E-03
+     56140.9  6.2380E-02  1.6219E-03
+     60147.9  2.2880E-02  6.1776E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 32693.003  
+# EXFOR Ver.      : 20120214
+# TRANS #         : 3154
+# Author          : Junhua Luo et al.
+# Reference       : J.Rad.Nucl.Chem. 289 (2011) 455
+# DOI             : 10.1007/s10967-011-1095-x
+# Quantity        : 164Er(n,2n)163Er cross section
+# REACTION        : 68-ER-164(N,2N)68-ER-163,,SIG
+# File ID         : n-Er164-2n-sig-excfun-mon-prodEr163_Junhua%Luo_2011_32693.003
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.3300E+00
+# ymax            :   1.5280E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  1.3300E+00  2.5300E-01
+  1.4800E+07  2.0000E+05  1.5280E+00  3.0100E-01
+#---------------------------------------------------

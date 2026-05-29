@@ -1,0 +1,25 @@
+# EXFOR #         : 30109.002  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : D.Miljanic et al.
+# Reference       : Nucl.Phys.A 156 (1970) 193
+# DOI             : 10.1016/0375-9474(70)91125-5
+# Quantity        : 11B(n,t)9Be partial angular differential cross section
+# REACTION        : 5-B-11(N,T)4-BE-9,PAR,DA
+# File ID         : n-B11-t-adxl-angdisc-mon-einc1.440E+07_elvl0.000E+00_prodBe9_Miljanic_1970_30109.002
+#
+# Einc (eV)       :   1.4400E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   2.5700E-03
+# ymax            :   2.5700E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  2.5700E-03  8.0000E-05
+#---------------------------------------------------

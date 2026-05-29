@@ -1,0 +1,22 @@
+# EXFOR #         : 14010.002  
+# EXFOR Ver.      : 20180818
+# TRANS #         : 1443
+# Author          : J.M.Sisterson et al.
+# Reference       : Nucl.Instrum.Meth.B 234 (2005) 419
+# DOI             : 10.1016/j.nimb.2005.02.023
+# Quantity        : natC(n,x)7Be independent production cross section
+# REACTION        : 6-C-0(N,X)4-BE-7,,SIG,,SPA
+# File ID         : n-C-x-sig-excfun-spa-prodBe7_Sisterson_2005_14010.002
+#
+# npts            : 1           
+# xmin            :   3.7625E+08
+# xmax            :   3.7625E+08
+# ymin            :   7.1000E-03
+# ymax            :   7.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7625E+08  3.7375E+08  7.1000E-03  8.0000E-04
+#---------------------------------------------------

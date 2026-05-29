@@ -1,0 +1,25 @@
+# EXFOR #         : 13196.003  
+# EXFOR Ver.      : 19910122
+# TRANS #         : 0000
+# Author          : J.Mildenberger et al.
+# Reference       : Phys.Rev.C 42 (1990) 732
+# DOI             : 10.1103/PhysRevC.42.732
+# Quantity        : 12C(n,p)12B angular differential cross section
+# REACTION        : 6-C-12(N,P)5-B-12,,DA
+# File ID         : n-C12-p-adxc-angdisc-mon-einc2.800E+08_prodB12_Mildenberger_1990_13196.003
+#
+# Einc (eV)       :   2.8000E+08
+#
+# npts            : 2           
+# xmin            :    3.4000000
+# xmax            :    4.5300000
+# ymin            :   5.8900E-03
+# ymax            :   7.4300E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   3.4000000   0.0000000  7.4300E-03  8.0000E-05
+   4.5300000   0.0000000  5.8900E-03  8.0000E-05
+#---------------------------------------------------

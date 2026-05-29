@@ -1,0 +1,22 @@
+# EXFOR #         : 21468.003  
+# EXFOR Ver.      : 19800429
+# TRANS #         : 0000
+# Author          : C.A.Uttley et al.
+# Reference       : Report AERE-NP/R-1996 page , 1956
+# DOI             : N/A
+# Quantity        : 235U(n,f) cross section
+# REACTION        : 92-U-235(N,F),,SIG
+# File ID         : n-U235-f-sig-excfun-mon-Uttley_1956_21468.003
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   2.2000E+00
+# ymax            :   2.2000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.5000E+05  2.2000E+00  7.0000E-02
+#---------------------------------------------------

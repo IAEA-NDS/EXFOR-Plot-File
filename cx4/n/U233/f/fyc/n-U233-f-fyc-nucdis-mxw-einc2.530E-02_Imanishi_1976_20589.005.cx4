@@ -1,0 +1,27 @@
+# EXFOR #         : 20589.005  
+# EXFOR Ver.      : 20211219
+# TRANS #         : 2306
+# Author          : N.Imanishi et al.
+# Reference       : Nucl.Phys.A 263 (1976) 141
+# DOI             : 10.1016/0375-9474(76)90189-5
+# Quantity        : 233U(n,f) cumulative fission product yield
+# REACTION        : 92-U-233(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-U233-f-fyc-nucdis-mxw-einc2.530E-02_Imanishi_1976_20589.005
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 4           
+# xmin            : 50128.9     
+# xmax            : 51133.9     
+# ymin            :   5.1000E-03
+# ymax            :   8.4000E-03
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     50128.9  6.2000E-03  4.0000E-04
+     50130.9  6.8000E-03  8.0000E-04
+     50131.9  5.1000E-03  5.0000E-04
+     51133.9  8.4000E-03  5.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 20034.002  
+# EXFOR Ver.      : 20190117
+# TRANS #         : 2274
+# Author          : P.Hille et al.
+# Reference       : Acta Physica Austr. 23 (1966) 44
+# DOI             : N/A
+# Quantity        : 75As(n,2n)74As cross section
+# REACTION        : 33-AS-75(N,2N)33-AS-74,,SIG
+# File ID         : n-As75-2n-sig-excfun-mon-prodAs74_Hille_1966_20034.002
+#
+# npts            : 2           
+# xmin            :   1.4050E+07
+# xmax            :   1.4750E+07
+# ymin            :   9.6500E-01
+# ymax            :   1.0380E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4050E+07  1.0000E+05  9.6500E-01  6.7550E-02
+  1.4750E+07  1.0000E+05  1.0380E+00  7.2660E-02
+#---------------------------------------------------

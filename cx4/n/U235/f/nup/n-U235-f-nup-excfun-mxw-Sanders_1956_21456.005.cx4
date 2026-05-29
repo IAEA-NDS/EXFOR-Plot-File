@@ -1,0 +1,22 @@
+# EXFOR #         : 21456.005  
+# EXFOR Ver.      : 20230220
+# TRANS #         : 2316
+# Author          : J.E.Sanders
+# Reference       : J.Nucl.Energy 2 (1956) 247
+# DOI             : 10.1016/0891-3919(55)90041-3
+# Quantity        : 235U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-235(N,F),PR,NU,,MXW
+# File ID         : n-U235-f-nup-excfun-mxw-Sanders_1956_21456.005
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.4500E+00
+# ymax            :   2.4500E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.4500E+00  1.5000E-01
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 12976.003  
+# EXFOR Ver.      : 20250601
+# TRANS #         : 1520
+# Author          : L.R.Greenwood et al.
+# Reference       : Phys.Rev.C 35 (1987) 76
+# DOI             : 10.1103/PhysRevC.35.76
+# Quantity        : natMo(n,x)94Nb independent production cross section
+# REACTION        : 42-MO-0(N,X)41-NB-94,,SIG
+# File ID         : n-Mo-x-sig-excfun-mon-prodNb94_Greenwood_1987_12976.003
+#
+# npts            : 2           
+# xmin            :   1.4600E+07
+# xmax            :   1.4800E+07
+# ymin            :   7.8000E-03
+# ymax            :   7.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  7.9000E-03  8.6900E-04
+  1.4800E+07  2.0000E+05  7.8000E-03  8.5800E-04
+#---------------------------------------------------

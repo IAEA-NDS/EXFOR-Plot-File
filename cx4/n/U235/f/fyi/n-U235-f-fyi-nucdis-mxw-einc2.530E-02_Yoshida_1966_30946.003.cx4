@@ -1,0 +1,25 @@
+# EXFOR #         : 30946.003  
+# EXFOR Ver.      : 20010718
+# TRANS #         : 0000
+# Author          : H.Yoshida et al.
+# Reference       : Progress report IA-1128 page 63, 1966
+# DOI             : N/A
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY,,MXW
+# File ID         : n-U235-f-fyi-nucdis-mxw-einc2.530E-02_Yoshida_1966_30946.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 53133.0     
+# xmax            : 53135.9     
+# ymin            :   8.0000E-03
+# ymax            :   2.6000E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     53133.0  8.0000E-03  0.0000E+00
+     53135.9  2.6000E-02  0.0000E+00
+#---------------------------------------------------

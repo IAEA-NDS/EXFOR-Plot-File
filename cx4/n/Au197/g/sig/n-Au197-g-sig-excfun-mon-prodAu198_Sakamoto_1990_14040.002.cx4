@@ -1,0 +1,23 @@
+# EXFOR #         : 14040.002  
+# EXFOR Ver.      : 20050915
+# TRANS #         : 1337
+# Author          : S.Sakamoto et al.
+# Reference       : Progress report DOE-NDC-57 page 113, 1990
+# DOI             : N/A
+# Quantity        : 197Au(n,g)198Au cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198,,SIG
+# File ID         : n-Au197-g-sig-excfun-mon-prodAu198_Sakamoto_1990_14040.002
+#
+# npts            : 2           
+# xmin            :   2.3300E+04
+# xmax            :   9.6700E+05
+# ymin            :   9.9700E-02
+# ymax            :   6.1800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3300E+04  0.0000E+00  6.1800E-01  1.1000E-02
+  9.6700E+05  0.0000E+00  9.9700E-02  2.8000E-03
+#---------------------------------------------------

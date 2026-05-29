@@ -1,0 +1,25 @@
+# EXFOR #         : 11233.006  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : R.B.Day et al.
+# Reference       : Phys.Rev. 117 (1960) 1330
+# DOI             : 10.1103/PhysRev.117.1330
+# Quantity        : 19F(n,inl)19F partial gamma production cross section
+# REACTION        : 9-F-19(N,INL)9-F-19,PAR,SIG,G
+# File ID         : n-F19-inl-sigg-enedisl-mon-einc2.560E+06_prodF19_Day_1960_11233.006
+#
+# Einc (eV)       :   2.5600E+06
+#
+# npts            : 2           
+# xmin            :   1.1000E+05
+# xmax            :   1.9700E+05
+# ymin            :   1.8200E-01
+# ymax            :   5.3000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1000E+05  0.0000E+00  1.8200E-01  1.0000E-02
+  1.9700E+05  0.0000E+00  5.3000E-01  1.8000E-02
+#---------------------------------------------------

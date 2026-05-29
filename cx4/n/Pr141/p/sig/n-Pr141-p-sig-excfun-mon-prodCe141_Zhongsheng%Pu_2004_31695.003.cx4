@@ -1,0 +1,22 @@
+# EXFOR #         : 31695.003  
+# EXFOR Ver.      : 20150527
+# TRANS #         : 3170
+# Author          : Zhongsheng Pu et al.
+# Reference       : J.Rad.Nucl.Chem. 260 (2004) 143
+# DOI             : 10.1023/B:JRNC.0000027073.70271.99
+# Quantity        : 141Pr(n,p)141Ce cross section
+# REACTION        : 59-PR-141(N,P)58-CE-141,,SIG
+# File ID         : n-Pr141-p-sig-excfun-mon-prodCe141_Zhongsheng%Pu_2004_31695.003
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   1.2700E-02
+# ymax            :   1.2700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  1.2700E-02  5.0000E-04
+#---------------------------------------------------

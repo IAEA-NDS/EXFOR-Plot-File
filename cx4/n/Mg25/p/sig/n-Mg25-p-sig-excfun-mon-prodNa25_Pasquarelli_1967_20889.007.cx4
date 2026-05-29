@@ -1,0 +1,22 @@
+# EXFOR #         : 20889.007  
+# EXFOR Ver.      : 19840227
+# TRANS #         : 0000
+# Author          : A.Pasquarelli
+# Reference       : Nucl.Phys.A 93 (1967) 218
+# DOI             : 10.1016/0375-9474(67)90182-0
+# Quantity        : 25Mg(n,p)25Na cross section
+# REACTION        : 12-MG-25(N,P)11-NA-25,,SIG
+# File ID         : n-Mg25-p-sig-excfun-mon-prodNa25_Pasquarelli_1967_20889.007
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   6.6000E-02
+# ymax            :   6.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  1.0000E+05  6.6000E-02  3.0000E-03
+#---------------------------------------------------

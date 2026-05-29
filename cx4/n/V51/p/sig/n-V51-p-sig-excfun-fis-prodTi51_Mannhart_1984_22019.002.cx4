@@ -1,0 +1,22 @@
+# EXFOR #         : 22019.002  
+# EXFOR Ver.      : 19861212
+# TRANS #         : 0000
+# Author          : W.Mannhart
+# Reference       : Proceedings of 5th Symposium on Reactor Dosimetry, Geesthacht, 1984 2 page 801
+# DOI             : N/A
+# Quantity        : 51V(n,p)51Ti cross section
+# REACTION        : 23-V-51(N,P)22-TI-51,,SIG,,FIS
+# File ID         : n-V51-p-sig-excfun-fis-prodTi51_Mannhart_1984_22019.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   6.3700E-04
+# ymax            :   6.3700E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  6.3700E-04  1.8000E-05
+#---------------------------------------------------

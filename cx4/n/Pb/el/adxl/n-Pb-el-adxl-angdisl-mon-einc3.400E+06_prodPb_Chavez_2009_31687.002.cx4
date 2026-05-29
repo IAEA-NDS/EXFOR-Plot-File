@@ -1,0 +1,26 @@
+# EXFOR #         : 31687.002  
+# EXFOR Ver.      : 20230720
+# TRANS #         : 3210
+# Author          : E.Chavez et al.
+# Reference       : Eur.Phys.J.A 42 (2009) 179
+# DOI             : 10.1140/epja/i2009-10873-7
+# Quantity        : natPb(n,el)natPb angular differential cross section
+# REACTION        : 82-PB-0(N,EL)82-PB-0,,DA
+# File ID         : n-Pb-el-adxl-angdisl-mon-einc3.400E+06_prodPb_Chavez_2009_31687.002
+#
+# Einc (eV)       :   3.4000E+06
+#
+# npts            : 3           
+# xmin            :   11.0000000
+# xmax            :   59.0000000
+# ymin            :   7.3000E-01
+# ymax            :   6.8300E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  11.0000000   0.1000000  6.8300E+00  7.4447E-01
+  24.0000000   0.1000000  4.5000E+00  4.5900E-01
+  59.0000000   0.1000000  7.3000E-01  8.5410E-02
+#---------------------------------------------------

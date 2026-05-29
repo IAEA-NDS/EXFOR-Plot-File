@@ -1,0 +1,22 @@
+# EXFOR #         : 20735.003  
+# EXFOR Ver.      : 20211220
+# TRANS #         : 2306
+# Author          : E.Shikata
+# Reference       : J.Nucl.Sci.Technol. 1 (1964) 228
+# DOI             : 10.1080/18811248.1964.9732117
+# Quantity        : 27Al(n,a)24Na cross section
+# REACTION        : 13-AL-27(N,A)11-NA-24,,SIG,,FIS
+# File ID         : n-Al27-a-sig-excfun-fis-prodNa24_Shikata_1964_20735.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   5.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  5.0000E-04  0.0000E+00
+#---------------------------------------------------

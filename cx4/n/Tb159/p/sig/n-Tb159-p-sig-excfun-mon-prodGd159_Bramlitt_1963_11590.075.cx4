@@ -1,0 +1,22 @@
+# EXFOR #         : 11590.075  
+# EXFOR Ver.      : 20160809
+# TRANS #         : 1421
+# Author          : E.T.Bramlitt et al.
+# Reference       : Phys.Rev. 131 (1963) 2649
+# DOI             : 10.1103/PhysRev.131.2649
+# Quantity        : 159Tb(n,p)159Gd cross section
+# REACTION        : 65-TB-159(N,P)64-GD-159,,SIG
+# File ID         : n-Tb159-p-sig-excfun-mon-prodGd159_Bramlitt_1963_11590.075
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.2000E-03
+# ymax            :   2.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  2.0000E+05  2.2000E-03  1.3000E-03
+#---------------------------------------------------

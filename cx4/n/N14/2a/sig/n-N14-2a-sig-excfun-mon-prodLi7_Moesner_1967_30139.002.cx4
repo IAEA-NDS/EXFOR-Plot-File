@@ -1,0 +1,22 @@
+# EXFOR #         : 30139.002  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : J.Moesner et al.
+# Reference       : Nucl.Phys.A 103 (1967) 238
+# DOI             : 10.1016/0375-9474(67)90803-2
+# Quantity        : 14N(n,2a)7Li cross section
+# REACTION        : 7-N-14(N,2A)3-LI-7,,SIG
+# File ID         : n-N14-2a-sig-excfun-mon-prodLi7_Moesner_1967_30139.002
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   5.8000E-02
+# ymax            :   5.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  2.5000E+05  5.8000E-02  1.2000E-02
+#---------------------------------------------------

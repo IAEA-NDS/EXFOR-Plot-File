@@ -1,0 +1,26 @@
+# EXFOR #         : 13010.002  
+# EXFOR Ver.      : 20140422
+# TRANS #         : 1401
+# Author          : T.C.Martin et al.
+# Reference       : Progress report ORO-2791-32 page 7, 1971
+# DOI             : N/A
+# Quantity        : 12C(n,inl)12C partial gamma angular differential cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,DA,G
+# File ID         : n-C12-inl-adxgl-angdisl-mon-einc5.000E+06_eoutl4.430E+06_prodC12_Martin_1971_13010.002
+#
+# Einc (eV)       :   5.0000E+06
+# dEinc (eV)      :   1.0000E+05
+# Eout,lab (eV)   :   4.4300E+06
+#
+# npts            : 1           
+# xmin            :   55.0000000
+# xmax            :   55.0000000
+# ymin            :   5.7000E-03
+# ymax            :   5.7000E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  55.0000000   0.0000000  5.7000E-03  7.0000E-04
+#---------------------------------------------------

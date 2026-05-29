@@ -1,0 +1,26 @@
+# EXFOR #         : 30126.002  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : D.Veselic et al.
+# Reference       : Nucl.Phys.A 110 (1968) 225
+# DOI             : 10.1016/0375-9474(68)90695-7
+# Quantity        : 103Rh(n,a)100Tc angular differential cross section
+# REACTION        : 45-RH-103(N,A)43-TC-100,,DA
+# File ID         : n-Rh103-a-adxl-angdisl-mon-einc1.440E+07_prodTc100_Veselic_1968_30126.002
+#
+# Einc (eV)       :   1.4400E+07
+#
+# npts            : 3           
+# xmin            :    0.0000000
+# xmax            :   75.0000000
+# ymin            :   7.0000E-04
+# ymax            :   2.6000E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000  12.5000000  2.6000E-03  1.7000E-04
+  45.0000000  12.5000000  1.7000E-03  1.7000E-04
+  75.0000000  12.5000000  7.0000E-04  1.6000E-04
+#---------------------------------------------------

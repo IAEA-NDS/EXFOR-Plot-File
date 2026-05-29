@@ -1,0 +1,29 @@
+# EXFOR #         : 12681.006  
+# EXFOR Ver.      : 20180818
+# TRANS #         : 1443
+# Author          : G.T.Western et al.
+# Reference       : Report WL-TR-64-140, 1965
+# DOI             : N/A
+# Quantity        : natFe(n,inl)natFe partial angular differential cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-0,PAR,DA
+# File ID         : n-Fe-inl-adxl-angdisl-mon-einc1.460E+07_eoutl7.500E+06_prodFe_Western_1965_12681.006
+#
+# Einc (eV)       :   1.4600E+07
+# dEinc (eV)      :   2.0000E+05
+# Eout,lab (eV)   :   7.5000E+06
+# dEout,lab (eV)  :   5.0000E+05
+#
+# npts            : 3           
+# xmin            :   50.0000000
+# xmax            :  115.0000000
+# ymin            :   3.7200E-03
+# ymax            :   5.5000E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  50.0000000   0.0000000  5.5000E-03  5.5000E-04
+  70.0000000   0.0000000  5.1000E-03  5.1000E-04
+ 115.0000000   0.0000000  3.7200E-03  3.7000E-04
+#---------------------------------------------------

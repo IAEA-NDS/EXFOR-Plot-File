@@ -1,0 +1,25 @@
+# EXFOR #         : 13072.002.2
+# EXFOR Ver.      : 19970516
+# TRANS #         : 0000
+# Author          : M.D.Silbert et al.
+# Reference       : Radiochim.Acta 5 (1966) 223
+# DOI             : 10.1524/ract.1966.5.4.223
+# Quantity        : 233U(n,f) independent fission product yield
+# REACTION        : 92-U-233(N,F)ELEM/MASS,IND,FY,,SPA
+# File ID         : n-U233-f-fyi-nucdis-spa-einc2.530E-02_Silbert_1966_13072.002.2
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 35087.9     
+# xmax            : 35089.9     
+# ymin            :   1.5000E-02
+# ymax            :   3.0000E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     35087.9  3.0000E-02  8.0000E-03
+     35089.9  1.5000E-02  4.0000E-03
+#---------------------------------------------------

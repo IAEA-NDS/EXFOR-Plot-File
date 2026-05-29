@@ -1,0 +1,22 @@
+# EXFOR #         : 11554.003  
+# EXFOR Ver.      : 20210731
+# TRANS #         : 1485
+# Author          : P.R.Gray et al.
+# Reference       : Nucl.Phys. 62 (1965) 172
+# DOI             : 10.1016/0029-5582(65)90079-9
+# Quantity        : 40Ar(n,x)39Cl independent production cross section
+# REACTION        : 18-AR-40(N,X)17-CL-39,,SIG
+# File ID         : n-Ar40-x-sig-excfun-mon-prodCl39_Gray_1965_11554.003
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.9000E-03
+# ymax            :   2.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  5.0000E+05  2.9000E-03  5.0000E-04
+#---------------------------------------------------

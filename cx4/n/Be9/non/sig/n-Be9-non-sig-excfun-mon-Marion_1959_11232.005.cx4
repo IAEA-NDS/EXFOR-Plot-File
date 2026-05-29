@@ -1,0 +1,23 @@
+# EXFOR #         : 11232.005  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : J.B.Marion et al.
+# Reference       : Phys.Rev. 114 (1959) 1584
+# DOI             : 10.1103/PhysRev.114.1584
+# Quantity        : 9Be(n,non) cross section
+# REACTION        : 4-BE-9(N,NON),,SIG
+# File ID         : n-Be9-non-sig-excfun-mon-Marion_1959_11232.005
+#
+# npts            : 2           
+# xmin            :   5.0000E+06
+# xmax            :   6.0000E+06
+# ymin            :   6.0000E-01
+# ymax            :   7.3000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+06  2.9000E+05  6.0000E-01  8.0000E-02
+  6.0000E+06  2.1000E+05  7.3000E-01  7.0000E-02
+#---------------------------------------------------

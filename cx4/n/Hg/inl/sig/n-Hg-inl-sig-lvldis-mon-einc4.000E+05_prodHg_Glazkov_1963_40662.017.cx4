@@ -1,0 +1,24 @@
+# EXFOR #         : 40662.017  
+# EXFOR Ver.      : 20211201
+# TRANS #         : 4201
+# Author          : N.P.Glazkov
+# Reference       : At.En. 14 (1963) 400
+# DOI             : N/A
+# Quantity        : natHg(n,inl)natHg partial cross section
+# REACTION        : 80-HG-0(N,INL)80-HG-0,PAR,SIG
+# File ID         : n-Hg-inl-sig-lvldis-mon-einc4.000E+05_prodHg_Glazkov_1963_40662.017
+#
+# Einc (eV)       :   4.0000E+05
+#
+# npts            : 1           
+# xmin            :   1.8000E+05
+# xmax            :   1.8000E+05
+# ymin            :   1.2000E-01
+# ymax            :   1.2000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8000E+05  2.0000E+04  1.2000E-01  2.0000E-02
+#---------------------------------------------------

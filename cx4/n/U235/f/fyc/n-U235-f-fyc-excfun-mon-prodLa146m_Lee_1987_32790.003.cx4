@@ -1,0 +1,22 @@
+# EXFOR #         : 32790.003  
+# EXFOR Ver.      : 20190912
+# TRANS #         : 3192
+# Author          : C.H.Lee et al.
+# Reference       : J.Rad.Nucl.Chem. 119 (1987) 101
+# DOI             : 10.1007/BF02169838
+# Quantity        : 235U(n,f)146mLa cumulative fission product yield
+# REACTION        : 92-U-235(N,F)57-LA-146-M,CUM,FY
+# File ID         : n-U235-f-fyc-excfun-mon-prodLa146m_Lee_1987_32790.003
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.6400E-02
+# ymax            :   2.6400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.6400E-02  2.6000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 20416.116  
+# EXFOR Ver.      : 20170228
+# TRANS #         : 2259
+# Author          : J.Frehaut et al.
+# Reference       : Report CEA-R-6447, 2016
+# DOI             : N/A
+# Quantity        : 146Nd(n,3n)144Nd cross section
+# REACTION        : 60-ND-146(N,3N)60-ND-144,,SIG
+# File ID         : n-Nd146-3n-sig-excfun-mon-prodNd144_Frehaut_2016_20416.116
+#
+# npts            : 1           
+# xmin            :   1.4760E+07
+# xmax            :   1.4760E+07
+# ymin            :   2.7000E-02
+# ymax            :   2.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4760E+07  6.5000E+04  2.7000E-02  5.0000E-03
+#---------------------------------------------------

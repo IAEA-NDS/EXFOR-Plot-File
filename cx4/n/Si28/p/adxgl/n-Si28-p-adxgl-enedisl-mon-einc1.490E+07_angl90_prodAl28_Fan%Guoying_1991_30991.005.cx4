@@ -1,0 +1,25 @@
+# EXFOR #         : 30991.005  
+# EXFOR Ver.      : 20110913
+# TRANS #         : 3152
+# Author          : Fan Guoying et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 332
+# DOI             : N/A
+# Quantity        : 28Si(n,p)28Al partial gamma angular differential cross section
+# REACTION        : 14-SI-28(N,P)13-AL-28,PAR,DA,G
+# File ID         : n-Si28-p-adxgl-enedisl-mon-einc1.490E+07_angl90_prodAl28_Fan%Guoying_1991_30991.005
+#
+# Einc (eV)       :   1.4900E+07
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   9.8340E+05
+# xmax            :   9.8340E+05
+# ymin            :   2.0900E-03
+# ymax            :   2.0900E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.8340E+05  0.0000E+00  2.0900E-03  1.0000E-04
+#---------------------------------------------------

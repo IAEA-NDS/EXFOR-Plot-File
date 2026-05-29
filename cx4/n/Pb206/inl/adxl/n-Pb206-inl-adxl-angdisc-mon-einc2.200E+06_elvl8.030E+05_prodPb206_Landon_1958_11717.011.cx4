@@ -1,0 +1,30 @@
+# EXFOR #         : 11717.011  
+# EXFOR Ver.      : 19841003
+# TRANS #         : 0000
+# Author          : H.H.Landon et al.
+# Reference       : Phys.Rev. 112 (1958) 1192
+# DOI             : 10.1103/PhysRev.112.1192
+# Quantity        : 206Pb(n,inl)206Pb partial angular differential cross section
+# REACTION        : 82-PB-206(N,INL)82-PB-206,PAR,DA
+# File ID         : n-Pb206-inl-adxl-angdisc-mon-einc2.200E+06_elvl8.030E+05_prodPb206_Landon_1958_11717.011
+#
+# Einc (eV)       :   2.2000E+06
+# dEinc (eV)      :   1.2000E+05
+# Elvl (eV)       :   8.0300E+05
+#
+# npts            : 5           
+# xmin            :   90.0000000
+# xmax            :  134.9994000
+# ymin            :   3.8000E-02
+# ymax            :   4.2000E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  3.8000E-02  0.0000E+00
+ 109.9987000   0.0000000  3.8000E-02  0.0000E+00
+ 120.0000000   0.0000000  3.9000E-02  0.0000E+00
+ 130.0009000   0.0000000  4.1000E-02  0.0000E+00
+ 134.9994000   0.0000000  4.2000E-02  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : 11495.014  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : D.B.Thomson
+# Reference       : Phys.Rev. 129 (1963) 1649
+# DOI             : 10.1103/PhysRev.129.1649
+# Quantity        : natCu(n,inl)natCu partial angular differential cross section
+# REACTION        : 29-CU-0(N,INL),PAR,DA
+# File ID         : n-Cu-inl-adxl-excfun-mon-angl90_eoutl1.750E+06_prodCu_Thomson_1963_11495.014
+#
+# theta,lab (deg) :   90.0000000
+# Eout,lab (eV)   :   1.7500E+06
+# dEout,lab (eV)  :   1.2500E+06
+#
+# npts            : 2           
+# xmin            :   5.0000E+06
+# xmax            :   7.0000E+06
+# ymin            :   8.5700E-02
+# ymax            :   9.7500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.0000E+06  1.0000E+05  9.7500E-02  1.3000E-03
+  7.0000E+06  1.0000E+05  8.5700E-02  8.0000E-03
+#---------------------------------------------------

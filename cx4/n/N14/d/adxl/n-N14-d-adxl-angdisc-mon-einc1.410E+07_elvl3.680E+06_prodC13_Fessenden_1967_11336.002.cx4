@@ -1,0 +1,29 @@
+# EXFOR #         : 11336.002  
+# EXFOR Ver.      : 19820324
+# TRANS #         : 0000
+# Author          : P.Fessenden et al.
+# Reference       : Phys.Rev. 158 (1967) 948
+# DOI             : 10.1103/PhysRev.158.948
+# Quantity        : 14N(n,d)13C partial angular differential cross section
+# REACTION        : 7-N-14(N,D)6-C-13,PAR,DA
+# File ID         : n-N14-d-adxl-angdisc-mon-einc1.410E+07_elvl3.680E+06_prodC13_Fessenden_1967_11336.002
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   2.0000E+05
+# Elvl (eV)       :   3.6800E+06
+#
+# npts            : 4           
+# xmin            :    0.0000000
+# xmax            :   34.9952000
+# ymin            :   3.2000E-03
+# ymax            :   4.9000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  3.4000E-03  7.0000E-04
+  17.9919300   0.0000000  3.2000E-03  1.1000E-03
+  27.0008200   0.0000000  3.3000E-03  1.1000E-03
+  34.9952000   0.0000000  4.9000E-03  1.9000E-03
+#---------------------------------------------------

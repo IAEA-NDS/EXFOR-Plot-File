@@ -1,0 +1,25 @@
+# EXFOR #         : 21713.006  
+# EXFOR Ver.      : 20121109
+# TRANS #         : 2234
+# Author          : A.Emsallem et al.
+# Reference       : Z.Phys.A 315 (1984) 201
+# DOI             : 10.1007/BF01419380
+# Quantity        : 77Se(n,a)74Ge partial cross section
+# REACTION        : 34-SE-77(N,A)32-GE-74,PAR,SIG,,MXW
+# File ID         : n-Se77-a-sig-lvldis-mxw-einc2.530E-02_prodGe74_Emsallem_1984_21713.006
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   5.9600E+05
+# ymin            :   3.0000E-05
+# ymax            :   9.4000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  9.4000E-04  2.0000E-05
+  5.9600E+05  0.0000E+00  3.0000E-05  5.0000E-06
+#---------------------------------------------------

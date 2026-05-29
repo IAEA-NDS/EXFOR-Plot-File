@@ -1,0 +1,28 @@
+# EXFOR #         : 11479.008  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : J.B.Weddell
+# Reference       : Phys.Rev. 104 (1956) 1069
+# DOI             : 10.1103/PhysRev.104.1069
+# Quantity        : 209Bi(n,inl)209Bi partial angular differential cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,DA
+# File ID         : n-Bi209-inl-adxl-lvldis-mon-einc4.400E+06_angl82_prodBi209_Weddell_1956_11479.008
+#
+# Einc (eV)       :   4.4000E+06
+# dEinc (eV)      :   5.0000E+04
+# theta,lab (deg) :   82.0000000
+# dtheta,lab (deg):    5.0000000
+#
+# npts            : 2           
+# xmin            :   8.9500E+05
+# xmax            :   1.7000E+06
+# ymin            :   2.0000E-02
+# ymax            :   1.3500E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.9500E+05  0.0000E+00  2.0000E-02  1.0000E-02
+  1.7000E+06  8.0000E+05  1.3500E-01  4.5000E-02
+#---------------------------------------------------

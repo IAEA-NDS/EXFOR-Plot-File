@@ -1,0 +1,26 @@
+# EXFOR #         : 10045.069  
+# EXFOR Ver.      : 19990719
+# TRANS #         : 0000
+# Author          : K.C.Chung et al.
+# Reference       : Phys.Rev.C 2 (1970) 139
+# DOI             : 10.1103/PhysRevC.2.139
+# Quantity        : 74Ge(n,inl)74Ge partial cross section
+# REACTION        : 32-GE-74(N,INL)32-GE-74,PAR,SIG
+# File ID         : n-Ge74-inl-sig-excfun-mon-elvl1.205E+06_prodGe74_Chung_1970_10045.069
+#
+# Elvl (eV)       :   1.2050E+06
+#
+# npts            : 3           
+# xmin            :   1.7500E+06
+# xmax            :   2.5500E+06
+# ymin            :   3.1500E-01
+# ymax            :   3.7700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7500E+06  5.5000E+04  3.4100E-01  0.0000E+00
+  2.1300E+06  5.5000E+04  3.1500E-01  0.0000E+00
+  2.5500E+06  5.5000E+04  3.7700E-01  0.0000E+00
+#---------------------------------------------------

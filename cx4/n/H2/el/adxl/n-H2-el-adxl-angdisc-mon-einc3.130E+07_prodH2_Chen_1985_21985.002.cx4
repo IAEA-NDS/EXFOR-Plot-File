@@ -1,0 +1,25 @@
+# EXFOR #         : 21985.002  
+# EXFOR Ver.      : 19860703
+# TRANS #         : 0000
+# Author          : X.H.Chen et al.
+# Reference       : Phys.Rev.C 32 No.5 (1985) 1767
+# DOI             : 10.1103/PhysRevC.32.1767
+# Quantity        : 2H(n,el)2H angular differential cross section
+# REACTION        : 1-H-2(N,EL)1-H-2,,DA
+# File ID         : n-H2-el-adxl-angdisc-mon-einc3.130E+07_prodH2_Chen_1985_21985.002
+#
+# Einc (eV)       :   3.1300E+07
+# dEinc (eV)      :   2.1000E+06
+#
+# npts            : 1           
+# xmin            :  166.0000000
+# xmax            :  166.0000000
+# ymin            :   2.2900E-02
+# ymax            :   2.2900E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 166.0000000   0.0000000  2.2900E-02  1.5000E-03
+#---------------------------------------------------

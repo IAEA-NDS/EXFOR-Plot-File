@@ -1,0 +1,28 @@
+# EXFOR #         : 22666.013  
+# EXFOR Ver.      : 20180125
+# TRANS #         : 2265
+# Author          : D.Schmidt et al.
+# Reference       : Report PTB-N-43, 2001
+# DOI             : N/A
+# Quantity        : 30Si(n,inl)30Si partial angular differential cross section
+# REACTION        : 14-SI-30(N,INL)14-SI-30,PAR,DA
+# File ID         : n-Si30-inl-adxc-angdisc-mon-einc1.385E+07_elvl3.674E+06_prodSi30_Schmidt_2001_22666.013
+#
+# Einc (eV)       :   1.3850E+07
+# dEinc (eV)      :   6.0500E+04
+# Elvl (eV)       :   3.6740E+06
+#
+# npts            : 3           
+# xmin            :   65.6100000
+# xmax            :  108.4000000
+# ymin            :   8.9800E-03
+# ymax            :   1.4430E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  65.6100000   0.2000000  1.4430E-02  9.7980E-03
+  92.0300000   0.2000000  8.9800E-03  5.5496E-03
+ 108.4000000   0.2000000  1.3190E-02  1.2042E-02
+#---------------------------------------------------

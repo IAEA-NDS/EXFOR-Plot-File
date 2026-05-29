@@ -1,0 +1,22 @@
+# EXFOR #         : 30406.016  
+# EXFOR Ver.      : 20090310
+# TRANS #         : 3135
+# Author          : R.N.Glover et al.
+# Reference       : Nucl.Phys. 24 (1961) 630
+# DOI             : 10.1016/0029-5582(61)90435-7
+# Quantity        : 27Al(n,d)26Mg cross section
+# REACTION        : 13-AL-27(N,D)12-MG-26,,SIG
+# File ID         : n-Al27-d-sig-excfun-mon-prodMg26_Glover_1961_30406.016
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   3.0000E-02
+# ymax            :   3.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  3.0000E+05  3.0000E-02  4.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 23144.005  
+# EXFOR Ver.      : 20170921
+# TRANS #         : 2265
+# Author          : S.Sekimoto et al.
+# Reference       : Prog.Nucl.Sci.Techn. 1 (2011) 89
+# DOI             : 10.15669/pnst.1.89
+# Quantity        : 159Tb(n,x)149Gd independent production cross section
+# REACTION        : 65-TB-159(N,X)64-GD-149,,SIG
+# File ID         : n-Tb159-x-sig-excfun-mon-prodGd149_Sekimoto_2011_23144.005
+#
+# npts            : 1           
+# xmin            :   2.8700E+08
+# xmax            :   2.8700E+08
+# ymin            :   1.8250E-02
+# ymax            :   1.8250E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8700E+08  0.0000E+00  1.8250E-02  3.2200E-03
+#---------------------------------------------------

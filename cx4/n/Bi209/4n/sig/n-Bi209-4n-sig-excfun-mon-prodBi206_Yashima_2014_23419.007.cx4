@@ -1,0 +1,22 @@
+# EXFOR #         : 23419.007  
+# EXFOR Ver.      : 20180830
+# TRANS #         : 2271
+# Author          : H.Yashima et al.
+# Reference       : Radiat.Prot.Dosim. 161 (2014) 139
+# DOI             : 10.1093/rpd/nct334
+# Quantity        : 209Bi(n,4n)206Bi cross section
+# REACTION        : 83-BI-209(N,4N)83-BI-206,,SIG
+# File ID         : n-Bi209-4n-sig-excfun-mon-prodBi206_Yashima_2014_23419.007
+#
+# npts            : 1           
+# xmin            :   3.8600E+08
+# xmax            :   3.8600E+08
+# ymin            :   7.1000E-02
+# ymax            :   7.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8600E+08  1.0000E+06  7.1000E-02  2.5000E-02
+#---------------------------------------------------

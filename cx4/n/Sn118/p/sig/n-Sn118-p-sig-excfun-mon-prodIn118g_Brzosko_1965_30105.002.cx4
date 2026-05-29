@@ -1,0 +1,22 @@
+# EXFOR #         : 30105.002  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : J.Brzosko et al.
+# Reference       : Nucl.Phys. 74 (1965) 438
+# DOI             : 10.1016/0029-5582(65)90093-3
+# Quantity        : 118Sn(n,p)118gIn cross section
+# REACTION        : 50-SN-118(N,P)49-IN-118-G,,SIG
+# File ID         : n-Sn118-p-sig-excfun-mon-prodIn118g_Brzosko_1965_30105.002
+#
+# npts            : 1           
+# xmin            :   1.4900E+07
+# xmax            :   1.4900E+07
+# ymin            :   4.0000E-04
+# ymax            :   4.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4900E+07  5.0000E+05  4.0000E-04  2.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : 10824.010  
+# EXFOR Ver.      : 19851119
+# TRANS #         : 0000
+# Author          : T.S.Subramanian et al.
+# Reference       : Phys.Rev.C 34 (1986) 1580
+# DOI             : 10.1103/PhysRevC.34.1580
+# Quantity        : 14N(n,h+x) double differential cross section
+# REACTION        : 7-N-14(N,X)2-HE-3,,DA/DE
+# File ID         : n-N14-xh-ddxl-enedisl-mon-einc3.970E+07_angl65_Subramanian_1986_10824.010
+#
+# Einc (eV)       :   3.9700E+07
+# theta,lab (deg) :   65.0000000
+# dtheta,lab (deg):    3.0000000
+#
+# npts            : 3           
+# xmin            :   1.0200E+07
+# xmax            :   1.6200E+07
+# ymin            :   0.0000E+00
+# ymax            :   7.0000E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.0200E+07  0.0000E+00  7.0000E-11  3.0000E-11
+  1.2200E+07  0.0000E+00  0.0000E+00  3.0000E-11
+  1.6200E+07  0.0000E+00  0.0000E+00  2.0000E-11
+#---------------------------------------------------

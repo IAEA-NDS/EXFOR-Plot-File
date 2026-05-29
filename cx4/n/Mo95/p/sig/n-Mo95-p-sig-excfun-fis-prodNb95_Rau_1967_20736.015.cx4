@@ -1,0 +1,22 @@
+# EXFOR #         : 20736.015  
+# EXFOR Ver.      : 19840201
+# TRANS #         : 0000
+# Author          : G.Rau
+# Reference       : Nukleonik 9 (1967) 228
+# DOI             : N/A
+# Quantity        : 95Mo(n,p)95Nb cross section
+# REACTION        : 42-MO-95(N,P)41-NB-95,,SIG,,FIS
+# File ID         : n-Mo95-p-sig-excfun-fis-prodNb95_Rau_1967_20736.015
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.3800E-04
+# ymax            :   1.3800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.3800E-04  6.0000E-06
+#---------------------------------------------------

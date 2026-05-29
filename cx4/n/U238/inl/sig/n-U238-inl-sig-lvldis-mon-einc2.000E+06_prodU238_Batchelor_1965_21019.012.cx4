@@ -1,0 +1,26 @@
+# EXFOR #         : 21019.012  
+# EXFOR Ver.      : 20131118
+# TRANS #         : 2238
+# Author          : R.Batchelor et al.
+# Reference       : Nucl.Phys. 65 (1965) 236
+# DOI             : 10.1016/0029-5582(65)90266-X
+# Quantity        : 238U(n,inl)238U partial cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,SIG
+# File ID         : n-U238-inl-sig-lvldis-mon-einc2.000E+06_prodU238_Batchelor_1965_21019.012
+#
+# Einc (eV)       :   2.0000E+06
+# dEinc (eV)      :   8.0000E+04
+#
+# npts            : 2           
+# xmin            :   7.2000E+05
+# xmax            :   1.1250E+06
+# ymin            :   2.8500E-01
+# ymax            :   1.0250E+00
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.2000E+05  1.5000E+05  2.8500E-01  3.0000E-02
+  1.1250E+06  2.5500E+05  1.0250E+00  1.0000E-01
+#---------------------------------------------------

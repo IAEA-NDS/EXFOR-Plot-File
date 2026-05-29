@@ -1,0 +1,22 @@
+# EXFOR #         : 11507.002  
+# EXFOR Ver.      : 20190830
+# TRANS #         : 1459
+# Author          : H.Pomerance
+# Reference       : Phys.Rev. 88 (1952) 412
+# DOI             : 10.1103/PhysRev.88.412
+# Quantity        : 24Mg(n,g)25Mg cross section
+# REACTION        : 12-MG-24(N,G)12-MG-25,,SIG,,MXW
+# File ID         : n-Mg24-g-sig-excfun-mxw-prodMg25_Pomerance_1952_11507.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.3000E-02
+# ymax            :   3.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.3000E-02  9.9000E-03
+#---------------------------------------------------

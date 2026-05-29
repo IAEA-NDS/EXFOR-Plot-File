@@ -1,0 +1,23 @@
+# EXFOR #         : 32680.005  
+# EXFOR Ver.      : 20100906
+# TRANS #         : 3146
+# Author          : Junhua Luo et al.
+# Reference       : Radiochim.Acta 98 (2010) 127
+# DOI             : 10.1524/ract.2010.1702
+# Quantity        : 156Gd(n,p)156Eu cross section
+# REACTION        : 64-GD-156(N,P)63-EU-156,,SIG
+# File ID         : n-Gd156-p-sig-excfun-mon-prodEu156_Junhua%Luo_2010_32680.005
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   4.5000E-03
+# ymax            :   5.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  4.5000E-03  9.0000E-04
+  1.4800E+07  2.0000E+05  5.6000E-03  5.0000E-04
+#---------------------------------------------------

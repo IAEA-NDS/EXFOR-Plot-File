@@ -1,0 +1,22 @@
+# EXFOR #         : 31695.004  
+# EXFOR Ver.      : 20150527
+# TRANS #         : 3170
+# Author          : Zhongsheng Pu et al.
+# Reference       : J.Rad.Nucl.Chem. 260 (2004) 143
+# DOI             : 10.1023/B:JRNC.0000027073.70271.99
+# Quantity        : 139La(n,p)139Ba cross section
+# REACTION        : 57-LA-139(N,P)56-BA-139,,SIG
+# File ID         : n-La139-p-sig-excfun-mon-prodBa139_Zhongsheng%Pu_2004_31695.004
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   4.3000E-03
+# ymax            :   4.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  4.3000E-03  2.0000E-04
+#---------------------------------------------------

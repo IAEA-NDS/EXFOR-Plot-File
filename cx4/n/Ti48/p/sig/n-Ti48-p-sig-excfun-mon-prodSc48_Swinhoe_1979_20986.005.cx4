@@ -1,0 +1,25 @@
+# EXFOR #         : 20986.005  
+# EXFOR Ver.      : 19811030
+# TRANS #         : 0000
+# Author          : M.T.Swinhoe et al.
+# Reference       : Progress report AERE-PR/NP-26 page 39, 1979
+# DOI             : N/A
+# Quantity        : 48Ti(n,p)48Sc cross section
+# REACTION        : 22-TI-48(N,P)21-SC-48,,SIG
+# File ID         : n-Ti48-p-sig-excfun-mon-prodSc48_Swinhoe_1979_20986.005
+#
+# npts            : 4           
+# xmin            :   5.8000E+06
+# xmax            :   1.1800E+07
+# ymin            :   7.1000E-04
+# ymax            :   5.3700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.8000E+06  0.0000E+00  7.1000E-04  1.4000E-04
+  7.5000E+06  0.0000E+00  1.0900E-02  5.0000E-04
+  9.8000E+06  0.0000E+00  3.3200E-02  1.0000E-03
+  1.1800E+07  0.0000E+00  5.3700E-02  2.2000E-03
+#---------------------------------------------------

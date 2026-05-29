@@ -1,0 +1,22 @@
+# EXFOR #         : 21612.009  
+# EXFOR Ver.      : 20140822
+# TRANS #         : 2240
+# Author          : L.Hannappel et al.
+# Reference       : Nucl.Intrum.Meth. 167 (1979) 289
+# DOI             : 10.1016/0029-554X(79)90017-X
+# Quantity        : 85Rb(n,inl)85lRb cross section
+# REACTION        : 37-RB-85(N,INL)37-RB-85-L,,SIG
+# File ID         : n-Rb85-inl-sig-excfun-mon-prodRb85l_Hannappel_1979_21612.009
+#
+# npts            : 1           
+# xmin            :   1.4900E+07
+# xmax            :   1.4900E+07
+# ymin            :   2.4600E-01
+# ymax            :   2.4600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4900E+07  2.0000E+05  2.4600E-01  4.6000E-02
+#---------------------------------------------------

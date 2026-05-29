@@ -1,0 +1,22 @@
+# EXFOR #         : 10088.003  
+# EXFOR Ver.      : 20260110
+# TRANS #         : 1525
+# Author          : L.Husain et al.
+# Reference       : Phys.Rev.C 1 (1970) 1233
+# DOI             : 10.1103/PhysRevC.1.1233
+# Quantity        : 85Rb(n,p)85mKr cross section
+# REACTION        : 37-RB-85(N,P)36-KR-85-M,,SIG
+# File ID         : n-Rb85-p-sig-excfun-mon-prodKr85m_Husain_1970_10088.003
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   6.0000E-03
+# ymax            :   6.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  2.0000E+05  6.0000E-03  1.0000E-03
+#---------------------------------------------------

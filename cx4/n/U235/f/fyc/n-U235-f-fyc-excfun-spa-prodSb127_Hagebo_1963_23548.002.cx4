@@ -1,0 +1,22 @@
+# EXFOR #         : 23548.002  
+# EXFOR Ver.      : 20200406
+# TRANS #         : 2287
+# Author          : E.Hagebo
+# Reference       : J.Inorg.Nucl.Chem. 25 (1963) 615
+# DOI             : 10.1016/0022-1902(63)80148-7
+# Quantity        : 235U(n,f)127Sb cumulative fission product yield
+# REACTION        : 92-U-235(N,F)51-SB-127,CUM,FY,,SPA
+# File ID         : n-U235-f-fyc-excfun-spa-prodSb127_Hagebo_1963_23548.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.4400E-03
+# ymax            :   1.4400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.4400E-03  8.0000E-05
+#---------------------------------------------------

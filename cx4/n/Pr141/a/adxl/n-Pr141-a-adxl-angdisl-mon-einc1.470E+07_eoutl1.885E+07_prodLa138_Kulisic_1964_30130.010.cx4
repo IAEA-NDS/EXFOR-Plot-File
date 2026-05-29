@@ -1,0 +1,30 @@
+# EXFOR #         : 30130.010  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : P.Kulisic et al.
+# Reference       : Nucl.Phys. 54 (1964) 17
+# DOI             : 10.1016/0029-5582(64)90389-X
+# Quantity        : 141Pr(n,a)138La partial angular differential cross section
+# REACTION        : 59-PR-141(N,A)57-LA-138,PAR,DA
+# File ID         : n-Pr141-a-adxl-angdisl-mon-einc1.470E+07_eoutl1.885E+07_prodLa138_Kulisic_1964_30130.010
+#
+# Einc (eV)       :   1.4700E+07
+# dEinc (eV)      :   1.0000E+05
+# Eout,lab (eV)   :   1.8850E+07
+# dEout,lab (eV)  :   8.5000E+05
+#
+# npts            : 4           
+# xmin            :    0.0000000
+# xmax            :  120.0000000
+# ymin            :   3.0000E-05
+# ymax            :   4.0000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  4.0000E-04  5.0000E-05
+  30.0000000   0.0000000  2.4000E-04  3.0000E-05
+  60.0000000   0.0000000  3.0000E-05  4.0000E-05
+ 120.0000000   0.0000000  8.0000E-05  2.5000E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 23337.006  
+# EXFOR Ver.      : 20211206
+# TRANS #         : 2305
+# Author          : E.Uberseder et al.
+# Reference       : Phys.Rev.C 95 (2017) 025803
+# DOI             : 10.1103/PhysRevC.95.025803
+# Quantity        : 23Na(n,g)24Na cross section
+# REACTION        : 11-NA-23(N,G)11-NA-24,,SIG,,SPA/AV
+# File ID         : n-Na23-g-sig-excfun-spa-prodNa24_Uberseder_2017_23337.006
+#
+# npts            : 1           
+# xmin            :   5.1000E+03
+# xmax            :   5.1000E+03
+# ymin            :   9.1000E-03
+# ymax            :   9.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.1000E+03  0.0000E+00  9.1000E-03  2.8000E-04
+#---------------------------------------------------

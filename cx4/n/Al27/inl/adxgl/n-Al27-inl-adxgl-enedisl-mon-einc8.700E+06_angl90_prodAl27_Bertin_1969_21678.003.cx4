@@ -1,0 +1,29 @@
+# EXFOR #         : 21678.003  
+# EXFOR Ver.      : 19810611
+# TRANS #         : 0000
+# Author          : A.Bertin et al.
+# Reference       : Report CEA-R-3808 page , 1969
+# DOI             : N/A
+# Quantity        : 27Al(n,inl)27Al partial gamma angular differential cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,DA,G
+# File ID         : n-Al27-inl-adxgl-enedisl-mon-einc8.700E+06_angl90_prodAl27_Bertin_1969_21678.003
+#
+# Einc (eV)       :   8.7000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 5           
+# xmin            :   8.4200E+05
+# xmax            :   3.0000E+06
+# ymin            :   4.2000E-03
+# ymax            :   1.7700E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.4200E+05  0.0000E+00  4.2000E-03  9.0000E-04
+  1.0130E+06  0.0000E+00  1.3600E-02  3.0000E-03
+  1.7200E+06  0.0000E+00  8.9000E-03  2.0000E-03
+  2.2100E+06  0.0000E+00  1.7700E-02  4.6000E-03
+  3.0000E+06  0.0000E+00  1.0400E-02  2.7000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 12969.020  
+# EXFOR Ver.      : 20260110
+# TRANS #         : 1525
+# Author          : J.W.Meadows et al.
+# Reference       : Ann.Nucl.Energy 14 (1987) 489
+# DOI             : 10.1016/0306-4549(87)90066-1
+# Quantity        : natZn(n,x)64Cu independent production cross section
+# REACTION        : 30-ZN-0(N,X)29-CU-64,,SIG
+# File ID         : n-Zn-x-sig-excfun-mon-prodCu64_Meadows_1987_12969.020
+#
+# npts            : 1           
+# xmin            :   1.4740E+07
+# xmax            :   1.4740E+07
+# ymin            :   8.0090E-02
+# ymax            :   8.0090E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4740E+07  2.0000E+04  8.0090E-02  4.0045E-03
+#---------------------------------------------------

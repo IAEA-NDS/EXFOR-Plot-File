@@ -1,0 +1,24 @@
+# EXFOR #         : 23710.003  
+# EXFOR Ver.      : 20200520
+# TRANS #         : 2288
+# Author          : R.F.Coleman et al.
+# Reference       : J.Inorg.Nucl.Chem. 14 (1960) 8
+# DOI             : 10.1016/0022-1902(60)80191-1
+# Quantity        : 237Np(n,f)99Mo cumulative fission product yield
+# REACTION        : 93-NP-237(N,F)42-MO-99,CUM,FY
+# File ID         : n-Np237-f-fyc-excfun-mon-prodMo99_Coleman_1960_23710.003
+#
+# npts            : 3           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   4.9000E-02
+# ymax            :   4.9700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  1.4500E+07  0.0000E+00  4.9700E-02  2.0000E-03
+  1.4500E+07  0.0000E+00  4.9000E-02  2.0000E-03
+  1.4500E+07  0.0000E+00  4.9400E-02  2.0000E-03
+#---------------------------------------------------

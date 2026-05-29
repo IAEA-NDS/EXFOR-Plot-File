@@ -1,0 +1,28 @@
+# EXFOR #         : 20287.002  
+# EXFOR Ver.      : 19831122
+# TRANS #         : 0000
+# Author          : T.Nakamura
+# Reference       : J.Phys.Soc.Jpn. 15 (1960) 1359
+# DOI             : 10.1143/JPSJ.15.1359
+# Quantity        : 1H(n,el)1H angular differential cross section
+# REACTION        : 1-H-1(N,EL)1-H-1,,DA
+# File ID         : n-H1-el-adxl-angdisc-mon-einc1.410E+07_prodH1_Nakamura_1960_20287.002
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   5.0000E+04
+#
+# npts            : 4           
+# xmin            :   88.9972700
+# xmax            :  165.0164000
+# ymin            :   5.5000E-02
+# ymax            :   5.9100E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 165.0164000   0.0000000  5.9100E-02  6.0000E-04
+ 145.9961000   0.0000000  5.8300E-02  6.0000E-04
+ 117.9694000   0.0000000  5.6200E-02  6.0000E-04
+  88.9972700   0.0000000  5.5000E-02  7.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : 22531.006  
+# EXFOR Ver.      : 20030522
+# TRANS #         : 0000
+# Author          : K.Tsukada et al.
+# Reference       : J.Phys.Soc.Jpn. 16 (1961) 166
+# DOI             : 10.1143/JPSJ.16.166
+# Quantity        : natFe(n,inl)natFe partial angular differential cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-0,PAR,DA
+# File ID         : n-Fe-inl-adxl-excfun-mon-angl90_elvl2.080E+06_prodFe_Tsukada_1961_22531.006
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   2.0800E+06
+#
+# npts            : 4           
+# xmin            :   3.8300E+06
+# xmax            :   4.6100E+06
+# ymin            :   6.8000E-03
+# ymax            :   1.7900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.8300E+06  3.5000E+05  1.7900E-02  3.9000E-03
+  4.0700E+06  3.3000E+05  1.0800E-02  2.3000E-03
+  4.3000E+06  3.0000E+05  1.2300E-02  2.7000E-03
+  4.6100E+06  2.8000E+05  6.8000E-03  1.6000E-03
+#---------------------------------------------------

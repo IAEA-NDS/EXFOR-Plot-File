@@ -1,0 +1,23 @@
+# EXFOR #         : 40685.014  
+# EXFOR Ver.      : 20231010
+# TRANS #         : 4215
+# Author          : I.A.Korzh
+# Reference       : Sov.At.Energy 16 (1964) 312
+# DOI             : 10.1007/BF01122981
+# Quantity        : natTe(n,el)natTe cross section
+# REACTION        : 52-TE-0(N,EL)52-TE-0,,SIG
+# File ID         : n-Te-el-sig-excfun-mon-prodTe_Korzh_1964_40685.014
+#
+# npts            : 2           
+# xmin            :   5.0000E+05
+# xmax            :   8.0000E+05
+# ymin            :   5.5900E+00
+# ymax            :   5.9400E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+05  5.0000E+04  5.5900E+00  2.1000E-01
+  8.0000E+05  5.0000E+04  5.9400E+00  2.0000E-01
+#---------------------------------------------------

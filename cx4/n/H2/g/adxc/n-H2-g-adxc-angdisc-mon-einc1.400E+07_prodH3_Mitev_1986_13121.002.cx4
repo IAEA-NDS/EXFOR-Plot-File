@@ -1,0 +1,25 @@
+# EXFOR #         : 13121.002  
+# EXFOR Ver.      : 19871008
+# TRANS #         : 0000
+# Author          : G.Mitev et al.
+# Reference       : Phys.Rev.C 34 (1986) 389
+# DOI             : 10.1103/PhysRevC.34.389
+# Quantity        : 2H(n,g)3H angular differential cross section
+# REACTION        : 1-H-2(N,G)1-H-3,,DA
+# File ID         : n-H2-g-adxc-angdisc-mon-einc1.400E+07_prodH3_Mitev_1986_13121.002
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 2           
+# xmin            :   68.0000000
+# xmax            :  127.7000000
+# ymin            :   6.2000E-07
+# ymax            :   8.2000E-07
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  68.0000000   0.0000000  6.2000E-07  1.8000E-07
+ 127.7000000   0.0000000  8.2000E-07  1.0000E-07
+#---------------------------------------------------

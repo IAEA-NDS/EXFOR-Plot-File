@@ -1,0 +1,22 @@
+# EXFOR #         : 20513.036  
+# EXFOR Ver.      : 20200921
+# TRANS #         : 2291
+# Author          : S.M.Qaim et al.
+# Reference       : Report EUR-5182 page 939, 1974
+# DOI             : N/A
+# Quantity        : 142Ce(n,x)141La independent production cross section
+# REACTION        : 58-CE-142(N,X)57-LA-141,,SIG
+# File ID         : n-Ce142-x-sig-excfun-mon-prodLa141_Qaim_1974_20513.036
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   1.3000E-03
+# ymax            :   1.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  3.0000E+05  1.3000E-03  2.0000E-04
+#---------------------------------------------------

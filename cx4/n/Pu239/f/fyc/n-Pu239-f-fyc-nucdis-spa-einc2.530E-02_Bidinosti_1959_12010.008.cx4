@@ -1,0 +1,29 @@
+# EXFOR #         : 12010.008  
+# EXFOR Ver.      : 20220520
+# TRANS #         : 1503
+# Author          : D.Bidinosti et al.
+# Reference       : Progress in Nuclear Energy Ser.1 Phys. & Mathematics 3 page 261 (1959)
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-Pu239-f-fyc-nucdis-spa-einc2.530E-02_Bidinosti_1959_12010.008
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 6           
+# xmin            : 54135.9     
+# xmax            : 62151.9     
+# ymin            :   7.9000E-03
+# ymax            :   7.2700E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     54135.9  6.9200E-02  2.0760E-03
+     55133.9  7.2700E-02  2.1810E-03
+     60143.9  4.4900E-02  1.3470E-03
+     61147.9  2.0700E-02  6.2100E-04
+     62149.9  1.3200E-02  3.9600E-04
+     62151.9  7.9000E-03  2.3700E-04
+#---------------------------------------------------

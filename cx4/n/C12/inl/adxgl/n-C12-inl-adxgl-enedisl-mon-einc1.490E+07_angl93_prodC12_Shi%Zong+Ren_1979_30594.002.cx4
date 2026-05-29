@@ -1,0 +1,26 @@
+# EXFOR #         : 30594.002  
+# EXFOR Ver.      : 20211005
+# TRANS #         : 3202
+# Author          : Shi Zong-Ren et al.
+# Reference       : Chin.J.Nucl.Phys. 1 (1979) 45
+# DOI             : N/A
+# Quantity        : 12C(n,inl)12C partial gamma angular differential cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,DA,G
+# File ID         : n-C12-inl-adxgl-enedisl-mon-einc1.490E+07_angl93_prodC12_Shi%Zong+Ren_1979_30594.002
+#
+# Einc (eV)       :   1.4900E+07
+# dEinc (eV)      :   2.3000E+05
+# theta,lab (deg) :   93.0000000
+#
+# npts            : 1           
+# xmin            :   4.4400E+06
+# xmax            :   4.4400E+06
+# ymin            :   1.0400E-02
+# ymax            :   1.0400E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.4400E+06  0.0000E+00  1.0400E-02  1.8000E-03
+#---------------------------------------------------

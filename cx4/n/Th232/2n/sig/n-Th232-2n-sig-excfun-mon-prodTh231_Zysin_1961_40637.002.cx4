@@ -1,0 +1,22 @@
+# EXFOR #         : 40637.002  
+# EXFOR Ver.      : 20231006
+# TRANS #         : 4215
+# Author          : Yu.A.Zysin et al.
+# Reference       : Sov.At.Energy 8 (1961) 310
+# DOI             : 10.1007/BF01483429
+# Quantity        : 232Th(n,2n)231Th cross section
+# REACTION        : 90-TH-232(N,2N)90-TH-231,,SIG
+# File ID         : n-Th232-2n-sig-excfun-mon-prodTh231_Zysin_1961_40637.002
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   6.5000E-01
+# ymax            :   6.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  0.0000E+00  6.5000E-01  1.5000E-01
+#---------------------------------------------------

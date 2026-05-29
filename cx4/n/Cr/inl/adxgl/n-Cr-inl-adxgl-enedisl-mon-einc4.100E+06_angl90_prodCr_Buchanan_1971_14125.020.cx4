@@ -1,0 +1,29 @@
+# EXFOR #         : 14125.020  
+# EXFOR Ver.      : 20140527
+# TRANS #         : 1401
+# Author          : P.S.Buchanan et al.
+# Reference       : Progress report ORO-2791-32, 1971
+# DOI             : N/A
+# Quantity        : natCr(n,inl)natCr partial gamma angular differential cross section
+# REACTION        : 24-CR-0(N,INL)24-CR-0,PAR,DA,G
+# File ID         : n-Cr-inl-adxgl-enedisl-mon-einc4.100E+06_angl90_prodCr_Buchanan_1971_14125.020
+#
+# Einc (eV)       :   4.1000E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 4           
+# xmin            :   1.4340E+06
+# xmax            :   2.3380E+06
+# ymin            :   4.2000E-03
+# ymax            :   1.0470E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4340E+06  0.0000E+00  1.0470E-01  2.0940E-02
+  1.7270E+06  0.0000E+00  1.1300E-02  2.2600E-03
+  2.0320E+06  0.0000E+00  4.2000E-03  8.4000E-04
+  2.3380E+06  0.0000E+00  4.2000E-03  8.4000E-04
+#---------------------------------------------------

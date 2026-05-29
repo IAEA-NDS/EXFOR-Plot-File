@@ -1,0 +1,23 @@
+# EXFOR #         : 32001.014  
+# EXFOR Ver.      : 20220825
+# TRANS #         : 3208
+# Author          : D.Schmidt et al.
+# Reference       : Nucl.Sci.Eng. 96 (1987) 159
+# DOI             : 10.13182/NSE87-A16376
+# Quantity        : 12C(n,el)12C cross section
+# REACTION        : 6-C-12(N,EL)6-C-12,,SIG
+# File ID         : n-C12-el-sig-excfun-mon-prodC12_Schmidt_1987_32001.014
+#
+# npts            : 2           
+# xmin            :   7.7500E+06
+# xmax            :   9.8000E+06
+# ymin            :   7.8800E-01
+# ymax            :   1.4970E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.7500E+06  1.6000E+05  1.4970E+00  9.5000E-02
+  9.8000E+06  1.2500E+05  7.8800E-01  1.8000E-02
+#---------------------------------------------------

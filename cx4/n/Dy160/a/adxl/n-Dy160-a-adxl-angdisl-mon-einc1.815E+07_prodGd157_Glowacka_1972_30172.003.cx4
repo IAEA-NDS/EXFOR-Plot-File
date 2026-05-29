@@ -1,0 +1,25 @@
+# EXFOR #         : 30172.003  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : L.Glowacka et al.
+# Reference       : Progress report INR-1401 page 13, 1972
+# DOI             : N/A
+# Quantity        : 160Dy(n,a)157Gd angular differential cross section
+# REACTION        : 66-DY-160(N,A)64-GD-157,,DA
+# File ID         : n-Dy160-a-adxl-angdisl-mon-einc1.815E+07_prodGd157_Glowacka_1972_30172.003
+#
+# Einc (eV)       :   1.8150E+07
+# dEinc (eV)      :   1.2000E+05
+#
+# npts            : 1           
+# xmin            :   35.0000000
+# xmax            :   35.0000000
+# ymin            :   5.3000E-04
+# ymax            :   5.3000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  35.0000000  50.0000000  5.3000E-04  8.0000E-05
+#---------------------------------------------------

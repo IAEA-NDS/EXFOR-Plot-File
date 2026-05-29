@@ -1,0 +1,24 @@
+# EXFOR #         : 32238.003  
+# EXFOR Ver.      : 20250216
+# TRANS #         : 3217
+# Author          : O.O.Gritzay et al.
+# Reference       : Proceedings of 4 Int.Conf.Cur.Prob.in Nucl.Phys.Atom.Ene.,Kyiv,2012 page 439
+# DOI             : N/A
+# Quantity        : natC(n,tot) cross section
+# REACTION        : 6-C-0(N,TOT),,SIG,,SPA
+# File ID         : n-C-tot-sig-excfun-spa-Gritzay_2012_32238.003
+#
+# npts            : 3           
+# xmin            :   1.0725E+05
+# xmax            :   1.4745E+05
+# ymin            :   4.2400E+00
+# ymax            :   4.3800E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0725E+05  2.0250E+04  4.3400E+00  7.9000E-01
+  1.3165E+05  8.4500E+03  4.2400E+00  2.9000E-01
+  1.4745E+05  1.1750E+04  4.3800E+00  1.2000E-01
+#---------------------------------------------------

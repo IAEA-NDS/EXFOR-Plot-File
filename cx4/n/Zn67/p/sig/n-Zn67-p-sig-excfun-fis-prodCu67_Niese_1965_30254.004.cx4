@@ -1,0 +1,22 @@
+# EXFOR #         : 30254.004  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : S.Niese
+# Reference       : Report ZFK-RCH-3 page 23, 1965
+# DOI             : N/A
+# Quantity        : 67Zn(n,p)67Cu cross section
+# REACTION        : 30-ZN-67(N,P)29-CU-67,,SIG,,FIS
+# File ID         : n-Zn67-p-sig-excfun-fis-prodCu67_Niese_1965_30254.004
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   8.8000E-04
+# ymax            :   8.8000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  8.8000E-04  1.1000E-04
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : 10409.002  
+# EXFOR Ver.      : 20030207
+# TRANS #         : 0000
+# Author          : G.P.Glasgow et al.
+# Reference       : Phys.Rev.C 18 (1978) 2520
+# DOI             : 10.1103/PhysRevC.18.2520
+# Quantity        : 92Zr(n,inl)92Zr partial gamma angular differential cross section
+# REACTION        : 40-ZR-92(N,INL)40-ZR-92,PAR,DA,G
+# File ID         : n-Zr92-inl-adxgl-excfun-mon-angl90_eoutl1.988E+06_prodZr92_Glasgow_1978_10409.002
+#
+# theta,lab (deg) :   90.0000000
+# Eout,lab (eV)   :   1.9883E+06
+#
+# npts            : 4           
+# xmin            :   3.5500E+06
+# xmax            :   3.7000E+06
+# ymin            :   5.4000E-04
+# ymax            :   7.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.5500E+06  0.0000E+00  7.2000E-04  0.0000E+00
+  3.6000E+06  0.0000E+00  6.8000E-04  0.0000E+00
+  3.6500E+06  0.0000E+00  5.4000E-04  0.0000E+00
+  3.7000E+06  0.0000E+00  6.3000E-04  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : 22075.201.1
+# EXFOR Ver.      : 20090615
+# TRANS #         : 2213
+# Author          : A.Takahashi et al.
+# Reference       : Report OKTAV-A-87-03, 1987
+# DOI             : N/A
+# Quantity        : natMg(n,inl)natMg partial cross section
+# REACTION        : 12-MG-0(N,INL)12-MG-0,PAR,SIG
+# File ID         : n-Mg-inl-sig-lvldis-mon-einc1.410E+07_prodMg_Takahashi_1987_22075.201.1
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 5           
+# xmin            :   1.5900E+06
+# xmax            :   7.5500E+06
+# ymin            :   5.0200E-03
+# ymax            :   1.6600E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5900E+06  2.2000E+05  1.6600E-01  5.0000E-03
+  4.2350E+06  1.1500E+05  4.0000E-02  2.0000E-03
+  5.2300E+06  0.0000E+00  1.6300E-02  1.3000E-03
+  6.0000E+06  0.0000E+00  2.8200E-02  1.7000E-03
+  7.5500E+06  2.0000E+05  5.0200E-03  2.4000E-03
+#---------------------------------------------------

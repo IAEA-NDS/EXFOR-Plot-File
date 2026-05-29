@@ -1,0 +1,25 @@
+# EXFOR #         : 22645.004  
+# EXFOR Ver.      : 20070430
+# TRANS #         : 2185
+# Author          : T.Miura et al.
+# Reference       : Ann.Nucl.Energy 28 (2001) 937
+# DOI             : 10.1016/S0306-4549(00)00102-X
+# Quantity        : 232Th(n,inl)232Th partial cross section
+# REACTION        : 90-TH-232(N,INL)90-TH-232,PAR,SIG
+# File ID         : n-Th232-inl-sig-lvldis-mon-einc2.600E+06_prodTh232_Miura_2001_22645.004
+#
+# Einc (eV)       :   2.6000E+06
+#
+# npts            : 2           
+# xmin            :   8.0000E+05
+# xmax            :   1.1800E+06
+# ymin            :   1.6600E-01
+# ymax            :   2.3900E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+05  0.0000E+00  1.6600E-01  1.3000E-02
+  1.1800E+06  0.0000E+00  2.3900E-01  1.4000E-02
+#---------------------------------------------------

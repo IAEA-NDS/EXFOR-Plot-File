@@ -1,0 +1,23 @@
+# EXFOR #         : 41212.010  
+# EXFOR Ver.      : 20190715
+# TRANS #         : 4183
+# Author          : V.I.Goldanskii et al.
+# Reference       : J.Exp.Theor.Phys. 2 (1956) 677
+# DOI             : N/A
+# Quantity        : 209Bi(n,f) cross section
+# REACTION        : 83-BI-209(N,F),,SIG
+# File ID         : n-Bi209-f-sig-excfun-mon-Goldanskii_1956_41212.010
+#
+# npts            : 2           
+# xmin            :   1.2000E+08
+# xmax            :   3.8000E+08
+# ymin            :   3.6000E-02
+# ymax            :   7.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+08  0.0000E+00  3.6000E-02  0.0000E+00
+  3.8000E+08  0.0000E+00  7.4000E-02  0.0000E+00
+#---------------------------------------------------

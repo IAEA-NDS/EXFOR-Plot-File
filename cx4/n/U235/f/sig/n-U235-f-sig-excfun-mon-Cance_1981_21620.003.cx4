@@ -1,0 +1,22 @@
+# EXFOR #         : 21620.003  
+# EXFOR Ver.      : 20170721
+# TRANS #         : 2262
+# Author          : M.Cance et al.
+# Reference       : Report CEA-N-2194, 1981
+# DOI             : N/A
+# Quantity        : 235U(n,f) cross section
+# REACTION        : 92-U-235(N,F),,SIG
+# File ID         : n-U235-f-sig-excfun-mon-Cance_1981_21620.003
+#
+# npts            : 1           
+# xmin            :   2.5000E+06
+# xmax            :   2.5000E+06
+# ymin            :   1.2300E+00
+# ymax            :   1.2300E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  4.0000E+04  1.2300E+00  3.4440E-02
+#---------------------------------------------------

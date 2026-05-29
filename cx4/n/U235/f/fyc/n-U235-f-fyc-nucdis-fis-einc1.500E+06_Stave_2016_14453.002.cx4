@@ -1,0 +1,27 @@
+# EXFOR #         : 14453.002  
+# EXFOR Ver.      : 20160414
+# TRANS #         : 1417
+# Author          : S.Stave et al.
+# Reference       : J.Rad.Nucl.Chem. 307 (2016) 2221
+# DOI             : 10.1007/s10967-015-4436-3
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,FIS
+# File ID         : n-U235-f-fyc-nucdis-fis-einc1.500E+06_Stave_2016_14453.002
+#
+# Einc (eV)       :   1.5000E+06
+#
+# npts            : 4           
+# xmin            : 37089.9     
+# xmax            : 51131.9     
+# ymin            :   4.8400E-05
+# ymax            :   5.9000E-04
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     37089.9  5.1500E-04  2.7810E-05
+     39093.9  5.9000E-04  5.6050E-05
+     50128.9  4.8400E-05  3.4364E-06
+     51131.9  2.5800E-04  1.4964E-05
+#---------------------------------------------------

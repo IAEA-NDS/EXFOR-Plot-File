@@ -1,0 +1,22 @@
+# EXFOR #         : 11450.019  
+# EXFOR Ver.      : 20021212
+# TRANS #         : 0000
+# Author          : D.J.Hughes et al.
+# Reference       : Phys.Rev. 75 (1949) 1781
+# DOI             : 10.1103/PhysRev.75.1781
+# Quantity        : 75As(n,g)76As cross section
+# REACTION        : 33-AS-75(N,G)33-AS-76,,SIG,,FIS
+# File ID         : n-As75-g-sig-excfun-fis-prodAs76_Hughes_1949_11450.019
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.3000E-02
+# ymax            :   2.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.3000E-02  0.0000E+00
+#---------------------------------------------------

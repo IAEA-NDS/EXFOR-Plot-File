@@ -1,0 +1,23 @@
+# EXFOR #         : 23277.011  
+# EXFOR Ver.      : 20150805
+# TRANS #         : 2243
+# Author          : S.M.Qaim et al.
+# Reference       : Proceedings of 9th Symp. on Fusion Technology, Garmisch 1976 page 589
+# DOI             : N/A
+# Quantity        : 90Zr(n,p)90Y cross section
+# REACTION        : 40-ZR-90(N,P)39-Y-90,,SIG,,SPA
+# File ID         : n-Zr90-p-sig-excfun-spa-prodY90_Qaim_1976_23277.011
+#
+# npts            : 2           
+# xmin            :   1.1500E+07
+# xmax            :   1.1500E+07
+# ymin            :   3.9000E-02
+# ymax            :   5.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+07  0.0000E+00  3.9000E-02  5.0000E-03
+  1.1500E+07  0.0000E+00  5.5000E-02  5.0000E-03
+#---------------------------------------------------

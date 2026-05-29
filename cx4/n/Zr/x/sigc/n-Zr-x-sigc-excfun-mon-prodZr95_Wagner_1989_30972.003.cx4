@@ -1,0 +1,25 @@
+# EXFOR #         : 30972.003  
+# EXFOR Ver.      : 20090915
+# TRANS #         : 3141
+# Author          : M.Wagner et al.
+# Reference       : Ann.Nucl.Energy 16 No.12 (1989) 623
+# DOI             : 10.1016/0306-4549(89)90139-4
+# Quantity        : natZr(n,x)95Zr cumulative production cross section
+# REACTION        : 40-ZR-0(N,X)40-ZR-95,CUM,SIG
+# File ID         : n-Zr-x-sigc-excfun-mon-prodZr95_Wagner_1989_30972.003
+#
+# npts            : 4           
+# xmin            :   1.3495E+07
+# xmax            :   1.4771E+07
+# ymin            :   1.4366E+00
+# ymax            :   1.5122E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4771E+07  1.3000E+04  1.5122E+00  3.8600E-02
+  1.4341E+07  1.1000E+04  1.4800E+00  3.7700E-02
+  1.3981E+07  1.0000E+04  1.4833E+00  4.3500E-02
+  1.3495E+07  1.0000E+04  1.4366E+00  3.9400E-02
+#---------------------------------------------------

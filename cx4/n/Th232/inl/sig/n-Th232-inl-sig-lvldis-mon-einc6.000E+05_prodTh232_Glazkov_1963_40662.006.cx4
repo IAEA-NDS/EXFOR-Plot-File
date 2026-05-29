@@ -1,0 +1,25 @@
+# EXFOR #         : 40662.006  
+# EXFOR Ver.      : 20211201
+# TRANS #         : 4201
+# Author          : N.P.Glazkov
+# Reference       : At.En. 14 (1963) 400
+# DOI             : N/A
+# Quantity        : 232Th(n,inl)232Th partial cross section
+# REACTION        : 90-TH-232(N,INL)90-TH-232,PAR,SIG
+# File ID         : n-Th232-inl-sig-lvldis-mon-einc6.000E+05_prodTh232_Glazkov_1963_40662.006
+#
+# Einc (eV)       :   6.0000E+05
+#
+# npts            : 2           
+# xmin            :   5.5000E+04
+# xmax            :   1.7000E+05
+# ymin            :   4.0000E-01
+# ymax            :   1.2000E+00
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+04  0.0000E+00  1.2000E+00  1.0000E-01
+  1.7000E+05  0.0000E+00  4.0000E-01  2.0000E-01
+#---------------------------------------------------

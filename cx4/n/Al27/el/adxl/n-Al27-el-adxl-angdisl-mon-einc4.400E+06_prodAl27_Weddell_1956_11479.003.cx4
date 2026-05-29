@@ -1,0 +1,25 @@
+# EXFOR #         : 11479.003  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : J.B.Weddell
+# Reference       : Phys.Rev. 104 (1956) 1069
+# DOI             : 10.1103/PhysRev.104.1069
+# Quantity        : 27Al(n,el)27Al angular differential cross section
+# REACTION        : 13-AL-27(N,EL)13-AL-27,,DA
+# File ID         : n-Al27-el-adxl-angdisl-mon-einc4.400E+06_prodAl27_Weddell_1956_11479.003
+#
+# Einc (eV)       :   4.4000E+06
+# dEinc (eV)      :   5.0000E+04
+#
+# npts            : 1           
+# xmin            :   81.9984400
+# xmax            :   81.9984400
+# ymin            :   4.6000E-02
+# ymax            :   4.6000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  81.9984400   5.0000000  4.6000E-02  1.0000E-02
+#---------------------------------------------------

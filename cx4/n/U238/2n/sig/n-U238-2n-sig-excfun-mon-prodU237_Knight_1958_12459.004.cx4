@@ -1,0 +1,22 @@
+# EXFOR #         : 12459.004  
+# EXFOR Ver.      : 20181102
+# TRANS #         : 1444
+# Author          : J.D.Knight et al.
+# Reference       : Phys.Rev. 112 (1958) 259
+# DOI             : 10.1103/PhysRev.112.259
+# Quantity        : 238U(n,2n)237U cross section
+# REACTION        : 92-U-238(N,2N)92-U-237,,SIG
+# File ID         : n-U238-2n-sig-excfun-mon-prodU237_Knight_1958_12459.004
+#
+# npts            : 1           
+# xmin            :   1.6000E+07
+# xmax            :   1.6000E+07
+# ymin            :   3.2000E-01
+# ymax            :   3.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+07  3.0000E+05  3.2000E-01  3.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 32832.005  
+# EXFOR Ver.      : 20231122
+# TRANS #         : 3210
+# Author          : Wang Yusheng et al.
+# Reference       : At.En.Sci.Technol. 6 (1964) 1
+# DOI             : N/A
+# Quantity        : 232Th(n,f) prompt fission neutron multiplicity
+# REACTION        : 90-TH-232(N,F),PR,NU,,FIS
+# File ID         : n-Th232-f-nup-excfun-fis-Wang%Yusheng_1964_32832.005
+#
+# npts            : 1           
+# xmin            :   1.3200E+06
+# xmax            :   1.3200E+06
+# ymin            :   2.5600E+00
+# ymax            :   2.5600E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.3200E+06  0.0000E+00  2.5600E+00  6.0000E-02
+#---------------------------------------------------

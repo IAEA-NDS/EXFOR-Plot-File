@@ -1,0 +1,25 @@
+# EXFOR #         : 12817.003  
+# EXFOR Ver.      : 20220310
+# TRANS #         : 1498
+# Author          : J.E.Gindler et al.
+# Reference       : Phys.Rev.C 27 (1983) 2058
+# DOI             : 10.1103/PhysRevC.27.2058
+# Quantity        : 239Pu(n,f) independent fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,IND,FY
+# File ID         : n-Pu239-f-fyi-nucdis-mon-einc1.000E+06_Gindler_1983_12817.003
+#
+# Einc (eV)       :   1.0000E+06
+#
+# npts            : 2           
+# xmin            : 53134.9     
+# xmax            : 54135.1     
+# ymin            :   9.2000E-03
+# ymax            :   3.3100E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     53134.9  3.3100E-02  9.5000E-03
+     54135.1  9.2000E-03  3.4000E-03
+#---------------------------------------------------

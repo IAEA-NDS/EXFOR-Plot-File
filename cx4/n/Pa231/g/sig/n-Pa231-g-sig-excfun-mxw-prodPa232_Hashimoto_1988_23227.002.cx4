@@ -1,0 +1,22 @@
+# EXFOR #         : 23227.002  
+# EXFOR Ver.      : 20140306
+# TRANS #         : 2238
+# Author          : T.Hashimoto et al.
+# Reference       : J.Rad.Nucl.Chem. 120 (1988) 185
+# DOI             : 10.1007/BF02037866
+# Quantity        : 231Pa(n,g)232Pa cross section
+# REACTION        : 91-PA-231(N,G)91-PA-232,,SIG,,MXW
+# File ID         : n-Pa231-g-sig-excfun-mxw-prodPa232_Hashimoto_1988_23227.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.8600E+02
+# ymax            :   1.8600E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.8600E+02  1.3000E+01
+#---------------------------------------------------

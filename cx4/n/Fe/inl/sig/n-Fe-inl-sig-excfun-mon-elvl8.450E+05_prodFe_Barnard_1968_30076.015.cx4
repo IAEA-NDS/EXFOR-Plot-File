@@ -1,0 +1,26 @@
+# EXFOR #         : 30076.015  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : E.Barnard et al.
+# Reference       : Nucl.Phys.A 118 (1968) 321
+# DOI             : 10.1016/0375-9474(68)90340-0
+# Quantity        : natFe(n,inl)natFe partial cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-0,PAR,SIG
+# File ID         : n-Fe-inl-sig-excfun-mon-elvl8.450E+05_prodFe_Barnard_1968_30076.015
+#
+# Elvl (eV)       :   8.4500E+05
+#
+# npts            : 3           
+# xmin            :   1.0880E+06
+# xmax            :   1.3110E+06
+# ymin            :   6.6600E-01
+# ymax            :   8.4900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0880E+06  4.0000E+03  8.4900E-01  2.6000E-02
+  1.2360E+06  4.0000E+03  6.6600E-01  1.0000E-02
+  1.3110E+06  4.0000E+03  6.9700E-01  1.3000E-02
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 31714.025  
+# EXFOR Ver.      : 20130717
+# TRANS #         : 3162
+# Author          : J.Vrzalova et al.
+# Reference       : Nucl.Instrum.Meth.A 726 (2013) 84
+# DOI             : 10.1016/j.nima.2013.05.133
+# Quantity        : natZn(n,x)63Zn independent production cross section
+# REACTION        : 30-ZN-0(N,X)30-ZN-63,,SIG
+# File ID         : n-Zn-x-sig-excfun-mon-prodZn63_Vrzalova_2013_31714.025
+#
+# npts            : 3           
+# xmin            :   1.7500E+07
+# xmax            :   3.5900E+07
+# ymin            :   7.8000E-02
+# ymax            :   1.2200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7500E+07  8.0000E+05  1.2200E-01  1.7000E-02
+  3.0400E+07  8.0000E+05  8.1000E-02  1.3000E-02
+  3.5900E+07  8.0000E+05  7.8000E-02  1.2000E-02
+#---------------------------------------------------

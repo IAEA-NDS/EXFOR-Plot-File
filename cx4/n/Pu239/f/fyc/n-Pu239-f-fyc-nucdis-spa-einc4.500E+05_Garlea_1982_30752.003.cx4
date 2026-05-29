@@ -1,0 +1,26 @@
+# EXFOR #         : 30752.003  
+# EXFOR Ver.      : 19871214
+# TRANS #         : 0000
+# Author          : T.Garlea et al.
+# Reference       : Progress report INDC(ROM)-014 page 2, 1982
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-Pu239-f-fyc-nucdis-spa-einc4.500E+05_Garlea_1982_30752.003
+#
+# Einc (eV)       :   4.5000E+05
+#
+# npts            : 3           
+# xmin            : 40095.9     
+# xmax            : 56140.9     
+# ymin            :   5.1100E-02
+# ymax            :   7.1800E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     40095.9  5.1100E-02  2.1462E-03
+     44103.9  7.1800E-02  2.8720E-03
+     56140.9  5.7300E-02  2.1774E-03
+#---------------------------------------------------

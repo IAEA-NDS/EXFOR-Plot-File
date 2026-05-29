@@ -1,0 +1,24 @@
+# EXFOR #         : 14351.004  
+# EXFOR Ver.      : 20240403
+# TRANS #         : 1511
+# Author          : M.W.Caffee et al.
+# Reference       : Nucl.Instrum.Meth.B 294 (2013) 479
+# DOI             : 10.1016/j.nimb.2012.07.011
+# Quantity        : natSi(n,x)26gAl independent production cross section
+# REACTION        : 14-SI-0(N,X)13-AL-26-G,,SIG
+# File ID         : n-Si-x-sig-excfun-mon-prodAl26g_Caffee_2013_14351.004
+#
+# npts            : 3           
+# xmin            :   7.0700E+07
+# xmax            :   1.1200E+08
+# ymin            :   1.4700E-02
+# ymax            :   2.6800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0700E+07  0.0000E+00  1.4700E-02  0.0000E+00
+  1.1080E+08  0.0000E+00  1.9700E-02  0.0000E+00
+  1.1200E+08  0.0000E+00  2.6800E-02  0.0000E+00
+#---------------------------------------------------

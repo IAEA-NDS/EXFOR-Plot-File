@@ -1,0 +1,22 @@
+# EXFOR #         : 31851.002  
+# EXFOR Ver.      : 20230822
+# TRANS #         : 3210
+# Author          : M.F.Attallah et al.
+# Reference       : J.Rad.Nucl.Chem. 331 (2022) 1723
+# DOI             : 10.1007/s10967-022-08232-1
+# Quantity        : 47Ti(n,p)47Sc cross section
+# REACTION        : 22-TI-47(N,P)21-SC-47,,SIG,,SPA
+# File ID         : n-Ti47-p-sig-excfun-spa-prodSc47_Attallah_2022_31851.002
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   6.2120E-02
+# ymax            :   6.2120E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  6.2120E-02  1.9300E-03
+#---------------------------------------------------

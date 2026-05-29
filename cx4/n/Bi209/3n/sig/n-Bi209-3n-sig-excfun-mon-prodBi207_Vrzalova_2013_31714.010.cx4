@@ -1,0 +1,23 @@
+# EXFOR #         : 31714.010  
+# EXFOR Ver.      : 20130717
+# TRANS #         : 3162
+# Author          : J.Vrzalova et al.
+# Reference       : Nucl.Instrum.Meth.A 726 (2013) 84
+# DOI             : 10.1016/j.nima.2013.05.133
+# Quantity        : 209Bi(n,3n)207Bi cross section
+# REACTION        : 83-BI-209(N,3N)83-BI-207,,SIG
+# File ID         : n-Bi209-3n-sig-excfun-mon-prodBi207_Vrzalova_2013_31714.010
+#
+# npts            : 2           
+# xmin            :   3.0400E+07
+# xmax            :   3.5900E+07
+# ymin            :   4.8000E-01
+# ymax            :   9.9000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0400E+07  8.0000E+05  9.9000E-01  1.9000E-01
+  3.5900E+07  8.0000E+05  4.8000E-01  1.1000E-01
+#---------------------------------------------------

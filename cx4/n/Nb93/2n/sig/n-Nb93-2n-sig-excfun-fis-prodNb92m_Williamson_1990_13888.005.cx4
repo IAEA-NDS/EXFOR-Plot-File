@@ -1,0 +1,22 @@
+# EXFOR #         : 13888.005  
+# EXFOR Ver.      : 20160830
+# TRANS #         : 1423
+# Author          : T.G.Williamson et al.
+# Reference       : Proceedings of 7.Int.Symposium on Reactor Dosimetry, Strasbourg,1990 page 371
+# DOI             : N/A
+# Quantity        : 93Nb(n,2n)92mNb cross section
+# REACTION        : 41-NB-93(N,2N)41-NB-92-M,,SIG,,FIS
+# File ID         : n-Nb93-2n-sig-excfun-fis-prodNb92m_Williamson_1990_13888.005
+#
+# npts            : 1           
+# xmin            :   2.0000E+06
+# xmax            :   2.0000E+06
+# ymin            :   4.1700E-04
+# ymax            :   4.1700E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  4.1700E-04  1.6000E-05
+#---------------------------------------------------

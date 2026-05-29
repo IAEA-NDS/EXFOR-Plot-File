@@ -1,0 +1,22 @@
+# EXFOR #         : 20543.002  
+# EXFOR Ver.      : 19840126
+# TRANS #         : 0000
+# Author          : F.Rigaud et al.
+# Reference       : Nucl.Sci.Eng. 55 (1974) 17
+# DOI             : 10.13182/NSE55-17
+# Quantity        : 27Al(n,g)28Al cross section
+# REACTION        : 13-AL-27(N,G)13-AL-28,,SIG
+# File ID         : n-Al27-g-sig-excfun-mon-prodAl28_Rigaud_1974_20543.002
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   5.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  3.0000E+05  5.0000E-04  2.0000E-05
+#---------------------------------------------------

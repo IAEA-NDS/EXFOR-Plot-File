@@ -1,0 +1,22 @@
+# EXFOR #         : 40997.003  
+# EXFOR Ver.      : 20160604
+# TRANS #         : 4176
+# Author          : V.Ya.Golovnya et al.
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 281
+# DOI             : N/A
+# Quantity        : 238U(n,2n)237U cross section
+# REACTION        : 92-U-238(N,2N)92-U-237,,SIG
+# File ID         : n-U238-2n-sig-excfun-mon-prodU237_Golovnya_1987_40997.003
+#
+# npts            : 1           
+# xmin            :   1.4760E+07
+# xmax            :   1.4760E+07
+# ymin            :   7.0400E-01
+# ymax            :   7.0400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4760E+07  2.5000E+05  7.0400E-01  6.4000E-02
+#---------------------------------------------------

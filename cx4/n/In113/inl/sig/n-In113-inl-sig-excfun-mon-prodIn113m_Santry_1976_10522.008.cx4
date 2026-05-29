@@ -1,0 +1,23 @@
+# EXFOR #         : 10522.008  
+# EXFOR Ver.      : 20040504
+# TRANS #         : 0000
+# Author          : D.C.Santry et al.
+# Reference       : Can.J.Phys. 54 (1976) 757
+# DOI             : 10.1139/p76-087
+# Quantity        : 113In(n,inl)113mIn cross section
+# REACTION        : 49-IN-113(N,INL)49-IN-113-M,,SIG
+# File ID         : n-In113-inl-sig-excfun-mon-prodIn113m_Santry_1976_10522.008
+#
+# npts            : 2           
+# xmin            :   6.4600E+06
+# xmax            :   9.1800E+06
+# ymin            :   2.3200E-01
+# ymax            :   2.8500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.4600E+06  1.4000E+05  2.8500E-01  2.6000E-02
+  9.1800E+06  1.1000E+05  2.3200E-01  1.7000E-02
+#---------------------------------------------------

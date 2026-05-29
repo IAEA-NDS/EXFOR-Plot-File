@@ -1,0 +1,26 @@
+# EXFOR #         : 11183.008  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : J.T.Prud'Homme et al.
+# Reference       : Report AFSWC-TR-60-30, 1960
+# DOI             : N/A
+# Quantity        : natFe(n,inl)natFe partial gamma angular differential cross section
+# REACTION        : 26-FE-0(N,INL),PAR,DA,G
+# File ID         : n-Fe-inl-adxgl-angdisl-mon-einc1.500E+07_eoutl1.200E+06_prodFe_PrudHomme_1960_11183.008
+#
+# Einc (eV)       :   1.5000E+07
+# Eout,lab (eV)   :   1.2000E+06
+#
+# npts            : 2           
+# xmin            :   66.9832600
+# xmax            :   90.0000000
+# ymin            :   2.3000E-02
+# ymax            :   2.8000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  66.9832600  23.0000000  2.3000E-02  7.0000E-03
+  90.0000000   2.0000000  2.8000E-02  7.0000E-03
+#---------------------------------------------------

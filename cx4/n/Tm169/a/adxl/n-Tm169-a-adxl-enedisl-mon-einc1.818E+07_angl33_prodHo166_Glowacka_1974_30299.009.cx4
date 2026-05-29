@@ -1,0 +1,26 @@
+# EXFOR #         : 30299.009  
+# EXFOR Ver.      : 20191128
+# TRANS #         : 3195
+# Author          : L.Glowacka et al.
+# Reference       : Progress report INDC(SEC)-42 page 193, 1974
+# DOI             : N/A
+# Quantity        : 169Tm(n,a)166Ho partial angular differential cross section
+# REACTION        : 69-TM-169(N,A)67-HO-166,PAR,DA
+# File ID         : n-Tm169-a-adxl-enedisl-mon-einc1.818E+07_angl33_prodHo166_Glowacka_1974_30299.009
+#
+# Einc (eV)       :   1.8180E+07
+# theta,lab (deg) :   33.0000000
+# dtheta,lab (deg):   20.0000000
+#
+# npts            : 1           
+# xmin            :   2.2535E+07
+# xmax            :   2.2535E+07
+# ymin            :   5.8400E-04
+# ymax            :   5.8400E-04
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.2535E+07  3.6750E+06  5.8400E-04  2.5000E-05
+#---------------------------------------------------

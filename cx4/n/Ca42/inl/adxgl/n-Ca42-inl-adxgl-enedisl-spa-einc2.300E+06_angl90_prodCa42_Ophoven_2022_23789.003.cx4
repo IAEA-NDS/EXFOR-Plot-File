@@ -1,0 +1,25 @@
+# EXFOR #         : 23789.003  
+# EXFOR Ver.      : 20230305
+# TRANS #         : 2315
+# Author          : N.Ophoven et al.
+# Reference       : J.Rad.Nucl.Chem. 331 (2022) 5729
+# DOI             : 10.1007/s10967-022-08594-6
+# Quantity        : 42Ca(n,inl)42Ca partial gamma angular differential cross section
+# REACTION        : 20-CA-42(N,INL)20-CA-42,PAR,DA,G,4PI/SPA
+# File ID         : n-Ca42-inl-adxgl-enedisl-spa-einc2.300E+06_angl90_prodCa42_Ophoven_2022_23789.003
+#
+# Einc (eV)       :   2.3000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   1.5246E+09
+# xmax            :   1.5246E+09
+# ymin            :   2.8250E-02
+# ymax            :   2.8250E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.5246E+09  7.0000E+04  2.8250E-02  2.7056E-03
+#---------------------------------------------------

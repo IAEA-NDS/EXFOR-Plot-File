@@ -1,0 +1,26 @@
+# EXFOR #         : 22728.003  
+# EXFOR Ver.      : 20050719
+# TRANS #         : 2173
+# Author          : D.Schmidt et al.
+# Reference       : Nucl.Instrum.Meth.A 342 (1994) 544
+# DOI             : 10.1016/0168-9002(94)90285-2
+# Quantity        : 12C(n,inl)12C partial cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,SIG
+# File ID         : n-C12-inl-sig-excfun-mon-elvl9.641E+06_prodC12_Schmidt_1994_22728.003
+#
+# Elvl (eV)       :   9.6410E+06
+#
+# npts            : 3           
+# xmin            :   1.4075E+07
+# xmax            :   1.5816E+07
+# ymin            :   5.8399E-02
+# ymax            :   6.7751E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4075E+07  1.0000E+04  5.8399E-02  6.3497E-03
+  1.4528E+07  1.0000E+04  6.7751E-02  5.4810E-03
+  1.5816E+07  1.0000E+04  6.5780E-02  4.3271E-03
+#---------------------------------------------------

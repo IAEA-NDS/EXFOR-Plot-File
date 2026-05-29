@@ -1,0 +1,24 @@
+# EXFOR #         : 20521.003  
+# EXFOR Ver.      : 20170805
+# TRANS #         : 2268
+# Author          : J.-V.Kratz et al.
+# Reference       : J.Inorg.Nucl.Chem. 35 (1973) 1407
+# DOI             : 10.1016/0022-1902(73)80226-X
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-U235-f-fyc-nucdis-mxw-einc2.530E-02_Kratz_1973_20521.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 1           
+# xmin            : 33087.9     
+# xmax            : 33087.9     
+# ymin            :   4.0000E-04
+# ymax            :   4.0000E-04
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     33087.9  4.0000E-04  1.0000E-04
+#---------------------------------------------------

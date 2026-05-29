@@ -1,0 +1,27 @@
+# EXFOR #         : 21905.002  
+# EXFOR Ver.      : 19860106
+# TRANS #         : 0000
+# Author          : N.Koori et al.
+# Reference       : Nucl.Sci.Eng. 87 (1984) 34
+# DOI             : 10.13182/NSE84-A17443
+# Quantity        : 93Nb(n,p)93Zr partial cross section
+# REACTION        : 41-NB-93(N,P)40-ZR-93,PAR,SIG
+# File ID         : n-Nb93-p-sig-enedisl-mon-einc1.410E+07_prodZr93_Koori_1984_21905.002
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 3           
+# xmin            :   6.6500E+06
+# xmax            :   1.1550E+07
+# ymin            :   8.0000E-03
+# ymax            :   4.2300E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6500E+06  2.3500E+06  3.4300E-02  3.1000E-03
+  9.2000E+06  4.9000E+06  4.2300E-02  3.9000E-03
+  1.1550E+07  2.5500E+06  8.0000E-03  2.6000E-03
+#---------------------------------------------------

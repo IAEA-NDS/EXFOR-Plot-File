@@ -1,0 +1,26 @@
+# EXFOR #         : 20907.012  
+# EXFOR Ver.      : 19810722
+# TRANS #         : 0000
+# Author          : D.Meier et al.
+# Reference       : Helv.Phys.Acta 42 (1969) 813
+# DOI             : N/A
+# Quantity        : 16O(n,inl)16O partial cross section
+# REACTION        : 8-O-16(N,INL)8-O-16,PAR,SIG
+# File ID         : n-O16-inl-sig-lvldis-mon-einc1.414E+07_prodO16_Meier_1969_20907.012
+#
+# Einc (eV)       :   1.4140E+07
+# dEinc (eV)      :   8.0000E+04
+#
+# npts            : 2           
+# xmin            :   6.1400E+06
+# xmax            :   7.0200E+06
+# ymin            :   7.0000E-02
+# ymax            :   1.0200E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.1400E+06  0.0000E+00  1.0200E-01  1.3000E-02
+  7.0200E+06  1.0000E+05  7.0000E-02  1.1000E-02
+#---------------------------------------------------

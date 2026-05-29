@@ -1,0 +1,22 @@
+# EXFOR #         : 23260.072  
+# EXFOR Ver.      : 20151013
+# TRANS #         : 2245
+# Author          : F.Farina Arbocco et al.
+# Reference       : J.Rad.Nucl.Chem. 302 (2014) 655
+# DOI             : 10.1007/s10967-014-3281-0
+# Quantity        : 84Sr(n,g)85gSr cumulative production cross section
+# REACTION        : 38-SR-84(N,G)38-SR-85-G,M+,SIG
+# File ID         : n-Sr84-x-sigc-excfun-mon-prodSr85g_Farina%Arbocco_2014_23260.072
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   7.0000E-01
+# ymax            :   7.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.0000E-01  7.0000E-03
+#---------------------------------------------------

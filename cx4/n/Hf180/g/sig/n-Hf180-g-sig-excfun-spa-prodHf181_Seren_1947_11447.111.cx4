@@ -1,0 +1,22 @@
+# EXFOR #         : 11447.111  
+# EXFOR Ver.      : 20210510
+# TRANS #         : 1486
+# Author          : L.Seren et al.
+# Reference       : Phys.Rev. 72 (1947) 888
+# DOI             : 10.1103/PhysRev.72.888
+# Quantity        : 180Hf(n,g)181Hf cross section
+# REACTION        : 72-HF-180(N,G)72-HF-181,,SIG,,SPA
+# File ID         : n-Hf180-g-sig-excfun-spa-prodHf181_Seren_1947_11447.111
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.0000E+01
+# ymax            :   1.0000E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.0000E+01  2.0000E+00
+#---------------------------------------------------

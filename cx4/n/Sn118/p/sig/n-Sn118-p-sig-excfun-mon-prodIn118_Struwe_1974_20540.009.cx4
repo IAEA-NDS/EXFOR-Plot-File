@@ -1,0 +1,22 @@
+# EXFOR #         : 20540.009  
+# EXFOR Ver.      : 20071216
+# TRANS #         : 2190
+# Author          : W.Struwe et al.
+# Reference       : Nucl.Phys.A 222 (1974) 605
+# DOI             : 10.1016/0375-9474(74)90342-X
+# Quantity        : 118Sn(n,p)118In cross section
+# REACTION        : 50-SN-118(N,P)49-IN-118,,SIG
+# File ID         : n-Sn118-p-sig-excfun-mon-prodIn118_Struwe_1974_20540.009
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   6.6100E-03
+# ymax            :   6.6100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  6.6100E-03  5.7000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 33040.003  
+# EXFOR Ver.      : 20120711
+# TRANS #         : 3156
+# Author          : P.M.Prajapati et al.
+# Reference       : Eur.Phys.J.A 48 (2012) 35
+# DOI             : 10.1140/epja/i2012-12035-4
+# Quantity        : 232Th(n,g)233Th cross section
+# REACTION        : 90-TH-232(N,G)90-TH-233,,SIG
+# File ID         : n-Th232-g-sig-excfun-mon-prodTh233_Prajapati_2012_33040.003
+#
+# npts            : 2           
+# xmin            :   5.9000E+06
+# xmax            :   1.5500E+07
+# ymin            :   7.8000E-04
+# ymax            :   1.1300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+06  6.0000E+05  1.1300E-03  2.1000E-04
+  1.5500E+07  7.0000E+05  7.8000E-04  1.8000E-04
+#---------------------------------------------------

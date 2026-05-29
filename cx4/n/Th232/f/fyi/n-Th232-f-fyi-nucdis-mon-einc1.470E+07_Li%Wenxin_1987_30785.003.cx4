@@ -1,0 +1,29 @@
+# EXFOR #         : 30785.003  
+# EXFOR Ver.      : 20090909
+# TRANS #         : 3141
+# Author          : Li Wenxin et al.
+# Reference       : High En.Nucl.Phy.Ch. 11 (1987) 376
+# DOI             : N/A
+# Quantity        : 232Th(n,f) independent fission product yield
+# REACTION        : 90-TH-232(N,F)ELEM/MASS,IND,FY
+# File ID         : n-Th232-f-fyi-nucdis-mon-einc1.470E+07_Li%Wenxin_1987_30785.003
+#
+# Einc (eV)       :   1.4700E+07
+# dEinc (eV)      :   3.0000E+05
+#
+# npts            : 5           
+# xmin            : 45106.1     
+# xmax            : 51128.0     
+# ymin            :   1.5000E-06
+# ymax            :   3.4000E-03
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     45106.1  1.5000E-06  7.0000E-07
+     47112.9  6.2000E-05  2.1000E-05
+     49116.1  8.3000E-05  3.3000E-05
+     51126.0  3.2000E-04  6.0000E-05
+     51128.0  3.4000E-03  2.0000E-04
+#---------------------------------------------------

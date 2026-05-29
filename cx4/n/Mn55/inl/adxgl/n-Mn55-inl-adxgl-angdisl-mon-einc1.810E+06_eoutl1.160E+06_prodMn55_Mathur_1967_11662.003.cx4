@@ -1,0 +1,28 @@
+# EXFOR #         : 11662.003  
+# EXFOR Ver.      : 20140423
+# TRANS #         : 1401
+# Author          : S.C.Mathur et al.
+# Reference       : Bull.Am.Phys.Soc. 12 (1967) 921(Y4)
+# DOI             : N/A
+# Quantity        : 55Mn(n,inl)55Mn partial gamma angular differential cross section
+# REACTION        : 25-MN-55(N,INL)25-MN-55,PAR,DA,G
+# File ID         : n-Mn55-inl-adxgl-angdisl-mon-einc1.810E+06_eoutl1.160E+06_prodMn55_Mathur_1967_11662.003
+#
+# Einc (eV)       :   1.8100E+06
+# dEinc (eV)      :   4.0000E+04
+# Eout,lab (eV)   :   1.1600E+06
+#
+# npts            : 3           
+# xmin            :   30.0029100
+# xmax            :   90.0000000
+# ymin            :   2.5300E-03
+# ymax            :   3.5400E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  2.5300E-03  5.0600E-04
+  54.9983500   0.0000000  3.0600E-03  0.0000E+00
+  30.0029100   0.0000000  3.5400E-03  0.0000E+00
+#---------------------------------------------------

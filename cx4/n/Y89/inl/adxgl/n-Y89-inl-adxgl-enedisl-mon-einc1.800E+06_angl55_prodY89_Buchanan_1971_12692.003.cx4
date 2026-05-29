@@ -1,0 +1,26 @@
+# EXFOR #         : 12692.003  
+# EXFOR Ver.      : 20140415
+# TRANS #         : 1401
+# Author          : P.S.Buchanan et al.
+# Reference       : Diss.Abstr.B 31 (1971) 4260
+# DOI             : N/A
+# Quantity        : 89Y(n,inl)89Y partial gamma angular differential cross section
+# REACTION        : 39-Y-89(N,INL)39-Y-89,PAR,DA,G
+# File ID         : n-Y89-inl-adxgl-enedisl-mon-einc1.800E+06_angl55_prodY89_Buchanan_1971_12692.003
+#
+# Einc (eV)       :   1.8000E+06
+# dEinc (eV)      :   4.0000E+04
+# theta,lab (deg) :   55.0000000
+#
+# npts            : 1           
+# xmin            :   1.5070E+06
+# xmax            :   1.5070E+06
+# ymin            :   2.5600E-02
+# ymax            :   2.5600E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.5070E+06  0.0000E+00  2.5600E-02  5.1000E-03
+#---------------------------------------------------

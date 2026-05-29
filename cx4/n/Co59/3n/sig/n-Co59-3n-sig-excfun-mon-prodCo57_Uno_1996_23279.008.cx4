@@ -1,0 +1,25 @@
+# EXFOR #         : 23279.008  
+# EXFOR Ver.      : 20151004
+# TRANS #         : 2247
+# Author          : Y.Uno et al.
+# Reference       : Proceedings of 9.Internat.Symposium on Reactor Dosimetry,Prague,1996 page 465
+# DOI             : N/A
+# Quantity        : 59Co(n,3n)57Co cross section
+# REACTION        : 27-CO-59(N,3N)27-CO-57,,SIG
+# File ID         : n-Co59-3n-sig-excfun-mon-prodCo57_Uno_1996_23279.008
+#
+# npts            : 4           
+# xmin            :   2.2660E+07
+# xmax            :   3.0090E+07
+# ymin            :   5.4070E-02
+# ymax            :   2.6912E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2660E+07  0.0000E+00  5.4070E-02  2.1000E-03
+  2.4990E+07  0.0000E+00  1.7336E-01  6.4000E-03
+  2.7790E+07  0.0000E+00  2.4357E-01  9.0000E-03
+  3.0090E+07  0.0000E+00  2.6912E-01  9.9000E-03
+#---------------------------------------------------

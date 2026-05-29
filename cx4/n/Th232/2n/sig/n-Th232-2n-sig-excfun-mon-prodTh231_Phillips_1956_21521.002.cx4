@@ -1,0 +1,22 @@
+# EXFOR #         : 21521.002  
+# EXFOR Ver.      : 20090315
+# TRANS #         : 2208
+# Author          : J.A.Phillips
+# Reference       : Report AERE-NP/R-2033, 1956
+# DOI             : N/A
+# Quantity        : 232Th(n,2n)231Th cross section
+# REACTION        : 90-TH-232(N,2N)90-TH-231,,SIG
+# File ID         : n-Th232-2n-sig-excfun-mon-prodTh231_Phillips_1956_21521.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+07
+# xmax            :   1.5000E+07
+# ymin            :   1.1000E+00
+# ymax            :   1.1000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  1.0000E+05  1.1000E+00  1.0000E-01
+#---------------------------------------------------

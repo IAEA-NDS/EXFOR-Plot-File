@@ -1,0 +1,31 @@
+# EXFOR #         : 32246.006  
+# EXFOR Ver.      : 20180827
+# TRANS #         : 3186
+# Author          : I.A.Tostkii
+# Reference       : Proceedings of Low and Medium Energy Nucl.Reactons, Moscow 1957 page 190
+# DOI             : N/A
+# Quantity        : natSn(n,el)natSn angular differential cross section
+# REACTION        : 50-SN-0(N,EL)50-SN-0,,DA
+# File ID         : n-Sn-el-adxl-angdisl-mon-einc2.800E+06_prodSn_Tostkii_1957_32246.006
+#
+# Einc (eV)       :   2.8000E+06
+#
+# npts            : 8           
+# xmin            :   25.9206800
+# xmax            :  140.5067000
+# ymin            :   5.5849E-05
+# ymax            :   5.7315E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 140.5067000   0.0000000  8.8442E-05  8.0753E-06
+ 126.6053000   0.0000000  5.5849E-05  1.0685E-05
+ 111.2784000   0.0000000  6.5574E-05  8.2366E-06
+  90.4927500   0.0000000  7.0943E-05  8.1966E-06
+  76.9559500   0.0000000  8.9730E-05  6.9383E-06
+  60.2246800   0.0000000  1.7262E-04  1.5776E-05
+  37.4390900   0.0000000  3.7188E-04  2.1772E-05
+  25.9206800   0.0000000  5.7315E-04  3.7792E-05
+#---------------------------------------------------

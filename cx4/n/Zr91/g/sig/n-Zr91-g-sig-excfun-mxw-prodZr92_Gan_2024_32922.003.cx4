@@ -1,0 +1,22 @@
+# EXFOR #         : 32922.003  
+# EXFOR Ver.      : 20241006
+# TRANS #         : 3214
+# Author          : L.Gan et al.
+# Reference       : Phys.Rev.C 110 (2024) 025802
+# DOI             : 10.1103/PhysRevC.110.025802
+# Quantity        : 91Zr(n,g)92Zr cross section
+# REACTION        : 40-ZR-91(N,G)40-ZR-92,,SIG,,MXW
+# File ID         : n-Zr91-g-sig-excfun-mxw-prodZr92_Gan_2024_32922.003
+#
+# npts            : 1           
+# xmin            :   3.0000E+04
+# xmax            :   3.0000E+04
+# ymin            :   5.6400E-02
+# ymax            :   5.6400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  0.0000E+00  5.6400E-02  5.0000E-03
+#---------------------------------------------------

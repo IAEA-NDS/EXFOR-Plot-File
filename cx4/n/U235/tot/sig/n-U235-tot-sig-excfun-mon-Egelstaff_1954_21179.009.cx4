@@ -1,0 +1,22 @@
+# EXFOR #         : 21179.009  
+# EXFOR Ver.      : 20160920
+# TRANS #         : 2252
+# Author          : P.A.Egelstaff
+# Reference       : J.Nucl.Energy 1 (1954) 92
+# DOI             : 10.1016/S0891-3919(54)80012-X
+# Quantity        : 235U(n,tot) cross section
+# REACTION        : 92-U-235(N,TOT),,SIG
+# File ID         : n-U235-tot-sig-excfun-mon-Egelstaff_1954_21179.009
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   7.2400E+02
+# ymax            :   7.2400E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.2400E+02  1.5000E+01
+#---------------------------------------------------

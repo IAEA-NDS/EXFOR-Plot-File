@@ -1,0 +1,23 @@
+# EXFOR #         : 21660.014  
+# EXFOR Ver.      : 20060605
+# TRANS #         : 2180
+# Author          : L.Koester et al.
+# Reference       : Z.Phys.A 292 No.1 (1979) 95
+# DOI             : 10.1007/BF01434635
+# Quantity        : natMg(n,tot) cross section
+# REACTION        : 12-MG-0(N,TOT),,SIG
+# File ID         : n-Mg-tot-sig-excfun-mon-Koester_1979_21660.014
+#
+# npts            : 2           
+# xmin            :   1.2600E+00
+# xmax            :   5.1900E+00
+# ymin            :   3.4170E+00
+# ymax            :   3.4210E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+00  0.0000E+00  3.4210E+00  4.0000E-02
+  5.1900E+00  0.0000E+00  3.4170E+00  4.0000E-02
+#---------------------------------------------------

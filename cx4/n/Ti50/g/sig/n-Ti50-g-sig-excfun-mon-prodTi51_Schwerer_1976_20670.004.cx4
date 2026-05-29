@@ -1,0 +1,22 @@
+# EXFOR #         : 20670.004  
+# EXFOR Ver.      : 19840127
+# TRANS #         : 0000
+# Author          : O.Schwerer et al.
+# Reference       : Nucl.Phys.A 264 (1976) 105
+# DOI             : 10.1016/0375-9474(76)90147-0
+# Quantity        : 50Ti(n,g)51Ti cross section
+# REACTION        : 22-TI-50(N,G)22-TI-51,,SIG
+# File ID         : n-Ti50-g-sig-excfun-mon-prodTi51_Schwerer_1976_20670.004
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   5.2000E-04
+# ymax            :   5.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  5.2000E-04  1.3000E-04
+#---------------------------------------------------

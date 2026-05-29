@@ -1,0 +1,25 @@
+# EXFOR #         : 40145.006  
+# EXFOR Ver.      : 20230405
+# TRANS #         : 4213
+# Author          : B.V.Kurchatov et al.
+# Reference       : Yad.Fiz. 14 (1971) 943
+# DOI             : N/A
+# Quantity        : 249Cf(n,f) independent fission product yield
+# REACTION        : 98-CF-249(N,F)ELEM/MASS,IND,FY,,MXW
+# File ID         : n-Cf249-f-fyi-nucdis-mxw-einc2.530E-02_Kurchatov_1971_40145.006
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 35082.0     
+# xmax            : 55136.0     
+# ymin            :   1.5000E-05
+# ymax            :   4.2000E-03
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     35082.0  1.5000E-05  1.2000E-06
+     55136.0  4.2000E-03  1.6000E-04
+#---------------------------------------------------

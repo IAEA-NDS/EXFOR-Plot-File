@@ -1,0 +1,25 @@
+# EXFOR #         : 22877.007  
+# EXFOR Ver.      : 20231026
+# TRANS #         : 2319
+# Author          : V.Semkova et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 1 page 559
+# DOI             : N/A
+# Quantity        : 181Ta(n,x)178gLu independent production cross section
+# REACTION        : 73-TA-181(N,X)71-LU-178-G,,SIG
+# File ID         : n-Ta181-x-sig-excfun-mon-prodLu178g_Semkova_2007_22877.007
+#
+# npts            : 4           
+# xmin            :   1.7000E+07
+# xmax            :   2.0600E+07
+# ymin            :   1.1400E-03
+# ymax            :   1.6600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7000E+07  2.0000E+05  1.1400E-03  2.0000E-04
+  1.8000E+07  2.0000E+05  1.3000E-03  1.5000E-04
+  1.9900E+07  2.0000E+05  1.5000E-03  2.0000E-04
+  2.0600E+07  1.0000E+05  1.6600E-03  2.0000E-04
+#---------------------------------------------------

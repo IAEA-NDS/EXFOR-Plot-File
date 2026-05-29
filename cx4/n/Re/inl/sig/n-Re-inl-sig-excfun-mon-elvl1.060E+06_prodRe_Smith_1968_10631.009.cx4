@@ -1,0 +1,26 @@
+# EXFOR #         : 10631.009  
+# EXFOR Ver.      : 20080810
+# TRANS #         : 1349
+# Author          : A.B.Smith et al.
+# Reference       : Phys.Rev. 168 (1968) 1344
+# DOI             : 10.1103/PhysRev.168.1344
+# Quantity        : natRe(n,inl)natRe partial cross section
+# REACTION        : 75-RE-0(N,INL)75-RE-0,PAR,SIG
+# File ID         : n-Re-inl-sig-excfun-mon-elvl1.060E+06_prodRe_Smith_1968_10631.009
+#
+# Elvl (eV)       :   1.0600E+06
+# dElvl (eV)      :   2.5000E+04
+#
+# npts            : 2           
+# xmin            :   1.5000E+06
+# xmax            :   1.5500E+06
+# ymin            :   2.2800E-01
+# ymax            :   3.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  2.0000E+04  2.2800E-01  3.4200E-02
+  1.5500E+06  2.0000E+04  3.2000E-01  5.6600E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 30563.020  
+# EXFOR Ver.      : 20090505
+# TRANS #         : 3137
+# Author          : D.Seeliger et al.
+# Reference       : Nucl.Phys.A 460 (1986) 265
+# DOI             : 10.1016/0375-9474(86)90127-2
+# Quantity        : 28Si(n,inl)28Si partial cross section
+# REACTION        : 14-SI-28(N,INL)14-SI-28,PAR,SIG
+# File ID         : n-Si28-inl-sig-excfun-mon-elvl7.399E+06_prodSi28_Seeliger_1986_30563.020
+#
+# Elvl (eV)       :   7.3990E+06
+# dElvl (eV)      :   1.8300E+04
+#
+# npts            : 1           
+# xmin            :   1.0000E+07
+# xmax            :   1.0000E+07
+# ymin            :   4.0810E-02
+# ymax            :   4.0810E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+07  1.2500E+05  4.0810E-02  5.0000E-03
+#---------------------------------------------------

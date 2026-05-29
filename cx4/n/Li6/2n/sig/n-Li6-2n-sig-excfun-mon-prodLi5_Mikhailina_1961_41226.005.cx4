@@ -1,0 +1,22 @@
+# EXFOR #         : 41226.005  
+# EXFOR Ver.      : 20191217
+# TRANS #         : 4185
+# Author          : K.M.Mikhailina et al.
+# Reference       : Neitronnaya Fizika, Moskva 1961 page 249 (1961)
+# DOI             : N/A
+# Quantity        : 6Li(n,2n)5Li cross section
+# REACTION        : 3-LI-6(N,2N)3-LI-5,,SIG
+# File ID         : n-Li6-2n-sig-excfun-mon-prodLi5_Mikhailina_1961_41226.005
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   5.0000E-02
+# ymax            :   5.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  0.0000E+00  5.0000E-02  1.0000E-02
+#---------------------------------------------------

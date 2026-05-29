@@ -1,0 +1,30 @@
+# EXFOR #         : 40101.014  
+# EXFOR Ver.      : 20210729
+# TRANS #         : 4200
+# Author          : V.I.Popov et al.
+# Reference       : Proceedings of Neutron Physics Conf., Kiev 1971 1 page 223
+# DOI             : N/A
+# Quantity        : natCr(n,inl)natCr partial angular differential cross section
+# REACTION        : 24-CR-0(N,INL)24-CR-0,PAR,DA
+# File ID         : n-Cr-inl-adxl-angdisl-mon-einc4.370E+06_elvl1.460E+06_prodCr_Popov_1971_40101.014
+#
+# Einc (eV)       :   4.3700E+06
+# dEinc (eV)      :   1.8000E+05
+# Elvl (eV)       :   1.4600E+06
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   2.7200E+01
+# ymax            :   3.5300E+01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  2.8600E+01  4.8000E+00
+  60.0000000   0.0000000  2.8700E+01  5.7000E+00
+  90.0000000   0.0000000  3.5300E+01  7.0000E+00
+ 120.0000000   0.0000000  3.3000E+01  6.2000E+00
+ 150.0000000   0.0000000  2.7200E+01  5.2000E+00
+#---------------------------------------------------

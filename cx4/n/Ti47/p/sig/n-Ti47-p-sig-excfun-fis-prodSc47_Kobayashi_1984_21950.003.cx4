@@ -1,0 +1,22 @@
+# EXFOR #         : 21950.003  
+# EXFOR Ver.      : 20151213
+# TRANS #         : 2246
+# Author          : K.Kobayashi et al.
+# Reference       : Report KURRI-AR-17 page 15, 1984
+# DOI             : N/A
+# Quantity        : 47Ti(n,p)47Sc cross section
+# REACTION        : 22-TI-47(N,P)21-SC-47,,SIG,,FIS
+# File ID         : n-Ti47-p-sig-excfun-fis-prodSc47_Kobayashi_1984_21950.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.0360E-02
+# ymax            :   2.0360E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.0360E-02  1.1100E-03
+#---------------------------------------------------

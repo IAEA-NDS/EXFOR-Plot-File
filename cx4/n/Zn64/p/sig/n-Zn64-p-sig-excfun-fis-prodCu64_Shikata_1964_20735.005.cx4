@@ -1,0 +1,22 @@
+# EXFOR #         : 20735.005  
+# EXFOR Ver.      : 20211220
+# TRANS #         : 2306
+# Author          : E.Shikata
+# Reference       : J.Nucl.Sci.Technol. 1 (1964) 228
+# DOI             : 10.1080/18811248.1964.9732117
+# Quantity        : 64Zn(n,p)64Cu cross section
+# REACTION        : 30-ZN-64(N,P)29-CU-64,,SIG,,FIS
+# File ID         : n-Zn64-p-sig-excfun-fis-prodCu64_Shikata_1964_20735.005
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.6000E-02
+# ymax            :   2.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.6000E-02  0.0000E+00
+#---------------------------------------------------

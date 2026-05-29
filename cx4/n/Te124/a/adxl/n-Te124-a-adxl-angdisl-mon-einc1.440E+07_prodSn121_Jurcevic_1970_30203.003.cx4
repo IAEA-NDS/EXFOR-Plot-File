@@ -1,0 +1,24 @@
+# EXFOR #         : 30203.003  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : M.Jurcevic et al.
+# Reference       : Fizika 2 (1970) 27
+# DOI             : N/A
+# Quantity        : 124Te(n,a)121Sn angular differential cross section
+# REACTION        : 52-TE-124(N,A)50-SN-121,,DA
+# File ID         : n-Te124-a-adxl-angdisl-mon-einc1.440E+07_prodSn121_Jurcevic_1970_30203.003
+#
+# Einc (eV)       :   1.4400E+07
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   6.7000E-04
+# ymax            :   6.7000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  6.7000E-04  6.0000E-05
+#---------------------------------------------------

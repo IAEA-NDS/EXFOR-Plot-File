@@ -1,0 +1,24 @@
+# EXFOR #         : 22751.004  
+# EXFOR Ver.      : 20151215
+# TRANS #         : 2246
+# Author          : S.Iwasaki et al.
+# Reference       : Report (proceedings) JAERI-M-93-046 page 257, 1993
+# DOI             : N/A
+# Quantity        : 58Ni(n,x)57Co independent production cross section
+# REACTION        : 28-NI-58(N,X)27-CO-57,,SIG
+# File ID         : n-Ni58-x-sig-excfun-mon-prodCo57_Iwasaki_1993_22751.004
+#
+# npts            : 3           
+# xmin            :   1.7260E+07
+# xmax            :   1.9123E+07
+# ymin            :   8.2580E-01
+# ymax            :   8.6690E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7260E+07  2.3000E+05  8.2580E-01  2.7400E-02
+  1.8369E+07  2.0700E+05  8.6690E-01  2.8800E-02
+  1.9123E+07  2.7600E+05  8.3610E-01  2.8800E-02
+#---------------------------------------------------

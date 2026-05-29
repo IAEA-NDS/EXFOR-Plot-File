@@ -1,0 +1,25 @@
+# EXFOR #         : 40631.006.1
+# EXFOR Ver.      : 20191214
+# TRANS #         : 4185
+# Author          : N.V.Kornilov et al.
+# Reference       : Proceedings of 5.All Union Conf.on Neutron Phys.,Kiev,15-19 Sep 1980 3 page 104
+# DOI             : N/A
+# Quantity        : 238U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-238(N,F),PR,NU
+# File ID         : n-U238-f-nup-excfun-mon-Kornilov_1980_40631.006.1
+#
+# npts            : 4           
+# xmin            :   6.0100E+06
+# xmax            :   8.9400E+06
+# ymin            :   2.8500E+00
+# ymax            :   3.1600E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  6.0100E+06  0.0000E+00  3.0900E+00  1.1000E-01
+  7.0200E+06  0.0000E+00  2.8500E+00  9.0000E-02
+  8.0100E+06  0.0000E+00  3.1200E+00  1.7000E-01
+  8.9400E+06  0.0000E+00  3.1600E+00  2.4000E-01
+#---------------------------------------------------

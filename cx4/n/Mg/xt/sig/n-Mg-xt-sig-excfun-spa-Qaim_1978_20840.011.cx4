@@ -1,0 +1,22 @@
+# EXFOR #         : 20840.011  
+# EXFOR Ver.      : 20170206
+# TRANS #         : 2259
+# Author          : S.M.Qaim et al.
+# Reference       : Nucl.Phys.A 295 (1978) 150
+# DOI             : 10.1016/0375-9474(78)90026-X
+# Quantity        : natMg(n,t+x) cross section
+# REACTION        : 12-MG-0(N,X)1-H-3,,SIG,,SPA
+# File ID         : n-Mg-xt-sig-excfun-spa-Qaim_1978_20840.011
+#
+# npts            : 1           
+# xmin            :   2.2500E+07
+# xmax            :   2.2500E+07
+# ymin            :   5.4000E-03
+# ymax            :   5.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2500E+07  7.9000E+06  5.4000E-03  1.0000E-03
+#---------------------------------------------------

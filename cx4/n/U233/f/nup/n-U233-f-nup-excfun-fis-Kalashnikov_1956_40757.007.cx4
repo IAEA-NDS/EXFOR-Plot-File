@@ -1,0 +1,22 @@
+# EXFOR #         : 40757.007  
+# EXFOR Ver.      : 20231113
+# TRANS #         : 4216
+# Author          : V.I.Kalashnikov et al.
+# Reference       : Report (proceedings) AEC-TR-2435 Vol.(1) page 131, 1956
+# DOI             : N/A
+# Quantity        : 233U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-233(N,F),PR,NU,,FIS
+# File ID         : n-U233-f-nup-excfun-fis-Kalashnikov_1956_40757.007
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.6000E+00
+# ymax            :   2.6000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.6000E+00  1.0000E-01
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 11283.002  
+# EXFOR Ver.      : 19810428
+# TRANS #         : 0000
+# Author          : J.Benveniste et al.
+# Reference       : Nucl.Phys. 19 (1960) 448
+# DOI             : 10.1016/0029-5582(60)90255-8
+# Quantity        : 12C(n,inl)12C partial gamma production cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,SIG,G
+# File ID         : n-C12-inl-sigg-excfun-mon-elvl4.430E+06_prodC12_Benveniste_1960_11283.002
+#
+# Elvl (eV)       :   4.4300E+06
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   2.4900E-01
+# ymax            :   2.4900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  2.4900E-01  2.8000E-02
+#---------------------------------------------------

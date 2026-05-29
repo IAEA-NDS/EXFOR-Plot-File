@@ -1,0 +1,23 @@
+# EXFOR #         : 33042.002  
+# EXFOR Ver.      : 20130219
+# TRANS #         : 3159
+# Author          : R.Crasta et al.
+# Reference       : Ann.Nucl.Energy 47 (2012) 160
+# DOI             : 10.1016/j.anucene.2012.02.010
+# Quantity        : 232Th(n,g)233Th cross section
+# REACTION        : 90-TH-232(N,G)90-TH-233,,SIG
+# File ID         : n-Th232-g-sig-excfun-mon-prodTh233_Crasta_2012_33042.002
+#
+# npts            : 2           
+# xmin            :   8.0400E+06
+# xmax            :   1.1900E+07
+# ymin            :   7.7000E-04
+# ymax            :   1.1200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0400E+06  3.0000E+05  7.7000E-04  8.0000E-05
+  1.1900E+07  3.5000E+05  1.1200E-03  2.0000E-05
+#---------------------------------------------------

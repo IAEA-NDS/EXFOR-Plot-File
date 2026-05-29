@@ -1,0 +1,27 @@
+# EXFOR #         : 10110.016  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : F.G.Perey et al.
+# Reference       : Report ORNL-4551, 1970
+# DOI             : N/A
+# Quantity        : natV(n,inl)natV partial cross section
+# REACTION        : 23-V-0(N,INL)23-V-0,PAR,SIG
+# File ID         : n-V-inl-sig-excfun-mon-elvl3.080E+06_prodV_Perey_1970_10110.016
+#
+# Elvl (eV)       :   3.0800E+06
+#
+# npts            : 4           
+# xmin            :   4.4600E+06
+# xmax            :   5.5000E+06
+# ymin            :   2.2780E-02
+# ymax            :   6.3910E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.4600E+06  7.0000E+04  6.3910E-02  1.2526E-02
+  5.0000E+06  5.0000E+04  2.3510E-02  3.7381E-03
+  5.1800E+06  5.0000E+04  2.6920E-02  5.3840E-03
+  5.5000E+06  5.0000E+04  2.2780E-02  4.0548E-03
+#---------------------------------------------------

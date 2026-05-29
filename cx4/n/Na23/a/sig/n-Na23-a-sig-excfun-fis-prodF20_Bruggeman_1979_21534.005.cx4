@@ -1,0 +1,22 @@
+# EXFOR #         : 21534.005  
+# EXFOR Ver.      : 19810205
+# TRANS #         : 0000
+# Author          : A.Bruggeman et al.
+# Reference       : J.Inorg.Nucl.Chem. 41 (1979) 445
+# DOI             : 10.1016/0022-1902(79)80422-4
+# Quantity        : 23Na(n,a)20F cross section
+# REACTION        : 11-NA-23(N,A)9-F-20,,SIG,,FIS
+# File ID         : n-Na23-a-sig-excfun-fis-prodF20_Bruggeman_1979_21534.005
+#
+# npts            : 1           
+# xmin            :   2.0000E+06
+# xmax            :   2.0000E+06
+# ymin            :   5.3000E-04
+# ymax            :   5.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  5.3000E-04  2.0000E-05
+#---------------------------------------------------

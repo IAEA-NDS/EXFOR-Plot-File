@@ -1,0 +1,26 @@
+# EXFOR #         : 23142.005  
+# EXFOR Ver.      : 20110722
+# TRANS #         : 2228
+# Author          : M.Pillon et al.
+# Reference       : Report (proceedings) AIP-1412 page 121, 2011
+# DOI             : N/A
+# Quantity        : 12C(n,d)11B partial cross section
+# REACTION        : 6-C-12(N,D)5-B-11,PAR,SIG
+# File ID         : n-C12-d-sig-excfun-mon-elvl2.128E+06_prodB11_Pillon_2011_23142.005
+#
+# Elvl (eV)       :   2.1279E+06
+#
+# npts            : 3           
+# xmin            :   1.8490E+07
+# xmax            :   2.0490E+07
+# ymin            :   2.5100E-03
+# ymax            :   1.0400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8490E+07  1.0000E+04  2.5100E-03  3.4100E-04
+  1.8970E+07  1.0000E+04  1.0400E-02  1.3100E-03
+  2.0490E+07  1.0000E+04  8.7200E-03  5.9600E-04
+#---------------------------------------------------

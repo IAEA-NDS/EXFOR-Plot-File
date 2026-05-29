@@ -1,0 +1,23 @@
+# EXFOR #         : 30997.002  
+# EXFOR Ver.      : 20171018
+# TRANS #         : 3181
+# Author          : Shen Guanren et al.
+# Reference       : Chin.J.Nucl.Phys. 12 (1990) 241
+# DOI             : N/A
+# Quantity        : 2H(n,el)2H cross section
+# REACTION        : 1-H-2(N,EL)1-H-2,,SIG
+# File ID         : n-H2-el-sig-excfun-mon-prodH2_Shen%Guanren_1990_30997.002
+#
+# npts            : 2           
+# xmin            :   1.3600E+07
+# xmax            :   1.5200E+07
+# ymin            :   6.4591E-01
+# ymax            :   7.3765E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3600E+07  0.0000E+00  7.3765E-01  1.2560E-02
+  1.5200E+07  0.0000E+00  6.4591E-01  1.2000E-02
+#---------------------------------------------------

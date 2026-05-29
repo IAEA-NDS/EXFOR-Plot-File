@@ -1,0 +1,22 @@
+# EXFOR #         : 30938.006  
+# EXFOR Ver.      : 20090913
+# TRANS #         : 3141
+# Author          : J.Rama Rao et al.
+# Reference       : Nucl.Instrum.Meth.B 17 (1986) 368
+# DOI             : 10.1016/0168-583X(86)90128-X
+# Quantity        : 138Ba(n,a)135gXe cross section
+# REACTION        : 56-BA-138(N,A)54-XE-135-G,,SIG
+# File ID         : n-Ba138-a-sig-excfun-mon-prodXe135g_Rama%Rao_1986_30938.006
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   2.2100E-03
+# ymax            :   2.2100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  2.2100E-03  2.5000E-04
+#---------------------------------------------------

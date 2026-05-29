@@ -1,0 +1,23 @@
+# EXFOR #         : 22345.006  
+# EXFOR Ver.      : 20161027
+# TRANS #         : 2255
+# Author          : T.Shima et al.
+# Reference       : Report (proceedings) JAERI-C-97-004 page 131, 1997
+# DOI             : N/A
+# Quantity        : 13C(n,g)14C cross section
+# REACTION        : 6-C-13(N,G)6-C-14,,SIG
+# File ID         : n-C13-g-sig-excfun-mon-prodC14_Shima_1997_22345.006
+#
+# npts            : 2           
+# xmin            :   2.5000E+04
+# xmax            :   6.4000E+04
+# ymin            :   1.2200E-05
+# ymax            :   1.9800E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  1.5000E+04  1.9800E-05  3.7000E-06
+  6.4000E+04  2.3000E+04  1.2200E-05  1.7000E-06
+#---------------------------------------------------

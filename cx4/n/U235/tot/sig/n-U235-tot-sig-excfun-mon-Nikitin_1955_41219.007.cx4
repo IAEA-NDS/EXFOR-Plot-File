@@ -1,0 +1,22 @@
+# EXFOR #         : 41219.007  
+# EXFOR Ver.      : 20240709
+# TRANS #         : 4217
+# Author          : S.J.Nikitin et al.
+# Reference       : Proceedings of 1st UN Conf.Peaceful Uses Atomic Energy, Geneva 1955 4 page 224
+# DOI             : N/A
+# Quantity        : 235U(n,tot) cross section
+# REACTION        : 92-U-235(N,TOT),,SIG
+# File ID         : n-U235-tot-sig-excfun-mon-Nikitin_1955_41219.007
+#
+# npts            : 1           
+# xmin            :   2.5000E-02
+# xmax            :   2.5000E-02
+# ymin            :   7.1000E+02
+# ymax            :   7.1000E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  0.0000E+00  7.1000E+02  2.0000E+01
+#---------------------------------------------------

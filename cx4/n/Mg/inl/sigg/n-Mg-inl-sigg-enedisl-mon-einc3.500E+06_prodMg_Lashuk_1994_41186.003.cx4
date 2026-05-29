@@ -1,0 +1,26 @@
+# EXFOR #         : 41186.003  
+# EXFOR Ver.      : 20191107
+# TRANS #         : 4184
+# Author          : A.I.Lashuk et al.
+# Reference       : Yad.Reak.Konst.  No.1 (1994) 26
+# DOI             : N/A
+# Quantity        : natMg(n,inl)natMg partial gamma production cross section
+# REACTION        : 12-MG-0(N,INL)12-MG-0,PAR,SIG,G
+# File ID         : n-Mg-inl-sigg-enedisl-mon-einc3.500E+06_prodMg_Lashuk_1994_41186.003
+#
+# Einc (eV)       :   3.5000E+06
+#
+# npts            : 3           
+# xmin            :   1.3680E+06
+# xmax            :   1.8300E+06
+# ymin            :   5.0000E-02
+# ymax            :   5.0300E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3680E+06  0.0000E+00  5.0300E-01  4.3000E-02
+  1.6100E+06  0.0000E+00  5.0000E-02  1.9000E-02
+  1.8300E+06  0.0000E+00  6.9000E-02  1.9000E-02
+#---------------------------------------------------

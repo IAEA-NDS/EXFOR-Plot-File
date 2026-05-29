@@ -1,0 +1,22 @@
+# EXFOR #         : 14340.003  
+# EXFOR Ver.      : 20160315
+# TRANS #         : 1416
+# Author          : A.Y.Dauenhauer et al.
+# Reference       : Phys.Rev.C 85 (2012) 064301
+# DOI             : 10.1103/PhysRevC.85.064301
+# Quantity        : 130Ba(n,g)131gBa cross section
+# REACTION        : 56-BA-130(N,G)56-BA-131-G,,SIG,,MXW
+# File ID         : n-Ba130-g-sig-excfun-mxw-prodBa131g_Dauenhauer_2012_14340.003
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   7.1500E+00
+# ymax            :   7.1500E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.1500E+00  3.4000E-01
+#---------------------------------------------------

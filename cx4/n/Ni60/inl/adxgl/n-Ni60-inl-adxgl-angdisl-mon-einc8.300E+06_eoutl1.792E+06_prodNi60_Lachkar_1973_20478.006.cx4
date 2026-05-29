@@ -1,0 +1,29 @@
+# EXFOR #         : 20478.006  
+# EXFOR Ver.      : 19840120
+# TRANS #         : 0000
+# Author          : J.Lachkar et al.
+# Reference       : Proceedings of 2.Conf.on Neutron Physics, Kiev 1973 3 page 187
+# DOI             : N/A
+# Quantity        : 60Ni(n,inl)60Ni partial gamma angular differential cross section
+# REACTION        : 28-NI-60(N,INL)28-NI-60,PAR,DA,G
+# File ID         : n-Ni60-inl-adxgl-angdisl-mon-einc8.300E+06_eoutl1.792E+06_prodNi60_Lachkar_1973_20478.006
+#
+# Einc (eV)       :   8.3000E+06
+# dEinc (eV)      :   5.0000E+04
+# Eout,lab (eV)   :   1.7916E+06
+#
+# npts            : 4           
+# xmin            :   50.0005600
+# xmax            :  109.9999000
+# ymin            :   1.0800E-02
+# ymax            :   1.2900E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 109.9999000   0.0000000  1.1300E-02  1.1000E-03
+  90.0000000   0.0000000  1.0800E-02  1.1000E-03
+  70.0000000   0.0000000  1.1700E-02  1.1000E-03
+  50.0005600   0.0000000  1.2900E-02  1.3000E-03
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 41316.002  
+# EXFOR Ver.      : 20200312
+# TRANS #         : 4186
+# Author          : Yu.E.Kozyr' et al.
+# Reference       : Yad.Fiz. 27 (1978) 616
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe angular differential cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,,DA,,4PI
+# File ID         : n-Fe56-inl-adxl-angdisl-mon-einc1.460E+07_prodFe56_Kozyr_1978_41316.002
+#
+# Einc (eV)       :   1.4600E+07
+#
+# npts            : 1           
+# xmin            :   78.0000000
+# xmax            :   78.0000000
+# ymin            :   5.3317E-02
+# ymax            :   5.3317E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  78.0000000   0.0000000  5.3317E-02  5.5704E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 23428.008  
+# EXFOR Ver.      : 20180919
+# TRANS #         : 2272
+# Author          : B.Antonot et al.
+# Reference       : Nucl.Instrum.Meth.B 99 (1995) 513
+# DOI             : 10.1016/0168-583X(94)00661-X
+# Quantity        : 209Bi(n,2n)208lBi cross section
+# REACTION        : 83-BI-209(N,2N)83-BI-208-L,,SIG
+# File ID         : n-Bi209-2n-sig-excfun-mon-prodBi208l_Antonot_1995_23428.008
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   2.8900E-01
+# ymax            :   2.8900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  2.8900E-01  8.6700E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 22551.004  
+# EXFOR Ver.      : 19991214
+# TRANS #         : 0000
+# Author          : N.Trautmann et al.
+# Reference       : Radiochim.Acta 11 (1969) 168
+# DOI             : 10.1524/ract.1969.11.34.168
+# Quantity        : 238U(n,a)235Th cross section
+# REACTION        : 92-U-238(N,A)90-TH-235,,SIG
+# File ID         : n-U238-a-sig-excfun-mon-prodTh235_Trautmann_1969_22551.004
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   6.0000E-04
+# ymax            :   6.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  3.0000E+05  6.0000E-04  1.5000E-04
+#---------------------------------------------------

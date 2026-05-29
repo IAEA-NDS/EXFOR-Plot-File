@@ -1,0 +1,26 @@
+# EXFOR #         : 10795.002  
+# EXFOR Ver.      : 20101022
+# TRANS #         : 1368
+# Author          : L.R.Veeser et al.
+# Reference       : Proceedings of Int.Conf.on Neutr.Phys.and Nucl.Data,Harwell 1978 page 1054
+# DOI             : N/A
+# Quantity        : 235U(n,3n)233U cross section
+# REACTION        : 92-U-235(N,3N)92-U-233,,SIG
+# File ID         : n-U235-3n-sig-excfun-mon-prodU233_Veeser_1978_10795.002
+#
+# npts            : 5           
+# xmin            :   1.4800E+07
+# xmax            :   2.1000E+07
+# ymin            :   8.7000E-02
+# ymax            :   2.7700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  2.0000E+05  8.7000E-02  2.4000E-02
+  1.7000E+07  2.0000E+05  2.0600E-01  2.9000E-02
+  1.9000E+07  1.5000E+05  2.5800E-01  2.7000E-02
+  2.0000E+07  1.2000E+05  2.6500E-01  4.0000E-02
+  2.1000E+07  1.2000E+05  2.7700E-01  4.6000E-02
+#---------------------------------------------------

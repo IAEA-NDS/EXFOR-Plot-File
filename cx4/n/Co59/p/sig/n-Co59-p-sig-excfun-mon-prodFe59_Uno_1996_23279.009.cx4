@@ -1,0 +1,27 @@
+# EXFOR #         : 23279.009  
+# EXFOR Ver.      : 20151004
+# TRANS #         : 2247
+# Author          : Y.Uno et al.
+# Reference       : Proceedings of 9.Internat.Symposium on Reactor Dosimetry,Prague,1996 page 465
+# DOI             : N/A
+# Quantity        : 59Co(n,p)59Fe cross section
+# REACTION        : 27-CO-59(N,P)26-FE-59,,SIG
+# File ID         : n-Co59-p-sig-excfun-mon-prodFe59_Uno_1996_23279.009
+#
+# npts            : 6           
+# xmin            :   1.7550E+07
+# xmax            :   3.0090E+07
+# ymin            :   1.1700E-02
+# ymax            :   3.5600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7550E+07  0.0000E+00  3.5600E-02  1.8000E-03
+  1.9840E+07  0.0000E+00  2.6700E-02  1.3000E-03
+  2.2660E+07  0.0000E+00  2.4500E-02  1.2000E-03
+  2.4990E+07  0.0000E+00  2.1400E-02  1.1000E-03
+  2.7790E+07  0.0000E+00  1.5100E-02  8.0000E-04
+  3.0090E+07  0.0000E+00  1.1700E-02  6.0000E-04
+#---------------------------------------------------

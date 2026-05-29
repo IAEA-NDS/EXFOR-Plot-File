@@ -1,0 +1,22 @@
+# EXFOR #         : 31553.004  
+# EXFOR Ver.      : 20051129
+# TRANS #         : 3118
+# Author          : I.M.Cohen et al.
+# Reference       : Radiochim.Acta 93 (2005) 543
+# DOI             : 10.1524/ract.2005.93.9-10.543
+# Quantity        : 66Zn(n,p)66Cu cross section
+# REACTION        : 30-ZN-66(N,P)29-CU-66,,SIG,,FIS
+# File ID         : n-Zn66-p-sig-excfun-fis-prodCu66_Cohen_2005_31553.004
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   7.7500E-04
+# ymax            :   7.7500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  7.7500E-04  7.9000E-05
+#---------------------------------------------------

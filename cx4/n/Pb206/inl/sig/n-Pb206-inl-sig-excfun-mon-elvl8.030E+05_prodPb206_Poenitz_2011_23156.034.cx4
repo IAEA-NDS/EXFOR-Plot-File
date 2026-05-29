@@ -1,0 +1,27 @@
+# EXFOR #         : 23156.034  
+# EXFOR Ver.      : 20120114
+# TRANS #         : 2231
+# Author          : E.Poenitz et al.
+# Reference       : J.Korean.Phys.Soc. 59 No.2 (2011) 1876
+# DOI             : N/A
+# Quantity        : 206Pb(n,inl)206Pb partial cross section
+# REACTION        : 82-PB-206(N,INL)82-PB-206,PAR,SIG
+# File ID         : n-Pb206-inl-sig-excfun-mon-elvl8.030E+05_prodPb206_Poenitz_2011_23156.034
+#
+# Elvl (eV)       :   8.0300E+05
+#
+# npts            : 4           
+# xmin            :   2.2400E+06
+# xmax            :   4.0200E+06
+# ymin            :   2.4700E-01
+# ymax            :   4.9630E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2400E+06  2.0000E+04  4.0400E-01  5.4100E-02
+  2.7100E+06  2.0000E+04  4.8820E-01  2.1200E-02
+  2.9400E+06  3.0000E+04  4.9630E-01  1.9400E-02
+  4.0200E+06  2.5000E+04  2.4700E-01  1.3300E-02
+#---------------------------------------------------

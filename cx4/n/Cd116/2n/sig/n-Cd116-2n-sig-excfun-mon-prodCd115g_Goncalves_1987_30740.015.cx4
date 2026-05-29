@@ -1,0 +1,22 @@
+# EXFOR #         : 30740.015  
+# EXFOR Ver.      : 20100305
+# TRANS #         : 3144
+# Author          : I.F.Goncalves et al.
+# Reference       : Appl.Radiat.Isot. 38 No.11 (1987) 989
+# DOI             : 10.1016/0883-2889(87)90274-7
+# Quantity        : 116Cd(n,2n)115gCd cross section
+# REACTION        : 48-CD-116(N,2N)48-CD-115-G,,SIG
+# File ID         : n-Cd116-2n-sig-excfun-mon-prodCd115g_Goncalves_1987_30740.015
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   6.7900E-01
+# ymax            :   6.7900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  1.7000E+05  6.7900E-01  1.0000E-02
+#---------------------------------------------------

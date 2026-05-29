@@ -1,0 +1,22 @@
+# EXFOR #         : 30060.008  
+# EXFOR Ver.      : 20160210
+# TRANS #         : 3173
+# Author          : S.K.Mangal et al.
+# Reference       : Nucl.Phys. 49 (1963) 510
+# DOI             : 10.1016/0029-5582(63)90115-9
+# Quantity        : 76Ge(n,2n)75mGe cross section
+# REACTION        : 32-GE-76(N,2N)32-GE-75-M,,SIG
+# File ID         : n-Ge76-2n-sig-excfun-mon-prodGe75m_Mangal_1963_30060.008
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   7.2600E-01
+# ymax            :   7.2600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  2.5000E+05  7.2600E-01  1.5000E-02
+#---------------------------------------------------

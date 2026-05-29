@@ -1,0 +1,25 @@
+# EXFOR #         : 10234.002  
+# EXFOR Ver.      : 20010309
+# TRANS #         : 0000
+# Author          : S.Pearlstein et al.
+# Reference       : J.Nucl.Energy A/B 19 (1965) 497
+# DOI             : 10.1016/0368-3230(65)90129-1
+# Quantity        : 181Ta(n,inl)181Ta partial angular differential cross section
+# REACTION        : 73-TA-181(N,INL)73-TA-181,PAR,DA
+# File ID         : n-Ta181-inl-adxl-enedisl-mon-einc1.400E+07_angl90_prodTa181_Pearlstein_1965_10234.002
+#
+# Einc (eV)       :   1.4000E+07
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   1.0000E+07
+# xmax            :   1.0000E+07
+# ymin            :   1.3000E-02
+# ymax            :   1.3000E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.0000E+07  4.0000E+06  1.3000E-02  3.0000E-03
+#---------------------------------------------------

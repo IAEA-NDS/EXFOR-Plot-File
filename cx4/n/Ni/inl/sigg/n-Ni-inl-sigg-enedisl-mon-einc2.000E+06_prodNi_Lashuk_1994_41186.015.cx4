@@ -1,0 +1,25 @@
+# EXFOR #         : 41186.015  
+# EXFOR Ver.      : 20191107
+# TRANS #         : 4184
+# Author          : A.I.Lashuk et al.
+# Reference       : Yad.Reak.Konst.  No.1 (1994) 26
+# DOI             : N/A
+# Quantity        : natNi(n,inl)natNi partial gamma production cross section
+# REACTION        : 28-NI-0(N,INL)28-NI-0,PAR,SIG,G
+# File ID         : n-Ni-inl-sigg-enedisl-mon-einc2.000E+06_prodNi_Lashuk_1994_41186.015
+#
+# Einc (eV)       :   2.0000E+06
+#
+# npts            : 2           
+# xmin            :   1.3330E+06
+# xmax            :   1.4530E+06
+# ymin            :   2.2400E-01
+# ymax            :   3.0400E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3330E+06  0.0000E+00  2.2400E-01  2.1000E-02
+  1.4530E+06  0.0000E+00  3.0400E-01  3.0000E-02
+#---------------------------------------------------

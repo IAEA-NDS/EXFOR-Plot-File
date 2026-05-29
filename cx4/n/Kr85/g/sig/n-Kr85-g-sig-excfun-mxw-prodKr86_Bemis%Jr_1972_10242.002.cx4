@@ -1,0 +1,22 @@
+# EXFOR #         : 10242.002  
+# EXFOR Ver.      : 20011130
+# TRANS #         : 0000
+# Author          : C.E.Bemis Jr et al.
+# Reference       : Nucl.Sci.Eng. 47 (1972) 371
+# DOI             : 10.13182/NSE72-A22423
+# Quantity        : 85Kr(n,g)86Kr cross section
+# REACTION        : 36-KR-85(N,G)36-KR-86,,SIG,,MXW
+# File ID         : n-Kr85-g-sig-excfun-mxw-prodKr86_Bemis%Jr_1972_10242.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.6600E+00
+# ymax            :   1.6600E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.6600E+00  2.0000E-01
+#---------------------------------------------------

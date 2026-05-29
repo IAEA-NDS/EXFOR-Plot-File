@@ -1,0 +1,22 @@
+# EXFOR #         : 20837.012  
+# EXFOR Ver.      : 20060404
+# TRANS #         : 2177
+# Author          : U.Seebeck et al.
+# Reference       : Nucl.Phys. 68 (1965) 387
+# DOI             : 10.1016/0029-5582(65)90655-3
+# Quantity        : 58Ni(n,a+x) cross section
+# REACTION        : 28-NI-58(N,X)2-HE-4,,SIG
+# File ID         : n-Ni58-xa-sig-excfun-mon-Seebeck_1965_20837.012
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   1.5500E-01
+# ymax            :   1.5500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.0000E+05  1.5500E-01  1.4000E-02
+#---------------------------------------------------

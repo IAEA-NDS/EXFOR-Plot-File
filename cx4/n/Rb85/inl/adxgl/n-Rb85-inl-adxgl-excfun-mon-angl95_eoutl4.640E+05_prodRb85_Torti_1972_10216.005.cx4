@@ -1,0 +1,30 @@
+# EXFOR #         : 10216.005  
+# EXFOR Ver.      : 20160216
+# TRANS #         : 1415
+# Author          : R.P.Torti et al.
+# Reference       : Phys.Rev.C 6 (1972) 1686
+# DOI             : 10.1103/PhysRevC.6.1686
+# Quantity        : 85Rb(n,inl)85Rb partial gamma angular differential cross section
+# REACTION        : 37-RB-85(N,INL)37-RB-85,PAR,DA,G
+# File ID         : n-Rb85-inl-adxgl-excfun-mon-angl95_eoutl4.640E+05_prodRb85_Torti_1972_10216.005
+#
+# theta,lab (deg) :   95.0000000
+# Eout,lab (eV)   :   4.6400E+05
+#
+# npts            : 6           
+# xmin            :   1.7130E+06
+# xmax            :   2.2020E+06
+# ymin            :   5.7700E-04
+# ymax            :   1.8120E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7130E+06  0.0000E+00  5.7700E-04  0.0000E+00
+  1.8110E+06  0.0000E+00  9.1900E-04  0.0000E+00
+  1.9190E+06  0.0000E+00  1.1280E-03  0.0000E+00
+  2.0070E+06  0.0000E+00  1.6040E-03  9.5000E-05
+  2.1040E+06  0.0000E+00  1.6220E-03  7.6000E-05
+  2.2020E+06  0.0000E+00  1.8120E-03  7.6000E-05
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 12916.003  
+# EXFOR Ver.      : 19851104
+# TRANS #         : 0000
+# Author          : C.I.Zanelli et al.
+# Reference       : Phys.Rev.C 33 (1986) 66
+# DOI             : 10.1103/PhysRevC.33.66
+# Quantity        : natCa(n,tot) cross section
+# REACTION        : 20-CA-0(N,TOT),,SIG
+# File ID         : n-Ca-tot-sig-excfun-mon-Zanelli_1986_12916.003
+#
+# npts            : 3           
+# xmin            :   3.5300E+07
+# xmax            :   5.0400E+07
+# ymin            :   2.2500E+00
+# ymax            :   2.3070E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5300E+07  0.0000E+00  2.3070E+00  5.6000E-02
+  4.0300E+07  0.0000E+00  2.2840E+00  5.9000E-02
+  5.0400E+07  0.0000E+00  2.2500E+00  7.0000E-02
+#---------------------------------------------------

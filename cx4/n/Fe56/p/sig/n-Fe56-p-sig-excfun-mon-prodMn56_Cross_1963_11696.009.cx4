@@ -1,0 +1,24 @@
+# EXFOR #         : 11696.009  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : W.G.Cross et al.
+# Reference       : Progress report EANDC(CAN)-16 page 1, 1963
+# DOI             : N/A
+# Quantity        : 56Fe(n,p)56Mn cross section
+# REACTION        : 26-FE-56(N,P)25-MN-56,,SIG
+# File ID         : n-Fe56-p-sig-excfun-mon-prodMn56_Cross_1963_11696.009
+#
+# npts            : 3           
+# xmin            :   1.3780E+07
+# xmax            :   1.4730E+07
+# ymin            :   1.0000E-01
+# ymax            :   1.0800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3780E+07  0.0000E+00  1.0600E-01  0.0000E+00
+  1.4070E+07  0.0000E+00  1.0800E-01  0.0000E+00
+  1.4730E+07  0.0000E+00  1.0000E-01  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 41001.030  
+# EXFOR Ver.      : 20250805
+# TRANS #         : 4224
+# Author          : Yu.N.Trofimov
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 331
+# DOI             : N/A
+# Quantity        : 170Er(n,g)171Er cross section
+# REACTION        : 68-ER-170(N,G)68-ER-171,,SIG
+# File ID         : n-Er170-g-sig-excfun-mon-prodEr171_Trofimov_1987_41001.030
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.8000E-02
+# ymax            :   2.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.8000E-02  3.0000E-03
+#---------------------------------------------------

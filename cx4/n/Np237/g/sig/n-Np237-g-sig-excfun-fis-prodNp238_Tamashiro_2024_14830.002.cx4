@@ -1,0 +1,22 @@
+# EXFOR #         : 14830.002  
+# EXFOR Ver.      : 20240806
+# TRANS #         : 1514
+# Author          : A.S.Tamashiro et al.
+# Reference       : Phys.Rev.C 110 (2024) 014626
+# DOI             : 10.1103/PhysRevC.110.014626
+# Quantity        : 237Np(n,g)238Np cross section
+# REACTION        : 93-NP-237(N,G)93-NP-238,,SIG,,FIS
+# File ID         : n-Np237-g-sig-excfun-fis-prodNp238_Tamashiro_2024_14830.002
+#
+# npts            : 1           
+# xmin            :   1.3400E+06
+# xmax            :   1.3400E+06
+# ymin            :   3.4200E-01
+# ymax            :   3.4200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3400E+06  0.0000E+00  3.4200E-01  1.1000E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 22089.062  
+# EXFOR Ver.      : 20201012
+# TRANS #         : 2294
+# Author          : Y.Ikeda et al.
+# Reference       : Report JAERI-1312, 1988
+# DOI             : N/A
+# Quantity        : 94Zr(n,x)93Y independent production cross section
+# REACTION        : 40-ZR-94(N,X)39-Y-93,,SIG
+# File ID         : n-Zr94-x-sig-excfun-mon-prodY93_Ikeda_1988_22089.062
+#
+# npts            : 4           
+# xmin            :   1.4000E+07
+# xmax            :   1.5010E+07
+# ymin            :   3.7000E-04
+# ymax            :   1.7400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5010E+07  0.0000E+00  1.7400E-03  5.5000E-04
+  1.4720E+07  0.0000E+00  1.2600E-03  4.3000E-04
+  1.4470E+07  0.0000E+00  9.3000E-04  3.0000E-04
+  1.4000E+07  0.0000E+00  3.7000E-04  1.4000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 33193.002  
+# EXFOR Ver.      : 20231116
+# TRANS #         : 3212
+# Author          : R.Pachuau et al.
+# Reference       : Chin.Phys.C 47 (2023) 074001
+# DOI             : 10.1088/1674-1137/acce28
+# Quantity        : 71Ga(n,g)72Ga cross section
+# REACTION        : 31-GA-71(N,G)31-GA-72,,SIG
+# File ID         : n-Ga71-g-sig-excfun-mon-prodGa72_Pachuau_2023_33193.002
+#
+# npts            : 2           
+# xmin            :   2.1500E+06
+# xmax            :   3.1900E+06
+# ymin            :   5.7400E-03
+# ymax            :   9.1400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1500E+06  1.5000E+05  9.1400E-03  8.1346E-04
+  3.1900E+06  1.2000E+05  5.7400E-03  5.0282E-04
+#---------------------------------------------------

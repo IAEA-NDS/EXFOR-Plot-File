@@ -1,0 +1,22 @@
+# EXFOR #         : 21880.002  
+# EXFOR Ver.      : 19840202
+# TRANS #         : 0000
+# Author          : H.Chatani
+# Reference       : Nucl.Intrum.Meth. 205 (1983) 501
+# DOI             : 10.1016/0167-5087(83)90016-9
+# Quantity        : 232Th(n,2n)231Th cross section
+# REACTION        : 90-TH-232(N,2N)90-TH-231,,SIG,,FIS
+# File ID         : n-Th232-2n-sig-excfun-fis-prodTh231_Chatani_1983_21880.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.5500E-02
+# ymax            :   1.5500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.5500E-02  1.2000E-03
+#---------------------------------------------------

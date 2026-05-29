@@ -1,0 +1,22 @@
+# EXFOR #         : 30234.014  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : A.Lakshmana Rao et al.
+# Reference       : Phys.Rev.C 6 (1972) 572
+# DOI             : 10.1103/PhysRevC.6.572
+# Quantity        : 103Rh(n,g)104mRh cross section
+# REACTION        : 45-RH-103(N,G)45-RH-104-M,,SIG
+# File ID         : n-Rh103-g-sig-excfun-mon-prodRh104m_Lakshmana%Rao_1972_30234.014
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   4.5000E-02
+# ymax            :   4.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  5.0000E+03  4.5000E-02  6.0000E-03
+#---------------------------------------------------

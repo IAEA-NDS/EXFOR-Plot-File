@@ -1,0 +1,23 @@
+# EXFOR #         : 21709.008  
+# EXFOR Ver.      : 20151213
+# TRANS #         : 2246
+# Author          : J.Laurec et al.
+# Reference       : Report CEA-R-5109, 1981
+# DOI             : N/A
+# Quantity        : 175Lu(n,2n)174mLu cross section
+# REACTION        : 71-LU-175(N,2N)71-LU-174-M,,SIG
+# File ID         : n-Lu175-2n-sig-excfun-mon-prodLu174m_Laurec_1981_21709.008
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4800E+07
+# ymin            :   5.1500E-01
+# ymax            :   5.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.0000E+05  5.1500E-01  3.6000E-02
+  1.4800E+07  3.0000E+05  5.4000E-01  3.6000E-02
+#---------------------------------------------------

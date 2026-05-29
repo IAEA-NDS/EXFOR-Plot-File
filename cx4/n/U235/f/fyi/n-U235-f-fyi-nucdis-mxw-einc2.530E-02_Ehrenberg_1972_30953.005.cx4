@@ -1,0 +1,29 @@
+# EXFOR #         : 30953.005  
+# EXFOR Ver.      : 20211116
+# TRANS #         : 3203
+# Author          : B.Ehrenberg et al.
+# Reference       : Phys.Rev.C 6 (1972) 618
+# DOI             : 10.1103/PhysRevC.6.618
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY,,MXW
+# File ID         : n-U235-f-fyi-nucdis-mxw-einc2.530E-02_Ehrenberg_1972_30953.005
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 6           
+# xmin            : 54137.9     
+# xmax            : 54143.9     
+# ymin            :   2.7000E-03
+# ymax            :   5.1600E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     54137.9  2.9700E-02  0.0000E+00
+     54138.9  5.0300E-02  0.0000E+00
+     54139.9  5.1600E-02  0.0000E+00
+     54140.9  2.9200E-02  0.0000E+00
+     54142.9  6.3000E-03  0.0000E+00
+     54143.9  2.7000E-03  0.0000E+00
+#---------------------------------------------------

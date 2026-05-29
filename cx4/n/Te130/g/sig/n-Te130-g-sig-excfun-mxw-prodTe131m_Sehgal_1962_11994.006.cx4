@@ -1,0 +1,22 @@
+# EXFOR #         : 11994.006  
+# EXFOR Ver.      : 19860812
+# TRANS #         : 0000
+# Author          : M.Sehgal
+# Reference       : Phys.Rev. 128 (1962) 761
+# DOI             : 10.1103/PhysRev.128.761
+# Quantity        : 130Te(n,g)131mTe cross section
+# REACTION        : 52-TE-130(N,G)52-TE-131-M,,SIG,,MXW
+# File ID         : n-Te130-g-sig-excfun-mxw-prodTe131m_Sehgal_1962_11994.006
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   4.0000E-02
+# ymax            :   4.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  4.0000E-02  1.0000E-02
+#---------------------------------------------------

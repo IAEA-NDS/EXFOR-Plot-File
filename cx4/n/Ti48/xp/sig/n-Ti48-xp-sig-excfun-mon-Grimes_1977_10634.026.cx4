@@ -1,0 +1,22 @@
+# EXFOR #         : 10634.026  
+# EXFOR Ver.      : 20210812
+# TRANS #         : 1490
+# Author          : S.M.Grimes et al.
+# Reference       : Nucl.Sci.Eng. 62 (1977) 187
+# DOI             : 10.13182/NSE77-A26956
+# Quantity        : 48Ti(n,p+x) cross section
+# REACTION        : 22-TI-48(N,X)1-H-1,,SIG
+# File ID         : n-Ti48-xp-sig-excfun-mon-Grimes_1977_10634.026
+#
+# npts            : 1           
+# xmin            :   1.5000E+07
+# xmax            :   1.5000E+07
+# ymin            :   8.5000E-02
+# ymax            :   8.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  0.0000E+00  8.5000E-02  1.6000E-02
+#---------------------------------------------------

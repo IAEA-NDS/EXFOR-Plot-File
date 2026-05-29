@@ -1,0 +1,23 @@
+# EXFOR #         : 11329.034  
+# EXFOR Ver.      : 20120416
+# TRANS #         : 1380
+# Author          : J.H.Gibbons et al.
+# Reference       : Phys.Rev. 122 (1961) 182
+# DOI             : 10.1103/PhysRev.122.182
+# Quantity        : natSb(n,g) cross section
+# REACTION        : 51-SB-0(N,G),,SIG
+# File ID         : n-Sb-g-sig-excfun-mon-prodSb1_Gibbons_1961_11329.034
+#
+# npts            : 2           
+# xmin            :   3.0000E+04
+# xmax            :   6.5000E+04
+# ymin            :   2.4500E-01
+# ymax            :   4.3600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  7.0000E+03  4.3600E-01  3.9240E-02
+  6.5000E+04  2.0000E+04  2.4500E-01  2.2050E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 40286.013  
+# EXFOR Ver.      : 20220712
+# TRANS #         : 4207
+# Author          : M.B.Fedorov et al.
+# Reference       : Proceedings of 2.Conf.on Neutron Physics, Kiev 1973 3 page 56
+# DOI             : N/A
+# Quantity        : 64Zn(n,inl)64Zn partial cross section
+# REACTION        : 30-ZN-64(N,INL)30-ZN-64,PAR,SIG
+# File ID         : n-Zn64-inl-sig-lvldis-mon-einc2.900E+06_prodZn64_Fedorov_1973_40286.013
+#
+# Einc (eV)       :   2.9000E+06
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   9.9300E+05
+# xmax            :   9.9300E+05
+# ymin            :   5.5500E-01
+# ymax            :   5.5500E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9300E+05  0.0000E+00  5.5500E-01  3.0000E-02
+#---------------------------------------------------

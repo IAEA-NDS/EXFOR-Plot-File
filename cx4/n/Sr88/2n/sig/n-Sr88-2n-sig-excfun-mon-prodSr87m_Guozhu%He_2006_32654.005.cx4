@@ -1,0 +1,24 @@
+# EXFOR #         : 32654.005  
+# EXFOR Ver.      : 20060618
+# TRANS #         : 3121
+# Author          : Guozhu He et al.
+# Reference       : Ann.Nucl.Energy 33 (2006) 37
+# DOI             : 10.1016/j.anucene.2005.09.001
+# Quantity        : 88Sr(n,2n)87mSr cross section
+# REACTION        : 38-SR-88(N,2N)38-SR-87-M,,SIG
+# File ID         : n-Sr88-2n-sig-excfun-mon-prodSr87m_Guozhu%He_2006_32654.005
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.4600E+07
+# ymin            :   2.0200E-01
+# ymax            :   2.6500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  3.0000E+05  2.0200E-01  1.3000E-02
+  1.4100E+07  2.0000E+05  2.4200E-01  1.3000E-02
+  1.4600E+07  3.0000E+05  2.6500E-01  1.6000E-02
+#---------------------------------------------------

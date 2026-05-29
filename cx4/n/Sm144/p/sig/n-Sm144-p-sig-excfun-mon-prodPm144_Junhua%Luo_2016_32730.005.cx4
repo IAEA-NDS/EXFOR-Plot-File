@@ -1,0 +1,23 @@
+# EXFOR #         : 32730.005  
+# EXFOR Ver.      : 20170517
+# TRANS #         : 3179
+# Author          : Junhua Luo et al.
+# Reference       : Radiochim.Acta 104 (2016) 523
+# DOI             : 10.1515/ract-2016-0001
+# Quantity        : 144Sm(n,p)144Pm cross section
+# REACTION        : 62-SM-144(N,P)61-PM-144,,SIG
+# File ID         : n-Sm144-p-sig-excfun-mon-prodPm144_Junhua%Luo_2016_32730.005
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   2.0300E-02
+# ymax            :   2.3500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  2.0300E-02  4.7000E-03
+  1.4800E+07  2.0000E+05  2.3500E-02  5.1000E-03
+#---------------------------------------------------

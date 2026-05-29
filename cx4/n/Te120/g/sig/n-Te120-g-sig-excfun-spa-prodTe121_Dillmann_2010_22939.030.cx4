@@ -1,0 +1,22 @@
+# EXFOR #         : 22939.030  
+# EXFOR Ver.      : 20211020
+# TRANS #         : 2305
+# Author          : I.Dillmann et al.
+# Reference       : Phys.Rev.C 81 (2010) 015801
+# DOI             : 10.1103/PhysRevC.81.015801
+# Quantity        : 120Te(n,g)121Te cross section
+# REACTION        : 52-TE-120(N,G)52-TE-121,,SIG,,SPA
+# File ID         : n-Te120-g-sig-excfun-spa-prodTe121_Dillmann_2010_22939.030
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   5.7160E-01
+# ymax            :   5.7160E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  5.0000E+02  5.7160E-01  2.6400E-02
+#---------------------------------------------------

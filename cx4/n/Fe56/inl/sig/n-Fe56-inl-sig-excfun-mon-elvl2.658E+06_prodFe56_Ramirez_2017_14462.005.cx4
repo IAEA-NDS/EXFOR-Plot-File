@@ -1,0 +1,25 @@
+# EXFOR #         : 14462.005  
+# EXFOR Ver.      : 20220727
+# TRANS #         : 1504
+# Author          : A.P.D.Ramirez et al.
+# Reference       : Phys.Rev.C 95 (2017) 064605
+# DOI             : 10.1103/PhysRevC.95.064605
+# Quantity        : 56Fe(n,inl)56Fe partial cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG
+# File ID         : n-Fe56-inl-sig-excfun-mon-elvl2.658E+06_prodFe56_Ramirez_2017_14462.005
+#
+# Elvl (eV)       :   2.6580E+06
+#
+# npts            : 2           
+# xmin            :   4.0000E+06
+# xmax            :   4.5000E+06
+# ymin            :   1.2500E-01
+# ymax            :   1.7500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+06  0.0000E+00  1.7500E-01  8.0000E-01
+  4.5000E+06  0.0000E+00  1.2500E-01  8.0000E-01
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 12977.018  
+# EXFOR Ver.      : 20120426
+# TRANS #         : 1381
+# Author          : L.R.Greenwood
+# Reference       : Report (proceedings) ASTM-STP-956 page 743, 1987
+# DOI             : N/A
+# Quantity        : 89Y(n,a)86Rb cross section
+# REACTION        : 39-Y-89(N,A)37-RB-86,,SIG
+# File ID         : n-Y89-a-sig-excfun-mon-prodRb86_Greenwood_1987_12977.018
+#
+# npts            : 2           
+# xmin            :   1.4500E+07
+# xmax            :   1.4900E+07
+# ymin            :   5.5000E-03
+# ymax            :   5.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  2.0000E+05  5.5000E-03  7.1500E-04
+  1.4900E+07  2.0000E+05  5.8000E-03  7.5400E-04
+#---------------------------------------------------

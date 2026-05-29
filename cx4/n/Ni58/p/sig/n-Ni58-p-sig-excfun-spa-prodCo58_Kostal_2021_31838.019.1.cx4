@@ -1,0 +1,22 @@
+# EXFOR #         : 31838.019.1
+# EXFOR Ver.      : 20211110
+# TRANS #         : 3206
+# Author          : M.Kostal et al.
+# Reference       : Ann.Nucl.Energy 158 (2021) 108268
+# DOI             : 10.1016/j.anucene.2021.108268
+# Quantity        : 58Ni(n,p)58Co cross section
+# REACTION        : 28-NI-58(N,P)27-CO-58,,SIG,,SPA
+# File ID         : n-Ni58-p-sig-excfun-spa-prodCo58_Kostal_2021_31838.019.1
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.8250E-05
+# ymax            :   1.8250E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.8250E-05  5.4750E-07
+#---------------------------------------------------

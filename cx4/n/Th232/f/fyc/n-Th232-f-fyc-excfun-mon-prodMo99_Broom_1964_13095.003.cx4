@@ -1,0 +1,22 @@
+# EXFOR #         : 13095.003  
+# EXFOR Ver.      : 20201027
+# TRANS #         : 1475
+# Author          : K.M.Broom
+# Reference       : Phys.Rev. 133 (1964) B874
+# DOI             : 10.1103/PhysRev.133.B874
+# Quantity        : 232Th(n,f)99Mo cumulative fission product yield
+# REACTION        : 90-TH-232(N,F)42-MO-99,CUM,FY
+# File ID         : n-Th232-f-fyc-excfun-mon-prodMo99_Broom_1964_13095.003
+#
+# npts            : 1           
+# xmin            :   2.9500E+06
+# xmax            :   2.9500E+06
+# ymin            :   3.1000E-02
+# ymax            :   3.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.9500E+06  8.0000E+04  3.1000E-02  1.1000E-03
+#---------------------------------------------------

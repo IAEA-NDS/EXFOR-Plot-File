@@ -1,0 +1,22 @@
+# EXFOR #         : 31871.017  
+# EXFOR Ver.      : 20260212
+# TRANS #         : 3222
+# Author          : M.Kostal et al.
+# Reference       : Ann.Nucl.Energy 206 (2024) 110616
+# DOI             : 10.1016/j.anucene.2024.110616
+# Quantity        : 24Mg(n,p)24Na cross section
+# REACTION        : 12-MG-24(N,P)11-NA-24,,SIG,,SPA
+# File ID         : n-Mg24-p-sig-excfun-spa-prodNa24_Kostal_2024_31871.017
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   3.9290E-04
+# ymax            :   3.9290E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  3.9290E-04  1.8073E-05
+#---------------------------------------------------

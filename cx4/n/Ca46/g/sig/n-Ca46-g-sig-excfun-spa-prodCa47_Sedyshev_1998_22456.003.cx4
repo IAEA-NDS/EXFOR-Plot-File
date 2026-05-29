@@ -1,0 +1,23 @@
+# EXFOR #         : 22456.003  
+# EXFOR Ver.      : 20121223
+# TRANS #         : 2234
+# Author          : P.V.Sedyshev et al.
+# Reference       : Report (proceedings) ISINN-6 page 205, 1998
+# DOI             : N/A
+# Quantity        : 46Ca(n,g)47Ca cross section
+# REACTION        : 20-CA-46(N,G)20-CA-47,,SIG,,SPA
+# File ID         : n-Ca46-g-sig-excfun-spa-prodCa47_Sedyshev_1998_22456.003
+#
+# npts            : 2           
+# xmin            :   1.4900E+05
+# xmax            :   2.1400E+05
+# ymin            :   7.0600E-04
+# ymax            :   7.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4900E+05  2.0000E+04  7.0600E-04  9.3000E-05
+  2.1400E+05  2.3000E+04  7.7000E-04  1.0000E-04
+#---------------------------------------------------

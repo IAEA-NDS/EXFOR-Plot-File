@@ -1,0 +1,22 @@
+# EXFOR #         : 31451.002  
+# EXFOR Ver.      : 20100302
+# TRANS #         : 3144
+# Author          : Lu Han-lin et al.
+# Reference       : Chin.J.Nucl.Phys. 16 (1994) 267
+# DOI             : N/A
+# Quantity        : 137Ba(n,p)137Cs cross section
+# REACTION        : 56-BA-137(N,P)55-CS-137,,SIG
+# File ID         : n-Ba137-p-sig-excfun-mon-prodCs137_Lu%Han+lin_1994_31451.002
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   8.8000E-03
+# ymax            :   8.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  4.0000E+05  8.8000E-03  1.2000E-03
+#---------------------------------------------------

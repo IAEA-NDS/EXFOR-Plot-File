@@ -1,0 +1,29 @@
+# EXFOR #         : 30611.002  
+# EXFOR Ver.      : 20220218
+# TRANS #         : 3207
+# Author          : A.M.Ghose et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 886
+# DOI             : N/A
+# Quantity        : natS(n,el)natS angular differential cross section
+# REACTION        : 16-S-0(N,EL)16-S-0,,DA
+# File ID         : n-S-el-adxl-angdisl-mon-einc1.480E+07_prodS_Ghose_1975_30611.002
+#
+# Einc (eV)       :   1.4800E+07
+#
+# npts            : 6           
+# xmin            :   30.0000000
+# xmax            :  120.0000000
+# ymin            :   5.7000E-03
+# ymax            :   7.8200E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  7.8200E-02  2.7000E-03
+  40.0000000   0.0000000  5.7000E-03  4.0000E-04
+  60.0000000   0.0000000  4.7500E-02  1.9000E-03
+  70.0000000   0.0000000  3.1200E-02  1.6000E-03
+ 100.0000000   0.0000000  1.5500E-02  8.0000E-04
+ 120.0000000   0.0000000  8.1000E-03  6.0000E-04
+#---------------------------------------------------

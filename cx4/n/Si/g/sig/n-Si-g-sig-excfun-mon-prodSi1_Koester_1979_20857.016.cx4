@@ -1,0 +1,23 @@
+# EXFOR #         : 20857.016  
+# EXFOR Ver.      : 19840227
+# TRANS #         : 0000
+# Author          : L.Koester et al.
+# Reference       : Z.Phys.A 289 No.4 (1979) 399
+# DOI             : 10.1007/BF01409392
+# Quantity        : natSi(n,g) cross section
+# REACTION        : 14-SI-0(N,G),,SIG
+# File ID         : n-Si-g-sig-excfun-mon-prodSi1_Koester_1979_20857.016
+#
+# npts            : 2           
+# xmin            :   5.1000E-04
+# xmax            :   2.5300E-02
+# ymin            :   1.7200E-01
+# ymax            :   1.2200E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.1000E-04  0.0000E+00  1.2200E+00  4.0000E-02
+  2.5300E-02  0.0000E+00  1.7200E-01  6.0000E-03
+#---------------------------------------------------

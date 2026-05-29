@@ -1,0 +1,23 @@
+# EXFOR #         : 13158.009  
+# EXFOR Ver.      : 19890711
+# TRANS #         : 0000
+# Author          : P.P.Guss et al.
+# Reference       : Phys.Rev.C 39 (1989) 405
+# DOI             : 10.1103/PhysRevC.39.405
+# Quantity        : 116Sn(n,el)116Sn cross section
+# REACTION        : 50-SN-116(N,EL)50-SN-116,,SIG
+# File ID         : n-Sn116-el-sig-excfun-mon-prodSn116_Guss_1989_13158.009
+#
+# npts            : 2           
+# xmin            :   9.9450E+06
+# xmax            :   1.3925E+07
+# ymin            :   2.2390E+00
+# ymax            :   2.3250E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9450E+06  7.1000E+04  2.2390E+00  2.1200E-01
+  1.3925E+07  4.7000E+04  2.3250E+00  7.1000E-02
+#---------------------------------------------------

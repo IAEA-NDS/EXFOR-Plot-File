@@ -1,0 +1,24 @@
+# EXFOR #         : 22335.017.1
+# EXFOR Ver.      : 20110131
+# TRANS #         : 2226
+# Author          : T.S.Soewarsono et al.
+# Reference       : Report (proceedings) JAERI-M-92-027 page 354, 1992
+# DOI             : N/A
+# Quantity        : 197Au(n,4n)194Au cross section
+# REACTION        : 79-AU-197(N,4N)79-AU-194,,SIG
+# File ID         : n-Au197-4n-sig-excfun-mon-prodAu194_Soewarsono_1992_22335.017.1
+#
+# npts            : 3           
+# xmin            :   2.7580E+07
+# xmax            :   3.8260E+07
+# ymin            :   2.4500E-01
+# ymax            :   1.3940E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7580E+07  8.5000E+05  2.4500E-01  3.5000E-02
+  3.2800E+07  6.7500E+05  1.3940E+00  1.5400E-01
+  3.8260E+07  6.5000E+05  1.1620E+00  6.3000E-02
+#---------------------------------------------------

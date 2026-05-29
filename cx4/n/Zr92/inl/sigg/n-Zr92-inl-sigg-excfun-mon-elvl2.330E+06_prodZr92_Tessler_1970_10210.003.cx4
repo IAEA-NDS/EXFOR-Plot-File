@@ -1,0 +1,25 @@
+# EXFOR #         : 10210.003  
+# EXFOR Ver.      : 19821012
+# TRANS #         : 0000
+# Author          : G.Tessler et al.
+# Reference       : Phys.Rev.C 2 (1970) 2390
+# DOI             : 10.1103/PhysRevC.2.2390
+# Quantity        : 92Zr(n,inl)92Zr partial gamma production cross section
+# REACTION        : 40-ZR-92(N,INL)40-ZR-92,PAR,SIG,G
+# File ID         : n-Zr92-inl-sigg-excfun-mon-elvl2.330E+06_prodZr92_Tessler_1970_10210.003
+#
+# Elvl (eV)       :   2.3300E+06
+#
+# npts            : 2           
+# xmin            :   2.5440E+06
+# xmax            :   2.6840E+06
+# ymin            :   3.9000E-02
+# ymax            :   9.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5440E+06  0.0000E+00  3.9000E-02  1.8000E-02
+  2.6840E+06  0.0000E+00  9.7000E-02  2.6000E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 22391.002  
+# EXFOR Ver.      : 19980720
+# TRANS #         : 0000
+# Author          : H.Sakane et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 619
+# DOI             : N/A
+# Quantity        : 81Br(n,p)81mSe cross section
+# REACTION        : 35-BR-81(N,P)34-SE-81-M,,SIG
+# File ID         : n-Br81-p-sig-excfun-mon-prodSe81m_Sakane_1997_22391.002
+#
+# npts            : 4           
+# xmin            :   1.3400E+07
+# xmax            :   1.4870E+07
+# ymin            :   8.6000E-03
+# ymax            :   1.1600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3400E+07  5.0000E+04  8.6000E-03  9.0000E-04
+  1.3650E+07  5.0000E+04  1.1100E-02  2.0000E-03
+  1.4580E+07  5.0000E+04  1.1600E-02  1.4000E-03
+  1.4870E+07  5.0000E+04  1.1600E-02  1.4000E-03
+#---------------------------------------------------

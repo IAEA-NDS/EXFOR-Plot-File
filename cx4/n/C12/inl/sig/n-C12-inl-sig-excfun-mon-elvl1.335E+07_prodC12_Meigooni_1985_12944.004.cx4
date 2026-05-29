@@ -1,0 +1,25 @@
+# EXFOR #         : 12944.004  
+# EXFOR Ver.      : 20160315
+# TRANS #         : 1416
+# Author          : A.S.Meigooni et al.
+# Reference       : Nucl.Phys.A 445 (1985) 304
+# DOI             : 10.1016/0375-9474(85)90072-7
+# Quantity        : 12C(n,inl)12C partial cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,SIG
+# File ID         : n-C12-inl-sig-excfun-mon-elvl1.335E+07_prodC12_Meigooni_1985_12944.004
+#
+# Elvl (eV)       :   1.3350E+07
+#
+# npts            : 2           
+# xmin            :   2.2000E+07
+# xmax            :   2.4000E+07
+# ymin            :   2.0900E-03
+# ymax            :   5.0100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2000E+07  0.0000E+00  5.0100E-03  4.4000E-04
+  2.4000E+07  0.0000E+00  2.0900E-03  5.8000E-04
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : 30767.003.1
+# EXFOR Ver.      : 20010402
+# TRANS #         : 0000
+# Author          : E.Dobreva et al.
+# Reference       : J.Rad.Nucl.Chem. 81 (1984) 29
+# DOI             : 10.1007/BF02132918
+# Quantity        : 238U(n,f) cumulative fission product yield
+# REACTION        : 92-U-238(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U238-f-fyc-nucdis-spa-einc1.000E+06_Dobreva_1984_30767.003.1
+#
+# Einc (eV)       :   1.0000E+06
+#
+# npts            : 5           
+# xmin            : 51131.9     
+# xmax            : 53135.9     
+# ymin            :   2.8700E-02
+# ymax            :   6.8200E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     51131.9  2.8700E-02  1.5000E-03
+     52132.9  4.9200E-02  1.6000E-03
+     51133.9  3.9900E-02  2.9000E-03
+     52134.9  6.8200E-02  2.2000E-03
+     53135.9  6.2300E-02  2.1000E-03
+#---------------------------------------------------

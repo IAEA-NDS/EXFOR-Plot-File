@@ -1,0 +1,22 @@
+# EXFOR #         : 31871.005  
+# EXFOR Ver.      : 20260212
+# TRANS #         : 3222
+# Author          : M.Kostal et al.
+# Reference       : Ann.Nucl.Energy 206 (2024) 110616
+# DOI             : 10.1016/j.anucene.2024.110616
+# Quantity        : 115In(n,inl)115mIn cross section
+# REACTION        : 49-IN-115(N,INL)49-IN-115-M,,SIG,,SPA
+# File ID         : n-In115-inl-sig-excfun-spa-prodIn115m_Kostal_2024_31871.005
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   5.8240E-02
+# ymax            :   5.8240E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  5.8240E-02  1.5725E-03
+#---------------------------------------------------

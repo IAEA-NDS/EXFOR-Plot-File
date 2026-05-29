@@ -1,0 +1,31 @@
+# EXFOR #         : 31645.002  
+# EXFOR Ver.      : 20080806
+# TRANS #         : 3129
+# Author          : Chung-Chaur Perng et al.
+# Reference       : Chin.J.Phys. 14 No.1 (1976) 62
+# DOI             : N/A
+# Quantity        : 32S(n,a)29Si partial angular differential cross section
+# REACTION        : 16-S-32(N,A)14-SI-29,PAR,DA
+# File ID         : n-S32-a-adxc-angdisc-mon-einc1.410E+07_elvl9.000E+06_prodSi29_Chung+Chaur%Perng_1976_31645.002
+#
+# Einc (eV)       :   1.4100E+07
+# Elvl (eV)       :   9.0000E+06
+# dElvl (eV)      :   4.0000E+06
+#
+# npts            : 6           
+# xmin            :   16.0770000
+# xmax            :  106.5400000
+# ymin            :   9.8760E-03
+# ymax            :   1.9268E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.0770000   0.0000000  1.9268E-02  4.9138E-04
+  50.2040000   0.0000000  1.1997E-02  0.0000E+00
+  65.7510000   0.0000000  9.8760E-03  0.0000E+00
+  79.5640000   0.0000000  9.8832E-03  0.0000E+00
+  93.1610000   0.0000000  9.8903E-03  0.0000E+00
+ 106.5400000   0.0000000  1.0061E-02  0.0000E+00
+#---------------------------------------------------

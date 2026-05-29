@@ -1,0 +1,22 @@
+# EXFOR #         : 23256.002  
+# EXFOR Ver.      : 20150610
+# TRANS #         : 2244
+# Author          : G.Belier et al.
+# Reference       : Phys.Rev.C 91 (2015) 044605
+# DOI             : 10.1103/PhysRevC.91.044605
+# Quantity        : 235U(n,inl)235mU cross section
+# REACTION        : 92-U-235(N,INL)92-U-235-M,,SIG,,SPA
+# File ID         : n-U235-inl-sig-excfun-spa-prodU235m_Belier_2015_23256.002
+#
+# npts            : 1           
+# xmin            :   1.4400E+06
+# xmax            :   1.4400E+06
+# ymin            :   1.0000E+00
+# ymax            :   1.0000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4400E+06  0.0000E+00  1.0000E+00  1.3000E-01
+#---------------------------------------------------

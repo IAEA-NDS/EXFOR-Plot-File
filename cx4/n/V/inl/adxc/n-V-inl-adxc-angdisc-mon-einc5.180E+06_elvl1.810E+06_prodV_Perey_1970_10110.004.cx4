@@ -1,0 +1,26 @@
+# EXFOR #         : 10110.004  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : F.G.Perey et al.
+# Reference       : Report ORNL-4551, 1970
+# DOI             : N/A
+# Quantity        : natV(n,inl)51V partial angular differential cross section
+# REACTION        : 23-V-0(N,INL)23-V-51,PAR,DA
+# File ID         : n-V-inl-adxc-angdisc-mon-einc5.180E+06_elvl1.810E+06_prodV_Perey_1970_10110.004
+#
+# Einc (eV)       :   5.1800E+06
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   1.8100E+06
+#
+# npts            : 1           
+# xmin            :   91.4100000
+# xmax            :   91.4100000
+# ymin            :   4.8700E-03
+# ymax            :   4.8700E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  91.4100000   0.0000000  4.8700E-03  0.0000E+00
+#---------------------------------------------------

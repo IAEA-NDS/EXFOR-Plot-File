@@ -1,0 +1,28 @@
+# EXFOR #         : 22733.016  
+# EXFOR Ver.      : 20060209
+# TRANS #         : 2176
+# Author          : C.Tsabaris et al.
+# Reference       : Nucl.Sci.Eng. 128 (1998) 47
+# DOI             : 10.13182/NSE128-47
+# Quantity        : 58Ni(n,a+x) double differential cross section
+# REACTION        : 28-NI-58(N,X)2-HE-4,,DA/DE
+# File ID         : n-Ni58-xa-ddxc-angdisl-mon-einc9.000E+06_eoutl6.800E+06_Tsabaris_1998_22733.016
+#
+# Einc (eV)       :   9.0000E+06
+# Eout,lab (eV)   :   6.8000E+06
+#
+# npts            : 4           
+# xmin            :   14.0000000
+# xmax            :  141.0000000
+# ymin            :   1.0000E-09
+# ymax            :   1.2700E-09
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,cm      dddx,cm     
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  14.0000000   0.0000000  1.2700E-09  0.0000E+00
+  79.0000000   0.0000000  1.0600E-09  0.0000E+00
+ 109.0000000   0.0000000  1.2600E-09  0.0000E+00
+ 141.0000000   0.0000000  1.0000E-09  0.0000E+00
+#---------------------------------------------------

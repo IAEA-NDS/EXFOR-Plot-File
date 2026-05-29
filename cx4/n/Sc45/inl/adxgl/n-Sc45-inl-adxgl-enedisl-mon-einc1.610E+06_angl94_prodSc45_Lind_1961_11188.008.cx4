@@ -1,0 +1,30 @@
+# EXFOR #         : 11188.008  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : D.A.Lind et al.
+# Reference       : Ann.Phys.(N.Y.) 12 (1961) 485
+# DOI             : 10.1016/0003-4916(61)90075-6
+# Quantity        : 45Sc(n,inl)45Sc partial gamma angular differential cross section
+# REACTION        : 21-SC-45(N,INL)21-SC-45,PAR,DA,G,4PI
+# File ID         : n-Sc45-inl-adxgl-enedisl-mon-einc1.610E+06_angl94_prodSc45_Lind_1961_11188.008
+#
+# Einc (eV)       :   1.6100E+06
+# theta,lab (deg) :   94.0000000
+#
+# npts            : 6           
+# xmin            :   3.7300E+05
+# xmax            :   1.4000E+06
+# ymin            :   5.2521E-03
+# ymax            :   1.3926E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.7300E+05  0.0000E+00  1.0823E-02  4.3290E-04
+  5.3400E+05  0.0000E+00  1.0265E-02  4.1062E-04
+  7.1500E+05  0.0000E+00  1.3926E-02  5.5704E-04
+  9.6300E+05  0.0000E+00  5.2521E-03  2.1008E-04
+  1.2200E+06  0.0000E+00  9.7880E-03  3.9152E-04
+  1.4000E+06  0.0000E+00  6.0479E-03  2.4192E-04
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : 11495.027  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : D.B.Thomson
+# Reference       : Phys.Rev. 129 (1963) 1649
+# DOI             : 10.1103/PhysRev.129.1649
+# Quantity        : 93Nb(n,inl)93Nb partial angular differential cross section
+# REACTION        : 41-NB-93(N,INL)41-NB-93,PAR,DA
+# File ID         : n-Nb93-inl-adxl-excfun-mon-angl90_eoutl4.000E+06_prodNb93_Thomson_1963_11495.027
+#
+# theta,lab (deg) :   90.0000000
+# Eout,lab (eV)   :   4.0000E+06
+# dEout,lab (eV)  :   1.0000E+06
+#
+# npts            : 2           
+# xmin            :   5.0000E+06
+# xmax            :   6.0000E+06
+# ymin            :   1.4500E-02
+# ymax            :   2.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.0000E+06  0.0000E+00  1.4500E-02  4.0000E-03
+  6.0000E+06  0.0000E+00  2.1000E-02  5.0000E-03
+#---------------------------------------------------

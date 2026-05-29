@@ -1,0 +1,22 @@
+# EXFOR #         : 30257.003  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : K.Wagner
+# Reference       : Kernenergie 5 (1962) 790
+# DOI             : N/A
+# Quantity        : 23Na(n,2n)22Na cross section
+# REACTION        : 11-NA-23(N,2N)11-NA-22,,SIG,,FIS
+# File ID         : n-Na23-2n-sig-excfun-fis-prodNa22_Wagner_1962_30257.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.2000E-06
+# ymax            :   1.2000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.2000E-06  0.0000E+00
+#---------------------------------------------------

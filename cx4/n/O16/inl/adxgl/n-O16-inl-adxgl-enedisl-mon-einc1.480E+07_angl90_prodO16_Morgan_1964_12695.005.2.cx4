@@ -1,0 +1,30 @@
+# EXFOR #         : 12695.005.2
+# EXFOR Ver.      : 20140422
+# TRANS #         : 1401
+# Author          : I.L.Morgan et al.
+# Reference       : Progress report TID-22012 page 158, 1964
+# DOI             : N/A
+# Quantity        : 16O(n,inl)16O partial gamma angular differential cross section
+# REACTION        : 8-O-16(N,INL)8-O-16,PAR,DA,G
+# File ID         : n-O16-inl-adxgl-enedisl-mon-einc1.480E+07_angl90_prodO16_Morgan_1964_12695.005.2
+#
+# Einc (eV)       :   1.4800E+07
+# dEinc (eV)      :   3.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 5           
+# xmin            :   2.7400E+06
+# xmax            :   8.8800E+06
+# ymin            :   3.3000E-04
+# ymax            :   9.2100E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.7400E+06  0.0000E+00  2.6100E-03  5.2200E-04
+  6.1400E+06  0.0000E+00  9.2100E-03  1.8420E-03
+  6.9200E+06  0.0000E+00  2.6100E-03  5.2200E-04
+  7.1200E+06  0.0000E+00  1.9700E-03  3.9400E-04
+  8.8800E+06  0.0000E+00  3.3000E-04  6.6000E-05
+#---------------------------------------------------

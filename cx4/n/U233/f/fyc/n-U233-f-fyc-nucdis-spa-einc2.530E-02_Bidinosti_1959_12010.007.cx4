@@ -1,0 +1,29 @@
+# EXFOR #         : 12010.007  
+# EXFOR Ver.      : 20220520
+# TRANS #         : 1503
+# Author          : D.Bidinosti et al.
+# Reference       : Progress in Nuclear Energy Ser.1 Phys. & Mathematics 3 page 261 (1959)
+# DOI             : N/A
+# Quantity        : 233U(n,f) cumulative fission product yield
+# REACTION        : 92-U-233(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U233-f-fyc-nucdis-spa-einc2.530E-02_Bidinosti_1959_12010.007
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 6           
+# xmin            : 54135.9     
+# xmax            : 62151.9     
+# ymin            :   3.0000E-03
+# ymax            :   6.4500E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     54135.9  5.6000E-02  1.6800E-03
+     55133.9  6.0000E-02  1.8000E-03
+     60143.9  6.4500E-02  1.9350E-03
+     61147.9  2.1000E-02  6.3000E-04
+     62149.9  8.0000E-03  2.4000E-04
+     62151.9  3.0000E-03  9.0000E-05
+#---------------------------------------------------

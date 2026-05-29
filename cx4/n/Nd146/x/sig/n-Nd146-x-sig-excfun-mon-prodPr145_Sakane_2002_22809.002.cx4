@@ -1,0 +1,23 @@
+# EXFOR #         : 22809.002  
+# EXFOR Ver.      : 20040116
+# TRANS #         : 0000
+# Author          : H.Sakane et al.
+# Reference       : Ann.Nucl.Energy 29 No.10 (2002) 1209
+# DOI             : 10.1016/S0306-4549(01)00091-3
+# Quantity        : 146Nd(n,x)145Pr independent production cross section
+# REACTION        : 60-ND-146(N,X)59-PR-145,,SIG
+# File ID         : n-Nd146-x-sig-excfun-mon-prodPr145_Sakane_2002_22809.002
+#
+# npts            : 2           
+# xmin            :   1.4350E+07
+# xmax            :   1.4870E+07
+# ymin            :   3.7000E-04
+# ymax            :   8.8000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4870E+07  5.0000E+04  8.8000E-04  2.0240E-04
+  1.4350E+07  5.0000E+04  3.7000E-04  1.4430E-04
+#---------------------------------------------------

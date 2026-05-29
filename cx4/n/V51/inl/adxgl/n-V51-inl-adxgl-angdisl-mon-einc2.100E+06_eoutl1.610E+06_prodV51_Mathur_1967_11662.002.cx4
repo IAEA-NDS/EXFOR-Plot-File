@@ -1,0 +1,25 @@
+# EXFOR #         : 11662.002  
+# EXFOR Ver.      : 20140423
+# TRANS #         : 1401
+# Author          : S.C.Mathur et al.
+# Reference       : Bull.Am.Phys.Soc. 12 (1967) 921(Y4)
+# DOI             : N/A
+# Quantity        : 51V(n,inl)51V partial gamma angular differential cross section
+# REACTION        : 23-V-51(N,INL)23-V-51,PAR,DA,G
+# File ID         : n-V51-inl-adxgl-angdisl-mon-einc2.100E+06_eoutl1.610E+06_prodV51_Mathur_1967_11662.002
+#
+# Einc (eV)       :   2.1000E+06
+# Eout,lab (eV)   :   1.6100E+06
+#
+# npts            : 1           
+# xmin            :   54.9983500
+# xmax            :   54.9983500
+# ymin            :   1.1470E-02
+# ymax            :   1.1470E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  54.9983500   0.0000000  1.1470E-02  2.0000E-02
+#---------------------------------------------------

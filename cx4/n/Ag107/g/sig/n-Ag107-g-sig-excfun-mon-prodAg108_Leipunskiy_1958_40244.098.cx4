@@ -1,0 +1,23 @@
+# EXFOR #         : 40244.098  
+# EXFOR Ver.      : 20191120
+# TRANS #         : 4185
+# Author          : A.I.Leipunskiy et al.
+# Reference       : Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 50
+# DOI             : N/A
+# Quantity        : 107Ag(n,g)108Ag cross section
+# REACTION        : 47-AG-107(N,G)47-AG-108,,SIG
+# File ID         : n-Ag107-g-sig-excfun-mon-prodAg108_Leipunskiy_1958_40244.098
+#
+# npts            : 2           
+# xmin            :   2.7000E+06
+# xmax            :   4.0000E+06
+# ymin            :   2.9400E-02
+# ymax            :   5.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7000E+06  0.0000E+00  5.6000E-02  1.0000E-03
+  4.0000E+06  0.0000E+00  2.9400E-02  9.0000E-04
+#---------------------------------------------------

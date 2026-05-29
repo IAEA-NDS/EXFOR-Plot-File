@@ -1,0 +1,23 @@
+# EXFOR #         : 11495.042  
+# EXFOR Ver.      : 20230912
+# TRANS #         : 1508
+# Author          : D.B.Thomson
+# Reference       : Phys.Rev. 129 (1963) 1649
+# DOI             : 10.1103/PhysRev.129.1649
+# Quantity        : natCe(n,inl)natCe cross section
+# REACTION        : 58-CE-0(N,INL)58-CE-0,,SIG
+# File ID         : n-Ce-inl-sig-excfun-mon-prodCe_Thomson_1963_11495.042
+#
+# npts            : 2           
+# xmin            :   5.0000E+06
+# xmax            :   7.0000E+06
+# ymin            :   2.2600E+00
+# ymax            :   2.5000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+06  0.0000E+00  2.5000E+00  2.7000E-01
+  7.0000E+06  1.0000E+05  2.2600E+00  2.1000E-01
+#---------------------------------------------------

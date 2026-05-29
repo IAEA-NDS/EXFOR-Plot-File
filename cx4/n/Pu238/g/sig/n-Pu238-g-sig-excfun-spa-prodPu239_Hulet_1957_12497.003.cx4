@@ -1,0 +1,22 @@
+# EXFOR #         : 12497.003  
+# EXFOR Ver.      : 20120814
+# TRANS #         : 1385
+# Author          : E.K.Hulet et al.
+# Reference       : Phys.Rev. 107 (1957) 1294
+# DOI             : 10.1103/PhysRev.107.1294
+# Quantity        : 238Pu(n,g)239Pu cross section
+# REACTION        : 94-PU-238(N,G)94-PU-239,,SIG,,SPA
+# File ID         : n-Pu238-g-sig-excfun-spa-prodPu239_Hulet_1957_12497.003
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   5.2000E+02
+# ymax            :   5.2000E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  5.2000E+02  4.0000E+01
+#---------------------------------------------------

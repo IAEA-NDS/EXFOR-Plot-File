@@ -1,0 +1,25 @@
+# EXFOR #         : 40278.002  
+# EXFOR Ver.      : 20091112
+# TRANS #         : 4148
+# Author          : Yu.G.Degtyarev et al.
+# Reference       : Izv.Ross.AN,Fiz. 35 No.11 (1971) 2341
+# DOI             : N/A
+# Quantity        : 27Al(n,inl)27Al partial cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,SIG
+# File ID         : n-Al27-inl-sig-lvldis-mon-einc1.400E+06_prodAl27_Degtyarev_1971_40278.002
+#
+# Einc (eV)       :   1.4000E+06
+#
+# npts            : 2           
+# xmin            :   8.4200E+05
+# xmax            :   1.0320E+06
+# ymin            :   9.0000E-02
+# ymax            :   1.0800E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.4200E+05  0.0000E+00  9.0000E-02  1.3000E-02
+  1.0320E+06  0.0000E+00  1.0800E-01  1.3000E-02
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 32825.004  
+# EXFOR Ver.      : 20230905
+# TRANS #         : 3210
+# Author          : Shen Ji-an et al.
+# Reference       : At.En.Sci.Technol. 6 (1964) 554
+# DOI             : N/A
+# Quantity        : natU(n,tot) cross section
+# REACTION        : 92-U-0(N,TOT),,SIG
+# File ID         : n-U-tot-sig-excfun-mon-Shen%Ji+an_1964_32825.004
+#
+# npts            : 2           
+# xmin            :   2.8000E+06
+# xmax            :   1.4700E+07
+# ymin            :   5.8600E+00
+# ymax            :   7.7100E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8000E+06  0.0000E+00  7.7100E+00  1.1000E-01
+  1.4700E+07  0.0000E+00  5.8600E+00  1.3000E-01
+#---------------------------------------------------

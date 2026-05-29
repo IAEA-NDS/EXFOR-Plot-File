@@ -1,0 +1,22 @@
+# EXFOR #         : 30730.003  
+# EXFOR Ver.      : 20090906
+# TRANS #         : 3140
+# Author          : J.H.Zaidi et al.
+# Reference       : Radiochim.Acta 38 (1985) 123
+# DOI             : 10.1524/ract.1985.38.3.123
+# Quantity        : 126Xe(n,p)126I cross section
+# REACTION        : 54-XE-126(N,P)53-I-126,,SIG,,FIS
+# File ID         : n-Xe126-p-sig-excfun-fis-prodI126_Zaidi_1985_30730.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.6300E-04
+# ymax            :   3.6300E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.6300E-04  2.0000E-04
+#---------------------------------------------------

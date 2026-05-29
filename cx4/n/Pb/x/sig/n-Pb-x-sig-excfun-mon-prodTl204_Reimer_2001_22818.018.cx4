@@ -1,0 +1,25 @@
+# EXFOR #         : 22818.018  
+# EXFOR Ver.      : 20131117
+# TRANS #         : 2238
+# Author          : P.Reimer et al.
+# Reference       : Thesis  (2001)
+# DOI             : N/A
+# Quantity        : natPb(n,x)204Tl independent production cross section
+# REACTION        : 82-PB-0(N,X)81-TL-204,,SIG
+# File ID         : n-Pb-x-sig-excfun-mon-prodTl204_Reimer_2001_22818.018
+#
+# npts            : 4           
+# xmin            :   1.8000E+07
+# xmax            :   2.0500E+07
+# ymin            :   4.5000E-03
+# ymax            :   1.3200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8000E+07  5.0000E+03  5.1000E-03  1.1000E-03
+  1.8700E+07  5.0000E+03  4.5000E-03  6.0000E-04
+  2.0000E+07  5.0000E+03  8.7000E-03  1.1000E-03
+  2.0500E+07  5.0000E+03  1.3200E-02  1.8000E-03
+#---------------------------------------------------

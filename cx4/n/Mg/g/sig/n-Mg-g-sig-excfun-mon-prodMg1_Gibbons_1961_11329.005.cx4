@@ -1,0 +1,23 @@
+# EXFOR #         : 11329.005  
+# EXFOR Ver.      : 20120416
+# TRANS #         : 1380
+# Author          : J.H.Gibbons et al.
+# Reference       : Phys.Rev. 122 (1961) 182
+# DOI             : 10.1103/PhysRev.122.182
+# Quantity        : natMg(n,g) cross section
+# REACTION        : 12-MG-0(N,G),,SIG
+# File ID         : n-Mg-g-sig-excfun-mon-prodMg1_Gibbons_1961_11329.005
+#
+# npts            : 2           
+# xmin            :   3.0000E+04
+# xmax            :   6.5000E+04
+# ymin            :   4.0000E-04
+# ymax            :   2.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  7.0000E+03  4.0000E-04  2.0000E-04
+  6.5000E+04  2.0000E+04  2.1000E-03  7.0000E-04
+#---------------------------------------------------

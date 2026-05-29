@@ -1,0 +1,23 @@
+# EXFOR #         : 22468.005  
+# EXFOR Ver.      : 20190102
+# TRANS #         : 2273
+# Author          : H.Sakane et al.
+# Reference       : Report (proceedings) INDC(JPN)-185 page 202, 2000
+# DOI             : N/A
+# Quantity        : 128Te(n,x)127Sb independent production cross section
+# REACTION        : 52-TE-128(N,X)51-SB-127,,SIG
+# File ID         : n-Te128-x-sig-excfun-mon-prodSb127_Sakane_2000_22468.005
+#
+# npts            : 2           
+# xmin            :   1.4350E+07
+# xmax            :   1.4870E+07
+# ymin            :   3.0000E-04
+# ymax            :   7.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4350E+07  0.0000E+00  3.0000E-04  9.0000E-05
+  1.4870E+07  0.0000E+00  7.0000E-04  4.4800E-04
+#---------------------------------------------------

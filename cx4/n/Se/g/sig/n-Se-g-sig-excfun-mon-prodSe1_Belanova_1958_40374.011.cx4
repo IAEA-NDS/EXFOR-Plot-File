@@ -1,0 +1,24 @@
+# EXFOR #         : 40374.011  
+# EXFOR Ver.      : 20100317
+# TRANS #         : 4149
+# Author          : T.S.Belanova
+# Reference       : Zh.Eksp.Teor.Fiz. 34 No.3 (1958) 574
+# DOI             : N/A
+# Quantity        : natSe(n,g) cross section
+# REACTION        : 34-SE-0(N,G),,SIG
+# File ID         : n-Se-g-sig-excfun-mon-prodSe1_Belanova_1958_40374.011
+#
+# npts            : 3           
+# xmin            :   2.5000E+04
+# xmax            :   8.3000E+05
+# ymin            :   5.8000E-02
+# ymax            :   2.1500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  4.0000E+03  2.1500E-01  1.1000E-02
+  2.2000E+05  2.0000E+04  8.3000E-02  1.3000E-02
+  8.3000E+05  4.0000E+04  5.8000E-02  1.6000E-02
+#---------------------------------------------------

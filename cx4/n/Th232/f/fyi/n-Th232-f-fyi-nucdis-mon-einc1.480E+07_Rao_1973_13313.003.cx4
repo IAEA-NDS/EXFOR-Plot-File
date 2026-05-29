@@ -1,0 +1,25 @@
+# EXFOR #         : 13313.003  
+# EXFOR Ver.      : 20210409
+# TRANS #         : 1482
+# Author          : S.A.Rao et al.
+# Reference       : J.Inorg.Nucl.Chem. 35 (1973) 1443
+# DOI             : 10.1016/0022-1902(73)80230-1
+# Quantity        : 232Th(n,f) independent fission product yield
+# REACTION        : 90-TH-232(N,F)ELEM/MASS,IND,FY
+# File ID         : n-Th232-f-fyi-nucdis-mon-einc1.480E+07_Rao_1973_13313.003
+#
+# Einc (eV)       :   1.4800E+07
+#
+# npts            : 2           
+# xmin            : 53133.9     
+# xmax            : 53134.9     
+# ymin            :   4.4000E-03
+# ymax            :   6.4000E-03
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     53133.9  4.4000E-03  1.0000E-03
+     53134.9  6.4000E-03  1.5000E-03
+#---------------------------------------------------

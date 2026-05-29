@@ -1,0 +1,28 @@
+# EXFOR #         : 22405.011  
+# EXFOR Ver.      : 20220102
+# TRANS #         : 2307
+# Author          : A.Meister et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 586
+# DOI             : N/A
+# Quantity        : 108Pd(n,inl)108Pd partial gamma production cross section
+# REACTION        : 46-PD-108(N,INL)46-PD-108,PAR,SIG,G,AV
+# File ID         : n-Pd108-inl-sigg-excfun-mon-eoutl4.970E+05_prodPd108_Meister_1997_22405.011
+#
+# Eout,lab (eV)   :   4.9700E+05
+#
+# npts            : 5           
+# xmin            :   9.2500E+05
+# xmax            :   1.2500E+06
+# ymin            :   0.0000E+00
+# ymax            :   2.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.2500E+05  2.5000E+04  0.0000E+00  1.0000E-02
+  9.7500E+05  2.5000E+04  5.0000E-02  1.0000E-02
+  1.0500E+06  5.0000E+04  1.4000E-01  2.0000E-02
+  1.1500E+06  5.0000E+04  2.1000E-01  3.0000E-02
+  1.2500E+06  5.0000E+04  2.4000E-01  3.0000E-02
+#---------------------------------------------------

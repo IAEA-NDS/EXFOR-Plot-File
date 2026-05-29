@@ -1,0 +1,22 @@
+# EXFOR #         : 11447.110  
+# EXFOR Ver.      : 20210510
+# TRANS #         : 1486
+# Author          : L.Seren et al.
+# Reference       : Phys.Rev. 72 (1947) 888
+# DOI             : 10.1103/PhysRev.72.888
+# Quantity        : 176Lu(n,g)177gLu cross section
+# REACTION        : 71-LU-176(N,G)71-LU-177-G,,SIG,,MXW
+# File ID         : n-Lu176-g-sig-excfun-mxw-prodLu177g_Seren_1947_11447.110
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.6400E+03
+# ymax            :   3.6400E+03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.6400E+03  7.2800E+02
+#---------------------------------------------------

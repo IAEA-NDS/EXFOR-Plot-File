@@ -1,0 +1,24 @@
+# EXFOR #         : 20004.059.1
+# EXFOR Ver.      : 20181026
+# TRANS #         : 2273
+# Author          : D.L.Allan
+# Reference       : Nucl.Phys. 24 (1961) 274
+# DOI             : 10.1016/0029-5582(61)90380-7
+# Quantity        : 54Fe(n,p)54Mn angular differential cross section
+# REACTION        : 26-FE-54(N,P)25-MN-54,,DA,,4PI
+# File ID         : n-Fe54-p-adxl-angdisl-mon-einc1.400E+07_prodMn54_Allan_1961_20004.059.1
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 1           
+# xmin            :  120.0000000
+# xmax            :  120.0000000
+# ymin            :   3.0399E-02
+# ymax            :   3.0399E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 120.0000000   0.0000000  3.0399E-02  1.0345E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 11450.003  
+# EXFOR Ver.      : 20021212
+# TRANS #         : 0000
+# Author          : D.J.Hughes et al.
+# Reference       : Phys.Rev. 75 (1949) 1781
+# DOI             : 10.1103/PhysRev.75.1781
+# Quantity        : 26Mg(n,g)27Mg cross section
+# REACTION        : 12-MG-26(N,G)12-MG-27,,SIG,,FIS
+# File ID         : n-Mg26-g-sig-excfun-fis-prodMg27_Hughes_1949_11450.003
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   6.0000E-04
+# ymax            :   6.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  6.0000E-04  0.0000E+00
+#---------------------------------------------------

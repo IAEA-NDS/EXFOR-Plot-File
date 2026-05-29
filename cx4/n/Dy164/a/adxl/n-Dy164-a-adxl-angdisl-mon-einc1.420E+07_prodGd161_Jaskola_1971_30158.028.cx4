@@ -1,0 +1,24 @@
+# EXFOR #         : 30158.028  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : M.Jaskola et al.
+# Reference       : Acta Phys.Pol.B 2 (1971) 521
+# DOI             : N/A
+# Quantity        : 164Dy(n,a)161Gd angular differential cross section
+# REACTION        : 66-DY-164(N,A)64-GD-161,,DA
+# File ID         : n-Dy164-a-adxl-angdisl-mon-einc1.420E+07_prodGd161_Jaskola_1971_30158.028
+#
+# Einc (eV)       :   1.4200E+07
+#
+# npts            : 1           
+# xmin            :   35.0000000
+# xmax            :   35.0000000
+# ymin            :   1.3000E-04
+# ymax            :   1.3000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  35.0000000  25.0000000  1.3000E-04  7.0000E-05
+#---------------------------------------------------

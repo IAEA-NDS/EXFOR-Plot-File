@@ -1,0 +1,26 @@
+# EXFOR #         : 21385.004  
+# EXFOR Ver.      : 20170805
+# TRANS #         : 2263
+# Author          : E.A.Eliot et al.
+# Reference       : Phys.Rev. 94 (1954) 144
+# DOI             : 10.1103/PhysRev.94.144
+# Quantity        : natIn(n,inl)natIn partial cross section
+# REACTION        : 49-IN-0(N,INL)49-IN-0,PAR,SIG
+# File ID         : n-In-inl-sig-lvldis-mon-einc2.500E+06_prodIn_Eliot_1954_21385.004
+#
+# Einc (eV)       :   2.5000E+06
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 2           
+# xmin            :   6.1000E+05
+# xmax            :   9.2000E+05
+# ymin            :   2.0000E-01
+# ymax            :   4.0000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.1000E+05  6.0000E+04  2.0000E-01  1.0000E-01
+  9.2000E+05  4.0000E+04  4.0000E-01  1.0000E-01
+#---------------------------------------------------

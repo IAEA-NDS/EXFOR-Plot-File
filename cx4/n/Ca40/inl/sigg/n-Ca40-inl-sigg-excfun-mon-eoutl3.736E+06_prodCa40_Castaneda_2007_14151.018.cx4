@@ -1,0 +1,26 @@
+# EXFOR #         : 14151.018  
+# EXFOR Ver.      : 20071116
+# TRANS #         : 1345
+# Author          : C.M.Castaneda et al.
+# Reference       : Nucl.Instrum.Meth.B 260 (2007) 508
+# DOI             : 10.1016/j.nimb.2007.04.019
+# Quantity        : 40Ca(n,inl)40Ca partial gamma production cross section
+# REACTION        : 20-CA-40(N,INL)20-CA-40,PAR,SIG,G,A
+# File ID         : n-Ca40-inl-sigg-excfun-mon-eoutl3.736E+06_prodCa40_Castaneda_2007_14151.018
+#
+# Eout,lab (eV)   :   3.7365E+06
+#
+# npts            : 3           
+# xmin            :   1.7400E+07
+# xmax            :   3.2500E+07
+# ymin            :   2.4757E-04
+# ymax            :   3.9199E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7400E+07  0.0000E+00  2.4757E-04  9.2840E-05
+  2.2200E+07  0.0000E+00  3.9199E-04  1.6505E-04
+  3.2500E+07  0.0000E+00  3.9199E-04  1.5473E-04
+#---------------------------------------------------

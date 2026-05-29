@@ -1,0 +1,23 @@
+# EXFOR #         : 11110.002  
+# EXFOR Ver.      : 19840213
+# TRANS #         : 0000
+# Author          : A.R.Sayres et al.
+# Reference       : Phys.Rev. 122 (1961) 1853
+# DOI             : 10.1103/PhysRev.122.1853
+# Quantity        : 3He(n,d)2H cross section
+# REACTION        : 2-HE-3(N,D)1-H-2,,SIG
+# File ID         : n-He3-d-sig-excfun-mon-prodH2_Sayres_1961_11110.002
+#
+# npts            : 2           
+# xmin            :   5.0000E+06
+# xmax            :   8.0700E+06
+# ymin            :   4.1000E-02
+# ymax            :   7.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+06  2.0000E+04  4.1000E-02  1.5990E-02
+  8.0700E+06  2.0000E+04  7.1000E-02  7.8100E-03
+#---------------------------------------------------

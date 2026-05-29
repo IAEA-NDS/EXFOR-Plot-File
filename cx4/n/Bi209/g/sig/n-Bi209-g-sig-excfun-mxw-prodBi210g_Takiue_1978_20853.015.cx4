@@ -1,0 +1,22 @@
+# EXFOR #         : 20853.015  
+# EXFOR Ver.      : 20230413
+# TRANS #         : 2316
+# Author          : M.Takiue et al.
+# Reference       : Nucl.Intrum.Meth. 148 (1978) 157
+# DOI             : 10.1016/0029-554X(78)90347-6
+# Quantity        : 209Bi(n,g)210gBi cross section
+# REACTION        : 83-BI-209(N,G)83-BI-210-G,,SIG,,MXW
+# File ID         : n-Bi209-g-sig-excfun-mxw-prodBi210g_Takiue_1978_20853.015
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.4200E-02
+# ymax            :   2.4200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.4200E-02  4.0000E-04
+#---------------------------------------------------

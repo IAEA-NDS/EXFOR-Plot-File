@@ -1,0 +1,25 @@
+# EXFOR #         : 12372.003  
+# EXFOR Ver.      : 19820519
+# TRANS #         : 0000
+# Author          : L.Rosen et al.
+# Reference       : Report LA-2111, 1957
+# DOI             : N/A
+# Quantity        : 238U(n,inl)238U partial cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,SIG
+# File ID         : n-U238-inl-sig-excfun-mon-eoutl9.750E+06_prodU238_Rosen_1957_12372.003
+#
+# Eout,lab (eV)   :   9.7500E+06
+# dEout,lab (eV)  :   2.2500E+06
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   2.7000E-01
+# ymax            :   2.7000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  2.7000E-01  4.0000E-02
+#---------------------------------------------------

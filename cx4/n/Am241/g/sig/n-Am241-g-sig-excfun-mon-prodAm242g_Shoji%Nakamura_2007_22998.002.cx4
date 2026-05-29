@@ -1,0 +1,22 @@
+# EXFOR #         : 22998.002  
+# EXFOR Ver.      : 20080320
+# TRANS #         : 2197
+# Author          : Shoji Nakamura et al.
+# Reference       : J.Nucl.Sci.Technol. 44 No.12 (2007) 1500
+# DOI             : 10.1080/18811248.2007.9711399
+# Quantity        : 241Am(n,g)242gAm cross section
+# REACTION        : 95-AM-241(N,G)95-AM-242-G,,SIG
+# File ID         : n-Am241-g-sig-excfun-mon-prodAm242g_Shoji%Nakamura_2007_22998.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   6.2800E+02
+# ymax            :   6.2800E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  6.2800E+02  2.2000E+01
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 31860.003  
+# EXFOR Ver.      : 20250414
+# TRANS #         : 3219
+# Author          : R.N.Sahoo et al.
+# Reference       : Phys.Rev.C 109 (2024) 025808
+# DOI             : 10.1103/PhysRevC.109.025808
+# Quantity        : 138Ce(n,g)139Ce cross section
+# REACTION        : 58-CE-138(N,G)58-CE-139,,SIG,,SPA
+# File ID         : n-Ce138-g-sig-excfun-spa-prodCe139_Sahoo_2024_31860.003
+#
+# npts            : 1           
+# xmin            :   3.4200E+04
+# xmax            :   3.4200E+04
+# ymin            :   1.6300E-01
+# ymax            :   1.6300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4200E+04  0.0000E+00  1.6300E-01  6.0000E-03
+#---------------------------------------------------

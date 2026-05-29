@@ -1,0 +1,26 @@
+# EXFOR #         : 11493.006  
+# EXFOR Ver.      : 20151209
+# TRANS #         : 1411
+# Author          : D.B.Thomson et al.
+# Reference       : Phys.Rev. 125 (1962) 2049
+# DOI             : 10.1103/PhysRev.125.2049
+# Quantity        : 24Mg(n,inl)24Mg partial angular differential cross section
+# REACTION        : 12-MG-24(N,INL)12-MG-24,PAR,DA,,4PI
+# File ID         : n-Mg24-inl-adxl-angdisl-mon-einc2.000E+06_elvl1.370E+06_prodMg24_Thomson_1962_11493.006
+#
+# Einc (eV)       :   2.0000E+06
+# dEinc (eV)      :   2.0000E+05
+# Elvl (eV)       :   1.3700E+06
+#
+# npts            : 1           
+# xmin            :   45.0000000
+# xmax            :   45.0000000
+# ymin            :   1.8303E-02
+# ymax            :   1.8303E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  45.0000000   0.0000000  1.8303E-02  1.8303E-03
+#---------------------------------------------------

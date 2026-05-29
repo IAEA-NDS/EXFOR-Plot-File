@@ -1,0 +1,22 @@
+# EXFOR #         : 22781.002  
+# EXFOR Ver.      : 20080603
+# TRANS #         : 2199
+# Author          : J.Meissner et al.
+# Reference       : Phys.Rev.C 53 (1996) 459
+# DOI             : 10.1103/PhysRevC.53.459
+# Quantity        : 18O(n,g)19O cross section
+# REACTION        : 8-O-18(N,G)8-O-19,,SIG,,MXW
+# File ID         : n-O18-g-sig-excfun-mxw-prodO19_Meissner_1996_22781.002
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   7.9300E-06
+# ymax            :   7.9300E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  7.9300E-06  7.0000E-07
+#---------------------------------------------------

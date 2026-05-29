@@ -1,0 +1,24 @@
+# EXFOR #         : 21713.002  
+# EXFOR Ver.      : 20121109
+# TRANS #         : 2234
+# Author          : A.Emsallem et al.
+# Reference       : Z.Phys.A 315 (1984) 201
+# DOI             : 10.1007/BF01419380
+# Quantity        : 64Zn(n,a)61Ni partial cross section
+# REACTION        : 30-ZN-64(N,A)28-NI-61,PAR,SIG,,MXW
+# File ID         : n-Zn64-a-sig-lvldis-mxw-einc2.530E-02_prodNi61_Emsallem_1984_21713.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 1           
+# xmin            :   6.7000E+04
+# xmax            :   6.7000E+04
+# ymin            :   1.1000E-05
+# ymax            :   1.1000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.7000E+04  0.0000E+00  1.1000E-05  3.0000E-06
+#---------------------------------------------------

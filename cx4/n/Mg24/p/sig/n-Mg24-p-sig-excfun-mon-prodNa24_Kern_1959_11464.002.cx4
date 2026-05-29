@@ -1,0 +1,22 @@
+# EXFOR #         : 11464.002  
+# EXFOR Ver.      : 20200419
+# TRANS #         : 1466
+# Author          : B.D.Kern et al.
+# Reference       : Nucl.Phys. 10 (1959) 226
+# DOI             : 10.1016/0029-5582(59)90211-1
+# Quantity        : 24Mg(n,p)24Na cross section
+# REACTION        : 12-MG-24(N,P)11-NA-24,,SIG
+# File ID         : n-Mg24-p-sig-excfun-mon-prodNa24_Kern_1959_11464.002
+#
+# npts            : 1           
+# xmin            :   1.3030E+07
+# xmax            :   1.3030E+07
+# ymin            :   2.1900E-01
+# ymax            :   2.1900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3030E+07  2.0000E+05  2.1900E-01  2.6000E-02
+#---------------------------------------------------

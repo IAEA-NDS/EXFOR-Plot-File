@@ -1,0 +1,23 @@
+# EXFOR #         : 40083.004.2
+# EXFOR Ver.      : 20260209
+# TRANS #         : 4226
+# Author          : A.A.Druzhinin et al.
+# Reference       : Sov.J.Nucl.Phys. 5 (1967) 13
+# DOI             : N/A
+# Quantity        : 185Re(n,2n)184mRe cross section
+# REACTION        : 75-RE-185(N,2N)75-RE-184-M,,SIG
+# File ID         : n-Re185-2n-sig-excfun-mon-prodRe184m_Druzhinin_1967_40083.004.2
+#
+# npts            : 2           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   2.5000E-01
+# ymax            :   2.7000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  0.0000E+00  2.5000E-01  1.0000E-01
+  1.4800E+07  0.0000E+00  2.7000E-01  9.0000E-02
+#---------------------------------------------------

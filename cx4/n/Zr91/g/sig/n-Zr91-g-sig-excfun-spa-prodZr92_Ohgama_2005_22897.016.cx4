@@ -1,0 +1,22 @@
+# EXFOR #         : 22897.016  
+# EXFOR Ver.      : 20220829
+# TRANS #         : 2312
+# Author          : K.Ohgama et al.
+# Reference       : J.Nucl.Sci.Technol. 42 (2005) 333
+# DOI             : 10.1080/18811248.2005.9726399
+# Quantity        : 91Zr(n,g)92Zr cross section
+# REACTION        : 40-ZR-91(N,G)40-ZR-92,,SIG,,SPA
+# File ID         : n-Zr91-g-sig-excfun-spa-prodZr92_Ohgama_2005_22897.016
+#
+# npts            : 1           
+# xmin            :   5.5000E+05
+# xmax            :   5.5000E+05
+# ymin            :   1.1800E-02
+# ymax            :   1.1800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+05  9.0000E+04  1.1800E-02  7.0000E-04
+#---------------------------------------------------

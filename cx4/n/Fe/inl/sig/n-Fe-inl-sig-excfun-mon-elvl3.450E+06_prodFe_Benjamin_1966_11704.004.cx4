@@ -1,0 +1,25 @@
+# EXFOR #         : 11704.004  
+# EXFOR Ver.      : 20140420
+# TRANS #         : 1401
+# Author          : R.W.Benjamin et al.
+# Reference       : Nucl.Phys. 79 (1966) 241
+# DOI             : 10.1016/0029-5582(66)90144-1
+# Quantity        : natFe(n,inl)natFe partial cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-0,PAR,SIG
+# File ID         : n-Fe-inl-sig-excfun-mon-elvl3.450E+06_prodFe_Benjamin_1966_11704.004
+#
+# Elvl (eV)       :   3.4500E+06
+#
+# npts            : 2           
+# xmin            :   3.5000E+06
+# xmax            :   4.0000E+06
+# ymin            :   6.6000E-02
+# ymax            :   1.6800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+06  0.0000E+00  6.6000E-02  1.0000E-02
+  4.0000E+06  0.0000E+00  1.6800E-01  2.3000E-02
+#---------------------------------------------------

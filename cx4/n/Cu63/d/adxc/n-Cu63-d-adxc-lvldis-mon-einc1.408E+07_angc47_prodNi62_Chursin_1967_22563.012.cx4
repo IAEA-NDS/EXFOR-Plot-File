@@ -1,0 +1,27 @@
+# EXFOR #         : 22563.012  
+# EXFOR Ver.      : 20081023
+# TRANS #         : 2205
+# Author          : G.Chursin et al.
+# Reference       : Nucl.Phys.A 93 (1967) 209
+# DOI             : 10.1016/0375-9474(67)90181-9
+# Quantity        : 63Cu(n,d)62Ni partial angular differential cross section
+# REACTION        : 29-CU-63(N,D)28-NI-62,PAR,DA
+# File ID         : n-Cu63-d-adxc-lvldis-mon-einc1.408E+07_angc47_prodNi62_Chursin_1967_22563.012
+#
+# Einc (eV)       :   1.4080E+07
+# theta,cm (deg)  :   47.2000000
+# dtheta,cm (deg) :   14.0000000
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   1.1700E+06
+# ymin            :   2.3000E-04
+# ymax            :   8.0000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  8.0000E-04  1.3000E-04
+  1.1700E+06  0.0000E+00  2.3000E-04  1.2000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 12378.004  
+# EXFOR Ver.      : 20250601
+# TRANS #         : 1520
+# Author          : L.Cranberg et al.
+# Reference       : Phys.Rev. 109 (1958) 2063
+# DOI             : 10.1103/PhysRev.109.2063
+# Quantity        : natU(n,el)natU cross section
+# REACTION        : 92-U-0(N,EL)92-U-0,,SIG
+# File ID         : n-U-el-sig-excfun-mon-prodU_Cranberg_1958_12378.004
+#
+# npts            : 2           
+# xmin            :   5.5000E+05
+# xmax            :   2.0000E+06
+# ymin            :   3.9000E+00
+# ymax            :   6.3000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+05  1.0000E+04  6.3000E+00  3.0000E-01
+  2.0000E+06  4.0000E+04  3.9000E+00  2.0000E-01
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 31857.007  
+# EXFOR Ver.      : 20230213
+# TRANS #         : 3209
+# Author          : J.Vrzalova et al.
+# Reference       : Nucl.Phys.A 1031 (2023) 122593
+# DOI             : 10.1016/j.nuclphysa.2022.122593
+# Quantity        : 209Bi(n,9n)201gBi cumulative production cross section
+# REACTION        : 83-BI-209(N,9N)83-BI-201-G,(M),SIG
+# File ID         : n-Bi209-x-sigc-excfun-mon-prodBi201g_Vrzalova_2023_31857.007
+#
+# npts            : 2           
+# xmin            :   8.9300E+07
+# xmax            :   9.4000E+07
+# ymin            :   8.0000E-02
+# ymax            :   1.1800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.9300E+07  7.0000E+05  1.1800E-01  8.0000E-03
+  9.4000E+07  7.0000E+05  8.0000E-02  7.0000E-03
+#---------------------------------------------------

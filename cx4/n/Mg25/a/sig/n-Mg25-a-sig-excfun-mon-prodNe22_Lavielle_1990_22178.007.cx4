@@ -1,0 +1,23 @@
+# EXFOR #         : 22178.007  
+# EXFOR Ver.      : 19910523
+# TRANS #         : 0000
+# Author          : B.Lavielle et al.
+# Reference       : Phys.Rev.C 42 (1990) 305
+# DOI             : 10.1103/PhysRevC.42.305
+# Quantity        : 25Mg(n,a)22Ne cross section
+# REACTION        : 12-MG-25(N,A)10-NE-22,,SIG
+# File ID         : n-Mg25-a-sig-excfun-mon-prodNe22_Lavielle_1990_22178.007
+#
+# npts            : 2           
+# xmin            :   5.2000E+06
+# xmax            :   7.0000E+06
+# ymin            :   5.4000E-02
+# ymax            :   9.4800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2000E+06  4.5000E+05  5.4000E-02  1.0000E-02
+  7.0000E+06  3.0000E+05  9.4800E-02  9.1000E-03
+#---------------------------------------------------

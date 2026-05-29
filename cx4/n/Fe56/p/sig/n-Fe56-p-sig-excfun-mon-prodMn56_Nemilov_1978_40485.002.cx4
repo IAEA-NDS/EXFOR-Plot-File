@@ -1,0 +1,24 @@
+# EXFOR #         : 40485.002  
+# EXFOR Ver.      : 20211229
+# TRANS #         : 4203
+# Author          : Yu.A.Nemilov et al.
+# Reference       : Progress report YFI-26 page 25, 1978
+# DOI             : N/A
+# Quantity        : 56Fe(n,p)56Mn cross section
+# REACTION        : 26-FE-56(N,P)25-MN-56,,SIG
+# File ID         : n-Fe56-p-sig-excfun-mon-prodMn56_Nemilov_1978_40485.002
+#
+# npts            : 3           
+# xmin            :   7.7000E+06
+# xmax            :   9.3000E+06
+# ymin            :   4.8000E-02
+# ymax            :   6.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.7000E+06  3.0000E+05  4.8000E-02  5.0000E-03
+  8.6000E+06  3.0000E+05  5.7000E-02  5.0000E-03
+  9.3000E+06  3.0000E+05  6.6000E-02  5.0000E-03
+#---------------------------------------------------

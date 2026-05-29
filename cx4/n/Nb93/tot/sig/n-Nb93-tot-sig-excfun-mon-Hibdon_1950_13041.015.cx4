@@ -1,0 +1,23 @@
+# EXFOR #         : 13041.015  
+# EXFOR Ver.      : 19860909
+# TRANS #         : 0000
+# Author          : C.T.Hibdon
+# Reference       : Phys.Rev. 79 (1950) 747
+# DOI             : 10.1103/PhysRev.79.747
+# Quantity        : 93Nb(n,tot) cross section
+# REACTION        : 41-NB-93(N,TOT),,SIG
+# File ID         : n-Nb93-tot-sig-excfun-mon-Hibdon_1950_13041.015
+#
+# npts            : 2           
+# xmin            :   1.2000E+02
+# xmax            :   3.4500E+02
+# ymin            :   7.1600E+00
+# ymax            :   7.2400E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+02  0.0000E+00  7.2400E+00  0.0000E+00
+  3.4500E+02  0.0000E+00  7.1600E+00  0.0000E+00
+#---------------------------------------------------

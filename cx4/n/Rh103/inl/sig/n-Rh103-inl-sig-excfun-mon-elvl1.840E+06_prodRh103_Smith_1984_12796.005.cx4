@@ -1,0 +1,27 @@
+# EXFOR #         : 12796.005  
+# EXFOR Ver.      : 20240213
+# TRANS #         : 1510
+# Author          : A.B.Smith et al.
+# Reference       : Nucl.Phys.A 415 (1984) 1
+# DOI             : N/A
+# Quantity        : 103Rh(n,inl)103Rh partial cross section
+# REACTION        : 45-RH-103(N,INL)45-RH-103,PAR,SIG
+# File ID         : n-Rh103-inl-sig-excfun-mon-elvl1.840E+06_prodRh103_Smith_1984_12796.005
+#
+# Elvl (eV)       :   1.8400E+06
+# dElvl (eV)      :   7.9000E+04
+#
+# npts            : 3           
+# xmin            :   2.7000E+06
+# xmax            :   2.9000E+06
+# ymin            :   2.4100E-01
+# ymax            :   3.6400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7000E+06  0.0000E+00  2.4100E-01  8.4300E-02
+  2.7500E+06  0.0000E+00  2.5100E-01  8.7900E-02
+  2.9000E+06  0.0000E+00  3.6400E-01  1.2700E-01
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 40929.003  
+# EXFOR Ver.      : 20240208
+# TRANS #         : 4217
+# Author          : L.L.Litvinskiy et al.
+# Reference       : Report KIYAI-85-35, 1985
+# DOI             : N/A
+# Quantity        : natPb(n,tot) cross section
+# REACTION        : 82-PB-0(N,TOT),,SIG,,SPA
+# File ID         : n-Pb-tot-sig-excfun-spa-Litvinskiy_1985_40929.003
+#
+# npts            : 2           
+# xmin            :   5.5000E+04
+# xmax            :   1.4400E+05
+# ymin            :   9.3490E+00
+# ymax            :   1.0440E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+04  1.0000E+03  1.0440E+01  2.4000E-01
+  1.4400E+05  1.2500E+04  9.3490E+00  2.7000E-02
+#---------------------------------------------------

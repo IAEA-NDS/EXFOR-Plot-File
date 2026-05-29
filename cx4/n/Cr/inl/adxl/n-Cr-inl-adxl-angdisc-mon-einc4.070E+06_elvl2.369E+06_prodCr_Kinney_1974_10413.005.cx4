@@ -1,0 +1,28 @@
+# EXFOR #         : 10413.005  
+# EXFOR Ver.      : 20030220
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4806, 1974
+# DOI             : N/A
+# Quantity        : natCr(n,inl)52Cr partial angular differential cross section
+# REACTION        : 24-CR-0(N,INL)24-CR-52,PAR,DA
+# File ID         : n-Cr-inl-adxl-angdisc-mon-einc4.070E+06_elvl2.369E+06_prodCr_Kinney_1974_10413.005
+#
+# Einc (eV)       :   4.0700E+06
+# dEinc (eV)      :   8.0000E+04
+# Elvl (eV)       :   2.3690E+06
+#
+# npts            : 3           
+# xmin            :   71.6400000
+# xmax            :   86.7400000
+# ymin            :   7.1700E-03
+# ymax            :   1.1880E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  71.6400000   0.0000000  1.1880E-02  0.0000E+00
+  79.2000000   0.0000000  7.1700E-03  0.0000E+00
+  86.7400000   0.0000000  1.1310E-02  0.0000E+00
+#---------------------------------------------------

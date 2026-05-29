@@ -1,0 +1,24 @@
+# EXFOR #         : 21463.004  
+# EXFOR Ver.      : 20071219
+# TRANS #         : 2190
+# Author          : P.H.White et al.
+# Reference       : Proceedings of Physics and Chemistry of Fission Conf., Salzburg 1965 1 page 219
+# DOI             : N/A
+# Quantity        : 236U(n,f) cross section
+# REACTION        : 92-U-236(N,F),,SIG
+# File ID         : n-U236-f-sig-excfun-mon-White_1965_21463.004
+#
+# npts            : 3           
+# xmin            :   1.2700E+05
+# xmax            :   5.0500E+05
+# ymin            :   1.8000E-03
+# ymax            :   6.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2700E+05  7.0000E+03  1.8000E-03  6.3000E-05
+  3.1200E+05  7.0000E+03  3.7000E-03  1.2950E-04
+  5.0500E+05  1.0000E+04  6.9000E-03  2.4150E-04
+#---------------------------------------------------

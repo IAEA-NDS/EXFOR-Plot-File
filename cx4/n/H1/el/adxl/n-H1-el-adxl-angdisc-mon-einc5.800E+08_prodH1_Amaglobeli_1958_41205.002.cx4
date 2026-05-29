@@ -1,0 +1,26 @@
+# EXFOR #         : 41205.002  
+# EXFOR Ver.      : 20241212
+# TRANS #         : 4221
+# Author          : N.S.Amaglobeli et al.
+# Reference       : J.Exp.Theor.Phys. 7 (1958) 37
+# DOI             : N/A
+# Quantity        : 1H(n,el)1H angular differential cross section
+# REACTION        : 1-H-1(N,EL)1-H-1,,DA
+# File ID         : n-H1-el-adxl-angdisc-mon-einc5.800E+08_prodH1_Amaglobeli_1958_41205.002
+#
+# Einc (eV)       :   5.8000E+08
+# dEinc (eV)      :   1.3000E+08
+#
+# npts            : 2           
+# xmin            :   11.0000000
+# xmax            :   23.0000000
+# ymin            :   5.0000E-03
+# ymax            :   7.5000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  11.0000000   2.0000000  7.5000E-03  1.0000E-03
+  23.0000000   2.0000000  5.0000E-03  8.0000E-04
+#---------------------------------------------------

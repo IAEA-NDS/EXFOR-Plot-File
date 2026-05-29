@@ -1,0 +1,22 @@
+# EXFOR #         : 11231.004  
+# EXFOR Ver.      : 19860114
+# TRANS #         : 0000
+# Author          : M.E.Wyman et al.
+# Reference       : Phys.Rev. 112 (1958) 1264
+# DOI             : 10.1103/PhysRev.112.1264
+# Quantity        : 11B(n,t)9Be cross section
+# REACTION        : 5-B-11(N,T)4-BE-9,,SIG
+# File ID         : n-B11-t-sig-excfun-mon-prodBe9_Wyman_1958_11231.004
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   1.5000E-02
+# ymax            :   1.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.0000E+05  1.5000E-02  5.0000E-03
+#---------------------------------------------------

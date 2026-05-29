@@ -1,0 +1,23 @@
+# EXFOR #         : 11329.030  
+# EXFOR Ver.      : 20120416
+# TRANS #         : 1380
+# Author          : J.H.Gibbons et al.
+# Reference       : Phys.Rev. 122 (1961) 182
+# DOI             : 10.1103/PhysRev.122.182
+# Quantity        : natCd(n,g) cross section
+# REACTION        : 48-CD-0(N,G),,SIG
+# File ID         : n-Cd-g-sig-excfun-mon-prodCd1_Gibbons_1961_11329.030
+#
+# npts            : 2           
+# xmin            :   3.0000E+04
+# xmax            :   6.5000E+04
+# ymin            :   1.8300E-01
+# ymax            :   3.3000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  7.0000E+03  3.3000E-01  2.9700E-02
+  6.5000E+04  2.0000E+04  1.8300E-01  1.6470E-02
+#---------------------------------------------------

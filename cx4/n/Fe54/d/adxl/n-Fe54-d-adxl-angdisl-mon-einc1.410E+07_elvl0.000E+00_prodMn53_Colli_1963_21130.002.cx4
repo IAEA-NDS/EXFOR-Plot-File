@@ -1,0 +1,26 @@
+# EXFOR #         : 21130.002  
+# EXFOR Ver.      : 19801104
+# TRANS #         : 0000
+# Author          : L.Colli et al.
+# Reference       : Nucl.Phys. 46 (1963) 73
+# DOI             : 10.1016/0029-5582(63)90565-0
+# Quantity        : 54Fe(n,d)53Mn partial angular differential cross section
+# REACTION        : 26-FE-54(N,D)25-MN-53,PAR,DA
+# File ID         : n-Fe54-d-adxl-angdisl-mon-einc1.410E+07_elvl0.000E+00_prodMn53_Colli_1963_21130.002
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   2.0000E+05
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   30.0000000
+# xmax            :   30.0000000
+# ymin            :   6.0000E-04
+# ymax            :   6.0000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  6.0000E-04  3.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : 10331.004  
+# EXFOR Ver.      : 20020926
+# TRANS #         : 0000
+# Author          : W.P.Bucher et al.
+# Reference       : Nucl.Sci.Eng. 54 (1974) 416
+# DOI             : 10.13182/NSE74-A23435
+# Quantity        : 16O(n,el)16O angular differential cross section
+# REACTION        : 8-O-16(N,EL)8-O-16,,DA
+# File ID         : n-O16-el-adxc-angdisc-mon-einc7.400E+06_prodO16_Bucher_1974_10331.004
+#
+# Einc (eV)       :   7.4000E+06
+# dEinc (eV)      :   3.0000E+04
+#
+# npts            : 4           
+# xmin            :    2.8000000
+# xmax            :   15.1000000
+# ymin            :   2.5000E-01
+# ymax            :   3.0100E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.8000000   0.0000000  2.5000E-01  5.5000E-02
+   7.2000000   0.0000000  2.8900E-01  4.0460E-02
+  11.1000000   0.0000000  3.0100E-01  3.3110E-02
+  15.1000000   0.0000000  2.5700E-01  2.8270E-02
+#---------------------------------------------------

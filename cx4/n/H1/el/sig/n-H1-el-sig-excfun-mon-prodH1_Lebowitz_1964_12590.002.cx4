@@ -1,0 +1,23 @@
+# EXFOR #         : 12590.002  
+# EXFOR Ver.      : 19840301
+# TRANS #         : 0000
+# Author          : J.Lebowitz
+# Reference       : Report WASH-1048 page 21, 1964
+# DOI             : N/A
+# Quantity        : 1H(n,el)1H cross section
+# REACTION        : 1-H-1(N,EL)1-H-1,,SIG
+# File ID         : n-H1-el-sig-excfun-mon-prodH1_Lebowitz_1964_12590.002
+#
+# npts            : 2           
+# xmin            :   3.2040E+06
+# xmax            :   5.8580E+06
+# ymin            :   1.4650E+00
+# ymax            :   2.1220E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2040E+06  0.0000E+00  2.1220E+00  3.7135E-03
+  5.8580E+06  0.0000E+00  1.4650E+00  2.3440E-03
+#---------------------------------------------------

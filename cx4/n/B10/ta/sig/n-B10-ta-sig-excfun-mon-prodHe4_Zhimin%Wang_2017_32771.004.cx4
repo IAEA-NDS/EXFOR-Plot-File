@@ -1,0 +1,24 @@
+# EXFOR #         : 32771.004  
+# EXFOR Ver.      : 20210226
+# TRANS #         : 3200
+# Author          : Zhimin Wang et al.
+# Reference       : Phys.Rev.C 96 (2017) 044621
+# DOI             : 10.1103/PhysRevC.96.044621
+# Quantity        : 10B(n,t+a)4He cross section
+# REACTION        : 5-B-10(N,T+A)2-HE-4,,SIG
+# File ID         : n-B10-ta-sig-excfun-mon-prodHe4_Zhimin%Wang_2017_32771.004
+#
+# npts            : 3           
+# xmin            :   4.0000E+06
+# xmax            :   5.0000E+06
+# ymin            :   1.6410E-01
+# ymax            :   1.9920E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+06  0.0000E+00  1.6410E-01  1.0200E-02
+  4.5000E+06  0.0000E+00  1.9760E-01  1.2000E-02
+  5.0000E+06  0.0000E+00  1.9920E-01  1.8500E-02
+#---------------------------------------------------

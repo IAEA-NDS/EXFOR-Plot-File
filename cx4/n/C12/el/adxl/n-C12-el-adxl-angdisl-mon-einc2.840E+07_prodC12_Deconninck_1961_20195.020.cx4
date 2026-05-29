@@ -1,0 +1,25 @@
+# EXFOR #         : 20195.020  
+# EXFOR Ver.      : 20170425
+# TRANS #         : 2261
+# Author          : G.Deconninck et al.
+# Reference       : J.Phys.(Paris) 22 (1961) 652
+# DOI             : 10.1051/jphysrad:019610022010065200
+# Quantity        : 12C(n,el)12C angular differential cross section
+# REACTION        : 6-C-12(N,EL)6-C-12,,DA
+# File ID         : n-C12-el-adxl-angdisl-mon-einc2.840E+07_prodC12_Deconninck_1961_20195.020
+#
+# Einc (eV)       :   2.8400E+07
+# dEinc (eV)      :   2.8400E+05
+#
+# npts            : 1           
+# xmin            :    5.0000000
+# xmax            :    5.0000000
+# ymin            :   1.2400E+00
+# ymax            :   1.2400E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0000000   0.0000000  1.2400E+00  2.4800E-03
+#---------------------------------------------------

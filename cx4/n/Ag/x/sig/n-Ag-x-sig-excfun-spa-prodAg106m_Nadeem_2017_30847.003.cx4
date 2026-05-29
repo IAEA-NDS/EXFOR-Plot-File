@@ -1,0 +1,24 @@
+# EXFOR #         : 30847.003  
+# EXFOR Ver.      : 20201117
+# TRANS #         : 3201
+# Author          : M.Nadeem et al.
+# Reference       : J.Rad.Nucl.Chem. 313 (2017) 47
+# DOI             : 10.1007/s10967-017-5295-x
+# Quantity        : natAg(n,x)106mAg independent production cross section
+# REACTION        : 47-AG-0(N,X)47-AG-106-M,,SIG,,SPA
+# File ID         : n-Ag-x-sig-excfun-spa-prodAg106m_Nadeem_2017_30847.003
+#
+# npts            : 3           
+# xmin            :   1.4000E+07
+# xmax            :   3.7000E+07
+# ymin            :   1.2540E-01
+# ymax            :   2.5530E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  4.3000E+06  1.4660E-01  1.6600E-02
+  2.6300E+07  2.7000E+06  1.2540E-01  2.3200E-02
+  3.7000E+07  2.3000E+06  2.5530E-01  4.8000E-02
+#---------------------------------------------------

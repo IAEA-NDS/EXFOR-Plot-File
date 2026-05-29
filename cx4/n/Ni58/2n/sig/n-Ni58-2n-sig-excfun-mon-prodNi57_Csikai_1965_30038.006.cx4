@@ -1,0 +1,22 @@
+# EXFOR #         : 30038.006  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : J.Csikai
+# Reference       : Proceedings of Nuclear Structure Study with Neutrons, Antwerp 1965 page 537
+# DOI             : N/A
+# Quantity        : 58Ni(n,2n)57Ni cross section
+# REACTION        : 28-NI-58(N,2N)28-NI-57,,SIG
+# File ID         : n-Ni58-2n-sig-excfun-mon-prodNi57_Csikai_1965_30038.006
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   3.7000E-02
+# ymax            :   3.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  1.0000E+05  3.7000E-02  3.0000E-03
+#---------------------------------------------------

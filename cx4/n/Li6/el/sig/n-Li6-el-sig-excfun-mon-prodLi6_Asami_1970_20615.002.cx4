@@ -1,0 +1,22 @@
+# EXFOR #         : 20615.002  
+# EXFOR Ver.      : 19840127
+# TRANS #         : 0000
+# Author          : A.Asami et al.
+# Reference       : Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 1 page 153
+# DOI             : N/A
+# Quantity        : 6Li(n,el)6Li cross section
+# REACTION        : 3-LI-6(N,EL)3-LI-6,,SIG,,AV
+# File ID         : n-Li6-el-sig-excfun-mon-prodLi6_Asami_1970_20615.002
+#
+# npts            : 1           
+# xmin            :   2.5400E+04
+# xmax            :   2.5400E+04
+# ymin            :   7.5200E-01
+# ymax            :   7.5200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5400E+04  2.4600E+04  7.5200E-01  4.3000E-02
+#---------------------------------------------------

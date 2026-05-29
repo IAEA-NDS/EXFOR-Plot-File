@@ -1,0 +1,25 @@
+# EXFOR #         : 11749.007  
+# EXFOR Ver.      : 20050427
+# TRANS #         : 1333
+# Author          : A.B.Smith et al.
+# Reference       : Phys.Rev. 135 (1964) B76
+# DOI             : 10.1103/PhysRev.135.B76
+# Quantity        : natCu(n,inl)natCu partial cross section
+# REACTION        : 29-CU-0(N,INL)29-CU-0,PAR,SIG
+# File ID         : n-Cu-inl-sig-excfun-mon-elvl1.110E+06_prodCu_Smith_1964_11749.007
+#
+# Elvl (eV)       :   1.1100E+06
+#
+# npts            : 2           
+# xmin            :   1.4400E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.1800E-01
+# ymax            :   2.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4400E+06  0.0000E+00  1.1800E-01  3.5000E-02
+  1.5000E+06  0.0000E+00  2.2000E-01  4.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 22304.006  
+# EXFOR Ver.      : 20210113
+# TRANS #         : 2297
+# Author          : K.Merla et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 510
+# DOI             : N/A
+# Quantity        : 235U(n,f) cross section
+# REACTION        : 92-U-235(N,F),,SIG
+# File ID         : n-U235-f-sig-excfun-mon-Merla_1991_22304.006
+#
+# npts            : 2           
+# xmin            :   2.6000E+06
+# xmax            :   1.4700E+07
+# ymin            :   1.2400E+00
+# ymax            :   2.0960E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6000E+06  0.0000E+00  1.2400E+00  2.4056E-02
+  1.4700E+07  0.0000E+00  2.0960E+00  2.3894E-02
+#---------------------------------------------------

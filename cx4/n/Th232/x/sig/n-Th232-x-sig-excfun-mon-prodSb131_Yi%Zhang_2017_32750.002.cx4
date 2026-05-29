@@ -1,0 +1,24 @@
+# EXFOR #         : 32750.002  
+# EXFOR Ver.      : 20170401
+# TRANS #         : 3179
+# Author          : Yi Zhang et al.
+# Reference       : Radiat.Phys.Chem. 135 (2017) 1
+# DOI             : N/A
+# Quantity        : 232Th(n,f)131Sb independent production cross section
+# REACTION        : 90-TH-232(N,F)51-SB-131,,SIG
+# File ID         : n-Th232-x-sig-excfun-mon-prodSb131_Yi%Zhang_2017_32750.002
+#
+# npts            : 3           
+# xmin            :   1.4100E+07
+# xmax            :   1.4800E+07
+# ymin            :   6.0000E-03
+# ymax            :   6.2700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  3.0000E+05  6.2700E-03  4.7000E-04
+  1.4500E+07  3.0000E+05  6.1900E-03  5.4000E-04
+  1.4800E+07  3.0000E+05  6.0000E-03  5.1000E-04
+#---------------------------------------------------

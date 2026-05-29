@@ -1,0 +1,31 @@
+# EXFOR #         : 40037.009  
+# EXFOR Ver.      : 20060324
+# TRANS #         : 4138
+# Author          : O.A.Salnikov et al.
+# Reference       : Report YK-7 page 102, 1971
+# DOI             : N/A
+# Quantity        : 55Mn(n,inl)55Mn partial angular differential cross section
+# REACTION        : 25-MN-55(N,INL)25-MN-55,PAR,DA
+# File ID         : n-Mn55-inl-adxl-angdisl-mon-einc1.436E+07_eoutl4.795E+06_prodMn55_Salnikov_1971_40037.009
+#
+# Einc (eV)       :   1.4360E+07
+# dEinc (eV)      :   1.4000E+05
+# Eout,lab (eV)   :   4.7950E+06
+# dEout,lab (eV)  :   5.7500E+05
+#
+# npts            : 5           
+# xmin            :   31.0000000
+# xmax            :  151.0000000
+# ymin            :   7.9000E-03
+# ymax            :   1.1300E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  31.0000000   8.0000000  1.1300E-02  9.0000E-04
+  61.0000000   8.0000000  1.0100E-02  7.0000E-04
+  91.0000000   8.0000000  7.9000E-03  6.0000E-04
+ 121.0000000   8.0000000  7.9000E-03  6.0000E-04
+ 151.0000000   8.0000000  8.3000E-03  6.0000E-04
+#---------------------------------------------------

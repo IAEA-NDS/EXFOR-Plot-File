@@ -1,0 +1,25 @@
+# EXFOR #         : 40485.003  
+# EXFOR Ver.      : 20211229
+# TRANS #         : 4203
+# Author          : Yu.A.Nemilov et al.
+# Reference       : Progress report YFI-26 page 25, 1978
+# DOI             : N/A
+# Quantity        : 64Zn(n,p)64Cu cross section
+# REACTION        : 30-ZN-64(N,P)29-CU-64,,SIG
+# File ID         : n-Zn64-p-sig-excfun-mon-prodCu64_Nemilov_1978_40485.003
+#
+# npts            : 4           
+# xmin            :   7.6000E+06
+# xmax            :   9.3000E+06
+# ymin            :   2.4900E-01
+# ymax            :   2.6000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.6000E+06  3.0000E+05  2.4900E-01  3.0000E-02
+  8.3000E+06  3.0000E+05  2.5000E-01  3.0000E-02
+  8.8000E+06  3.0000E+05  2.5200E-01  3.0000E-02
+  9.3000E+06  3.0000E+05  2.6000E-01  3.0000E-02
+#---------------------------------------------------

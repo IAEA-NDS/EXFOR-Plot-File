@@ -1,0 +1,22 @@
+# EXFOR #         : 31850.003  
+# EXFOR Ver.      : 20220404
+# TRANS #         : 3208
+# Author          : M.Tessler et al.
+# Reference       : Phys.Rev.C 105 (2022) 035801
+# DOI             : 10.1103/PhysRevC.105.035801
+# Quantity        : 71Ga(n,g)72Ga cross section
+# REACTION        : 31-GA-71(N,G)31-GA-72,,SIG,,SPA
+# File ID         : n-Ga71-g-sig-excfun-spa-prodGa72_Tessler_2022_31850.003
+#
+# npts            : 1           
+# xmin            :   4.1800E+04
+# xmax            :   4.1800E+04
+# ymin            :   8.9000E-02
+# ymax            :   8.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.1800E+04  0.0000E+00  8.9000E-02  2.0000E-03
+#---------------------------------------------------

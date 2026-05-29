@@ -1,0 +1,28 @@
+# EXFOR #         : 10036.002  
+# EXFOR Ver.      : 19990719
+# TRANS #         : 0000
+# Author          : L.N.Rothenberg
+# Reference       : Phys.Rev.C 1 (1970) 1226
+# DOI             : 10.1103/PhysRevC.1.1226
+# Quantity        : 1H(n,el)1H angular differential cross section
+# REACTION        : 1-H-1(N,EL)1-H-1,,DA
+# File ID         : n-H1-el-adxc-angdisc-mon-einc2.401E+07_prodH1_Rothenberg_1970_10036.002
+#
+# Einc (eV)       :   2.4010E+07
+# dEinc (eV)      :   1.0000E+04
+#
+# npts            : 4           
+# xmin            :   89.0000000
+# xmax            :  164.1000000
+# ymin            :   3.0300E-02
+# ymax            :   3.4400E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  89.0000000   0.0000000  3.0300E-02  3.3633E-04
+ 118.2000000   0.0000000  3.0800E-02  4.6508E-04
+ 146.1000000   0.0000000  3.2900E-02  4.2770E-04
+ 164.1000000   0.0000000  3.4400E-02  3.1648E-04
+#---------------------------------------------------

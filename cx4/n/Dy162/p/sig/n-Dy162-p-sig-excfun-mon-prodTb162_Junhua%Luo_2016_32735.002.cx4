@@ -1,0 +1,23 @@
+# EXFOR #         : 32735.002  
+# EXFOR Ver.      : 20170510
+# TRANS #         : 3179
+# Author          : Junhua Luo et al.
+# Reference       : Radiat.Phys.Chem. 123 (2016) 109
+# DOI             : 10.1016/j.radphyschem.2016.02.027
+# Quantity        : 162Dy(n,p)162Tb cross section
+# REACTION        : 66-DY-162(N,P)65-TB-162,,SIG
+# File ID         : n-Dy162-p-sig-excfun-mon-prodTb162_Junhua%Luo_2016_32735.002
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   4.7000E-03
+# ymax            :   5.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  4.7000E-03  8.0000E-04
+  1.4800E+07  2.0000E+05  5.6000E-03  9.0000E-04
+#---------------------------------------------------

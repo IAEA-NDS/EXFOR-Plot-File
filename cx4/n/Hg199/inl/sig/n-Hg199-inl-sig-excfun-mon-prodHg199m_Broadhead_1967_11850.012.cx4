@@ -1,0 +1,22 @@
+# EXFOR #         : 11850.012  
+# EXFOR Ver.      : 20220822
+# TRANS #         : 1500
+# Author          : K.G.Broadhead et al.
+# Reference       : Appl.Radiat.Isot. 18 (1967) 279
+# DOI             : 10.1016/0020-708X(67)90125-1
+# Quantity        : 199Hg(n,inl)199mHg cross section
+# REACTION        : 80-HG-199(N,INL)80-HG-199-M,,SIG
+# File ID         : n-Hg199-inl-sig-excfun-mon-prodHg199m_Broadhead_1967_11850.012
+#
+# npts            : 1           
+# xmin            :   2.8000E+06
+# xmax            :   2.8000E+06
+# ymin            :   9.5000E-02
+# ymax            :   9.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8000E+06  7.0000E+04  9.5000E-02  1.2350E-02
+#---------------------------------------------------

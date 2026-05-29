@@ -1,0 +1,24 @@
+# EXFOR #         : 32882.002  
+# EXFOR Ver.      : 20250902
+# TRANS #         : 3220
+# Author          : Changlin Lan et al.
+# Reference       : Nucl.Instrum.Meth.B 525 (2022) 18
+# DOI             : 10.1016/j.nimb.2022.06.003
+# Quantity        : 54Fe(n,2n)53Fe cross section
+# REACTION        : 26-FE-54(N,2N)26-FE-53,,SIG
+# File ID         : n-Fe54-2n-sig-excfun-mon-prodFe53_Changlin%Lan_2022_32882.002
+#
+# npts            : 3           
+# xmin            :   1.4510E+07
+# xmax            :   1.4830E+07
+# ymin            :   5.4000E-03
+# ymax            :   1.0300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4510E+07  1.0000E+05  5.4000E-03  6.1000E-04
+  1.4670E+07  1.4000E+05  6.9600E-03  7.2000E-04
+  1.4830E+07  1.6000E+05  1.0300E-02  9.4000E-04
+#---------------------------------------------------

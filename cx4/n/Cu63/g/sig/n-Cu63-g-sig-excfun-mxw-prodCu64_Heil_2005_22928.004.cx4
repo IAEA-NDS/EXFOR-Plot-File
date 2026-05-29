@@ -1,0 +1,22 @@
+# EXFOR #         : 22928.004  
+# EXFOR Ver.      : 20160928
+# TRANS #         : 2254
+# Author          : M.Heil et al.
+# Reference       : Proceedings of Symp.on Capt.Gamma Ray Spectroscopy, Notre Dame 2005 page 265
+# DOI             : N/A
+# Quantity        : 63Cu(n,g)64Cu cross section
+# REACTION        : 29-CU-63(N,G)29-CU-64,,SIG,,MXW
+# File ID         : n-Cu63-g-sig-excfun-mxw-prodCu64_Heil_2005_22928.004
+#
+# npts            : 1           
+# xmin            :   3.0000E+04
+# xmax            :   3.0000E+04
+# ymin            :   5.3000E-02
+# ymax            :   5.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  0.0000E+00  5.3000E-02  2.0000E-03
+#---------------------------------------------------

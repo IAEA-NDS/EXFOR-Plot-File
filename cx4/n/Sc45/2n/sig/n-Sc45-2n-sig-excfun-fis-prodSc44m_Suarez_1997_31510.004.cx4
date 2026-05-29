@@ -1,0 +1,22 @@
+# EXFOR #         : 31510.004  
+# EXFOR Ver.      : 20010213
+# TRANS #         : 0000
+# Author          : P.M.Suarez et al.
+# Reference       : Nucl.Sci.Eng. 127 (1997) 245
+# DOI             : 10.13182/NSE97-A1934
+# Quantity        : 45Sc(n,2n)44mSc cross section
+# REACTION        : 21-SC-45(N,2N)21-SC-44-M,,SIG,,FIS
+# File ID         : n-Sc45-2n-sig-excfun-fis-prodSc44m_Suarez_1997_31510.004
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.2000E-05
+# ymax            :   2.2000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.2000E-05  2.7000E-06
+#---------------------------------------------------

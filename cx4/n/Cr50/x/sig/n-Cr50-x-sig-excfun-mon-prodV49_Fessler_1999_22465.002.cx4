@@ -1,0 +1,25 @@
+# EXFOR #         : 22465.002  
+# EXFOR Ver.      : 20170822
+# TRANS #         : 2265
+# Author          : A.Fessler et al.
+# Reference       : Radiochim.Acta 84 (1999) 1
+# DOI             : N/A
+# Quantity        : 50Cr(n,x)49V independent production cross section
+# REACTION        : 24-CR-50(N,X)23-V-49,,SIG
+# File ID         : n-Cr50-x-sig-excfun-mon-prodV49_Fessler_1999_22465.002
+#
+# npts            : 4           
+# xmin            :   1.4250E+07
+# xmax            :   1.9400E+07
+# ymin            :   3.5050E-01
+# ymax            :   6.9920E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4250E+07  2.0000E+05  3.5050E-01  6.2100E-02
+  1.7200E+07  2.5000E+05  6.2610E-01  7.8900E-02
+  1.8800E+07  3.0000E+05  6.9920E-01  7.7000E-02
+  1.9400E+07  3.2000E+05  6.8000E-01  9.2100E-02
+#---------------------------------------------------

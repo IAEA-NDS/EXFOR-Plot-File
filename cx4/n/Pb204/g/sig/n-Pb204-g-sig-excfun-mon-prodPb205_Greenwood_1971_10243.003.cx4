@@ -1,0 +1,22 @@
+# EXFOR #         : 10243.003  
+# EXFOR Ver.      : 20011130
+# TRANS #         : 0000
+# Author          : R.C.Greenwood et al.
+# Reference       : Phys.Rev.C 4 (1971) 2249
+# DOI             : 10.1103/PhysRevC.4.2249
+# Quantity        : 204Pb(n,g)205Pb cross section
+# REACTION        : 82-PB-204(N,G)82-PB-205,,SIG
+# File ID         : n-Pb204-g-sig-excfun-mon-prodPb205_Greenwood_1971_10243.003
+#
+# npts            : 1           
+# xmin            :   1.9500E+03
+# xmax            :   1.9500E+03
+# ymin            :   1.8000E+00
+# ymax            :   1.8000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9500E+03  3.5000E+02  1.8000E+00  5.0000E-01
+#---------------------------------------------------

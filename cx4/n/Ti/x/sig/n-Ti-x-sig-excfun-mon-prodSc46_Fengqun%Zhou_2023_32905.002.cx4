@@ -1,0 +1,25 @@
+# EXFOR #         : 32905.002  
+# EXFOR Ver.      : 20241223
+# TRANS #         : 3217
+# Author          : Fengqun Zhou et al.
+# Reference       : Radiat.Phys.Chem. 211 (2023) 111049
+# DOI             : 10.1016/j.radphyschem.2023.111049
+# Quantity        : natTi(n,x)46Sc independent production cross section
+# REACTION        : 22-TI-0(N,X)21-SC-46,,SIG
+# File ID         : n-Ti-x-sig-excfun-mon-prodSc46_Fengqun%Zhou_2023_32905.002
+#
+# npts            : 4           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   2.0900E-02
+# ymax            :   2.2500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  2.0900E-02  1.3000E-03
+  1.4100E+07  2.0000E+05  2.1800E-02  1.2000E-03
+  1.4400E+07  2.0000E+05  2.1900E-02  1.2000E-03
+  1.4800E+07  2.0000E+05  2.2500E-02  1.2000E-03
+#---------------------------------------------------

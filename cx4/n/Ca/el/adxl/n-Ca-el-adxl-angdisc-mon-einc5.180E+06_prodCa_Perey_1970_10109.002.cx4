@@ -1,0 +1,26 @@
+# EXFOR #         : 10109.002  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : F.G.Perey et al.
+# Reference       : Report ORNL-4519, 1970
+# DOI             : N/A
+# Quantity        : natCa(n,el)natCa angular differential cross section
+# REACTION        : 20-CA-0(N,EL)20-CA-0,,DA
+# File ID         : n-Ca-el-adxl-angdisc-mon-einc5.180E+06_prodCa_Perey_1970_10109.002
+#
+# Einc (eV)       :   5.1800E+06
+# dEinc (eV)      :   5.0000E+04
+#
+# npts            : 2           
+# xmin            :   91.4400000
+# xmax            :   91.4400000
+# ymin            :   3.1490E-02
+# ymax            :   3.3180E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  91.4400000   0.0000000  3.1490E-02  0.0000E+00
+  91.4400000   0.0000000  3.3180E-02  0.0000E+00
+#---------------------------------------------------

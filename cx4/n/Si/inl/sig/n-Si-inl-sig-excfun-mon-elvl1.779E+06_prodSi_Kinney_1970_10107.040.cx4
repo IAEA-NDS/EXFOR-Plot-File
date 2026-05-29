@@ -1,0 +1,27 @@
+# EXFOR #         : 10107.040  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4517, 1970
+# DOI             : N/A
+# Quantity        : natSi(n,inl)28Si partial cross section
+# REACTION        : 14-SI-0(N,INL)14-SI-28,PAR,SIG
+# File ID         : n-Si-inl-sig-excfun-mon-elvl1.779E+06_prodSi_Kinney_1970_10107.040
+#
+# Elvl (eV)       :   1.7790E+06
+#
+# npts            : 4           
+# xmin            :   5.4400E+06
+# xmax            :   8.5600E+06
+# ymin            :   2.5419E-01
+# ymax            :   5.8513E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.4400E+06  1.7000E+05  5.8513E-01  4.2129E-02
+  6.3700E+06  1.3000E+05  5.4893E-01  3.9523E-02
+  7.5500E+06  4.0000E+04  3.2235E-01  2.3209E-02
+  8.5600E+06  8.0000E+04  2.5419E-01  1.8556E-02
+#---------------------------------------------------

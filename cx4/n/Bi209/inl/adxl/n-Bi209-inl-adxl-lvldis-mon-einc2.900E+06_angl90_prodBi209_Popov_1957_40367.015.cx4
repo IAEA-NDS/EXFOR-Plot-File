@@ -1,0 +1,27 @@
+# EXFOR #         : 40367.015  
+# EXFOR Ver.      : 20140709
+# TRANS #         : 4164
+# Author          : V.I.Popov
+# Reference       : At.En. 3 No.12 (1957) 498
+# DOI             : N/A
+# Quantity        : 209Bi(n,inl)209Bi partial angular differential cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,DA
+# File ID         : n-Bi209-inl-adxl-lvldis-mon-einc2.900E+06_angl90_prodBi209_Popov_1957_40367.015
+#
+# Einc (eV)       :   2.9000E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 2           
+# xmin            :   9.0000E+05
+# xmax            :   1.6199E+06
+# ymin            :   2.9000E-02
+# ymax            :   5.4000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.0000E+05  0.0000E+00  5.4000E-02  4.0000E-03
+  1.6199E+06  0.0000E+00  2.9000E-02  3.0000E-03
+#---------------------------------------------------

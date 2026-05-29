@@ -1,0 +1,22 @@
+# EXFOR #         : 21589.006  
+# EXFOR Ver.      : 20101201
+# TRANS #         : 2224
+# Author          : K.Kobayashi et al.
+# Reference       : Report (proceedings) EUR-6813 page 1004, 1980
+# DOI             : N/A
+# Quantity        : 51V(n,p)51Ti cross section
+# REACTION        : 23-V-51(N,P)22-TI-51,,SIG,,FIS
+# File ID         : n-V51-p-sig-excfun-fis-prodTi51_Kobayashi_1980_21589.006
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   7.1000E-04
+# ymax            :   7.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  7.1000E-04  1.1000E-04
+#---------------------------------------------------

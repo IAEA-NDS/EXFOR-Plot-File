@@ -1,0 +1,22 @@
+# EXFOR #         : 20770.014  
+# EXFOR Ver.      : 20090108
+# TRANS #         : 2207
+# Author          : R.Rieppo et al.
+# Reference       : J.Inorg.Nucl.Chem. 38 No.11 (1976) 1927
+# DOI             : 10.1016/0022-1902(76)80439-3
+# Quantity        : 76Ge(n,p)76Ga cross section
+# REACTION        : 32-GE-76(N,P)31-GA-76,,SIG
+# File ID         : n-Ge76-p-sig-excfun-mon-prodGa76_Rieppo_1976_20770.014
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   3.1000E-03
+# ymax            :   3.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  3.0000E+05  3.1000E-03  1.5000E-03
+#---------------------------------------------------

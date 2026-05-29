@@ -1,0 +1,28 @@
+# EXFOR #         : 30762.006  
+# EXFOR Ver.      : 20090908
+# TRANS #         : 3141
+# Author          : Ma Gonggui et al.
+# Reference       : Report INDC(CPR)-11 page 135, 1988
+# DOI             : N/A
+# Quantity        : natMo(n,el)natMo angular differential cross section
+# REACTION        : 42-MO-0(N,EL)42-MO-0,,DA
+# File ID         : n-Mo-el-adxc-angdisc-mon-einc1.420E+07_prodMo_Ma%Gonggui_1988_30762.006
+#
+# Einc (eV)       :   1.4200E+07
+#
+# npts            : 5           
+# xmin            :    1.7200000
+# xmax            :   10.1000000
+# ymin            :   5.2748E+00
+# ymax            :   7.2580E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   1.7200000   0.0000000  7.2580E+00  3.9190E-01
+   2.5300000   0.0000000  7.0740E+00  3.7820E-01
+   5.0500000   0.0000000  6.3590E+00  3.5610E-01
+   7.5800000   0.0000000  5.9674E+00  3.5850E-01
+  10.1000000   0.0000000  5.2748E+00  3.2700E-01
+#---------------------------------------------------

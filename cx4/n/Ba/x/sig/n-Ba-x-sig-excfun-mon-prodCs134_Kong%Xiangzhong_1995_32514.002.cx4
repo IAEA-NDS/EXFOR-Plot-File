@@ -1,0 +1,24 @@
+# EXFOR #         : 32514.002  
+# EXFOR Ver.      : 20150524
+# TRANS #         : 3170
+# Author          : Kong Xiangzhong et al.
+# Reference       : High En.Nucl.Phy.Ch. 19 (1995) 781
+# DOI             : N/A
+# Quantity        : natBa(n,x)134Cs independent production cross section
+# REACTION        : 56-BA-0(N,X)55-CS-134,,SIG
+# File ID         : n-Ba-x-sig-excfun-mon-prodCs134_Kong%Xiangzhong_1995_32514.002
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   6.2500E-04
+# ymax            :   7.8200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  7.0000E+04  6.2500E-04  3.1000E-05
+  1.4180E+07  7.0000E+04  7.1100E-04  3.6000E-05
+  1.4800E+07  1.1000E+05  7.8200E-04  3.9000E-05
+#---------------------------------------------------

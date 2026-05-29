@@ -1,0 +1,31 @@
+# EXFOR #         : 40336.088  
+# EXFOR Ver.      : 20100322
+# TRANS #         : 4149
+# Author          : M.V.Pasechnik et al.
+# Reference       : Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 18
+# DOI             : N/A
+# Quantity        : natCd(n,el)natCd angular differential cross section
+# REACTION        : 48-CD-0(N,EL)48-CD-0,,DA
+# File ID         : n-Cd-el-adxl-angdisc-mon-einc2.800E+06_prodCd_Pasechnik_1958_40336.088
+#
+# Einc (eV)       :   2.8000E+06
+#
+# npts            : 8           
+# xmin            :   21.2512400
+# xmax            :  140.3538000
+# ymin            :   5.1000E-03
+# ymax            :   1.1800E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  21.2512400   0.0000000  1.1800E+00  9.8000E-02
+  42.3537000   0.0000000  4.5300E-01  3.0000E-02
+  60.4620400   0.0000000  4.9600E-02  6.9000E-03
+  70.4882600   0.0000000  7.8500E-02  9.9000E-03
+  86.5027800   0.0000000  5.1900E-02  8.0000E-03
+ 105.4858000   0.0000000  5.1000E-03  1.0000E-03
+ 122.4117000   0.0000000  1.0100E-02  1.0000E-03
+ 140.3538000   0.0000000  5.0700E-02  7.1000E-03
+#---------------------------------------------------

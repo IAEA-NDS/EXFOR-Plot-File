@@ -1,0 +1,27 @@
+# EXFOR #         : 40040.004  
+# EXFOR Ver.      : 20141117
+# TRANS #         : 4167
+# Author          : V.A.Bukarev et al.
+# Reference       : Sov.J.Nucl.Phys. 1 (1965) 316
+# DOI             : N/A
+# Quantity        : 139La(n,inl)139La partial cross section
+# REACTION        : 57-LA-139(N,INL)57-LA-139,PAR,SIG
+# File ID         : n-La139-inl-sig-excfun-mon-elvl1.430E+06_prodLa139_Bukarev_1965_40040.004
+#
+# Elvl (eV)       :   1.4300E+06
+#
+# npts            : 4           
+# xmin            :   1.5000E+06
+# xmax            :   1.9700E+06
+# ymin            :   1.0000E-01
+# ymax            :   2.6000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.0000E-01  0.0000E+00
+  1.6300E+06  0.0000E+00  1.6000E-01  0.0000E+00
+  1.7700E+06  0.0000E+00  2.1000E-01  0.0000E+00
+  1.9700E+06  0.0000E+00  2.6000E-01  0.0000E+00
+#---------------------------------------------------

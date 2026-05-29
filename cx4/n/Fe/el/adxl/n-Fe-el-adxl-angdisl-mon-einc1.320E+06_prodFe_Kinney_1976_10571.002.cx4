@@ -1,0 +1,31 @@
+# EXFOR #         : 10571.002  
+# EXFOR Ver.      : 20040702
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Proceedings of Int.Conf.on Interact.of Neutr.with Nuclei,Lowell 1976 page 1319
+# DOI             : N/A
+# Quantity        : natFe(n,el)natFe angular differential cross section
+# REACTION        : 26-FE-0(N,EL)26-FE-0,,DA
+# File ID         : n-Fe-el-adxl-angdisl-mon-einc1.320E+06_prodFe_Kinney_1976_10571.002
+#
+# Einc (eV)       :   1.3200E+06
+#
+# npts            : 8           
+# xmin            :   24.4200000
+# xmax            :  155.4300000
+# ymin            :   1.2800E-01
+# ymax            :   6.6300E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  24.4200000   0.0000000  6.6300E-01  6.0000E-02
+  39.6400000   0.0000000  3.7500E-01  3.4000E-02
+  55.8400000   0.0000000  1.9800E-01  1.7000E-02
+  70.9600000   0.0000000  1.2800E-01  1.2000E-02
+  91.0200000   0.0000000  1.5200E-01  1.3000E-02
+ 125.8400000   0.0000000  1.9700E-01  1.7000E-02
+ 140.6600000   0.0000000  2.6200E-01  2.3000E-02
+ 155.4300000   0.0000000  2.8200E-01  2.5000E-02
+#---------------------------------------------------

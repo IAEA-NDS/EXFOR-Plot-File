@@ -1,0 +1,22 @@
+# EXFOR #         : 14346.006  
+# EXFOR Ver.      : 20121011
+# TRANS #         : 1386
+# Author          : S.Torrel et al.
+# Reference       : Phys.Rev.C 86 (2012) 034340
+# DOI             : 10.1103/PhysRevC.86.034340
+# Quantity        : 140Ce(n,g)141Ce cross section
+# REACTION        : 58-CE-140(N,G)58-CE-141,,SIG,,MXW
+# File ID         : n-Ce140-g-sig-excfun-mxw-prodCe141_Torrel_2012_14346.006
+#
+# npts            : 1           
+# xmin            :   2.5000E-02
+# xmax            :   2.5000E-02
+# ymin            :   5.1000E-01
+# ymax            :   5.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  0.0000E+00  5.1000E-01  2.0000E-02
+#---------------------------------------------------

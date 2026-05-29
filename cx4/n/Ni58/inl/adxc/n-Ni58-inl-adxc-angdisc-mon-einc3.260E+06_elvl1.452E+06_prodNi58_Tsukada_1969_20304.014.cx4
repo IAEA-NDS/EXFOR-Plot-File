@@ -1,0 +1,26 @@
+# EXFOR #         : 20304.014  
+# EXFOR Ver.      : 20170430
+# TRANS #         : 2261
+# Author          : K.Tsukada et al.
+# Reference       : Nucl.Phys.A 125 (1969) 641
+# DOI             : 10.1016/0375-9474(69)90754-4
+# Quantity        : 58Ni(n,inl)58Ni partial angular differential cross section
+# REACTION        : 28-NI-58(N,INL)28-NI-58,PAR,DA
+# File ID         : n-Ni58-inl-adxc-angdisc-mon-einc3.260E+06_elvl1.452E+06_prodNi58_Tsukada_1969_20304.014
+#
+# Einc (eV)       :   3.2600E+06
+# dEinc (eV)      :   4.5000E+04
+# Elvl (eV)       :   1.4520E+06
+#
+# npts            : 1           
+# xmin            :   91.0027200
+# xmax            :   91.0027200
+# ymin            :   3.0200E-02
+# ymax            :   3.0200E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  91.0027200   0.0000000  3.0200E-02  8.0000E-04
+#---------------------------------------------------

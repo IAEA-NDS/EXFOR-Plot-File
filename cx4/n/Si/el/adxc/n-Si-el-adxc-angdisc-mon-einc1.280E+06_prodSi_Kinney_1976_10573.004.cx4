@@ -1,0 +1,31 @@
+# EXFOR #         : 10573.004  
+# EXFOR Ver.      : 20040702
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Proceedings of Int.Conf.on Interact.of Neutr.with Nuclei,Lowell 1976 2 page 1319
+# DOI             : N/A
+# Quantity        : natSi(n,el)natSi angular differential cross section
+# REACTION        : 14-SI-0(N,EL)14-SI-0,,DA
+# File ID         : n-Si-el-adxc-angdisc-mon-einc1.280E+06_prodSi_Kinney_1976_10573.004
+#
+# Einc (eV)       :   1.2800E+06
+#
+# npts            : 8           
+# xmin            :   24.8300000
+# xmax            :  155.8600000
+# ymin            :   1.3000E-01
+# ymax            :   4.8900E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  24.8300000   0.0000000  4.8900E-01  4.4000E-02
+  40.2900000   0.0000000  4.1900E-01  3.7000E-02
+  56.6800000   0.0000000  3.5200E-01  3.1000E-02
+  71.9200000   0.0000000  2.6300E-01  2.4000E-02
+  92.0500000   0.0000000  1.8400E-01  1.6000E-02
+ 126.6800000   0.0000000  1.3000E-01  1.1000E-02
+ 141.3200000   0.0000000  1.6700E-01  1.5000E-02
+ 155.8600000   0.0000000  1.9600E-01  1.8000E-02
+#---------------------------------------------------

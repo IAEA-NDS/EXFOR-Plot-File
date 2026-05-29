@@ -1,0 +1,22 @@
+# EXFOR #         : 31765.002  
+# EXFOR Ver.      : 20160127
+# TRANS #         : 3173
+# Author          : M.Tessler et al.
+# Reference       : Phys.Lett.B 751 (2015) 418
+# DOI             : 10.1016/j.physletb.2015.10.058
+# Quantity        : 94Zr(n,g)95Zr cross section
+# REACTION        : 40-ZR-94(N,G)40-ZR-95,,SIG,,SPA
+# File ID         : n-Zr94-g-sig-excfun-spa-prodZr95_Tessler_2015_31765.002
+#
+# npts            : 1           
+# xmin            :   3.0000E+04
+# xmax            :   3.0000E+04
+# ymin            :   2.5000E-02
+# ymax            :   2.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  0.0000E+00  2.5000E-02  7.0000E-04
+#---------------------------------------------------

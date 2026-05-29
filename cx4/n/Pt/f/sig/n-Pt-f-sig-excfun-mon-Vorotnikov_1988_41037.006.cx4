@@ -1,0 +1,23 @@
+# EXFOR #         : 41037.006  
+# EXFOR Ver.      : 20230131
+# TRANS #         : 4211
+# Author          : P.E.Vorotnikov
+# Reference       : Sov.J.Nucl.Phys. 47 (1988) 1147
+# DOI             : N/A
+# Quantity        : natPt(n,f) cross section
+# REACTION        : 78-PT-0(N,F),,SIG
+# File ID         : n-Pt-f-sig-excfun-mon-Vorotnikov_1988_41037.006
+#
+# npts            : 2           
+# xmin            :   2.2900E+07
+# xmax            :   2.3200E+07
+# ymin            :   4.9000E-07
+# ymax            :   7.8000E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2900E+07  3.0000E+05  4.9000E-07  2.7000E-07
+  2.3200E+07  3.0000E+05  7.8000E-07  2.1000E-07
+#---------------------------------------------------

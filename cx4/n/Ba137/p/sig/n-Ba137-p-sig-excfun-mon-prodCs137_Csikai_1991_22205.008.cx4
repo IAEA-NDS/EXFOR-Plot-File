@@ -1,0 +1,22 @@
+# EXFOR #         : 22205.008  
+# EXFOR Ver.      : 20121209
+# TRANS #         : 2234
+# Author          : J.Csikai et al.
+# Reference       : Ann.Nucl.Energy 18 No.1 (1991) 1
+# DOI             : 10.1016/0306-4549(91)90030-2
+# Quantity        : 137Ba(n,p)137Cs cross section
+# REACTION        : 56-BA-137(N,P)55-CS-137,,SIG
+# File ID         : n-Ba137-p-sig-excfun-mon-prodCs137_Csikai_1991_22205.008
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   5.0000E-03
+# ymax            :   5.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  3.0000E+05  5.0000E-03  1.0000E-03
+#---------------------------------------------------

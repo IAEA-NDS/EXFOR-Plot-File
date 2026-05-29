@@ -1,0 +1,22 @@
+# EXFOR #         : 21552.004  
+# EXFOR Ver.      : 20201222
+# TRANS #         : 2296
+# Author          : H.Gaeggeler et al.
+# Reference       : J.Inorg.Nucl.Chem. 38 (1976) 205
+# DOI             : 10.1016/0022-1902(76)80394-6
+# Quantity        : 235U(n,f)150Pm independent fission product yield
+# REACTION        : 92-U-235(N,F)61-PM-150,IND,FY,,MXW
+# File ID         : n-U235-f-fyi-excfun-mxw-prodPm150_Gaeggeler_1976_21552.004
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.0000E-07
+# ymax            :   3.0000E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,ind      dFY,ind     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.0000E-07  1.0000E-07
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 31786.007  
+# EXFOR Ver.      : 20180304
+# TRANS #         : 3182
+# Author          : M.Schulc et al.
+# Reference       : Appl.Radiat.Isot. 132 (2018) 29
+# DOI             : 10.1016/j.apradiso.2017.11.008
+# Quantity        : 27Al(n,a)24Na cross section
+# REACTION        : 13-AL-27(N,A)11-NA-24,,SIG,,FIS
+# File ID         : n-Al27-a-sig-excfun-fis-prodNa24_Schulc_2018_31786.007
+#
+# npts            : 1           
+# xmin            :   1.4200E+06
+# xmax            :   1.4200E+06
+# ymin            :   9.8510E-04
+# ymax            :   9.8510E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+06  0.0000E+00  9.8510E-04  3.4479E-05
+#---------------------------------------------------

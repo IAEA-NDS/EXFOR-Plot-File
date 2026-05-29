@@ -1,0 +1,25 @@
+# EXFOR #         : 40680.013  
+# EXFOR Ver.      : 20211203
+# TRANS #         : 4201
+# Author          : N.P.Glazkov
+# Reference       : At.En. 15 (1963) 416
+# DOI             : N/A
+# Quantity        : 63Cu(n,inl)63Cu partial cross section
+# REACTION        : 29-CU-63(N,INL)29-CU-63,PAR,SIG,,A
+# File ID         : n-Cu63-inl-sig-lvldis-mon-einc1.200E+06_prodCu63_Glazkov_1963_40680.013
+#
+# Einc (eV)       :   1.2000E+06
+#
+# npts            : 2           
+# xmin            :   6.7000E+05
+# xmax            :   9.7000E+05
+# ymin            :   3.4707E-03
+# ymax            :   4.3384E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.7000E+05  0.0000E+00  3.4707E-03  7.2307E-04
+  9.7000E+05  0.0000E+00  4.3384E-03  7.2307E-04
+#---------------------------------------------------

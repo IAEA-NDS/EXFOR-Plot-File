@@ -1,0 +1,25 @@
+# EXFOR #         : 12813.007  
+# EXFOR Ver.      : 20101025
+# TRANS #         : 1367
+# Author          : T.M.Semkow et al.
+# Reference       : Phys.Rev.C 30 (1984) 1966
+# DOI             : 10.1103/PhysRevC.30.1966
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-U235-f-fyc-nucdis-mon-einc1.430E+07_Semkow_1984_12813.007
+#
+# Einc (eV)       :   1.4300E+07
+#
+# npts            : 2           
+# xmin            : 47121.9     
+# xmax            : 49123.9     
+# ymin            :   1.5200E-03
+# ymax            :   1.1300E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     47121.9  1.5200E-03  1.8500E-03
+     49123.9  1.1300E-02  2.4000E-03
+#---------------------------------------------------

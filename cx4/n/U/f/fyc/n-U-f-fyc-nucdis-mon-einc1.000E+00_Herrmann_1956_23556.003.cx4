@@ -1,0 +1,25 @@
+# EXFOR #         : 23556.003  
+# EXFOR Ver.      : 20200415
+# TRANS #         : 2287
+# Author          : G.Herrmann et al.
+# Reference       : Z.Naturforsch. A 11 (1956) 946
+# DOI             : 10.1515/zna-1956-1109
+# Quantity        : natU(n,f) cumulative fission product yield
+# REACTION        : 92-U-0(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-U-f-fyc-nucdis-mon-einc1.000E+00_Herrmann_1956_23556.003
+#
+# Einc (eV)       :   1.0000E+00
+#
+# npts            : 2           
+# xmin            : 38089.9     
+# xmax            : 38091.9     
+# ymin            :   4.5000E-02
+# ymax            :   5.2000E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     38089.9  4.5000E-02  1.6000E-03
+     38091.9  5.2000E-02  4.0000E-03
+#---------------------------------------------------

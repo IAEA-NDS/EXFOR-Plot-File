@@ -1,0 +1,26 @@
+# EXFOR #         : 21019.007  
+# EXFOR Ver.      : 20131118
+# TRANS #         : 2238
+# Author          : R.Batchelor et al.
+# Reference       : Nucl.Phys. 65 (1965) 236
+# DOI             : 10.1016/0029-5582(65)90266-X
+# Quantity        : 232Th(n,inl)232Th partial cross section
+# REACTION        : 90-TH-232(N,INL)90-TH-232,PAR,SIG
+# File ID         : n-Th232-inl-sig-lvldis-mon-einc2.000E+06_prodTh232_Batchelor_1965_21019.007
+#
+# Einc (eV)       :   2.0000E+06
+# dEinc (eV)      :   8.0000E+04
+#
+# npts            : 2           
+# xmin            :   7.5500E+05
+# xmax            :   1.1600E+06
+# ymin            :   6.1000E-01
+# ymax            :   6.2500E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.5500E+05  1.8500E+05  6.1000E-01  6.0000E-02
+  1.1600E+06  2.2000E+05  6.2500E-01  6.0000E-02
+#---------------------------------------------------

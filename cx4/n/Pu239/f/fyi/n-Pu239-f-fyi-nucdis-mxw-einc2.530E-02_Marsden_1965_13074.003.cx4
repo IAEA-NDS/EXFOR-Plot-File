@@ -1,0 +1,26 @@
+# EXFOR #         : 13074.003  
+# EXFOR Ver.      : 19890518
+# TRANS #         : 0000
+# Author          : D.A.Marsden et al.
+# Reference       : Can.J.Chem. 43 (1965) 249
+# DOI             : 10.1139/v65-029
+# Quantity        : 239Pu(n,f) independent fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,IND,FY,,MXW
+# File ID         : n-Pu239-f-fyi-nucdis-mxw-einc2.530E-02_Marsden_1965_13074.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 3           
+# xmin            : 35082.9     
+# xmax            : 51126.9     
+# ymin            :   3.6000E-05
+# ymax            :   8.8000E-04
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     35082.9  3.6000E-05  2.0000E-06
+     51124.9  8.8000E-04  4.0000E-05
+     51126.9  6.9000E-04  3.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 21773.050  
+# EXFOR Ver.      : 20121208
+# TRANS #         : 2234
+# Author          : A.Virdis
+# Reference       : Report CEA-R-5144, 1981
+# DOI             : N/A
+# Quantity        : 24Mg(n,el)24Mg cross section
+# REACTION        : 12-MG-24(N,EL)12-MG-24,,SIG
+# File ID         : n-Mg24-el-sig-excfun-mon-prodMg24_Virdis_1981_21773.050
+#
+# npts            : 2           
+# xmin            :   9.7600E+06
+# xmax            :   1.4830E+07
+# ymin            :   5.7300E-01
+# ymax            :   7.6300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.7600E+06  8.0000E+04  5.7300E-01  3.0942E-02
+  1.4830E+07  6.0000E+04  7.6300E-01  6.4855E-02
+#---------------------------------------------------

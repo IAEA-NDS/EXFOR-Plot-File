@@ -1,0 +1,23 @@
+# EXFOR #         : 11130.008  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : N.A.Bostrom et al.
+# Reference       : Report WADC-TN-59-107, 1959
+# DOI             : N/A
+# Quantity        : 55Mn(n,g)56Mn cross section
+# REACTION        : 25-MN-55(N,G)25-MN-56,,SIG
+# File ID         : n-Mn55-g-sig-excfun-mon-prodMn56_Bostrom_1959_11130.008
+#
+# npts            : 2           
+# xmin            :   4.0000E+04
+# xmax            :   3.5000E+06
+# ymin            :   1.7000E-03
+# ymax            :   3.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+04  8.0000E+03  3.9000E-02  1.0000E-02
+  3.5000E+06  4.0000E+05  1.7000E-03  6.0000E-04
+#---------------------------------------------------

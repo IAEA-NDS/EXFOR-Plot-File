@@ -1,0 +1,23 @@
+# EXFOR #         : 31859.013  
+# EXFOR Ver.      : 20241123
+# TRANS #         : 3219
+# Author          : J.Jarosik et al.
+# Reference       : Nucl.Instrum.Meth.B 559 (2025) 165566
+# DOI             : 10.1016/j.nimb.2024.165566
+# Quantity        : 59Co(n,a)56Mn cross section
+# REACTION        : 27-CO-59(N,A)25-MN-56,,SIG
+# File ID         : n-Co59-a-sig-excfun-mon-prodMn56_Jarosik_2025_31859.013
+#
+# npts            : 2           
+# xmin            :   1.8500E+07
+# xmax            :   2.2500E+07
+# ymin            :   9.6000E-03
+# ymax            :   1.6900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8500E+07  4.0000E+05  1.6900E-02  2.1000E-03
+  2.2500E+07  8.0000E+05  9.6000E-03  1.8000E-03
+#---------------------------------------------------

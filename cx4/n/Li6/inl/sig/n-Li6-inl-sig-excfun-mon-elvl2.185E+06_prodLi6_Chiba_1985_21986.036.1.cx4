@@ -1,0 +1,25 @@
+# EXFOR #         : 21986.036.1
+# EXFOR Ver.      : 20151128
+# TRANS #         : 2247
+# Author          : S.Chiba et al.
+# Reference       : J.Nucl.Sci.Technol. 22 (1985) 771
+# DOI             : 10.1080/18811248.1985.9735728
+# Quantity        : 6Li(n,inl)6Li partial cross section
+# REACTION        : 3-LI-6(N,INL)3-LI-6,PAR,SIG
+# File ID         : n-Li6-inl-sig-excfun-mon-elvl2.185E+06_prodLi6_Chiba_1985_21986.036.1
+#
+# Elvl (eV)       :   2.1850E+06
+#
+# npts            : 2           
+# xmin            :   4.2000E+06
+# xmax            :   5.4000E+06
+# ymin            :   1.5700E-01
+# ymax            :   2.3800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.2000E+06  3.0000E+05  2.3800E-01  2.1000E-02
+  5.4000E+06  2.0000E+05  1.5700E-01  1.1000E-02
+#---------------------------------------------------

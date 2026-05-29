@@ -1,0 +1,31 @@
+# EXFOR #         : 11218.008  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : R.B.Day
+# Reference       : Phys.Rev. 102 (1956) 767
+# DOI             : 10.1103/PhysRev.102.767
+# Quantity        : 19F(n,inl)19F partial gamma angular differential cross section
+# REACTION        : 9-F-19(N,INL)9-F-19,PAR,DA,G,4PI
+# File ID         : n-F19-inl-adxgl-enedisl-mon-einc2.560E+06_angl95_prodF19_Day_1956_11218.008
+#
+# Einc (eV)       :   2.5600E+06
+# dEinc (eV)      :   3.0000E+04
+# theta,lab (deg) :   95.0000000
+#
+# npts            : 6           
+# xmin            :   1.1000E+05
+# xmax            :   1.5600E+06
+# ymin            :   1.5915E-03
+# ymax            :   4.1062E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1000E+05  0.0000E+00  1.4801E-02  2.9444E-03
+  1.9700E+05  0.0000E+00  4.1062E-02  5.4908E-03
+  1.2340E+06  0.0000E+00  3.8197E-03  9.5493E-04
+  1.3580E+06  0.0000E+00  2.3475E-02  2.4669E-03
+  1.4600E+06  0.0000E+00  4.3768E-03  1.1937E-03
+  1.5600E+06  0.0000E+00  1.5915E-03  7.9577E-04
+#---------------------------------------------------

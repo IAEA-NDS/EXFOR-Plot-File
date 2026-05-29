@@ -1,0 +1,27 @@
+# EXFOR #         : 22726.011  
+# EXFOR Ver.      : 20050216
+# TRANS #         : 2170
+# Author          : E.Bauge et al.
+# Reference       : Phys.Rev.C 61 (2000) 034306
+# DOI             : 10.1103/PhysRevC.61.034306
+# Quantity        : 160Gd(n,inl)160Gd partial angular differential cross section
+# REACTION        : 64-GD-160(N,INL)64-GD-160,PAR,DA
+# File ID         : n-Gd160-inl-adxc-lvldis-mon-einc4.100E+06_angc100_prodGd160_Bauge_2000_22726.011
+#
+# Einc (eV)       :   4.1000E+06
+# dEinc (eV)      :   1.8000E+04
+# theta,cm (deg)  :  100.4000000
+#
+# npts            : 2           
+# xmin            :   7.5000E+04
+# xmax            :   2.4800E+05
+# ymin            :   7.2300E-03
+# ymax            :   3.1240E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.5000E+04  0.0000E+00  3.1240E-02  3.4052E-03
+  2.4800E+05  0.0000E+00  7.2300E-03  1.8653E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 12589.004  
+# EXFOR Ver.      : 20021202
+# TRANS #         : 0000
+# Author          : H.B.Hanstein
+# Reference       : Phys.Rev. 59 (1941) 489
+# DOI             : 10.1103/PhysRev.59.489
+# Quantity        : natC(n,tot) cross section
+# REACTION        : 6-C-0(N,TOT),,SIG
+# File ID         : n-C-tot-sig-excfun-mon-Hanstein_1941_12589.004
+#
+# npts            : 2           
+# xmin            :   3.0000E-02
+# xmax            :   9.0000E-01
+# ymin            :   4.9000E+00
+# ymax            :   4.9000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E-02  0.0000E+00  4.9000E+00  0.0000E+00
+  9.0000E-01  0.0000E+00  4.9000E+00  2.0000E-01
+#---------------------------------------------------

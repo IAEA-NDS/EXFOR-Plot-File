@@ -1,0 +1,27 @@
+# EXFOR #         : 22743.003  
+# EXFOR Ver.      : 20100720
+# TRANS #         : 2222
+# Author          : I.Murata et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Santa Fe 2004 1 page 769
+# DOI             : N/A
+# Quantity        : 27Al(n,a+x) angular differential cross section
+# REACTION        : 13-AL-27(N,X)2-HE-4,,DA
+# File ID         : n-Al27-xa-adxl-angdisl-mon-einc1.400E+07_Murata_2004_22743.003
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 4           
+# xmin            :   45.2358500
+# xmax            :  135.3416000
+# ymin            :   9.1176E-03
+# ymax            :   1.4507E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 135.3416000  25.0000000  9.1176E-03  0.0000E+00
+ 109.9554000  25.0000000  9.6286E-03  0.0000E+00
+  70.2577100  25.0000000  1.0832E-02  0.0000E+00
+  45.2358500  25.0000000  1.4507E-02  0.0000E+00
+#---------------------------------------------------

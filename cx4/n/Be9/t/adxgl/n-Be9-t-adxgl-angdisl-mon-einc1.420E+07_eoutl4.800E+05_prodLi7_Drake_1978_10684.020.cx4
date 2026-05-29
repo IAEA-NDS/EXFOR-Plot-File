@@ -1,0 +1,26 @@
+# EXFOR #         : 10684.020  
+# EXFOR Ver.      : 20080926
+# TRANS #         : 1350
+# Author          : D.M.Drake et al.
+# Reference       : Nucl.Sci.Eng. 65 (1978) 49
+# DOI             : 10.13182/NSE78-A27125
+# Quantity        : 9Be(n,t)7Li partial gamma angular differential cross section
+# REACTION        : 4-BE-9(N,T)3-LI-7,PAR,DA,G
+# File ID         : n-Be9-t-adxgl-angdisl-mon-einc1.420E+07_eoutl4.800E+05_prodLi7_Drake_1978_10684.020
+#
+# Einc (eV)       :   1.4200E+07
+# dEinc (eV)      :   5.0000E+05
+# Eout,lab (eV)   :   4.8000E+05
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   7.0000E-04
+# ymax            :   7.0000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  7.0000E-04  2.0000E-04
+#---------------------------------------------------

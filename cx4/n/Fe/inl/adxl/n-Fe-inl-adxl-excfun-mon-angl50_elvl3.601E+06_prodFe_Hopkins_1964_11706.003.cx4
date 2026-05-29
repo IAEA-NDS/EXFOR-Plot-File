@@ -1,0 +1,26 @@
+# EXFOR #         : 11706.003  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : J.C.Hopkins et al.
+# Reference       : Nucl.Sci.Eng. 19 (1964) 431
+# DOI             : 10.13182/NSE64-A19000
+# Quantity        : natFe(n,inl)natFe partial angular differential cross section
+# REACTION        : 26-FE-0(N,INL),PAR,DA,,4PI
+# File ID         : n-Fe-inl-adxl-excfun-mon-angl50_elvl3.601E+06_prodFe_Hopkins_1964_11706.003
+#
+# theta,lab (deg) :   50.0000000
+# Elvl (eV)       :   3.6010E+06
+#
+# npts            : 2           
+# xmin            :   4.5000E+06
+# xmax            :   5.0000E+06
+# ymin            :   1.3210E-02
+# ymax            :   1.4165E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.5000E+06  0.0000E+00  1.4165E-02  8.7535E-04
+  5.0000E+06  0.0000E+00  1.3210E-02  8.7535E-04
+#---------------------------------------------------

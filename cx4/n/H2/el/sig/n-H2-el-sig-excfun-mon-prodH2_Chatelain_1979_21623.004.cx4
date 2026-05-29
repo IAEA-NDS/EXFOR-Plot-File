@@ -1,0 +1,23 @@
+# EXFOR #         : 21623.004  
+# EXFOR Ver.      : 20131213
+# TRANS #         : 2238
+# Author          : P.Chatelain et al.
+# Reference       : Nucl.Phys.A 319 (1979) 71
+# DOI             : 10.1016/0375-9474(79)90172-6
+# Quantity        : 2H(n,el)2H cross section
+# REACTION        : 1-H-2(N,EL)1-H-2,,SIG
+# File ID         : n-H2-el-sig-excfun-mon-prodH2_Chatelain_1979_21623.004
+#
+# npts            : 2           
+# xmin            :   2.4800E+06
+# xmax            :   3.2700E+06
+# ymin            :   2.1450E+00
+# ymax            :   2.4500E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4800E+06  7.0000E+04  2.4500E+00  1.5000E-02
+  3.2700E+06  7.0000E+04  2.1450E+00  1.3000E-02
+#---------------------------------------------------

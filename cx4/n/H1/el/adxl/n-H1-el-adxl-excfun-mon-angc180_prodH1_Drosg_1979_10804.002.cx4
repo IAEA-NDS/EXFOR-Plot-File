@@ -1,0 +1,25 @@
+# EXFOR #         : 10804.002  
+# EXFOR Ver.      : 19931227
+# TRANS #         : 0000
+# Author          : M.Drosg et al.
+# Reference       : Nucl.Intrum.Meth. 160 (1979) 143
+# DOI             : 10.1016/0029-554X(79)90177-0
+# Quantity        : 1H(n,el)1H angular differential cross section
+# REACTION        : 1-H-1(N,EL)1-H-1,,DA
+# File ID         : n-H1-el-adxl-excfun-mon-angc180_prodH1_Drosg_1979_10804.002
+#
+# theta,cm (deg)  :  180.0000000
+#
+# npts            : 2           
+# xmin            :   2.5300E+07
+# xmax            :   3.1100E+07
+# ymin            :   2.9100E-02
+# ymax            :   3.4600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.5300E+07  0.0000E+00  3.4600E-02  9.0000E-04
+  3.1100E+07  0.0000E+00  2.9100E-02  1.0000E-03
+#---------------------------------------------------

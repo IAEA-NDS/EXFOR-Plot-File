@@ -1,0 +1,22 @@
+# EXFOR #         : 30738.002  
+# EXFOR Ver.      : 20160708
+# TRANS #         : 3174
+# Author          : R.R.Pla et al.
+# Reference       : J.Rad.Nucl.Chem.Lett 85 No.4 (1984) 227
+# DOI             : 10.1007/BF02164226
+# Quantity        : 103Rh(n,2n)102mRh cross section
+# REACTION        : 45-RH-103(N,2N)45-RH-102-M,,SIG,,FIS
+# File ID         : n-Rh103-2n-sig-excfun-fis-prodRh102m_Pla_1984_30738.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   5.7500E-04
+# ymax            :   5.7500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  5.7500E-04  6.8000E-05
+#---------------------------------------------------

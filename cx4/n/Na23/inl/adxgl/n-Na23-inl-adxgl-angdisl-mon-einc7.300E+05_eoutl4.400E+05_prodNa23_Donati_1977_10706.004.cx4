@@ -1,0 +1,30 @@
+# EXFOR #         : 10706.004  
+# EXFOR Ver.      : 20220320
+# TRANS #         : 1494
+# Author          : D.R.Donati et al.
+# Reference       : Phys.Rev.C 16 (1977) 939
+# DOI             : 10.1103/PhysRevC.16.939
+# Quantity        : 23Na(n,inl)23Na partial gamma angular differential cross section
+# REACTION        : 11-NA-23(N,INL)11-NA-23,PAR,DA,G
+# File ID         : n-Na23-inl-adxgl-angdisl-mon-einc7.300E+05_eoutl4.400E+05_prodNa23_Donati_1977_10706.004
+#
+# Einc (eV)       :   7.3000E+05
+# Eout,lab (eV)   :   4.4000E+05
+#
+# npts            : 6           
+# xmin            :   25.0000000
+# xmax            :  135.0000000
+# ymin            :   4.6100E-02
+# ymax            :   4.9100E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  25.0000000   0.0000000  4.8000E-02  5.2000E-03
+  35.0000000   0.0000000  4.8000E-02  5.2000E-03
+  55.0000000   0.0000000  4.6100E-02  4.8000E-03
+  90.0000000   0.0000000  4.6600E-02  4.8000E-03
+ 125.0000000   0.0000000  4.8300E-02  4.8000E-03
+ 135.0000000   0.0000000  4.9100E-02  4.7000E-03
+#---------------------------------------------------

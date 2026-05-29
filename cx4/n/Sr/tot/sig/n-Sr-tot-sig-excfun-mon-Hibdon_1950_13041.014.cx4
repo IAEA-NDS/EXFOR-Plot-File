@@ -1,0 +1,23 @@
+# EXFOR #         : 13041.014  
+# EXFOR Ver.      : 19860909
+# TRANS #         : 0000
+# Author          : C.T.Hibdon
+# Reference       : Phys.Rev. 79 (1950) 747
+# DOI             : 10.1103/PhysRev.79.747
+# Quantity        : natSr(n,tot) cross section
+# REACTION        : 38-SR-0(N,TOT),,SIG
+# File ID         : n-Sr-tot-sig-excfun-mon-Hibdon_1950_13041.014
+#
+# npts            : 2           
+# xmin            :   1.2000E+02
+# xmax            :   3.4500E+02
+# ymin            :   1.3000E+01
+# ymax            :   1.3500E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+02  0.0000E+00  1.3500E+01  0.0000E+00
+  3.4500E+02  0.0000E+00  1.3000E+01  0.0000E+00
+#---------------------------------------------------

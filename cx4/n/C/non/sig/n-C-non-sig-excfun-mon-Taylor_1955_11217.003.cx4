@@ -1,0 +1,23 @@
+# EXFOR #         : 11217.003  
+# EXFOR Ver.      : 20170919
+# TRANS #         : 1435
+# Author          : H.L.Taylor et al.
+# Reference       : Phys.Rev. 100 (1955) 174
+# DOI             : 10.1103/PhysRev.100.174
+# Quantity        : natC(n,non) cross section
+# REACTION        : 6-C-0(N,NON),,SIG
+# File ID         : n-C-non-sig-excfun-mon-Taylor_1955_11217.003
+#
+# npts            : 2           
+# xmin            :   1.2700E+07
+# xmax            :   1.4100E+07
+# ymin            :   5.1000E-01
+# ymax            :   5.6000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2700E+07  0.0000E+00  5.6000E-01  1.0000E-01
+  1.4100E+07  0.0000E+00  5.1000E-01  8.0000E-02
+#---------------------------------------------------

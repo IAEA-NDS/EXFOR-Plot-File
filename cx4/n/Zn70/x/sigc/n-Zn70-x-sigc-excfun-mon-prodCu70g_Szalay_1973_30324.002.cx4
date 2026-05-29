@@ -1,0 +1,22 @@
+# EXFOR #         : 30324.002  
+# EXFOR Ver.      : 20160210
+# TRANS #         : 3173
+# Author          : A.Szalay et al.
+# Reference       : Radioch.Radioan.Let. 15 No.1 (1973) 57
+# DOI             : N/A
+# Quantity        : 70Zn(n,p)70gCu cumulative production cross section
+# REACTION        : 30-ZN-70(N,P)29-CU-70-G,M+,SIG
+# File ID         : n-Zn70-x-sigc-excfun-mon-prodCu70g_Szalay_1973_30324.002
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   4.0000E-03
+# ymax            :   4.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  4.0000E-03  3.0000E-03
+#---------------------------------------------------

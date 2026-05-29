@@ -1,0 +1,22 @@
+# EXFOR #         : 12857.005  
+# EXFOR Ver.      : 20120710
+# TRANS #         : 1384
+# Author          : R.L.Macklin
+# Reference       : Phys.Rev.C 29 (1984) 1996
+# DOI             : 10.1103/PhysRevC.29.1996
+# Quantity        : 37Cl(n,g)38Cl cross section
+# REACTION        : 17-CL-37(N,G)17-CL-38,,SIG,,MXW
+# File ID         : n-Cl37-g-sig-excfun-mxw-prodCl38_Macklin_1984_12857.005
+#
+# npts            : 1           
+# xmin            :   3.0000E+04
+# xmax            :   3.0000E+04
+# ymin            :   2.1500E-03
+# ymax            :   2.1500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  0.0000E+00  2.1500E-03  8.0000E-05
+#---------------------------------------------------

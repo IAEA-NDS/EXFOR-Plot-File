@@ -1,0 +1,27 @@
+# EXFOR #         : 11188.015  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : D.A.Lind et al.
+# Reference       : Ann.Phys.(N.Y.) 12 (1961) 485
+# DOI             : 10.1016/0003-4916(61)90075-6
+# Quantity        : natTl(n,inl)natTl partial gamma angular differential cross section
+# REACTION        : 81-TL-0(N,INL),PAR,DA,G,4PI
+# File ID         : n-Tl-inl-adxgl-enedisl-mon-einc1.460E+06_angl94_prodTl_Lind_1961_11188.015
+#
+# Einc (eV)       :   1.4600E+06
+# theta,lab (deg) :   94.0000000
+#
+# npts            : 3           
+# xmin            :   2.0200E+05
+# xmax            :   4.0500E+05
+# ymin            :   1.0345E-02
+# ymax            :   2.0611E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.0200E+05  0.0000E+00  2.0611E-02  0.0000E+00
+  2.7500E+05  0.0000E+00  1.0345E-02  0.0000E+00
+  4.0500E+05  0.0000E+00  1.5279E-02  0.0000E+00
+#---------------------------------------------------

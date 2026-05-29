@@ -1,0 +1,26 @@
+# EXFOR #         : 21681.011  
+# EXFOR Ver.      : 20161001
+# TRANS #         : 2253
+# Author          : Y.Hino et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross Sections F.Techn.,Knoxville 1979 page 408
+# DOI             : N/A
+# Quantity        : natNi(n,p) partial gamma angular differential cross section
+# REACTION        : 28-NI-0(N,P),PAR,DA,G
+# File ID         : n-Ni-p-adxgl-enedisl-mon-einc5.300E+06_angl125_prodCo0_Hino_1979_21681.011
+#
+# Einc (eV)       :   5.3000E+06
+# theta,lab (deg) :  125.0000000
+#
+# npts            : 2           
+# xmin            :   4.3300E+05
+# xmax            :   9.3500E+05
+# ymin            :   1.1000E-03
+# ymax            :   2.2000E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.3300E+05  0.0000E+00  1.1000E-03  1.0000E-04
+  9.3500E+05  0.0000E+00  2.2000E-03  4.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 40767.004  
+# EXFOR Ver.      : 20231113
+# TRANS #         : 4216
+# Author          : I.A.Korzh et al.
+# Reference       : Ukr.Fiz.Zh. 11 (1966) 563
+# DOI             : N/A
+# Quantity        : 59Co(n,el)59Co cross section
+# REACTION        : 27-CO-59(N,EL)27-CO-59,,SIG
+# File ID         : n-Co59-el-sig-excfun-mon-prodCo59_Korzh_1966_40767.004
+#
+# npts            : 2           
+# xmin            :   5.0000E+05
+# xmax            :   8.0000E+05
+# ymin            :   3.7300E+00
+# ymax            :   4.7700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+05  5.0000E+04  4.7700E+00  2.4000E-01
+  8.0000E+05  5.0000E+04  3.7300E+00  2.6000E-01
+#---------------------------------------------------

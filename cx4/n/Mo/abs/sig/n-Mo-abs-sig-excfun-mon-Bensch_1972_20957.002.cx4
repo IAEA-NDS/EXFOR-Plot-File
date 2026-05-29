@@ -1,0 +1,25 @@
+# EXFOR #         : 20957.002  
+# EXFOR Ver.      : 19790716
+# TRANS #         : 0000
+# Author          : F.Bensch et al.
+# Reference       : Progress report EANDC(OR)-117 page 1, 1972
+# DOI             : N/A
+# Quantity        : natMo(n,abs) cross section
+# REACTION        : 42-MO-0(N,ABS),,SIG
+# File ID         : n-Mo-abs-sig-excfun-mon-Bensch_1972_20957.002
+#
+# npts            : 4           
+# xmin            :   2.0400E+04
+# xmax            :   8.6490E+05
+# ymin            :   4.6000E-02
+# ymax            :   2.1900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0400E+04  0.0000E+00  2.1900E-01  3.9420E-02
+  1.1720E+05  0.0000E+00  7.0000E-02  2.5900E-02
+  2.3110E+05  0.0000E+00  5.7000E-02  1.9950E-02
+  8.6490E+05  0.0000E+00  4.6000E-02  2.3460E-02
+#---------------------------------------------------

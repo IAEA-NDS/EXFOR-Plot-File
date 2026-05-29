@@ -1,0 +1,23 @@
+# EXFOR #         : 11495.025  
+# EXFOR Ver.      : 20230912
+# TRANS #         : 1508
+# Author          : D.B.Thomson
+# Reference       : Phys.Rev. 129 (1963) 1649
+# DOI             : 10.1103/PhysRev.129.1649
+# Quantity        : 93Nb(n,inl)93Nb cross section
+# REACTION        : 41-NB-93(N,INL)41-NB-93,,SIG
+# File ID         : n-Nb93-inl-sig-excfun-mon-prodNb93_Thomson_1963_11495.025
+#
+# npts            : 2           
+# xmin            :   5.0000E+06
+# xmax            :   6.0000E+06
+# ymin            :   2.1300E+00
+# ymax            :   2.2000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+06  0.0000E+00  2.1300E+00  2.0000E-01
+  6.0000E+06  0.0000E+00  2.2000E+00  2.0000E-01
+#---------------------------------------------------

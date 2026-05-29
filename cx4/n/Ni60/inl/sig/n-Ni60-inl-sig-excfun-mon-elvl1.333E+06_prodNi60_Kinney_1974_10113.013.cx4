@@ -1,0 +1,25 @@
+# EXFOR #         : 10113.013  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4807, 1974
+# DOI             : N/A
+# Quantity        : 60Ni(n,inl)60Ni partial cross section
+# REACTION        : 28-NI-60(N,INL)28-NI-60,PAR,SIG
+# File ID         : n-Ni60-inl-sig-excfun-mon-elvl1.333E+06_prodNi60_Kinney_1974_10113.013
+#
+# Elvl (eV)       :   1.3330E+06
+#
+# npts            : 2           
+# xmin            :   4.3400E+06
+# xmax            :   4.9200E+06
+# ymin            :   2.3410E-01
+# ymax            :   2.9572E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3400E+06  7.0000E+04  2.9572E-01  2.2475E-02
+  4.9200E+06  6.0000E+04  2.3410E-01  1.8494E-02
+#---------------------------------------------------

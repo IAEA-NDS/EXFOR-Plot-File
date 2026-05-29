@@ -1,0 +1,25 @@
+# EXFOR #         : 40662.016  
+# EXFOR Ver.      : 20211201
+# TRANS #         : 4201
+# Author          : N.P.Glazkov
+# Reference       : At.En. 14 (1963) 400
+# DOI             : N/A
+# Quantity        : natW(n,inl)natW partial cross section
+# REACTION        : 74-W-0(N,INL)74-W-0,PAR,SIG
+# File ID         : n-W-inl-sig-lvldis-mon-einc8.000E+05_prodW_Glazkov_1963_40662.016
+#
+# Einc (eV)       :   8.0000E+05
+#
+# npts            : 2           
+# xmin            :   8.5000E+04
+# xmax            :   2.3500E+05
+# ymin            :   2.5000E-01
+# ymax            :   1.6000E+00
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.5000E+04  3.5000E+04  1.6000E+00  1.5000E-01
+  2.3500E+05  2.5000E+04  2.5000E-01  5.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 20053.002  
+# EXFOR Ver.      : 20200801
+# TRANS #         : 2290
+# Author          : E.Steinnes
+# Reference       : Report KR-123, 1967
+# DOI             : N/A
+# Quantity        : 81Br(n,p)81mSe cross section
+# REACTION        : 35-BR-81(N,P)34-SE-81-M,,SIG,,SPA
+# File ID         : n-Br81-p-sig-excfun-spa-prodSe81m_Steinnes_1967_20053.002
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.0000E-05
+# ymax            :   2.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.0000E-05  4.0000E-06
+#---------------------------------------------------

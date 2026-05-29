@@ -1,0 +1,22 @@
+# EXFOR #         : 20256.002  
+# EXFOR Ver.      : 19831122
+# TRANS #         : 0000
+# Author          : A.Bruggeman et al.
+# Reference       : Radiochim.Acta 14 (1970) 147
+# DOI             : 10.1524/ract.1970.14.34.147
+# Quantity        : 28Si(n,p)28Al cross section
+# REACTION        : 14-SI-28(N,P)13-AL-28,,SIG,,FIS
+# File ID         : n-Si28-p-sig-excfun-fis-prodAl28_Bruggeman_1970_20256.002
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   6.6800E-03
+# ymax            :   6.6800E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  6.6800E-03  8.0000E-05
+#---------------------------------------------------

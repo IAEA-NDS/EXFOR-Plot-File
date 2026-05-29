@@ -1,0 +1,25 @@
+# EXFOR #         : 22987.006  
+# EXFOR Ver.      : 20080609
+# TRANS #         : 2200
+# Author          : A.Oehrn et al.
+# Reference       : Phys.Rev.C 77 (2008) 024605
+# DOI             : 10.1103/PhysRevC.77.024605
+# Quantity        : 89Y(n,el)89Y angular differential cross section
+# REACTION        : 39-Y-89(N,EL)39-Y-89,,DA
+# File ID         : n-Y89-el-adxc-angdisc-mon-einc9.600E+07_prodY89_Oehrn_2008_22987.006
+#
+# Einc (eV)       :   9.6000E+07
+# dEinc (eV)      :   5.0000E+05
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   2.2700E+01
+# ymax            :   2.2700E+01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   1.0000000  2.2700E+01  2.2000E+00
+#---------------------------------------------------

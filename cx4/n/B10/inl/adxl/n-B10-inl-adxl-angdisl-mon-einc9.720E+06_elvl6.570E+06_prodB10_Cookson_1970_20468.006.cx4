@@ -1,0 +1,27 @@
+# EXFOR #         : 20468.006  
+# EXFOR Ver.      : 20120708
+# TRANS #         : 2232
+# Author          : J.A.Cookson et al.
+# Reference       : Nucl.Phys.A 146 (1970) 417
+# DOI             : 10.1016/0375-9474(70)90735-9
+# Quantity        : 10B(n,inl)10B partial angular differential cross section
+# REACTION        : 5-B-10(N,INL)5-B-10,PAR,DA
+# File ID         : n-B10-inl-adxl-angdisl-mon-einc9.720E+06_elvl6.570E+06_prodB10_Cookson_1970_20468.006
+#
+# Einc (eV)       :   9.7200E+06
+# dEinc (eV)      :   4.0000E+04
+# Elvl (eV)       :   6.5700E+06
+#
+# npts            : 2           
+# xmin            :   55.0004500
+# xmax            :   70.0000000
+# ymin            :   2.4000E-03
+# ymax            :   2.5000E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  70.0000000   0.0000000  2.5000E-03  9.0000E-04
+  55.0004500   0.0000000  2.4000E-03  1.0000E-03
+#---------------------------------------------------

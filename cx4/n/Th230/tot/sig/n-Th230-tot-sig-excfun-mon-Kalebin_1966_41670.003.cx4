@@ -1,0 +1,22 @@
+# EXFOR #         : 41670.003  
+# EXFOR Ver.      : 20190603
+# TRANS #         : 4183
+# Author          : S.M.Kalebin et al.
+# Reference       : Proceedings of Nuclear Data For Reactors Conf., Paris 1966 1 page 71
+# DOI             : N/A
+# Quantity        : 230Th(n,tot) cross section
+# REACTION        : 90-TH-230(N,TOT),,SIG
+# File ID         : n-Th230-tot-sig-excfun-mon-Kalebin_1966_41670.003
+#
+# npts            : 1           
+# xmin            :   2.5000E-02
+# xmax            :   2.5000E-02
+# ymin            :   7.0000E+01
+# ymax            :   7.0000E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  0.0000E+00  7.0000E+01  3.0000E+00
+#---------------------------------------------------

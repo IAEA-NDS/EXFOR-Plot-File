@@ -1,0 +1,26 @@
+# EXFOR #         : 41707.003  
+# EXFOR Ver.      : 20201026
+# TRANS #         : 4190
+# Author          : L.M.Krizhansky et al.
+# Reference       : J.Nucl.Energy A 10 (1959) 163
+# DOI             : 10.1016/0368-3265(59)90070-2
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-Pu239-f-fyc-nucdis-spa-einc7.500E+06_Krizhansky_1959_41707.003
+#
+# Einc (eV)       :   7.5000E+06
+# dEinc (eV)      :   7.5000E+06
+#
+# npts            : 2           
+# xmin            : 38088.9     
+# xmax            : 38090.9     
+# ymin            :   1.3500E-02
+# ymax            :   2.2800E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     38090.9  2.2800E-02  0.0000E+00
+     38088.9  1.3500E-02  0.0000E+00
+#---------------------------------------------------

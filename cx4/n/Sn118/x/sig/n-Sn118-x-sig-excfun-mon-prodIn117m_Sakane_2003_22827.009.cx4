@@ -1,0 +1,24 @@
+# EXFOR #         : 22827.009  
+# EXFOR Ver.      : 20040221
+# TRANS #         : 0000
+# Author          : H.Sakane et al.
+# Reference       : Ann.Nucl.Energy 30 (2003) 1847
+# DOI             : 10.1016/S0306-4549(03)00160-9
+# Quantity        : 118Sn(n,x)117mIn independent production cross section
+# REACTION        : 50-SN-118(N,X)49-IN-117-M,,SIG
+# File ID         : n-Sn118-x-sig-excfun-mon-prodIn117m_Sakane_2003_22827.009
+#
+# npts            : 3           
+# xmin            :   1.4350E+07
+# xmax            :   1.4870E+07
+# ymin            :   1.7000E-04
+# ymax            :   4.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4870E+07  0.0000E+00  4.0000E-04  6.8000E-05
+  1.4640E+07  0.0000E+00  2.5000E-04  4.2500E-05
+  1.4350E+07  0.0000E+00  1.7000E-04  3.0600E-05
+#---------------------------------------------------

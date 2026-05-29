@@ -1,0 +1,27 @@
+# EXFOR #         : 41245.005  
+# EXFOR Ver.      : 20241224
+# TRANS #         : 4221
+# Author          : A.I.Lashuk
+# Reference       : Yad.Reak.Konst.  No.2 (1996) 59
+# DOI             : N/A
+# Quantity        : natCr(n,inl)natCr partial gamma production cross section
+# REACTION        : 24-CR-0(N,INL)24-CR-0,PAR,SIG,G
+# File ID         : n-Cr-inl-sigg-enedisl-mon-einc3.000E+06_prodCr_Lashuk_1996_41245.005
+#
+# Einc (eV)       :   3.0000E+06
+#
+# npts            : 4           
+# xmin            :   8.0000E+05
+# xmax            :   1.9300E+06
+# ymin            :   4.4000E-02
+# ymax            :   7.9000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+05  0.0000E+00  6.8000E-02  1.0000E-02
+  9.9000E+05  0.0000E+00  2.8200E-01  3.0000E-02
+  1.4200E+06  0.0000E+00  7.9000E-01  8.0000E-02
+  1.9300E+06  0.0000E+00  4.4000E-02  6.0000E-03
+#---------------------------------------------------

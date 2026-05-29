@@ -1,0 +1,29 @@
+# EXFOR #         : 11251.002  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : R.O.Lane et al.
+# Reference       : Progress report ANL-5554 page 22, 1956
+# DOI             : N/A
+# Quantity        : 9Be(n,el)9Be angular differential cross section
+# REACTION        : 4-BE-9(N,EL)4-BE-9,,DA
+# File ID         : n-Be9-el-adxl-angdisc-mon-einc6.210E+05_prodBe9_Lane_1956_11251.002
+#
+# Einc (eV)       :   6.2100E+05
+# dEinc (eV)      :   8.0000E+03
+#
+# npts            : 5           
+# xmin            :   24.4946400
+# xmax            :  149.3053000
+# ymin            :   4.4580E-01
+# ymax            :   8.3680E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  24.4946400   0.0000000  8.3680E-01  0.0000E+00
+  59.0025400   0.0000000  5.7110E-01  0.0000E+00
+ 101.1979000   0.0000000  4.4580E-01  0.0000E+00
+ 118.6984000   0.0000000  5.3620E-01  0.0000E+00
+ 149.3053000   0.0000000  7.3870E-01  0.0000E+00
+#---------------------------------------------------

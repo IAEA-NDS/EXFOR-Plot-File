@@ -1,0 +1,25 @@
+# EXFOR #         : 14537.009  
+# EXFOR Ver.      : 20190625
+# TRANS #         : 1455
+# Author          : H.D.Selby et al.
+# Reference       : Nucl.Data Sheets 111 (2010) 2891
+# DOI             : 10.1016/j.nds.2010.11.002
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-Pu239-f-fyc-nucdis-mxw-einc2.530E-02_Selby_2010_14537.009
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 42099.9     
+# xmax            : 60147.9     
+# ymin            :   2.0300E-02
+# ymax            :   6.2300E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     42099.9  6.2300E-02  1.8067E-03
+     60147.9  2.0300E-02  5.8870E-04
+#---------------------------------------------------

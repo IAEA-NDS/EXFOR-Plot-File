@@ -1,0 +1,23 @@
+# EXFOR #         : 23279.011  
+# EXFOR Ver.      : 20151004
+# TRANS #         : 2247
+# Author          : Y.Uno et al.
+# Reference       : Proceedings of 9.Internat.Symposium on Reactor Dosimetry,Prague,1996 page 465
+# DOI             : N/A
+# Quantity        : 59Co(n,2n+a)54Mn cross section
+# REACTION        : 27-CO-59(N,2N+A)25-MN-54,,SIG
+# File ID         : n-Co59-2na-sig-excfun-mon-prodMn54_Uno_1996_23279.011
+#
+# npts            : 2           
+# xmin            :   2.7790E+07
+# xmax            :   3.0090E+07
+# ymin            :   7.4000E-03
+# ymax            :   2.3500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7790E+07  0.0000E+00  7.4000E-03  3.0000E-04
+  3.0090E+07  0.0000E+00  2.3500E-02  9.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 22347.006  
+# EXFOR Ver.      : 20100713
+# TRANS #         : 2222
+# Author          : D.Nakano et al.
+# Reference       : Report (proceedings) JAERI-C-97-004 page 177, 1997
+# DOI             : N/A
+# Quantity        : 129I(n,2n)128I cross section
+# REACTION        : 53-I-129(N,2N)53-I-128,,SIG
+# File ID         : n-I129-2n-sig-excfun-mon-prodI128_Nakano_1997_22347.006
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.4700E+07
+# ymin            :   1.0200E+00
+# ymax            :   1.2600E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  0.0000E+00  1.0200E+00  1.4000E-01
+  1.4200E+07  0.0000E+00  1.2600E+00  1.7000E-01
+  1.4700E+07  0.0000E+00  1.1300E+00  1.5000E-01
+#---------------------------------------------------

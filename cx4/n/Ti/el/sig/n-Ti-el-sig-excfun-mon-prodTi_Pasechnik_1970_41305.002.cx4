@@ -1,0 +1,24 @@
+# EXFOR #         : 41305.002  
+# EXFOR Ver.      : 20140814
+# TRANS #         : 4164
+# Author          : M.V.Pasechnik et al.
+# Reference       : Yad.Fiz. 11 (1970) 958
+# DOI             : N/A
+# Quantity        : natTi(n,el)natTi cross section
+# REACTION        : 22-TI-0(N,EL)22-TI-0,,SIG
+# File ID         : n-Ti-el-sig-excfun-mon-prodTi_Pasechnik_1970_41305.002
+#
+# npts            : 3           
+# xmin            :   2.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   2.3110E+00
+# ymax            :   2.7130E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  2.7130E+00  5.2000E-02
+  2.5000E+06  0.0000E+00  2.5620E+00  2.3000E-01
+  3.0000E+06  0.0000E+00  2.3110E+00  1.7000E-01
+#---------------------------------------------------

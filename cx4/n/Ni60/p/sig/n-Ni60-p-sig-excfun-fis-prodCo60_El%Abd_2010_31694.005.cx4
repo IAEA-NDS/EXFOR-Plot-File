@@ -1,0 +1,22 @@
+# EXFOR #         : 31694.005  
+# EXFOR Ver.      : 20121126
+# TRANS #         : 3158
+# Author          : A.El Abd
+# Reference       : Appl.Radiat.Isot. 68 (2010) 2007
+# DOI             : 10.1016/j.apradiso.2010.05.005
+# Quantity        : 60Ni(n,p)60Co cross section
+# REACTION        : 28-NI-60(N,P)27-CO-60,,SIG,,FIS
+# File ID         : n-Ni60-p-sig-excfun-fis-prodCo60_El%Abd_2010_31694.005
+#
+# npts            : 1           
+# xmin            :   1.3200E+06
+# xmax            :   1.3200E+06
+# ymin            :   2.4400E-03
+# ymax            :   2.4400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3200E+06  0.0000E+00  2.4400E-03  1.7000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 21891.002  
+# EXFOR Ver.      : 20230208
+# TRANS #         : 2313
+# Author          : D.Antonini et al.
+# Reference       : Nucl.Intrum.Meth. 151 (1978) 567
+# DOI             : 10.1016/0029-554X(78)90171-4
+# Quantity        : 197Au(n,g)198Au cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198,,SIG,,MXW
+# File ID         : n-Au197-g-sig-excfun-mxw-prodAu198_Antonini_1978_21891.002
+#
+# npts            : 2           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   9.3700E+01
+# ymax            :   9.8900E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  9.3700E+01  6.7000E+00
+  2.5300E-02  0.0000E+00  9.8900E+01  7.3000E+00
+#---------------------------------------------------

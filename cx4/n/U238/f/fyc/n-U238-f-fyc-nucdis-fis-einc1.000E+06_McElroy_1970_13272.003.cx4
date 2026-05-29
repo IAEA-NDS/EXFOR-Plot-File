@@ -1,0 +1,26 @@
+# EXFOR #         : 13272.003  
+# EXFOR Ver.      : 20210409
+# TRANS #         : 1482
+# Author          : W.N.McElroy et al.
+# Reference       : Trans.Am.Nucl.Soc. 13 (1970) 868
+# DOI             : N/A
+# Quantity        : 238U(n,f) cumulative fission product yield
+# REACTION        : 92-U-238(N,F)ELEM/MASS,CUM,FY,,FIS
+# File ID         : n-U238-f-fyc-nucdis-fis-einc1.000E+06_McElroy_1970_13272.003
+#
+# Einc (eV)       :   1.0000E+06
+#
+# npts            : 3           
+# xmin            : 42099.9     
+# xmax            : 56140.9     
+# ymin            :   6.0000E-02
+# ymax            :   6.3000E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     42099.9  6.3000E-02  0.0000E+00
+     55137.9  6.3000E-02  0.0000E+00
+     56140.9  6.0000E-02  0.0000E+00
+#---------------------------------------------------

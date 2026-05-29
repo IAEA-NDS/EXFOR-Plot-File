@@ -1,0 +1,28 @@
+# EXFOR #         : 40131.010  
+# EXFOR Ver.      : 20150109
+# TRANS #         : 4172
+# Author          : A.T.Bakov et al.
+# Reference       : Sov.At.Energy 29 (1970) 1080
+# DOI             : 10.1007/BF01666690
+# Quantity        : natZn(n,inl)natZn partial gamma angular differential cross section
+# REACTION        : 30-ZN-0(N,INL)30-ZN-0,PAR,DA,G,4PI/FIS
+# File ID         : n-Zn-inl-adxgl-enedisl-fis-einc1.000E+06_angl90_prodZn_Bakov_1970_40131.010
+#
+# Einc (eV)       :   1.0000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 4           
+# xmin            :   8.2000E+05
+# xmax            :   1.8500E+06
+# ymin            :   1.9099E-02
+# ymax            :   7.1620E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.2000E+05  0.0000E+00  3.2627E-02  4.8940E-03
+  1.0200E+06  0.0000E+00  7.1620E-02  1.0027E-02
+  1.3800E+06  0.0000E+00  1.9099E-02  2.4828E-03
+  1.8500E+06  0.0000E+00  1.9099E-02  1.5279E-03
+#---------------------------------------------------

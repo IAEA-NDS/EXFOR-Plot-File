@@ -1,0 +1,23 @@
+# EXFOR #         : 10290.003  
+# EXFOR Ver.      : 20011227
+# TRANS #         : 0000
+# Author          : M.G.Silbert et al.
+# Reference       : Phys.Rev.C 4 (1971) 220
+# DOI             : 10.1103/PhysRevC.4.220
+# Quantity        : 238U(n,f) cross section
+# REACTION        : 92-U-238(N,F),,SIG,,AV
+# File ID         : n-U238-f-sig-excfun-mon-Silbert_1971_10290.003
+#
+# npts            : 2           
+# xmin            :   2.0000E+04
+# xmax            :   6.5000E+04
+# ymin            :   3.6000E-05
+# ymax            :   6.1000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+04  1.0000E+04  6.1000E-05  2.4000E-05
+  6.5000E+04  3.5000E+04  3.6000E-05  1.4000E-05
+#---------------------------------------------------

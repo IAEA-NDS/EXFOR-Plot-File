@@ -1,0 +1,22 @@
+# EXFOR #         : 22800.010  
+# EXFOR Ver.      : 20151018
+# TRANS #         : 2245
+# Author          : H.Sakane et al.
+# Reference       : Ann.Nucl.Energy 29 (2002) 53
+# DOI             : 10.1016/S0306-4549(01)00025-1
+# Quantity        : 100Mo(n,x)99mNb independent production cross section
+# REACTION        : 42-MO-100(N,X)41-NB-99-M,,SIG
+# File ID         : n-Mo100-x-sig-excfun-mon-prodNb99m_Sakane_2002_22800.010
+#
+# npts            : 1           
+# xmin            :   1.4870E+07
+# xmax            :   1.4870E+07
+# ymin            :   4.1000E-04
+# ymax            :   4.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4870E+07  0.0000E+00  4.1000E-04  1.1480E-04
+#---------------------------------------------------

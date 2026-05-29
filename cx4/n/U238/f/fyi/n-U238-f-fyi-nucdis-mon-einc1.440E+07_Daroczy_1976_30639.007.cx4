@@ -1,0 +1,26 @@
+# EXFOR #         : 30639.007  
+# EXFOR Ver.      : 20090830
+# TRANS #         : 3140
+# Author          : S.Daroczy et al.
+# Reference       : ATOMKI Koezlem. 18 (1976) 317
+# DOI             : N/A
+# Quantity        : 238U(n,f) independent fission product yield
+# REACTION        : 92-U-238(N,F)ELEM/MASS,IND,FY
+# File ID         : n-U238-f-fyi-nucdis-mon-einc1.440E+07_Daroczy_1976_30639.007
+#
+# Einc (eV)       :   1.4400E+07
+# dEinc (eV)      :   1.9000E+05
+#
+# npts            : 2           
+# xmin            : 54135.9     
+# xmax            : 57140.9     
+# ymin            :   4.6000E-04
+# ymax            :   2.9900E-03
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     54135.9  2.9900E-03  1.0600E-03
+     57140.9  4.6000E-04  5.0000E-04
+#---------------------------------------------------

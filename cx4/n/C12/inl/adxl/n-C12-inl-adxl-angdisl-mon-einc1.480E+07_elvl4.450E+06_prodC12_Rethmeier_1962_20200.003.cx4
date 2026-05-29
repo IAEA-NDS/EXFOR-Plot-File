@@ -1,0 +1,28 @@
+# EXFOR #         : 20200.003  
+# EXFOR Ver.      : 19831121
+# TRANS #         : 0000
+# Author          : J.Rethmeier et al.
+# Reference       : Nucl.Intrum.Meth. 17 (1962) 273
+# DOI             : 10.1016/0029-554X(62)90006-X
+# Quantity        : 12C(n,inl)12C partial angular differential cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,DA
+# File ID         : n-C12-inl-adxl-angdisl-mon-einc1.480E+07_elvl4.450E+06_prodC12_Rethmeier_1962_20200.003
+#
+# Einc (eV)       :   1.4800E+07
+# Elvl (eV)       :   4.4500E+06
+#
+# npts            : 4           
+# xmin            :    9.9363670
+# xmax            :   40.0039600
+# ymin            :   2.2000E-02
+# ymax            :   9.4400E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.0039600   0.0000000  2.2000E-02  7.0000E-03
+  30.0029100   0.0000000  4.2300E-02  8.3000E-03
+  19.9484400   0.0000000  4.4300E-02  4.5000E-03
+   9.9363670   0.0000000  9.4400E-02  1.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 40683.008  
+# EXFOR Ver.      : 20231010
+# TRANS #         : 4215
+# Author          : M.V.Pasechnik et al.
+# Reference       : Sov.At.Energy 16 (1964) 246
+# DOI             : 10.1007/BF01122966
+# Quantity        : natCd(n,el)natCd cross section
+# REACTION        : 48-CD-0(N,EL)48-CD-0,,SIG
+# File ID         : n-Cd-el-sig-excfun-mon-prodCd_Pasechnik_1964_40683.008
+#
+# npts            : 2           
+# xmin            :   5.0000E+05
+# xmax            :   8.0000E+05
+# ymin            :   6.1600E+00
+# ymax            :   6.8800E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+05  5.0000E+04  6.8800E+00  2.1000E-01
+  8.0000E+05  5.0000E+04  6.1600E+00  1.8000E-01
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 33171.003  
+# EXFOR Ver.      : 20220311
+# TRANS #         : 3207
+# Author          : M.Mehta et al.
+# Reference       : Appl.Radiat.Isot. 182 (2022) 110142
+# DOI             : 10.1016/j.apradiso.2022.110142
+# Quantity        : 88Sr(n,2n)87mSr cross section
+# REACTION        : 38-SR-88(N,2N)38-SR-87-M,,SIG,,SPA
+# File ID         : n-Sr88-2n-sig-excfun-spa-prodSr87m_Mehta_2022_33171.003
+#
+# npts            : 2           
+# xmin            :   1.3970E+07
+# xmax            :   1.6990E+07
+# ymin            :   2.4562E-01
+# ymax            :   2.5387E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3970E+07  6.8000E+05  2.4562E-01  1.5291E-02
+  1.6990E+07  5.3000E+05  2.5387E-01  1.7611E-02
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 22393.015  
+# EXFOR Ver.      : 19980723
+# TRANS #         : 0000
+# Author          : Y.Kasugai et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 635
+# DOI             : N/A
+# Quantity        : 164Dy(n,p)164Tb cross section
+# REACTION        : 66-DY-164(N,P)65-TB-164,,SIG
+# File ID         : n-Dy164-p-sig-excfun-mon-prodTb164_Kasugai_1997_22393.015
+#
+# npts            : 3           
+# xmin            :   1.4030E+07
+# xmax            :   1.4950E+07
+# ymin            :   2.1000E-03
+# ymax            :   2.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4030E+07  0.0000E+00  2.1000E-03  5.0000E-04
+  1.4660E+07  0.0000E+00  2.1000E-03  1.0000E-03
+  1.4950E+07  0.0000E+00  2.8000E-03  6.0000E-04
+#---------------------------------------------------

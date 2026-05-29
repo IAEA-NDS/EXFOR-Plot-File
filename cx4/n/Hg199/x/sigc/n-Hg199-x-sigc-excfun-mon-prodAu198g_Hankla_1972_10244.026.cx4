@@ -1,0 +1,22 @@
+# EXFOR #         : 10244.026  
+# EXFOR Ver.      : 20210731
+# TRANS #         : 1485
+# Author          : A.K.Hankla et al.
+# Reference       : Nucl.Phys.A 180 (1972) 157
+# DOI             : 10.1016/0375-9474(72)90162-5
+# Quantity        : 199Hg(n,x)198gAu cumulative production cross section
+# REACTION        : 80-HG-199(N,X)79-AU-198-G,(M),SIG
+# File ID         : n-Hg199-x-sigc-excfun-mon-prodAu198g_Hankla_1972_10244.026
+#
+# npts            : 1           
+# xmin            :   1.4400E+07
+# xmax            :   1.4400E+07
+# ymin            :   4.0000E-04
+# ymax            :   4.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4400E+07  4.0000E+05  4.0000E-04  6.0000E-05
+#---------------------------------------------------

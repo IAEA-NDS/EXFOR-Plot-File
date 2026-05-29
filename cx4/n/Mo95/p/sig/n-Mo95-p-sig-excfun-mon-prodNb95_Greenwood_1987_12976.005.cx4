@@ -1,0 +1,23 @@
+# EXFOR #         : 12976.005  
+# EXFOR Ver.      : 20250601
+# TRANS #         : 1520
+# Author          : L.R.Greenwood et al.
+# Reference       : Phys.Rev.C 35 (1987) 76
+# DOI             : 10.1103/PhysRevC.35.76
+# Quantity        : 95Mo(n,p)95Nb cross section
+# REACTION        : 42-MO-95(N,P)41-NB-95,,SIG
+# File ID         : n-Mo95-p-sig-excfun-mon-prodNb95_Greenwood_1987_12976.005
+#
+# npts            : 2           
+# xmin            :   1.4550E+07
+# xmax            :   1.4780E+07
+# ymin            :   3.7100E-02
+# ymax            :   4.0400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4550E+07  2.0000E+05  4.0400E-02  2.4240E-03
+  1.4780E+07  2.0000E+05  3.7100E-02  2.2260E-03
+#---------------------------------------------------

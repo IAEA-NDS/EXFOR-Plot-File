@@ -1,0 +1,22 @@
+# EXFOR #         : 12918.014  
+# EXFOR Ver.      : 19851108
+# TRANS #         : 0000
+# Author          : D.A.Leich et al.
+# Reference       : Private communication  (1985)
+# DOI             : N/A
+# Quantity        : natBa(n,x)134Xe independent production cross section
+# REACTION        : 56-BA-0(N,X)54-XE-134,,SIG
+# File ID         : n-Ba-x-sig-excfun-mon-prodXe134_Leich_1985_12918.014
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   3.5000E-04
+# ymax            :   3.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  5.0000E+05  3.5000E-04  2.0000E-05
+#---------------------------------------------------

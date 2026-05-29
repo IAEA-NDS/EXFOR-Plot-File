@@ -1,0 +1,22 @@
+# EXFOR #         : 31871.022  
+# EXFOR Ver.      : 20260212
+# TRANS #         : 3222
+# Author          : M.Kostal et al.
+# Reference       : Ann.Nucl.Energy 206 (2024) 110616
+# DOI             : 10.1016/j.anucene.2024.110616
+# Quantity        : 127I(n,2n)126I cross section
+# REACTION        : 53-I-127(N,2N)53-I-126,,SIG,,SPA
+# File ID         : n-I127-2n-sig-excfun-spa-prodI126_Kostal_2024_31871.022
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   3.2760E-04
+# ymax            :   3.2760E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  3.2760E-04  1.3104E-05
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 41667.003  
+# EXFOR Ver.      : 20190513
+# TRANS #         : 4182
+# Author          : P.A.Krupchinsky
+# Reference       : J.Nucl.Energy 6 (1957) 155
+# DOI             : 10.1016/0891-3919(57)90196-1
+# Quantity        : 240Pu(n,abs) cross section
+# REACTION        : 94-PU-240(N,ABS),,SIG,,SPA
+# File ID         : n-Pu240-abs-sig-excfun-spa-Krupchinsky_1957_41667.003
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.0100E+03
+# ymax            :   1.0100E+03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.0100E+03  1.2000E+02
+#---------------------------------------------------

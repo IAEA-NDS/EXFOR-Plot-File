@@ -1,0 +1,31 @@
+# EXFOR #         : 14564.002  
+# EXFOR Ver.      : 20190731
+# TRANS #         : 1456
+# Author          : L.R.Bunney et al.
+# Reference       : Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 444
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-Pu239-f-fyc-nucdis-mon-einc2.530E-02_Bunney_1958_14564.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 8           
+# xmin            : 58144.9     
+# xmax            : 66166.9     
+# ymin            :   6.8000E-07
+# ymax            :   3.6000E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     58144.9  3.6000E-02  0.0000E+00
+     60147.9  2.2000E-02  0.0000E+00
+     61149.9  1.4000E-02  0.0000E+00
+     62153.9  3.3000E-03  0.0000E+00
+     63156.9  1.0000E-03  0.0000E+00
+     64159.9  2.1000E-04  0.0000E+00
+     65161.9  3.9000E-05  0.0000E+00
+     66166.9  6.8000E-07  0.0000E+00
+#---------------------------------------------------

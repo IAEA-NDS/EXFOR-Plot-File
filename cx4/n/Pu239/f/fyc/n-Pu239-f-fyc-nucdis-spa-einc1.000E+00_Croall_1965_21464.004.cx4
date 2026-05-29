@@ -1,0 +1,26 @@
+# EXFOR #         : 21464.004  
+# EXFOR Ver.      : 20211224
+# TRANS #         : 2306
+# Author          : I.F.Croall et al.
+# Reference       : Proceedings of Physics and Chemistry of Fission Conf., Salzburg 1965 1 page 355
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-Pu239-f-fyc-nucdis-spa-einc1.000E+00_Croall_1965_21464.004
+#
+# Einc (eV)       :   1.0000E+00
+#
+# npts            : 3           
+# xmin            : 33077.9     
+# xmax            : 35083.9     
+# ymin            :   1.3000E-04
+# ymax            :   3.1000E-03
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     33077.9  1.3000E-04  0.0000E+00
+     33078.9  3.5000E-04  0.0000E+00
+     35083.9  3.1000E-03  0.0000E+00
+#---------------------------------------------------

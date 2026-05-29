@@ -1,0 +1,23 @@
+# EXFOR #         : 14502.004  
+# EXFOR Ver.      : 20180509
+# TRANS #         : 1441
+# Author          : I.Newsome et al.
+# Reference       : Phys.Rev.C 97 (2018) 044617
+# DOI             : 10.1103/PhysRevC.97.044617
+# Quantity        : 65Cu(n,g)66Cu cross section
+# REACTION        : 29-CU-65(N,G)29-CU-66,,SIG
+# File ID         : n-Cu65-g-sig-excfun-mon-prodCu66_Newsome_2018_14502.004
+#
+# npts            : 2           
+# xmin            :   3.9000E+05
+# xmax            :   8.8000E+05
+# ymin            :   9.0300E-03
+# ymax            :   1.2530E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9000E+05  1.0000E+05  1.2530E-02  1.3000E-03
+  8.8000E+05  9.0000E+04  9.0300E-03  1.1200E-03
+#---------------------------------------------------

@@ -1,0 +1,30 @@
+# EXFOR #         : 11500.007  
+# EXFOR Ver.      : 20120412
+# TRANS #         : 1381
+# Author          : V.E.Scherrer et al.
+# Reference       : Phys.Rev. 98 (1955) 224(B7)
+# DOI             : N/A
+# Quantity        : 197Au(n,inl)197Au partial gamma angular differential cross section
+# REACTION        : 79-AU-197(N,INL)79-AU-197,PAR,DA,G,4PI
+# File ID         : n-Au197-inl-adxgl-enedisl-mon-einc2.500E+06_angl90_prodAu197_Scherrer_1955_11500.007
+#
+# Einc (eV)       :   2.5000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 6           
+# xmin            :   2.7000E+05
+# xmax            :   1.9900E+06
+# ymin            :   3.5810E-05
+# ymax            :   3.7401E-04
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.7000E+05  0.0000E+00  3.7401E-04  9.3504E-05
+  5.4000E+05  0.0000E+00  2.0929E-04  5.2322E-05
+  8.3000E+05  0.0000E+00  3.5810E-05  8.9525E-06
+  9.5000E+05  0.0000E+00  1.3687E-04  3.4218E-05
+  1.4300E+06  0.0000E+00  1.1618E-04  2.9046E-05
+  1.9900E+06  0.0000E+00  9.5493E-05  2.3873E-05
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 40749.002  
+# EXFOR Ver.      : 20180320
+# TRANS #         : 4178
+# Author          : B.G.Kazyula et al.
+# Reference       : Yad.Reak.Konst.  No.4/39 (1980) 14
+# DOI             : N/A
+# Quantity        : 238U(n,inl)238U partial cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,SIG
+# File ID         : n-U238-inl-sig-lvldis-mon-einc9.800E+05_prodU238_Kazyula_1980_40749.002
+#
+# Einc (eV)       :   9.8000E+05
+#
+# npts            : 2           
+# xmin            :   6.8000E+05
+# xmax            :   7.3200E+05
+# ymin            :   1.8200E-01
+# ymax            :   3.7500E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.8000E+05  0.0000E+00  3.7500E-01  3.4000E-02
+  7.3200E+05  0.0000E+00  1.8200E-01  2.1000E-02
+#---------------------------------------------------

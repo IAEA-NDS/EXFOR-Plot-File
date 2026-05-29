@@ -1,0 +1,22 @@
+# EXFOR #         : 32822.003  
+# EXFOR Ver.      : 20231122
+# TRANS #         : 3210
+# Author          : Liang Qichang et al.
+# Reference       : At.En.Sci.Technol. 3 (1964) 199
+# DOI             : N/A
+# Quantity        : 238U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-238(N,F),PR,NU,,FIS
+# File ID         : n-U238-f-nup-excfun-fis-Liang%Qichang_1964_32822.003
+#
+# npts            : 1           
+# xmin            :   1.3200E+06
+# xmax            :   1.3200E+06
+# ymin            :   2.8900E+00
+# ymax            :   2.8900E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.3200E+06  0.0000E+00  2.8900E+00  1.4000E-01
+#---------------------------------------------------

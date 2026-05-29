@@ -1,0 +1,28 @@
+# EXFOR #         : 10097.002  
+# EXFOR Ver.      : 19991013
+# TRANS #         : 0000
+# Author          : V.J.Orphan et al.
+# Reference       : Nucl.Sci.Eng. 42 (1970) 352
+# DOI             : 10.13182/NSE70-A21223
+# Quantity        : 16O(n,inl)16O partial gamma angular differential cross section
+# REACTION        : 8-O-16(N,INL)8-O-16,PAR,DA,G
+# File ID         : n-O16-inl-adxgl-excfun-mon-angl125_eoutl2.743E+06_prodO16_Orphan_1970_10097.002
+#
+# theta,lab (deg) :  125.0000000
+# Eout,lab (eV)   :   2.7430E+06
+#
+# npts            : 4           
+# xmin            :   1.0400E+07
+# xmax            :   1.5245E+07
+# ymin            :   1.4000E-03
+# ymax            :   2.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.0400E+07  7.2000E+05  1.4000E-03  5.6000E-04
+  1.2015E+07  8.9500E+05  2.4000E-03  7.2000E-04
+  1.3440E+07  5.3000E+05  2.5000E-03  1.0000E-03
+  1.5245E+07  1.2750E+06  2.8000E-03  8.4000E-04
+#---------------------------------------------------

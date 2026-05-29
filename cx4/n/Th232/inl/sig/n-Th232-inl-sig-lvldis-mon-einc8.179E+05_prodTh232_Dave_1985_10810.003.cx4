@@ -1,0 +1,26 @@
+# EXFOR #         : 10810.003  
+# EXFOR Ver.      : 20110112
+# TRANS #         : 1369
+# Author          : J.H.Dave et al.
+# Reference       : Nucl.Sci.Eng. 91 (1985) 187
+# DOI             : 10.13182/NSE85-A27441
+# Quantity        : 232Th(n,inl)232Th partial cross section
+# REACTION        : 90-TH-232(N,INL)90-TH-232,PAR,SIG
+# File ID         : n-Th232-inl-sig-lvldis-mon-einc8.179E+05_prodTh232_Dave_1985_10810.003
+#
+# Einc (eV)       :   8.1790E+05
+#
+# npts            : 3           
+# xmin            :   7.1320E+05
+# xmax            :   7.8520E+05
+# ymin            :   5.4000E-03
+# ymax            :   1.4790E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.1320E+05  0.0000E+00  1.4790E-01  1.9400E-02
+  7.3030E+05  0.0000E+00  4.5200E-02  8.7000E-03
+  7.8520E+05  0.0000E+00  5.4000E-03  4.8000E-03
+#---------------------------------------------------

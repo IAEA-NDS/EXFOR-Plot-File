@@ -1,0 +1,25 @@
+# EXFOR #         : 11169.004  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : R.W.Zurmuehle et al.
+# Reference       : Phys.Rev. 132 (1963) 751
+# DOI             : 10.1103/PhysRev.132.751
+# Quantity        : 3He(n,inl)3He gamma angular differential cross section
+# REACTION        : 2-HE-3(N,INL)2-HE-3,,DA,G
+# File ID         : n-He3-inl-adxgl-angdisl-mon-einc4.000E+06_prodHe3_Zurmuehle_1963_11169.004
+#
+# Einc (eV)       :   4.0000E+06
+# dEinc (eV)      :   6.0000E+05
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   5.0000E-06
+# ymax            :   5.0000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  5.0000E-06  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 22634.002  
+# EXFOR Ver.      : 20010904
+# TRANS #         : 0000
+# Author          : H.Takagi et al.
+# Reference       : Report (proceedings) JAERI-C-99-002 page 204, 1999
+# DOI             : N/A
+# Quantity        : natZr(n,p+x) double differential cross section
+# REACTION        : 40-ZR-0(N,X)1-H-1,,DA/DE
+# File ID         : n-Zr-xp-ddxl-angdisl-mon-einc1.410E+07_eoutl7.250E+06_Takagi_1999_22634.002
+#
+# Einc (eV)       :   1.4100E+07
+# Eout,lab (eV)   :   7.2500E+06
+#
+# npts            : 2           
+# xmin            :   60.0000000
+# xmax            :   90.0000000
+# ymin            :   3.3100E-10
+# ymax            :   8.1200E-10
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  60.0000000   0.0000000  8.1200E-10  3.8600E-10
+  90.0000000   0.0000000  3.3100E-10  2.0400E-10
+#---------------------------------------------------

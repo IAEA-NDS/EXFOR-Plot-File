@@ -1,0 +1,24 @@
+# EXFOR #         : 32226.010  
+# EXFOR Ver.      : 20091116
+# TRANS #         : 3143
+# Author          : R.M.Musaelyan et al.
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 217
+# DOI             : N/A
+# Quantity        : 130Te(n,inl)130Te partial cross section
+# REACTION        : 52-TE-130(N,INL)52-TE-130,PAR,SIG
+# File ID         : n-Te130-inl-sig-excfun-mon-elvl8.395E+05_prodTe130_Musaelyan_1987_32226.010
+#
+# Elvl (eV)       :   8.3949E+05
+#
+# npts            : 1           
+# xmin            :   1.9700E+06
+# xmax            :   1.9700E+06
+# ymin            :   7.1000E-01
+# ymax            :   7.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9700E+06  0.0000E+00  7.1000E-01  7.0000E-02
+#---------------------------------------------------

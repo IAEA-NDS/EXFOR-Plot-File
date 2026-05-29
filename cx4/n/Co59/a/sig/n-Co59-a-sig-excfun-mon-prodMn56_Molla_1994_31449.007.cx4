@@ -1,0 +1,26 @@
+# EXFOR #         : 31449.007  
+# EXFOR Ver.      : 20071207
+# TRANS #         : 3124
+# Author          : N.I.Molla et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 2 page 938
+# DOI             : N/A
+# Quantity        : 59Co(n,a)56Mn cross section
+# REACTION        : 27-CO-59(N,A)25-MN-56,,SIG
+# File ID         : n-Co59-a-sig-excfun-mon-prodMn56_Molla_1994_31449.007
+#
+# npts            : 5           
+# xmin            :   1.3570E+07
+# xmax            :   1.4710E+07
+# ymin            :   2.8000E-02
+# ymax            :   3.0700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3570E+07  0.0000E+00  2.8000E-02  1.6000E-03
+  1.3900E+07  0.0000E+00  2.9700E-02  1.9000E-03
+  1.4100E+07  0.0000E+00  3.0700E-02  2.2000E-03
+  1.4510E+07  0.0000E+00  2.9200E-02  1.6000E-03
+  1.4710E+07  0.0000E+00  2.8100E-02  1.7000E-03
+#---------------------------------------------------

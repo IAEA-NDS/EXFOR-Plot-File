@@ -1,0 +1,27 @@
+# EXFOR #         : 13958.003  
+# EXFOR Ver.      : 20150609
+# TRANS #         : 1408
+# Author          : K.H.Guber et al.
+# Reference       : Proceedings of Symp.on Capt.Gamma Ray Spectroscopy, Santa Fe,NM 1999 page 737
+# DOI             : N/A
+# Quantity        : 27Al(n,g)28Al cross section
+# REACTION        : 13-AL-27(N,G)13-AL-28,,SIG,,AV
+# File ID         : n-Al27-g-sig-excfun-mon-prodAl28_Guber_1999_13958.003
+#
+# npts            : 6           
+# xmin            :   5.5000E+03
+# xmax            :   3.5000E+05
+# ymin            :   3.9000E-04
+# ymax            :   9.2300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+03  5.0000E+02  9.2300E-02  0.0000E+00
+  3.0000E+04  2.0000E+04  2.9300E-03  0.0000E+00
+  7.5000E+04  2.5000E+04  1.4000E-03  0.0000E+00
+  1.5000E+05  5.0000E+04  7.4000E-04  0.0000E+00
+  2.5000E+05  5.0000E+04  3.9000E-04  0.0000E+00
+  3.5000E+05  5.0000E+04  5.8000E-04  0.0000E+00
+#---------------------------------------------------

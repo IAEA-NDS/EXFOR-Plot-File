@@ -1,0 +1,23 @@
+# EXFOR #         : 20634.002  
+# EXFOR Ver.      : 19840127
+# TRANS #         : 0000
+# Author          : E.M.Gryntakis et al.
+# Reference       : J.Inorg.Nucl.Chem. 36 (1974) 1447
+# DOI             : 10.1016/0022-1902(74)80603-2
+# Quantity        : 231Pa(n,g)232Pa cross section
+# REACTION        : 91-PA-231(N,G)91-PA-232,,SIG,,MXW
+# File ID         : n-Pa231-g-sig-excfun-mxw-prodPa232_Gryntakis_1974_20634.002
+#
+# npts            : 2           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.0100E+02
+# ymax            :   2.1800E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.0100E+02  2.2000E+01
+  2.5300E-02  0.0000E+00  2.1800E+02  1.4000E+01
+#---------------------------------------------------

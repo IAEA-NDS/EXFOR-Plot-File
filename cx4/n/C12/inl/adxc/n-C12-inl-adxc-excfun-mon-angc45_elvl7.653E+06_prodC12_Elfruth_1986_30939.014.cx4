@@ -1,0 +1,25 @@
+# EXFOR #         : 30939.014  
+# EXFOR Ver.      : 20011122
+# TRANS #         : 0000
+# Author          : T.Elfruth et al.
+# Reference       : Report INDC(GDR)-044 page 3, 1986
+# DOI             : N/A
+# Quantity        : 12C(n,inl)12C partial angular differential cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,DA
+# File ID         : n-C12-inl-adxc-excfun-mon-angc45_elvl7.653E+06_prodC12_Elfruth_1986_30939.014
+#
+# theta,cm (deg)  :   45.1000000
+# Elvl (eV)       :   7.6530E+06
+#
+# npts            : 1           
+# xmin            :   1.4110E+07
+# xmax            :   1.4110E+07
+# ymin            :   1.0000E-03
+# ymax            :   1.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4110E+07  0.0000E+00  1.0000E-03  3.0000E-04
+#---------------------------------------------------

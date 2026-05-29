@@ -1,0 +1,22 @@
+# EXFOR #         : 12033.003  
+# EXFOR Ver.      : 20080624
+# TRANS #         : 1349
+# Author          : R.G.Wille et al.
+# Reference       : Phys.Rev. 118 (1960) 242
+# DOI             : 10.1103/PhysRev.118.242
+# Quantity        : 136Ba(n,2n)135mBa cross section
+# REACTION        : 56-BA-136(N,2N)56-BA-135-M,,SIG
+# File ID         : n-Ba136-2n-sig-excfun-mon-prodBa135m_Wille_1960_12033.003
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   7.0000E-01
+# ymax            :   7.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  8.0000E+05  7.0000E-01  8.0000E-02
+#---------------------------------------------------

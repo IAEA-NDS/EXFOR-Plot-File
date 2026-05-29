@@ -1,0 +1,26 @@
+# EXFOR #         : 20962.004  
+# EXFOR Ver.      : 19791211
+# TRANS #         : 0000
+# Author          : J.H.Montague et al.
+# Reference       : Nucl.Phys. 30 (1962) 93
+# DOI             : 10.1016/0029-5582(62)90033-0
+# Quantity        : 56Fe(n,inl)56Fe partial gamma production cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+# File ID         : n-Fe56-inl-sigg-enedisl-mon-einc2.870E+06_prodFe56_Montague_1962_20962.004
+#
+# Einc (eV)       :   2.8700E+06
+# dEinc (eV)      :   5.0000E+04
+#
+# npts            : 2           
+# xmin            :   1.2600E+06
+# xmax            :   1.8100E+06
+# ymin            :   5.8000E-02
+# ymax            :   6.8000E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+06  0.0000E+00  5.8000E-02  7.0000E-03
+  1.8100E+06  0.0000E+00  6.8000E-02  8.0000E-03
+#---------------------------------------------------

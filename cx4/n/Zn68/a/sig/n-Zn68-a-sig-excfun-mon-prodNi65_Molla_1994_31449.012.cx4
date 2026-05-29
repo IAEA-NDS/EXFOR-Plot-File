@@ -1,0 +1,24 @@
+# EXFOR #         : 31449.012  
+# EXFOR Ver.      : 20071207
+# TRANS #         : 3124
+# Author          : N.I.Molla et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 2 page 938
+# DOI             : N/A
+# Quantity        : 68Zn(n,a)65Ni cross section
+# REACTION        : 30-ZN-68(N,A)28-NI-65,,SIG
+# File ID         : n-Zn68-a-sig-excfun-mon-prodNi65_Molla_1994_31449.012
+#
+# npts            : 3           
+# xmin            :   1.3900E+07
+# xmax            :   1.4710E+07
+# ymin            :   9.5000E-03
+# ymax            :   1.1900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3900E+07  0.0000E+00  9.5000E-03  1.0000E-03
+  1.4510E+07  0.0000E+00  1.0000E-02  1.1000E-03
+  1.4710E+07  0.0000E+00  1.1900E-02  1.2000E-03
+#---------------------------------------------------

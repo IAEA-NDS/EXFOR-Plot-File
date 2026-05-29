@@ -1,0 +1,26 @@
+# EXFOR #         : 40521.014  
+# EXFOR Ver.      : 20191212
+# TRANS #         : 4185
+# Author          : V.M.Bezotosnyj et al.
+# Reference       : Progress report YK-22 page 21, 1976
+# DOI             : N/A
+# Quantity        : natFe(n,inl)natFe partial gamma production cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-0,PAR,SIG,G
+# File ID         : n-Fe-inl-sigg-enedisl-mon-einc2.500E+06_prodFe_Bezotosnyj_1976_40521.014
+#
+# Einc (eV)       :   2.5000E+06
+#
+# npts            : 3           
+# xmin            :   1.2400E+06
+# xmax            :   1.8100E+06
+# ymin            :   1.1000E-02
+# ymax            :   7.0000E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2400E+06  0.0000E+00  7.0000E-02  1.1000E-02
+  1.4100E+06  0.0000E+00  5.4000E-02  1.0000E-02
+  1.8100E+06  0.0000E+00  1.1000E-02  5.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 21709.003  
+# EXFOR Ver.      : 20151213
+# TRANS #         : 2246
+# Author          : J.Laurec et al.
+# Reference       : Report CEA-R-5109, 1981
+# DOI             : N/A
+# Quantity        : 93Nb(n,2n)92mNb cross section
+# REACTION        : 41-NB-93(N,2N)41-NB-92-M,,SIG
+# File ID         : n-Nb93-2n-sig-excfun-mon-prodNb92m_Laurec_1981_21709.003
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4800E+07
+# ymin            :   4.6300E-01
+# ymax            :   4.6700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.0000E+05  4.6300E-01  1.8000E-02
+  1.4800E+07  3.0000E+05  4.6700E-01  1.8000E-02
+#---------------------------------------------------

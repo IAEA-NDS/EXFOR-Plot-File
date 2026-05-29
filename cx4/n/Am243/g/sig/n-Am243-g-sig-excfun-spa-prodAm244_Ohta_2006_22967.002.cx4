@@ -1,0 +1,22 @@
+# EXFOR #         : 22967.002  
+# EXFOR Ver.      : 20090218
+# TRANS #         : 2208
+# Author          : M.Ohta et al.
+# Reference       : J.Nucl.Sci.Technol. 43 (2006) 1441
+# DOI             : 10.1080/18811248.2006.9711239
+# Quantity        : 243Am(n,g)244Am cross section
+# REACTION        : 95-AM-243(N,G)95-AM-244,,SIG,,SPA
+# File ID         : n-Am243-g-sig-excfun-spa-prodAm244_Ohta_2006_22967.002
+#
+# npts            : 1           
+# xmin            :   2.5000E-02
+# xmax            :   2.5000E-02
+# ymin            :   1.7450E+02
+# ymax            :   1.7450E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  2.5300E-02  1.7450E+02  5.3000E+00
+#---------------------------------------------------

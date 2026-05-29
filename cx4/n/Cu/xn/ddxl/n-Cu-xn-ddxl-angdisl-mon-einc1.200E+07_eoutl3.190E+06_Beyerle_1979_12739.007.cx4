@@ -1,0 +1,27 @@
+# EXFOR #         : 12739.007  
+# EXFOR Ver.      : 20210928
+# TRANS #         : 1493
+# Author          : A.G.Beyerle et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross Sections F.Techn.,Knoxville 1979 page 139
+# DOI             : N/A
+# Quantity        : natCu(n,n+x) double differential cross section
+# REACTION        : 29-CU-0(N,X)0-NN-1,,DA/DE
+# File ID         : n-Cu-xn-ddxl-angdisl-mon-einc1.200E+07_eoutl3.190E+06_Beyerle_1979_12739.007
+#
+# Einc (eV)       :   1.2000E+07
+# Eout,lab (eV)   :   3.1900E+06
+#
+# npts            : 3           
+# xmin            :   75.0000000
+# xmax            :  145.0000000
+# ymin            :   6.7800E-09
+# ymax            :   1.8400E-08
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  75.0000000   0.0000000  6.7800E-09  0.0000E+00
+ 125.0000000   0.0000000  1.4450E-08  0.0000E+00
+ 145.0000000   0.0000000  1.8400E-08  0.0000E+00
+#---------------------------------------------------

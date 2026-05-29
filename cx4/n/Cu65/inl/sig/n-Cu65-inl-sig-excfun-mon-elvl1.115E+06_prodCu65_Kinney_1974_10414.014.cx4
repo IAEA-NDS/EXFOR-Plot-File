@@ -1,0 +1,27 @@
+# EXFOR #         : 10414.014  
+# EXFOR Ver.      : 20030220
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4908, 1974
+# DOI             : N/A
+# Quantity        : 65Cu(n,inl)65Cu partial cross section
+# REACTION        : 29-CU-65(N,INL)29-CU-65,PAR,SIG
+# File ID         : n-Cu65-inl-sig-excfun-mon-elvl1.115E+06_prodCu65_Kinney_1974_10414.014
+#
+# Elvl (eV)       :   1.1150E+06
+#
+# npts            : 4           
+# xmin            :   5.5000E+06
+# xmax            :   7.0000E+06
+# ymin            :   3.0690E-02
+# ymax            :   4.7800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+06  9.0000E+04  4.7440E-02  7.1634E-03
+  6.0000E+06  4.0000E+04  4.7800E-02  8.1260E-03
+  6.4900E+06  4.0000E+04  4.1130E-02  5.6348E-03
+  7.0000E+06  6.0000E+04  3.0690E-02  9.2377E-03
+#---------------------------------------------------

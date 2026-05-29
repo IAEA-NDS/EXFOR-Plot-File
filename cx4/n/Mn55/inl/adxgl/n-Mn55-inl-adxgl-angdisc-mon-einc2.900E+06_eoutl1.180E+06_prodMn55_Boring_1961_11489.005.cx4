@@ -1,0 +1,30 @@
+# EXFOR #         : 11489.005  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : J.W.Boring et al.
+# Reference       : Phys.Rev. 124 (1961) 1531
+# DOI             : 10.1103/PhysRev.124.1531
+# Quantity        : 55Mn(n,inl)55Mn partial gamma angular differential cross section
+# REACTION        : 25-MN-55(N,INL)25-MN-55,PAR,DA,G
+# File ID         : n-Mn55-inl-adxgl-angdisc-mon-einc2.900E+06_eoutl1.180E+06_prodMn55_Boring_1961_11489.005
+#
+# Einc (eV)       :   2.9000E+06
+# dEinc (eV)      :   1.7000E+05
+# Eout,lab (eV)   :   1.1800E+06
+#
+# npts            : 5           
+# xmin            :    0.0000000
+# xmax            :   91.0027200
+# ymin            :   2.0000E-02
+# ymax            :   2.9000E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000  18.0000000  2.1000E-02  3.0000E-03
+  19.9987600  18.0000000  2.8000E-02  4.0000E-03
+  40.9746300  18.0000000  2.9000E-02  4.0000E-03
+  69.0225800  18.0000000  2.2000E-02  3.0000E-03
+  91.0027200  18.0000000  2.0000E-02  3.0000E-03
+#---------------------------------------------------

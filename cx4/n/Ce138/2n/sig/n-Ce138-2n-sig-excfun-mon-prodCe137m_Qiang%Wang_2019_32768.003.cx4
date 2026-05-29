@@ -1,0 +1,23 @@
+# EXFOR #         : 32768.003  
+# EXFOR Ver.      : 20210129
+# TRANS #         : 3200
+# Author          : Qiang Wang et al.
+# Reference       : Appl.Radiat.Isot. 147 (2019) 144
+# DOI             : 10.1016/j.apradiso.2019.03.012
+# Quantity        : 138Ce(n,2n)137mCe cross section
+# REACTION        : 58-CE-138(N,2N)58-CE-137-M,,SIG
+# File ID         : n-Ce138-2n-sig-excfun-mon-prodCe137m_Qiang%Wang_2019_32768.003
+#
+# npts            : 2           
+# xmin            :   1.4200E+07
+# xmax            :   1.4900E+07
+# ymin            :   8.7300E-01
+# ymax            :   9.5700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  8.7300E-01  4.8000E-02
+  1.4900E+07  2.0000E+05  9.5700E-01  5.7000E-02
+#---------------------------------------------------

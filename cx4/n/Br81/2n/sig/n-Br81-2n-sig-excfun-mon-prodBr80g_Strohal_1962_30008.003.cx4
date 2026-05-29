@@ -1,0 +1,22 @@
+# EXFOR #         : 30008.003  
+# EXFOR Ver.      : 20040109
+# TRANS #         : 0000
+# Author          : P.Strohal et al.
+# Reference       : Nucl.Phys. 30 (1962) 49
+# DOI             : 10.1016/0029-5582(62)90031-7
+# Quantity        : 81Br(n,2n)80gBr cross section
+# REACTION        : 35-BR-81(N,2N)35-BR-80-G,,SIG
+# File ID         : n-Br81-2n-sig-excfun-mon-prodBr80g_Strohal_1962_30008.003
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   4.3700E-01
+# ymax            :   4.3700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  0.0000E+00  4.3700E-01  2.9000E-02
+#---------------------------------------------------

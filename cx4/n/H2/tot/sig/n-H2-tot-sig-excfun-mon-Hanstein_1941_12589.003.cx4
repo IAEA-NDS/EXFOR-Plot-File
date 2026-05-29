@@ -1,0 +1,23 @@
+# EXFOR #         : 12589.003  
+# EXFOR Ver.      : 20021202
+# TRANS #         : 0000
+# Author          : H.B.Hanstein
+# Reference       : Phys.Rev. 59 (1941) 489
+# DOI             : 10.1103/PhysRev.59.489
+# Quantity        : 2H(n,tot) cross section
+# REACTION        : 1-H-2(N,TOT),,SIG
+# File ID         : n-H2-tot-sig-excfun-mon-Hanstein_1941_12589.003
+#
+# npts            : 2           
+# xmin            :   3.0000E-02
+# xmax            :   9.0000E-01
+# ymin            :   3.3000E+00
+# ymax            :   5.7000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E-02  0.0000E+00  5.7000E+00  0.0000E+00
+  9.0000E-01  0.0000E+00  3.3000E+00  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 10517.002  
+# EXFOR Ver.      : 20240403
+# TRANS #         : 1511
+# Author          : K.F.Flynn et al.
+# Reference       : J.Inorg.Nucl.Chem. 37 (1975) 869
+# DOI             : 10.1016/0022-1902(75)80664-6
+# Quantity        : 233U(n,f) independent fission product yield
+# REACTION        : 92-U-233(N,F)ELEM/MASS,IND,FY
+# File ID         : n-U233-f-fyi-nucdis-mon-einc2.530E-02_Flynn_1975_10517.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 3           
+# xmin            : 37084.9     
+# xmax            : 55136.9     
+# ymin            :   6.6000E-10
+# ymax            :   1.0500E-03
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     37084.9  6.6000E-10  7.0000E-11
+     37086.9  9.2000E-06  9.0000E-07
+     55136.9  1.0500E-03  1.1000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 40580.006  
+# EXFOR Ver.      : 20230724
+# TRANS #         : 4214
+# Author          : Yu.Andzheevski et al.
+# Reference       : Report INDC(CCP)-169 Vol.(2) page 229, 1980
+# DOI             : N/A
+# Quantity        : 143Nd(n,a)140Ce partial cross section
+# REACTION        : 60-ND-143(N,A)58-CE-140,PAR,SIG,,SPA
+# File ID         : n-Nd143-a-sig-lvldis-spa-einc2.450E+04_prodCe140_Andzheevski_1980_40580.006
+#
+# Einc (eV)       :   2.4500E+04
+#
+# npts            : 1           
+# xmin            :   0.0000E+00
+# xmax            :   0.0000E+00
+# ymin            :   1.5000E-05
+# ymax            :   1.5000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.5000E-05  4.0000E-06
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 31110.002  
+# EXFOR Ver.      : 20211202
+# TRANS #         : 3204
+# Author          : E.Weigold et al.
+# Reference       : Nucl.Phys. 32 (1962) 106
+# DOI             : 10.1016/0029-5582(62)90322-X
+# Quantity        : 32S(n,t)30P cross section
+# REACTION        : 16-S-32(N,T)15-P-30,,SIG
+# File ID         : n-S32-t-sig-excfun-mon-prodP30_Weigold_1962_31110.002
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.0000E-05
+# ymax            :   2.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  3.0000E+05  2.0000E-05  5.0000E-06
+#---------------------------------------------------

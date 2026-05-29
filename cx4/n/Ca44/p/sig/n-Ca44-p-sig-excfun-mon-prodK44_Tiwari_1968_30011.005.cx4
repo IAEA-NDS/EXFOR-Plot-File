@@ -1,0 +1,22 @@
+# EXFOR #         : 30011.005  
+# EXFOR Ver.      : 20070806
+# TRANS #         : 3123
+# Author          : P.N.Tiwari et al.
+# Reference       : Phys.Rev. 167 (1968) 1091
+# DOI             : 10.1103/PhysRev.167.1091
+# Quantity        : 44Ca(n,p)44K cross section
+# REACTION        : 20-CA-44(N,P)19-K-44,,SIG
+# File ID         : n-Ca44-p-sig-excfun-mon-prodK44_Tiwari_1968_30011.005
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   2.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  2.0000E-02  8.0000E-03
+#---------------------------------------------------

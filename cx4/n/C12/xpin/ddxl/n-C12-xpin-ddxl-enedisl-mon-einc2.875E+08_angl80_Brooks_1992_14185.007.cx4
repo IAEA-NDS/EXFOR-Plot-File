@@ -1,0 +1,32 @@
+# EXFOR #         : 14185.007  
+# EXFOR Ver.      : 20090505
+# TRANS #         : 1353
+# Author          : M.L.Brooks et al.
+# Reference       : Phys.Rev.C 45 (1992) 2343
+# DOI             : 10.1103/PhysRevC.45.2343
+# Quantity        : 12C(n,pi-+x) double differential cross section
+# REACTION        : 6-C-12(N,X)1-PN-0,,DA/DE,,AV
+# File ID         : n-C12-xpin-ddxl-enedisl-mon-einc2.875E+08_angl80_Brooks_1992_14185.007
+#
+# Einc (eV)       :   2.8750E+08
+# dEinc (eV)      :   1.2500E+07
+# theta,lab (deg) :   80.0000000
+# dtheta,lab (deg):    5.0000000
+#
+# npts            : 6           
+# xmin            :   2.4840E+07
+# xmax            :   1.1507E+08
+# ymin            :   9.0000E-14
+# ymax            :   1.2600E-12
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.4840E+07  0.0000E+00  4.7000E-13  1.0000E-13
+  3.9480E+07  0.0000E+00  1.2600E-12  8.0000E-14
+  5.7060E+07  0.0000E+00  1.1300E-12  7.0000E-14
+  7.5180E+07  0.0000E+00  6.1000E-13  5.0000E-14
+  9.4510E+07  0.0000E+00  2.6000E-13  3.0000E-14
+  1.1507E+08  0.0000E+00  9.0000E-14  2.0000E-14
+#---------------------------------------------------

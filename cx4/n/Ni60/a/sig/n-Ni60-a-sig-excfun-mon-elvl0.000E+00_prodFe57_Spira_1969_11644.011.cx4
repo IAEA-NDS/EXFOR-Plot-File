@@ -1,0 +1,24 @@
+# EXFOR #         : 11644.011  
+# EXFOR Ver.      : 19830829
+# TRANS #         : 0000
+# Author          : C.Spira et al.
+# Reference       : Nucl.Phys.A 127 (1969) 81
+# DOI             : 10.1016/0375-9474(69)90769-6
+# Quantity        : 60Ni(n,a)57Fe partial cross section
+# REACTION        : 28-NI-60(N,A)26-FE-57,PAR,SIG
+# File ID         : n-Ni60-a-sig-excfun-mon-elvl0.000E+00_prodFe57_Spira_1969_11644.011
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   4.3000E-03
+# ymax            :   4.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  0.0000E+00  4.3000E-03  2.0000E-03
+#---------------------------------------------------

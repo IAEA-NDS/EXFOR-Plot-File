@@ -1,0 +1,25 @@
+# EXFOR #         : 33118.005  
+# EXFOR Ver.      : 20190620
+# TRANS #         : 3190
+# Author          : H.C.Jain et al.
+# Reference       : Radiochim.Acta 37 (1984) 63
+# DOI             : 10.1524/ract.1984.37.2.63
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-Pu239-f-fyc-nucdis-spa-einc2.530E-02_Jain_1984_33118.005
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 42099.9     
+# xmax            : 53131.9     
+# ymin            :   4.3800E-02
+# ymax            :   6.2300E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     42099.9  6.2300E-02  7.0000E-04
+     53131.9  4.3800E-02  5.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : 21113.005  
+# EXFOR Ver.      : 20101114
+# TRANS #         : 2225
+# Author          : P.E.Cavanagh et al.
+# Reference       : Report AERE-R-5972, 1969
+# DOI             : N/A
+# Quantity        : 239Pu(n,inl)239Pu partial angular differential cross section
+# REACTION        : 94-PU-239(N,INL)94-PU-239,PAR,DA
+# File ID         : n-Pu239-inl-adxl-lvldis-mon-einc5.190E+05_angc90_prodPu239_Cavanagh_1969_21113.005
+#
+# Einc (eV)       :   5.1900E+05
+# dEinc (eV)      :   1.0000E+04
+# theta,cm (deg)  :   90.0000000
+#
+# npts            : 4           
+# xmin            :   6.6500E+04
+# xmax            :   3.9000E+05
+# ymin            :   1.9500E-03
+# ymax            :   2.8200E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.9000E+05  0.0000E+00  1.9500E-03  1.0000E-03
+  3.3100E+05  0.0000E+00  3.0600E-03  8.0000E-04
+  2.8600E+05  0.0000E+00  5.3300E-03  8.0000E-04
+  6.6500E+04  0.0000E+00  2.8200E-02  2.4000E-03
+#---------------------------------------------------

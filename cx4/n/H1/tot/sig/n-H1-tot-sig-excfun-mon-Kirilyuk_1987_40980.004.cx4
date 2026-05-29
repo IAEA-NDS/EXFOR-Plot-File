@@ -1,0 +1,23 @@
+# EXFOR #         : 40980.004  
+# EXFOR Ver.      : 20230303
+# TRANS #         : 4212
+# Author          : A.L.Kirilyuk et al.
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 2 page 298
+# DOI             : N/A
+# Quantity        : 1H(n,tot) cross section
+# REACTION        : 1-H-1(N,TOT),,SIG,,AV
+# File ID         : n-H1-tot-sig-excfun-mon-Kirilyuk_1987_40980.004
+#
+# npts            : 2           
+# xmin            :   2.0000E+03
+# xmax            :   1.4500E+05
+# ymin            :   1.1090E+01
+# ymax            :   2.0180E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+03  0.0000E+00  2.0180E+01  2.0000E-02
+  1.4500E+05  0.0000E+00  1.1090E+01  2.0000E-02
+#---------------------------------------------------

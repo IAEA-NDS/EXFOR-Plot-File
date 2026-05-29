@@ -1,0 +1,26 @@
+# EXFOR #         : 21377.008  
+# EXFOR Ver.      : 20170805
+# TRANS #         : 2263
+# Author          : M.J.Poole
+# Reference       : Philos.Mag. 44 (1953) 1398
+# DOI             : 10.1080/14786441208520409
+# Quantity        : natNi(n,inl)natNi partial angular differential cross section
+# REACTION        : 28-NI-0(N,INL)28-NI-0,PAR,DA
+# File ID         : n-Ni-inl-adxl-lvldis-mon-einc2.800E+06_angl97_prodNi_Poole_1953_21377.008
+#
+# Einc (eV)       :   2.8000E+06
+# dEinc (eV)      :   2.0000E+05
+# theta,lab (deg) :   97.0000000
+#
+# npts            : 1           
+# xmin            :   1.4000E+06
+# xmax            :   1.4000E+06
+# ymin            :   5.0000E-02
+# ymax            :   5.0000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4000E+06  0.0000E+00  5.0000E-02  2.0000E-02
+#---------------------------------------------------

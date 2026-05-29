@@ -1,0 +1,28 @@
+# EXFOR #         : 11276.009  
+# EXFOR Ver.      : 19810428
+# TRANS #         : 0000
+# Author          : W.L.Rodgers et al.
+# Reference       : Progress report COO-1573-33 page 2, 1967
+# DOI             : N/A
+# Quantity        : 56Fe(n,el)56Fe angular differential cross section
+# REACTION        : 26-FE-56(N,EL)26-FE-56,,DA
+# File ID         : n-Fe56-el-adxl-angdisc-mon-einc2.330E+06_prodFe56_Rodgers_1967_11276.009
+#
+# Einc (eV)       :   2.3300E+06
+#
+# npts            : 5           
+# xmin            :   30.5032900
+# xmax            :  120.8972000
+# ymin            :   5.4000E-02
+# ymax            :   5.4000E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.5032900   0.0000000  5.4000E-01  5.0000E-03
+  50.8021600   0.0000000  2.1600E-01  2.0000E-03
+  70.9980700   0.0000000  5.4000E-02  1.0000E-03
+  91.1001400   0.0000000  7.9000E-02  1.0000E-03
+ 120.8972000   0.0000000  1.3400E-01  2.0000E-03
+#---------------------------------------------------

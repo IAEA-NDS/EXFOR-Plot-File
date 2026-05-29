@@ -1,0 +1,22 @@
+# EXFOR #         : 11832.015  
+# EXFOR Ver.      : 19830919
+# TRANS #         : 0000
+# Author          : H.H.Kramer et al.
+# Reference       : Nucl.Sci.Eng. 22 (1965) 373
+# DOI             : 10.13182/NSE65-A20941
+# Quantity        : 112Cd(n,2n)111mCd cross section
+# REACTION        : 48-CD-112(N,2N)48-CD-111-M,,SIG,,FIS
+# File ID         : n-Cd112-2n-sig-excfun-fis-prodCd111m_Kramer_1965_11832.015
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   3.5000E-04
+# ymax            :   3.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  3.5000E-04  4.0000E-05
+#---------------------------------------------------

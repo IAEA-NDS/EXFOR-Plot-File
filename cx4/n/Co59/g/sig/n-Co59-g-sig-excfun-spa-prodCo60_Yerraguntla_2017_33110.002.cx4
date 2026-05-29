@@ -1,0 +1,23 @@
+# EXFOR #         : 33110.002  
+# EXFOR Ver.      : 20190402
+# TRANS #         : 3188
+# Author          : S.S.Yerraguntla et al.
+# Reference       : J.Rad.Nucl.Chem. 314 (2017) 457
+# DOI             : 10.1007/s10967-017-5374-z
+# Quantity        : 59Co(n,g)60Co cross section
+# REACTION        : 27-CO-59(N,G)27-CO-60,,SIG,,SPA
+# File ID         : n-Co59-g-sig-excfun-spa-prodCo60_Yerraguntla_2017_33110.002
+#
+# npts            : 2           
+# xmin            :   1.1980E+07
+# xmax            :   1.5750E+07
+# ymin            :   8.9000E-04
+# ymax            :   3.4900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1980E+07  2.9000E+05  3.4900E-03  9.2000E-04
+  1.5750E+07  3.1000E+05  8.9000E-04  2.8000E-04
+#---------------------------------------------------

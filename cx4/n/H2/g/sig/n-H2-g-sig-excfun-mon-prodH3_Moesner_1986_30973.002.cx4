@@ -1,0 +1,22 @@
+# EXFOR #         : 30973.002  
+# EXFOR Ver.      : 20090915
+# TRANS #         : 3141
+# Author          : J.Moesner et al.
+# Reference       : Few-Body Sys. 1 (1986) 83
+# DOI             : 10.1007/BF01277076
+# Quantity        : 2H(n,g)3H cross section
+# REACTION        : 1-H-2(N,G)1-H-3,,SIG
+# File ID         : n-H2-g-sig-excfun-mon-prodH3_Moesner_1986_30973.002
+#
+# npts            : 1           
+# xmin            :   2.5000E+07
+# xmax            :   2.5000E+07
+# ymin            :   7.6000E-06
+# ymax            :   7.6000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+07  0.0000E+00  7.6000E-06  8.0000E-07
+#---------------------------------------------------

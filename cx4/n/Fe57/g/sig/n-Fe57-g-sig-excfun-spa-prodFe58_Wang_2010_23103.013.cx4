@@ -1,0 +1,22 @@
+# EXFOR #         : 23103.013  
+# EXFOR Ver.      : 20140317
+# TRANS #         : 2239
+# Author          : T.Wang et al.
+# Reference       : Nucl.Instrum.Meth.B 268 (2010) 440
+# DOI             : 10.1016/j.nimb.2009.11.019
+# Quantity        : 57Fe(n,g)58Fe cross section
+# REACTION        : 26-FE-57(N,G)26-FE-58,,SIG,,SPA
+# File ID         : n-Fe57-g-sig-excfun-spa-prodFe58_Wang_2010_23103.013
+#
+# npts            : 1           
+# xmin            :   5.5000E+05
+# xmax            :   5.5000E+05
+# ymin            :   5.2200E-03
+# ymax            :   5.2200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+05  4.9250E+04  5.2200E-03  2.6000E-04
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 11396.027  
+# EXFOR Ver.      : 19930219
+# TRANS #         : 0000
+# Author          : L.Cranberg et al.
+# Reference       : Phys.Rev. 103 (1956) 343
+# DOI             : 10.1103/PhysRev.103.343
+# Quantity        : 27Al(n,inl)27Al partial angular differential cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,DA
+# File ID         : n-Al27-inl-adxl-lvldis-mon-einc2.450E+06_angl90_prodAl27_Cranberg_1956_11396.027
+#
+# Einc (eV)       :   2.4500E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   1.0300E+06
+# xmax            :   1.0300E+06
+# ymin            :   2.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.0300E+06  3.0000E+04  2.0000E-02  2.0000E-03
+#---------------------------------------------------

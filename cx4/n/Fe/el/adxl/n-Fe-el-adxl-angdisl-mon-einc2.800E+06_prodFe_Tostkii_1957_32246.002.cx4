@@ -1,0 +1,31 @@
+# EXFOR #         : 32246.002  
+# EXFOR Ver.      : 20180827
+# TRANS #         : 3186
+# Author          : I.A.Tostkii
+# Reference       : Proceedings of Low and Medium Energy Nucl.Reactons, Moscow 1957 page 190
+# DOI             : N/A
+# Quantity        : natFe(n,el)natFe angular differential cross section
+# REACTION        : 26-FE-0(N,EL)26-FE-0,,DA
+# File ID         : n-Fe-el-adxl-angdisl-mon-einc2.800E+06_prodFe_Tostkii_1957_32246.002
+#
+# Einc (eV)       :   2.8000E+06
+#
+# npts            : 8           
+# xmin            :   27.5137400
+# xmax            :  142.5420000
+# ymin            :   4.6542E-05
+# ymax            :   5.1965E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 142.5420000   0.0000000  4.6909E-05  6.6653E-06
+ 125.7888000   0.0000000  4.6542E-05  3.2154E-06
+ 111.1923000   0.0000000  5.4464E-05  4.9181E-06
+  91.1001400   0.0000000  4.7797E-05  2.1557E-06
+  77.3027100   0.0000000  5.0944E-05  3.0932E-06
+  59.7880600   0.0000000  8.8661E-05  4.4155E-06
+  38.1218100   0.0000000  1.8928E-04  1.0835E-05
+  27.5137400   0.0000000  5.1965E-04  3.5487E-05
+#---------------------------------------------------

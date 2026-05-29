@@ -1,0 +1,25 @@
+# EXFOR #         : 30956.002  
+# EXFOR Ver.      : 20090914
+# TRANS #         : 3141
+# Author          : T.Izak
+# Reference       : Thesis  (1970)
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-U235-f-fyc-nucdis-mxw-einc2.530E-02_Izak_1970_30956.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 50131.0     
+# xmax            : 50132.9     
+# ymin            :   7.8000E-03
+# ymax            :   8.4000E-03
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     50131.0  7.8000E-03  0.0000E+00
+     50132.9  8.4000E-03  0.0000E+00
+#---------------------------------------------------

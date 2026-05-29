@@ -1,0 +1,31 @@
+# EXFOR #         : 22666.010  
+# EXFOR Ver.      : 20170823
+# TRANS #         : 2265
+# Author          : D.Schmidt et al.
+# Reference       : Report PTB-N-43, 2001
+# DOI             : N/A
+# Quantity        : 29Si(n,inl)29Si partial angular differential cross section
+# REACTION        : 14-SI-29(N,INL)14-SI-29,PAR,DA
+# File ID         : n-Si29-inl-adxc-angdisc-mon-einc1.081E+07_elvl1.273E+06_prodSi29_Schmidt_2001_22666.010
+#
+# Einc (eV)       :   1.0810E+07
+# dEinc (eV)      :   6.0500E+04
+# Elvl (eV)       :   1.2730E+06
+#
+# npts            : 6           
+# xmin            :   33.4200000
+# xmax            :  161.2900000
+# ymin            :   1.1150E-02
+# ymax            :   2.5290E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  33.4200000   0.2000000  1.1150E-02  8.3848E-03
+  35.8700000   0.2000000  2.1280E-02  9.2355E-03
+  69.6100000   0.2000000  1.1980E-02  9.3444E-03
+ 116.9200000   0.2000000  1.3300E-02  7.9268E-03
+ 120.8300000   0.2000000  1.5680E-02  8.1066E-03
+ 161.2900000   0.2000000  2.5290E-02  1.2164E-02
+#---------------------------------------------------

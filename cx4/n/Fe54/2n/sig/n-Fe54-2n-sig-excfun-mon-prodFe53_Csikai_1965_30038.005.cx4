@@ -1,0 +1,22 @@
+# EXFOR #         : 30038.005  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : J.Csikai
+# Reference       : Proceedings of Nuclear Structure Study with Neutrons, Antwerp 1965 page 537
+# DOI             : N/A
+# Quantity        : 54Fe(n,2n)53Fe cross section
+# REACTION        : 26-FE-54(N,2N)26-FE-53,,SIG
+# File ID         : n-Fe54-2n-sig-excfun-mon-prodFe53_Csikai_1965_30038.005
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   1.6000E-02
+# ymax            :   1.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  1.0000E+05  1.6000E-02  3.0000E-03
+#---------------------------------------------------

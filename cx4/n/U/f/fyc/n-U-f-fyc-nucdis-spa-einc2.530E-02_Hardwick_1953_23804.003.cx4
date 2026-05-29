@@ -1,0 +1,25 @@
+# EXFOR #         : 23804.003  
+# EXFOR Ver.      : 20210610
+# TRANS #         : 2301
+# Author          : W.H.Hardwick
+# Reference       : Phys.Rev. 92 (1953) 1072(2)
+# DOI             : N/A
+# Quantity        : natU(n,f) cumulative fission product yield
+# REACTION        : 92-U-0(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U-f-fyc-nucdis-spa-einc2.530E-02_Hardwick_1953_23804.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 44106.9     
+# xmax            : 44106.9     
+# ymin            :   3.8000E-03
+# ymax            :   3.9000E-03
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     44106.9  3.8000E-03  2.8880E-04
+     44106.9  3.9000E-03  2.9640E-04
+#---------------------------------------------------

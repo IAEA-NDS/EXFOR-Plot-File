@@ -1,0 +1,22 @@
+# EXFOR #         : 31496.043  
+# EXFOR Ver.      : 19980715
+# TRANS #         : 0000
+# Author          : A.Grallert et al.
+# Reference       : Report INDC(NDS)-286 page 131, 1993
+# DOI             : N/A
+# Quantity        : 96Mo(n,p)96Nb cross section
+# REACTION        : 42-MO-96(N,P)41-NB-96,,SIG
+# File ID         : n-Mo96-p-sig-excfun-mon-prodNb96_Grallert_1993_31496.043
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   2.5000E-02
+# ymax            :   2.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  1.2000E+05  2.5000E-02  1.3000E-03
+#---------------------------------------------------

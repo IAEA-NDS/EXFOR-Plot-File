@@ -1,0 +1,28 @@
+# EXFOR #         : 30762.008  
+# EXFOR Ver.      : 20090908
+# TRANS #         : 3141
+# Author          : Ma Gonggui et al.
+# Reference       : Report INDC(CPR)-11 page 135, 1988
+# DOI             : N/A
+# Quantity        : natW(n,el)natW angular differential cross section
+# REACTION        : 74-W-0(N,EL)74-W-0,,DA
+# File ID         : n-W-el-adxc-angdisc-mon-einc1.420E+07_prodW_Ma%Gonggui_1988_30762.008
+#
+# Einc (eV)       :   1.4200E+07
+#
+# npts            : 5           
+# xmin            :    1.7100000
+# xmax            :   10.0500000
+# ymin            :   8.3419E+00
+# ymax            :   1.3237E+01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   1.7100000   0.0000000  1.3237E+01  7.6220E-01
+   2.5100000   0.0000000  1.3123E+01  8.1630E-01
+   5.0300000   0.0000000  1.1885E+01  7.5660E-01
+   7.5400000   0.0000000  1.0145E+01  6.6580E-01
+  10.0500000   0.0000000  8.3419E+00  5.6820E-01
+#---------------------------------------------------

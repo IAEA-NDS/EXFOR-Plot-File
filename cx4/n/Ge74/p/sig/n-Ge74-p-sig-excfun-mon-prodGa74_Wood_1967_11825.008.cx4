@@ -1,0 +1,22 @@
+# EXFOR #         : 11825.008  
+# EXFOR Ver.      : 20220621
+# TRANS #         : 1503
+# Author          : R.E.Wood et al.
+# Reference       : Phys.Rev. 154 (1967) 1108
+# DOI             : 10.1103/PhysRev.154.1108
+# Quantity        : 74Ge(n,p)74Ga cross section
+# REACTION        : 32-GE-74(N,P)31-GA-74,,SIG
+# File ID         : n-Ge74-p-sig-excfun-mon-prodGa74_Wood_1967_11825.008
+#
+# npts            : 1           
+# xmin            :   1.4400E+07
+# xmax            :   1.4400E+07
+# ymin            :   1.3200E-02
+# ymax            :   1.3200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4400E+07  3.0000E+05  1.3200E-02  1.3000E-03
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 31119.006  
+# EXFOR Ver.      : 20090921
+# TRANS #         : 3142
+# Author          : D.Winterhalter
+# Reference       : Nucl.Phys. 43 (1963) 339
+# DOI             : 10.1016/0029-5582(63)90353-5
+# Quantity        : 27Al(n,inl)27Al partial cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,SIG
+# File ID         : n-Al27-inl-sig-excfun-mon-elvl1.910E+06_prodAl27_Winterhalter_1963_31119.006
+#
+# Elvl (eV)       :   1.9100E+06
+#
+# npts            : 1           
+# xmin            :   2.7600E+06
+# xmax            :   2.7600E+06
+# ymin            :   1.5000E-01
+# ymax            :   1.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7600E+06  0.0000E+00  1.5000E-01  2.0000E-02
+#---------------------------------------------------

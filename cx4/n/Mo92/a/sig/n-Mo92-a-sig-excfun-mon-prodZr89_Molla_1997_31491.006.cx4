@@ -1,0 +1,25 @@
+# EXFOR #         : 31491.006  
+# EXFOR Ver.      : 20100923
+# TRANS #         : 3146
+# Author          : N.I.Molla et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 517
+# DOI             : N/A
+# Quantity        : 92Mo(n,a)89Zr cross section
+# REACTION        : 42-MO-92(N,A)40-ZR-89,,SIG
+# File ID         : n-Mo92-a-sig-excfun-mon-prodZr89_Molla_1997_31491.006
+#
+# npts            : 4           
+# xmin            :   1.3740E+07
+# xmax            :   1.4710E+07
+# ymin            :   1.9020E-02
+# ymax            :   2.5030E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3740E+07  0.0000E+00  1.9020E-02  1.6400E-03
+  1.4100E+07  0.0000E+00  2.1010E-02  1.8200E-03
+  1.4570E+07  0.0000E+00  2.5030E-02  2.2900E-03
+  1.4710E+07  0.0000E+00  2.3730E-02  2.2100E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 11183.004  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : J.T.Prud'Homme et al.
+# Reference       : Report AFSWC-TR-60-30, 1960
+# DOI             : N/A
+# Quantity        : 12C(n,inl)12C partial gamma angular differential cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,DA,G
+# File ID         : n-C12-inl-adxgl-angdisl-mon-einc1.500E+07_eoutl4.430E+06_prodC12_PrudHomme_1960_11183.004
+#
+# Einc (eV)       :   1.5000E+07
+# Eout,lab (eV)   :   4.4300E+06
+#
+# npts            : 2           
+# xmin            :   66.9832600
+# xmax            :   90.0000000
+# ymin            :   1.4700E-02
+# ymax            :   1.8800E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   2.0000000  1.4700E-02  0.0000E+00
+  66.9832600  23.0000000  1.8800E-02  0.0000E+00
+#---------------------------------------------------

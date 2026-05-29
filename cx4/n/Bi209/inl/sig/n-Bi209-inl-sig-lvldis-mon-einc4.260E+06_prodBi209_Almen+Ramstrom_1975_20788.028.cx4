@@ -1,0 +1,25 @@
+# EXFOR #         : 20788.028  
+# EXFOR Ver.      : 20120731
+# TRANS #         : 2232
+# Author          : E.Almen-Ramstrom
+# Reference       : Report AE-503, 1975
+# DOI             : N/A
+# Quantity        : 209Bi(n,inl)209Bi partial cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,SIG
+# File ID         : n-Bi209-inl-sig-lvldis-mon-einc4.260E+06_prodBi209_Almen+Ramstrom_1975_20788.028
+#
+# Einc (eV)       :   4.2600E+06
+#
+# npts            : 2           
+# xmin            :   2.5540E+06
+# xmax            :   2.7840E+06
+# ymin            :   9.6000E-02
+# ymax            :   3.4400E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5540E+06  6.2000E+04  3.4400E-01  2.0000E-02
+  2.7840E+06  4.3000E+04  9.6000E-02  6.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : 40266.002  
+# EXFOR Ver.      : 20210705
+# TRANS #         : 4197
+# Author          : Yu.G.Degtyarev et al.
+# Reference       : Proceedings of 2.Conf.on Neutron Physics, Kiev 1973 3 page 120
+# DOI             : N/A
+# Quantity        : 27Al(n,inl)27Al partial gamma production cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,SIG,G
+# File ID         : n-Al27-inl-sigg-enedisl-mon-einc3.400E+06_prodAl27_Degtyarev_1973_40266.002
+#
+# Einc (eV)       :   3.4000E+06
+#
+# npts            : 4           
+# xmin            :   1.0130E+06
+# xmax            :   2.2100E+06
+# ymin            :   3.6000E-02
+# ymax            :   2.6700E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0130E+06  0.0000E+00  2.6700E-01  2.6000E-02
+  1.1850E+06  0.0000E+00  3.6000E-02  5.0000E-03
+  1.7170E+06  0.0000E+00  6.7000E-02  8.0000E-03
+  2.2100E+06  0.0000E+00  2.4500E-01  2.4000E-02
+#---------------------------------------------------

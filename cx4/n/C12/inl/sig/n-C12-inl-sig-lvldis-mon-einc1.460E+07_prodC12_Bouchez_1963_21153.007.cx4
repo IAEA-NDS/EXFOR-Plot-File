@@ -1,0 +1,25 @@
+# EXFOR #         : 21153.007  
+# EXFOR Ver.      : 19800512
+# TRANS #         : 0000
+# Author          : R.Bouchez et al.
+# Reference       : Nucl.Phys. 43 (1963) 628
+# DOI             : 10.1016/0029-5582(63)90380-8
+# Quantity        : 12C(n,inl)12C partial cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,SIG
+# File ID         : n-C12-inl-sig-lvldis-mon-einc1.460E+07_prodC12_Bouchez_1963_21153.007
+#
+# Einc (eV)       :   1.4600E+07
+#
+# npts            : 2           
+# xmin            :   4.4300E+06
+# xmax            :   7.6600E+06
+# ymin            :   1.6000E-02
+# ymax            :   2.7000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.4300E+06  0.0000E+00  2.7000E-01  2.5000E-02
+  7.6600E+06  0.0000E+00  1.6000E-02  1.0000E-02
+#---------------------------------------------------

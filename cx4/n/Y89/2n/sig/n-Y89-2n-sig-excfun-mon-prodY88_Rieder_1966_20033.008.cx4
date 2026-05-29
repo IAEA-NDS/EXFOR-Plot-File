@@ -1,0 +1,23 @@
+# EXFOR #         : 20033.008  
+# EXFOR Ver.      : 20200920
+# TRANS #         : 2291
+# Author          : R.Rieder et al.
+# Reference       : Acta Physica Austr. 23 (1966) 42
+# DOI             : N/A
+# Quantity        : 89Y(n,2n)88Y cross section
+# REACTION        : 39-Y-89(N,2N)39-Y-88,,SIG
+# File ID         : n-Y89-2n-sig-excfun-mon-prodY88_Rieder_1966_20033.008
+#
+# npts            : 2           
+# xmin            :   1.4050E+07
+# xmax            :   1.4700E+07
+# ymin            :   9.1500E-01
+# ymax            :   1.0150E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4050E+07  5.0000E+04  9.1500E-01  4.5750E-02
+  1.4700E+07  1.0000E+05  1.0150E+00  5.0750E-02
+#---------------------------------------------------

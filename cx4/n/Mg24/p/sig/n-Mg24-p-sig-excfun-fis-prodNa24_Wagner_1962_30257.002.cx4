@@ -1,0 +1,22 @@
+# EXFOR #         : 30257.002  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : K.Wagner
+# Reference       : Kernenergie 5 (1962) 790
+# DOI             : N/A
+# Quantity        : 24Mg(n,p)24Na cross section
+# REACTION        : 12-MG-24(N,P)11-NA-24,,SIG,,FIS
+# File ID         : n-Mg24-p-sig-excfun-fis-prodNa24_Wagner_1962_30257.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.0500E-03
+# ymax            :   1.0500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.0500E-03  2.5000E-04
+#---------------------------------------------------

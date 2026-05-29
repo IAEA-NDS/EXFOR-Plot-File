@@ -1,0 +1,27 @@
+# EXFOR #         : 41206.002  
+# EXFOR Ver.      : 20241212
+# TRANS #         : 4221
+# Author          : B.M.Golovin et al.
+# Reference       : J.Exp.Theor.Phys. 9 (1959) 516
+# DOI             : N/A
+# Quantity        : 1H(n,el)1H angular differential cross section
+# REACTION        : 1-H-1(N,EL)1-H-1,,DA
+# File ID         : n-H1-el-adxc-angdisc-mon-einc5.900E+02_prodH1_Golovin_1959_41206.002
+#
+# Einc (eV)       :   5.9000E+02
+#
+# npts            : 4           
+# xmin            :    5.0000000
+# xmax            :   23.0000000
+# ymin            :   4.3000E-03
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0000000   0.0000000  1.0000E-02  1.5000E-03
+   8.0000000   0.0000000  8.2000E-03  1.4000E-03
+  11.5000000   0.0000000  6.4000E-03  9.0000E-04
+  23.0000000   0.0000000  4.3000E-03  5.0000E-04
+#---------------------------------------------------

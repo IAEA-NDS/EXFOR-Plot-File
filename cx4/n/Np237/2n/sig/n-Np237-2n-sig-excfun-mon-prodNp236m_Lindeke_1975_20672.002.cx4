@@ -1,0 +1,22 @@
+# EXFOR #         : 20672.002  
+# EXFOR Ver.      : 19840127
+# TRANS #         : 0000
+# Author          : K.Lindeke et al.
+# Reference       : Phys.Rev.C 12 No.5 (1975) 1507
+# DOI             : 10.1103/PhysRevC.12.1507
+# Quantity        : 237Np(n,2n)236mNp cross section
+# REACTION        : 93-NP-237(N,2N)93-NP-236-M,,SIG
+# File ID         : n-Np237-2n-sig-excfun-mon-prodNp236m_Lindeke_1975_20672.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+07
+# xmax            :   1.5000E+07
+# ymin            :   2.4700E-01
+# ymax            :   2.4700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  1.0000E+06  2.4700E-01  2.2000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 40347.004  
+# EXFOR Ver.      : 20181008
+# TRANS #         : 4180
+# Author          : G.E.Belovitskii et al.
+# Reference       : Proceedings of 3.All Union Conf.on Neutron Phys.,Kiev,9-13 Jun 1975 4 page 209
+# DOI             : N/A
+# Quantity        : 208Pb(n,p)208Tl cross section
+# REACTION        : 82-PB-208(N,P)81-TL-208,,SIG
+# File ID         : n-Pb208-p-sig-excfun-mon-prodTl208_Belovitskii_1976_40347.004
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   5.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  0.0000E+00  5.0000E-04  1.0000E-04
+#---------------------------------------------------

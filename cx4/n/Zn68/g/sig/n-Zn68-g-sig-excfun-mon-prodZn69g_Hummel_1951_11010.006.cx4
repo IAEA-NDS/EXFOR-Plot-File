@@ -1,0 +1,22 @@
+# EXFOR #         : 11010.006  
+# EXFOR Ver.      : 20150826
+# TRANS #         : 1409
+# Author          : V.Hummel et al.
+# Reference       : Phys.Rev. 82 (1951) 67
+# DOI             : 10.1103/PhysRev.82.67
+# Quantity        : 68Zn(n,g)69gZn cross section
+# REACTION        : 30-ZN-68(N,G)30-ZN-69-G,,SIG
+# File ID         : n-Zn68-g-sig-excfun-mon-prodZn69g_Hummel_1951_11010.006
+#
+# npts            : 1           
+# xmin            :   2.4000E+04
+# xmax            :   2.4000E+04
+# ymin            :   6.1000E-03
+# ymax            :   6.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+04  0.0000E+00  6.1000E-03  1.2200E-03
+#---------------------------------------------------

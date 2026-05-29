@@ -1,0 +1,22 @@
+# EXFOR #         : 31244.008  
+# EXFOR Ver.      : 20091020
+# TRANS #         : 3142
+# Author          : M.Sehgal et al.
+# Reference       : Nucl.Phys. 12 (1959) 261
+# DOI             : 10.1016/0029-5582(59)90172-5
+# Quantity        : 110Pd(n,g)111gPd cumulative production cross section
+# REACTION        : 46-PD-110(N,G)46-PD-111-G,(M),SIG,,MXW
+# File ID         : n-Pd110-x-sigc-excfun-mxw-prodPd111g_Sehgal_1959_31244.008
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.9000E-01
+# ymax            :   1.9000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.9000E-01  3.0000E-02
+#---------------------------------------------------

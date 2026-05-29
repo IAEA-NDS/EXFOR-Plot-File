@@ -1,0 +1,25 @@
+# EXFOR #         : 13393.006  
+# EXFOR Ver.      : 20201215
+# TRANS #         : 1477
+# Author          : T.J.Kennett et al.
+# Reference       : Phys.Rev. 103 (1956) 323
+# DOI             : 10.1103/PhysRev.103.323
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-Pu239-f-fyc-nucdis-mxw-einc2.530E-02_Kennett_1956_13393.006
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 53128.9     
+# xmax            : 53130.9     
+# ymin            :   2.0000E-06
+# ymax            :   5.2000E-05
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     53128.9  2.0000E-06  0.0000E+00
+     53130.9  5.2000E-05  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : 23286.002  
+# EXFOR Ver.      : 20160126
+# TRANS #         : 2247
+# Author          : L.C.Mihailescu et al.
+# Reference       : Report EUR-22343, 2006
+# DOI             : N/A
+# Quantity        : 207Pb(n,inl)207Pb partial gamma production cross section
+# REACTION        : 82-PB-207(N,INL)82-PB-207,PAR,SIG,G
+# File ID         : n-Pb207-inl-sigg-excfun-mon-eoutl3.928E+06_prodPb207_Mihailescu_2006_23286.002
+#
+# Eout,lab (eV)   :   3.9280E+06
+#
+# npts            : 4           
+# xmin            :   3.9816E+06
+# xmax            :   5.3097E+06
+# ymin            :   6.1080E-03
+# ymax            :   1.5838E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9816E+06  1.7744E+05  1.4252E-02  1.5030E-03
+  4.3626E+06  2.0355E+05  1.5838E-02  1.7980E-03
+  4.8012E+06  2.3506E+05  7.9000E-03  2.0970E-03
+  5.3097E+06  2.7344E+05  6.1080E-03  2.4670E-03
+#---------------------------------------------------

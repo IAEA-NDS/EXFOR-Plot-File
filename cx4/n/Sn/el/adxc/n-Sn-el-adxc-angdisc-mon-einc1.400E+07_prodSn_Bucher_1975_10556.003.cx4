@@ -1,0 +1,27 @@
+# EXFOR #         : 10556.003  
+# EXFOR Ver.      : 20040517
+# TRANS #         : 0000
+# Author          : W.Bucher et al.
+# Reference       : Phys.Lett.B 58 (1975) 277
+# DOI             : 10.1016/0370-2693(75)90651-6
+# Quantity        : natSn(n,el)natSn angular differential cross section
+# REACTION        : 50-SN-0(N,EL)50-SN-0,,DA
+# File ID         : n-Sn-el-adxc-angdisc-mon-einc1.400E+07_prodSn_Bucher_1975_10556.003
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 4           
+# xmin            :    3.1000000
+# xmax            :   15.0000000
+# ymin            :   4.4800E+00
+# ymax            :   8.3400E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   3.1000000   0.0000000  8.3400E+00  3.3360E-01
+   7.1000000   0.0000000  7.7000E+00  2.8490E-01
+  10.7000000   0.0000000  6.4300E+00  2.3148E-01
+  15.0000000   0.0000000  4.4800E+00  1.7472E-01
+#---------------------------------------------------

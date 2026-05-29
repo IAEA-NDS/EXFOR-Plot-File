@@ -1,0 +1,22 @@
+# EXFOR #         : 11447.080  
+# EXFOR Ver.      : 20210510
+# TRANS #         : 1486
+# Author          : L.Seren et al.
+# Reference       : Phys.Rev. 72 (1947) 888
+# DOI             : 10.1103/PhysRev.72.888
+# Quantity        : 124Sn(n,g)125Sn cross section
+# REACTION        : 50-SN-124(N,G)50-SN-125,,SIG,,MXW/A
+# File ID         : n-Sn124-g-sig-excfun-mxw-prodSn125_Seren_1947_11447.080
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.5544E-03
+# ymax            :   1.5544E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.5544E-03  3.1088E-04
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : 33025.008  
+# EXFOR Ver.      : 20111202
+# TRANS #         : 3153
+# Author          : B.Lalremruata et al.
+# Reference       : Nucl.Phys.A 821 (2009) 23
+# DOI             : 10.1016/j.nuclphysa.2009.02.005
+# Quantity        : 27Al(n,a)24Na partial angular differential cross section
+# REACTION        : 13-AL-27(N,A)11-NA-24,PAR,DA
+# File ID         : n-Al27-a-adxl-angdisl-mon-einc1.477E+07_eoutl8.000E+06_prodNa24_Lalremruata_2009_33025.008
+#
+# Einc (eV)       :   1.4770E+07
+# Eout,lab (eV)   :   8.0000E+06
+# dEout,lab (eV)  :   4.0000E+06
+#
+# npts            : 4           
+# xmin            :   30.0000000
+# xmax            :  110.0000000
+# ymin            :   5.5100E-03
+# ymax            :   6.6500E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  6.6500E-03  0.0000E+00
+  50.0000000   0.0000000  6.1400E-03  0.0000E+00
+  90.0000000   0.0000000  5.5100E-03  0.0000E+00
+ 110.0000000   0.0000000  5.5700E-03  0.0000E+00
+#---------------------------------------------------

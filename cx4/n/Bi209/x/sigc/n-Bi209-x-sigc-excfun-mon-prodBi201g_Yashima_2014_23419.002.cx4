@@ -1,0 +1,22 @@
+# EXFOR #         : 23419.002  
+# EXFOR Ver.      : 20180830
+# TRANS #         : 2271
+# Author          : H.Yashima et al.
+# Reference       : Radiat.Prot.Dosim. 161 (2014) 139
+# DOI             : 10.1093/rpd/nct334
+# Quantity        : 209Bi(n,9n)201gBi cumulative production cross section
+# REACTION        : 83-BI-209(N,9N)83-BI-201-G,M+,SIG
+# File ID         : n-Bi209-x-sigc-excfun-mon-prodBi201g_Yashima_2014_23419.002
+#
+# npts            : 1           
+# xmin            :   3.8600E+08
+# xmax            :   3.8600E+08
+# ymin            :   3.8000E-02
+# ymax            :   3.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8600E+08  1.0000E+06  3.8000E-02  1.3000E-02
+#---------------------------------------------------

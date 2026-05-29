@@ -1,0 +1,28 @@
+# EXFOR #         : 40041.003  
+# EXFOR Ver.      : 20141114
+# TRANS #         : 4167
+# Author          : B.I.Sukhanov et al.
+# Reference       : Sov.J.Nucl.Phys. 11 (1970) 17
+# DOI             : N/A
+# Quantity        : 16O(n,inl)16O partial gamma angular differential cross section
+# REACTION        : 8-O-16(N,INL)8-O-16,PAR,DA,G
+# File ID         : n-O16-inl-adxgl-enedisl-mon-einc1.400E+07_angl90_prodO16_Sukhanov_1970_40041.003
+#
+# Einc (eV)       :   1.4000E+07
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 4           
+# xmin            :   2.2300E+06
+# xmax            :   4.4000E+06
+# ymin            :   2.4000E-03
+# ymax            :   7.1000E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.2300E+06  0.0000E+00  2.4000E-03  4.0000E-04
+  2.7000E+06  0.0000E+00  6.5000E-03  9.0000E-04
+  3.7000E+06  0.0000E+00  7.1000E-03  1.1000E-03
+  4.4000E+06  0.0000E+00  2.7000E-03  4.0000E-04
+#---------------------------------------------------

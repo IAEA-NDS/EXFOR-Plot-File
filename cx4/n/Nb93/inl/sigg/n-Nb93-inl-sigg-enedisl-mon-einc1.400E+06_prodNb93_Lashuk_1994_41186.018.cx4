@@ -1,0 +1,27 @@
+# EXFOR #         : 41186.018  
+# EXFOR Ver.      : 20191107
+# TRANS #         : 4184
+# Author          : A.I.Lashuk et al.
+# Reference       : Yad.Reak.Konst.  No.1 (1994) 26
+# DOI             : N/A
+# Quantity        : 93Nb(n,inl)93Nb partial gamma production cross section
+# REACTION        : 41-NB-93(N,INL)41-NB-93,PAR,SIG,G
+# File ID         : n-Nb93-inl-sigg-enedisl-mon-einc1.400E+06_prodNb93_Lashuk_1994_41186.018
+#
+# Einc (eV)       :   1.4000E+06
+#
+# npts            : 4           
+# xmin            :   7.4100E+05
+# xmax            :   1.0800E+06
+# ymin            :   9.1000E-02
+# ymax            :   6.3200E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.4100E+05  0.0000E+00  6.1200E-01  5.5000E-02
+  8.0900E+05  0.0000E+00  1.9300E-01  1.9000E-02
+  9.5800E+05  0.0000E+00  6.3200E-01  6.0000E-02
+  1.0800E+06  0.0000E+00  9.1000E-02  1.0000E-02
+#---------------------------------------------------

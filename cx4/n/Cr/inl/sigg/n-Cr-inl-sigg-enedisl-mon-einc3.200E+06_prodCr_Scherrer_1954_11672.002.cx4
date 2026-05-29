@@ -1,0 +1,27 @@
+# EXFOR #         : 11672.002  
+# EXFOR Ver.      : 20120520
+# TRANS #         : 1381
+# Author          : V.E.Scherrer et al.
+# Reference       : Phys.Rev. 96 (1954) 386
+# DOI             : 10.1103/PhysRev.96.386
+# Quantity        : natCr(n,inl)natCr partial gamma production cross section
+# REACTION        : 24-CR-0(N,INL)24-CR-0,PAR,SIG,G
+# File ID         : n-Cr-inl-sigg-enedisl-mon-einc3.200E+06_prodCr_Scherrer_1954_11672.002
+#
+# Einc (eV)       :   3.2000E+06
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 3           
+# xmin            :   7.5000E+05
+# xmax            :   1.4300E+06
+# ymin            :   2.7000E-02
+# ymax            :   7.3000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.5000E+05  0.0000E+00  2.7000E-02  5.4000E-03
+  9.7000E+05  0.0000E+00  1.0000E-01  2.0000E-02
+  1.4300E+06  0.0000E+00  7.3000E-01  1.4600E-01
+#---------------------------------------------------

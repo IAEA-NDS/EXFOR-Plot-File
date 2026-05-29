@@ -1,0 +1,30 @@
+# EXFOR #         : 13985.003  
+# EXFOR Ver.      : 20050315
+# TRANS #         : 1332
+# Author          : A.Celler et al.
+# Reference       : Phys.Rev.C 43 (1991) 639
+# DOI             : 10.1103/PhysRevC.43.639
+# Quantity        : 15N(n,p)15C partial angular differential cross section
+# REACTION        : 7-N-15(N,P)6-C-15,PAR,DA
+# File ID         : n-N15-p-adxl-angdisl-mon-einc2.880E+05_elvl4.000E+06_prodC15_Celler_1991_13985.003
+#
+# Einc (eV)       :   2.8800E+05
+# Elvl (eV)       :   4.0000E+06
+# dElvl (eV)      :   2.0000E+06
+#
+# npts            : 5           
+# xmin            :    2.0200000
+# xmax            :   22.3000000
+# ymin            :   1.2400E-04
+# ymax            :   4.6500E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.0200000   0.0000000  4.6500E-04  7.7100E-05
+   6.4100000   0.0000000  4.1200E-04  9.6300E-05
+  11.6000000   0.0000000  4.2200E-04  8.2100E-05
+  17.0000000   0.0000000  2.3400E-04  7.6500E-05
+  22.3000000   0.0000000  1.2400E-04  7.8800E-05
+#---------------------------------------------------

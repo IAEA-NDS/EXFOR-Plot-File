@@ -1,0 +1,29 @@
+# EXFOR #         : 10713.002  
+# EXFOR Ver.      : 19780127
+# TRANS #         : 0000
+# Author          : J.A.Correia et al.
+# Reference       : Nucl.Phys.A 286 (1977) 322
+# DOI             : 10.1016/0375-9474(77)90411-0
+# Quantity        : 55Mn(n,inl)55Mn partial gamma angular differential cross section
+# REACTION        : 25-MN-55(N,INL)25-MN-55,PAR,DA,G
+# File ID         : n-Mn55-inl-adxgl-excfun-mon-angl125_eoutl2.254E+06_prodMn55_Correia_1977_10713.002
+#
+# theta,lab (deg) :  125.0000000
+# Eout,lab (eV)   :   2.2540E+06
+#
+# npts            : 5           
+# xmin            :   2.4000E+06
+# xmax            :   3.5000E+06
+# ymin            :   2.0600E-03
+# ymax            :   6.1700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.4000E+06  0.0000E+00  2.0600E-03  5.0000E-04
+  2.5000E+06  0.0000E+00  2.4400E-03  6.0000E-04
+  2.8000E+06  0.0000E+00  5.7600E-03  1.4000E-03
+  3.0000E+06  0.0000E+00  6.1700E-03  1.5000E-03
+  3.5000E+06  0.0000E+00  4.3600E-03  1.1000E-03
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : 13446.002.2
+# EXFOR Ver.      : 19891220
+# TRANS #         : 0000
+# Author          : G.P.Ford et al.
+# Reference       : Report LA-6129, 1976
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,FIS
+# File ID         : n-U235-f-fyc-nucdis-fis-einc1.000E+06_Ford_1976_13446.002.2
+#
+# Einc (eV)       :   1.0000E+06
+#
+# npts            : 4           
+# xmin            : 40097.9     
+# xmax            : 47111.9     
+# ymin            :   5.1400E-04
+# ymax            :   6.0800E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     40097.9  6.0800E-02  0.0000E+00
+     46109.9  1.4260E-03  0.0000E+00
+     47111.9  7.4410E-04  0.0000E+00
+     46112.9  5.1400E-04  0.0000E+00
+#---------------------------------------------------

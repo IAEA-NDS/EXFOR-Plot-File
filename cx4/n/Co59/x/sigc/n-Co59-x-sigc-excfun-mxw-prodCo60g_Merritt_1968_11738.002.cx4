@@ -1,0 +1,22 @@
+# EXFOR #         : 11738.002  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : J.S.Merritt et al.
+# Reference       : Can.J.Phys. 46 (1968) 2325
+# DOI             : 10.1139/p68-588
+# Quantity        : 59Co(n,g)60gCo cumulative production cross section
+# REACTION        : 27-CO-59(N,G)27-CO-60-G,M+,SIG,,MXW
+# File ID         : n-Co59-x-sigc-excfun-mxw-prodCo60g_Merritt_1968_11738.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.7090E+01
+# ymax            :   3.7090E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.7090E+01  2.7000E-01
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 20264.007  
+# EXFOR Ver.      : 20110227
+# TRANS #         : 2226
+# Author          : A.Fabry et al.
+# Reference       : Proceedings of Nuclear Cross-Sections Techn. Conf., Washington 1968 2 page 1263
+# DOI             : N/A
+# Quantity        : 238U(n,g)239U cross section
+# REACTION        : 92-U-238(N,G)92-U-239,,SIG,,FIS
+# File ID         : n-U238-g-sig-excfun-fis-prodU239_Fabry_1968_20264.007
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   8.5000E-02
+# ymax            :   8.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  8.5000E-02  8.0000E-03
+#---------------------------------------------------

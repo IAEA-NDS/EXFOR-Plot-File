@@ -1,0 +1,29 @@
+# EXFOR #         : 10412.008  
+# EXFOR Ver.      : 20030220
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4909, 1974
+# DOI             : N/A
+# Quantity        : 207Pb(n,inl)207Pb partial angular differential cross section
+# REACTION        : 82-PB-207(N,INL)82-PB-207,PAR,DA
+# File ID         : n-Pb207-inl-adxc-angdisc-mon-einc6.490E+06_elvl3.178E+06_prodPb207_Kinney_1974_10412.008
+#
+# Einc (eV)       :   6.4900E+06
+# dEinc (eV)      :   3.0000E+04
+# Elvl (eV)       :   3.1775E+06
+# dElvl (eV)      :   1.2050E+05
+#
+# npts            : 3           
+# xmin            :   82.8900000
+# xmax            :   97.8900000
+# ymin            :   3.3900E-03
+# ymax            :   4.6600E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  82.8900000   0.0000000  4.6600E-03  0.0000E+00
+  90.3900000   0.0000000  4.4300E-03  0.0000E+00
+  97.8900000   0.0000000  3.3900E-03  0.0000E+00
+#---------------------------------------------------

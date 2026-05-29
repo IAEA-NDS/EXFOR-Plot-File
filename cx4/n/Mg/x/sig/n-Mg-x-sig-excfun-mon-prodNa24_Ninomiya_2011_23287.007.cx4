@@ -1,0 +1,23 @@
+# EXFOR #         : 23287.007  
+# EXFOR Ver.      : 20160302
+# TRANS #         : 2247
+# Author          : K.Ninomiya et al.
+# Reference       : Proc.Radiochim. 1 (2011) 123
+# DOI             : N/A
+# Quantity        : natMg(n,x)24Na independent production cross section
+# REACTION        : 12-MG-0(N,X)11-NA-24,,SIG
+# File ID         : n-Mg-x-sig-excfun-mon-prodNa24_Ninomiya_2011_23287.007
+#
+# npts            : 2           
+# xmin            :   2.8700E+08
+# xmax            :   3.7000E+08
+# ymin            :   7.2000E-03
+# ymax            :   1.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8700E+08  5.0000E+06  1.2000E-02  3.9000E-03
+  3.7000E+08  6.5000E+06  7.2000E-03  2.5000E-03
+#---------------------------------------------------

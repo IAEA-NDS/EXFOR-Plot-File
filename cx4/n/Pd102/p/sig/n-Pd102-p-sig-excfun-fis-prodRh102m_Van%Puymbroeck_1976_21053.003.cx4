@@ -1,0 +1,22 @@
+# EXFOR #         : 21053.003  
+# EXFOR Ver.      : 19790918
+# TRANS #         : 0000
+# Author          : J.Van Puymbroeck et al.
+# Reference       : J.Inorg.Nucl.Chem. 38 (1976) 957
+# DOI             : 10.1016/0022-1902(76)80005-X
+# Quantity        : 102Pd(n,p)102mRh cross section
+# REACTION        : 46-PD-102(N,P)45-RH-102-M,,SIG,,FIS
+# File ID         : n-Pd102-p-sig-excfun-fis-prodRh102m_Van%Puymbroeck_1976_21053.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   4.0000E-06
+# ymax            :   4.0000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  4.0000E-06  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 31449.003  
+# EXFOR Ver.      : 20071207
+# TRANS #         : 3124
+# Author          : N.I.Molla et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 2 page 938
+# DOI             : N/A
+# Quantity        : 45Sc(n,2n)44gSc cross section
+# REACTION        : 21-SC-45(N,2N)21-SC-44-G,,SIG
+# File ID         : n-Sc45-2n-sig-excfun-mon-prodSc44g_Molla_1994_31449.003
+#
+# npts            : 4           
+# xmin            :   1.3900E+07
+# xmax            :   1.4710E+07
+# ymin            :   1.3590E-01
+# ymax            :   1.9430E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3900E+07  0.0000E+00  1.3590E-01  1.3800E-02
+  1.4310E+07  0.0000E+00  1.6090E-01  1.5300E-02
+  1.4570E+07  0.0000E+00  1.6640E-01  1.2900E-02
+  1.4710E+07  0.0000E+00  1.9430E-01  1.7500E-02
+#---------------------------------------------------

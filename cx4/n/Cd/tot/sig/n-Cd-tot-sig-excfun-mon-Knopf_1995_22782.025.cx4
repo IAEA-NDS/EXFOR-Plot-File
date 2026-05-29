@@ -1,0 +1,23 @@
+# EXFOR #         : 22782.025  
+# EXFOR Ver.      : 20060523
+# TRANS #         : 2178
+# Author          : K.Knopf et al.
+# Reference       : Z.Phys.A 352 (1995) 449
+# DOI             : 10.1007/BF01299763
+# Quantity        : natCd(n,tot) cross section
+# REACTION        : 48-CD-0(N,TOT),,SIG
+# File ID         : n-Cd-tot-sig-excfun-mon-Knopf_1995_22782.025
+#
+# npts            : 2           
+# xmin            :   1.2600E+00
+# xmax            :   5.1900E+00
+# ymin            :   5.3810E+00
+# ymax            :   1.5524E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+00  0.0000E+00  1.5524E+01  1.5000E-02
+  5.1900E+00  0.0000E+00  5.3810E+00  2.0000E-02
+#---------------------------------------------------

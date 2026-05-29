@@ -1,0 +1,26 @@
+# EXFOR #         : 11396.026  
+# EXFOR Ver.      : 19930219
+# TRANS #         : 0000
+# Author          : L.Cranberg et al.
+# Reference       : Phys.Rev. 103 (1956) 343
+# DOI             : 10.1103/PhysRev.103.343
+# Quantity        : 238U(n,inl)238U partial angular differential cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,DA
+# File ID         : n-U238-inl-adxl-lvldis-mon-einc2.450E+06_angl90_prodU238_Cranberg_1956_11396.026
+#
+# Einc (eV)       :   2.4500E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   1.1800E+06
+# xmax            :   1.1800E+06
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1800E+06  3.0000E+04  1.0000E-02  3.0000E-03
+#---------------------------------------------------

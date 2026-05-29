@@ -1,0 +1,25 @@
+# EXFOR #         : 21646.002  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : M.T.Swinhoe et al.
+# Reference       : Progress report NEANDC(E)-212 Vol.(8) page 52, 1980
+# DOI             : N/A
+# Quantity        : 6Li(n,t)4He cross section
+# REACTION        : 3-LI-6(N,T)2-HE-4,,SIG,,MXW
+# File ID         : n-Li6-t-sig-excfun-mxw-prodHe4_Swinhoe_1980_21646.002
+#
+# npts            : 4           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   9.2400E+02
+# ymax            :   9.9400E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  9.2400E+02  5.4000E+01
+  2.5300E-02  0.0000E+00  9.3600E+02  4.0000E+01
+  2.5300E-02  0.0000E+00  9.4600E+02  4.1000E+01
+  2.5300E-02  0.0000E+00  9.9400E+02  4.3000E+01
+#---------------------------------------------------

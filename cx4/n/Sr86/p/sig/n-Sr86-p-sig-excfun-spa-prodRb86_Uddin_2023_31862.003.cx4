@@ -1,0 +1,22 @@
+# EXFOR #         : 31862.003  
+# EXFOR Ver.      : 20230907
+# TRANS #         : 3210
+# Author          : M.S.Uddin et al.
+# Reference       : Radiochim.Acta 111 (2023) 665
+# DOI             : 10.1515/ract-2023-0155
+# Quantity        : 86Sr(n,p)86Rb cross section
+# REACTION        : 38-SR-86(N,P)37-RB-86,,SIG,,SPA
+# File ID         : n-Sr86-p-sig-excfun-spa-prodRb86_Uddin_2023_31862.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   4.0000E-04
+# ymax            :   4.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  4.0000E-04  4.0000E-05
+#---------------------------------------------------

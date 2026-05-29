@@ -1,0 +1,30 @@
+# EXFOR #         : 40336.095  
+# EXFOR Ver.      : 20100322
+# TRANS #         : 4149
+# Author          : M.V.Pasechnik et al.
+# Reference       : Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 18
+# DOI             : N/A
+# Quantity        : natSb(n,el)natSb angular differential cross section
+# REACTION        : 51-SB-0(N,EL)51-SB-0,,DA
+# File ID         : n-Sb-el-adxl-angdisc-mon-einc2.800E+06_prodSb_Pasechnik_1958_40336.095
+#
+# Einc (eV)       :   2.8000E+06
+#
+# npts            : 7           
+# xmin            :   24.1888300
+# xmax            :  139.3057000
+# ymin            :   3.9200E-03
+# ymax            :   1.3790E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  24.1888300   0.0000000  1.3790E+00  9.9000E-02
+  43.3227800   0.0000000  4.6440E-01  2.9600E-02
+  60.4093400   0.0000000  1.1410E-01  1.4900E-02
+  86.4683400   0.0000000  1.9980E-02  2.0000E-03
+ 107.4515000   0.0000000  3.9200E-03  1.0000E-03
+ 121.4060000   0.0000000  3.0260E-02  5.0400E-03
+ 139.3057000   0.0000000  1.0130E-01  1.0100E-02
+#---------------------------------------------------

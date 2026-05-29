@@ -1,0 +1,29 @@
+# EXFOR #         : 22718.029.1
+# EXFOR Ver.      : 20181002
+# TRANS #         : 2272
+# Author          : I.Slypen et al.
+# Reference       : At.Data Nucl.Data T. 76 (2000) 26
+# DOI             : 10.1006/adnd.2000.0836
+# Quantity        : 12C(n,a+x) double differential cross section
+# REACTION        : 6-C-12(N,X)2-HE-4,,DA/DE
+# File ID         : n-C12-xa-ddxl-angdisl-mon-einc4.550E+07_eoutl3.150E+07_Slypen_2000_22718.029.1
+#
+# Einc (eV)       :   4.5500E+07
+# dEinc (eV)      :   2.0000E+06
+# Eout,lab (eV)   :   3.1500E+07
+#
+# npts            : 4           
+# xmin            :   20.0000000
+# xmax            :   50.0000000
+# ymin            :   7.0000E-12
+# ymax            :   2.1400E-10
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  20.0000000   0.0000000  2.1400E-10  3.5000E-11
+  30.0000000   0.0000000  5.3000E-11  1.5000E-11
+  40.0000000   0.0000000  3.1000E-11  1.8000E-11
+  50.0000000   0.0000000  7.0000E-12  7.0000E-12
+#---------------------------------------------------

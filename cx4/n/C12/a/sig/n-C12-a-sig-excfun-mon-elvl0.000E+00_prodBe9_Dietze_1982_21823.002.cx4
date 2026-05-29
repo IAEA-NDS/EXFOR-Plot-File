@@ -1,0 +1,29 @@
+# EXFOR #         : 21823.002  
+# EXFOR Ver.      : 20121109
+# TRANS #         : 2234
+# Author          : G.Dietze et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Antwerp 1982 page 930
+# DOI             : N/A
+# Quantity        : 12C(n,a)9Be partial cross section
+# REACTION        : 6-C-12(N,A)4-BE-9,PAR,SIG
+# File ID         : n-C12-a-sig-excfun-mon-elvl0.000E+00_prodBe9_Dietze_1982_21823.002
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 6           
+# xmin            :   8.0000E+06
+# xmax            :   9.8300E+06
+# ymin            :   6.5000E-02
+# ymax            :   2.8550E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+06  0.0000E+00  1.3130E-01  0.0000E+00
+  8.6400E+06  0.0000E+00  6.5000E-02  0.0000E+00
+  8.9900E+06  0.0000E+00  1.8660E-01  0.0000E+00
+  9.2200E+06  0.0000E+00  2.8550E-01  0.0000E+00
+  9.4100E+06  0.0000E+00  2.5490E-01  0.0000E+00
+  9.8300E+06  0.0000E+00  1.7420E-01  0.0000E+00
+#---------------------------------------------------

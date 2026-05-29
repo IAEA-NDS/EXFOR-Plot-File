@@ -1,0 +1,29 @@
+# EXFOR #         : 12739.005  
+# EXFOR Ver.      : 20210928
+# TRANS #         : 1493
+# Author          : A.G.Beyerle et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross Sections F.Techn.,Knoxville 1979 page 139
+# DOI             : N/A
+# Quantity        : natNi(n,inl)natNi double differential cross section
+# REACTION        : 28-NI-0(N,INL)28-NI-0,,DA/DE
+# File ID         : n-Ni-inl-ddxl-angdisl-mon-einc7.500E+06_eoutl3.240E+06_prodNi_Beyerle_1979_12739.005
+#
+# Einc (eV)       :   7.5000E+06
+# Eout,lab (eV)   :   3.2400E+06
+#
+# npts            : 5           
+# xmin            :   35.0000000
+# xmax            :  155.0000000
+# ymin            :   3.3210E-08
+# ymax            :   4.0900E-08
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  35.0000000   0.0000000  4.0900E-08  6.1350E-09
+  65.0000000   0.0000000  3.3210E-08  4.9815E-09
+  95.0000000   0.0000000  4.0160E-08  6.0240E-09
+ 125.0000000   0.0000000  3.7050E-08  5.5575E-09
+ 155.0000000   0.0000000  3.8740E-08  5.8110E-09
+#---------------------------------------------------

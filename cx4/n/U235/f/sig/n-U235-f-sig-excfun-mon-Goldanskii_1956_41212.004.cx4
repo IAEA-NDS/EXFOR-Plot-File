@@ -1,0 +1,23 @@
+# EXFOR #         : 41212.004  
+# EXFOR Ver.      : 20190715
+# TRANS #         : 4183
+# Author          : V.I.Goldanskii et al.
+# Reference       : J.Exp.Theor.Phys. 2 (1956) 677
+# DOI             : N/A
+# Quantity        : 235U(n,f) cross section
+# REACTION        : 92-U-235(N,F),,SIG
+# File ID         : n-U235-f-sig-excfun-mon-Goldanskii_1956_41212.004
+#
+# npts            : 2           
+# xmin            :   1.2000E+08
+# xmax            :   3.8000E+08
+# ymin            :   1.2400E+00
+# ymax            :   1.5000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+08  0.0000E+00  1.5000E+00  0.0000E+00
+  3.8000E+08  0.0000E+00  1.2400E+00  0.0000E+00
+#---------------------------------------------------

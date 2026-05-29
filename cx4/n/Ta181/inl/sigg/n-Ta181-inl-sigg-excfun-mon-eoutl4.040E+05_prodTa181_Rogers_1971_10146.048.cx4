@@ -1,0 +1,26 @@
+# EXFOR #         : 10146.048  
+# EXFOR Ver.      : 19990811
+# TRANS #         : 0000
+# Author          : V.C.Rogers et al.
+# Reference       : Nucl.Sci.Eng. 45 (1971) 297
+# DOI             : 10.13182/NSE71-A19081
+# Quantity        : 181Ta(n,inl)181Ta partial gamma production cross section
+# REACTION        : 73-TA-181(N,INL)73-TA-181,PAR,SIG,G
+# File ID         : n-Ta181-inl-sigg-excfun-mon-eoutl4.040E+05_prodTa181_Rogers_1971_10146.048
+#
+# Eout,lab (eV)   :   4.0400E+05
+#
+# npts            : 3           
+# xmin            :   1.1600E+06
+# xmax            :   1.5100E+06
+# ymin            :   1.7000E-02
+# ymax            :   3.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1600E+06  0.0000E+00  1.7000E-02  0.0000E+00
+  1.3400E+06  0.0000E+00  2.3000E-02  0.0000E+00
+  1.5100E+06  0.0000E+00  3.1000E-02  0.0000E+00
+#---------------------------------------------------

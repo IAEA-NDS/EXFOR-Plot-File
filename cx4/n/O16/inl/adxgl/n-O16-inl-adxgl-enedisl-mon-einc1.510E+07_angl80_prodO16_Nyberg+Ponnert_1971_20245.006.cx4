@@ -1,0 +1,29 @@
+# EXFOR #         : 20245.006  
+# EXFOR Ver.      : 20200921
+# TRANS #         : 2296
+# Author          : K.Nyberg-Ponnert et al.
+# Reference       : Phys.Scr. 4 (1971) 165
+# DOI             : 10.1088/0031-8949/4/4-5/004
+# Quantity        : 16O(n,inl)16O partial gamma angular differential cross section
+# REACTION        : 8-O-16(N,INL)8-O-16,PAR,DA,G
+# File ID         : n-O16-inl-adxgl-enedisl-mon-einc1.510E+07_angl80_prodO16_Nyberg+Ponnert_1971_20245.006
+#
+# Einc (eV)       :   1.5100E+07
+# dEinc (eV)      :   4.0000E+05
+# theta,lab (deg) :   80.0000000
+#
+# npts            : 4           
+# xmin            :   2.7350E+06
+# xmax            :   7.1120E+06
+# ymin            :   3.6000E-03
+# ymax            :   1.1500E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.7350E+06  3.0000E+03  3.6000E-03  6.0000E-04
+  6.1300E+06  0.0000E+00  1.1500E-02  1.7000E-03
+  6.9060E+06  1.5000E+04  4.0000E-03  6.0000E-04
+  7.1120E+06  1.0000E+04  4.5000E-03  7.0000E-04
+#---------------------------------------------------

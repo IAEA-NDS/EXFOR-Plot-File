@@ -1,0 +1,23 @@
+# EXFOR #         : 31519.002  
+# EXFOR Ver.      : 20010214
+# TRANS #         : 0000
+# Author          : B.Kiraly et al.
+# Reference       : Report (proceedings) JAERI-C-2001-006 page 283, 2001
+# DOI             : N/A
+# Quantity        : 198Hg(n,2n)197mHg cross section
+# REACTION        : 80-HG-198(N,2N)80-HG-197-M,,SIG
+# File ID         : n-Hg198-2n-sig-excfun-mon-prodHg197m_Kiraly_2001_31519.002
+#
+# npts            : 2           
+# xmin            :   1.1200E+07
+# xmax            :   1.2500E+07
+# ymin            :   7.0200E-01
+# ymax            :   9.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1200E+07  2.0000E+05  7.0200E-01  3.5000E-02
+  1.2500E+07  2.5000E+05  9.1000E-01  4.5000E-02
+#---------------------------------------------------

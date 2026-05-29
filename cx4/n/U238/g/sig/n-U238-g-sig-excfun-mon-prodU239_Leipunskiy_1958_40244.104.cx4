@@ -1,0 +1,23 @@
+# EXFOR #         : 40244.104  
+# EXFOR Ver.      : 20191120
+# TRANS #         : 4185
+# Author          : A.I.Leipunskiy et al.
+# Reference       : Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 50
+# DOI             : N/A
+# Quantity        : 238U(n,g)239U cross section
+# REACTION        : 92-U-238(N,G)92-U-239,,SIG
+# File ID         : n-U238-g-sig-excfun-mon-prodU239_Leipunskiy_1958_40244.104
+#
+# npts            : 2           
+# xmin            :   2.7000E+06
+# xmax            :   4.0000E+06
+# ymin            :   3.3300E-02
+# ymax            :   5.9300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7000E+06  0.0000E+00  5.9300E-02  1.6000E-03
+  4.0000E+06  0.0000E+00  3.3300E-02  1.2000E-03
+#---------------------------------------------------

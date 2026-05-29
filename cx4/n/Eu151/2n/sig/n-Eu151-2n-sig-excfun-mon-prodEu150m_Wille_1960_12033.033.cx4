@@ -1,0 +1,22 @@
+# EXFOR #         : 12033.033  
+# EXFOR Ver.      : 20160608
+# TRANS #         : 1418
+# Author          : R.G.Wille et al.
+# Reference       : Phys.Rev. 118 (1960) 242
+# DOI             : 10.1103/PhysRev.118.242
+# Quantity        : 151Eu(n,2n)150mEu cross section
+# REACTION        : 63-EU-151(N,2N)63-EU-150-M,,SIG
+# File ID         : n-Eu151-2n-sig-excfun-mon-prodEu150m_Wille_1960_12033.033
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   5.0000E-01
+# ymax            :   5.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  8.0000E+05  5.0000E-01  2.0000E-01
+#---------------------------------------------------

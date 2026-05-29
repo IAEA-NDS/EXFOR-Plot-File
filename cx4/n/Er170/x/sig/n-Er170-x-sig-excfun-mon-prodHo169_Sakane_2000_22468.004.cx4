@@ -1,0 +1,22 @@
+# EXFOR #         : 22468.004  
+# EXFOR Ver.      : 20190102
+# TRANS #         : 2273
+# Author          : H.Sakane et al.
+# Reference       : Report (proceedings) INDC(JPN)-185 page 202, 2000
+# DOI             : N/A
+# Quantity        : 170Er(n,x)169Ho independent production cross section
+# REACTION        : 68-ER-170(N,X)67-HO-169,,SIG
+# File ID         : n-Er170-x-sig-excfun-mon-prodHo169_Sakane_2000_22468.004
+#
+# npts            : 1           
+# xmin            :   1.4870E+07
+# xmax            :   1.4870E+07
+# ymin            :   5.0000E-05
+# ymax            :   5.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4870E+07  0.0000E+00  5.0000E-05  3.0500E-05
+#---------------------------------------------------

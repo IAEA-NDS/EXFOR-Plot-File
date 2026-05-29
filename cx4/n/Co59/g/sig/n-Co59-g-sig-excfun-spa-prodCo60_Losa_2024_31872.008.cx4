@@ -1,0 +1,22 @@
+# EXFOR #         : 31872.008  
+# EXFOR Ver.      : 20260213
+# TRANS #         : 3222
+# Author          : E.Losa et al.
+# Reference       : Appl.Radiat.Isot. 210 (2024) 111351
+# DOI             : 10.1016/j.apradiso.2024.111351
+# Quantity        : 59Co(n,g)60Co cross section
+# REACTION        : 27-CO-59(N,G)27-CO-60,,SIG,,SPA
+# File ID         : n-Co59-g-sig-excfun-spa-prodCo60_Losa_2024_31872.008
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   7.0710E+00
+# ymax            :   7.0710E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  7.0710E+00  2.8991E-01
+#---------------------------------------------------

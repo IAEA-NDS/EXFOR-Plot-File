@@ -1,0 +1,22 @@
+# EXFOR #         : 30136.019  
+# EXFOR Ver.      : 20160210
+# TRANS #         : 3173
+# Author          : J.Brzosko et al.
+# Reference       : Nucl.Phys. 45 (1963) 579
+# DOI             : 10.1016/0029-5582(63)90833-2
+# Quantity        : 130Te(n,p)130gSb cross section
+# REACTION        : 52-TE-130(N,P)51-SB-130-G,,SIG
+# File ID         : n-Te130-p-sig-excfun-mon-prodSb130g_Brzosko_1963_30136.019
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   2.6000E-03
+# ymax            :   2.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  2.6000E-03  8.0000E-04
+#---------------------------------------------------

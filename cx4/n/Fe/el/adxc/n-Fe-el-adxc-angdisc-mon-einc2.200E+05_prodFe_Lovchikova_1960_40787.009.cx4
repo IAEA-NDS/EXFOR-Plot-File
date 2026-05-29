@@ -1,0 +1,28 @@
+# EXFOR #         : 40787.009  
+# EXFOR Ver.      : 20231113
+# TRANS #         : 4216
+# Author          : G.N.Lovchikova
+# Reference       : J.Exp.Theor.Phys. 11 (1960) 1036
+# DOI             : N/A
+# Quantity        : natFe(n,el)natFe angular differential cross section
+# REACTION        : 26-FE-0(N,EL)26-FE-0,,DA
+# File ID         : n-Fe-el-adxc-angdisc-mon-einc2.200E+05_prodFe_Lovchikova_1960_40787.009
+#
+# Einc (eV)       :   2.2000E+05
+#
+# npts            : 5           
+# xmin            :   31.2402600
+# xmax            :  149.8827000
+# ymin            :   2.1660E-01
+# ymax            :   3.7830E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  31.2402600  10.0000000  3.7830E-01  2.9100E-02
+  60.8564100  10.0000000  3.2420E-01  9.8000E-03
+  91.0313800  10.0000000  2.5000E-01  1.0000E-02
+ 120.8638000  10.0000000  2.2400E-01  1.0100E-02
+ 149.8827000  10.0000000  2.1660E-01  2.0600E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 23789.008  
+# EXFOR Ver.      : 20230305
+# TRANS #         : 2315
+# Author          : N.Ophoven et al.
+# Reference       : J.Rad.Nucl.Chem. 331 (2022) 5729
+# DOI             : 10.1007/s10967-022-08594-6
+# Quantity        : 16O(n,inl)16O partial gamma angular differential cross section
+# REACTION        : 8-O-16(N,INL)8-O-16,PAR,DA,G,4PI/SPA
+# File ID         : n-O16-inl-adxgl-enedisl-spa-einc2.300E+06_angl90_prodO16_Ophoven_2022_23789.008
+#
+# Einc (eV)       :   2.3000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   6.1293E+09
+# xmax            :   6.1293E+09
+# ymin            :   1.7507E-04
+# ymax            :   1.7507E-04
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.1293E+09  2.2000E+05  1.7507E-04  2.9444E-05
+#---------------------------------------------------

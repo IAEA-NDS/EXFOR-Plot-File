@@ -1,0 +1,22 @@
+# EXFOR #         : 31745.002  
+# EXFOR Ver.      : 20140826
+# TRANS #         : 3166
+# Author          : E.Kukleva et al.
+# Reference       : J.Rad.Nucl.Chem. 304 (2015) 263
+# DOI             : 10.1007/s10967-014-3432-3
+# Quantity        : 226Ra(n,g)227Ra cross section
+# REACTION        : 88-RA-226(N,G)88-RA-227,,SIG,,SPA
+# File ID         : n-Ra226-g-sig-excfun-spa-prodRa227_Kukleva_2015_31745.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.4000E+01
+# ymax            :   1.4000E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.4000E+01  4.0000E+00
+#---------------------------------------------------

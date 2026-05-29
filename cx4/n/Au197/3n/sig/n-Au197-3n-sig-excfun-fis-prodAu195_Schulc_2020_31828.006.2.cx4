@@ -1,0 +1,22 @@
+# EXFOR #         : 31828.006.2
+# EXFOR Ver.      : 20200911
+# TRANS #         : 3197
+# Author          : M.Schulc et al.
+# Reference       : Appl.Radiat.Isot. 166 (2020) 109313
+# DOI             : 10.1016/j.apradiso.2020.109313
+# Quantity        : 197Au(n,3n)195Au cross section
+# REACTION        : 79-AU-197(N,3N)79-AU-195,,SIG,,FIS
+# File ID         : n-Au197-3n-sig-excfun-fis-prodAu195_Schulc_2020_31828.006.2
+#
+# npts            : 1           
+# xmin            :   1.3200E+06
+# xmax            :   1.3200E+06
+# ymin            :   9.1000E-06
+# ymax            :   9.1000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3200E+06  0.0000E+00  9.1000E-06  6.0970E-07
+#---------------------------------------------------

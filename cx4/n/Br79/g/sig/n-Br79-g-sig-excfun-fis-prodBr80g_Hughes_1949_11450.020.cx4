@@ -1,0 +1,22 @@
+# EXFOR #         : 11450.020  
+# EXFOR Ver.      : 20021212
+# TRANS #         : 0000
+# Author          : D.J.Hughes et al.
+# Reference       : Phys.Rev. 75 (1949) 1781
+# DOI             : 10.1103/PhysRev.75.1781
+# Quantity        : 79Br(n,g)80gBr cross section
+# REACTION        : 35-BR-79(N,G)35-BR-80-G,,SIG,,FIS
+# File ID         : n-Br79-g-sig-excfun-fis-prodBr80g_Hughes_1949_11450.020
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   3.0000E-02
+# ymax            :   3.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  3.0000E-02  0.0000E+00
+#---------------------------------------------------

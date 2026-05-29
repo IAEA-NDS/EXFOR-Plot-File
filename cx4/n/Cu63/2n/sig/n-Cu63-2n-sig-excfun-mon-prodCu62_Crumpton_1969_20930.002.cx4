@@ -1,0 +1,23 @@
+# EXFOR #         : 20930.002  
+# EXFOR Ver.      : 20150702
+# TRANS #         : 2243
+# Author          : D.Crumpton et al.
+# Reference       : J.Inorg.Nucl.Chem. 31 (1969) 1
+# DOI             : N/A
+# Quantity        : 63Cu(n,2n)62Cu cross section
+# REACTION        : 29-CU-63(N,2N)29-CU-62,,SIG
+# File ID         : n-Cu63-2n-sig-excfun-mon-prodCu62_Crumpton_1969_20930.002
+#
+# npts            : 2           
+# xmin            :   1.4700E+07
+# xmax            :   1.4800E+07
+# ymin            :   6.0300E-01
+# ymax            :   6.1500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  2.0000E+05  6.0300E-01  2.8000E-02
+  1.4800E+07  0.0000E+00  6.1500E-01  2.8000E-02
+#---------------------------------------------------

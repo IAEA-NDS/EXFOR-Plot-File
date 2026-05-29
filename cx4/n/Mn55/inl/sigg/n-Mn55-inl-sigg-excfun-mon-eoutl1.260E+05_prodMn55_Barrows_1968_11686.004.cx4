@@ -1,0 +1,24 @@
+# EXFOR #         : 11686.004  
+# EXFOR Ver.      : 20220320
+# TRANS #         : 1494
+# Author          : A.W.Barrows et al.
+# Reference       : Nucl.Phys.A 107 (1968) 153
+# DOI             : 10.1016/0375-9474(68)90732-X
+# Quantity        : 55Mn(n,inl)55Mn partial gamma production cross section
+# REACTION        : 25-MN-55(N,INL)25-MN-55,PAR,SIG,G
+# File ID         : n-Mn55-inl-sigg-excfun-mon-eoutl1.260E+05_prodMn55_Barrows_1968_11686.004
+#
+# Eout,lab (eV)   :   1.2600E+05
+#
+# npts            : 1           
+# xmin            :   2.2100E+06
+# xmax            :   2.2100E+06
+# ymin            :   9.0000E-01
+# ymax            :   9.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2100E+06  7.0000E+04  9.0000E-01  1.3000E-01
+#---------------------------------------------------

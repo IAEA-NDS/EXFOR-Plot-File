@@ -1,0 +1,22 @@
+# EXFOR #         : 23482.005  
+# EXFOR Ver.      : 20190303
+# TRANS #         : 2280
+# Author          : D.Bellmann
+# Reference       : Atomkernenergie 17 (1971) 145
+# DOI             : N/A
+# Quantity        : 22Ne(n,g)23Ne cross section
+# REACTION        : 10-NE-22(N,G)10-NE-23,,SIG,,SPA
+# File ID         : n-Ne22-g-sig-excfun-spa-prodNe23_Bellmann_1971_23482.005
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   5.1000E-02
+# ymax            :   5.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  5.1000E-02  4.5000E-03
+#---------------------------------------------------

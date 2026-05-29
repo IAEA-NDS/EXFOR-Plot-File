@@ -1,0 +1,28 @@
+# EXFOR #         : 12838.005  
+# EXFOR Ver.      : 19851119
+# TRANS #         : 0000
+# Author          : T.S.Subramanian et al.
+# Reference       : Phys.Rev.C 28 (1983) 521
+# DOI             : 10.1103/PhysRevC.28.521
+# Quantity        : 12C(n,h+x) double differential cross section
+# REACTION        : 6-C-12(N,X)2-HE-3,,DA/DE
+# File ID         : n-C12-xh-ddxl-enedisl-mon-einc3.970E+07_angl65_Subramanian_1983_12838.005
+#
+# Einc (eV)       :   3.9700E+07
+# theta,lab (deg) :   65.0000000
+#
+# npts            : 4           
+# xmin            :   1.0200E+07
+# xmax            :   1.6200E+07
+# ymin            :   2.0000E-11
+# ymax            :   1.1000E-10
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.0200E+07  0.0000E+00  2.0000E-11  2.0000E-11
+  1.2200E+07  0.0000E+00  9.0000E-11  4.0000E-11
+  1.4200E+07  0.0000E+00  1.1000E-10  4.0000E-11
+  1.6200E+07  0.0000E+00  2.0000E-11  2.0000E-11
+#---------------------------------------------------

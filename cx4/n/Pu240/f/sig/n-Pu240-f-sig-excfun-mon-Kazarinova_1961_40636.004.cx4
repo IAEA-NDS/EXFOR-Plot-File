@@ -1,0 +1,22 @@
+# EXFOR #         : 40636.004  
+# EXFOR Ver.      : 20230228
+# TRANS #         : 4212
+# Author          : M.I.Kazarinova et al.
+# Reference       : Sov.At.Energy 8 (1961) 125
+# DOI             : 10.1007/BF01481207
+# Quantity        : 240Pu(n,f) cross section
+# REACTION        : 94-PU-240(N,F),,SIG
+# File ID         : n-Pu240-f-sig-excfun-mon-Kazarinova_1961_40636.004
+#
+# npts            : 1           
+# xmin            :   2.5000E+06
+# xmax            :   2.5000E+06
+# ymin            :   1.6000E+00
+# ymax            :   1.6000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  0.0000E+00  1.6000E+00  3.0000E-01
+#---------------------------------------------------

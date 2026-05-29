@@ -1,0 +1,22 @@
+# EXFOR #         : 31497.018  
+# EXFOR Ver.      : 19990209
+# TRANS #         : 0000
+# Author          : Xiangzhong Kong et al.
+# Reference       : Appl.Radiat.Isot. 49 No.12 (1998) 1529
+# DOI             : 10.1016/S0969-8043(98)00018-9
+# Quantity        : 174Yb(n,p)174Tm cross section
+# REACTION        : 70-YB-174(N,P)69-TM-174,,SIG
+# File ID         : n-Yb174-p-sig-excfun-mon-prodTm174_Xiangzhong%Kong_1998_31497.018
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   4.0000E-03
+# ymax            :   4.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  2.0000E+05  4.0000E-03  4.0000E-04
+#---------------------------------------------------

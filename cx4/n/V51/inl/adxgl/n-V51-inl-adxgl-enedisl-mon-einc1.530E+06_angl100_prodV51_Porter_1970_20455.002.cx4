@@ -1,0 +1,27 @@
+# EXFOR #         : 20455.002  
+# EXFOR Ver.      : 20180821
+# TRANS #         : 2270
+# Author          : D.Porter et al.
+# Reference       : Report AWRE-O-78/70, 1970
+# DOI             : N/A
+# Quantity        : 51V(n,inl)51V partial gamma angular differential cross section
+# REACTION        : 23-V-51(N,INL)23-V-51,PAR,DA,G
+# File ID         : n-V51-inl-adxgl-enedisl-mon-einc1.530E+06_angl100_prodV51_Porter_1970_20455.002
+#
+# Einc (eV)       :   1.5300E+06
+# theta,lab (deg) :  100.0000000
+#
+# npts            : 3           
+# xmin            :   3.2030E+05
+# xmax            :   9.2910E+05
+# ymin            :   9.0000E-04
+# ymax            :   3.7400E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.2030E+05  0.0000E+00  3.7400E-02  3.5000E-03
+  6.0880E+05  0.0000E+00  9.0000E-04  2.0000E-04
+  9.2910E+05  0.0000E+00  6.5000E-03  6.0000E-04
+#---------------------------------------------------

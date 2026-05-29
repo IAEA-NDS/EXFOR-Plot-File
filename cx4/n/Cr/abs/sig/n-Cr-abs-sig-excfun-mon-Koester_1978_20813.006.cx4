@@ -1,0 +1,22 @@
+# EXFOR #         : 20813.006  
+# EXFOR Ver.      : 19840208
+# TRANS #         : 0000
+# Author          : L.Koester et al.
+# Reference       : Z.Phys.A 287 (1978) 61
+# DOI             : 10.1007/BF01408362
+# Quantity        : natCr(n,abs) cross section
+# REACTION        : 24-CR-0(N,ABS),,SIG
+# File ID         : n-Cr-abs-sig-excfun-mon-Koester_1978_20813.006
+#
+# npts            : 1           
+# xmin            :   5.1000E-04
+# xmax            :   5.1000E-04
+# ymin            :   2.1500E+01
+# ymax            :   2.1500E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.1000E-04  1.0000E-05  2.1500E+01  4.0000E-01
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 40136.009  
+# EXFOR Ver.      : 20150109
+# TRANS #         : 4172
+# Author          : G.N.Maslov et al.
+# Reference       : Report INDC(CCP)-42 page 10, 1974
+# DOI             : N/A
+# Quantity        : 58Ni(n,x)57Co independent production cross section
+# REACTION        : 28-NI-58(N,X)27-CO-57,,SIG
+# File ID         : n-Ni58-x-sig-excfun-mon-prodCo57_Maslov_1974_40136.009
+#
+# npts            : 2           
+# xmin            :   1.4200E+07
+# xmax            :   1.4600E+07
+# ymin            :   6.5800E-01
+# ymax            :   8.1200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  6.5800E-01  5.5000E-02
+  1.4600E+07  2.0000E+05  8.1200E-01  5.7000E-02
+#---------------------------------------------------

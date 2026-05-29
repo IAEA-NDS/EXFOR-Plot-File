@@ -1,0 +1,25 @@
+# EXFOR #         : 20918.003  
+# EXFOR Ver.      : 19810722
+# TRANS #         : 0000
+# Author          : M.Brendle et al.
+# Reference       : Z.Naturforsch. A 23 (1968) 1229
+# DOI             : 10.1515/zna-1968-0823
+# Quantity        : 12C(n,a)9Be partial cross section
+# REACTION        : 6-C-12(N,A)4-BE-9,PAR,SIG
+# File ID         : n-C12-a-sig-excfun-mon-elvl0.000E+00_prodBe9_Brendle_1968_20918.003
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :   1.3900E+07
+# xmax            :   1.5600E+07
+# ymin            :   7.7000E-02
+# ymax            :   7.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3900E+07  1.5000E+05  7.9000E-02  2.0000E-02
+  1.5600E+07  2.5000E+05  7.7000E-02  2.0000E-02
+#---------------------------------------------------

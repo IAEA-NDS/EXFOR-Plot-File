@@ -1,0 +1,24 @@
+# EXFOR #         : 41614.092  
+# EXFOR Ver.      : 20160512
+# TRANS #         : 4174
+# Author          : A.A.Filatenkov
+# Reference       : Report INDC(CCP)-0460, 2016
+# DOI             : N/A
+# Quantity        : 102Pd(n,x)101Rh independent production cross section
+# REACTION        : 46-PD-102(N,X)45-RH-101,,SIG
+# File ID         : n-Pd102-x-sig-excfun-mon-prodRh101_Filatenkov_2016_41614.092
+#
+# npts            : 3           
+# xmin            :   1.3450E+07
+# xmax            :   1.4490E+07
+# ymin            :   2.4100E-01
+# ymax            :   3.3900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3450E+07  0.0000E+00  2.4100E-01  6.3624E-02
+  1.4050E+07  0.0000E+00  2.9300E-01  7.0906E-02
+  1.4490E+07  0.0000E+00  3.3900E-01  8.2377E-02
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 30836.005  
+# EXFOR Ver.      : 20160502
+# TRANS #         : 3174
+# Author          : M.Zaman et al.
+# Reference       : Eur.Phys.J.A 51 (2015) 104
+# DOI             : 10.1140/epja/i2015-15104-2
+# Quantity        : natPb(n,x)203Pb cumulative production cross section
+# REACTION        : 82-PB-0(N,X)82-PB-203,CUM,SIG,,SPA
+# File ID         : n-Pb-x-sigc-excfun-spa-prodPb203_Zaman_2015_30836.005
+#
+# npts            : 3           
+# xmin            :   1.5200E+07
+# xmax            :   3.7200E+07
+# ymin            :   2.8940E-02
+# ymax            :   2.9997E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5200E+07  3.6500E+06  2.8940E-02  3.3900E-03
+  2.6400E+07  2.7700E+06  4.7610E-02  5.5300E-03
+  3.7200E+07  2.2000E+06  2.9997E-01  5.1290E-02
+#---------------------------------------------------

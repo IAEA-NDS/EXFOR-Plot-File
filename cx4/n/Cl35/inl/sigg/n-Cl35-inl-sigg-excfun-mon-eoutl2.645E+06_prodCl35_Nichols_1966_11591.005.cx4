@@ -1,0 +1,25 @@
+# EXFOR #         : 11591.005  
+# EXFOR Ver.      : 20200503
+# TRANS #         : 1468
+# Author          : D.B.Nichols et al.
+# Reference       : Phys.Rev. 151 (1966) 879
+# DOI             : 10.1103/PhysRev.151.879
+# Quantity        : 35Cl(n,inl)35Cl partial gamma production cross section
+# REACTION        : 17-CL-35(N,INL)17-CL-35,PAR,SIG,G
+# File ID         : n-Cl35-inl-sigg-excfun-mon-eoutl2.645E+06_prodCl35_Nichols_1966_11591.005
+#
+# Eout,lab (eV)   :   2.6450E+06
+#
+# npts            : 2           
+# xmin            :   3.0900E+06
+# xmax            :   4.0300E+06
+# ymin            :   7.0000E-02
+# ymax            :   1.2500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0900E+06  7.0000E+04  7.0000E-02  2.0000E-02
+  4.0300E+06  7.0000E+04  1.2500E-01  3.6000E-02
+#---------------------------------------------------

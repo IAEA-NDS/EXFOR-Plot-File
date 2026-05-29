@@ -1,0 +1,31 @@
+# EXFOR #         : 20341.015  
+# EXFOR Ver.      : 20201220
+# TRANS #         : 2296
+# Author          : K.Tsukada et al.
+# Reference       : Proceedings of Reactor Physics Sem., Vienna 1961 1 page 75(18/12)
+# DOI             : N/A
+# Quantity        : natZn(n,el)natZn angular differential cross section
+# REACTION        : 30-ZN-0(N,EL)30-ZN-0,,DA
+# File ID         : n-Zn-el-adxc-angdisc-mon-einc3.850E+06_prodZn_Tsukada_1961_20341.015
+#
+# Einc (eV)       :   3.8500E+06
+# dEinc (eV)      :   1.1000E+05
+#
+# npts            : 7           
+# xmin            :   30.0029100
+# xmax            :  139.9960000
+# ymin            :   1.8800E-02
+# ymax            :   4.3300E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 139.9960000  -0.0536200  1.8800E-02  2.4000E-03
+ 125.0296000  -0.0401800  3.0100E-02  3.3000E-03
+ 109.9987000  -0.0239400  5.3400E-02  5.1000E-03
+  90.0000000   0.0000000  4.3600E-02  5.2000E-03
+  70.0012200   0.0239400  2.0300E-02  3.0000E-03
+  49.9841100   0.0450100  9.1000E-02  9.1000E-03
+  30.0029100   0.0606200  4.3300E-01  4.1000E-02
+#---------------------------------------------------

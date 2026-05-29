@@ -1,0 +1,25 @@
+# EXFOR #         : 11703.003  
+# EXFOR Ver.      : 20200503
+# TRANS #         : 1468
+# Author          : G.W.McClure et al.
+# Reference       : J.Franklin Inst. 260 (1955) 238(2)
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe partial gamma production cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+# File ID         : n-Fe56-inl-sigg-enedisl-mon-einc1.400E+07_prodFe56_McClure_1955_11703.003
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 2           
+# xmin            :   8.5000E+05
+# xmax            :   1.2500E+06
+# ymin            :   2.6000E-04
+# ymax            :   7.5000E-04
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.5000E+05  0.0000E+00  7.5000E-04  7.5000E-05
+  1.2500E+06  0.0000E+00  2.6000E-04  2.6000E-05
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 22580.009  
+# EXFOR Ver.      : 20080303
+# TRANS #         : 2196
+# Author          : L.E.Beghian et al.
+# Reference       : Nature 163 (1949) 366
+# DOI             : 10.1038/163366a0
+# Quantity        : 115In(n,g)116m1In cumulative production cross section
+# REACTION        : 49-IN-115(N,G)49-IN-116-M1,M+,SIG
+# File ID         : n-In115-x-sigc-excfun-mon-prodIn116m_Beghian_1949_22580.009
+#
+# npts            : 1           
+# xmin            :   9.0000E+05
+# xmax            :   9.0000E+05
+# ymin            :   6.5000E-01
+# ymax            :   6.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.0000E+05  1.3000E+04  6.5000E-01  1.1000E-01
+#---------------------------------------------------

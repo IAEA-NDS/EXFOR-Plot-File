@@ -1,0 +1,22 @@
+# EXFOR #         : 10696.002  
+# EXFOR Ver.      : 20090912
+# TRANS #         : 1355
+# Author          : F.Y.Tsang et al.
+# Reference       : Nucl.Sci.Eng. 65 (1978) 70
+# DOI             : 10.13182/NSE78-A27127
+# Quantity        : 238U(n,el)238U cross section
+# REACTION        : 92-U-238(N,EL)92-U-238,,SIG
+# File ID         : n-U238-el-sig-excfun-mon-prodU238_Tsang_1978_10696.002
+#
+# npts            : 1           
+# xmin            :   1.4400E+05
+# xmax            :   1.4400E+05
+# ymin            :   1.0660E+01
+# ymax            :   1.0660E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4400E+05  1.3000E+04  1.0660E+01  8.5000E-01
+#---------------------------------------------------

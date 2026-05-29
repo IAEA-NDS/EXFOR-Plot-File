@@ -1,0 +1,22 @@
+# EXFOR #         : 23466.002  
+# EXFOR Ver.      : 20190122
+# TRANS #         : 2279
+# Author          : P.Jimenez-Bonilla et al.
+# Reference       : J.Phys.Conf.Ser. 940 (2018) 012044
+# DOI             : 10.1088/1742-6596/940/1/012044
+# Quantity        : 197Au(n,g)198Au cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198,,SIG,,MXW
+# File ID         : n-Au197-g-sig-excfun-mxw-prodAu198_Jimenez+Bonilla_2018_23466.002
+#
+# npts            : 1           
+# xmin            :   3.0000E+04
+# xmax            :   3.0000E+04
+# ymin            :   6.1200E-01
+# ymax            :   6.1200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  0.0000E+00  6.1200E-01  2.0000E-02
+#---------------------------------------------------

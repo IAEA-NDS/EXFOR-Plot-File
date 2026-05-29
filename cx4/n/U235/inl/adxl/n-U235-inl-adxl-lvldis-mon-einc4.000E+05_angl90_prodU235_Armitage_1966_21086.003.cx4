@@ -1,0 +1,30 @@
+# EXFOR #         : 21086.003  
+# EXFOR Ver.      : 20230130
+# TRANS #         : 2313
+# Author          : B.H.Armitage et al.
+# Reference       : Proceedings of Nuclear Data For Reactors Conf., Paris 1966 1 page 383
+# DOI             : N/A
+# Quantity        : 235U(n,inl)235U partial angular differential cross section
+# REACTION        : 92-U-235(N,INL)92-U-235,PAR,DA,,4PI
+# File ID         : n-U235-inl-adxl-lvldis-mon-einc4.000E+05_angl90_prodU235_Armitage_1966_21086.003
+#
+# Einc (eV)       :   4.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 6           
+# xmin            :   1.2500E+04
+# xmax            :   2.5000E+05
+# ymin            :   2.9444E-03
+# ymax            :   4.9020E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.2500E+04  1.2500E+04  2.9444E-03  5.8887E-04
+  3.7500E+04  1.2500E+04  2.4351E-02  4.8701E-03
+  7.5000E+04  2.5000E+04  4.9020E-02  9.8039E-03
+  1.2500E+05  2.5000E+04  2.6022E-02  5.2044E-03
+  1.7500E+05  2.5000E+04  1.4642E-02  2.9285E-03
+  2.5000E+05  5.0000E+04  2.7852E-02  5.5704E-03
+#---------------------------------------------------

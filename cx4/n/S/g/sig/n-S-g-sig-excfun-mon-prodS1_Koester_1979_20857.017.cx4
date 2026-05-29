@@ -1,0 +1,23 @@
+# EXFOR #         : 20857.017  
+# EXFOR Ver.      : 19840227
+# TRANS #         : 0000
+# Author          : L.Koester et al.
+# Reference       : Z.Phys.A 289 No.4 (1979) 399
+# DOI             : 10.1007/BF01409392
+# Quantity        : natS(n,g) cross section
+# REACTION        : 16-S-0(N,G),,SIG
+# File ID         : n-S-g-sig-excfun-mon-prodS1_Koester_1979_20857.017
+#
+# npts            : 2           
+# xmin            :   5.1000E-04
+# xmax            :   2.5300E-02
+# ymin            :   5.3000E-01
+# ymax            :   3.7700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.1000E-04  0.0000E+00  3.7700E+00  7.0000E-02
+  2.5300E-02  0.0000E+00  5.3000E-01  1.0000E-02
+#---------------------------------------------------

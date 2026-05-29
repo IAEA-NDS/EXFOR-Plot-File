@@ -1,0 +1,28 @@
+# EXFOR #         : 13346.003  
+# EXFOR Ver.      : 20081021
+# TRANS #         : 1350
+# Author          : D.R.Nethaway et al.
+# Reference       : Phys.Rev.C 2 (1970) 2289
+# DOI             : 10.1103/PhysRevC.2.2289
+# Quantity        : 233U(n,f) cumulative fission product yield
+# REACTION        : 92-U-233(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-U233-f-fyc-nucdis-mon-einc1.480E+07_Nethaway_1970_13346.003
+#
+# Einc (eV)       :   1.4800E+07
+# dEinc (eV)      :   3.0000E+05
+#
+# npts            : 4           
+# xmin            : 41096.9     
+# xmax            : 63156.9     
+# ymin            :   2.0000E-06
+# ymax            :   5.1000E-04
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     41096.9  2.0000E-06  2.0000E-07
+     55136.9  9.2000E-05  4.0000E-06
+     55137.9  5.1000E-04  2.0000E-05
+     63156.9  4.4000E-06  2.0000E-07
+#---------------------------------------------------

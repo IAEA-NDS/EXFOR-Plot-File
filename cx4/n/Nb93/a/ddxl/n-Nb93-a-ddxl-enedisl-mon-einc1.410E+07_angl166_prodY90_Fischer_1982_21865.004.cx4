@@ -1,0 +1,28 @@
+# EXFOR #         : 21865.004  
+# EXFOR Ver.      : 20060807
+# TRANS #         : 2178
+# Author          : R.Fischer et al.
+# Reference       : Ann.Nucl.Energy 9 (1982) 409
+# DOI             : 10.1016/0306-4549(82)90092-5
+# Quantity        : 93Nb(n,a)90Y double differential cross section
+# REACTION        : 41-NB-93(N,A)39-Y-90,,DA/DE
+# File ID         : n-Nb93-a-ddxl-enedisl-mon-einc1.410E+07_angl166_prodY90_Fischer_1982_21865.004
+#
+# Einc (eV)       :   1.4100E+07
+# theta,lab (deg) :  165.6500000
+#
+# npts            : 4           
+# xmin            :   1.1000E+07
+# xmax            :   1.7000E+07
+# ymin            :   8.8000E-12
+# ymax            :   1.0200E-10
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.1000E+07  1.0000E+06  1.0200E-10  1.3770E-11
+  1.3000E+07  1.0000E+06  6.2000E-11  1.0480E-11
+  1.5000E+07  1.0000E+06  2.8000E-11  7.4760E-12
+  1.7000E+07  1.0000E+06  8.8000E-12  4.6990E-12
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 31466.004  
+# EXFOR Ver.      : 20010430
+# TRANS #         : 0000
+# Author          : S.Hlavac et al.
+# Reference       : Report INDC(NDS)-412 page 12, 1999
+# DOI             : N/A
+# Quantity        : 28Si(n,a)25Mg partial gamma production cross section
+# REACTION        : 14-SI-28(N,A)12-MG-25,PAR,SIG,G
+# File ID         : n-Si28-a-sigg-enedisl-mon-einc1.460E+07_prodMg25_Hlavac_1999_31466.004
+#
+# Einc (eV)       :   1.4600E+07
+#
+# npts            : 3           
+# xmin            :   3.8970E+05
+# xmax            :   9.7470E+05
+# ymin            :   2.6000E-02
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8970E+05  0.0000E+00  2.6000E-02  4.0000E-03
+  5.8510E+05  0.0000E+00  7.5000E-02  1.0000E-02
+  9.7470E+05  0.0000E+00  4.1000E-02  5.0000E-03
+#---------------------------------------------------

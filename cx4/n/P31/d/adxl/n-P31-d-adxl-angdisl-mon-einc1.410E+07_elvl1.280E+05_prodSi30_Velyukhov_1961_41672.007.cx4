@@ -1,0 +1,26 @@
+# EXFOR #         : 41672.007  
+# EXFOR Ver.      : 20190708
+# TRANS #         : 4183
+# Author          : G.E.Velyukhov et al.
+# Reference       : J.Exp.Theor.Phys. 12 (1961) 395
+# DOI             : N/A
+# Quantity        : 31P(n,d)30Si partial angular differential cross section
+# REACTION        : 15-P-31(N,D)14-SI-30,PAR,DA
+# File ID         : n-P31-d-adxl-angdisl-mon-einc1.410E+07_elvl1.280E+05_prodSi30_Velyukhov_1961_41672.007
+#
+# Einc (eV)       :   1.4100E+07
+# Elvl (eV)       :   1.2801E+05
+# dElvl (eV)      :   2.0000E+05
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   2.1800E-02
+# ymax            :   2.1800E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  2.1800E-02  1.2000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 40680.023  
+# EXFOR Ver.      : 20211203
+# TRANS #         : 4201
+# Author          : N.P.Glazkov
+# Reference       : At.En. 15 (1963) 416
+# DOI             : N/A
+# Quantity        : natSe(n,inl)natSe partial cross section
+# REACTION        : 34-SE-0(N,INL)34-SE-0,PAR,SIG
+# File ID         : n-Se-inl-sig-excfun-mon-elvl6.000E+05_prodSe_Glazkov_1963_40680.023
+#
+# Elvl (eV)       :   6.0000E+05
+#
+# npts            : 3           
+# xmin            :   8.0000E+05
+# xmax            :   1.2000E+06
+# ymin            :   6.0000E-01
+# ymax            :   1.0000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+05  0.0000E+00  6.0000E-01  5.0000E-02
+  1.0000E+06  0.0000E+00  9.0000E-01  1.0000E-01
+  1.2000E+06  0.0000E+00  1.0000E+00  1.0000E-01
+#---------------------------------------------------

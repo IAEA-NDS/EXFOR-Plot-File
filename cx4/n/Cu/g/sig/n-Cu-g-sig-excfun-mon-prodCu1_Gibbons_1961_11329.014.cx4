@@ -1,0 +1,23 @@
+# EXFOR #         : 11329.014  
+# EXFOR Ver.      : 20120416
+# TRANS #         : 1380
+# Author          : J.H.Gibbons et al.
+# Reference       : Phys.Rev. 122 (1961) 182
+# DOI             : 10.1103/PhysRev.122.182
+# Quantity        : natCu(n,g) cross section
+# REACTION        : 29-CU-0(N,G),,SIG
+# File ID         : n-Cu-g-sig-excfun-mon-prodCu1_Gibbons_1961_11329.014
+#
+# npts            : 2           
+# xmin            :   3.0000E+04
+# xmax            :   6.5000E+04
+# ymin            :   2.5000E-02
+# ymax            :   3.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  7.0000E+03  3.9000E-02  7.0000E-03
+  6.5000E+04  3.0000E+04  2.5000E-02  5.0000E-03
+#---------------------------------------------------

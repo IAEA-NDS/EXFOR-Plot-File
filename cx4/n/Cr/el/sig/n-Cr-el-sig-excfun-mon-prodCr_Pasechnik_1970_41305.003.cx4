@@ -1,0 +1,24 @@
+# EXFOR #         : 41305.003  
+# EXFOR Ver.      : 20140814
+# TRANS #         : 4164
+# Author          : M.V.Pasechnik et al.
+# Reference       : Yad.Fiz. 11 (1970) 958
+# DOI             : N/A
+# Quantity        : natCr(n,el)natCr cross section
+# REACTION        : 24-CR-0(N,EL)24-CR-0,,SIG
+# File ID         : n-Cr-el-sig-excfun-mon-prodCr_Pasechnik_1970_41305.003
+#
+# npts            : 3           
+# xmin            :   2.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   2.3490E+00
+# ymax            :   2.7260E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  2.7260E+00  4.9000E-02
+  2.5000E+06  0.0000E+00  2.5370E+00  2.0000E-01
+  3.0000E+06  0.0000E+00  2.3490E+00  1.3000E-01
+#---------------------------------------------------

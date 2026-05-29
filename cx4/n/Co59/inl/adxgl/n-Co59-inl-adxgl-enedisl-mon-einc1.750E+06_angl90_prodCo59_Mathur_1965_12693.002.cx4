@@ -1,0 +1,33 @@
+# EXFOR #         : 12693.002  
+# EXFOR Ver.      : 20140419
+# TRANS #         : 1401
+# Author          : S.C.Mathur et al.
+# Reference       : Bull.Am.Phys.Soc. 10 (1965) 577(AC11)
+# DOI             : N/A
+# Quantity        : 59Co(n,inl)59Co partial gamma angular differential cross section
+# REACTION        : 27-CO-59(N,INL)27-CO-59,PAR,DA,G
+# File ID         : n-Co59-inl-adxgl-enedisl-mon-einc1.750E+06_angl90_prodCo59_Mathur_1965_12693.002
+#
+# Einc (eV)       :   1.7500E+06
+# dEinc (eV)      :   4.0000E+04
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 8           
+# xmin            :   2.9000E+05
+# xmax            :   1.4790E+06
+# ymin            :   2.4000E-03
+# ymax            :   1.4200E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.9000E+05  0.0000E+00  3.6000E-03  7.2000E-04
+  3.3500E+05  0.0000E+00  2.8000E-03  5.6000E-04
+  3.8000E+05  0.0000E+00  3.0000E-03  6.0000E-04
+  1.1000E+06  0.0000E+00  6.6000E-03  1.3200E-03
+  1.1900E+06  0.0000E+00  1.4200E-02  2.8400E-03
+  1.2900E+06  0.0000E+00  3.0000E-03  6.0000E-04
+  1.4580E+06  0.0000E+00  4.8000E-03  9.6000E-04
+  1.4790E+06  0.0000E+00  2.4000E-03  4.8000E-04
+#---------------------------------------------------

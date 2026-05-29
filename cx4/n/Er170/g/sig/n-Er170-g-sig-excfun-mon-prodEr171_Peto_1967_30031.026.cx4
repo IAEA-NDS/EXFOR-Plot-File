@@ -1,0 +1,22 @@
+# EXFOR #         : 30031.026  
+# EXFOR Ver.      : 19900212
+# TRANS #         : 0000
+# Author          : G.Peto et al.
+# Reference       : J.Nucl.Energy 21 (1967) 797
+# DOI             : 10.1016/0022-3107(67)90089-5
+# Quantity        : 170Er(n,g)171Er cross section
+# REACTION        : 68-ER-170(N,G)68-ER-171,,SIG
+# File ID         : n-Er170-g-sig-excfun-mon-prodEr171_Peto_1967_30031.026
+#
+# npts            : 1           
+# xmin            :   3.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   1.5800E-02
+# ymax            :   1.5800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  2.0000E+05  1.5800E-02  3.0000E-03
+#---------------------------------------------------

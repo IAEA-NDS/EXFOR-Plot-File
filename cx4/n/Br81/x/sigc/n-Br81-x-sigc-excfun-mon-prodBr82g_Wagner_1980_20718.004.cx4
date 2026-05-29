@@ -1,0 +1,22 @@
+# EXFOR #         : 20718.004  
+# EXFOR Ver.      : 20131211
+# TRANS #         : 2238
+# Author          : M.Wagner et al.
+# Reference       : Acta Physica Austr. 52 (1980) 23
+# DOI             : N/A
+# Quantity        : 81Br(n,g)82gBr cumulative production cross section
+# REACTION        : 35-BR-81(N,G)35-BR-82-G,M+,SIG
+# File ID         : n-Br81-x-sigc-excfun-mon-prodBr82g_Wagner_1980_20718.004
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   8.7500E-04
+# ymax            :   8.7500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  8.7500E-04  1.3000E-04
+#---------------------------------------------------

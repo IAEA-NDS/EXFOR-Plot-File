@@ -1,0 +1,23 @@
+# EXFOR #         : 22658.006  
+# EXFOR Ver.      : 20150926
+# TRANS #         : 2246
+# Author          : Y.Ikeda et al.
+# Reference       : Report (proceedings) INDC(NDS)-342 page 19, 1996
+# DOI             : N/A
+# Quantity        : 94Mo(n,p)94Nb cross section
+# REACTION        : 42-MO-94(N,P)41-NB-94,,SIG
+# File ID         : n-Mo94-p-sig-excfun-mon-prodNb94_Ikeda_1996_22658.006
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4800E+07
+# ymin            :   5.4000E-02
+# ymax            :   5.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  0.0000E+00  5.4000E-02  1.2000E-02
+  1.4100E+07  0.0000E+00  5.8000E-02  9.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 22658.014  
+# EXFOR Ver.      : 20150926
+# TRANS #         : 2246
+# Author          : Y.Ikeda et al.
+# Reference       : Report (proceedings) INDC(NDS)-342 page 19, 1996
+# DOI             : N/A
+# Quantity        : 179Hf(n,2n)178m2Hf cross section
+# REACTION        : 72-HF-179(N,2N)72-HF-178-M2,,SIG
+# File ID         : n-Hf179-2n-sig-excfun-mon-prodHf178n_Ikeda_1996_22658.014
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4800E+07
+# ymin            :   5.8300E-03
+# ymax            :   6.8200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  0.0000E+00  6.8200E-03  3.8000E-04
+  1.4100E+07  0.0000E+00  5.8300E-03  3.6000E-04
+#---------------------------------------------------

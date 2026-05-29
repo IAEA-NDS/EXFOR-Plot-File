@@ -1,0 +1,25 @@
+# EXFOR #         : 31764.002.1
+# EXFOR Ver.      : 20150616
+# TRANS #         : 3172
+# Author          : E.Simeckova et al.
+# Reference       : J.Korean.Phys.Soc. 59 (2011) 1801
+# DOI             : 10.3938/jkps.59.1801
+# Quantity        : 59Co(n,x)54Mn independent production cross section
+# REACTION        : 27-CO-59(N,X)25-MN-54,,SIG
+# File ID         : n-Co59-x-sig-excfun-mon-prodMn54_Simeckova_2011_31764.002.1
+#
+# npts            : 4           
+# xmin            :   2.7500E+07
+# xmax            :   3.5000E+07
+# ymin            :   8.2000E-03
+# ymax            :   5.7800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7500E+07  1.5000E+06  8.2000E-03  1.0000E-03
+  3.0000E+07  1.0000E+06  2.8500E-02  3.3000E-03
+  3.2500E+07  1.5000E+06  4.4500E-02  5.2000E-03
+  3.5000E+07  1.0000E+06  5.7800E-02  6.6000E-03
+#---------------------------------------------------

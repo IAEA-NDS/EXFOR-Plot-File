@@ -1,0 +1,26 @@
+# EXFOR #         : 23763.005.2
+# EXFOR Ver.      : 20220317
+# TRANS #         : 2310
+# Author          : S.Dubey et al.
+# Reference       : Phys.Rev.C 102 (2020) 044602
+# DOI             : 10.1103/PhysRevC.102.044602
+# Quantity        : 239Pu(n,f) independent fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,IND,FY
+# File ID         : n-Pu239-f-fyi-nucdis-mon-einc2.530E-02_Dubey_2020_23763.005.2
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 3           
+# xmin            : 36092.9     
+# xmax            : 38092.9     
+# ymin            :   3.5000E-03
+# ymax            :   1.5000E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     36092.9  3.5000E-03  5.0000E-04
+     37092.9  1.5000E-02  1.4000E-03
+     38092.9  1.1500E-02  1.6000E-03
+#---------------------------------------------------

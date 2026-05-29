@@ -1,0 +1,22 @@
+# EXFOR #         : 30771.002.2
+# EXFOR Ver.      : 20240524
+# TRANS #         : 3213
+# Author          : B.J.Allen et al.
+# Reference       : Proceedings of 4.Symp.Neutr.Capt.Gamma-Ray Spectrosc.,Grenoble 1981 page 573
+# DOI             : N/A
+# Quantity        : 175Lu(n,g)176mLu cross section
+# REACTION        : 71-LU-175(N,G)71-LU-176-M,,SIG
+# File ID         : n-Lu175-g-sig-excfun-mon-prodLu176m_Allen_1981_30771.002.2
+#
+# npts            : 1           
+# xmin            :   3.0000E+04
+# xmax            :   3.0000E+04
+# ymin            :   9.5800E-01
+# ymax            :   9.5800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  1.0000E+04  9.5800E-01  5.8000E-02
+#---------------------------------------------------

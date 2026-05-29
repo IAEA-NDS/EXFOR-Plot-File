@@ -1,0 +1,23 @@
+# EXFOR #         : 30849.003  
+# EXFOR Ver.      : 20210825
+# TRANS #         : 3206
+# Author          : H.Naik et al.
+# Reference       : Nucl.Phys.A 970 (2018) 156
+# DOI             : 10.1016/j.nuclphysa.2017.11.011
+# Quantity        : 93Nb(n,3n)91mNb cross section
+# REACTION        : 41-NB-93(N,3N)41-NB-91-M,,SIG,,SPA
+# File ID         : n-Nb93-3n-sig-excfun-spa-prodNb91m_Naik_2018_30849.003
+#
+# npts            : 2           
+# xmin            :   2.2752E+07
+# xmax            :   2.9801E+07
+# ymin            :   1.5340E-01
+# ymax            :   1.7000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2752E+07  0.0000E+00  1.5340E-01  2.0000E-02
+  2.9801E+07  0.0000E+00  1.7000E-01  2.1800E-02
+#---------------------------------------------------

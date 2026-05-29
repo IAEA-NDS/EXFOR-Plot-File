@@ -1,0 +1,22 @@
+# EXFOR #         : 23266.062  
+# EXFOR Ver.      : 20230215
+# TRANS #         : 2314
+# Author          : F.Farina Arbocco et al.
+# Reference       : J.Rad.Nucl.Chem. 296 (2013) 931
+# DOI             : 10.1007/s10967-012-2132-0
+# Quantity        : 64Zn(n,g)65Zn cross section
+# REACTION        : 30-ZN-64(N,G)30-ZN-65,,SIG,,AV
+# File ID         : n-Zn64-g-sig-excfun-mon-prodZn65_Farina%Arbocco_2013_23266.062
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   7.1700E-01
+# ymax            :   7.1700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.1700E-01  7.0000E-03
+#---------------------------------------------------

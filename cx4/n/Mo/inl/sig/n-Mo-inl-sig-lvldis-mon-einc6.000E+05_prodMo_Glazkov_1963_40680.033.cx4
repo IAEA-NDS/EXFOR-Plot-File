@@ -1,0 +1,25 @@
+# EXFOR #         : 40680.033  
+# EXFOR Ver.      : 20211203
+# TRANS #         : 4201
+# Author          : N.P.Glazkov
+# Reference       : At.En. 15 (1963) 416
+# DOI             : N/A
+# Quantity        : natMo(n,inl)natMo partial cross section
+# REACTION        : 42-MO-0(N,INL)42-MO-0,PAR,SIG
+# File ID         : n-Mo-inl-sig-lvldis-mon-einc6.000E+05_prodMo_Glazkov_1963_40680.033
+#
+# Einc (eV)       :   6.0000E+05
+#
+# npts            : 2           
+# xmin            :   2.0000E+05
+# xmax            :   5.3000E+05
+# ymin            :   4.0000E-02
+# ymax            :   2.0000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+05  0.0000E+00  2.0000E-01  3.0000E-02
+  5.3000E+05  0.0000E+00  4.0000E-02  2.0000E-02
+#---------------------------------------------------

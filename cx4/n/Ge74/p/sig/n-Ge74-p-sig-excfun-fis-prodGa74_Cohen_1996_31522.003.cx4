@@ -1,0 +1,22 @@
+# EXFOR #         : 31522.003  
+# EXFOR Ver.      : 20021105
+# TRANS #         : 0000
+# Author          : I.M.Cohen et al.
+# Reference       : J.Rad.Nucl.Chem.Lett 212 No.5 (1996) 353
+# DOI             : 10.1007/BF02162650
+# Quantity        : 74Ge(n,p)74Ga cross section
+# REACTION        : 32-GE-74(N,P)31-GA-74,,SIG,,FIS
+# File ID         : n-Ge74-p-sig-excfun-fis-prodGa74_Cohen_1996_31522.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   9.3800E-06
+# ymax            :   9.3800E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  9.3800E-06  5.9000E-07
+#---------------------------------------------------

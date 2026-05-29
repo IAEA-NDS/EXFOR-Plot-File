@@ -1,0 +1,30 @@
+# EXFOR #         : 22057.002  
+# EXFOR Ver.      : 19890130
+# TRANS #         : 0000
+# Author          : P.D'Hondt et al.
+# Reference       : Report (proceedings) BLG-586 page 43, 1986
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U235-f-fyc-nucdis-spa-einc1.500E+06_DHondt_1986_22057.002
+#
+# Einc (eV)       :   1.5000E+06
+#
+# npts            : 7           
+# xmin            : 40095.9     
+# xmax            : 60147.9     
+# ymin            :   2.2400E-02
+# ymax            :   7.0900E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     40095.9  6.6100E-02  2.1152E-03
+     42099.9  6.0900E-02  1.9488E-03
+     44103.9  3.3200E-02  9.9600E-04
+     53131.9  3.4600E-02  1.1418E-03
+     53133.9  7.0900E-02  2.1270E-03
+     58143.9  5.8100E-02  3.3698E-03
+     60147.9  2.2400E-02  1.0528E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 30400.031  
+# EXFOR Ver.      : 20090309
+# TRANS #         : 3135
+# Author          : Z.Dezso et al.
+# Reference       : Proceedings of 4.All Union Conf.on Neutron Phys.,Kiev,18-22 Apr 1977 3 page 32
+# DOI             : N/A
+# Quantity        : 94Zr(n,g)95Zr cross section
+# REACTION        : 40-ZR-94(N,G)40-ZR-95,,SIG,,FIS
+# File ID         : n-Zr94-g-sig-excfun-fis-prodZr95_Dezso_1977_30400.031
+#
+# npts            : 1           
+# xmin            :   1.4100E+06
+# xmax            :   1.4100E+06
+# ymin            :   8.7500E-03
+# ymax            :   8.7500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+06  0.0000E+00  8.7500E-03  6.5000E-04
+#---------------------------------------------------

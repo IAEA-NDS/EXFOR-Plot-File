@@ -1,0 +1,27 @@
+# EXFOR #         : 13458.002  
+# EXFOR Ver.      : 19900122
+# TRANS #         : 0000
+# Author          : K.F.Flynn et al.
+# Reference       : Phys.Rev.C 12 (1975) 1478
+# DOI             : 10.1103/PhysRevC.12.1478
+# Quantity        : 257Fm(n,f) cumulative fission product yield
+# REACTION        : 100-FM-257(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-Fm257-f-fyc-nucdis-spa-einc2.530E-02_Flynn_1975_13458.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 4           
+# xmin            : 46112.9     
+# xmax            : 56140.9     
+# ymin            :   3.0200E-02
+# ymax            :   6.3000E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     46112.9  3.0200E-02  6.0000E-03
+     51127.9  6.3000E-02  9.5000E-03
+     52132.9  5.5700E-02  8.4000E-03
+     56140.9  3.9500E-02  6.0000E-03
+#---------------------------------------------------

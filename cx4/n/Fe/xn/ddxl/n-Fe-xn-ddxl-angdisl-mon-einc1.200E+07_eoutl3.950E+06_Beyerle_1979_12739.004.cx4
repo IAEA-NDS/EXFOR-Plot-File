@@ -1,0 +1,29 @@
+# EXFOR #         : 12739.004  
+# EXFOR Ver.      : 20210928
+# TRANS #         : 1493
+# Author          : A.G.Beyerle et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross Sections F.Techn.,Knoxville 1979 page 139
+# DOI             : N/A
+# Quantity        : natFe(n,n+x) double differential cross section
+# REACTION        : 26-FE-0(N,X)0-NN-1,,DA/DE
+# File ID         : n-Fe-xn-ddxl-angdisl-mon-einc1.200E+07_eoutl3.950E+06_Beyerle_1979_12739.004
+#
+# Einc (eV)       :   1.2000E+07
+# Eout,lab (eV)   :   3.9500E+06
+#
+# npts            : 5           
+# xmin            :   45.0000000
+# xmax            :  150.0000000
+# ymin            :   4.3900E-09
+# ymax            :   1.5380E-08
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  45.0000000   0.0000000  1.5380E-08  0.0000E+00
+  75.0000000   0.0000000  4.3900E-09  0.0000E+00
+ 100.0000000   0.0000000  6.1100E-09  0.0000E+00
+ 125.0000000   0.0000000  8.6500E-09  0.0000E+00
+ 150.0000000   0.0000000  1.0260E-08  0.0000E+00
+#---------------------------------------------------

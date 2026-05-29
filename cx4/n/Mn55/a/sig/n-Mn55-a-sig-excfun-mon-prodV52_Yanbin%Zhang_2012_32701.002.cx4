@@ -1,0 +1,23 @@
+# EXFOR #         : 32701.002  
+# EXFOR Ver.      : 20120906
+# TRANS #         : 3157
+# Author          : Yanbin Zhang et al.
+# Reference       : Radiat.Phys.Chem. 81 (2012) 1563
+# DOI             : 10.1016/j.radphyschem.2012.04.001
+# Quantity        : 55Mn(n,a)52V cross section
+# REACTION        : 25-MN-55(N,A)23-V-52,,SIG
+# File ID         : n-Mn55-a-sig-excfun-mon-prodV52_Yanbin%Zhang_2012_32701.002
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.1300E-02
+# ymax            :   2.3800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  2.0000E+05  2.1300E-02  7.0000E-04
+  1.4700E+07  2.0000E+05  2.3800E-02  8.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 20034.003  
+# EXFOR Ver.      : 20190117
+# TRANS #         : 2274
+# Author          : P.Hille et al.
+# Reference       : Acta Physica Austr. 23 (1966) 44
+# DOI             : N/A
+# Quantity        : 74Se(n,p)74As cross section
+# REACTION        : 34-SE-74(N,P)33-AS-74,,SIG
+# File ID         : n-Se74-p-sig-excfun-mon-prodAs74_Hille_1966_20034.003
+#
+# npts            : 2           
+# xmin            :   1.4050E+07
+# xmax            :   1.4750E+07
+# ymin            :   1.4200E-01
+# ymax            :   1.6500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4050E+07  1.0000E+05  1.6500E-01  3.3000E-02
+  1.4750E+07  1.0000E+05  1.4200E-01  1.4200E-02
+#---------------------------------------------------

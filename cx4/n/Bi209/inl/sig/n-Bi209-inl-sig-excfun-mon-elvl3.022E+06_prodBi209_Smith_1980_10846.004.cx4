@@ -1,0 +1,26 @@
+# EXFOR #         : 10846.004  
+# EXFOR Ver.      : 20200116
+# TRANS #         : 1462
+# Author          : A.Smith et al.
+# Reference       : Nucl.Sci.Eng. 75 (1980) 69
+# DOI             : 10.13182/NSE80-A20319
+# Quantity        : 209Bi(n,inl)209Bi partial cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,SIG
+# File ID         : n-Bi209-inl-sig-excfun-mon-elvl3.022E+06_prodBi209_Smith_1980_10846.004
+#
+# Elvl (eV)       :   3.0220E+06
+# dElvl (eV)      :   2.1000E+04
+#
+# npts            : 2           
+# xmin            :   3.9500E+06
+# xmax            :   4.0000E+06
+# ymin            :   2.2900E-01
+# ymax            :   3.1700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9500E+06  0.0000E+00  3.1700E-01  6.0000E-02
+  4.0000E+06  0.0000E+00  2.2900E-01  5.0000E-02
+#---------------------------------------------------

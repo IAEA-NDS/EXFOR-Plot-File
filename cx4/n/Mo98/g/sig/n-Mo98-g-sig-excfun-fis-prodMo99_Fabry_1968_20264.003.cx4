@@ -1,0 +1,22 @@
+# EXFOR #         : 20264.003  
+# EXFOR Ver.      : 20110227
+# TRANS #         : 2226
+# Author          : A.Fabry et al.
+# Reference       : Proceedings of Nuclear Cross-Sections Techn. Conf., Washington 1968 2 page 1263
+# DOI             : N/A
+# Quantity        : 98Mo(n,g)99Mo cross section
+# REACTION        : 42-MO-98(N,G)42-MO-99,,SIG,,FIS
+# File ID         : n-Mo98-g-sig-excfun-fis-prodMo99_Fabry_1968_20264.003
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.0000E-02  1.0000E-03
+#---------------------------------------------------

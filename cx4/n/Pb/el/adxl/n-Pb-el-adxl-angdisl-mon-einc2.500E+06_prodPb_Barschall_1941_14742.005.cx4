@@ -1,0 +1,25 @@
+# EXFOR #         : 14742.005  
+# EXFOR Ver.      : 20220204
+# TRANS #         : 1496
+# Author          : H.H.Barschall et al.
+# Reference       : Phys.Rev. 59 (1941) 917(18)
+# DOI             : N/A
+# Quantity        : natPb(n,el)natPb angular differential cross section
+# REACTION        : 82-PB-0(N,EL)82-PB-0,,DA,,4PI
+# File ID         : n-Pb-el-adxl-angdisl-mon-einc2.500E+06_prodPb_Barschall_1941_14742.005
+#
+# Einc (eV)       :   2.5000E+06
+#
+# npts            : 2           
+# xmin            :   45.0000000
+# xmax            :  100.0000000
+# ymin            :   1.9894E-01
+# ymax            :   3.9789E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 100.0000000  20.0000000  1.9894E-01  3.1831E-02
+  45.0000000  10.0000000  3.9789E-01  4.7746E-02
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : 11396.017  
+# EXFOR Ver.      : 19930219
+# TRANS #         : 0000
+# Author          : L.Cranberg et al.
+# Reference       : Phys.Rev. 103 (1956) 343
+# DOI             : 10.1103/PhysRev.103.343
+# Quantity        : 75As(n,inl)75As partial angular differential cross section
+# REACTION        : 33-AS-75(N,INL)33-AS-75,PAR,DA
+# File ID         : n-As75-inl-adxl-lvldis-mon-einc2.450E+06_angl90_prodAs75_Cranberg_1956_11396.017
+#
+# Einc (eV)       :   2.4500E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 3           
+# xmin            :   7.8000E+05
+# xmax            :   1.6300E+06
+# ymin            :   2.1000E-02
+# ymax            :   4.7000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.8000E+05  4.0000E+04  2.7000E-02  6.0000E-03
+  1.2500E+06  3.0000E+04  4.7000E-02  8.0000E-03
+  1.6300E+06  2.0000E+04  2.1000E-02  3.0000E-03
+#---------------------------------------------------

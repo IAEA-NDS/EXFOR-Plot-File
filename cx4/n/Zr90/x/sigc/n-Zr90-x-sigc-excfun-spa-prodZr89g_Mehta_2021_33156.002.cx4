@@ -1,0 +1,24 @@
+# EXFOR #         : 33156.002  
+# EXFOR Ver.      : 20260408
+# TRANS #         : 3223
+# Author          : M.Mehta et al.
+# Reference       : J.Rad.Nucl.Chem. 328 (2021) 71
+# DOI             : 10.1007/s10967-021-07625-y
+# Quantity        : 90Zr(n,2n)89gZr cumulative production cross section
+# REACTION        : 40-ZR-90(N,2N)40-ZR-89-G,M+,SIG,,SPA
+# File ID         : n-Zr90-x-sigc-excfun-spa-prodZr89g_Mehta_2021_33156.002
+#
+# npts            : 3           
+# xmin            :   1.3970E+07
+# xmax            :   2.0020E+07
+# ymin            :   5.1517E-01
+# ymax            :   1.0911E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3970E+07  6.8000E+05  5.1517E-01  7.9507E-02
+  1.6990E+07  5.3000E+05  1.0118E+00  1.5399E-01
+  2.0020E+07  5.8000E+05  1.0911E+00  1.7824E-01
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 11276.019  
+# EXFOR Ver.      : 20100518
+# TRANS #         : 1364
+# Author          : W.L.Rodgers et al.
+# Reference       : Progress report COO-1573-33 page 2, 1967
+# DOI             : N/A
+# Quantity        : 65Cu(n,inl)65Cu partial cross section
+# REACTION        : 29-CU-65(N,INL)29-CU-65,PAR,SIG
+# File ID         : n-Cu65-inl-sig-excfun-mon-elvl1.600E+06_prodCu65_Rodgers_1967_11276.019
+#
+# Elvl (eV)       :   1.6000E+06
+# dElvl (eV)      :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   2.3300E+06
+# xmax            :   2.3300E+06
+# ymin            :   6.2200E-01
+# ymax            :   6.2200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3300E+06  0.0000E+00  6.2200E-01  1.9000E-02
+#---------------------------------------------------

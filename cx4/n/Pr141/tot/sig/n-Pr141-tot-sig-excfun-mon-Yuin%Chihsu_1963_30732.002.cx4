@@ -1,0 +1,24 @@
+# EXFOR #         : 30732.002  
+# EXFOR Ver.      : 20090906
+# TRANS #         : 3140
+# Author          : Yuin Chihsu et al.
+# Reference       : Chin.J.Phys. 1 (1963) 39
+# DOI             : N/A
+# Quantity        : 141Pr(n,tot) cross section
+# REACTION        : 59-PR-141(N,TOT),,SIG
+# File ID         : n-Pr141-tot-sig-excfun-mon-Yuin%Chihsu_1963_30732.002
+#
+# npts            : 3           
+# xmin            :   1.3950E+07
+# xmax            :   1.4750E+07
+# ymin            :   5.0400E+00
+# ymax            :   5.1100E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4750E+07  1.5000E+05  5.0400E+00  1.5000E-01
+  1.4420E+07  9.0000E+04  5.0600E+00  1.5000E-01
+  1.3950E+07  3.0000E+04  5.1100E+00  1.5000E-01
+#---------------------------------------------------

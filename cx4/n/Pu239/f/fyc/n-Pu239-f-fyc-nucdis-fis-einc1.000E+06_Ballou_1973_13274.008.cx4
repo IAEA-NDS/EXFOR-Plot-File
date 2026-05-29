@@ -1,0 +1,29 @@
+# EXFOR #         : 13274.008  
+# EXFOR Ver.      : 20190422
+# TRANS #         : 1451
+# Author          : N.E.Ballou et al.
+# Reference       : Report BNWL-B-281, 1973
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,FIS
+# File ID         : n-Pu239-f-fyc-nucdis-fis-einc1.000E+06_Ballou_1973_13274.008
+#
+# Einc (eV)       :   1.0000E+06
+#
+# npts            : 6           
+# xmin            : 36085.1     
+# xmax            : 54138.9     
+# ymin            :   6.1000E-03
+# ymax            :   5.6200E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     36085.1  6.1000E-03  0.0000E+00
+     36087.9  9.6000E-03  0.0000E+00
+     36088.9  1.3600E-02  0.0000E+00
+     36089.9  1.4900E-02  0.0000E+00
+     54137.9  5.6200E-02  0.0000E+00
+     54138.9  4.5900E-02  0.0000E+00
+#---------------------------------------------------

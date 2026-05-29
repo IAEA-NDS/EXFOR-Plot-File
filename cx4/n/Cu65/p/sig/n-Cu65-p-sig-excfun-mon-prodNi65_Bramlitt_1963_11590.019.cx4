@@ -1,0 +1,22 @@
+# EXFOR #         : 11590.019  
+# EXFOR Ver.      : 20160809
+# TRANS #         : 1421
+# Author          : E.T.Bramlitt et al.
+# Reference       : Phys.Rev. 131 (1963) 2649
+# DOI             : 10.1103/PhysRev.131.2649
+# Quantity        : 65Cu(n,p)65Ni cross section
+# REACTION        : 29-CU-65(N,P)28-NI-65,,SIG
+# File ID         : n-Cu65-p-sig-excfun-mon-prodNi65_Bramlitt_1963_11590.019
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.9300E-02
+# ymax            :   2.9300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  2.0000E+05  2.9300E-02  3.2000E-03
+#---------------------------------------------------

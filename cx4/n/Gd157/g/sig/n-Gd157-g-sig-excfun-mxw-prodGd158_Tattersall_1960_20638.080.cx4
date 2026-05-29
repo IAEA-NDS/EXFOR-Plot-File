@@ -1,0 +1,22 @@
+# EXFOR #         : 20638.080  
+# EXFOR Ver.      : 20060330
+# TRANS #         : 2177
+# Author          : R.B.Tattersall et al.
+# Reference       : J.Nucl.Energy A 12 (1960) 32
+# DOI             : 10.1016/0368-3265(60)90006-2
+# Quantity        : 157Gd(n,g)158Gd cross section
+# REACTION        : 64-GD-157(N,G)64-GD-158,,SIG,,MXW
+# File ID         : n-Gd157-g-sig-excfun-mxw-prodGd158_Tattersall_1960_20638.080
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.1300E+05
+# ymax            :   2.1300E+05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.1300E+05  2.0000E+03
+#---------------------------------------------------

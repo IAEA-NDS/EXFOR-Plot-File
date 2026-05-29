@@ -1,0 +1,25 @@
+# EXFOR #         : 13277.004  
+# EXFOR Ver.      : 20210511
+# TRANS #         : 1484
+# Author          : B.L.Tracy et al.
+# Reference       : Can.J.Phys. 48 (1970) 1708
+# DOI             : 10.1139/p70-215
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U235-f-fyc-nucdis-spa-einc2.530E-02_Tracy_1970_13277.004
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 36080.9     
+# xmax            : 36082.9     
+# ymin            :   6.0000E-09
+# ymax            :   4.6000E-07
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     36080.9  6.0000E-09  1.0000E-09
+     36082.9  4.6000E-07  5.0000E-08
+#---------------------------------------------------

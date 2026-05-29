@@ -1,0 +1,30 @@
+# EXFOR #         : 30179.007  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : N.Coetzee et al.
+# Reference       : Report PEL-191 page 43, 1969
+# DOI             : N/A
+# Quantity        : 87Rb(n,inl)87Rb partial angular differential cross section
+# REACTION        : 37-RB-87(N,INL)37-RB-87,PAR,DA
+# File ID         : n-Rb87-inl-adxl-angdisl-mon-einc1.200E+06_elvl8.470E+05_prodRb87_Coetzee_1969_30179.007
+#
+# Einc (eV)       :   1.2000E+06
+# Elvl (eV)       :   8.4700E+05
+# dElvl (eV)      :   2.0000E+03
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  140.0000000
+# ymin            :   5.5700E-02
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  6.0700E-02  5.0000E-03
+  60.0000000   0.0000000  6.7500E-02  5.0000E-03
+  90.0000000   0.0000000  7.5000E-02  5.4000E-03
+ 120.0000000   0.0000000  7.5000E-02  5.4000E-03
+ 140.0000000   0.0000000  5.5700E-02  7.2000E-03
+#---------------------------------------------------

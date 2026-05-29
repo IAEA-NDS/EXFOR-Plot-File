@@ -1,0 +1,22 @@
+# EXFOR #         : 20799.012  
+# EXFOR Ver.      : 20151212
+# TRANS #         : 2246
+# Author          : J.C.Robertson et al.
+# Reference       : J.Nucl.Energy 27 (1973) 531
+# DOI             : 10.1016/0022-3107(73)90084-1
+# Quantity        : 51V(n,p)51Ti cross section
+# REACTION        : 23-V-51(N,P)22-TI-51,,SIG
+# File ID         : n-V51-p-sig-excfun-mon-prodTi51_Robertson_1973_20799.012
+#
+# npts            : 1           
+# xmin            :   1.4780E+07
+# xmax            :   1.4780E+07
+# ymin            :   3.1000E-02
+# ymax            :   3.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4780E+07  1.0000E+05  3.1000E-02  7.0000E-04
+#---------------------------------------------------

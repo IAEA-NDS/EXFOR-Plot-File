@@ -1,0 +1,23 @@
+# EXFOR #         : 20603.004  
+# EXFOR Ver.      : 19840127
+# TRANS #         : 0000
+# Author          : W.Waschkowski et al.
+# Reference       : Z.Naturforsch. A 31 (1976) 115
+# DOI             : 10.1515/zna-1976-0202
+# Quantity        : natS(n,tot) cross section
+# REACTION        : 16-S-0(N,TOT),,SIG
+# File ID         : n-S-tot-sig-excfun-mon-Waschkowski_1976_20603.004
+#
+# npts            : 2           
+# xmin            :   1.2600E+00
+# xmax            :   5.1900E+00
+# ymin            :   1.0212E+00
+# ymax            :   1.0516E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+00  0.0000E+00  1.0516E+00  2.8000E-03
+  5.1900E+00  0.0000E+00  1.0212E+00  2.3000E-03
+#---------------------------------------------------

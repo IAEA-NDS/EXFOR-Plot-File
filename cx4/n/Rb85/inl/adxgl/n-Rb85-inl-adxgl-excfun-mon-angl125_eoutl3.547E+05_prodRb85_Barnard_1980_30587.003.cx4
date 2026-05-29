@@ -1,0 +1,32 @@
+# EXFOR #         : 30587.003  
+# EXFOR Ver.      : 20090506
+# TRANS #         : 3137
+# Author          : E.Barnard et al.
+# Reference       : Z.Phys.A 296 (1980) 295
+# DOI             : 10.1007/BF01438523
+# Quantity        : 85Rb(n,inl)85Rb partial gamma angular differential cross section
+# REACTION        : 37-RB-85(N,INL)37-RB-85,PAR,DA,G
+# File ID         : n-Rb85-inl-adxgl-excfun-mon-angl125_eoutl3.547E+05_prodRb85_Barnard_1980_30587.003
+#
+# theta,lab (deg) :  125.0000000
+# Eout,lab (eV)   :   3.5470E+05
+# dEout,lab (eV)  :   3.0000E+02
+#
+# npts            : 7           
+# xmin            :   1.1750E+06
+# xmax            :   2.0600E+06
+# ymin            :   2.2000E-04
+# ymax            :   5.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1750E+06  0.0000E+00  3.4000E-04  6.0000E-05
+  1.3750E+06  0.0000E+00  2.6000E-04  6.0000E-05
+  1.5750E+06  0.0000E+00  2.9000E-04  4.0000E-05
+  1.7750E+06  0.0000E+00  2.9000E-04  6.0000E-05
+  1.8800E+06  0.0000E+00  5.9000E-04  1.3000E-04
+  1.9750E+06  0.0000E+00  3.3000E-04  1.2000E-04
+  2.0600E+06  0.0000E+00  2.2000E-04  6.0000E-05
+#---------------------------------------------------

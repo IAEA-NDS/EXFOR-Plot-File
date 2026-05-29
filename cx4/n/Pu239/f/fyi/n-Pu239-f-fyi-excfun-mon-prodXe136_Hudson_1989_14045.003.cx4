@@ -1,0 +1,22 @@
+# EXFOR #         : 14045.003  
+# EXFOR Ver.      : 20120812
+# TRANS #         : 1385
+# Author          : G.B.Hudson
+# Reference       : Progress report UCRL-53929 page 159, 1989
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) independent fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,IND,FY
+# File ID         : n-Pu239-f-fyi-excfun-mon-prodXe136_Hudson_1989_14045.003
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   4.5000E-02
+# ymax            :   4.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,ind      dFY,ind     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  4.5000E-02  1.6650E-03
+#---------------------------------------------------

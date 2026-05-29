@@ -1,0 +1,24 @@
+# EXFOR #         : 30836.004  
+# EXFOR Ver.      : 20160502
+# TRANS #         : 3174
+# Author          : M.Zaman et al.
+# Reference       : Eur.Phys.J.A 51 (2015) 104
+# DOI             : 10.1140/epja/i2015-15104-2
+# Quantity        : natPb(n,x)204mPb independent production cross section
+# REACTION        : 82-PB-0(N,X)82-PB-204-M,,SIG,,SPA
+# File ID         : n-Pb-x-sig-excfun-spa-prodPb204m_Zaman_2015_30836.004
+#
+# npts            : 3           
+# xmin            :   1.5200E+07
+# xmax            :   3.7200E+07
+# ymin            :   6.0500E-03
+# ymax            :   1.3006E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5200E+07  3.6500E+06  6.0500E-03  7.5000E-04
+  2.6400E+07  2.7700E+06  9.3150E-02  1.0230E-02
+  3.7200E+07  2.2000E+06  1.3006E-01  2.2720E-02
+#---------------------------------------------------

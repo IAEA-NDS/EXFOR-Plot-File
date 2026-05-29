@@ -1,0 +1,26 @@
+# EXFOR #         : 40447.003  
+# EXFOR Ver.      : 20170210
+# TRANS #         : 4175
+# Author          : G.A.Prokopets et al.
+# Reference       : Sov.J.Nucl.Phys. 23 (1976) 492
+# DOI             : N/A
+# Quantity        : 19F(n,inl)19F partial gamma angular differential cross section
+# REACTION        : 9-F-19(N,INL)9-F-19,PAR,DA,G,4PI
+# File ID         : n-F19-inl-adxgl-enedisl-mon-einc2.180E+07_angl55_prodF19_Prokopets_1976_40447.003
+#
+# Einc (eV)       :   2.1800E+07
+# theta,lab (deg) :   55.0000000
+#
+# npts            : 2           
+# xmin            :   1.2369E+06
+# xmax            :   1.3586E+06
+# ymin            :   7.9577E-04
+# ymax            :   5.1725E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.2369E+06  6.0000E+02  7.9577E-04  3.1831E-04
+  1.3586E+06  7.0000E+02  5.1725E-03  5.5704E-04
+#---------------------------------------------------

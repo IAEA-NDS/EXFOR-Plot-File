@@ -1,0 +1,35 @@
+# EXFOR #         : 13004.003  
+# EXFOR Ver.      : 20140421
+# TRANS #         : 1401
+# Author          : D.O.Nellis et al.
+# Reference       : Progress report TID-22012 page 182, 1964
+# DOI             : N/A
+# Quantity        : natCe(n,inl)natCe partial gamma angular differential cross section
+# REACTION        : 58-CE-0(N,INL)58-CE-0,PAR,DA,G
+# File ID         : n-Ce-inl-adxgl-enedisl-mon-einc3.000E+06_angl90_prodCe_Nellis_1964_13004.003
+#
+# Einc (eV)       :   3.0000E+06
+# dEinc (eV)      :   1.5000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 10          
+# xmin            :   4.9000E+05
+# xmax            :   2.6250E+06
+# ymin            :   2.9000E-03
+# ymax            :   3.6000E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.9000E+05  0.0000E+00  2.7000E-02  5.4000E-03
+  6.7500E+05  7.5000E+04  2.4000E-02  4.8000E-03
+  8.3000E+05  0.0000E+00  2.1000E-02  4.2000E-03
+  1.0650E+06  1.3500E+05  1.7000E-02  3.4000E-03
+  1.3400E+06  1.4000E+05  9.0000E-03  1.8000E-03
+  1.6000E+06  0.0000E+00  3.6000E-02  7.2000E-03
+  1.8750E+06  1.2500E+05  7.5000E-03  1.5000E-03
+  2.1250E+06  1.2500E+05  4.1000E-03  8.2000E-04
+  2.3750E+06  1.2500E+05  2.9000E-03  5.8000E-04
+  2.6250E+06  1.2500E+05  4.6000E-03  9.2000E-04
+#---------------------------------------------------

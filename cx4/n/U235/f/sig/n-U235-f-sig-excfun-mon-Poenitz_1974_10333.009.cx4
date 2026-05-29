@@ -1,0 +1,22 @@
+# EXFOR #         : 10333.009  
+# EXFOR Ver.      : 20201113
+# TRANS #         : 1473
+# Author          : W.P.Poenitz
+# Reference       : Nucl.Sci.Eng. 53 (1974) 370
+# DOI             : 10.13182/NSE74-A23370
+# Quantity        : 235U(n,f) cross section
+# REACTION        : 92-U-235(N,F),,SIG
+# File ID         : n-U235-f-sig-excfun-mon-Poenitz_1974_10333.009
+#
+# npts            : 1           
+# xmin            :   3.5000E+06
+# xmax            :   3.5000E+06
+# ymin            :   1.1960E+00
+# ymax            :   1.1960E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+06  1.0500E+04  1.1960E+00  2.8704E-02
+#---------------------------------------------------

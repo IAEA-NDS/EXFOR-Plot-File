@@ -1,0 +1,31 @@
+# EXFOR #         : 40286.005  
+# EXFOR Ver.      : 20220712
+# TRANS #         : 4207
+# Author          : M.B.Fedorov et al.
+# Reference       : Proceedings of 2.Conf.on Neutron Physics, Kiev 1973 3 page 56
+# DOI             : N/A
+# Quantity        : 54Cr(n,el)54Cr angular differential cross section
+# REACTION        : 24-CR-54(N,EL)24-CR-54,,DA
+# File ID         : n-Cr54-el-adxc-angdisc-mon-einc2.900E+06_prodCr54_Fedorov_1973_40286.005
+#
+# Einc (eV)       :   2.9000E+06
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 7           
+# xmin            :   30.0000000
+# xmax            :  120.0000000
+# ymin            :   8.1000E-02
+# ymax            :   5.9000E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  5.9000E-01  5.2000E-02
+  45.0000000   0.0000000  4.1000E-01  4.1000E-02
+  60.0000000   0.0000000  1.5700E-01  4.1000E-02
+  75.0000000   0.0000000  8.1000E-02  3.0000E-02
+  90.0000000   0.0000000  9.5000E-02  2.1000E-02
+ 105.0000000   0.0000000  1.1000E-01  2.0000E-02
+ 120.0000000   0.0000000  1.5000E-01  2.3000E-02
+#---------------------------------------------------

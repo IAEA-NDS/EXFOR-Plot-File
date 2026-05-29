@@ -1,0 +1,30 @@
+# EXFOR #         : 12698.002  
+# EXFOR Ver.      : 19850604
+# TRANS #         : 0000
+# Author          : W.E.Tucker et al.
+# Reference       : Progress report ORO-2791-32 page 10, 1971
+# DOI             : N/A
+# Quantity        : 19F(n,inl)19F partial gamma angular differential cross section
+# REACTION        : 9-F-19(N,INL)9-F-19,PAR,DA,G
+# File ID         : n-F19-inl-adxgl-enedisl-mon-einc5.000E+06_angl55_prodF19_Tucker_1971_12698.002
+#
+# Einc (eV)       :   5.0000E+06
+# dEinc (eV)      :   7.0000E+04
+# theta,lab (deg) :   55.0000000
+#
+# npts            : 5           
+# xmin            :   1.1190E+06
+# xmax            :   2.6000E+06
+# ymin            :   1.6000E-03
+# ymax            :   1.2300E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1190E+06  0.0000E+00  2.5000E-03  0.0000E+00
+  1.2350E+06  0.0000E+00  7.1000E-03  0.0000E+00
+  1.3520E+06  5.0000E+03  1.2300E-02  0.0000E+00
+  1.4505E+06  6.5000E+03  1.6000E-03  0.0000E+00
+  2.6000E+06  0.0000E+00  2.4000E-03  0.0000E+00
+#---------------------------------------------------

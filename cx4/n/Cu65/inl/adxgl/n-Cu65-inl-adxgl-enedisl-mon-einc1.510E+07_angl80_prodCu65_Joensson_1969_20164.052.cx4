@@ -1,0 +1,28 @@
+# EXFOR #         : 20164.052  
+# EXFOR Ver.      : 20080211
+# TRANS #         : 2194
+# Author          : B.Joensson et al.
+# Reference       : Arkiv foer Fysik 39 (1969) 295
+# DOI             : N/A
+# Quantity        : 65Cu(n,inl)65Cu partial gamma angular differential cross section
+# REACTION        : 29-CU-65(N,INL)29-CU-65,PAR,DA,G,AV
+# File ID         : n-Cu65-inl-adxgl-enedisl-mon-einc1.510E+07_angl80_prodCu65_Joensson_1969_20164.052
+#
+# Einc (eV)       :   1.5100E+07
+# dEinc (eV)      :   4.0000E+05
+# theta,lab (deg) :   80.0000000
+#
+# npts            : 3           
+# xmin            :   1.1150E+06
+# xmax            :   1.7290E+06
+# ymin            :   4.5000E-03
+# ymax            :   1.5000E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1150E+06  0.0000E+00  1.5000E-02  2.0000E-03
+  1.4800E+06  0.0000E+00  1.1000E-02  1.0000E-03
+  1.7290E+06  0.0000E+00  4.5000E-03  9.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : 10960.039  
+# EXFOR Ver.      : 19851107
+# TRANS #         : 0000
+# Author          : R.C.Haight et al.
+# Reference       : Phys.Rev.C 23 (1981) 700
+# DOI             : 10.1103/PhysRevC.23.700
+# Quantity        : 90Zr(n,d)89Y double differential cross section
+# REACTION        : 40-ZR-90(N,D)39-Y-89,,DA/DE
+# File ID         : n-Zr90-d-ddxl-enedisl-mon-einc1.480E+07_angl90_prodY89_Haight_1981_10960.039
+#
+# Einc (eV)       :   1.4800E+07
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 5           
+# xmin            :   2.6800E+06
+# xmax            :   3.5000E+06
+# ymin            :   9.9400E-12
+# ymax            :   7.3300E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.6800E+06  0.0000E+00  5.3000E-11  5.7800E-11
+  2.8000E+06  0.0000E+00  7.3300E-11  3.9200E-11
+  3.0300E+06  0.0000E+00  2.7300E-11  2.2700E-11
+  3.2600E+06  0.0000E+00  1.5200E-11  2.0700E-11
+  3.5000E+06  0.0000E+00  9.9400E-12  3.9700E-11
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : 22634.006  
+# EXFOR Ver.      : 20010904
+# TRANS #         : 0000
+# Author          : H.Takagi et al.
+# Reference       : Report (proceedings) JAERI-C-99-002 page 204, 1999
+# DOI             : N/A
+# Quantity        : natTi(n,a+x) double differential cross section
+# REACTION        : 22-TI-0(N,X)2-HE-4,,DA/DE
+# File ID         : n-Ti-xa-ddxl-angdisl-mon-einc1.410E+07_eoutl7.000E+06_Takagi_1999_22634.006
+#
+# Einc (eV)       :   1.4100E+07
+# Eout,lab (eV)   :   7.0000E+06
+#
+# npts            : 4           
+# xmin            :   45.0000000
+# xmax            :   90.0000000
+# ymin            :   3.1900E-10
+# ymax            :   1.1900E-09
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  45.0000000   0.0000000  8.6300E-10  1.8200E-10
+  60.0000000   0.0000000  1.1900E-09  2.1700E-10
+  70.0000000   0.0000000  5.4700E-10  1.6800E-10
+  90.0000000   0.0000000  3.1900E-10  1.5600E-10
+#---------------------------------------------------

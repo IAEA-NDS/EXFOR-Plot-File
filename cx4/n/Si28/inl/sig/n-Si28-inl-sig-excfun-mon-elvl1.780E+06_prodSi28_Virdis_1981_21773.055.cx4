@@ -1,0 +1,25 @@
+# EXFOR #         : 21773.055  
+# EXFOR Ver.      : 20121208
+# TRANS #         : 2234
+# Author          : A.Virdis
+# Reference       : Report CEA-R-5144, 1981
+# DOI             : N/A
+# Quantity        : 28Si(n,inl)28Si partial cross section
+# REACTION        : 14-SI-28(N,INL)14-SI-28,PAR,SIG
+# File ID         : n-Si28-inl-sig-excfun-mon-elvl1.780E+06_prodSi28_Virdis_1981_21773.055
+#
+# Elvl (eV)       :   1.7800E+06
+#
+# npts            : 2           
+# xmin            :   9.7600E+06
+# xmax            :   1.4830E+07
+# ymin            :   1.1100E-01
+# ymax            :   2.1600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.7600E+06  8.0000E+04  2.1600E-01  1.0800E-02
+  1.4830E+07  6.0000E+04  1.1100E-01  7.1040E-03
+#---------------------------------------------------

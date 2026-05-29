@@ -1,0 +1,26 @@
+# EXFOR #         : 12869.005  
+# EXFOR Ver.      : 20220903
+# TRANS #         : 1504
+# Author          : P.T.Guenther et al.
+# Reference       : Nucl.Phys.A 448 (1986) 280
+# DOI             : 10.1016/0375-9474(86)90092-8
+# Quantity        : natCu(n,inl)natCu partial gamma production cross section
+# REACTION        : 29-CU-0(N,INL)29-CU-0,PAR,SIG,G
+# File ID         : n-Cu-inl-sigg-excfun-mon-eoutl1.049E+06_prodCu_Guenther_1986_12869.005
+#
+# Eout,lab (eV)   :   1.0490E+06
+#
+# npts            : 3           
+# xmin            :   2.1130E+06
+# xmax            :   2.2140E+06
+# ymin            :   5.1200E-03
+# ymax            :   6.7510E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1130E+06  3.7500E+04  6.7510E-03  1.9440E-03
+  2.1610E+06  3.7500E+04  5.1200E-03  2.8470E-03
+  2.2140E+06  3.7500E+04  6.5930E-03  2.0440E-03
+#---------------------------------------------------

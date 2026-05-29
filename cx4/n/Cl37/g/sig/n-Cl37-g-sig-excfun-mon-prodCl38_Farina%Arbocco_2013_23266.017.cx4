@@ -1,0 +1,23 @@
+# EXFOR #         : 23266.017  
+# EXFOR Ver.      : 20141210
+# TRANS #         : 2241
+# Author          : F.Farina Arbocco et al.
+# Reference       : J.Rad.Nucl.Chem. 296 (2013) 931
+# DOI             : 10.1007/s10967-012-2132-0
+# Quantity        : 37Cl(n,g)38Cl cross section
+# REACTION        : 17-CL-37(N,G)17-CL-38,,SIG
+# File ID         : n-Cl37-g-sig-excfun-mon-prodCl38_Farina%Arbocco_2013_23266.017
+#
+# npts            : 2           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   4.1000E-01
+# ymax            :   4.1500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  4.1000E-01  0.0000E+00
+  2.5300E-02  0.0000E+00  4.1500E-01  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 31032.003  
+# EXFOR Ver.      : 20090920
+# TRANS #         : 3142
+# Author          : J.Benisz A.Jasielska et al.
+# Reference       : Acta Phys.Pol. 28 (1965) 763
+# DOI             : N/A
+# Quantity        : 33S(n,a)30Si cross section
+# REACTION        : 16-S-33(N,A)14-SI-30,,SIG,,MXW
+# File ID         : n-S33-a-sig-excfun-mxw-prodSi30_Jasielska_1965_31032.003
+#
+# npts            : 2           
+# xmin            :   2.5300E-02
+# xmax            :   3.5000E-02
+# ymin            :   1.4800E-01
+# ymax            :   1.5100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.5100E-01  2.2000E-02
+  3.5000E-02  0.0000E+00  1.4800E-01  6.0000E-03
+#---------------------------------------------------

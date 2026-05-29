@@ -1,0 +1,25 @@
+# EXFOR #         : 11130.022  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : N.A.Bostrom et al.
+# Reference       : Report WADC-TN-59-107, 1959
+# DOI             : N/A
+# Quantity        : natZr(n,inl)natZr partial gamma angular differential cross section
+# REACTION        : 40-ZR-0(N,INL),PAR,DA,G
+# File ID         : n-Zr-inl-adxgl-excfun-mon-angl67_eoutl5.200E+05_prodZr_Bostrom_1959_11130.022
+#
+# theta,lab (deg) :   67.0000000
+# Eout,lab (eV)   :   5.2000E+05
+#
+# npts            : 1           
+# xmin            :   3.8000E+06
+# xmax            :   3.8000E+06
+# ymin            :   2.2000E-02
+# ymax            :   2.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.8000E+06  1.1000E+05  2.2000E-02  5.0000E-03
+#---------------------------------------------------

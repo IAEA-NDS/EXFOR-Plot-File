@@ -1,0 +1,31 @@
+# EXFOR #         : 20341.008  
+# EXFOR Ver.      : 20201220
+# TRANS #         : 2296
+# Author          : K.Tsukada et al.
+# Reference       : Proceedings of Reactor Physics Sem., Vienna 1961 1 page 75(18/12)
+# DOI             : N/A
+# Quantity        : natSi(n,el)natSi angular differential cross section
+# REACTION        : 14-SI-0(N,EL)14-SI-0,,DA
+# File ID         : n-Si-el-adxc-angdisc-mon-einc3.850E+06_prodSi_Tsukada_1961_20341.008
+#
+# Einc (eV)       :   3.8500E+06
+# dEinc (eV)      :   1.1000E+05
+#
+# npts            : 7           
+# xmin            :   30.0029100
+# xmax            :  139.9960000
+# ymin            :   3.9600E-02
+# ymax            :   3.5300E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 139.9960000  -0.0536200  5.1500E-02  5.7000E-03
+ 125.0296000  -0.0401800  3.9600E-02  5.4000E-03
+ 109.9987000  -0.0239400  4.1800E-02  5.4000E-03
+  90.0000000   0.0000000  4.9000E-02  5.6000E-03
+  70.0012200   0.0239400  9.5100E-02  8.7000E-03
+  49.9841100   0.0450100  1.8600E-01  1.6000E-02
+  30.0029100   0.0606200  3.5300E-01  2.9000E-02
+#---------------------------------------------------

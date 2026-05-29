@@ -1,0 +1,22 @@
+# EXFOR #         : 31822.007  
+# EXFOR Ver.      : 20200616
+# TRANS #         : 3196
+# Author          : N.Burianova et al.
+# Reference       : Appl.Radiat.Isot. 154 (2019) 108855
+# DOI             : 10.1016/j.apradiso.2019.108855
+# Quantity        : 63Cu(n,a)60Co cross section
+# REACTION        : 29-CU-63(N,A)27-CO-60,,SIG,,SPA
+# File ID         : n-Cu63-a-sig-excfun-spa-prodCo60_Burianova_2019_31822.007
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   5.2800E-04
+# ymax            :   5.2800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  5.2800E-04  3.5904E-05
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 30336.002  
+# EXFOR Ver.      : 20090115
+# TRANS #         : 3134
+# Author          : R.Prasad et al.
+# Reference       : Nuovo Cim.A 3 (1971) 467
+# DOI             : 10.1007/BF02823319
+# Quantity        : 6Li(n,p)6He cross section
+# REACTION        : 3-LI-6(N,P)2-HE-6,,SIG
+# File ID         : n-Li6-p-sig-excfun-mon-prodHe6_Prasad_1971_30336.002
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  5.0000E+05  1.0000E-02  2.0000E-03
+#---------------------------------------------------

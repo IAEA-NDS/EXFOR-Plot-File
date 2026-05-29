@@ -1,0 +1,22 @@
+# EXFOR #         : 12956.003  
+# EXFOR Ver.      : 19860314
+# TRANS #         : 0000
+# Author          : R.Spangler et al.
+# Reference       : Trans.Am.Nucl.Soc. 22 (1975) 818
+# DOI             : N/A
+# Quantity        : 64Zn(n,p)64Cu cross section
+# REACTION        : 30-ZN-64(N,P)29-CU-64,,SIG
+# File ID         : n-Zn64-p-sig-excfun-mon-prodCu64_Spangler_1975_12956.003
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   1.4300E-01
+# ymax            :   1.4300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  0.0000E+00  1.4300E-01  1.3000E-02
+#---------------------------------------------------

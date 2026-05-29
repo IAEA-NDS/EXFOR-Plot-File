@@ -1,0 +1,22 @@
+# EXFOR #         : 31872.010  
+# EXFOR Ver.      : 20260213
+# TRANS #         : 3222
+# Author          : E.Losa et al.
+# Reference       : Appl.Radiat.Isot. 210 (2024) 111351
+# DOI             : 10.1016/j.apradiso.2024.111351
+# Quantity        : 98Mo(n,g)99Mo cross section
+# REACTION        : 42-MO-98(N,G)42-MO-99,,SIG,,SPA
+# File ID         : n-Mo98-g-sig-excfun-spa-prodMo99_Losa_2024_31872.010
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.0690E-01
+# ymax            :   2.0690E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.0690E-01  1.3655E-02
+#---------------------------------------------------

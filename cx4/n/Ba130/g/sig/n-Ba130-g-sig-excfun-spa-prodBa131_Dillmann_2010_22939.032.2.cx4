@@ -1,0 +1,22 @@
+# EXFOR #         : 22939.032.2
+# EXFOR Ver.      : 20211020
+# TRANS #         : 2305
+# Author          : I.Dillmann et al.
+# Reference       : Phys.Rev.C 81 (2010) 015801
+# DOI             : 10.1103/PhysRevC.81.015801
+# Quantity        : 130Ba(n,g)131Ba cross section
+# REACTION        : 56-BA-130(N,G)56-BA-131,,SIG,,SPA
+# File ID         : n-Ba130-g-sig-excfun-spa-prodBa131_Dillmann_2010_22939.032.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   7.8200E-01
+# ymax            :   7.8200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  5.0000E+02  7.8200E-01  3.0000E-02
+#---------------------------------------------------

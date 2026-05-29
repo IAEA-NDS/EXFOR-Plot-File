@@ -1,0 +1,25 @@
+# EXFOR #         : 11218.022  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : R.B.Day
+# Reference       : Phys.Rev. 102 (1956) 767
+# DOI             : 10.1103/PhysRev.102.767
+# Quantity        : 58Ni(n,inl)58Ni partial gamma angular differential cross section
+# REACTION        : 28-NI-58(N,INL)28-NI-58,PAR,DA,G,4PI
+# File ID         : n-Ni58-inl-adxgl-excfun-mon-angl95_eoutl1.453E+06_prodNi58_Day_1956_11218.022
+#
+# theta,lab (deg) :   95.0000000
+# Eout,lab (eV)   :   1.4530E+06
+#
+# npts            : 1           
+# xmin            :   2.5600E+06
+# xmax            :   2.5600E+06
+# ymin            :   4.3529E-02
+# ymax            :   4.3529E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.5600E+06  3.0000E+04  4.3529E-02  0.0000E+00
+#---------------------------------------------------

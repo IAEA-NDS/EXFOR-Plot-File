@@ -1,0 +1,22 @@
+# EXFOR #         : 10214.016  
+# EXFOR Ver.      : 20010305
+# TRANS #         : 0000
+# Author          : J.K.Temperley et al.
+# Reference       : Report BRL-R-1491, 1970
+# DOI             : N/A
+# Quantity        : 124Sn(n,x)123mSn cumulative production cross section
+# REACTION        : 50-SN-124(N,X)50-SN-123-M,CUM,SIG
+# File ID         : n-Sn124-x-sigc-excfun-mon-prodSn123m_Temperley_1970_10214.016
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   5.4000E-01
+# ymax            :   5.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  5.0000E+05  5.4000E-01  6.0000E-02
+#---------------------------------------------------

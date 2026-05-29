@@ -1,0 +1,22 @@
+# EXFOR #         : 20736.009  
+# EXFOR Ver.      : 19840201
+# TRANS #         : 0000
+# Author          : G.Rau
+# Reference       : Nukleonik 9 (1967) 228
+# DOI             : N/A
+# Quantity        : 64Zn(n,p)64Cu cross section
+# REACTION        : 30-ZN-64(N,P)29-CU-64,,SIG,,FIS
+# File ID         : n-Zn64-p-sig-excfun-fis-prodCu64_Rau_1967_20736.009
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.6900E-02
+# ymax            :   2.6900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.6900E-02  1.2000E-03
+#---------------------------------------------------

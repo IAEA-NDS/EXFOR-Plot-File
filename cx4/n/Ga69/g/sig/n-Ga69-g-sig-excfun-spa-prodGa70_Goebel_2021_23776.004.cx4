@@ -1,0 +1,22 @@
+# EXFOR #         : 23776.004  
+# EXFOR Ver.      : 20220205
+# TRANS #         : 2308
+# Author          : K.Goebel et al.
+# Reference       : Phys.Rev.C 103 (2021) 025802
+# DOI             : 10.1103/PhysRevC.103.025802
+# Quantity        : 69Ga(n,g)70Ga cross section
+# REACTION        : 31-GA-69(N,G)31-GA-70,,SIG,,SPA
+# File ID         : n-Ga69-g-sig-excfun-spa-prodGa70_Goebel_2021_23776.004
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   1.8600E-01
+# ymax            :   1.8600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  1.8600E-01  1.2000E-02
+#---------------------------------------------------

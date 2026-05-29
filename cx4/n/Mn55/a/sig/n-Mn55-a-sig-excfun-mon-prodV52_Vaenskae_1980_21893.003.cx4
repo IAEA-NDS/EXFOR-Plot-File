@@ -1,0 +1,23 @@
+# EXFOR #         : 21893.003  
+# EXFOR Ver.      : 19840202
+# TRANS #         : 0000
+# Author          : R.Vaenskae et al.
+# Reference       : Nucl.Intrum.Meth. 171 (1980) 281
+# DOI             : 10.1016/0029-554X(80)90503-0
+# Quantity        : 55Mn(n,a)52V cross section
+# REACTION        : 25-MN-55(N,A)23-V-52,,SIG
+# File ID         : n-Mn55-a-sig-excfun-mon-prodV52_Vaenskae_1980_21893.003
+#
+# npts            : 2           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.5000E-02
+# ymax            :   3.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  3.0000E+05  2.5000E-02  4.0000E-03
+  1.4700E+07  3.0000E+05  3.0000E-02  4.0000E-03
+#---------------------------------------------------

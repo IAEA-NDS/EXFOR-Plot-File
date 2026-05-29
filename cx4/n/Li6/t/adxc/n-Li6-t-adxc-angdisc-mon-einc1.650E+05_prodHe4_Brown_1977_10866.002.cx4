@@ -1,0 +1,26 @@
+# EXFOR #         : 10866.002  
+# EXFOR Ver.      : 19821123
+# TRANS #         : 0000
+# Author          : R.E.Brown et al.
+# Reference       : Phys.Rev.C 16 (1977) 513
+# DOI             : 10.1103/PhysRevC.16.513
+# Quantity        : 6Li(n,t)4He angular differential cross section
+# REACTION        : 3-LI-6(N,T)2-HE-4,,DA
+# File ID         : n-Li6-t-adxc-angdisc-mon-einc1.650E+05_prodHe4_Brown_1977_10866.002
+#
+# Einc (eV)       :   1.6500E+05
+# dEinc (eV)      :   3.0000E+03
+#
+# npts            : 2           
+# xmin            :    0.0000000
+# xmax            :  180.0000000
+# ymin            :   7.1800E-02
+# ymax            :   1.7940E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  1.7940E-01  4.6644E-03
+ 180.0000000   0.0000000  7.1800E-02  2.6566E-03
+#---------------------------------------------------

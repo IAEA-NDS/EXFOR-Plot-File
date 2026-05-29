@@ -1,0 +1,25 @@
+# EXFOR #         : 30292.005  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : E.Barnard et al.
+# Reference       : Nucl.Phys.A 303 (1978) 27
+# DOI             : 10.1016/0375-9474(78)90040-4
+# Quantity        : 103Rh(n,inl)103Rh partial cross section
+# REACTION        : 45-RH-103(N,INL)45-RH-103,PAR,SIG
+# File ID         : n-Rh103-inl-sig-lvldis-mon-einc7.000E+05_prodRh103_Barnard_1978_30292.005
+#
+# Einc (eV)       :   7.0000E+05
+#
+# npts            : 2           
+# xmin            :   2.9500E+05
+# xmax            :   3.5700E+05
+# ymin            :   4.6900E-01
+# ymax            :   7.3300E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9500E+05  0.0000E+00  7.3300E-01  6.1000E-02
+  3.5700E+05  0.0000E+00  4.6900E-01  4.1000E-02
+#---------------------------------------------------

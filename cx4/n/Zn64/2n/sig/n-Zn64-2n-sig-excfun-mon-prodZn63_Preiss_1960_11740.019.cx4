@@ -1,0 +1,22 @@
+# EXFOR #         : 11740.019  
+# EXFOR Ver.      : 20080623
+# TRANS #         : 1349
+# Author          : I.L.Preiss et al.
+# Reference       : Nucl.Phys. 15 (1960) 326
+# DOI             : 10.1016/0029-5582(60)90310-2
+# Quantity        : 64Zn(n,2n)63Zn cross section
+# REACTION        : 30-ZN-64(N,2N)30-ZN-63,,SIG
+# File ID         : n-Zn64-2n-sig-excfun-mon-prodZn63_Preiss_1960_11740.019
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   2.5400E-01
+# ymax            :   2.5400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  9.0000E+05  2.5400E-01  2.0000E-02
+#---------------------------------------------------

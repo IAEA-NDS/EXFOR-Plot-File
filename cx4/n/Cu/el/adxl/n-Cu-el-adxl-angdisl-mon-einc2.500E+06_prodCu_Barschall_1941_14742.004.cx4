@@ -1,0 +1,25 @@
+# EXFOR #         : 14742.004  
+# EXFOR Ver.      : 20220204
+# TRANS #         : 1496
+# Author          : H.H.Barschall et al.
+# Reference       : Phys.Rev. 59 (1941) 917(18)
+# DOI             : N/A
+# Quantity        : natCu(n,el)natCu angular differential cross section
+# REACTION        : 29-CU-0(N,EL)29-CU-0,,DA,,4PI
+# File ID         : n-Cu-el-adxl-angdisl-mon-einc2.500E+06_prodCu_Barschall_1941_14742.004
+#
+# Einc (eV)       :   2.5000E+06
+#
+# npts            : 2           
+# xmin            :   45.0000000
+# xmax            :  100.0000000
+# ymin            :   2.8648E-02
+# ymax            :   1.1141E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 100.0000000  20.0000000  2.8648E-02  7.9577E-03
+  45.0000000  10.0000000  1.1141E-01  2.3873E-02
+#---------------------------------------------------

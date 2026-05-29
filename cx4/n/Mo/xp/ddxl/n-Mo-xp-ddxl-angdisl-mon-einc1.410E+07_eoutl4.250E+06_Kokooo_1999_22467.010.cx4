@@ -1,0 +1,29 @@
+# EXFOR #         : 22467.010  
+# EXFOR Ver.      : 20000603
+# TRANS #         : 0000
+# Author          : Kokooo et al.
+# Reference       : Nucl.Sci.Eng. 132 No.1 (1999) 16
+# DOI             : 10.13182/NSE99-A2046
+# Quantity        : natMo(n,p+x) double differential cross section
+# REACTION        : 42-MO-0(N,X)1-H-1,,DA/DE
+# File ID         : n-Mo-xp-ddxl-angdisl-mon-einc1.410E+07_eoutl4.250E+06_Kokooo_1999_22467.010
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.0000E+05
+# Eout,lab (eV)   :   4.2500E+06
+#
+# npts            : 4           
+# xmin            :   45.0000000
+# xmax            :  120.0000000
+# ymin            :   3.7552E-09
+# ymax            :   5.9565E-09
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  45.0000000   0.0000000  3.7552E-09  4.8780E-10
+  60.0000000   0.0000000  4.9063E-09  5.3880E-10
+  90.0000000   0.0000000  3.8805E-09  3.8320E-10
+ 120.0000000   0.0000000  5.9565E-09  7.6770E-10
+#---------------------------------------------------

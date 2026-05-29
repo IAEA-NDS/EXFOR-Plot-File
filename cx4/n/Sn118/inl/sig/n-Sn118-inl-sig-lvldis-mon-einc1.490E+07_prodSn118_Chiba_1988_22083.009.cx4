@@ -1,0 +1,25 @@
+# EXFOR #         : 22083.009  
+# EXFOR Ver.      : 19881216
+# TRANS #         : 0000
+# Author          : S.Chiba et al.
+# Reference       : J.Nucl.Sci.Technol. 25 No.6 (1988) 511
+# DOI             : 10.1080/18811248.1988.9733623
+# Quantity        : 118Sn(n,inl)118Sn partial cross section
+# REACTION        : 50-SN-118(N,INL)50-SN-118,PAR,SIG
+# File ID         : n-Sn118-inl-sig-lvldis-mon-einc1.490E+07_prodSn118_Chiba_1988_22083.009
+#
+# Einc (eV)       :   1.4900E+07
+#
+# npts            : 2           
+# xmin            :   1.2300E+06
+# xmax            :   2.3200E+06
+# ymin            :   4.6000E-02
+# ymax            :   5.8900E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2300E+06  0.0000E+00  4.6000E-02  4.1000E-03
+  2.3200E+06  0.0000E+00  5.8900E-02  4.8000E-03
+#---------------------------------------------------

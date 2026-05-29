@@ -1,0 +1,22 @@
+# EXFOR #         : 30390.012  
+# EXFOR Ver.      : 20220203
+# TRANS #         : 3207
+# Author          : R.P.Anand et al.
+# Reference       : Nuovo Cim.A 50 (1979) 247
+# DOI             : 10.1007/BF02902005
+# Quantity        : 130Te(n,g)131gTe cross section
+# REACTION        : 52-TE-130(N,G)52-TE-131-G,,SIG
+# File ID         : n-Te130-g-sig-excfun-mon-prodTe131g_Anand_1979_30390.012
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   8.0000E-03
+# ymax            :   8.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  5.0000E+03  8.0000E-03  3.0000E-03
+#---------------------------------------------------

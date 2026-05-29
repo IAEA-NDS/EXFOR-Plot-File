@@ -1,0 +1,24 @@
+# EXFOR #         : 23038.002  
+# EXFOR Ver.      : 20081108
+# TRANS #         : 2226
+# Author          : D.Dore et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 1 page 383
+# DOI             : N/A
+# Quantity        : 232Th(n,f) delayed fission neutron multiplicity
+# REACTION        : 90-TH-232(N,F),DL,NU
+# File ID         : n-Th232-f-nud-excfun-mon-Dore_2007_23038.002
+#
+# npts            : 3           
+# xmin            :   2.0000E+06
+# xmax            :   1.6000E+07
+# ymin            :   2.8000E-02
+# ymax            :   4.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-d        dnu-d       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  4.5000E-02  3.0000E-03
+  2.4000E+06  0.0000E+00  4.6000E-02  4.0000E-03
+  1.6000E+07  0.0000E+00  2.8000E-02  2.0000E-03
+#---------------------------------------------------

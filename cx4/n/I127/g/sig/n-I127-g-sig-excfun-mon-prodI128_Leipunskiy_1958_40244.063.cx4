@@ -1,0 +1,23 @@
+# EXFOR #         : 40244.063  
+# EXFOR Ver.      : 20100322
+# TRANS #         : 4149
+# Author          : A.I.Leipunskiy et al.
+# Reference       : Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 50
+# DOI             : N/A
+# Quantity        : 127I(n,g)128I cross section
+# REACTION        : 53-I-127(N,G)53-I-128,,SIG
+# File ID         : n-I127-g-sig-excfun-mon-prodI128_Leipunskiy_1958_40244.063
+#
+# npts            : 2           
+# xmin            :   2.7000E+06
+# xmax            :   4.0000E+06
+# ymin            :   2.3000E-02
+# ymax            :   4.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7000E+06  0.0000E+00  4.7000E-02  2.0000E-03
+  4.0000E+06  0.0000E+00  2.3000E-02  1.0000E-03
+#---------------------------------------------------

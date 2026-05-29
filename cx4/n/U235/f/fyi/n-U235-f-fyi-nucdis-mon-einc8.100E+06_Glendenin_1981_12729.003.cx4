@@ -1,0 +1,24 @@
+# EXFOR #         : 12729.003  
+# EXFOR Ver.      : 20201025
+# TRANS #         : 1475
+# Author          : L.E.Glendenin et al.
+# Reference       : Phys.Rev.C 24 (1981) 2600
+# DOI             : 10.1103/PhysRevC.24.2600
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY
+# File ID         : n-U235-f-fyi-nucdis-mon-einc8.100E+06_Glendenin_1981_12729.003
+#
+# Einc (eV)       :   8.1000E+06
+#
+# npts            : 1           
+# xmin            : 53134.9     
+# xmax            : 53134.9     
+# ymin            :   2.6900E-02
+# ymax            :   2.6900E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     53134.9  2.6900E-02  1.1800E-02
+#---------------------------------------------------

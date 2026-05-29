@@ -1,0 +1,25 @@
+# EXFOR #         : 21008.002  
+# EXFOR Ver.      : 20131222
+# TRANS #         : 2238
+# Author          : H.O.Denschlag et al.
+# Reference       : Progress report NEANDC(E)-192 Vol.(5) page 70, 1978
+# DOI             : N/A
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY,,MXW
+# File ID         : n-U235-f-fyi-nucdis-mxw-einc2.530E-02_Denschlag_1978_21008.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 41096.9     
+# xmax            : 41098.0     
+# ymin            :   6.9000E-06
+# ymax            :   6.2000E-04
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     41096.9  6.9000E-06  1.3000E-06
+     41098.0  6.2000E-04  8.0000E-05
+#---------------------------------------------------

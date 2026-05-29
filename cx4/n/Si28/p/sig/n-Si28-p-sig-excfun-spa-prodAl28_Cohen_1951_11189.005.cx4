@@ -1,0 +1,22 @@
+# EXFOR #         : 11189.005  
+# EXFOR Ver.      : 20200419
+# TRANS #         : 1466
+# Author          : B.L.Cohen
+# Reference       : Phys.Rev. 81 (1951) 184
+# DOI             : 10.1103/PhysRev.81.184
+# Quantity        : 28Si(n,p)28Al cross section
+# REACTION        : 14-SI-28(N,P)13-AL-28,,SIG,,SPA
+# File ID         : n-Si28-p-sig-excfun-spa-prodAl28_Cohen_1951_11189.005
+#
+# npts            : 1           
+# xmin            :   1.0950E+07
+# xmax            :   1.0950E+07
+# ymin            :   4.5000E-02
+# ymax            :   4.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0950E+07  7.0500E+06  4.5000E-02  5.4000E-03
+#---------------------------------------------------

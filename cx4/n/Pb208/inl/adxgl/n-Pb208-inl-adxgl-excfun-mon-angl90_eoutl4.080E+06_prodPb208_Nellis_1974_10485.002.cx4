@@ -1,0 +1,25 @@
+# EXFOR #         : 10485.002  
+# EXFOR Ver.      : 20140528
+# TRANS #         : 1401
+# Author          : D.O.Nellis et al.
+# Reference       : Phys.Rev.C 9 (1974) 1972
+# DOI             : 10.1103/PhysRevC.9.1972
+# Quantity        : 208Pb(n,inl)208Pb partial gamma angular differential cross section
+# REACTION        : 82-PB-208(N,INL)82-PB-208,PAR,DA,G
+# File ID         : n-Pb208-inl-adxgl-excfun-mon-angl90_eoutl4.080E+06_prodPb208_Nellis_1974_10485.002
+#
+# theta,lab (deg) :   90.0000000
+# Eout,lab (eV)   :   4.0800E+06
+#
+# npts            : 1           
+# xmin            :   5.2500E+06
+# xmax            :   5.2500E+06
+# ymin            :   6.4000E-03
+# ymax            :   6.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.2500E+06  8.0000E+04  6.4000E-03  1.0000E-03
+#---------------------------------------------------

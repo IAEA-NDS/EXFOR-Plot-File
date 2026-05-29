@@ -1,0 +1,23 @@
+# EXFOR #         : 21842.030  
+# EXFOR Ver.      : 20191101
+# TRANS #         : 2283
+# Author          : L.Koester et al.
+# Reference       : Z.Phys.A 301 (1981) 215
+# DOI             : 10.1007/BF01416296
+# Quantity        : natBr(n,abs) cross section
+# REACTION        : 35-BR-0(N,ABS),,SIG
+# File ID         : n-Br-abs-sig-excfun-mon-Koester_1981_21842.030
+#
+# npts            : 2           
+# xmin            :   1.2600E+00
+# xmax            :   5.1900E+00
+# ymin            :   5.5000E-01
+# ymax            :   1.0000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+00  0.0000E+00  1.0000E+00  2.0000E-02
+  5.1900E+00  0.0000E+00  5.5000E-01  1.0000E-02
+#---------------------------------------------------

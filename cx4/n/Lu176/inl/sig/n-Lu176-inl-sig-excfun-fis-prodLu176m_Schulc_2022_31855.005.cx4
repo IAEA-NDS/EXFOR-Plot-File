@@ -1,0 +1,22 @@
+# EXFOR #         : 31855.005  
+# EXFOR Ver.      : 20220908
+# TRANS #         : 3208
+# Author          : M.Schulc et al.
+# Reference       : Appl.Radiat.Isot. 188 (2022) 110378
+# DOI             : 10.1016/j.apradiso.2022.110378
+# Quantity        : 176Lu(n,inl)176mLu cross section
+# REACTION        : 71-LU-176(N,INL)71-LU-176-M,,SIG,,FIS
+# File ID         : n-Lu176-inl-sig-excfun-fis-prodLu176m_Schulc_2022_31855.005
+#
+# npts            : 1           
+# xmin            :   1.4200E+06
+# xmax            :   1.4200E+06
+# ymin            :   7.1000E+00
+# ymax            :   7.1000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+06  0.0000E+00  7.1000E+00  2.2010E-01
+#---------------------------------------------------

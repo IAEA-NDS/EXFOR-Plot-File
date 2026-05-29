@@ -1,0 +1,22 @@
+# EXFOR #         : 23267.034.2
+# EXFOR Ver.      : 20211120
+# TRANS #         : 2305
+# Author          : J.Marganiec et al.
+# Reference       : Phys.Rev.C 90 (2014) 065801
+# DOI             : 10.1103/PhysRevC.90.065801
+# Quantity        : 190Os(n,g)191Os cross section
+# REACTION        : 76-OS-190(N,G)76-OS-191,,SIG,,SPA/AV
+# File ID         : n-Os190-g-sig-excfun-spa-prodOs191_Marganiec_2014_23267.034.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   2.8570E-01
+# ymax            :   2.8570E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  2.8570E-01  1.0857E-02
+#---------------------------------------------------

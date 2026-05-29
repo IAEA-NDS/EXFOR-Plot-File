@@ -1,0 +1,26 @@
+# EXFOR #         : 12681.005  
+# EXFOR Ver.      : 20220320
+# TRANS #         : 1494
+# Author          : G.T.Western et al.
+# Reference       : Report WL-TR-64-140, 1965
+# DOI             : N/A
+# Quantity        : 7Li(n,inl)7Li partial angular differential cross section
+# REACTION        : 3-LI-7(N,INL)3-LI-7,PAR,DA
+# File ID         : n-Li7-inl-adxc-angdisc-mon-einc1.460E+07_elvl4.770E+05_prodLi7_Western_1965_12681.005
+#
+# Einc (eV)       :   1.4600E+07
+# dEinc (eV)      :   2.0000E+05
+# Elvl (eV)       :   4.7700E+05
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   7.7300E-03
+# ymax            :   7.7300E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  7.7300E-03  5.4000E-04
+#---------------------------------------------------

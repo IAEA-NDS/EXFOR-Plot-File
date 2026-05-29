@@ -1,0 +1,26 @@
+# EXFOR #         : 41726.002  
+# EXFOR Ver.      : 20210115
+# TRANS #         : 4192
+# Author          : I.T.Krisyuk et al.
+# Reference       : Radiokhimiya 2 (1960) 746
+# DOI             : N/A
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY
+# File ID         : n-U235-f-fyi-nucdis-mon-einc1.400E+07_Krisyuk_1960_41726.002
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 3           
+# xmin            : 41097.9     
+# xmax            : 55136.9     
+# ymin            :   4.0000E-02
+# ymax            :   6.9000E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     55136.9  4.0000E-02  5.0000E-03
+     47112.9  5.1000E-02  6.0000E-03
+     41097.9  6.9000E-02  1.5000E-02
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 30477.009  
+# EXFOR Ver.      : 20211109
+# TRANS #         : 3206
+# Author          : W.Augustyniak et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 45 No.11 (1981) 131
+# DOI             : N/A
+# Quantity        : 143Nd(n,a)140Ce partial angular differential cross section
+# REACTION        : 60-ND-143(N,A)58-CE-140,PAR,DA
+# File ID         : n-Nd143-a-adxl-angdisl-mon-einc1.410E+07_eoutl2.000E+07_prodCe140_Augustyniak_1981_30477.009
+#
+# Einc (eV)       :   1.4100E+07
+# Eout,lab (eV)   :   2.0000E+07
+# dEout,lab (eV)  :   4.0000E+06
+#
+# npts            : 1           
+# xmin            :   26.1000000
+# xmax            :   26.1000000
+# ymin            :   1.2200E-03
+# ymax            :   1.2200E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  26.1000000   0.0000000  1.2200E-03  6.0000E-05
+#---------------------------------------------------

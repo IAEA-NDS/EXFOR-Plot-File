@@ -1,0 +1,22 @@
+# EXFOR #         : 11740.022  
+# EXFOR Ver.      : 20080623
+# TRANS #         : 1349
+# Author          : I.L.Preiss et al.
+# Reference       : Nucl.Phys. 15 (1960) 326
+# DOI             : 10.1016/0029-5582(60)90310-2
+# Quantity        : 68Zn(n,p)68gCu cumulative production cross section
+# REACTION        : 30-ZN-68(N,P)29-CU-68-G,(M),SIG
+# File ID         : n-Zn68-x-sigc-excfun-mon-prodCu68g_Preiss_1960_11740.022
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   2.5000E-02
+# ymax            :   2.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  9.0000E+05  2.5000E-02  1.0000E-02
+#---------------------------------------------------

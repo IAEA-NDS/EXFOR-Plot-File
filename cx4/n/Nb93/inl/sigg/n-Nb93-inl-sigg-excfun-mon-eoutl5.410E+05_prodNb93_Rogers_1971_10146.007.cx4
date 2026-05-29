@@ -1,0 +1,25 @@
+# EXFOR #         : 10146.007  
+# EXFOR Ver.      : 19990811
+# TRANS #         : 0000
+# Author          : V.C.Rogers et al.
+# Reference       : Nucl.Sci.Eng. 45 (1971) 297
+# DOI             : 10.13182/NSE71-A19081
+# Quantity        : 93Nb(n,inl)93Nb partial gamma production cross section
+# REACTION        : 41-NB-93(N,INL)41-NB-93,PAR,SIG,G
+# File ID         : n-Nb93-inl-sigg-excfun-mon-eoutl5.410E+05_prodNb93_Rogers_1971_10146.007
+#
+# Eout,lab (eV)   :   5.4100E+05
+#
+# npts            : 2           
+# xmin            :   1.6900E+06
+# xmax            :   1.7900E+06
+# ymin            :   2.2000E-02
+# ymax            :   5.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6900E+06  0.0000E+00  2.2000E-02  5.5000E-03
+  1.7900E+06  0.0000E+00  5.5000E-02  1.3750E-02
+#---------------------------------------------------

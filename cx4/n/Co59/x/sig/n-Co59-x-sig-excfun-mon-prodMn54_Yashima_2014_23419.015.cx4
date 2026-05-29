@@ -1,0 +1,22 @@
+# EXFOR #         : 23419.015  
+# EXFOR Ver.      : 20180830
+# TRANS #         : 2271
+# Author          : H.Yashima et al.
+# Reference       : Radiat.Prot.Dosim. 161 (2014) 139
+# DOI             : 10.1093/rpd/nct334
+# Quantity        : 59Co(n,x)54Mn independent production cross section
+# REACTION        : 27-CO-59(N,X)25-MN-54,,SIG
+# File ID         : n-Co59-x-sig-excfun-mon-prodMn54_Yashima_2014_23419.015
+#
+# npts            : 1           
+# xmin            :   3.8600E+08
+# xmax            :   3.8600E+08
+# ymin            :   4.4000E-02
+# ymax            :   4.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8600E+08  1.0000E+06  4.4000E-02  1.2000E-02
+#---------------------------------------------------

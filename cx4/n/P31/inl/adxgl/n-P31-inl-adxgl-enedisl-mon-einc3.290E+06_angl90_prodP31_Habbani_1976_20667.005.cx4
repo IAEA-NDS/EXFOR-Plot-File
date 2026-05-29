@@ -1,0 +1,25 @@
+# EXFOR #         : 20667.005  
+# EXFOR Ver.      : 20170723
+# TRANS #         : 2261
+# Author          : F.I.Habbani et al.
+# Reference       : Nucl.Intrum.Meth. 134 No.3 (1976) 545
+# DOI             : 10.1016/0029-554X(76)90099-9
+# Quantity        : 31P(n,inl)31P partial gamma angular differential cross section
+# REACTION        : 15-P-31(N,INL)15-P-31,PAR,DA,G
+# File ID         : n-P31-inl-adxgl-enedisl-mon-einc3.290E+06_angl90_prodP31_Habbani_1976_20667.005
+#
+# Einc (eV)       :   3.2900E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   1.2600E+06
+# xmax            :   1.2600E+06
+# ymin            :   3.3100E-02
+# ymax            :   3.3100E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.2600E+06  0.0000E+00  3.3100E-02  3.5000E-03
+#---------------------------------------------------

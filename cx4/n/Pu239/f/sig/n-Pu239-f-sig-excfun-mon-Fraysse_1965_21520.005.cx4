@@ -1,0 +1,23 @@
+# EXFOR #         : 21520.005  
+# EXFOR Ver.      : 20071001
+# TRANS #         : 2187
+# Author          : G.Fraysse et al.
+# Reference       : Proceedings of Physics and Chemistry of Fission Conf., Salzburg 1965 1 page 255
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cross section
+# REACTION        : 94-PU-239(N,F),,SIG
+# File ID         : n-Pu239-f-sig-excfun-mon-Fraysse_1965_21520.005
+#
+# npts            : 2           
+# xmin            :   3.2160E-02
+# xmax            :   6.2600E-02
+# ymin            :   5.1500E+02
+# ymax            :   6.5800E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2160E-02  4.0000E-05  6.5800E+02  1.2000E+01
+  6.2600E-02  1.0000E-04  5.1500E+02  1.2000E+01
+#---------------------------------------------------

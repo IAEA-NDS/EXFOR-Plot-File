@@ -1,0 +1,22 @@
+# EXFOR #         : 22664.014  
+# EXFOR Ver.      : 20170305
+# TRANS #         : 2259
+# Author          : M.Ibn Majah et al.
+# Reference       : Appl.Radiat.Isot. 54 (2001) 655
+# DOI             : 10.1016/S0969-8043(00)00299-2
+# Quantity        : 90Zr(n,a)87mSr cross section
+# REACTION        : 40-ZR-90(N,A)38-SR-87-M,,SIG,,SPA
+# File ID         : n-Zr90-a-sig-excfun-spa-prodSr87m_Ibn%Majah_2001_22664.014
+#
+# npts            : 1           
+# xmin            :   3.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   4.1000E-04
+# ymax            :   4.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  0.0000E+00  4.1000E-04  3.0000E-05
+#---------------------------------------------------

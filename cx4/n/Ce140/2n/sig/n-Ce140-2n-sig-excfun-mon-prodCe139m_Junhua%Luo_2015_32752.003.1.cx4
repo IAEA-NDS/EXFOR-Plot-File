@@ -1,0 +1,23 @@
+# EXFOR #         : 32752.003.1
+# EXFOR Ver.      : 20171009
+# TRANS #         : 3181
+# Author          : Junhua Luo et al.
+# Reference       : J.Rad.Nucl.Chem. 305 (2015) 691
+# DOI             : 10.1007/s10967-015-4049-x
+# Quantity        : 140Ce(n,2n)139mCe cross section
+# REACTION        : 58-CE-140(N,2N)58-CE-139-M,,SIG
+# File ID         : n-Ce140-2n-sig-excfun-mon-prodCe139m_Junhua%Luo_2015_32752.003.1
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   7.9400E-01
+# ymax            :   1.0800E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  7.9400E-01  4.4000E-02
+  1.4800E+07  2.0000E+05  1.0800E+00  7.0000E-02
+#---------------------------------------------------

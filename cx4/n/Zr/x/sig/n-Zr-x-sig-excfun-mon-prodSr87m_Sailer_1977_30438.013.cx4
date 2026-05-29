@@ -1,0 +1,22 @@
+# EXFOR #         : 30438.013  
+# EXFOR Ver.      : 20211005
+# TRANS #         : 3202
+# Author          : K.Sailer et al.
+# Reference       : Proceedings of 4.All Union Conf.on Neutron Phys.,Kiev,18-22 Apr 1977 1 page 246
+# DOI             : N/A
+# Quantity        : natZr(n,x)87mSr independent production cross section
+# REACTION        : 40-ZR-0(N,X)38-SR-87-M,,SIG
+# File ID         : n-Zr-x-sig-excfun-mon-prodSr87m_Sailer_1977_30438.013
+#
+# npts            : 1           
+# xmin            :   1.4810E+07
+# xmax            :   1.4810E+07
+# ymin            :   3.7000E-03
+# ymax            :   3.7000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4810E+07  2.5000E+05  3.7000E-03  1.0000E-04
+#---------------------------------------------------

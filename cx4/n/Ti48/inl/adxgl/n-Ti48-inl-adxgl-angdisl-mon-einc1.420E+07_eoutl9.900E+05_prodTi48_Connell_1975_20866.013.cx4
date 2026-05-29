@@ -1,0 +1,30 @@
+# EXFOR #         : 20866.013  
+# EXFOR Ver.      : 20180828
+# TRANS #         : 2270
+# Author          : K.A.Connell et al.
+# Reference       : Appl.Radiat.Isot. 26 (1975) 71
+# DOI             : 10.1016/0020-708X(75)90105-2
+# Quantity        : 48Ti(n,inl)48Ti partial gamma angular differential cross section
+# REACTION        : 22-TI-48(N,INL)22-TI-48,PAR,DA,G
+# File ID         : n-Ti48-inl-adxgl-angdisl-mon-einc1.420E+07_eoutl9.900E+05_prodTi48_Connell_1975_20866.013
+#
+# Einc (eV)       :   1.4200E+07
+# Eout,lab (eV)   :   9.9000E+05
+#
+# npts            : 6           
+# xmin            :   20.3641300
+# xmax            :   89.9770800
+# ymin            :   6.9600E-02
+# ymax            :   8.9400E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  89.9770800   0.0000000  7.3600E-02  4.6000E-03
+  74.9714600   0.0000000  8.0700E-02  6.3000E-03
+  60.1057900   0.0000000  8.9400E-02  7.9000E-03
+  45.1057800   0.0000000  8.7300E-02  6.0000E-03
+  30.0601500   0.0000000  8.0400E-02  6.7000E-03
+  20.3641300   0.0000000  6.9600E-02  5.0000E-03
+#---------------------------------------------------

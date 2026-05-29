@@ -1,0 +1,22 @@
+# EXFOR #         : 10497.036  
+# EXFOR Ver.      : 20210731
+# TRANS #         : 1485
+# Author          : W.D.Lu et al.
+# Reference       : Phys.Rev.C 1 (1970) 350
+# DOI             : 10.1103/PhysRevC.1.350
+# Quantity        : 130Ba(n,x)129Cs cumulative production cross section
+# REACTION        : 56-BA-130(N,X)55-CS-129,CUM,SIG
+# File ID         : n-Ba130-x-sigc-excfun-mon-prodCs129_Lu_1970_10497.036
+#
+# npts            : 1           
+# xmin            :   1.4400E+07
+# xmax            :   1.4400E+07
+# ymin            :   1.3710E+00
+# ymax            :   1.3710E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4400E+07  3.0000E+05  1.3710E+00  7.0000E-02
+#---------------------------------------------------

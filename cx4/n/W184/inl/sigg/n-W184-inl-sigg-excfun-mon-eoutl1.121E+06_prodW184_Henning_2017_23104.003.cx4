@@ -1,0 +1,26 @@
+# EXFOR #         : 23104.003  
+# EXFOR Ver.      : 20250221
+# TRANS #         : 2322
+# Author          : G.Henning et al.
+# Reference       : EPJ Web Conf. 146 (2017) 11016
+# DOI             : 10.1051/epjconf/201714611016
+# Quantity        : 184W(n,inl)184W partial gamma production cross section
+# REACTION        : 74-W-184(N,INL)74-W-184,PAR,SIG,G
+# File ID         : n-W184-inl-sigg-excfun-mon-eoutl1.121E+06_prodW184_Henning_2017_23104.003
+#
+# Eout,lab (eV)   :   1.1210E+06
+#
+# npts            : 3           
+# xmin            :   1.6875E+06
+# xmax            :   1.2074E+07
+# ymin            :   1.0981E-02
+# ymax            :   3.3486E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6875E+06  0.0000E+00  3.3486E-02  7.7470E-03
+  7.3025E+06  0.0000E+00  2.9537E-02  1.3007E-02
+  1.2074E+07  0.0000E+00  1.0981E-02  7.0300E-03
+#---------------------------------------------------

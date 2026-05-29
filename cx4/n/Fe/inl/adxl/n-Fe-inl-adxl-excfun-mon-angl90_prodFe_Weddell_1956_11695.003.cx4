@@ -1,0 +1,25 @@
+# EXFOR #         : 11695.003  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : J.B.Weddell
+# Reference       : Bull.Am.Phys.Soc. 1 (1956) 339(P8)
+# DOI             : N/A
+# Quantity        : natFe(n,inl)natFe angular differential cross section
+# REACTION        : 26-FE-0(N,INL),,DA
+# File ID         : n-Fe-inl-adxl-excfun-mon-angl90_prodFe_Weddell_1956_11695.003
+#
+# theta,lab (deg) :   90.0000000
+# dtheta,lab (deg):    5.0000000
+#
+# npts            : 1           
+# xmin            :   4.4000E+06
+# xmax            :   4.4000E+06
+# ymin            :   3.2000E-02
+# ymax            :   3.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.4000E+06  5.0000E+06  3.2000E-02  1.0000E-02
+#---------------------------------------------------

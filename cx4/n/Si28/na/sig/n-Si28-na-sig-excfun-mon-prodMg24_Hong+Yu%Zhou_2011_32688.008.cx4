@@ -1,0 +1,22 @@
+# EXFOR #         : 32688.008  
+# EXFOR Ver.      : 20130201
+# TRANS #         : 3159
+# Author          : Hong-Yu Zhou et al.
+# Reference       : Nucl.Instrum.Meth.A 648 No.1 (2011) 192
+# DOI             : 10.1016/j.nima.2011.04.014
+# Quantity        : 28Si(n,n+a)24Mg cross section
+# REACTION        : 14-SI-28(N,N+A)12-MG-24,,SIG
+# File ID         : n-Si28-na-sig-excfun-mon-prodMg24_Hong+Yu%Zhou_2011_32688.008
+#
+# npts            : 1           
+# xmin            :   1.4900E+07
+# xmax            :   1.4900E+07
+# ymin            :   6.0000E-03
+# ymax            :   6.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4900E+07  5.0000E+05  6.0000E-03  1.0000E-03
+#---------------------------------------------------

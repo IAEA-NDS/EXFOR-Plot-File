@@ -1,0 +1,23 @@
+# EXFOR #         : 11329.072  
+# EXFOR Ver.      : 20120416
+# TRANS #         : 1380
+# Author          : J.H.Gibbons et al.
+# Reference       : Phys.Rev. 122 (1961) 182
+# DOI             : 10.1103/PhysRev.122.182
+# Quantity        : 209Bi(n,g)210Bi cross section
+# REACTION        : 83-BI-209(N,G)83-BI-210,,SIG
+# File ID         : n-Bi209-g-sig-excfun-mon-prodBi210_Gibbons_1961_11329.072
+#
+# npts            : 2           
+# xmin            :   3.0000E+04
+# xmax            :   6.5000E+04
+# ymin            :   1.0000E-03
+# ymax            :   4.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  7.0000E+03  1.0000E-03  4.0000E-03
+  6.5000E+04  2.0000E+04  4.0000E-03  3.0000E-03
+#---------------------------------------------------

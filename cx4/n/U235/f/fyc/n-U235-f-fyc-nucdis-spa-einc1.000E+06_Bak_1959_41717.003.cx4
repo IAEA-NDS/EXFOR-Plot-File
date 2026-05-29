@@ -1,0 +1,25 @@
+# EXFOR #         : 41717.003  
+# EXFOR Ver.      : 20201202
+# TRANS #         : 4191
+# Author          : M.A.Bak et al.
+# Reference       : At.En. 6 (1959) 577
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U235-f-fyc-nucdis-spa-einc1.000E+06_Bak_1959_41717.003
+#
+# Einc (eV)       :   1.0000E+06
+#
+# npts            : 2           
+# xmin            : 44103.9     
+# xmax            : 44106.9     
+# ymin            :   7.1000E-03
+# ymax            :   3.2000E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     44103.9  3.2000E-02  6.0000E-03
+     44106.9  7.1000E-03  1.2000E-03
+#---------------------------------------------------

@@ -1,0 +1,31 @@
+# EXFOR #         : 22031.002  
+# EXFOR Ver.      : 20200807
+# TRANS #         : 2294
+# Author          : E.Dekempeneer et al.
+# Reference       : Nucl.Sci.Eng. 97 (1987) 353
+# DOI             : 10.13182/NSE87-A23518
+# Quantity        : 7Li(n,n+x) double differential cross section
+# REACTION        : 3-LI-7(N,X)0-NN-1,,DA/DE
+# File ID         : n-Li7-xn-ddxl-enedisl-mon-einc1.766E+06_angl60_Dekempeneer_1987_22031.002
+#
+# Einc (eV)       :   1.7660E+06
+# dEinc (eV)      :   1.4100E+05
+# theta,lab (deg) :   60.0000000
+#
+# npts            : 6           
+# xmin            :   1.5000E+06
+# xmax            :   2.0000E+06
+# ymin            :   0.0000E+00
+# ymax            :   3.9520E-07
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.4120E-07  0.0000E+00
+  1.6000E+06  0.0000E+00  3.9520E-07  0.0000E+00
+  1.7000E+06  0.0000E+00  2.6630E-07  0.0000E+00
+  1.8000E+06  0.0000E+00  9.5800E-08  0.0000E+00
+  1.9000E+06  0.0000E+00  1.5000E-08  0.0000E+00
+  2.0000E+06  0.0000E+00  0.0000E+00  0.0000E+00
+#---------------------------------------------------

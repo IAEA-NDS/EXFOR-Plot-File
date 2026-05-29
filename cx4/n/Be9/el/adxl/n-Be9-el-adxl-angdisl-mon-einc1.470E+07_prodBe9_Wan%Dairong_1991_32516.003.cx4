@@ -1,0 +1,28 @@
+# EXFOR #         : 32516.003  
+# EXFOR Ver.      : 20100328
+# TRANS #         : 3147
+# Author          : Wan Dairong et al.
+# Reference       : High En.Nucl.Phy.Ch. 15 No.2 (1991) 165
+# DOI             : N/A
+# Quantity        : 9Be(n,el)9Be angular differential cross section
+# REACTION        : 4-BE-9(N,EL)4-BE-9,,DA
+# File ID         : n-Be9-el-adxl-angdisl-mon-einc1.470E+07_prodBe9_Wan%Dairong_1991_32516.003
+#
+# Einc (eV)       :   1.4700E+07
+#
+# npts            : 5           
+# xmin            :    4.1000000
+# xmax            :    8.7100000
+# ymin            :   7.1100E-01
+# ymax            :   9.5900E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.1000000   0.0000000  9.5900E-01  6.7000E-02
+   5.2200000   0.0000000  8.4700E-01  5.9000E-02
+   6.3600000   0.0000000  7.1100E-01  5.0000E-02
+   7.5300000   0.0000000  7.9700E-01  5.6000E-02
+   8.7100000   0.0000000  9.1200E-01  6.4000E-02
+#---------------------------------------------------

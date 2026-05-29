@@ -1,0 +1,28 @@
+# EXFOR #         : 11672.015  
+# EXFOR Ver.      : 20120520
+# TRANS #         : 1381
+# Author          : V.E.Scherrer et al.
+# Reference       : Phys.Rev. 96 (1954) 386
+# DOI             : 10.1103/PhysRev.96.386
+# Quantity        : 209Bi(n,inl)209Bi partial gamma production cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,SIG,G
+# File ID         : n-Bi209-inl-sigg-enedisl-mon-einc3.200E+06_prodBi209_Scherrer_1954_11672.015
+#
+# Einc (eV)       :   3.2000E+06
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 4           
+# xmin            :   4.9000E+05
+# xmax            :   2.6000E+06
+# ymin            :   3.7000E-01
+# ymax            :   1.2000E+00
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9000E+05  0.0000E+00  4.3000E-01  8.6000E-02
+  9.4000E+05  0.0000E+00  1.2000E+00  2.4000E-01
+  1.6200E+06  0.0000E+00  5.9000E-01  1.1800E-01
+  2.6000E+06  0.0000E+00  3.7000E-01  7.4000E-02
+#---------------------------------------------------

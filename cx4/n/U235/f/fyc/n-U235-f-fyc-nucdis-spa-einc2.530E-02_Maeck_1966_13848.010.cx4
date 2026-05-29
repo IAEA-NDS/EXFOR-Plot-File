@@ -1,0 +1,27 @@
+# EXFOR #         : 13848.010  
+# EXFOR Ver.      : 20201122
+# TRANS #         : 1475
+# Author          : W.J.Maeck et al.
+# Reference       : Report IDO-14678, 1966
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U235-f-fyc-nucdis-spa-einc2.530E-02_Maeck_1966_13848.010
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 4           
+# xmin            : 44101.9     
+# xmax            : 44106.9     
+# ymin            :   3.8500E-03
+# ymax            :   5.0300E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     44101.9  5.0300E-02  6.0000E-04
+     44102.9  4.1800E-02  5.0000E-04
+     44104.9  1.8100E-02  2.0000E-04
+     44106.9  3.8500E-03  7.0000E-05
+#---------------------------------------------------

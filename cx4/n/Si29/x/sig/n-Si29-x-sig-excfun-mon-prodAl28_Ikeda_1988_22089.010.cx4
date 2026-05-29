@@ -1,0 +1,24 @@
+# EXFOR #         : 22089.010  
+# EXFOR Ver.      : 20201012
+# TRANS #         : 2294
+# Author          : Y.Ikeda et al.
+# Reference       : Report JAERI-1312, 1988
+# DOI             : N/A
+# Quantity        : 29Si(n,x)28Al independent production cross section
+# REACTION        : 14-SI-29(N,X)13-AL-28,,SIG
+# File ID         : n-Si29-x-sig-excfun-mon-prodAl28_Ikeda_1988_22089.010
+#
+# npts            : 3           
+# xmin            :   1.4040E+07
+# xmax            :   1.4930E+07
+# ymin            :   4.8000E-03
+# ymax            :   3.0400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4930E+07  0.0000E+00  3.0400E-02  2.7000E-03
+  1.4660E+07  0.0000E+00  2.3700E-02  2.4000E-03
+  1.4040E+07  0.0000E+00  4.8000E-03  1.4000E-03
+#---------------------------------------------------

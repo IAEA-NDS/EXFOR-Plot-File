@@ -1,0 +1,24 @@
+# EXFOR #         : 22809.007  
+# EXFOR Ver.      : 20040116
+# TRANS #         : 0000
+# Author          : H.Sakane et al.
+# Reference       : Ann.Nucl.Energy 29 No.10 (2002) 1209
+# DOI             : 10.1016/S0306-4549(01)00091-3
+# Quantity        : 164Dy(n,x)163Tb independent production cross section
+# REACTION        : 66-DY-164(N,X)65-TB-163,,SIG
+# File ID         : n-Dy164-x-sig-excfun-mon-prodTb163_Sakane_2002_22809.007
+#
+# npts            : 3           
+# xmin            :   1.4350E+07
+# xmax            :   1.4870E+07
+# ymin            :   2.3000E-04
+# ymax            :   3.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4870E+07  5.0000E+04  3.3000E-04  6.6000E-05
+  1.4640E+07  5.0000E+04  3.0000E-04  6.6000E-05
+  1.4350E+07  5.0000E+04  2.3000E-04  5.5200E-05
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 31695.002  
+# EXFOR Ver.      : 20150527
+# TRANS #         : 3170
+# Author          : Zhongsheng Pu et al.
+# Reference       : J.Rad.Nucl.Chem. 260 (2004) 143
+# DOI             : 10.1023/B:JRNC.0000027073.70271.99
+# Quantity        : 146Nd(n,p)146Pr cross section
+# REACTION        : 60-ND-146(N,P)59-PR-146,,SIG
+# File ID         : n-Nd146-p-sig-excfun-mon-prodPr146_Zhongsheng%Pu_2004_31695.002
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   3.0000E-03
+# ymax            :   3.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  3.0000E-03  3.0000E-04
+#---------------------------------------------------

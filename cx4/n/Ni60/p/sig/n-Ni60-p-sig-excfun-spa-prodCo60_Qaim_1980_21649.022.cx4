@@ -1,0 +1,22 @@
+# EXFOR #         : 21649.022  
+# EXFOR Ver.      : 20170215
+# TRANS #         : 2259
+# Author          : S.M.Qaim et al.
+# Reference       : Report BNL-NCS-51245 page 539, 1980
+# DOI             : N/A
+# Quantity        : 60Ni(n,p)60Co cross section
+# REACTION        : 28-NI-60(N,P)27-CO-60,,SIG,,SPA
+# File ID         : n-Ni60-p-sig-excfun-spa-prodCo60_Qaim_1980_21649.022
+#
+# npts            : 1           
+# xmin            :   2.0000E+07
+# xmax            :   2.0000E+07
+# ymin            :   8.2000E-02
+# ymax            :   8.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+07  0.0000E+00  8.2000E-02  1.6000E-02
+#---------------------------------------------------

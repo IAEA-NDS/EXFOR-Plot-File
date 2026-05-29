@@ -1,0 +1,25 @@
+# EXFOR #         : 32610.038  
+# EXFOR Ver.      : 20100907
+# TRANS #         : 3147
+# Author          : Yan Yiming et al.
+# Reference       : Report INDC(CPR)-011 page 165, 1988
+# DOI             : N/A
+# Quantity        : 51V(n,inl)51V partial gamma angular differential cross section
+# REACTION        : 23-V-51(N,INL)23-V-51,PAR,DA,G
+# File ID         : n-V51-inl-adxgl-angdisl-mon-einc1.490E+07_eoutl1.748E+06_prodV51_Yan%Yiming_1988_32610.038
+#
+# Einc (eV)       :   1.4900E+07
+# Eout,lab (eV)   :   1.7481E+06
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   2.9000E-04
+# ymax            :   2.9000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  2.9000E-04  8.0000E-05
+#---------------------------------------------------

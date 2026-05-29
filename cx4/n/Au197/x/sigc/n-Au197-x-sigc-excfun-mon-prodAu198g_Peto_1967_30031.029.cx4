@@ -1,0 +1,22 @@
+# EXFOR #         : 30031.029  
+# EXFOR Ver.      : 20070806
+# TRANS #         : 3123
+# Author          : G.Peto et al.
+# Reference       : J.Nucl.Energy 21 (1967) 797
+# DOI             : 10.1016/0022-3107(67)90089-5
+# Quantity        : 197Au(n,g)198gAu cumulative production cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198-G,(M),SIG
+# File ID         : n-Au197-x-sigc-excfun-mon-prodAu198g_Peto_1967_30031.029
+#
+# npts            : 1           
+# xmin            :   3.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   3.5200E-02
+# ymax            :   3.5200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  2.0000E+05  3.5200E-02  3.0000E-03
+#---------------------------------------------------

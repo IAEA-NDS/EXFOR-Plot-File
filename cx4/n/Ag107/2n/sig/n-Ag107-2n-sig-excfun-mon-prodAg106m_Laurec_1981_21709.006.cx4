@@ -1,0 +1,23 @@
+# EXFOR #         : 21709.006  
+# EXFOR Ver.      : 20151213
+# TRANS #         : 2246
+# Author          : J.Laurec et al.
+# Reference       : Report CEA-R-5109, 1981
+# DOI             : N/A
+# Quantity        : 107Ag(n,2n)106mAg cross section
+# REACTION        : 47-AG-107(N,2N)47-AG-106-M,,SIG
+# File ID         : n-Ag107-2n-sig-excfun-mon-prodAg106m_Laurec_1981_21709.006
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4800E+07
+# ymin            :   5.6300E-01
+# ymax            :   6.0300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.0000E+05  5.6300E-01  2.3000E-02
+  1.4800E+07  3.0000E+05  6.0300E-01  2.5000E-02
+#---------------------------------------------------

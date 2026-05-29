@@ -1,0 +1,24 @@
+# EXFOR #         : 21722.024  
+# EXFOR Ver.      : 20110227
+# TRANS #         : 2226
+# Author          : I.Fujita et al.
+# Reference       : J.Nucl.Sci.Technol. 9 (1972) 301
+# DOI             : 10.1080/18811248.1972.9734846
+# Quantity        : natTi(n,inl)natTi angular differential cross section
+# REACTION        : 22-TI-0(N,INL)22-TI-0,,DA,,4PI
+# File ID         : n-Ti-inl-adxl-angdisl-mon-einc1.410E+07_prodTi_Fujita_1972_21722.024
+#
+# Einc (eV)       :   1.4100E+07
+#
+# npts            : 1           
+# xmin            :  110.0000000
+# xmax            :  110.0000000
+# ymin            :   8.9684E-02
+# ymax            :   8.9684E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 110.0000000   0.0000000  8.9684E-02  1.5120E-02
+#---------------------------------------------------

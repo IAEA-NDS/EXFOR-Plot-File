@@ -1,0 +1,26 @@
+# EXFOR #         : 10146.023  
+# EXFOR Ver.      : 19990811
+# TRANS #         : 0000
+# Author          : V.C.Rogers et al.
+# Reference       : Nucl.Sci.Eng. 45 (1971) 297
+# DOI             : 10.13182/NSE71-A19081
+# Quantity        : 93Nb(n,inl)93Nb partial cross section
+# REACTION        : 41-NB-93(N,INL)41-NB-93,PAR,SIG
+# File ID         : n-Nb93-inl-sig-excfun-mon-elvl1.465E+06_prodNb93_Rogers_1971_10146.023
+#
+# Elvl (eV)       :   1.4650E+06
+#
+# npts            : 3           
+# xmin            :   1.5100E+06
+# xmax            :   1.7900E+06
+# ymin            :   7.0000E-03
+# ymax            :   1.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5100E+06  0.0000E+00  7.0000E-03  0.0000E+00
+  1.6900E+06  0.0000E+00  1.6000E-02  0.0000E+00
+  1.7900E+06  0.0000E+00  1.7000E-02  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 30463.063  
+# EXFOR Ver.      : 20220831
+# TRANS #         : 3208
+# Author          : Th.Schweitzer et al.
+# Reference       : Private communication  (1978)
+# DOI             : N/A
+# Quantity        : 209Bi(n,inl)209Bi partial cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,SIG
+# File ID         : n-Bi209-inl-sig-lvldis-mon-einc3.400E+06_prodBi209_Schweitzer_1978_30463.063
+#
+# Einc (eV)       :   3.4000E+06
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   1.6100E+06
+# xmax            :   1.6100E+06
+# ymin            :   3.5160E-01
+# ymax            :   3.5160E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6100E+06  0.0000E+00  3.5160E-01  8.1000E-02
+#---------------------------------------------------

@@ -1,0 +1,30 @@
+# EXFOR #         : 22467.004  
+# EXFOR Ver.      : 20000603
+# TRANS #         : 0000
+# Author          : Kokooo et al.
+# Reference       : Nucl.Sci.Eng. 132 No.1 (1999) 16
+# DOI             : 10.13182/NSE99-A2046
+# Quantity        : natFe(n,p+x) double differential cross section
+# REACTION        : 26-FE-0(N,X)1-H-1,,DA/DE
+# File ID         : n-Fe-xp-ddxl-angdisl-mon-einc1.410E+07_eoutl8.250E+06_Kokooo_1999_22467.004
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.0000E+05
+# Eout,lab (eV)   :   8.2500E+06
+#
+# npts            : 5           
+# xmin            :   35.0000000
+# xmax            :  110.0000000
+# ymin            :   1.1109E-09
+# ymax            :   2.2120E-09
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  35.0000000   0.0000000  1.9316E-09  8.7100E-11
+  45.0000000   0.0000000  2.2120E-09  1.0580E-10
+  65.0000000   0.0000000  1.9049E-09  8.0130E-11
+  90.0000000   0.0000000  1.7362E-09  1.0840E-10
+ 110.0000000   0.0000000  1.1109E-09  8.2810E-11
+#---------------------------------------------------

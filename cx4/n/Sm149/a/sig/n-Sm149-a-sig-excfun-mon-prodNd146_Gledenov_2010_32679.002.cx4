@@ -1,0 +1,22 @@
+# EXFOR #         : 32679.002  
+# EXFOR Ver.      : 20110902
+# TRANS #         : 3152
+# Author          : Yu.M.Gledenov et al.
+# Reference       : Phys.Rev.C 82 No.1 (2010) 014601
+# DOI             : 10.1103/PhysRevC.82.014601
+# Quantity        : 149Sm(n,a)146Nd cross section
+# REACTION        : 62-SM-149(N,A)60-ND-146,,SIG
+# File ID         : n-Sm149-a-sig-excfun-mon-prodNd146_Gledenov_2010_32679.002
+#
+# npts            : 1           
+# xmin            :   6.0000E+06
+# xmax            :   6.0000E+06
+# ymin            :   1.2000E-04
+# ymax            :   1.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+06  1.2000E+05  1.2000E-04  2.0000E-05
+#---------------------------------------------------

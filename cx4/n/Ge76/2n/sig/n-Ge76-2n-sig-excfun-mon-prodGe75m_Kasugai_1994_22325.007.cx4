@@ -1,0 +1,26 @@
+# EXFOR #         : 22325.007  
+# EXFOR Ver.      : 20190205
+# TRANS #         : 2274
+# Author          : Y.Kasugai et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 2 page 935
+# DOI             : N/A
+# Quantity        : 76Ge(n,2n)75mGe cross section
+# REACTION        : 32-GE-76(N,2N)32-GE-75-M,,SIG
+# File ID         : n-Ge76-2n-sig-excfun-mon-prodGe75m_Kasugai_1994_22325.007
+#
+# npts            : 5           
+# xmin            :   1.3700E+07
+# xmax            :   1.4950E+07
+# ymin            :   7.9400E-01
+# ymax            :   9.5800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3700E+07  5.0000E+04  7.9700E-01  3.9000E-02
+  1.4030E+07  5.0000E+04  7.9400E-01  3.9000E-02
+  1.4360E+07  5.0000E+04  8.3200E-01  4.1000E-02
+  1.4660E+07  5.0000E+04  9.1400E-01  4.5000E-02
+  1.4950E+07  5.0000E+04  9.5800E-01  4.7000E-02
+#---------------------------------------------------

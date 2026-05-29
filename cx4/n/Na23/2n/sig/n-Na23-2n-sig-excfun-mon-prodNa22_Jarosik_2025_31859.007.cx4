@@ -1,0 +1,23 @@
+# EXFOR #         : 31859.007  
+# EXFOR Ver.      : 20241123
+# TRANS #         : 3219
+# Author          : J.Jarosik et al.
+# Reference       : Nucl.Instrum.Meth.B 559 (2025) 165566
+# DOI             : 10.1016/j.nimb.2024.165566
+# Quantity        : 23Na(n,2n)22Na cross section
+# REACTION        : 11-NA-23(N,2N)11-NA-22,,SIG
+# File ID         : n-Na23-2n-sig-excfun-mon-prodNa22_Jarosik_2025_31859.007
+#
+# npts            : 2           
+# xmin            :   1.8500E+07
+# xmax            :   2.2500E+07
+# ymin            :   8.7000E-02
+# ymax            :   9.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8500E+07  4.0000E+05  8.7000E-02  1.1000E-02
+  2.2500E+07  8.0000E+05  9.7000E-02  1.0000E-02
+#---------------------------------------------------

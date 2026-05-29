@@ -1,0 +1,26 @@
+# EXFOR #         : 10362.018  
+# EXFOR Ver.      : 20220320
+# TRANS #         : 1494
+# Author          : S.A.Elbakr et al.
+# Reference       : Nucl.Phys.A 211 (1973) 493
+# DOI             : 10.1016/0375-9474(73)90439-9
+# Quantity        : 154Sm(n,inl)154Sm partial gamma production cross section
+# REACTION        : 62-SM-154(N,INL)62-SM-154,PAR,SIG,G
+# File ID         : n-Sm154-inl-sigg-excfun-mon-eoutl7.530E+05_prodSm154_Elbakr_1973_10362.018
+#
+# Eout,lab (eV)   :   7.5300E+05
+#
+# npts            : 3           
+# xmin            :   1.8690E+06
+# xmax            :   2.1630E+06
+# ymin            :   3.1300E-02
+# ymax            :   4.0849E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8690E+06  0.0000E+00  3.1300E-02  9.8140E-03
+  2.0000E+06  0.0000E+00  3.3952E-02  8.4880E-03
+  2.1630E+06  0.0000E+00  4.0849E-02  9.0190E-03
+#---------------------------------------------------

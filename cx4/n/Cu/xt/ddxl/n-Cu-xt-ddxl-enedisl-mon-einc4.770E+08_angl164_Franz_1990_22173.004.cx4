@@ -1,0 +1,28 @@
+# EXFOR #         : 22173.004  
+# EXFOR Ver.      : 19910523
+# TRANS #         : 0000
+# Author          : J.Franz et al.
+# Reference       : Nucl.Phys.A 510 (1990) 774
+# DOI             : 10.1016/0375-9474(90)90360-X
+# Quantity        : natCu(n,t+x) double differential cross section
+# REACTION        : 29-CU-0(N,X)1-H-3,,DA/DE
+# File ID         : n-Cu-xt-ddxl-enedisl-mon-einc4.770E+08_angl164_Franz_1990_22173.004
+#
+# Einc (eV)       :   4.7700E+08
+# theta,lab (deg) :  164.0000000
+#
+# npts            : 4           
+# xmin            :   5.9000E+07
+# xmax            :   8.5000E+07
+# ymin            :   5.6800E-14
+# ymax            :   2.6460E-12
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  5.9000E+07  1.0000E+06  2.6460E-12  6.8300E-13
+  6.5000E+07  5.0000E+06  8.9230E-13  1.7400E-13
+  7.5000E+07  5.0000E+06  2.8640E-13  9.7000E-14
+  8.5000E+07  5.0000E+06  5.6800E-14  4.1000E-14
+#---------------------------------------------------

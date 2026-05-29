@@ -1,0 +1,26 @@
+# EXFOR #         : 40961.002  
+# EXFOR Ver.      : 20151218
+# TRANS #         : 4173
+# Author          : Yu.Andzheevski et al.
+# Reference       : Yad.Fiz. 48 No.1 (1988) 20
+# DOI             : N/A
+# Quantity        : 143Nd(n,a)140Ce partial cross section
+# REACTION        : 60-ND-143(N,A)58-CE-140,PAR,SIG
+# File ID         : n-Nd143-a-sig-excfun-mon-elvl0.000E+00_prodCe140_Andzheevski_1988_40961.002
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :   2.0000E+03
+# xmax            :   1.4400E+05
+# ymin            :   6.6000E-06
+# ymax            :   4.2200E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+03  3.2500E+02  4.2200E-05  4.3000E-06
+  2.4500E+04  1.0000E+03  1.5000E-05  4.0000E-06
+  1.4400E+05  1.0000E+04  6.6000E-06  1.2000E-06
+#---------------------------------------------------

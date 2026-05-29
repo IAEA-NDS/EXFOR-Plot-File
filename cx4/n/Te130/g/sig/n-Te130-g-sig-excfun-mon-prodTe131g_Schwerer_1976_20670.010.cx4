@@ -1,0 +1,22 @@
+# EXFOR #         : 20670.010  
+# EXFOR Ver.      : 19840127
+# TRANS #         : 0000
+# Author          : O.Schwerer et al.
+# Reference       : Nucl.Phys.A 264 (1976) 105
+# DOI             : 10.1016/0375-9474(76)90147-0
+# Quantity        : 130Te(n,g)131gTe cross section
+# REACTION        : 52-TE-130(N,G)52-TE-131-G,,SIG
+# File ID         : n-Te130-g-sig-excfun-mon-prodTe131g_Schwerer_1976_20670.010
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   5.8000E-04
+# ymax            :   5.8000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  5.8000E-04  1.2000E-04
+#---------------------------------------------------

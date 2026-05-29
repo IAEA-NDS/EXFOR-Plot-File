@@ -1,0 +1,22 @@
+# EXFOR #         : 33170.006  
+# EXFOR Ver.      : 20220308
+# TRANS #         : 3207
+# Author          : G.T.Bholane et al.
+# Reference       : Nucl.Phys.A 1020 (2022) 122399
+# DOI             : 10.1016/j.nuclphysa.2022.122399
+# Quantity        : 146Nd(n,p)146Pr cross section
+# REACTION        : 60-ND-146(N,P)59-PR-146,,SIG
+# File ID         : n-Nd146-p-sig-excfun-mon-prodPr146_Bholane_2022_33170.006
+#
+# npts            : 1           
+# xmin            :   1.4770E+07
+# xmax            :   1.4770E+07
+# ymin            :   3.4520E-03
+# ymax            :   3.4520E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4770E+07  1.7000E+05  3.4520E-03  3.4430E-04
+#---------------------------------------------------

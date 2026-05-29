@@ -1,0 +1,24 @@
+# EXFOR #         : 30935.007  
+# EXFOR Ver.      : 20090913
+# TRANS #         : 3141
+# Author          : Wang Xiuyuan et al.
+# Reference       : Private communication  (1989)
+# DOI             : N/A
+# Quantity        : 197Au(n,2n)196Au cross section
+# REACTION        : 79-AU-197(N,2N)79-AU-196,,SIG
+# File ID         : n-Au197-2n-sig-excfun-mon-prodAu196_Wang%Xiuyuan_1989_30935.007
+#
+# npts            : 3           
+# xmin            :   1.4470E+07
+# xmax            :   1.4810E+07
+# ymin            :   2.1440E+00
+# ymax            :   2.1880E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4810E+07  2.9000E+05  2.1880E+00  1.0500E-01
+  1.4670E+07  2.4000E+05  2.1470E+00  1.1400E-01
+  1.4470E+07  1.7000E+05  2.1440E+00  1.1100E-01
+#---------------------------------------------------

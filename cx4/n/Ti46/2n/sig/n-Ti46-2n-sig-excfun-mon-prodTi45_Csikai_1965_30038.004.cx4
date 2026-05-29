@@ -1,0 +1,22 @@
+# EXFOR #         : 30038.004  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : J.Csikai
+# Reference       : Proceedings of Nuclear Structure Study with Neutrons, Antwerp 1965 page 537
+# DOI             : N/A
+# Quantity        : 46Ti(n,2n)45Ti cross section
+# REACTION        : 22-TI-46(N,2N)22-TI-45,,SIG
+# File ID         : n-Ti46-2n-sig-excfun-mon-prodTi45_Csikai_1965_30038.004
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   5.6000E-02
+# ymax            :   5.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  1.0000E+05  5.6000E-02  5.0000E-03
+#---------------------------------------------------

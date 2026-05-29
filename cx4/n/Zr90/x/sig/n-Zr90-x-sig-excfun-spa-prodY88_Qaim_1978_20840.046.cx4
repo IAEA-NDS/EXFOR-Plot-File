@@ -1,0 +1,22 @@
+# EXFOR #         : 20840.046  
+# EXFOR Ver.      : 20170206
+# TRANS #         : 2259
+# Author          : S.M.Qaim et al.
+# Reference       : Nucl.Phys.A 295 (1978) 150
+# DOI             : 10.1016/0375-9474(78)90026-X
+# Quantity        : 90Zr(n,x)88Y independent production cross section
+# REACTION        : 40-ZR-90(N,X)39-Y-88,,SIG,,SPA
+# File ID         : n-Zr90-x-sig-excfun-spa-prodY88_Qaim_1978_20840.046
+#
+# npts            : 1           
+# xmin            :   2.2500E+07
+# xmax            :   2.2500E+07
+# ymin            :   5.1000E-02
+# ymax            :   5.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2500E+07  7.9000E+06  5.1000E-02  1.1000E-02
+#---------------------------------------------------

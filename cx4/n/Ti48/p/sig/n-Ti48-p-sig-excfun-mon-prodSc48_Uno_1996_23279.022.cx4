@@ -1,0 +1,27 @@
+# EXFOR #         : 23279.022  
+# EXFOR Ver.      : 20151004
+# TRANS #         : 2247
+# Author          : Y.Uno et al.
+# Reference       : Proceedings of 9.Internat.Symposium on Reactor Dosimetry,Prague,1996 page 465
+# DOI             : N/A
+# Quantity        : 48Ti(n,p)48Sc cross section
+# REACTION        : 22-TI-48(N,P)21-SC-48,,SIG
+# File ID         : n-Ti48-p-sig-excfun-mon-prodSc48_Uno_1996_23279.022
+#
+# npts            : 6           
+# xmin            :   1.7550E+07
+# xmax            :   3.0090E+07
+# ymin            :   2.1870E-02
+# ymax            :   4.7950E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7550E+07  0.0000E+00  4.7950E-02  1.9700E-03
+  1.9840E+07  0.0000E+00  3.5900E-02  1.4400E-03
+  2.2660E+07  0.0000E+00  2.9350E-02  1.4200E-03
+  2.4990E+07  0.0000E+00  3.0670E-02  1.2500E-03
+  2.7790E+07  0.0000E+00  2.6790E-02  1.0700E-03
+  3.0090E+07  0.0000E+00  2.1870E-02  8.9000E-04
+#---------------------------------------------------

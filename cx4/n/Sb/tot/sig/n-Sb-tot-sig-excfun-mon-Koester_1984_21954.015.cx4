@@ -1,0 +1,23 @@
+# EXFOR #         : 21954.015  
+# EXFOR Ver.      : 19850423
+# TRANS #         : 0000
+# Author          : L.Koester et al.
+# Reference       : Progress report NEANDC(E)-252U Vol.(5) page 46, 1984
+# DOI             : N/A
+# Quantity        : natSb(n,tot) cross section
+# REACTION        : 51-SB-0(N,TOT),,SIG
+# File ID         : n-Sb-tot-sig-excfun-mon-Koester_1984_21954.015
+#
+# npts            : 2           
+# xmin            :   1.2600E+00
+# xmax            :   5.2000E+00
+# ymin            :   4.0900E+00
+# ymax            :   9.1700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+00  0.0000E+00  4.0900E+00  0.0000E+00
+  5.2000E+00  0.0000E+00  9.1700E+00  0.0000E+00
+#---------------------------------------------------

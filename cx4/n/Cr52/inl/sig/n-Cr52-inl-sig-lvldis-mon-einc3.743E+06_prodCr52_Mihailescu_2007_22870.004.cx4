@@ -1,0 +1,27 @@
+# EXFOR #         : 22870.004  
+# EXFOR Ver.      : 20160106
+# TRANS #         : 2247
+# Author          : L.C.Mihailescu et al.
+# Reference       : Nucl.Phys.A 786 (2007) 1
+# DOI             : N/A
+# Quantity        : 52Cr(n,inl)52Cr partial cross section
+# REACTION        : 24-CR-52(N,INL)24-CR-52,PAR,SIG
+# File ID         : n-Cr52-inl-sig-lvldis-mon-einc3.743E+06_prodCr52_Mihailescu_2007_22870.004
+#
+# Einc (eV)       :   3.7427E+06
+# dEinc (eV)      :   4.0450E+03
+#
+# npts            : 3           
+# xmin            :   1.4341E+06
+# xmax            :   3.1617E+06
+# ymin            :   7.9413E-02
+# ymax            :   3.6209E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4341E+06  0.0000E+00  3.6209E-01  4.7352E-02
+  2.9648E+06  0.0000E+00  1.1782E-01  1.0517E-02
+  3.1617E+06  0.0000E+00  7.9413E-02  1.0685E-02
+#---------------------------------------------------

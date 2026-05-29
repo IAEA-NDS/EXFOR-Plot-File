@@ -1,0 +1,28 @@
+# EXFOR #         : 11224.008  
+# EXFOR Ver.      : 19860121
+# TRANS #         : 0000
+# Author          : A.Langsdorf Jr et al.
+# Reference       : Phys.Rev. 107 (1957) 1077
+# DOI             : 10.1103/PhysRev.107.1077
+# Quantity        : natC(n,el)natC angular differential cross section
+# REACTION        : 6-C-0(N,EL)6-C-0,,DA
+# File ID         : n-C-el-adxl-angdisc-mon-einc1.448E+06_prodC_Langsdorf%Jr_1957_11224.008
+#
+# Einc (eV)       :   1.4480E+06
+#
+# npts            : 5           
+# xmin            :   29.1673400
+# xmax            :  144.7955000
+# ymin            :   1.4500E-01
+# ymax            :   2.0600E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  29.1673400   5.0000000  2.0600E-01  0.0000E+00
+  58.9089200   5.0000000  1.8600E-01  0.0000E+00
+  95.7679600   5.0000000  1.5800E-01  0.0000E+00
+ 117.3871000   3.0000000  1.4800E-01  0.0000E+00
+ 144.7955000   3.0000000  1.4500E-01  0.0000E+00
+#---------------------------------------------------

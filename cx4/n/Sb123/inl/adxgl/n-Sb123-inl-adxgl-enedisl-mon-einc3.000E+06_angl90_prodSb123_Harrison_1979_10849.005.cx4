@@ -1,0 +1,26 @@
+# EXFOR #         : 10849.005  
+# EXFOR Ver.      : 19880830
+# TRANS #         : 0000
+# Author          : J.M.Harrison
+# Reference       : Diss.Abstr.B 39 (1979) 5431
+# DOI             : N/A
+# Quantity        : 123Sb(n,inl)123Sb partial gamma angular differential cross section
+# REACTION        : 51-SB-123(N,INL)51-SB-123,PAR,DA,G
+# File ID         : n-Sb123-inl-adxgl-enedisl-mon-einc3.000E+06_angl90_prodSb123_Harrison_1979_10849.005
+#
+# Einc (eV)       :   3.0000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 2           
+# xmin            :   1.0890E+06
+# xmax            :   1.3380E+06
+# ymin            :   4.0000E-03
+# ymax            :   2.1100E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.0890E+06  0.0000E+00  2.1100E-02  3.0000E-03
+  1.3380E+06  0.0000E+00  4.0000E-03  1.5000E-03
+#---------------------------------------------------

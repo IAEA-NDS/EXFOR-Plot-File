@@ -1,0 +1,22 @@
+# EXFOR #         : 40605.002  
+# EXFOR Ver.      : 20211201
+# TRANS #         : 4201
+# Author          : Vo Kim Tkhan et al.
+# Reference       : Proceedings of 29.Conf.on Nucl.Spectr.and Nucl.Struct.,Riga 1979 page 294
+# DOI             : N/A
+# Quantity        : 147Sm(n,a)144Nd cross section
+# REACTION        : 62-SM-147(N,A)60-ND-144,,SIG,,SPA
+# File ID         : n-Sm147-a-sig-excfun-spa-prodNd144_Vo%Kim%Tkhan_1979_40605.002
+#
+# npts            : 1           
+# xmin            :   2.0000E+03
+# xmax            :   2.0000E+03
+# ymin            :   1.5500E-04
+# ymax            :   1.5500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+03  3.0000E+02  1.5500E-04  4.0000E-05
+#---------------------------------------------------

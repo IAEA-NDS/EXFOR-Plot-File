@@ -1,0 +1,25 @@
+# EXFOR #         : 22877.014  
+# EXFOR Ver.      : 20231026
+# TRANS #         : 2319
+# Author          : V.Semkova et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 1 page 559
+# DOI             : N/A
+# Quantity        : 186W(n,p)186Ta cross section
+# REACTION        : 74-W-186(N,P)73-TA-186,,SIG
+# File ID         : n-W186-p-sig-excfun-mon-prodTa186_Semkova_2007_22877.014
+#
+# npts            : 4           
+# xmin            :   1.6300E+07
+# xmax            :   2.0600E+07
+# ymin            :   2.5800E-03
+# ymax            :   6.8100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6300E+07  3.0000E+05  2.5800E-03  5.1000E-04
+  1.8000E+07  2.0000E+05  4.6200E-03  6.1000E-04
+  1.9400E+07  2.0000E+05  5.8200E-03  9.7000E-04
+  2.0600E+07  1.0000E+05  6.8100E-03  1.4000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 22019.003  
+# EXFOR Ver.      : 19861212
+# TRANS #         : 0000
+# Author          : W.Mannhart
+# Reference       : Proceedings of 5th Symposium on Reactor Dosimetry, Geesthacht, 1984 2 page 801
+# DOI             : N/A
+# Quantity        : 51V(n,a)48Sc cross section
+# REACTION        : 23-V-51(N,A)21-SC-48,,SIG,,FIS
+# File ID         : n-V51-a-sig-excfun-fis-prodSc48_Mannhart_1984_22019.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.8800E-05
+# ymax            :   3.8800E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.8800E-05  1.2000E-06
+#---------------------------------------------------

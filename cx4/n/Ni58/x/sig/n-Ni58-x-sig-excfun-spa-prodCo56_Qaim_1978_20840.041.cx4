@@ -1,0 +1,22 @@
+# EXFOR #         : 20840.041  
+# EXFOR Ver.      : 20170206
+# TRANS #         : 2259
+# Author          : S.M.Qaim et al.
+# Reference       : Nucl.Phys.A 295 (1978) 150
+# DOI             : 10.1016/0375-9474(78)90026-X
+# Quantity        : 58Ni(n,x)56Co independent production cross section
+# REACTION        : 28-NI-58(N,X)27-CO-56,,SIG,,SPA
+# File ID         : n-Ni58-x-sig-excfun-spa-prodCo56_Qaim_1978_20840.041
+#
+# npts            : 1           
+# xmin            :   2.2500E+07
+# xmax            :   2.2500E+07
+# ymin            :   3.5000E-02
+# ymax            :   3.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2500E+07  7.9000E+06  3.5000E-02  6.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 21678.005  
+# EXFOR Ver.      : 19810611
+# TRANS #         : 0000
+# Author          : A.Bertin et al.
+# Reference       : Report CEA-R-3808 page , 1969
+# DOI             : N/A
+# Quantity        : 209Bi(n,inl)209Bi partial gamma angular differential cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,DA,G
+# File ID         : n-Bi209-inl-adxgl-enedisl-mon-einc5.000E+06_angl90_prodBi209_Bertin_1969_21678.005
+#
+# Einc (eV)       :   5.0000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 2           
+# xmin            :   9.0000E+05
+# xmax            :   1.6050E+06
+# ymin            :   3.0600E-02
+# ymax            :   9.0100E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.0000E+05  0.0000E+00  3.0600E-02  6.7000E-03
+  1.6050E+06  0.0000E+00  9.0100E-02  1.9800E-02
+#---------------------------------------------------

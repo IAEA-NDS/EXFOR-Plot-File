@@ -1,0 +1,22 @@
+# EXFOR #         : 31244.010  
+# EXFOR Ver.      : 20090925
+# TRANS #         : 3142
+# Author          : M.Sehgal et al.
+# Reference       : Nucl.Phys. 12 (1959) 261
+# DOI             : 10.1016/0029-5582(59)90172-5
+# Quantity        : 150Nd(n,g)151Nd cross section
+# REACTION        : 60-ND-150(N,G)60-ND-151,,SIG,,MXW
+# File ID         : n-Nd150-g-sig-excfun-mxw-prodNd151_Sehgal_1959_31244.010
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.5000E+00
+# ymax            :   1.5000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.5000E+00  2.0000E-01
+#---------------------------------------------------

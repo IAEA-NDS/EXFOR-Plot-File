@@ -1,0 +1,23 @@
+# EXFOR #         : 14056.002  
+# EXFOR Ver.      : 20051114
+# TRANS #         : 1339
+# Author          : J.M.Sisterson et al.
+# Reference       : Nucl.Instrum.Meth.B 240 (2005) 617
+# DOI             : 10.1016/j.nimb.2005.06.005
+# Quantity        : natCu(n,x)54Mn independent production cross section
+# REACTION        : 29-CU-0(N,X)25-MN-54,,SIG
+# File ID         : n-Cu-x-sig-excfun-mon-prodMn54_Sisterson_2005_14056.002
+#
+# npts            : 2           
+# xmin            :   7.0700E+07
+# xmax            :   1.1080E+08
+# ymin            :   1.6000E-03
+# ymax            :   1.5300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0700E+07  5.8000E+06  1.6000E-03  1.2000E-03
+  1.1080E+08  4.2000E+06  1.5300E-02  2.1000E-03
+#---------------------------------------------------

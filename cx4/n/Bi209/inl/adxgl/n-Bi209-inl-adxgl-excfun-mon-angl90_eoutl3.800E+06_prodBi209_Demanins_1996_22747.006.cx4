@@ -1,0 +1,29 @@
+# EXFOR #         : 22747.006  
+# EXFOR Ver.      : 20080619
+# TRANS #         : 2199
+# Author          : F.Demanins et al.
+# Reference       : Nuovo Cim.A 109 (1996) 485
+# DOI             : 10.1007/BF02731133
+# Quantity        : 209Bi(n,inl)209Bi partial gamma angular differential cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,DA,G
+# File ID         : n-Bi209-inl-adxgl-excfun-mon-angl90_eoutl3.800E+06_prodBi209_Demanins_1996_22747.006
+#
+# theta,lab (deg) :   90.0000000
+# Eout,lab (eV)   :   3.8000E+06
+#
+# npts            : 5           
+# xmin            :   3.9263E+06
+# xmax            :   4.3333E+06
+# ymin            :   1.2842E-04
+# ymax            :   3.4118E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.9263E+06  0.0000E+00  1.4112E-04  1.9424E-05
+  3.9787E+06  0.0000E+00  1.2842E-04  7.3380E-05
+  4.0275E+06  0.0000E+00  2.2795E-04  4.7481E-05
+  4.2326E+06  0.0000E+00  3.4118E-04  3.6690E-05
+  4.3333E+06  0.0000E+00  2.8553E-04  8.8488E-05
+#---------------------------------------------------

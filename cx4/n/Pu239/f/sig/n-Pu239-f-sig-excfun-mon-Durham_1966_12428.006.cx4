@@ -1,0 +1,22 @@
+# EXFOR #         : 12428.006  
+# EXFOR Ver.      : 20160922
+# TRANS #         : 1424
+# Author          : R.W.Durham et al.
+# Reference       : Proceedings of Nuclear Data For Reactors Conf., Paris 1966 2 page 17(2)
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cross section
+# REACTION        : 94-PU-239(N,F),,SIG
+# File ID         : n-Pu239-f-sig-excfun-mon-Durham_1966_12428.006
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   7.5100E+02
+# ymax            :   7.5100E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.5100E+02  1.0000E+01
+#---------------------------------------------------

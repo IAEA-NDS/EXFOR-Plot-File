@@ -1,0 +1,28 @@
+# EXFOR #         : 32240.002  
+# EXFOR Ver.      : 20200527
+# TRANS #         : 3196
+# Author          : O.Gritzay et al.
+# Reference       : Proceedings of 13th Inter.Symp.on Reactor Dosimetry, Akersloot, 2008 page 525
+# DOI             : N/A
+# Quantity        : natC(n,el)natC angular differential cross section
+# REACTION        : 6-C-0(N,EL)6-C-0,,DA,,SPA
+# File ID         : n-C-el-adxl-angdisl-spa-einc5.700E+04_prodC_Gritzay_2008_32240.002
+#
+# Einc (eV)       :   5.7003E+04
+# dEinc (eV)      :   3.3500E+03
+#
+# npts            : 4           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   2.6830E-01
+# ymax            :   4.6460E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  4.6460E-01  1.5300E-02
+  55.0000000   0.0000000  4.4540E-01  1.1100E-02
+ 125.0000000   0.0000000  3.1310E-01  1.0100E-02
+ 150.0000000   0.0000000  2.6830E-01  2.7640E-02
+#---------------------------------------------------

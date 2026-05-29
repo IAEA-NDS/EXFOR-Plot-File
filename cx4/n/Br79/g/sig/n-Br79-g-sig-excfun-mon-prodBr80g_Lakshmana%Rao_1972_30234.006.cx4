@@ -1,0 +1,22 @@
+# EXFOR #         : 30234.006  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : A.Lakshmana Rao et al.
+# Reference       : Phys.Rev.C 6 (1972) 572
+# DOI             : 10.1103/PhysRevC.6.572
+# Quantity        : 79Br(n,g)80gBr cross section
+# REACTION        : 35-BR-79(N,G)35-BR-80-G,,SIG
+# File ID         : n-Br79-g-sig-excfun-mon-prodBr80g_Lakshmana%Rao_1972_30234.006
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   5.4000E-01
+# ymax            :   5.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  5.0000E+03  5.4000E-01  6.6000E-02
+#---------------------------------------------------

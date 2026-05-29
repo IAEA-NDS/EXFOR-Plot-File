@@ -1,0 +1,22 @@
+# EXFOR #         : 11887.002  
+# EXFOR Ver.      : 19860505
+# TRANS #         : 0000
+# Author          : E.Hoagland et al.
+# Reference       : Radiochemical Studies, Fission Products, USA, 1951 2 page 642 (1951)
+# DOI             : N/A
+# Quantity        : 84Kr(n,g)85gKr cumulative production cross section
+# REACTION        : 36-KR-84(N,G)36-KR-85-G,M+,SIG,,SPA
+# File ID         : n-Kr84-x-sigc-excfun-spa-prodKr85g_Hoagland_1951_11887.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   6.2000E-02
+# ymax            :   6.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  6.2000E-02  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 21156.009  
+# EXFOR Ver.      : 20040809
+# TRANS #         : 0000
+# Author          : V.Schroeder et al.
+# Reference       : Z.Phys.A 287 (1978) 353
+# DOI             : 10.1007/BF01481717
+# Quantity        : 209Bi(n,2n)208Bi cross section
+# REACTION        : 83-BI-209(N,2N)83-BI-208,,SIG
+# File ID         : n-Bi209-2n-sig-excfun-mon-prodBi208_Schroeder_1978_21156.009
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   2.7500E+00
+# ymax            :   2.7500E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  0.0000E+00  2.7500E+00  4.0000E-01
+#---------------------------------------------------

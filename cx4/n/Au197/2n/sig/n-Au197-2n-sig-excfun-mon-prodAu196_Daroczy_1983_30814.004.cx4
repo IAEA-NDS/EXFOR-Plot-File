@@ -1,0 +1,24 @@
+# EXFOR #         : 30814.004  
+# EXFOR Ver.      : 20090910
+# TRANS #         : 3141
+# Author          : S.Daroczy et al.
+# Reference       : Proceedings of 6.All-Union Conf.on Neutron Physics,Kiev,2-6 Oct.1983 3 page 191
+# DOI             : N/A
+# Quantity        : 197Au(n,2n)196Au cross section
+# REACTION        : 79-AU-197(N,2N)79-AU-196,,SIG
+# File ID         : n-Au197-2n-sig-excfun-mon-prodAu196_Daroczy_1983_30814.004
+#
+# npts            : 3           
+# xmin            :   8.9200E+06
+# xmax            :   9.9000E+06
+# ymin            :   2.4100E-01
+# ymax            :   9.6500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.9200E+06  1.1000E+05  2.4100E-01  1.2000E-02
+  9.3900E+06  1.2000E+05  5.7100E-01  2.4000E-02
+  9.9000E+06  1.2000E+05  9.6500E-01  2.5000E-02
+#---------------------------------------------------

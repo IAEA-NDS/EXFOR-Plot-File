@@ -1,0 +1,26 @@
+# EXFOR #         : 23061.002  
+# EXFOR Ver.      : 20090622
+# TRANS #         : 2214
+# Author          : C.Wagemans et al.
+# Reference       : Report (proceedings) AIP-1090 page 84, 2009
+# DOI             : N/A
+# Quantity        : 77Se(n,a)74Ge partial cross section
+# REACTION        : 34-SE-77(N,A)32-GE-74,PAR,SIG,,MXW
+# File ID         : n-Se77-a-sig-lvldis-mxw-einc2.530E-02_prodGe74_Wagemans_2009_23061.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 3           
+# xmin            :   0.0000E+00
+# xmax            :   1.2040E+06
+# ymin            :   1.5000E-05
+# ymax            :   1.0440E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.0440E-03  5.0000E-05
+  5.9600E+05  0.0000E+00  1.5000E-05  1.0000E-06
+  1.2040E+06  0.0000E+00  1.6000E-05  1.0000E-06
+#---------------------------------------------------

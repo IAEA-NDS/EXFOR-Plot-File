@@ -1,0 +1,22 @@
+# EXFOR #         : 14512.021  
+# EXFOR Ver.      : 20240213
+# TRANS #         : 1510
+# Author          : B.D.Pierson et al.
+# Reference       : Nucl.Data Sheets 155 (2019) 86
+# DOI             : 10.1016/j.nds.2019.01.005
+# Quantity        : 235U(n,f)142Ba cumulative fission product yield
+# REACTION        : 92-U-235(N,F)56-BA-142,CUM,FY,,FIS
+# File ID         : n-U235-f-fyc-excfun-fis-prodBa142_Pierson_2019_14512.021
+#
+# npts            : 1           
+# xmin            :   2.0000E+06
+# xmax            :   2.0000E+06
+# ymin            :   5.2380E-02
+# ymax            :   5.2380E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  5.2380E-02  4.4200E-03
+#---------------------------------------------------

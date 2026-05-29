@@ -1,0 +1,30 @@
+# EXFOR #         : 22724.014.1
+# EXFOR Ver.      : 20181002
+# TRANS #         : 2272
+# Author          : S.Benck et al.
+# Reference       : At.Data Nucl.Data T. 72 (1999) 1
+# DOI             : N/A
+# Quantity        : 16O(n,a+x) double differential cross section
+# REACTION        : 8-O-16(N,X)2-HE-4,,DA/DE
+# File ID         : n-O16-xa-ddxl-angdisl-mon-einc5.350E+07_eoutl4.050E+07_Benck_1999_22724.014.1
+#
+# Einc (eV)       :   5.3500E+07
+# dEinc (eV)      :   2.5000E+06
+# Eout,lab (eV)   :   4.0500E+07
+#
+# npts            : 5           
+# xmin            :   20.0000000
+# xmax            :   60.0000000
+# ymin            :   1.0000E-12
+# ymax            :   1.4500E-10
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  20.0000000   0.0000000  1.4500E-10  4.7000E-11
+  30.0000000   0.0000000  5.9000E-11  2.7000E-11
+  40.0000000   0.0000000  1.0000E-12  4.0000E-12
+  50.0000000   0.0000000  1.3000E-11  1.3000E-11
+  60.0000000   0.0000000  2.2000E-11  2.1000E-11
+#---------------------------------------------------

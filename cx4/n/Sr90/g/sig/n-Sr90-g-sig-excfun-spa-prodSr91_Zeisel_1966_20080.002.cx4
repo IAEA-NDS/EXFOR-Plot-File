@@ -1,0 +1,22 @@
+# EXFOR #         : 20080.002  
+# EXFOR Ver.      : 20230319
+# TRANS #         : 2316
+# Author          : G.Zeisel
+# Reference       : Oest.Ak.Wiss.Nat. 174 (1966) 575
+# DOI             : N/A
+# Quantity        : 90Sr(n,g)91Sr cross section
+# REACTION        : 38-SR-90(N,G)38-SR-91,,SIG,,SPA
+# File ID         : n-Sr90-g-sig-excfun-spa-prodSr91_Zeisel_1966_20080.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   8.0000E-01
+# ymax            :   8.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  8.0000E-01  5.0000E-01
+#---------------------------------------------------

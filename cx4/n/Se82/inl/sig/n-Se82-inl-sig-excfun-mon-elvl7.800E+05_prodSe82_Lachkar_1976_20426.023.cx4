@@ -1,0 +1,25 @@
+# EXFOR #         : 20426.023  
+# EXFOR Ver.      : 20160725
+# TRANS #         : 2252
+# Author          : J.Lachkar et al.
+# Reference       : Phys.Rev.C 14 (1976) 933
+# DOI             : 10.1103/PhysRevC.14.933
+# Quantity        : 82Se(n,inl)82Se partial cross section
+# REACTION        : 34-SE-82(N,INL)34-SE-82,PAR,SIG
+# File ID         : n-Se82-inl-sig-excfun-mon-elvl7.800E+05_prodSe82_Lachkar_1976_20426.023
+#
+# Elvl (eV)       :   7.8000E+05
+#
+# npts            : 2           
+# xmin            :   6.0000E+06
+# xmax            :   8.0000E+06
+# ymin            :   2.0856E-01
+# ymax            :   2.5347E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+06  1.0000E+05  2.5347E-01  2.8389E-02
+  8.0000E+06  1.0000E+05  2.0856E-01  3.6498E-02
+#---------------------------------------------------

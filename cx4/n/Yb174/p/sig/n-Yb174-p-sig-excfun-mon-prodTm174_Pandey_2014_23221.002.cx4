@@ -1,0 +1,22 @@
+# EXFOR #         : 23221.002  
+# EXFOR Ver.      : 20140219
+# TRANS #         : 2239
+# Author          : B.Pandey et al.
+# Reference       : Appl.Radiat.Isot. 85 (2014) 128
+# DOI             : 10.1016/j.apradiso.2013.11.114
+# Quantity        : 174Yb(n,p)174Tm cross section
+# REACTION        : 70-YB-174(N,P)69-TM-174,,SIG
+# File ID         : n-Yb174-p-sig-excfun-mon-prodTm174_Pandey_2014_23221.002
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   3.1100E-03
+# ymax            :   3.1100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  3.0000E+05  3.1100E-03  1.4000E-04
+#---------------------------------------------------

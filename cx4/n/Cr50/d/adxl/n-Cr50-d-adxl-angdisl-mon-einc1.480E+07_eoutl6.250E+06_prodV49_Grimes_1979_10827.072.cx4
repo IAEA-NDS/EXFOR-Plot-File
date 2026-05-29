@@ -1,0 +1,29 @@
+# EXFOR #         : 10827.072  
+# EXFOR Ver.      : 20110731
+# TRANS #         : 1374
+# Author          : S.M.Grimes et al.
+# Reference       : Phys.Rev.C 19 (1979) 2127
+# DOI             : 10.1103/PhysRevC.19.2127
+# Quantity        : 50Cr(n,d)49V partial angular differential cross section
+# REACTION        : 24-CR-50(N,D)23-V-49,PAR,DA,,AV
+# File ID         : n-Cr50-d-adxl-angdisl-mon-einc1.480E+07_eoutl6.250E+06_prodV49_Grimes_1979_10827.072
+#
+# Einc (eV)       :   1.4800E+07
+# Eout,lab (eV)   :   6.2500E+06
+# dEout,lab (eV)  :   2.5000E+05
+#
+# npts            : 4           
+# xmin            :   30.0000000
+# xmax            :  135.0000000
+# ymin            :   1.0000E-05
+# ymax            :   3.5000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  3.5000E-04  6.0000E-05
+  45.0000000   0.0000000  2.2000E-04  5.0000E-05
+  90.0000000   0.0000000  9.0000E-05  3.0000E-05
+ 135.0000000   0.0000000  1.0000E-05  1.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 11695.009  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : J.B.Weddell
+# Reference       : Bull.Am.Phys.Soc. 1 (1956) 339(P8)
+# DOI             : N/A
+# Quantity        : natPb(n,inl)natPb angular differential cross section
+# REACTION        : 82-PB-0(N,INL),,DA
+# File ID         : n-Pb-inl-adxl-excfun-mon-angl90_prodPb_Weddell_1956_11695.009
+#
+# theta,lab (deg) :   90.0000000
+# dtheta,lab (deg):    5.0000000
+#
+# npts            : 1           
+# xmin            :   4.4000E+06
+# xmax            :   4.4000E+06
+# ymin            :   6.8000E-02
+# ymax            :   6.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.4000E+06  5.0000E+06  6.8000E-02  2.3000E-02
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 31616.006  
+# EXFOR Ver.      : 20080715
+# TRANS #         : 3128
+# Author          : Kaihong Fang et al.
+# Reference       : Appl.Radiat.Isot. 66 (2008) 1104
+# DOI             : 10.1016/j.apradiso.2007.10.011
+# Quantity        : 165Ho(n,a)162Tb cross section
+# REACTION        : 67-HO-165(N,A)65-TB-162,,SIG
+# File ID         : n-Ho165-a-sig-excfun-mon-prodTb162_Kaihong%Fang_2008_31616.006
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4600E+07
+# ymin            :   7.0000E-04
+# ymax            :   9.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  2.0000E+05  7.0000E-04  9.0000E-05
+  1.4600E+07  3.0000E+05  9.2000E-04  1.1000E-04
+#---------------------------------------------------

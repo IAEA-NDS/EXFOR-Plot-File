@@ -1,0 +1,27 @@
+# EXFOR #         : 22717.003  
+# EXFOR Ver.      : 20031111
+# TRANS #         : 0000
+# Author          : J.Balewski et al.
+# Reference       : Nucl.Phys.A 581 (1995) 131
+# DOI             : 10.1016/0375-9474(94)00440-X
+# Quantity        : 2H(n,n+x) double differential cross section
+# REACTION        : 1-H-2(N,X)0-NN-1,,DA/DE
+# File ID         : n-H2-xn-ddxc-angdisc-mon-einc6.700E+07_eoutl4.400E+07_Balewski_1995_22717.003
+#
+# Einc (eV)       :   6.7000E+07
+# dEinc (eV)      :   1.5000E+06
+# Eout,lab (eV)   :   4.4000E+07
+#
+# npts            : 2           
+# xmin            :   20.0000000
+# xmax            :   30.0000000
+# ymin            :   3.7700E-10
+# ymax            :   5.7200E-10
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   ddx,cm      dddx,cm     
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  20.0000000   0.0000000  3.7700E-10  4.5000E-11
+  30.0000000   0.0000000  5.7200E-10  5.3000E-11
+#---------------------------------------------------

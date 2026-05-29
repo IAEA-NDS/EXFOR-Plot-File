@@ -1,0 +1,25 @@
+# EXFOR #         : 11495.054  
+# EXFOR Ver.      : 20230912
+# TRANS #         : 1508
+# Author          : D.B.Thomson
+# Reference       : Phys.Rev. 129 (1963) 1649
+# DOI             : 10.1103/PhysRev.129.1649
+# Quantity        : 206Pb(n,el)206Pb angular differential cross section
+# REACTION        : 82-PB-206(N,EL)82-PB-206,,DA
+# File ID         : n-Pb206-el-adxl-excfun-mon-angl90_prodPb206_Thomson_1963_11495.054
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 2           
+# xmin            :   4.0000E+06
+# xmax            :   7.0000E+06
+# ymin            :   4.0900E-02
+# ymax            :   1.1200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.0000E+06  0.0000E+00  1.1200E-01  1.1000E-02
+  7.0000E+06  1.0000E+05  4.0900E-02  4.0000E-03
+#---------------------------------------------------

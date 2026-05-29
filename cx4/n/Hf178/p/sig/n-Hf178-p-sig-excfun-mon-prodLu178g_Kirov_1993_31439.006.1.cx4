@@ -1,0 +1,22 @@
+# EXFOR #         : 31439.006.1
+# EXFOR Ver.      : 20211005
+# TRANS #         : 3202
+# Author          : A.Kirov et al.
+# Reference       : Z.Phys.A 345 (1993) 285
+# DOI             : 10.1007/BF01280835
+# Quantity        : 178Hf(n,p)178gLu cross section
+# REACTION        : 72-HF-178(N,P)71-LU-178-G,,SIG
+# File ID         : n-Hf178-p-sig-excfun-mon-prodLu178g_Kirov_1993_31439.006.1
+#
+# npts            : 1           
+# xmin            :   1.4540E+07
+# xmax            :   1.4540E+07
+# ymin            :   1.8000E-03
+# ymax            :   1.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4540E+07  2.4000E+05  1.8000E-03  4.0000E-04
+#---------------------------------------------------

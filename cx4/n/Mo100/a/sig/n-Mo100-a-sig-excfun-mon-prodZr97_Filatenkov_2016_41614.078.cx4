@@ -1,0 +1,24 @@
+# EXFOR #         : 41614.078  
+# EXFOR Ver.      : 20160512
+# TRANS #         : 4174
+# Author          : A.A.Filatenkov
+# Reference       : Report INDC(CCP)-0460, 2016
+# DOI             : N/A
+# Quantity        : 100Mo(n,a)97Zr cross section
+# REACTION        : 42-MO-100(N,A)40-ZR-97,,SIG
+# File ID         : n-Mo100-a-sig-excfun-mon-prodZr97_Filatenkov_2016_41614.078
+#
+# npts            : 3           
+# xmin            :   1.3640E+07
+# xmax            :   1.4440E+07
+# ymin            :   2.2100E-03
+# ymax            :   2.7400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3640E+07  0.0000E+00  2.2100E-03  1.1227E-04
+  1.4280E+07  0.0000E+00  2.5100E-03  1.4056E-04
+  1.4440E+07  0.0000E+00  2.7400E-03  1.5015E-04
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 22666.028  
+# EXFOR Ver.      : 20170823
+# TRANS #         : 2265
+# Author          : D.Schmidt et al.
+# Reference       : Report PTB-N-43, 2001
+# DOI             : N/A
+# Quantity        : 29Si(n,inl)29Si partial cross section
+# REACTION        : 14-SI-29(N,INL)14-SI-29,PAR,SIG
+# File ID         : n-Si29-inl-sig-lvldis-mon-einc8.890E+06_prodSi29_Schmidt_2001_22666.028
+#
+# Einc (eV)       :   8.8900E+06
+# dEinc (eV)      :   7.0500E+04
+#
+# npts            : 2           
+# xmin            :   1.2730E+06
+# xmax            :   3.0680E+06
+# ymin            :   1.1902E-01
+# ymax            :   2.2525E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2730E+06  0.0000E+00  2.2525E-01  1.5542E-02
+  3.0680E+06  0.0000E+00  1.1902E-01  1.3544E-02
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : 41362.002  
+# EXFOR Ver.      : 20000404
+# TRANS #         : 0000
+# Author          : N.V.Kornilov et al.
+# Reference       : Report (proceedings) ISINN-4 page 245, 1996
+# DOI             : N/A
+# Quantity        : 238U(n,el)238U angular differential cross section
+# REACTION        : 92-U-238(N,EL)92-U-238,,DA
+# File ID         : n-U238-el-adxl-excfun-mon-angl120_prodU238_Kornilov_1996_41362.002
+#
+# theta,lab (deg) :  120.0000000
+#
+# npts            : 4           
+# xmin            :   3.1200E+05
+# xmax            :   5.6900E+05
+# ymin            :   2.5700E-01
+# ymax            :   8.5500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.1200E+05  0.0000E+00  8.5500E-01  3.9000E-02
+  3.8700E+05  0.0000E+00  3.1300E-01  1.4000E-02
+  4.7400E+05  0.0000E+00  2.7400E-01  1.2000E-02
+  5.6900E+05  0.0000E+00  2.5700E-01  1.1000E-02
+#---------------------------------------------------

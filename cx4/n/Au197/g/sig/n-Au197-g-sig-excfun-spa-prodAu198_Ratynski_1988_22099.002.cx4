@@ -1,0 +1,22 @@
+# EXFOR #         : 22099.002  
+# EXFOR Ver.      : 20201207
+# TRANS #         : 2295
+# Author          : W.Ratynski et al.
+# Reference       : Phys.Rev.C 37 (1988) 595
+# DOI             : 10.1103/PhysRevC.37.595
+# Quantity        : 197Au(n,g)198Au cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198,,SIG,,SPA
+# File ID         : n-Au197-g-sig-excfun-spa-prodAu198_Ratynski_1988_22099.002
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   5.8600E-01
+# ymax            :   5.8600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  5.0000E+02  5.8600E-01  8.0000E-03
+#---------------------------------------------------

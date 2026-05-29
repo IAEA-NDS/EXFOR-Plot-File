@@ -1,0 +1,22 @@
+# EXFOR #         : 13061.002  
+# EXFOR Ver.      : 20200903
+# TRANS #         : 1473
+# Author          : K.M.Broom
+# Reference       : Phys.Rev. 126 (1962) 627
+# DOI             : 10.1103/PhysRev.126.627
+# Quantity        : 238U(n,f)140Ba cumulative fission product yield
+# REACTION        : 92-U-238(N,F)56-BA-140,CUM,FY
+# File ID         : n-U238-f-fyc-excfun-mon-prodBa140_Broom_1962_13061.002
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   4.3000E-02
+# ymax            :   4.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  1.4700E+07  4.0000E+05  4.3000E-02  4.0000E-03
+#---------------------------------------------------

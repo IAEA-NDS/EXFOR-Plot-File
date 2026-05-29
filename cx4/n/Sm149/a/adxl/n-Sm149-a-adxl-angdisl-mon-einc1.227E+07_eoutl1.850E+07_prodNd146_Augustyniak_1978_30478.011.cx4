@@ -1,0 +1,26 @@
+# EXFOR #         : 30478.011  
+# EXFOR Ver.      : 20211109
+# TRANS #         : 3206
+# Author          : W.Augustyniak et al.
+# Reference       : Progress report INR-1773 page 10, 1978
+# DOI             : N/A
+# Quantity        : 149Sm(n,a)146Nd partial angular differential cross section
+# REACTION        : 62-SM-149(N,A)60-ND-146,PAR,DA
+# File ID         : n-Sm149-a-adxl-angdisl-mon-einc1.227E+07_eoutl1.850E+07_prodNd146_Augustyniak_1978_30478.011
+#
+# Einc (eV)       :   1.2270E+07
+# Eout,lab (eV)   :   1.8500E+07
+# dEout,lab (eV)  :   3.5000E+06
+#
+# npts            : 1           
+# xmin            :   31.8000000
+# xmax            :   31.8000000
+# ymin            :   5.9000E-04
+# ymax            :   5.9000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  31.8000000   0.0000000  5.9000E-04  3.0000E-05
+#---------------------------------------------------

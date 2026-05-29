@@ -1,0 +1,25 @@
+# EXFOR #         : 22421.014  
+# EXFOR Ver.      : 20171108
+# TRANS #         : 2267
+# Author          : Eun Joo Kim et al.
+# Reference       : J.Nucl.Sci.Technol. 36 No.1 (1999) 29
+# DOI             : 10.1080/18811248.1999.9726179
+# Quantity        : natCu(n,x)56Co independent production cross section
+# REACTION        : 29-CU-0(N,X)27-CO-56,,SIG,,SPA
+# File ID         : n-Cu-x-sig-excfun-spa-prodCo56_Eun%Joo%Kim_1999_22421.014
+#
+# npts            : 4           
+# xmin            :   5.5000E+07
+# xmax            :   7.5000E+07
+# ymin            :   9.0900E-04
+# ymax            :   3.9800E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+07  1.4500E+06  1.2200E-03  1.2930E-04
+  5.5000E+07  1.4500E+06  9.0900E-04  1.4630E-04
+  6.1000E+07  1.3000E+06  3.0600E-03  6.0250E-04
+  7.5000E+07  1.7000E+06  3.9800E-03  9.5900E-04
+#---------------------------------------------------

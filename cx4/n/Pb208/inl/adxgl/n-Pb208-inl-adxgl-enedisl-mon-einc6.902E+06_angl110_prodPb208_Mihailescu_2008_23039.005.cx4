@@ -1,0 +1,32 @@
+# EXFOR #         : 23039.005  
+# EXFOR Ver.      : 20160106
+# TRANS #         : 2247
+# Author          : L.C.Mihailescu et al.
+# Reference       : Nucl.Phys.A 811 (2008) 1
+# DOI             : N/A
+# Quantity        : 208Pb(n,inl)208Pb partial gamma angular differential cross section
+# REACTION        : 82-PB-208(N,INL)82-PB-208,PAR,DA,G
+# File ID         : n-Pb208-inl-adxgl-enedisl-mon-einc6.902E+06_angl110_prodPb208_Mihailescu_2008_23039.005
+#
+# Einc (eV)       :   6.9016E+06
+# dEinc (eV)      :   2.0320E+04
+# theta,lab (deg) :  110.0000000
+#
+# npts            : 7           
+# xmin            :   7.6343E+05
+# xmax            :   1.4366E+06
+# ymin            :   3.3100E-03
+# ymax            :   9.5050E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.6343E+05  0.0000E+00  4.5080E-03  8.4700E-04
+  9.2765E+05  0.0000E+00  3.3100E-03  8.5700E-04
+  9.8271E+05  0.0000E+00  3.7870E-03  1.0950E-03
+  1.1262E+06  0.0000E+00  9.5050E-03  1.1840E-03
+  1.2259E+06  0.0000E+00  9.1150E-03  1.1450E-03
+  1.3809E+06  0.0000E+00  3.3540E-03  9.2700E-04
+  1.4366E+06  0.0000E+00  5.4130E-03  9.9400E-04
+#---------------------------------------------------

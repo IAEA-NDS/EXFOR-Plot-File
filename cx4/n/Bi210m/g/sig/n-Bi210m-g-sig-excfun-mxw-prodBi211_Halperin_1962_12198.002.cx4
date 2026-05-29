@@ -1,0 +1,22 @@
+# EXFOR #         : 12198.002  
+# EXFOR Ver.      : 20200116
+# TRANS #         : 1462
+# Author          : J.Halperin et al.
+# Reference       : Report ORNL-3320 page 2, 1962
+# DOI             : N/A
+# Quantity        : 210mBi(n,g)211Bi cross section
+# REACTION        : 83-BI-210-M(N,G)83-BI-211,,SIG,,MXW
+# File ID         : n-Bi210m-g-sig-excfun-mxw-prodBi211_Halperin_1962_12198.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   5.4000E-02
+# ymax            :   5.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  5.4000E-02  5.4000E-03
+#---------------------------------------------------

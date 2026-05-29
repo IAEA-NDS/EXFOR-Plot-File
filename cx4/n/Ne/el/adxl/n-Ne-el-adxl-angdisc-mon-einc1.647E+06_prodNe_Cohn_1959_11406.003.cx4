@@ -1,0 +1,27 @@
+# EXFOR #         : 11406.003  
+# EXFOR Ver.      : 19820813
+# TRANS #         : 0000
+# Author          : H.O.Cohn et al.
+# Reference       : Phys.Rev. 114 (1959) 194
+# DOI             : 10.1103/PhysRev.114.194
+# Quantity        : natNe(n,el)natNe angular differential cross section
+# REACTION        : 10-NE-0(N,EL),,DA
+# File ID         : n-Ne-el-adxl-angdisc-mon-einc1.647E+06_prodNe_Cohn_1959_11406.003
+#
+# Einc (eV)       :   1.6470E+06
+# dEinc (eV)      :   1.3000E+04
+#
+# npts            : 3           
+# xmin            :   54.5494500
+# xmax            :  125.4505000
+# ymin            :   4.3000E-02
+# ymax            :   3.5000E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  54.5494500   0.0000000  3.5000E-01  4.5000E-02
+  90.0000000   0.0000000  1.9000E-01  4.0000E-02
+ 125.4505000   0.0000000  4.3000E-02  4.5000E-02
+#---------------------------------------------------

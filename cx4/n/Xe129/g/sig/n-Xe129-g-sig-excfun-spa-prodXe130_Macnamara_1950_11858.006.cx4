@@ -1,0 +1,22 @@
+# EXFOR #         : 11858.006  
+# EXFOR Ver.      : 20080623
+# TRANS #         : 1349
+# Author          : J.Macnamara et al.
+# Reference       : Phys.Rev. 80 (1950) 296
+# DOI             : 10.1103/PhysRev.80.296
+# Quantity        : 129Xe(n,g)130Xe cross section
+# REACTION        : 54-XE-129(N,G)54-XE-130,,SIG,,SPA
+# File ID         : n-Xe129-g-sig-excfun-spa-prodXe130_Macnamara_1950_11858.006
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   4.5000E+01
+# ymax            :   4.5000E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  4.5000E+01  1.5000E+01
+#---------------------------------------------------

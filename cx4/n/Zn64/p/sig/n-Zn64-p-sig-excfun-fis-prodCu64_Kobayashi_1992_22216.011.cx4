@@ -1,0 +1,22 @@
+# EXFOR #         : 22216.011  
+# EXFOR Ver.      : 20101112
+# TRANS #         : 2224
+# Author          : K.Kobayashi et al.
+# Reference       : Report KURRI-AR-25 page 21, 1992
+# DOI             : N/A
+# Quantity        : 64Zn(n,p)64Cu cross section
+# REACTION        : 30-ZN-64(N,P)29-CU-64,,SIG,,FIS
+# File ID         : n-Zn64-p-sig-excfun-fis-prodCu64_Kobayashi_1992_22216.011
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.1680E-02
+# ymax            :   3.1680E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.1680E-02  1.8300E-03
+#---------------------------------------------------

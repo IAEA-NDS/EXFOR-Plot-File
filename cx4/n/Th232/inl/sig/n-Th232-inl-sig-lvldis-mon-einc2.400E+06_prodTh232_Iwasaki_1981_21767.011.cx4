@@ -1,0 +1,25 @@
+# EXFOR #         : 21767.011  
+# EXFOR Ver.      : 20211225
+# TRANS #         : 2306
+# Author          : T.Iwasaki et al.
+# Reference       : Progress report INDC(JAP)-62 page 68, 1981
+# DOI             : N/A
+# Quantity        : 232Th(n,inl)232Th partial cross section
+# REACTION        : 90-TH-232(N,INL)90-TH-232,PAR,SIG
+# File ID         : n-Th232-inl-sig-lvldis-mon-einc2.400E+06_prodTh232_Iwasaki_1981_21767.011
+#
+# Einc (eV)       :   2.4000E+06
+#
+# npts            : 2           
+# xmin            :   8.0000E+05
+# xmax            :   1.1500E+06
+# ymin            :   1.3800E-01
+# ymax            :   2.2000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+05  1.0000E+05  2.2000E-01  1.3000E-02
+  1.1500E+06  1.0000E+05  1.3800E-01  8.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : 30912.002  
+# EXFOR Ver.      : 20100826
+# TRANS #         : 3146
+# Author          : G.Engler et al.
+# Reference       : Z.Phys.A 314 (1983) 59
+# DOI             : 10.1007/BF01411830
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY
+# File ID         : n-U235-f-fyi-nucdis-mon-einc2.530E-02_Engler_1983_30912.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 4           
+# xmin            : 35088.9     
+# xmax            : 35091.9     
+# ymin            :   1.9000E-03
+# ymax            :   1.5600E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     35088.9  1.5600E-02  3.1000E-03
+     35089.9  1.2300E-02  2.5000E-03
+     35090.9  6.6000E-03  8.0000E-04
+     35091.9  1.9000E-03  6.0000E-04
+#---------------------------------------------------

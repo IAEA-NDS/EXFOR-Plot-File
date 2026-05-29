@@ -1,0 +1,22 @@
+# EXFOR #         : 22020.007  
+# EXFOR Ver.      : 19861212
+# TRANS #         : 0000
+# Author          : W.Mannhart
+# Reference       : Proceedings of 5th Symposium on Reactor Dosimetry, Geesthacht, 1984 2 page 813
+# DOI             : N/A
+# Quantity        : 48Ti(n,p)48Sc cross section
+# REACTION        : 22-TI-48(N,P)21-SC-48,,SIG,,FIS
+# File ID         : n-Ti48-p-sig-excfun-fis-prodSc48_Mannhart_1984_22020.007
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.0200E-04
+# ymax            :   3.0200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.0200E-04  1.0000E-05
+#---------------------------------------------------

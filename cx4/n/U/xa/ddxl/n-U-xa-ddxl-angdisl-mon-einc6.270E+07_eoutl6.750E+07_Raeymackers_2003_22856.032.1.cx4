@@ -1,0 +1,30 @@
+# EXFOR #         : 22856.032.1
+# EXFOR Ver.      : 20151025
+# TRANS #         : 2246
+# Author          : E.Raeymackers et al.
+# Reference       : Phys.Rev.C 68 (2003) 024604
+# DOI             : 10.1103/PhysRevC.68.024604
+# Quantity        : natU(n,a+x) double differential cross section
+# REACTION        : 92-U-0(N,X)2-HE-4,,DA/DE
+# File ID         : n-U-xa-ddxl-angdisl-mon-einc6.270E+07_eoutl6.750E+07_Raeymackers_2003_22856.032.1
+#
+# Einc (eV)       :   6.2700E+07
+# dEinc (eV)      :   2.5000E+06
+# Eout,lab (eV)   :   6.7500E+07
+#
+# npts            : 5           
+# xmin            :   20.0000000
+# xmax            :   60.0000000
+# ymin            :   2.0000E-12
+# ymax            :   4.6000E-11
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  20.0000000   0.0000000  4.6000E-11  9.0000E-12
+  30.0000000   0.0000000  1.9000E-11  5.0000E-12
+  40.0000000   0.0000000  3.0000E-12  3.0000E-12
+  50.0000000   0.0000000  4.0000E-12  3.0000E-12
+  60.0000000   0.0000000  2.0000E-12  2.0000E-12
+#---------------------------------------------------

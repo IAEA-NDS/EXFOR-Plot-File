@@ -1,0 +1,26 @@
+# EXFOR #         : 30640.002  
+# EXFOR Ver.      : 20090830
+# TRANS #         : 3140
+# Author          : J.Csikai
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Antwerp 1982 page 414
+# DOI             : N/A
+# Quantity        : 27Al(n,a)24Na cross section
+# REACTION        : 13-AL-27(N,A)11-NA-24,,SIG
+# File ID         : n-Al27-a-sig-excfun-mon-prodNa24_Csikai_1982_30640.002
+#
+# npts            : 5           
+# xmin            :   1.3500E+07
+# xmax            :   1.4780E+07
+# ymin            :   1.1320E-01
+# ymax            :   1.2830E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  0.0000E+00  1.2830E-01  2.6000E-03
+  1.3770E+07  0.0000E+00  1.2530E-01  2.5000E-03
+  1.4390E+07  0.0000E+00  1.1760E-01  2.4000E-03
+  1.4660E+07  0.0000E+00  1.1320E-01  2.3000E-03
+  1.4780E+07  0.0000E+00  1.1330E-01  2.3000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 40944.003  
+# EXFOR Ver.      : 20240208
+# TRANS #         : 4217
+# Author          : V.L.Demekhin et al.
+# Reference       : Proceedings of 36.Conf.Nucl.Spectrosc.and Nucl.Struct.,Kharkov 1986 page 94
+# DOI             : N/A
+# Quantity        : 197Au(n,g)198Au cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198,,SIG
+# File ID         : n-Au197-g-sig-excfun-mon-prodAu198_Demekhin_1986_40944.003
+#
+# npts            : 1           
+# xmin            :   2.7000E+06
+# xmax            :   2.7000E+06
+# ymin            :   3.3000E-02
+# ymax            :   3.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7000E+06  0.0000E+00  3.3000E-02  4.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 20198.013  
+# EXFOR Ver.      : 20140822
+# TRANS #         : 2240
+# Author          : W.Nagel
+# Reference       : Thesis  (1966)
+# DOI             : N/A
+# Quantity        : 65Cu(n,2n)64Cu cross section
+# REACTION        : 29-CU-65(N,2N)29-CU-64,,SIG
+# File ID         : n-Cu65-2n-sig-excfun-mon-prodCu64_Nagel_1966_20198.013
+#
+# npts            : 2           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   8.4000E-01
+# ymax            :   8.6600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  8.4000E-01  6.5000E-02
+  1.4200E+07  2.0000E+05  8.6600E-01  7.8000E-02
+#---------------------------------------------------

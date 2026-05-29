@@ -1,0 +1,24 @@
+# EXFOR #         : 32743.005  
+# EXFOR Ver.      : 20170517
+# TRANS #         : 3179
+# Author          : Junhua Luo et al.
+# Reference       : Radiat.Phys.Chem. 109 (2015) 63
+# DOI             : 10.1016/j.radphyschem.2014.12.014
+# Quantity        : 142Nd(n,p)142Pr cross section
+# REACTION        : 60-ND-142(N,P)59-PR-142,,SIG
+# File ID         : n-Nd142-p-sig-excfun-mon-prodPr142_Junhua%Luo_2015_32743.005
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   6.8000E-03
+# ymax            :   9.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  6.8000E-03  1.7000E-03
+  1.4100E+07  2.0000E+05  8.5000E-03  1.9000E-03
+  1.4800E+07  2.0000E+05  9.5000E-03  1.8000E-03
+#---------------------------------------------------

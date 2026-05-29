@@ -1,0 +1,22 @@
+# EXFOR #         : 21724.005  
+# EXFOR Ver.      : 20200803
+# TRANS #         : 2290
+# Author          : C.Wagemans et al.
+# Reference       : Nucl.Phys.A 362 (1981) 1
+# DOI             : N/A
+# Quantity        : 238U(n,a)235Th cross section
+# REACTION        : 92-U-238(N,A)90-TH-235,,SIG,,MXW
+# File ID         : n-U238-a-sig-excfun-mxw-prodTh235_Wagemans_1981_21724.005
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.5000E-06
+# ymax            :   1.5000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.5000E-06  5.0000E-07
+#---------------------------------------------------

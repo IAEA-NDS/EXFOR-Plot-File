@@ -1,0 +1,26 @@
+# EXFOR #         : 10277.030  
+# EXFOR Ver.      : 20011227
+# TRANS #         : 0000
+# Author          : P.Lambropoulos et al.
+# Reference       : Nucl.Phys.A 201 (1973) 1
+# DOI             : N/A
+# Quantity        : 100Mo(n,inl)100Mo partial cross section
+# REACTION        : 42-MO-100(N,INL)42-MO-100,PAR,SIG
+# File ID         : n-Mo100-inl-sig-excfun-mon-elvl1.147E+06_prodMo100_Lambropoulos_1973_10277.030
+#
+# Elvl (eV)       :   1.1470E+06
+# dElvl (eV)      :   1.0000E+04
+#
+# npts            : 2           
+# xmin            :   1.4450E+06
+# xmax            :   1.4950E+06
+# ymin            :   2.2390E-01
+# ymax            :   2.7310E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4450E+06  1.0000E+04  2.7310E-01  6.8290E-02
+  1.4950E+06  1.0000E+04  2.2390E-01  4.4790E-02
+#---------------------------------------------------

@@ -1,0 +1,30 @@
+# EXFOR #         : 32523.002  
+# EXFOR Ver.      : 20100328
+# TRANS #         : 3147
+# Author          : Wan Dairong et al.
+# Reference       : Private communication  (1991)
+# DOI             : N/A
+# Quantity        : natZr(n,el)natZr angular differential cross section
+# REACTION        : 40-ZR-0(N,EL)40-ZR-0,,DA
+# File ID         : n-Zr-el-adxl-angdisl-mon-einc1.470E+07_prodZr_Wan%Dairong_1991_32523.002
+#
+# Einc (eV)       :   1.4700E+07
+#
+# npts            : 7           
+# xmin            :    3.6000000
+# xmax            :   14.0000000
+# ymin            :   2.8500E+00
+# ymax            :   6.4200E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   3.6000000   0.0000000  6.4200E+00  3.9000E-01
+   5.0000000   0.0000000  6.0200E+00  4.0000E-01
+   6.7200000   0.0000000  5.3700E+00  3.4000E-01
+   8.5100000   0.0000000  4.9200E+00  3.1000E-01
+  10.3000000   0.0000000  4.4600E+00  2.8000E-01
+  12.0000000   0.0000000  3.7400E+00  2.4000E-01
+  14.0000000   0.0000000  2.8500E+00  1.8000E-01
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 40455.002  
+# EXFOR Ver.      : 20220722
+# TRANS #         : 4208
+# Author          : V.P.Perelygin et al.
+# Reference       : Sov.At.Energy 9 (1961) 1028
+# DOI             : 10.1007/BF01487464
+# Quantity        : 6Li(n,t)4He cross section
+# REACTION        : 3-LI-6(N,T)2-HE-4,,SIG
+# File ID         : n-Li6-t-sig-excfun-mon-prodHe4_Perelygin_1961_40455.002
+#
+# npts            : 1           
+# xmin            :   2.1500E+06
+# xmax            :   2.1500E+06
+# ymin            :   2.1500E-01
+# ymax            :   2.1500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1500E+06  1.0000E+05  2.1500E-01  3.0000E-02
+#---------------------------------------------------

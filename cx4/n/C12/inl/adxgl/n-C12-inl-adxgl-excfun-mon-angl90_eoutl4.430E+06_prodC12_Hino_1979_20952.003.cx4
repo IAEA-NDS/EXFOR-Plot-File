@@ -1,0 +1,30 @@
+# EXFOR #         : 20952.003  
+# EXFOR Ver.      : 19791018
+# TRANS #         : 0000
+# Author          : Y.Hino et al.
+# Reference       : Report NETU-34, 1979
+# DOI             : N/A
+# Quantity        : 12C(n,inl)12C partial gamma angular differential cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,DA,G
+# File ID         : n-C12-inl-adxgl-excfun-mon-angl90_eoutl4.430E+06_prodC12_Hino_1979_20952.003
+#
+# theta,lab (deg) :   90.0000000
+# Eout,lab (eV)   :   4.4300E+06
+#
+# npts            : 6           
+# xmin            :   1.3000E+07
+# xmax            :   1.5000E+07
+# ymin            :   1.1000E-02
+# ymax            :   1.2500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.3000E+07  2.0000E+05  1.2100E-02  1.9000E-03
+  1.3500E+07  2.0000E+05  1.1800E-02  1.8000E-03
+  1.3500E+07  2.0000E+05  1.2400E-02  1.5000E-03
+  1.4000E+07  2.0000E+05  1.2500E-02  1.5000E-03
+  1.4500E+07  2.0000E+05  1.2400E-02  1.5000E-03
+  1.5000E+07  2.0000E+05  1.1000E-02  1.3000E-03
+#---------------------------------------------------

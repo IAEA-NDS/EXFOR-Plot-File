@@ -1,0 +1,25 @@
+# EXFOR #         : 40605.009  
+# EXFOR Ver.      : 20211201
+# TRANS #         : 4201
+# Author          : Vo Kim Tkhan et al.
+# Reference       : Proceedings of 29.Conf.on Nucl.Spectr.and Nucl.Struct.,Riga 1979 page 294
+# DOI             : N/A
+# Quantity        : 123Te(n,a)120Sn partial cross section
+# REACTION        : 52-TE-123(N,A)50-SN-120,PAR,SIG,,AV
+# File ID         : n-Te123-a-sig-excfun-mon-elvl0.000E+00_prodSn120_Vo%Kim%Tkhan_1979_40605.009
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :   8.7500E+02
+# xmax            :   1.8750E+03
+# ymin            :   4.0000E-05
+# ymax            :   8.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.7500E+02  3.7500E+02  8.0000E-05  3.0000E-05
+  1.8750E+03  6.2500E+02  4.0000E-05  1.5000E-05
+#---------------------------------------------------

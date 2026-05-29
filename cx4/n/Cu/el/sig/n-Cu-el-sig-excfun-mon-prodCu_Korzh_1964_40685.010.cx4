@@ -1,0 +1,23 @@
+# EXFOR #         : 40685.010  
+# EXFOR Ver.      : 20231010
+# TRANS #         : 4215
+# Author          : I.A.Korzh
+# Reference       : Sov.At.Energy 16 (1964) 312
+# DOI             : 10.1007/BF01122981
+# Quantity        : natCu(n,el)natCu cross section
+# REACTION        : 29-CU-0(N,EL)29-CU-0,,SIG
+# File ID         : n-Cu-el-sig-excfun-mon-prodCu_Korzh_1964_40685.010
+#
+# npts            : 2           
+# xmin            :   5.0000E+05
+# xmax            :   8.0000E+05
+# ymin            :   3.6200E+00
+# ymax            :   4.2200E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+05  5.0000E+04  4.2200E+00  1.2000E-01
+  8.0000E+05  5.0000E+04  3.6200E+00  1.0000E-01
+#---------------------------------------------------

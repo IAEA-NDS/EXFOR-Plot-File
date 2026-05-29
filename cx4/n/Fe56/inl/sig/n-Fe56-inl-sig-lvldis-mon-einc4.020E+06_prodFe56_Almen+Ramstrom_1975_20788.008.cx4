@@ -1,0 +1,26 @@
+# EXFOR #         : 20788.008  
+# EXFOR Ver.      : 20120731
+# TRANS #         : 2232
+# Author          : E.Almen-Ramstrom
+# Reference       : Report AE-503, 1975
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe partial cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG
+# File ID         : n-Fe56-inl-sig-lvldis-mon-einc4.020E+06_prodFe56_Almen+Ramstrom_1975_20788.008
+#
+# Einc (eV)       :   4.0200E+06
+#
+# npts            : 3           
+# xmin            :   8.4500E+05
+# xmax            :   2.6580E+06
+# ymin            :   1.3100E-01
+# ymax            :   4.4300E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.4500E+05  0.0000E+00  4.4300E-01  6.6000E-02
+  2.0850E+06  0.0000E+00  1.3100E-01  2.0000E-02
+  2.6580E+06  0.0000E+00  1.5000E-01  2.3000E-02
+#---------------------------------------------------

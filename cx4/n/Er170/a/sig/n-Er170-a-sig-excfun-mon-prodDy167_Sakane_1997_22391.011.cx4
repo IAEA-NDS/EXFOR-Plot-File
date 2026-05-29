@@ -1,0 +1,26 @@
+# EXFOR #         : 22391.011  
+# EXFOR Ver.      : 19980720
+# TRANS #         : 0000
+# Author          : H.Sakane et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 619
+# DOI             : N/A
+# Quantity        : 170Er(n,a)167Dy cross section
+# REACTION        : 68-ER-170(N,A)66-DY-167,,SIG
+# File ID         : n-Er170-a-sig-excfun-mon-prodDy167_Sakane_1997_22391.011
+#
+# npts            : 5           
+# xmin            :   1.3400E+07
+# xmax            :   1.4870E+07
+# ymin            :   5.8000E-04
+# ymax            :   1.5400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3400E+07  5.0000E+04  5.8000E-04  1.6000E-04
+  1.3650E+07  5.0000E+04  7.8000E-04  1.6000E-04
+  1.4280E+07  5.0000E+04  1.1100E-03  3.2000E-04
+  1.4580E+07  5.0000E+04  1.2100E-03  2.7000E-04
+  1.4870E+07  5.0000E+04  1.5400E-03  3.1000E-04
+#---------------------------------------------------

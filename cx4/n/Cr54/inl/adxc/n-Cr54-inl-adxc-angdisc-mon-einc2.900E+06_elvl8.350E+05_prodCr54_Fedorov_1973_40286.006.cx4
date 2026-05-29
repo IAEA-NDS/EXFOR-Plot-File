@@ -1,0 +1,32 @@
+# EXFOR #         : 40286.006  
+# EXFOR Ver.      : 20220712
+# TRANS #         : 4207
+# Author          : M.B.Fedorov et al.
+# Reference       : Proceedings of 2.Conf.on Neutron Physics, Kiev 1973 3 page 56
+# DOI             : N/A
+# Quantity        : 54Cr(n,inl)54Cr partial angular differential cross section
+# REACTION        : 24-CR-54(N,INL)24-CR-54,PAR,DA
+# File ID         : n-Cr54-inl-adxc-angdisc-mon-einc2.900E+06_elvl8.350E+05_prodCr54_Fedorov_1973_40286.006
+#
+# Einc (eV)       :   2.9000E+06
+# dEinc (eV)      :   1.0000E+05
+# Elvl (eV)       :   8.3500E+05
+#
+# npts            : 7           
+# xmin            :   30.0000000
+# xmax            :  120.0000000
+# ymin            :   3.7000E-02
+# ymax            :   6.6000E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  5.6000E-02  8.0000E-03
+  45.0000000   0.0000000  6.5000E-02  9.0000E-03
+  60.0000000   0.0000000  3.7000E-02  3.0000E-03
+  75.0000000   0.0000000  4.8000E-02  6.0000E-03
+  90.0000000   0.0000000  6.0000E-02  4.0000E-03
+ 105.0000000   0.0000000  5.3000E-02  1.3000E-02
+ 120.0000000   0.0000000  6.6000E-02  1.3000E-02
+#---------------------------------------------------

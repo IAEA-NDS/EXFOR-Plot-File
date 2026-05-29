@@ -1,0 +1,22 @@
+# EXFOR #         : 11718.004  
+# EXFOR Ver.      : 20140413
+# TRANS #         : 1401
+# Author          : D.M.Chittenden Ii et al.
+# Reference       : Phys.Rev. 122 (1961) 860
+# DOI             : 10.1103/PhysRev.122.860
+# Quantity        : 54Fe(n,2n)53gFe cumulative production cross section
+# REACTION        : 26-FE-54(N,2N)26-FE-53-G,(M),SIG
+# File ID         : n-Fe54-x-sigc-excfun-mon-prodFe53g_Chittenden%Ii_1961_11718.004
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   7.9000E-03
+# ymax            :   7.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  9.0000E+05  7.9000E-03  8.0000E-04
+#---------------------------------------------------

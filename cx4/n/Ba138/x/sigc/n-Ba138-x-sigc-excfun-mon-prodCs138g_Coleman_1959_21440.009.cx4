@@ -1,0 +1,22 @@
+# EXFOR #         : 21440.009  
+# EXFOR Ver.      : 20131222
+# TRANS #         : 2238
+# Author          : R.F.Coleman et al.
+# Reference       : Proc.Phys.Soc.(UK) 73 (1959) 215
+# DOI             : 10.1088/0370-1328/73/2/308
+# Quantity        : 138Ba(n,p)138gCs cumulative production cross section
+# REACTION        : 56-BA-138(N,P)55-CS-138-G,(M),SIG
+# File ID         : n-Ba138-x-sigc-excfun-mon-prodCs138g_Coleman_1959_21440.009
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   2.2000E-03
+# ymax            :   2.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  0.0000E+00  2.2000E-03  3.3000E-04
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 10757.006.2
+# EXFOR Ver.      : 20100322
+# TRANS #         : 1360
+# Author          : D.L.Smith et al.
+# Reference       : Report ANL-NDM-37, 1977
+# DOI             : N/A
+# Quantity        : 204Pb(n,inl)204Pb partial gamma angular differential cross section
+# REACTION        : 82-PB-204(N,INL)82-PB-204,PAR,DA,G,4PI
+# File ID         : n-Pb204-inl-adxgl-excfun-mon-angl125_eoutl1.762E+06_prodPb204_Smith_1977_10757.006.2
+#
+# theta,lab (deg) :  125.0000000
+# Eout,lab (eV)   :   1.7619E+06
+#
+# npts            : 2           
+# xmin            :   2.4950E+06
+# xmax            :   2.9990E+06
+# ymin            :   4.1826E-03
+# ymax            :   4.7468E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.4950E+06  1.1100E+05  4.7468E-03  0.0000E+00
+  2.9990E+06  1.0200E+05  4.1826E-03  0.0000E+00
+#---------------------------------------------------

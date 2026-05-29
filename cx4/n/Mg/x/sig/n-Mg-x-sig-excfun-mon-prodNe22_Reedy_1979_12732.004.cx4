@@ -1,0 +1,23 @@
+# EXFOR #         : 12732.004  
+# EXFOR Ver.      : 19861023
+# TRANS #         : 0000
+# Author          : R.C.Reedy et al.
+# Reference       : Earth Plan.Sci.Lett. 44 (1979) 341
+# DOI             : 10.1016/0012-821X(79)90182-1
+# Quantity        : natMg(n,x)22Ne independent production cross section
+# REACTION        : 12-MG-0(N,X)10-NE-22,,SIG
+# File ID         : n-Mg-x-sig-excfun-mon-prodNe22_Reedy_1979_12732.004
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4700E+07
+# ymin            :   1.1000E-02
+# ymax            :   1.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  5.0000E+04  1.1000E-02  3.3000E-03
+  1.4700E+07  2.5000E+05  1.3000E-02  2.0000E-03
+#---------------------------------------------------

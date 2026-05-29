@@ -1,0 +1,27 @@
+# EXFOR #         : 10469.009  
+# EXFOR Ver.      : 19820219
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4907, 1974
+# DOI             : N/A
+# Quantity        : 54Fe(n,inl)54Fe partial angular differential cross section
+# REACTION        : 26-FE-54(N,INL)26-FE-54,PAR,DA
+# File ID         : n-Fe54-inl-adxl-angdisc-mon-einc5.500E+06_elvl3.160E+06_prodFe54_Kinney_1974_10469.009
+#
+# Einc (eV)       :   5.5000E+06
+# dEinc (eV)      :   9.0000E+04
+# Elvl (eV)       :   3.1600E+06
+#
+# npts            : 2           
+# xmin            :   91.6600000
+# xmax            :   99.1400000
+# ymin            :   7.1300E-03
+# ymax            :   8.5600E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  91.6600000   0.0000000  8.5600E-03  0.0000E+00
+  99.1400000   0.0000000  7.1300E-03  0.0000E+00
+#---------------------------------------------------

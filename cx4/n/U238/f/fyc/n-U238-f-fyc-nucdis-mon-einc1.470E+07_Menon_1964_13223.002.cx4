@@ -1,0 +1,27 @@
+# EXFOR #         : 13223.002  
+# EXFOR Ver.      : 20120712
+# TRANS #         : 1384
+# Author          : M.P.Menon et al.
+# Reference       : J.Inorg.Nucl.Chem. 26 (1964) 401
+# DOI             : 10.1016/0022-1902(64)90003-X
+# Quantity        : 238U(n,f) cumulative fission product yield
+# REACTION        : 92-U-238(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-U238-f-fyc-nucdis-mon-einc1.470E+07_Menon_1964_13223.002
+#
+# Einc (eV)       :   1.4700E+07
+#
+# npts            : 4           
+# xmin            : 58141.9     
+# xmax            : 61147.9     
+# ymin            :   2.3000E-02
+# ymax            :   4.3000E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     58141.9  3.9000E-02  4.0000E-03
+     58143.9  4.3000E-02  5.0000E-03
+     58144.9  4.0000E-02  2.0000E-02
+     61147.9  2.3000E-02  3.0000E-03
+#---------------------------------------------------

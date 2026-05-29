@@ -1,0 +1,23 @@
+# EXFOR #         : 32737.005  
+# EXFOR Ver.      : 20161109
+# TRANS #         : 3177
+# Author          : Zhimin Wang et al.
+# Reference       : Phys.Rev.C 92 (2015) 044601
+# DOI             : 10.1103/PhysRevC.92.044601
+# Quantity        : 54Fe(n,a)51Cr cross section
+# REACTION        : 26-FE-54(N,A)24-CR-51,,SIG
+# File ID         : n-Fe54-a-sig-excfun-mon-prodCr51_Zhimin%Wang_2015_32737.005
+#
+# npts            : 2           
+# xmin            :   5.5000E+06
+# xmax            :   6.5000E+06
+# ymin            :   3.2100E-03
+# ymax            :   1.2860E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+06  1.4000E+05  3.2100E-03  3.8000E-04
+  6.5000E+06  1.0000E+05  1.2860E-02  1.1300E-03
+#---------------------------------------------------

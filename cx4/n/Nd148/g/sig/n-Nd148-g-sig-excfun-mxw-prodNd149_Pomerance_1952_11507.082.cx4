@@ -1,0 +1,22 @@
+# EXFOR #         : 11507.082  
+# EXFOR Ver.      : 20190830
+# TRANS #         : 1459
+# Author          : H.Pomerance
+# Reference       : Phys.Rev. 88 (1952) 412
+# DOI             : 10.1103/PhysRev.88.412
+# Quantity        : 148Nd(n,g)149Nd cross section
+# REACTION        : 60-ND-148(N,G)60-ND-149,,SIG,,MXW
+# File ID         : n-Nd148-g-sig-excfun-mxw-prodNd149_Pomerance_1952_11507.082
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.3000E+00
+# ymax            :   3.3000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.3000E+00  9.9000E-01
+#---------------------------------------------------

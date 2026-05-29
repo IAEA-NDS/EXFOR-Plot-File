@@ -1,0 +1,29 @@
+# EXFOR #         : 21702.002  
+# EXFOR Ver.      : 20121109
+# TRANS #         : 2234
+# Author          : U.Abbondanno et al.
+# Reference       : Nucl.Phys.A 345 No.1 (1980) 174
+# DOI             : 10.1016/0375-9474(80)90417-0
+# Quantity        : 59Co(n,inl)59Co partial gamma angular differential cross section
+# REACTION        : 27-CO-59(N,INL)27-CO-59,PAR,DA,G
+# File ID         : n-Co59-inl-adxgl-excfun-mon-angl90_eoutl3.014E+06_prodCo59_Abbondanno_1980_21702.002
+#
+# theta,lab (deg) :   90.0000000
+# Eout,lab (eV)   :   3.0138E+06
+# dEout,lab (eV)  :   1.0900E+03
+#
+# npts            : 4           
+# xmin            :   3.3000E+06
+# xmax            :   3.9000E+06
+# ymin            :   4.0000E-04
+# ymax            :   1.5300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.3000E+06  3.0000E+04  5.6000E-04  1.1000E-04
+  3.5000E+06  3.0000E+04  4.0000E-04  1.3000E-04
+  3.7000E+06  3.0000E+04  9.0000E-04  2.0000E-04
+  3.9000E+06  3.0000E+04  1.5300E-03  1.5000E-04
+#---------------------------------------------------

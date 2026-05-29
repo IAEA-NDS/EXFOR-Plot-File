@@ -1,0 +1,22 @@
+# EXFOR #         : 20992.004  
+# EXFOR Ver.      : 20041221
+# TRANS #         : 0000
+# Author          : T.Sekine et al.
+# Reference       : J.Inorg.Nucl.Chem. 40 (1978) 1977
+# DOI             : 10.1016/0022-1902(78)80184-5
+# Quantity        : 58Ni(n,2n)57Ni cross section
+# REACTION        : 28-NI-58(N,2N)28-NI-57,,SIG,,FIS
+# File ID         : n-Ni58-2n-sig-excfun-fis-prodNi57_Sekine_1978_20992.004
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.8000E-06
+# ymax            :   3.8000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.8000E-06  5.0000E-07
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : 20403.011  
+# EXFOR Ver.      : 20180821
+# TRANS #         : 2270
+# Author          : D.Porter et al.
+# Reference       : Report AWRE-O-45/70, 1970
+# DOI             : N/A
+# Quantity        : 10B(n,inl)10B partial angular differential cross section
+# REACTION        : 5-B-10(N,INL)5-B-10,PAR,DA
+# File ID         : n-B10-inl-adxc-angdisc-mon-einc4.823E+06_elvl1.740E+06_prodB10_Porter_1970_20403.011
+#
+# Einc (eV)       :   4.8230E+06
+# dEinc (eV)      :   9.8000E+04
+# Elvl (eV)       :   1.7400E+06
+#
+# npts            : 2           
+# xmin            :   32.8598800
+# xmax            :  110.6096000
+# ymin            :   4.0000E-04
+# ymax            :   8.0000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 110.6096000   0.0000000  8.0000E-04  2.0000E-04
+  32.8598800   0.0000000  4.0000E-04  2.0000E-04
+#---------------------------------------------------

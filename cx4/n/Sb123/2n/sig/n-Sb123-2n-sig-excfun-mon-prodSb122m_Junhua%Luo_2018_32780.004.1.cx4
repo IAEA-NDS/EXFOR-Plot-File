@@ -1,0 +1,24 @@
+# EXFOR #         : 32780.004.1
+# EXFOR Ver.      : 20200217
+# TRANS #         : 3195
+# Author          : Junhua Luo et al.
+# Reference       : Appl.Radiat.Isot. 140 (2018) 115
+# DOI             : 10.1016/j.apradiso.2018.07.003
+# Quantity        : 123Sb(n,2n)122mSb cross section
+# REACTION        : 51-SB-123(N,2N)51-SB-122-M,,SIG,,AV
+# File ID         : n-Sb123-2n-sig-excfun-mon-prodSb122m_Junhua%Luo_2018_32780.004.1
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   4.9600E-01
+# ymax            :   5.9000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  2.0000E+05  4.9600E-01  5.2000E-02
+  1.4100E+07  2.0000E+05  5.5400E-01  5.4000E-02
+  1.4800E+07  2.0000E+05  5.9000E-01  6.2000E-02
+#---------------------------------------------------

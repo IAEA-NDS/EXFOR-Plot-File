@@ -1,0 +1,26 @@
+# EXFOR #         : 23105.009  
+# EXFOR Ver.      : 20170828
+# TRANS #         : 2265
+# Author          : H.Yashima et al.
+# Reference       : Nucl.Sci.Techn.Supp. 4 (2004) 70
+# DOI             : N/A
+# Quantity        : natSi(n,x)29Al independent production cross section
+# REACTION        : 14-SI-0(N,X)13-AL-29,,SIG
+# File ID         : n-Si-x-sig-excfun-mon-prodAl29_Yashima_2004_23105.009
+#
+# npts            : 5           
+# xmin            :   2.7000E+07
+# xmax            :   6.6000E+07
+# ymin            :   3.9900E-03
+# ymax            :   7.3900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7000E+07  0.0000E+00  7.3900E-03  1.1500E-03
+  3.1000E+07  0.0000E+00  6.4900E-03  1.4100E-03
+  3.7000E+07  0.0000E+00  4.3800E-03  4.5000E-04
+  5.6000E+07  0.0000E+00  4.2200E-03  9.2000E-04
+  6.6000E+07  0.0000E+00  3.9900E-03  8.3000E-04
+#---------------------------------------------------

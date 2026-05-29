@@ -1,0 +1,28 @@
+# EXFOR #         : 10106.003  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4516, 1970
+# DOI             : N/A
+# Quantity        : 27Al(n,inl)27Al partial angular differential cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,DA
+# File ID         : n-Al27-inl-adxl-angdisc-mon-einc6.000E+06_elvl4.610E+06_prodAl27_Kinney_1970_10106.003
+#
+# Einc (eV)       :   6.0000E+06
+# dEinc (eV)      :   1.3000E+05
+# Elvl (eV)       :   4.6100E+06
+# dElvl (eV)      :   2.0100E+05
+#
+# npts            : 2           
+# xmin            :   56.2100000
+# xmax            :  122.0400000
+# ymin            :   5.5600E-03
+# ymax            :   9.0800E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  56.2100000   0.0000000  9.0800E-03  0.0000E+00
+ 122.0400000   0.0000000  5.5600E-03  0.0000E+00
+#---------------------------------------------------

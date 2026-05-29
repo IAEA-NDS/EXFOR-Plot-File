@@ -1,0 +1,24 @@
+# EXFOR #         : 30043.004  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : B.Antolkovic et al.
+# Reference       : Phys.Lett. 23 (1966) 477
+# DOI             : 10.1016/0031-9163(66)90781-5
+# Quantity        : 3He(n,d)2H angular differential cross section
+# REACTION        : 2-HE-3(N,D)1-H-2,,DA
+# File ID         : n-He3-d-adxl-angdisl-mon-einc1.440E+07_prodH2_Antolkovic_1966_30043.004
+#
+# Einc (eV)       :   1.4400E+07
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   2.2800E-01
+# ymax            :   2.2800E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   4.6000000  2.2800E-01  2.3000E-02
+#---------------------------------------------------

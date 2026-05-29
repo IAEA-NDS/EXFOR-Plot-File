@@ -1,0 +1,22 @@
+# EXFOR #         : 21612.005  
+# EXFOR Ver.      : 20140822
+# TRANS #         : 2240
+# Author          : L.Hannappel et al.
+# Reference       : Nucl.Intrum.Meth. 167 (1979) 289
+# DOI             : 10.1016/0029-554X(79)90017-X
+# Quantity        : 209Bi(n,2n)208lBi cross section
+# REACTION        : 83-BI-209(N,2N)83-BI-208-L,,SIG
+# File ID         : n-Bi209-2n-sig-excfun-mon-prodBi208l_Hannappel_1979_21612.005
+#
+# npts            : 1           
+# xmin            :   1.4900E+07
+# xmax            :   1.4900E+07
+# ymin            :   4.2000E-01
+# ymax            :   4.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4900E+07  2.0000E+05  4.2000E-01  6.3000E-03
+#---------------------------------------------------

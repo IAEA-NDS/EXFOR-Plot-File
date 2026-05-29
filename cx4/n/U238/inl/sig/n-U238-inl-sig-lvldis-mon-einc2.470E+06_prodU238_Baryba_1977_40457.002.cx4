@@ -1,0 +1,25 @@
+# EXFOR #         : 40457.002  
+# EXFOR Ver.      : 20210220
+# TRANS #         : 4195
+# Author          : V.Ya.Baryba et al.
+# Reference       : At.En. 43 (1977) 266
+# DOI             : N/A
+# Quantity        : 238U(n,inl)238U partial cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,SIG
+# File ID         : n-U238-inl-sig-lvldis-mon-einc2.470E+06_prodU238_Baryba_1977_40457.002
+#
+# Einc (eV)       :   2.4700E+06
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   1.1250E+06
+# xmax            :   1.1250E+06
+# ymin            :   3.8000E-01
+# ymax            :   3.8000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1250E+06  2.2500E+05  3.8000E-01  2.5000E-02
+#---------------------------------------------------

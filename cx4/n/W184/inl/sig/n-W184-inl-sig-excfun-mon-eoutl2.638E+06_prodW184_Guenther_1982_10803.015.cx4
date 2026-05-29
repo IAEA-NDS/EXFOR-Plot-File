@@ -1,0 +1,25 @@
+# EXFOR #         : 10803.015  
+# EXFOR Ver.      : 20080723
+# TRANS #         : 1348
+# Author          : P.T.Guenther et al.
+# Reference       : Phys.Rev.C 26 (1982) 2433
+# DOI             : 10.1103/PhysRevC.26.2433
+# Quantity        : 184W(n,inl)184W partial cross section
+# REACTION        : 74-W-184(N,INL)74-W-184,PAR,SIG
+# File ID         : n-W184-inl-sig-excfun-mon-eoutl2.638E+06_prodW184_Guenther_1982_10803.015
+#
+# Eout,lab (eV)   :   2.6380E+06
+#
+# npts            : 2           
+# xmin            :   3.7000E+06
+# xmax            :   3.9000E+06
+# ymin            :   8.0000E-02
+# ymax            :   1.0200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+06  0.0000E+00  8.0000E-02  4.0000E-02
+  3.9000E+06  0.0000E+00  1.0200E-01  4.0000E-02
+#---------------------------------------------------

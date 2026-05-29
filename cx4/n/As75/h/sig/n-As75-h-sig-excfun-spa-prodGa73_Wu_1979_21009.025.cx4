@@ -1,0 +1,22 @@
+# EXFOR #         : 21009.025  
+# EXFOR Ver.      : 20170201
+# TRANS #         : 2259
+# Author          : C.H.Wu et al.
+# Reference       : Nucl.Phys.A 329 (1979) 63
+# DOI             : 10.1016/0375-9474(79)90280-X
+# Quantity        : 75As(n,he3)73Ga cross section
+# REACTION        : 33-AS-75(N,HE3)31-GA-73,,SIG,,SPA
+# File ID         : n-As75-h-sig-excfun-spa-prodGa73_Wu_1979_21009.025
+#
+# npts            : 1           
+# xmin            :   2.2500E+07
+# xmax            :   2.2500E+07
+# ymin            :   4.8000E-04
+# ymax            :   4.8000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2500E+07  7.9000E+06  4.8000E-04  2.0000E-04
+#---------------------------------------------------

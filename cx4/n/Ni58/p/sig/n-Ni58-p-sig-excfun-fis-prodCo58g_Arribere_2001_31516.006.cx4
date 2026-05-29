@@ -1,0 +1,22 @@
+# EXFOR #         : 31516.006  
+# EXFOR Ver.      : 20020213
+# TRANS #         : 0000
+# Author          : M.A.Arribere et al.
+# Reference       : Nucl.Sci.Eng. 139 (2001) 24
+# DOI             : 10.13182/NSE01-A2219
+# Quantity        : 58Ni(n,p)58gCo cross section
+# REACTION        : 28-NI-58(N,P)27-CO-58-G,,SIG,,FIS
+# File ID         : n-Ni58-p-sig-excfun-fis-prodCo58g_Arribere_2001_31516.006
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   7.4770E-02
+# ymax            :   7.4770E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  7.4770E-02  2.3000E-03
+#---------------------------------------------------

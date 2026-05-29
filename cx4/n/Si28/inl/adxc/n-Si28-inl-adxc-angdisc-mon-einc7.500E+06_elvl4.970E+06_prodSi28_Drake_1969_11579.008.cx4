@@ -1,0 +1,28 @@
+# EXFOR #         : 11579.008  
+# EXFOR Ver.      : 19830412
+# TRANS #         : 0000
+# Author          : D.M.Drake et al.
+# Reference       : Nucl.Phys.A 128 (1969) 209
+# DOI             : 10.1016/0375-9474(69)90986-5
+# Quantity        : 28Si(n,inl)28Si partial angular differential cross section
+# REACTION        : 14-SI-28(N,INL)14-SI-28,PAR,DA
+# File ID         : n-Si28-inl-adxc-angdisc-mon-einc7.500E+06_elvl4.970E+06_prodSi28_Drake_1969_11579.008
+#
+# Einc (eV)       :   7.5000E+06
+# dEinc (eV)      :   1.6000E+05
+# Elvl (eV)       :   4.9700E+06
+#
+# npts            : 3           
+# xmin            :   57.9945400
+# xmax            :  137.5613000
+# ymin            :   2.6000E-03
+# ymax            :   4.4000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  57.9945400   0.0000000  3.0000E-03  9.0000E-04
+  93.6694300   0.0000000  2.6000E-03  7.0000E-04
+ 137.5613000   0.0000000  4.4000E-03  1.2000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 20806.010  
+# EXFOR Ver.      : 20230130
+# TRANS #         : 2313
+# Author          : V.Giordano et al.
+# Reference       : Nucl.Phys.A 302 (1978) 83
+# DOI             : 10.1016/0375-9474(78)90288-9
+# Quantity        : natHg(n,tot) cross section
+# REACTION        : 80-HG-0(N,TOT),,SIG
+# File ID         : n-Hg-tot-sig-excfun-mon-Giordano_1978_20806.010
+#
+# npts            : 1           
+# xmin            :   2.5000E+06
+# xmax            :   2.5000E+06
+# ymin            :   7.1300E+00
+# ymax            :   7.1300E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  5.0000E+05  7.1300E+00  3.0000E-02
+#---------------------------------------------------

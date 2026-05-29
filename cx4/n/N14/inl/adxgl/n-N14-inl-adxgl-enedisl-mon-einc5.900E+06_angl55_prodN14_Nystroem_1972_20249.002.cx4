@@ -1,0 +1,29 @@
+# EXFOR #         : 20249.002  
+# EXFOR Ver.      : 20190117
+# TRANS #         : 2274
+# Author          : G.Nystroem et al.
+# Reference       : Phys.Scr. 5 (1972) 175
+# DOI             : 10.1088/0031-8949/5/4-5/006
+# Quantity        : 14N(n,inl)14N partial gamma angular differential cross section
+# REACTION        : 7-N-14(N,INL)7-N-14,PAR,DA,G
+# File ID         : n-N14-inl-adxgl-enedisl-mon-einc5.900E+06_angl55_prodN14_Nystroem_1972_20249.002
+#
+# Einc (eV)       :   5.9000E+06
+# dEinc (eV)      :   2.0000E+05
+# theta,lab (deg) :   55.0000000
+#
+# npts            : 4           
+# xmin            :   1.6320E+06
+# xmax            :   5.1050E+06
+# ymin            :   8.0000E-04
+# ymax            :   4.9000E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.6320E+06  0.0000E+00  3.5000E-03  6.0000E-04
+  2.3100E+06  0.0000E+00  4.9000E-03  7.0000E-04
+  4.9130E+06  0.0000E+00  8.0000E-04  3.0000E-04
+  5.1050E+06  0.0000E+00  1.1000E-03  2.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 20475.002  
+# EXFOR Ver.      : 19840120
+# TRANS #         : 0000
+# Author          : M.Bormann et al.
+# Reference       : Z.Phys. 258 (1973) 285
+# DOI             : N/A
+# Quantity        : 11B(n,a)8Li partial cross section
+# REACTION        : 5-B-11(N,A)3-LI-8,PAR,SIG
+# File ID         : n-B11-a-sig-lvldis-mon-einc1.410E+07_prodLi8_Bormann_1973_20475.002
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.5000E+05
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   9.8000E+05
+# ymin            :   9.2000E-03
+# ymax            :   1.7700E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.7700E-02  5.3100E-03
+  9.8000E+05  0.0000E+00  9.2000E-03  2.7600E-03
+#---------------------------------------------------

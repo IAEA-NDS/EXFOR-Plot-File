@@ -1,0 +1,22 @@
+# EXFOR #         : 21184.003  
+# EXFOR Ver.      : 20110227
+# TRANS #         : 2226
+# Author          : K.L.Aitken et al.
+# Reference       : J.Nucl.Energy 4 (1957) 33
+# DOI             : 10.1016/0891-3919(57)90112-2
+# Quantity        : 149Sm(n,g)150Sm cross section
+# REACTION        : 62-SM-149(N,G)62-SM-150,,SIG,,MXW
+# File ID         : n-Sm149-g-sig-excfun-mxw-prodSm150_Aitken_1957_21184.003
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   7.4500E+04
+# ymax            :   7.4500E+04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.4500E+04  1.1000E+03
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 10958.017  
+# EXFOR Ver.      : 20200229
+# TRANS #         : 1464
+# Author          : S.M.El-Kadi et al.
+# Reference       : Nucl.Phys.A 390 (1982) 509
+# DOI             : 10.1016/0375-9474(82)90281-0
+# Quantity        : 65Cu(n,inl)65Cu partial cross section
+# REACTION        : 29-CU-65(N,INL)29-CU-65,PAR,SIG
+# File ID         : n-Cu65-inl-sig-lvldis-mon-einc7.960E+06_prodCu65_El+Kadi_1982_10958.017
+#
+# Einc (eV)       :   7.9600E+06
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   1.1265E+06
+# xmax            :   1.1265E+06
+# ymin            :   8.3000E-02
+# ymax            :   8.3000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1265E+06  3.5550E+05  8.3000E-02  7.0000E-03
+#---------------------------------------------------

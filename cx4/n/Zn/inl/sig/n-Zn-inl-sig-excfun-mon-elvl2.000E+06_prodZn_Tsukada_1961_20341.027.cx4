@@ -1,0 +1,28 @@
+# EXFOR #         : 20341.027  
+# EXFOR Ver.      : 20080526
+# TRANS #         : 2198
+# Author          : K.Tsukada et al.
+# Reference       : Proceedings of Reactor Physics Sem., Vienna 1961 1 page 75(18/12)
+# DOI             : N/A
+# Quantity        : natZn(n,inl)natZn partial cross section
+# REACTION        : 30-ZN-0(N,INL)30-ZN-0,PAR,SIG
+# File ID         : n-Zn-inl-sig-excfun-mon-elvl2.000E+06_prodZn_Tsukada_1961_20341.027
+#
+# Elvl (eV)       :   2.0000E+06
+#
+# npts            : 5           
+# xmin            :   3.5000E+06
+# xmax            :   4.8000E+06
+# ymin            :   1.6000E-01
+# ymax            :   4.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+06  0.0000E+00  3.9000E-01  8.0000E-02
+  3.8500E+06  0.0000E+00  4.5000E-01  6.0000E-02
+  4.2000E+06  0.0000E+00  2.6000E-01  4.0000E-02
+  4.5000E+06  0.0000E+00  2.0000E-01  4.0000E-02
+  4.8000E+06  0.0000E+00  1.6000E-01  3.0000E-02
+#---------------------------------------------------

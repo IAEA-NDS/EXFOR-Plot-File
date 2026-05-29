@@ -1,0 +1,27 @@
+# EXFOR #         : 40433.023  
+# EXFOR Ver.      : 20170206
+# TRANS #         : 4175
+# Author          : D.V.Aleksandrov et al.
+# Reference       : Sov.At.Energy 39 (1975) 736
+# DOI             : 10.1007/BF01129817
+# Quantity        : 52Cr(n,p)52V partial angular differential cross section
+# REACTION        : 24-CR-52(N,P)23-V-52,PAR,DA
+# File ID         : n-Cr52-p-adxl-enedisl-mon-einc1.410E+07_angl45_prodV52_Aleksandrov_1975_40433.023
+#
+# Einc (eV)       :   1.4100E+07
+# theta,lab (deg) :   45.0000000
+#
+# npts            : 3           
+# xmin            :   8.4000E+06
+# xmax            :   1.0600E+07
+# ymin            :   4.0000E-04
+# ymax            :   1.1000E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.4000E+06  0.0000E+00  1.1000E-03  1.0000E-04
+  9.5000E+06  0.0000E+00  4.0000E-04  4.0000E-05
+  1.0600E+07  0.0000E+00  5.4000E-04  4.0000E-05
+#---------------------------------------------------

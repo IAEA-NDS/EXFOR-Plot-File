@@ -1,0 +1,22 @@
+# EXFOR #         : 10119.006  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : J.Halperin et al.
+# Reference       : Progress report ORNL-4706 page 47, 1971
+# DOI             : N/A
+# Quantity        : 251Cf(n,g)252Cf cross section
+# REACTION        : 98-CF-251(N,G)98-CF-252,,SIG,,MXW
+# File ID         : n-Cf251-g-sig-excfun-mxw-prodCf252_Halperin_1971_10119.006
+#
+# npts            : 1           
+# xmin            :   2.5000E-02
+# xmax            :   2.5000E-02
+# ymin            :   2.8500E+03
+# ymax            :   2.8500E+03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  0.0000E+00  2.8500E+03  1.5000E+02
+#---------------------------------------------------

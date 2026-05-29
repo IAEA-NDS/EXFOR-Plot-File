@@ -1,0 +1,26 @@
+# EXFOR #         : 23156.049  
+# EXFOR Ver.      : 20120114
+# TRANS #         : 2231
+# Author          : E.Poenitz et al.
+# Reference       : J.Korean.Phys.Soc. 59 No.2 (2011) 1876
+# DOI             : N/A
+# Quantity        : 181Ta(n,inl)181Ta partial cross section
+# REACTION        : 73-TA-181(N,INL)73-TA-181,PAR,SIG
+# File ID         : n-Ta181-inl-sig-lvldis-mon-einc3.990E+06_prodTa181_Poenitz_2011_23156.049
+#
+# Einc (eV)       :   3.9900E+06
+# dEinc (eV)      :   2.0000E+04
+#
+# npts            : 2           
+# xmin            :   3.1950E+05
+# xmax            :   5.1250E+05
+# ymin            :   2.1700E-02
+# ymax            :   8.4800E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.1950E+05  1.8500E+04  8.4800E-02  3.2000E-03
+  5.1250E+05  3.0500E+04  2.1700E-02  2.1000E-03
+#---------------------------------------------------

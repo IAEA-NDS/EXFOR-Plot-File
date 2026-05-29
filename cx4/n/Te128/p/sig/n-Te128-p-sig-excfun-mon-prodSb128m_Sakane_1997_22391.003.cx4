@@ -1,0 +1,26 @@
+# EXFOR #         : 22391.003  
+# EXFOR Ver.      : 20150824
+# TRANS #         : 2243
+# Author          : H.Sakane et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 619
+# DOI             : N/A
+# Quantity        : 128Te(n,p)128mSb cross section
+# REACTION        : 52-TE-128(N,P)51-SB-128-M,,SIG
+# File ID         : n-Te128-p-sig-excfun-mon-prodSb128m_Sakane_1997_22391.003
+#
+# npts            : 5           
+# xmin            :   1.3400E+07
+# xmax            :   1.4870E+07
+# ymin            :   6.1000E-04
+# ymax            :   1.2600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3400E+07  5.0000E+04  6.4000E-04  9.0000E-05
+  1.3650E+07  5.0000E+04  6.1000E-04  9.0000E-05
+  1.4280E+07  5.0000E+04  9.6000E-04  1.4000E-04
+  1.4580E+07  5.0000E+04  1.1100E-03  1.4000E-04
+  1.4870E+07  5.0000E+04  1.2600E-03  1.5000E-04
+#---------------------------------------------------

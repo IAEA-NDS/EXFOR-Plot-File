@@ -1,0 +1,22 @@
+# EXFOR #         : 20733.003  
+# EXFOR Ver.      : 19840201
+# TRANS #         : 0000
+# Author          : D.M.Clare et al.
+# Reference       : Nucl.Sci.Eng. 18 (1964) 448
+# DOI             : 10.13182/NSE64-A18763
+# Quantity        : 54Fe(n,p)54Mn cross section
+# REACTION        : 26-FE-54(N,P)25-MN-54,,SIG,,FIS
+# File ID         : n-Fe54-p-sig-excfun-fis-prodMn54_Clare_1964_20733.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   7.6000E-02
+# ymax            :   7.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  7.6000E-02  3.0000E-03
+#---------------------------------------------------

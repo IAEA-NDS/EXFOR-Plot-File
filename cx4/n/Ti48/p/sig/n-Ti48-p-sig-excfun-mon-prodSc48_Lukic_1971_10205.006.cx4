@@ -1,0 +1,23 @@
+# EXFOR #         : 10205.006  
+# EXFOR Ver.      : 19821012
+# TRANS #         : 0000
+# Author          : Y.Lukic et al.
+# Reference       : Nucl.Sci.Eng. 43 (1971) 233
+# DOI             : 10.13182/NSE71-A21273
+# Quantity        : 48Ti(n,p)48Sc cross section
+# REACTION        : 22-TI-48(N,P)21-SC-48,,SIG
+# File ID         : n-Ti48-p-sig-excfun-mon-prodSc48_Lukic_1971_10205.006
+#
+# npts            : 2           
+# xmin            :   6.5300E+06
+# xmax            :   7.0400E+06
+# ymin            :   3.0000E-03
+# ymax            :   5.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.5300E+06  0.0000E+00  3.0000E-03  5.0000E-04
+  7.0400E+06  0.0000E+00  5.4000E-03  8.0000E-04
+#---------------------------------------------------

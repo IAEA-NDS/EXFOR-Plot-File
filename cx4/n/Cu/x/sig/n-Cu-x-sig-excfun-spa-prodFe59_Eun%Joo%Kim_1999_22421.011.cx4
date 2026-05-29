@@ -1,0 +1,25 @@
+# EXFOR #         : 22421.011  
+# EXFOR Ver.      : 20171108
+# TRANS #         : 2267
+# Author          : Eun Joo Kim et al.
+# Reference       : J.Nucl.Sci.Technol. 36 No.1 (1999) 29
+# DOI             : 10.1080/18811248.1999.9726179
+# Quantity        : natCu(n,x)59Fe independent production cross section
+# REACTION        : 29-CU-0(N,X)26-FE-59,,SIG,,SPA
+# File ID         : n-Cu-x-sig-excfun-spa-prodFe59_Eun%Joo%Kim_1999_22421.011
+#
+# npts            : 4           
+# xmin            :   5.5000E+07
+# xmax            :   8.5000E+07
+# ymin            :   2.8110E-03
+# ymax            :   4.0220E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+07  1.4500E+06  2.8110E-03  1.5880E-04
+  6.1000E+07  1.3000E+06  3.2960E-03  6.8180E-04
+  7.5000E+07  1.7000E+06  4.0220E-03  1.1580E-03
+  8.5000E+07  2.8500E+06  3.5350E-03  1.0710E-03
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 30949.003  
+# EXFOR Ver.      : 20211005
+# TRANS #         : 3202
+# Author          : C.Lee et al.
+# Reference       : Progress report IA-1168 page 67(1), 1968
+# DOI             : N/A
+# Quantity        : 233U(n,f) independent fission product yield
+# REACTION        : 92-U-233(N,F)ELEM/MASS,IND,FY,,MXW
+# File ID         : n-U233-f-fyi-nucdis-mxw-einc2.530E-02_Lee_1968_30949.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 39090.1     
+# xmax            : 39090.9     
+# ymin            :   4.7000E-03
+# ymax            :   5.2000E-03
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     39090.9  5.2000E-03  0.0000E+00
+     39090.1  4.7000E-03  0.0000E+00
+#---------------------------------------------------

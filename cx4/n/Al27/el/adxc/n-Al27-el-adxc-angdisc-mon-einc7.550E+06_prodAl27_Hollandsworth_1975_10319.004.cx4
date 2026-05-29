@@ -1,0 +1,30 @@
+# EXFOR #         : 10319.004  
+# EXFOR Ver.      : 20020823
+# TRANS #         : 0000
+# Author          : C.E.Hollandsworth et al.
+# Reference       : Report BRL-R-1764, 1975
+# DOI             : N/A
+# Quantity        : 27Al(n,el)27Al angular differential cross section
+# REACTION        : 13-AL-27(N,EL)13-AL-27,,DA
+# File ID         : n-Al27-el-adxc-angdisc-mon-einc7.550E+06_prodAl27_Hollandsworth_1975_10319.004
+#
+# Einc (eV)       :   7.5500E+06
+# dEinc (eV)      :   3.0000E+04
+#
+# npts            : 6           
+# xmin            :    2.7600000
+# xmax            :   14.6100000
+# ymin            :   6.3000E-01
+# ymax            :   8.1400E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.7600000   0.7000000  8.1400E-01  5.3724E-02
+   4.9600000   0.8000000  8.1200E-01  3.0856E-02
+   7.0900000   0.9000000  7.9500E-01  3.1800E-02
+   8.8200000   1.0000000  7.7600E-01  2.8712E-02
+  11.2000000   1.2000000  7.1900E-01  2.3727E-02
+  14.6100000   1.5000000  6.3000E-01  2.4570E-02
+#---------------------------------------------------

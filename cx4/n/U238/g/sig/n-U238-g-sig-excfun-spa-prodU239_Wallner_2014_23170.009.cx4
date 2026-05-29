@@ -1,0 +1,22 @@
+# EXFOR #         : 23170.009  
+# EXFOR Ver.      : 20150520
+# TRANS #         : 2242
+# Author          : A.Wallner et al.
+# Reference       : Phys.Rev.Lett. 112 (2014) 192501
+# DOI             : 10.1103/PhysRevLett.112.192501
+# Quantity        : 238U(n,g)239U cross section
+# REACTION        : 92-U-238(N,G)92-U-239,,SIG,,SPA
+# File ID         : n-U238-g-sig-excfun-spa-prodU239_Wallner_2014_23170.009
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   3.9100E-01
+# ymax            :   3.9100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  3.9100E-01  1.7000E-02
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 22889.014  
+# EXFOR Ver.      : 20131219
+# TRANS #         : 2238
+# Author          : P.Reimer et al.
+# Reference       : Phys.Rev.C 71 (2005) 044617
+# DOI             : 10.1103/PhysRevC.71.044617
+# Quantity        : 98Mo(n,x)97Nb independent production cross section
+# REACTION        : 42-MO-98(N,X)41-NB-97,,SIG
+# File ID         : n-Mo98-x-sig-excfun-mon-prodNb97_Reimer_2005_22889.014
+#
+# npts            : 2           
+# xmin            :   1.6200E+07
+# xmax            :   1.8000E+07
+# ymin            :   2.9000E-03
+# ymax            :   1.2800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6200E+07  1.0000E+05  2.9000E-03  2.0000E-04
+  1.8000E+07  1.0000E+05  1.2800E-02  1.7000E-03
+#---------------------------------------------------

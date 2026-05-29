@@ -1,0 +1,24 @@
+# EXFOR #         : 14092.015  
+# EXFOR Ver.      : 20060310
+# TRANS #         : 1340
+# Author          : J.M.Sisterson et al.
+# Reference       : Nucl.Instrum.Meth.B 245 (2006) 371
+# DOI             : 10.1016/j.nimb.2005.12.002
+# Quantity        : natNi(n,x)56Ni independent production cross section
+# REACTION        : 28-NI-0(N,X)28-NI-56,,SIG
+# File ID         : n-Ni-x-sig-excfun-mon-prodNi56_Sisterson_2006_14092.015
+#
+# npts            : 3           
+# xmin            :   7.3500E+07
+# xmax            :   1.5160E+08
+# ymin            :   1.2000E-03
+# ymax            :   2.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.3500E+07  0.0000E+00  1.2000E-03  5.0000E-04
+  1.1220E+08  0.0000E+00  2.2000E-03  1.1000E-03
+  1.5160E+08  0.0000E+00  1.5000E-03  3.0000E-04
+#---------------------------------------------------

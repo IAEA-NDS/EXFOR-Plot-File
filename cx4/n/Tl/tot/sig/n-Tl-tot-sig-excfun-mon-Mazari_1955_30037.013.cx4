@@ -1,0 +1,23 @@
+# EXFOR #         : 30037.013  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : M.Mazari et al.
+# Reference       : An.Inst.Fis. 1 (1955) 69
+# DOI             : N/A
+# Quantity        : natTl(n,tot) cross section
+# REACTION        : 81-TL-0(N,TOT),,SIG
+# File ID         : n-Tl-tot-sig-excfun-mon-Mazari_1955_30037.013
+#
+# npts            : 2           
+# xmin            :   1.5000E+07
+# xmax            :   1.6200E+07
+# ymin            :   5.2400E+00
+# ymax            :   5.4000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  0.0000E+00  5.2400E+00  4.6000E-01
+  1.6200E+07  0.0000E+00  5.4000E+00  2.4000E-01
+#---------------------------------------------------

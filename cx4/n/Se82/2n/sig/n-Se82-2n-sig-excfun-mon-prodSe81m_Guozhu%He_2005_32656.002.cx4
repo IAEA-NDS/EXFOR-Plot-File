@@ -1,0 +1,24 @@
+# EXFOR #         : 32656.002  
+# EXFOR Ver.      : 20060615
+# TRANS #         : 3121
+# Author          : Guozhu He et al.
+# Reference       : Ind.J.Pure Appl.Phy. 43 (2005) 729
+# DOI             : N/A
+# Quantity        : 82Se(n,2n)81mSe cross section
+# REACTION        : 34-SE-82(N,2N)34-SE-81-M,,SIG
+# File ID         : n-Se82-2n-sig-excfun-mon-prodSe81m_Guozhu%He_2005_32656.002
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.4600E+07
+# ymin            :   8.0500E-01
+# ymax            :   1.0020E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  3.0000E+05  8.0500E-01  4.8000E-02
+  1.4100E+07  2.0000E+05  8.9600E-01  4.9000E-02
+  1.4600E+07  3.0000E+05  1.0020E+00  5.0000E-02
+#---------------------------------------------------

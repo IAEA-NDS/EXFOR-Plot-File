@@ -1,0 +1,25 @@
+# EXFOR #         : 30102.002  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : D.Miljanic et al.
+# Reference       : Nucl.Phys.A 148 (1970) 312
+# DOI             : 10.1016/0375-9474(70)90626-3
+# Quantity        : 7Li(n,d)6He partial angular differential cross section
+# REACTION        : 3-LI-7(N,D)2-HE-6,PAR,DA
+# File ID         : n-Li7-d-adxl-angdisc-mon-einc1.440E+07_elvl0.000E+00_prodHe6_Miljanic_1970_30102.002
+#
+# Einc (eV)       :   1.4400E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   2.2400E-03
+# ymax            :   2.2400E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  2.2400E-03  3.0000E-04
+#---------------------------------------------------

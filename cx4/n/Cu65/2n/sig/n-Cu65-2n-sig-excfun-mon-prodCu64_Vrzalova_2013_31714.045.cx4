@@ -1,0 +1,23 @@
+# EXFOR #         : 31714.045  
+# EXFOR Ver.      : 20130717
+# TRANS #         : 3162
+# Author          : J.Vrzalova et al.
+# Reference       : Nucl.Instrum.Meth.A 726 (2013) 84
+# DOI             : 10.1016/j.nima.2013.05.133
+# Quantity        : 65Cu(n,2n)64Cu cross section
+# REACTION        : 29-CU-65(N,2N)29-CU-64,,SIG
+# File ID         : n-Cu65-2n-sig-excfun-mon-prodCu64_Vrzalova_2013_31714.045
+#
+# npts            : 2           
+# xmin            :   3.0400E+07
+# xmax            :   3.5900E+07
+# ymin            :   3.0000E-01
+# ymax            :   3.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0400E+07  8.0000E+05  3.4000E-01  5.0000E-02
+  3.5900E+07  8.0000E+05  3.0000E-01  5.0000E-02
+#---------------------------------------------------

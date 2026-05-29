@@ -1,0 +1,23 @@
+# EXFOR #         : 12235.002  
+# EXFOR Ver.      : 19840821
+# TRANS #         : 0000
+# Author          : L.E.Beghian et al.
+# Reference       : Proceedings of Neutron Cross-Section Techn. Conf., Washington 1966 2 page 726
+# DOI             : N/A
+# Quantity        : natPb(n,non) cross section
+# REACTION        : 82-PB-0(N,NON),,SIG
+# File ID         : n-Pb-non-sig-excfun-mon-Beghian_1966_12235.002
+#
+# npts            : 2           
+# xmin            :   1.7400E+06
+# xmax            :   2.1000E+06
+# ymin            :   6.5000E-01
+# ymax            :   8.3000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7400E+06  5.0000E+04  6.5000E-01  0.0000E+00
+  2.1000E+06  5.0000E+04  8.3000E-01  0.0000E+00
+#---------------------------------------------------

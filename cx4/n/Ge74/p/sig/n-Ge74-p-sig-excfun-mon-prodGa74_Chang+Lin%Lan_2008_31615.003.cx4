@@ -1,0 +1,24 @@
+# EXFOR #         : 31615.003  
+# EXFOR Ver.      : 20080715
+# TRANS #         : 3128
+# Author          : Chang-Lin Lan et al.
+# Reference       : Radiat.Phys.Chem. 77 (2008) 854
+# DOI             : 10.1016/j.radphyschem.2008.03.002
+# Quantity        : 74Ge(n,p)74Ga cross section
+# REACTION        : 32-GE-74(N,P)31-GA-74,,SIG
+# File ID         : n-Ge74-p-sig-excfun-mon-prodGa74_Chang+Lin%Lan_2008_31615.003
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.4800E+07
+# ymin            :   9.6000E-03
+# ymax            :   1.1800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  3.0000E+05  9.6000E-03  8.0000E-04
+  1.4100E+07  2.0000E+05  1.0950E-02  1.0000E-03
+  1.4800E+07  3.0000E+05  1.1800E-02  1.8000E-03
+#---------------------------------------------------

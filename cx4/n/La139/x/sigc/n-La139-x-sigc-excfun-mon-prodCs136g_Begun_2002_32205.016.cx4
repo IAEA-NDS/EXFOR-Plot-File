@@ -1,0 +1,22 @@
+# EXFOR #         : 32205.016  
+# EXFOR Ver.      : 20140921
+# TRANS #         : 3166
+# Author          : S.V.Begun et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 425
+# DOI             : N/A
+# Quantity        : 139La(n,a)136gCs cumulative production cross section
+# REACTION        : 57-LA-139(N,A)55-CS-136-G,M+,SIG
+# File ID         : n-La139-x-sigc-excfun-mon-prodCs136g_Begun_2002_32205.016
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   2.1100E-03
+# ymax            :   2.1100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  4.0000E+04  2.1100E-03  8.0000E-05
+#---------------------------------------------------

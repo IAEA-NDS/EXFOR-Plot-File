@@ -1,0 +1,23 @@
+# EXFOR #         : 22809.005  
+# EXFOR Ver.      : 20040116
+# TRANS #         : 0000
+# Author          : H.Sakane et al.
+# Reference       : Ann.Nucl.Energy 29 No.10 (2002) 1209
+# DOI             : 10.1016/S0306-4549(01)00091-3
+# Quantity        : 155Gd(n,x)154mEu independent production cross section
+# REACTION        : 64-GD-155(N,X)63-EU-154-M,,SIG
+# File ID         : n-Gd155-x-sig-excfun-mon-prodEu154m_Sakane_2002_22809.005
+#
+# npts            : 2           
+# xmin            :   1.4640E+07
+# xmax            :   1.4870E+07
+# ymin            :   4.8000E-05
+# ymax            :   7.9000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4870E+07  5.0000E+04  7.9000E-05  1.8960E-05
+  1.4640E+07  5.0000E+04  4.8000E-05  1.2000E-05
+#---------------------------------------------------

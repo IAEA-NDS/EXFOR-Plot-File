@@ -1,0 +1,23 @@
+# EXFOR #         : 40929.002  
+# EXFOR Ver.      : 20240208
+# TRANS #         : 4217
+# Author          : L.L.Litvinskiy et al.
+# Reference       : Report KIYAI-85-35, 1985
+# DOI             : N/A
+# Quantity        : 12C(n,tot) cross section
+# REACTION        : 6-C-12(N,TOT),,SIG,,SPA
+# File ID         : n-C12-tot-sig-excfun-spa-Litvinskiy_1985_40929.002
+#
+# npts            : 2           
+# xmin            :   5.5000E+04
+# xmax            :   1.4400E+05
+# ymin            :   4.3090E+00
+# ymax            :   4.4970E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+04  1.0000E+03  4.4970E+00  8.9000E-02
+  1.4400E+05  1.2500E+04  4.3090E+00  1.8000E-02
+#---------------------------------------------------

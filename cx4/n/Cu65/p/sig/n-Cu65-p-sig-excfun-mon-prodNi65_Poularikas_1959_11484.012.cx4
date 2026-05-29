@@ -1,0 +1,22 @@
+# EXFOR #         : 11484.012  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : A.Poularikas et al.
+# Reference       : Phys.Rev. 115 (1959) 989
+# DOI             : 10.1103/PhysRev.115.989
+# Quantity        : 65Cu(n,p)65Ni cross section
+# REACTION        : 29-CU-65(N,P)28-NI-65,,SIG
+# File ID         : n-Cu65-p-sig-excfun-mon-prodNi65_Poularikas_1959_11484.012
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   2.7000E-02
+# ymax            :   2.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  9.0000E+05  2.7000E-02  1.1000E-02
+#---------------------------------------------------

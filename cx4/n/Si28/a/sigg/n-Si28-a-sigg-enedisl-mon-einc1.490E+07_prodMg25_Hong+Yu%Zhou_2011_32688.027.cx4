@@ -1,0 +1,27 @@
+# EXFOR #         : 32688.027  
+# EXFOR Ver.      : 20130201
+# TRANS #         : 3159
+# Author          : Hong-Yu Zhou et al.
+# Reference       : Nucl.Instrum.Meth.A 648 No.1 (2011) 192
+# DOI             : 10.1016/j.nima.2011.04.014
+# Quantity        : 28Si(n,a)25Mg partial gamma production cross section
+# REACTION        : 14-SI-28(N,A)12-MG-25,PAR,SIG,G
+# File ID         : n-Si28-a-sigg-enedisl-mon-einc1.490E+07_prodMg25_Hong+Yu%Zhou_2011_32688.027
+#
+# Einc (eV)       :   1.4900E+07
+# dEinc (eV)      :   5.0000E+05
+#
+# npts            : 3           
+# xmin            :   3.8970E+05
+# xmax            :   9.7460E+05
+# ymin            :   2.1000E-02
+# ymax            :   4.8400E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8970E+05  0.0000E+00  2.1000E-02  9.0000E-04
+  5.8510E+05  0.0000E+00  4.8400E-02  1.5000E-03
+  9.7460E+05  0.0000E+00  2.6800E-02  1.4000E-03
+#---------------------------------------------------

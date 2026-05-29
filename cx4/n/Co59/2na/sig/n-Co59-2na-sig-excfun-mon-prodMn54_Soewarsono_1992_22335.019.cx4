@@ -1,0 +1,24 @@
+# EXFOR #         : 22335.019  
+# EXFOR Ver.      : 20110131
+# TRANS #         : 2226
+# Author          : T.S.Soewarsono et al.
+# Reference       : Report (proceedings) JAERI-M-92-027 page 354, 1992
+# DOI             : N/A
+# Quantity        : 59Co(n,2n+a)54Mn cross section
+# REACTION        : 27-CO-59(N,2N+A)25-MN-54,,SIG
+# File ID         : n-Co59-2na-sig-excfun-mon-prodMn54_Soewarsono_1992_22335.019
+#
+# npts            : 3           
+# xmin            :   2.7600E+07
+# xmax            :   3.7700E+07
+# ymin            :   7.3000E-03
+# ymax            :   7.7300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7600E+07  8.0000E+05  7.3000E-03  1.1000E-03
+  3.2700E+07  7.0000E+05  4.8700E-02  4.8000E-03
+  3.7700E+07  7.0000E+05  7.7300E-02  7.3000E-03
+#---------------------------------------------------

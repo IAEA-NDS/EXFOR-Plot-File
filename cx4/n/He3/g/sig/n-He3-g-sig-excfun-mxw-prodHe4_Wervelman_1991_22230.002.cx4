@@ -1,0 +1,22 @@
+# EXFOR #         : 22230.002  
+# EXFOR Ver.      : 19930329
+# TRANS #         : 0000
+# Author          : R.Wervelman et al.
+# Reference       : Nucl.Phys.A 526 (1991) 265
+# DOI             : 10.1016/0375-9474(91)90287-G
+# Quantity        : 3He(n,g)4He cross section
+# REACTION        : 2-HE-3(N,G)2-HE-4,,SIG,,MXW
+# File ID         : n-He3-g-sig-excfun-mxw-prodHe4_Wervelman_1991_22230.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   5.5000E-05
+# ymax            :   5.5000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  5.5000E-05  3.0000E-06
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 22712.002.1
+# EXFOR Ver.      : 20060622
+# TRANS #         : 2178
+# Author          : H.P.Trautvetter et al.
+# Reference       : Z.Phys.A 323 (1986) 1
+# DOI             : N/A
+# Quantity        : 26Al(n,p)26Mg partial cross section
+# REACTION        : 13-AL-26(N,P)12-MG-26,PAR,SIG,,MXW
+# File ID         : n-Al26-p-sig-lvldis-mxw-einc4.000E-02_prodMg26_Trautvetter_1986_22712.002.1
+#
+# Einc (eV)       :   4.0000E-02
+#
+# npts            : 2           
+# xmin            :   2.9000E+06
+# xmax            :   4.8000E+06
+# ymin            :   2.6000E-02
+# ymax            :   1.8500E+00
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9000E+06  0.0000E+00  1.8500E+00  1.5000E-01
+  4.8000E+06  0.0000E+00  2.6000E-02  1.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 31822.006  
+# EXFOR Ver.      : 20200616
+# TRANS #         : 3196
+# Author          : N.Burianova et al.
+# Reference       : Appl.Radiat.Isot. 154 (2019) 108855
+# DOI             : 10.1016/j.apradiso.2019.108855
+# Quantity        : 54Fe(n,p)54Mn cross section
+# REACTION        : 26-FE-54(N,P)25-MN-54,,SIG,,SPA
+# File ID         : n-Fe54-p-sig-excfun-spa-prodMn54_Burianova_2019_31822.006
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   7.2994E-02
+# ymax            :   7.2994E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  7.2994E-02  4.9636E-03
+#---------------------------------------------------

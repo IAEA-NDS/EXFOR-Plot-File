@@ -1,0 +1,22 @@
+# EXFOR #         : 30573.003  
+# EXFOR Ver.      : 20090506
+# TRANS #         : 3137
+# Author          : M.Afzal Ansari et al.
+# Reference       : Proceedings of 21.Nucl.Phys.and Solid State Phys.Symp., Bombay 1978 2 page 95
+# DOI             : N/A
+# Quantity        : 110Pd(n,g)111gPd cross section
+# REACTION        : 46-PD-110(N,G)46-PD-111-G,,SIG
+# File ID         : n-Pd110-g-sig-excfun-mon-prodPd111g_Afzal%Ansari_1978_30573.003
+#
+# npts            : 1           
+# xmin            :   3.8000E+05
+# xmax            :   3.8000E+05
+# ymin            :   2.5800E-02
+# ymax            :   2.5800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8000E+05  1.0000E+04  2.5800E-02  4.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 23096.017  
+# EXFOR Ver.      : 20150716
+# TRANS #         : 2242
+# Author          : D.M.Gilliam et al.
+# Reference       : Proceedings of 5th Symposium on Reactor Dosimetry, Geesthacht, 1984
+# DOI             : N/A
+# Quantity        : 58Ni(n,p)58Co cross section
+# REACTION        : 28-NI-58(N,P)27-CO-58,,SIG,,FIS
+# File ID         : n-Ni58-p-sig-excfun-fis-prodCo58_Gilliam_1984_23096.017
+#
+# npts            : 1           
+# xmin            :   1.3200E+06
+# xmax            :   1.3200E+06
+# ymin            :   1.1100E-01
+# ymax            :   1.1100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3200E+06  0.0000E+00  1.1100E-01  2.6640E-03
+#---------------------------------------------------

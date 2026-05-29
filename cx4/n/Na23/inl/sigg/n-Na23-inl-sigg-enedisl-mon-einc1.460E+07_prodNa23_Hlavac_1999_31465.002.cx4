@@ -1,0 +1,26 @@
+# EXFOR #         : 31465.002  
+# EXFOR Ver.      : 20010430
+# TRANS #         : 0000
+# Author          : S.Hlavac et al.
+# Reference       : Report INDC(NDS)-412 page 12, 1999
+# DOI             : N/A
+# Quantity        : 23Na(n,inl)23Na partial gamma production cross section
+# REACTION        : 11-NA-23(N,INL)11-NA-23,PAR,SIG,G
+# File ID         : n-Na23-inl-sigg-enedisl-mon-einc1.460E+07_prodNa23_Hlavac_1999_31465.002
+#
+# Einc (eV)       :   1.4600E+07
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 2           
+# xmin            :   6.2750E+05
+# xmax            :   1.6360E+06
+# ymin            :   2.6000E-02
+# ymax            :   1.4900E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.2750E+05  0.0000E+00  2.6000E-02  5.0000E-03
+  1.6360E+06  0.0000E+00  1.4900E-01  1.1000E-02
+#---------------------------------------------------

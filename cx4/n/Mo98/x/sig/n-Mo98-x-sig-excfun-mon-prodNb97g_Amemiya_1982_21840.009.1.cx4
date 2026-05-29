@@ -1,0 +1,22 @@
+# EXFOR #         : 21840.009.1
+# EXFOR Ver.      : 20151213
+# TRANS #         : 2246
+# Author          : S.Amemiya et al.
+# Reference       : J.Nucl.Sci.Technol. 19 No.10 (1982) 781
+# DOI             : 10.1080/18811248.1982.9734218
+# Quantity        : 98Mo(n,x)97gNb independent production cross section
+# REACTION        : 42-MO-98(N,X)41-NB-97-G,,SIG
+# File ID         : n-Mo98-x-sig-excfun-mon-prodNb97g_Amemiya_1982_21840.009.1
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.5000E-03
+# ymax            :   1.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  3.0000E+05  1.5000E-03  3.0000E-04
+#---------------------------------------------------

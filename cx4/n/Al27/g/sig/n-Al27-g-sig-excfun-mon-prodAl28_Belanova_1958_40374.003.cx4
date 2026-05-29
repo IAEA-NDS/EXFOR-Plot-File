@@ -1,0 +1,23 @@
+# EXFOR #         : 40374.003  
+# EXFOR Ver.      : 20100317
+# TRANS #         : 4149
+# Author          : T.S.Belanova
+# Reference       : Zh.Eksp.Teor.Fiz. 34 No.3 (1958) 574
+# DOI             : N/A
+# Quantity        : 27Al(n,g)28Al cross section
+# REACTION        : 13-AL-27(N,G)13-AL-28,,SIG
+# File ID         : n-Al27-g-sig-excfun-mon-prodAl28_Belanova_1958_40374.003
+#
+# npts            : 2           
+# xmin            :   2.5000E+04
+# xmax            :   2.2000E+05
+# ymin            :   6.0000E-03
+# ymax            :   1.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  3.0000E+03  1.7000E-02  3.0000E-03
+  2.2000E+05  2.0000E+04  6.0000E-03  3.0000E-03
+#---------------------------------------------------

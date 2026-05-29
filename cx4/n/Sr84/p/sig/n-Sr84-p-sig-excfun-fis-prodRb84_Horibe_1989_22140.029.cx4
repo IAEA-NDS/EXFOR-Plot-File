@@ -1,0 +1,22 @@
+# EXFOR #         : 22140.029  
+# EXFOR Ver.      : 20160113
+# TRANS #         : 2246
+# Author          : O.Horibe et al.
+# Reference       : Proceedings of 50 Years Nucl.Fission Conf., Washington D.C., 1989 2 page 923
+# DOI             : N/A
+# Quantity        : 84Sr(n,p)84Rb cross section
+# REACTION        : 38-SR-84(N,P)37-RB-84,,SIG,,FIS
+# File ID         : n-Sr84-p-sig-excfun-fis-prodRb84_Horibe_1989_22140.029
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   5.3600E-03
+# ymax            :   5.3600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  5.3600E-03  4.5000E-04
+#---------------------------------------------------

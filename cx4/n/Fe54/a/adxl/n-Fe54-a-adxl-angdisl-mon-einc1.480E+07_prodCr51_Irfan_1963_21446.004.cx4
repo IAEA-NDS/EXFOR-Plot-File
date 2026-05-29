@@ -1,0 +1,24 @@
+# EXFOR #         : 21446.004  
+# EXFOR Ver.      : 19800318
+# TRANS #         : 0000
+# Author          : M.Irfan et al.
+# Reference       : Proc.Phys.Soc.(UK) 81 (1963) 808
+# DOI             : 10.1088/0370-1328/81/5/303
+# Quantity        : 54Fe(n,a)51Cr angular differential cross section
+# REACTION        : 26-FE-54(N,A)24-CR-51,,DA
+# File ID         : n-Fe54-a-adxl-angdisl-mon-einc1.480E+07_prodCr51_Irfan_1963_21446.004
+#
+# Einc (eV)       :   1.4800E+07
+#
+# npts            : 1           
+# xmin            :   55.0000000
+# xmax            :   55.0000000
+# ymin            :   6.4700E-03
+# ymax            :   6.4700E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  55.0000000  55.0000000  6.4700E-03  6.5000E-04
+#---------------------------------------------------

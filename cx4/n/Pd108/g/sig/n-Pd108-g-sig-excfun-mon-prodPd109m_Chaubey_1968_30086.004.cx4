@@ -1,0 +1,22 @@
+# EXFOR #         : 30086.004  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : A.K.Chaubey et al.
+# Reference       : Nucl.Phys.A 117 (1968) 545
+# DOI             : 10.1016/0375-9474(68)90829-4
+# Quantity        : 108Pd(n,g)109mPd cross section
+# REACTION        : 46-PD-108(N,G)46-PD-109-M,,SIG
+# File ID         : n-Pd108-g-sig-excfun-mon-prodPd109m_Chaubey_1968_30086.004
+#
+# npts            : 1           
+# xmin            :   2.4000E+04
+# xmax            :   2.4000E+04
+# ymin            :   2.6000E-02
+# ymax            :   2.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+04  0.0000E+00  2.6000E-02  6.0000E-03
+#---------------------------------------------------

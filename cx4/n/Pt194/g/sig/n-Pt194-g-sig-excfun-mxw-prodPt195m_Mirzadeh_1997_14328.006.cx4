@@ -1,0 +1,22 @@
+# EXFOR #         : 14328.006  
+# EXFOR Ver.      : 20120816
+# TRANS #         : 1386
+# Author          : S.Mirzadeh et al.
+# Reference       : Appl.Radiat.Isot. 48 No.4 (1997) 441
+# DOI             : 10.1016/S0969-8043(96)00284-9
+# Quantity        : 194Pt(n,g)195mPt cross section
+# REACTION        : 78-PT-194(N,G)78-PT-195-M,,SIG,,MXW
+# File ID         : n-Pt194-g-sig-excfun-mxw-prodPt195m_Mirzadeh_1997_14328.006
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   4.2000E-02
+# ymax            :   4.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  4.2000E-02  8.0000E-03
+#---------------------------------------------------

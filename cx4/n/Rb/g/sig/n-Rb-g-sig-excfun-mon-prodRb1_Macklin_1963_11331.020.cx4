@@ -1,0 +1,23 @@
+# EXFOR #         : 11331.020  
+# EXFOR Ver.      : 19820324
+# TRANS #         : 0000
+# Author          : R.L.Macklin et al.
+# Reference       : Phys.Rev. 129 (1963) 2695
+# DOI             : 10.1103/PhysRev.129.2695
+# Quantity        : natRb(n,g) cross section
+# REACTION        : 37-RB-0(N,G),,SIG
+# File ID         : n-Rb-g-sig-excfun-mon-prodRb1_Macklin_1963_11331.020
+#
+# npts            : 2           
+# xmin            :   3.0000E+04
+# xmax            :   6.5000E+04
+# ymin            :   8.9000E-02
+# ymax            :   1.8000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  7.0000E+03  1.8000E-01  1.6200E-02
+  6.5000E+04  2.0000E+04  8.9000E-02  8.0100E-03
+#---------------------------------------------------

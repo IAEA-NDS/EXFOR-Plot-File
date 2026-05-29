@@ -1,0 +1,22 @@
+# EXFOR #         : 14165.009  
+# EXFOR Ver.      : 20080303
+# TRANS #         : 1347
+# Author          : M.C.Eastman et al.
+# Reference       : Phys.Rev.C 77 (2008) 024303
+# DOI             : 10.1103/PhysRevC.77.024303
+# Quantity        : 128Te(n,g)129mTe cross section
+# REACTION        : 52-TE-128(N,G)52-TE-129-M,,SIG,,MXW
+# File ID         : n-Te128-g-sig-excfun-mxw-prodTe129m_Eastman_2008_14165.009
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.6000E-02
+# ymax            :   2.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.6000E-02  2.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : 22788.002  
+# EXFOR Ver.      : 20091011
+# TRANS #         : 2218
+# Author          : A.J.M.Plompen et al.
+# Reference       : Report (proceedings) ISINN-8 page 153, 2000
+# DOI             : N/A
+# Quantity        : 238U(n,inl)238U partial cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,SIG
+# File ID         : n-U238-inl-sig-excfun-mon-elvl1.105E+06_prodU238_Plompen_2000_22788.002
+#
+# Elvl (eV)       :   1.1050E+06
+# dElvl (eV)      :   2.1500E+05
+#
+# npts            : 4           
+# xmin            :   2.5019E+06
+# xmax            :   3.5110E+06
+# ymin            :   2.1686E-01
+# ymax            :   6.5316E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5019E+06  0.0000E+00  5.0726E-01  2.7440E-02
+  2.7467E+06  0.0000E+00  6.5316E-01  2.2370E-02
+  3.0031E+06  0.0000E+00  2.8406E-01  2.2330E-02
+  3.5110E+06  0.0000E+00  2.1686E-01  3.0910E-02
+#---------------------------------------------------

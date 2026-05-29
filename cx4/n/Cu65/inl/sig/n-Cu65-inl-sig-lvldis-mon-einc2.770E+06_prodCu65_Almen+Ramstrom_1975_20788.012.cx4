@@ -1,0 +1,25 @@
+# EXFOR #         : 20788.012  
+# EXFOR Ver.      : 20120731
+# TRANS #         : 2232
+# Author          : E.Almen-Ramstrom
+# Reference       : Report AE-503, 1975
+# DOI             : N/A
+# Quantity        : 65Cu(n,inl)65Cu partial cross section
+# REACTION        : 29-CU-65(N,INL)29-CU-65,PAR,SIG
+# File ID         : n-Cu65-inl-sig-lvldis-mon-einc2.770E+06_prodCu65_Almen+Ramstrom_1975_20788.012
+#
+# Einc (eV)       :   2.7700E+06
+#
+# npts            : 2           
+# xmin            :   7.7100E+05
+# xmax            :   1.1150E+06
+# ymin            :   1.4500E-01
+# ymax            :   1.8400E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.7100E+05  0.0000E+00  1.4500E-01  2.2000E-02
+  1.1150E+06  0.0000E+00  1.8400E-01  2.8000E-02
+#---------------------------------------------------

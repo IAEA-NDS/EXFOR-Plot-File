@@ -1,0 +1,29 @@
+# EXFOR #         : 40372.005  
+# EXFOR Ver.      : 20170120
+# TRANS #         : 4175
+# Author          : O.A.Salnikov
+# Reference       : Sov.At.Energy 3 (1957) 869
+# DOI             : 10.1007/BF01480069
+# Quantity        : natFe(n,inl)natFe partial angular differential cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-0,PAR,DA
+# File ID         : n-Fe-inl-adxl-angdisl-mon-einc2.340E+06_elvl8.500E+05_prodFe_Salnikov_1957_40372.005
+#
+# Einc (eV)       :   2.3400E+06
+# Elvl (eV)       :   8.5000E+05
+#
+# npts            : 5           
+# xmin            :   30.0040500
+# xmax            :  134.9832000
+# ymin            :   6.7000E-02
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 134.9832000  10.0000000  6.7000E-02  1.0000E-02
+  90.0000000  10.0000000  7.5000E-02  1.0000E-02
+  60.0000000  10.0000000  7.2000E-02  1.2000E-02
+  45.0094600  10.0000000  6.8000E-02  1.3000E-02
+  30.0040500  10.0000000  7.4000E-02  2.4000E-02
+#---------------------------------------------------

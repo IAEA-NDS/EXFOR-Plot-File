@@ -1,0 +1,22 @@
+# EXFOR #         : 30649.006.M
+# EXFOR Ver.      : 20090830
+# TRANS #         : 3140
+# Author          : S.Gmuca et al.
+# Reference       : Acta Phys. Slovaca 33 (1983) 9
+# DOI             : N/A
+# Quantity        : 144Nd(n,p)144mPr cross section
+# REACTION        : 60-ND-144(N,P)59-PR-144-M,,SIG
+# File ID         : n-Nd144-p-sig-excfun-mon-prodPr144m_Gmuca_1983_30649.006.m
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.7000E-03
+# ymax            :   1.7000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  2.5000E+05  1.7000E-03  6.0000E-04
+#---------------------------------------------------

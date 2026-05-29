@@ -1,0 +1,22 @@
+# EXFOR #         : 30658.003  
+# EXFOR Ver.      : 20090830
+# TRANS #         : 3140
+# Author          : G.Shani
+# Reference       : Ann.Nucl.Energy 10 No.9 (1983) 473
+# DOI             : 10.1016/0306-4549(83)90028-2
+# Quantity        : 197Au(n,2n)196Au cross section
+# REACTION        : 79-AU-197(N,2N)79-AU-196,,SIG,,FIS
+# File ID         : n-Au197-2n-sig-excfun-fis-prodAu196_Shani_1983_30658.003
+#
+# npts            : 1           
+# xmin            :   2.0000E+06
+# xmax            :   2.0000E+06
+# ymin            :   4.3000E-03
+# ymax            :   4.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  4.3000E-03  5.0000E-04
+#---------------------------------------------------

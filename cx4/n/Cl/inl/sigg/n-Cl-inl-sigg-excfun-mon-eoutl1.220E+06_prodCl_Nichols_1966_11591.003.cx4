@@ -1,0 +1,26 @@
+# EXFOR #         : 11591.003  
+# EXFOR Ver.      : 20200503
+# TRANS #         : 1468
+# Author          : D.B.Nichols et al.
+# Reference       : Phys.Rev. 151 (1966) 879
+# DOI             : 10.1103/PhysRev.151.879
+# Quantity        : natCl(n,inl)natCl partial gamma production cross section
+# REACTION        : 17-CL-0(N,INL)17-CL-0,PAR,SIG,G
+# File ID         : n-Cl-inl-sigg-excfun-mon-eoutl1.220E+06_prodCl_Nichols_1966_11591.003
+#
+# Eout,lab (eV)   :   1.2200E+06
+#
+# npts            : 3           
+# xmin            :   2.5400E+06
+# xmax            :   4.0300E+06
+# ymin            :   1.5900E-01
+# ymax            :   1.7200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5400E+06  7.0000E+04  1.7000E-01  1.8000E-02
+  3.0900E+06  7.0000E+04  1.7200E-01  1.8000E-02
+  4.0300E+06  7.0000E+04  1.5900E-01  1.6000E-02
+#---------------------------------------------------

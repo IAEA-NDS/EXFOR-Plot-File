@@ -1,0 +1,25 @@
+# EXFOR #         : 21574.002  
+# EXFOR Ver.      : 19800718
+# TRANS #         : 0000
+# Author          : J.F.Gilot et al.
+# Reference       : Private communication  (1980)
+# DOI             : N/A
+# Quantity        : 1H(n,g)2H angular differential cross section
+# REACTION        : 1-H-1(N,G)1-H-2,,DA
+# File ID         : n-H1-g-adxl-angdisl-mon-einc7.200E+07_prodH2_Gilot_1980_21574.002
+#
+# Einc (eV)       :   7.2000E+07
+#
+# npts            : 2           
+# xmin            :    0.0000000
+# xmax            :  180.0000000
+# ymin            :   4.4000E-06
+# ymax            :   4.9000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  4.4000E-06  7.0000E-07
+ 180.0000000   0.0000000  4.9000E-06  6.0000E-07
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : 41734.003  
+# EXFOR Ver.      : 20210303
+# TRANS #         : 4194
+# Author          : K.A.Petrzhak et al.
+# Reference       : Neitronnaya Fizika, Moskva 1961 page 217 (1961)
+# DOI             : N/A
+# Quantity        : 238U(n,f) cumulative fission product yield
+# REACTION        : 92-U-238(N,F)ELEM/MASS,CUM,FY,,FIS
+# File ID         : n-U238-f-fyc-nucdis-fis-einc1.000E+06_Petrzhak_1961_41734.003
+#
+# Einc (eV)       :   1.0000E+06
+#
+# npts            : 6           
+# xmin            : 38089.9     
+# xmax            : 56140.9     
+# ymin            :   4.2000E-04
+# ymax            :   6.7000E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     38089.9  3.7000E-02  3.0000E-03
+     40095.9  6.5000E-02  6.0000E-03
+     42099.9  6.6000E-02  4.0000E-03
+     47111.9  9.4000E-04  8.0000E-05
+     48115.0  4.2000E-04  4.0000E-05
+     56140.9  6.7000E-02  5.0000E-03
+#---------------------------------------------------

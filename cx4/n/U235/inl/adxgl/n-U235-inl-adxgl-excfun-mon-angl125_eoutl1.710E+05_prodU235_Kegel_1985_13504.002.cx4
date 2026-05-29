@@ -1,0 +1,28 @@
+# EXFOR #         : 13504.002  
+# EXFOR Ver.      : 19910820
+# TRANS #         : 0000
+# Author          : G.H.R.Kegel et al.
+# Reference       : Proceedings of Conf.on Nucl.Data f.Basic a.Appl.Sci.,Santa Fe 1985 1 page 573
+# DOI             : N/A
+# Quantity        : 235U(n,inl)235U partial gamma angular differential cross section
+# REACTION        : 92-U-235(N,INL)92-U-235,PAR,DA,G,4PI
+# File ID         : n-U235-inl-adxgl-excfun-mon-angl125_eoutl1.710E+05_prodU235_Kegel_1985_13504.002
+#
+# theta,lab (deg) :  125.0000000
+# Eout,lab (eV)   :   1.7100E+05
+#
+# npts            : 4           
+# xmin            :   2.0000E+05
+# xmax            :   5.0000E+05
+# ymin            :   2.3873E-04
+# ymax            :   3.1831E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.0000E+05  0.0000E+00  3.1831E-04  1.7189E-04
+  3.0000E+05  0.0000E+00  2.3873E-04  2.3873E-04
+  4.0000E+05  0.0000E+00  2.3873E-04  2.3873E-04
+  5.0000E+05  0.0000E+00  3.1831E-04  7.3211E-05
+#---------------------------------------------------

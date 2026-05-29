@@ -1,0 +1,26 @@
+# EXFOR #         : 23818.009  
+# EXFOR Ver.      : 20210712
+# TRANS #         : 2301
+# Author          : C.Chauvin
+# Reference       : Report FRNC-TH-470, 1973
+# DOI             : N/A
+# Quantity        : 232Th(n,f) cumulative fission product yield
+# REACTION        : 90-TH-232(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-Th232-f-fyc-nucdis-mon-einc1.400E+07_Chauvin_1973_23818.009
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 3           
+# xmin            : 36085.9     
+# xmax            : 36088.9     
+# ymin            :   4.2500E-02
+# ymax            :   4.6900E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     36085.9  4.4200E-02  2.0000E-04
+     36085.9  4.2500E-02  6.0000E-04
+     36088.9  4.6900E-02  5.0000E-04
+#---------------------------------------------------

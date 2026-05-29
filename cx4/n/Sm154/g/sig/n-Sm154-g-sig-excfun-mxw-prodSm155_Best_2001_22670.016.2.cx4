@@ -1,0 +1,22 @@
+# EXFOR #         : 22670.016.2
+# EXFOR Ver.      : 20210925
+# TRANS #         : 2304
+# Author          : J.Best et al.
+# Reference       : Phys.Rev.C 64 (2001) 015801
+# DOI             : 10.1103/PhysRevC.64.015801
+# Quantity        : 154Sm(n,g)155Sm cross section
+# REACTION        : 62-SM-154(N,G)62-SM-155,,SIG,,MXW
+# File ID         : n-Sm154-g-sig-excfun-mxw-prodSm155_Best_2001_22670.016.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   2.3800E-01
+# ymax            :   2.3800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  2.3800E-01  9.0000E-03
+#---------------------------------------------------

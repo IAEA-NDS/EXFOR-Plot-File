@@ -1,0 +1,23 @@
+# EXFOR #         : 41213.003.2
+# EXFOR Ver.      : 20191215
+# TRANS #         : 4185
+# Author          : B.D.Kuz'minov
+# Reference       : Neitronnaya Fizika, Moskva 1961 page 241 (1961)
+# DOI             : N/A
+# Quantity        : 238U(n,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-238(N,F),PR,NU
+# File ID         : n-U238-f-nup-excfun-mon-Kuzminov_1961_41213.003.2
+#
+# npts            : 2           
+# xmin            :   2.3000E+06
+# xmax            :   3.7500E+06
+# ymin            :   2.7200E+00
+# ymax            :   3.0200E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  2.3000E+06  1.0000E+05  2.7200E+00  8.0000E-02
+  3.7500E+06  1.5000E+05  3.0200E+00  1.0000E-01
+#---------------------------------------------------

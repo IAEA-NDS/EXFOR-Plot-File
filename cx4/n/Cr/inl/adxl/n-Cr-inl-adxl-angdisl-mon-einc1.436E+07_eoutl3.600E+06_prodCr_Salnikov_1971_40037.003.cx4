@@ -1,0 +1,31 @@
+# EXFOR #         : 40037.003  
+# EXFOR Ver.      : 20060324
+# TRANS #         : 4138
+# Author          : O.A.Salnikov et al.
+# Reference       : Report YK-7 page 102, 1971
+# DOI             : N/A
+# Quantity        : natCr(n,inl)natCr partial angular differential cross section
+# REACTION        : 24-CR-0(N,INL)24-CR-0,PAR,DA
+# File ID         : n-Cr-inl-adxl-angdisl-mon-einc1.436E+07_eoutl3.600E+06_prodCr_Salnikov_1971_40037.003
+#
+# Einc (eV)       :   1.4360E+07
+# dEinc (eV)      :   1.4000E+05
+# Eout,lab (eV)   :   3.6000E+06
+# dEout,lab (eV)  :   6.2000E+05
+#
+# npts            : 5           
+# xmin            :   31.0000000
+# xmax            :  151.0000000
+# ymin            :   1.2200E-02
+# ymax            :   1.8500E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  31.0000000   8.0000000  1.8500E-02  9.0000E-04
+  61.0000000   8.0000000  1.7400E-02  9.0000E-04
+  91.0000000   8.0000000  1.4400E-02  8.0000E-04
+ 121.0000000   8.0000000  1.2200E-02  7.0000E-04
+ 151.0000000   8.0000000  1.2400E-02  7.0000E-04
+#---------------------------------------------------

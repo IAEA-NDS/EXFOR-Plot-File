@@ -1,0 +1,22 @@
+# EXFOR #         : 30015.003  
+# EXFOR Ver.      : 20211005
+# TRANS #         : 3202
+# Author          : R.Prasad et al.
+# Reference       : Nucl.Phys. 88 (1966) 349
+# DOI             : 10.1016/0029-5582(66)90593-1
+# Quantity        : 140Ce(n,2n)139mCe cross section
+# REACTION        : 58-CE-140(N,2N)58-CE-139-M,,SIG
+# File ID         : n-Ce140-2n-sig-excfun-mon-prodCe139m_Prasad_1966_30015.003
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.1300E+00
+# ymax            :   1.1300E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  0.0000E+00  1.1300E+00  1.2000E-01
+#---------------------------------------------------

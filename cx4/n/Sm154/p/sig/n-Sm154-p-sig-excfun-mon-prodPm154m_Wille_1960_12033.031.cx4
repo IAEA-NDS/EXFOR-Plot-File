@@ -1,0 +1,22 @@
+# EXFOR #         : 12033.031  
+# EXFOR Ver.      : 20080624
+# TRANS #         : 1349
+# Author          : R.G.Wille et al.
+# Reference       : Phys.Rev. 118 (1960) 242
+# DOI             : 10.1103/PhysRev.118.242
+# Quantity        : 154Sm(n,p)154mPm cross section
+# REACTION        : 62-SM-154(N,P)61-PM-154-M,,SIG
+# File ID         : n-Sm154-p-sig-excfun-mon-prodPm154m_Wille_1960_12033.031
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   3.5000E-03
+# ymax            :   3.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  8.0000E+05  3.5000E-03  2.0000E-04
+#---------------------------------------------------

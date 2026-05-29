@@ -1,0 +1,22 @@
+# EXFOR #         : 30811.003.M
+# EXFOR Ver.      : 20090910
+# TRANS #         : 3141
+# Author          : I.Ribansky et al.
+# Reference       : Czechslov.J.Phys.B 35 (1985) 1128
+# DOI             : 10.1007/BF01596429
+# Quantity        : 58Ni(n,p)58mCo cross section
+# REACTION        : 28-NI-58(N,P)27-CO-58-M,,SIG
+# File ID         : n-Ni58-p-sig-excfun-mon-prodCo58m_Ribansky_1985_30811.003.m
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.3420E-01
+# ymax            :   1.3420E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  2.5000E+05  1.3420E-01  6.1732E-03
+#---------------------------------------------------

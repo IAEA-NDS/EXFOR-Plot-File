@@ -1,0 +1,22 @@
+# EXFOR #         : 23018.011  
+# EXFOR Ver.      : 20151216
+# TRANS #         : 2246
+# Author          : Y.Kasugai et al.
+# Reference       : J.Nucl.Sci.Technol. 38 No.12 (2001) 1048
+# DOI             : 10.1080/18811248.2001.9715135
+# Quantity        : 200Hg(n,p)200gAu cross section
+# REACTION        : 80-HG-200(N,P)79-AU-200-G,M-,SIG
+# File ID         : n-Hg200-p-sig-excfun-mon-prodAu200g_Kasugai_2001_23018.011
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   2.4000E-03
+# ymax            :   2.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  2.4000E-03  4.0000E-04
+#---------------------------------------------------

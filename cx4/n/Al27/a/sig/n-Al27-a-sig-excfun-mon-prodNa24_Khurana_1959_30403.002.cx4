@@ -1,0 +1,22 @@
+# EXFOR #         : 30403.002  
+# EXFOR Ver.      : 20090309
+# TRANS #         : 3135
+# Author          : C.S.Khurana et al.
+# Reference       : Nucl.Phys. 13 (1959) 88
+# DOI             : 10.1016/0029-5582(59)90140-3
+# Quantity        : 27Al(n,a)24Na cross section
+# REACTION        : 13-AL-27(N,A)11-NA-24,,SIG
+# File ID         : n-Al27-a-sig-excfun-mon-prodNa24_Khurana_1959_30403.002
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   1.1100E-01
+# ymax            :   1.1100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  1.1100E-01  1.6650E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 31563.014  
+# EXFOR Ver.      : 20220824
+# TRANS #         : 3208
+# Author          : M.Arif et al.
+# Reference       : Radiochim.Acta 73 (1996) 45
+# DOI             : 10.1524/ract.1996.73.1.45
+# Quantity        : 128Te(n,a)125gSn cross section
+# REACTION        : 52-TE-128(N,A)50-SN-125-G,,SIG,,FIS
+# File ID         : n-Te128-a-sig-excfun-fis-prodSn125g_Arif_1996_31563.014
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.5000E-07
+# ymax            :   3.5000E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.5000E-07  3.0000E-08
+#---------------------------------------------------

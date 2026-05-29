@@ -1,0 +1,23 @@
+# EXFOR #         : 32710.006  
+# EXFOR Ver.      : 20130416
+# TRANS #         : 3160
+# Author          : Yanbin Zhang et al.
+# Reference       : Ann.Nucl.Energy 53 (2013) 99
+# DOI             : 10.1016/j.anucene.2012.10.008
+# Quantity        : 160Gd(n,a)157Sm cross section
+# REACTION        : 64-GD-160(N,A)62-SM-157,,SIG
+# File ID         : n-Gd160-a-sig-excfun-mon-prodSm157_Yanbin%Zhang_2013_32710.006
+#
+# npts            : 2           
+# xmin            :   1.4100E+07
+# xmax            :   1.4700E+07
+# ymin            :   5.2000E-04
+# ymax            :   5.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  2.0000E+05  5.2000E-04  9.0000E-05
+  1.4700E+07  2.0000E+05  5.9000E-04  9.0000E-05
+#---------------------------------------------------

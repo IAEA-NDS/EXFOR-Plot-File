@@ -1,0 +1,29 @@
+# EXFOR #         : 11717.009  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : H.H.Landon et al.
+# Reference       : Phys.Rev. 112 (1958) 1192
+# DOI             : 10.1103/PhysRev.112.1192
+# Quantity        : 89Y(n,inl)89Y partial angular differential cross section
+# REACTION        : 39-Y-89(N,INL)39-Y-89,PAR,DA
+# File ID         : n-Y89-inl-adxl-angdisc-mon-einc2.200E+06_elvl1.530E+06_prodY89_Landon_1958_11717.009
+#
+# Einc (eV)       :   2.2000E+06
+# dEinc (eV)      :   1.2000E+05
+# Elvl (eV)       :   1.5300E+06
+#
+# npts            : 4           
+# xmin            :   45.5729900
+# xmax            :  120.6638000
+# ymin            :   1.6900E-02
+# ymax            :   2.0200E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  45.5729900   0.0000000  1.7700E-02  0.0000E+00
+  60.3302500   0.0000000  1.7300E-02  0.0000E+00
+  90.5729600   0.0000000  1.6900E-02  0.0000E+00
+ 120.6638000   0.0000000  2.0200E-02  0.0000E+00
+#---------------------------------------------------

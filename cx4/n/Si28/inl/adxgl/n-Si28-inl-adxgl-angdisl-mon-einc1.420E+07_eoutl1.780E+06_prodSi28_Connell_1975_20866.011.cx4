@@ -1,0 +1,30 @@
+# EXFOR #         : 20866.011  
+# EXFOR Ver.      : 20180828
+# TRANS #         : 2270
+# Author          : K.A.Connell et al.
+# Reference       : Appl.Radiat.Isot. 26 (1975) 71
+# DOI             : 10.1016/0020-708X(75)90105-2
+# Quantity        : 28Si(n,inl)28Si partial gamma angular differential cross section
+# REACTION        : 14-SI-28(N,INL)14-SI-28,PAR,DA,G
+# File ID         : n-Si28-inl-adxgl-angdisl-mon-einc1.420E+07_eoutl1.780E+06_prodSi28_Connell_1975_20866.011
+#
+# Einc (eV)       :   1.4200E+07
+# Eout,lab (eV)   :   1.7800E+06
+#
+# npts            : 6           
+# xmin            :   29.9685100
+# xmax            :   89.9713500
+# ymin            :   3.1700E-02
+# ymax            :   3.9820E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  89.9713500   0.0000000  3.2480E-02  4.0400E-03
+  75.2560400   0.0000000  3.1700E-02  4.0500E-03
+  59.5623700   0.0000000  3.6520E-02  4.7700E-03
+  44.8788700   0.0000000  3.9820E-02  4.6700E-03
+  35.6000700   0.0000000  3.4360E-02  4.4600E-03
+  29.9685100   0.0000000  3.1840E-02  3.4200E-03
+#---------------------------------------------------

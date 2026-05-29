@@ -1,0 +1,22 @@
+# EXFOR #         : 21994.005  
+# EXFOR Ver.      : 20150804
+# TRANS #         : 2243
+# Author          : S.M.Qaim
+# Reference       : Nucl.Phys.A 438 No.2 (1985) 384
+# DOI             : 10.1016/0375-9474(85)90381-1
+# Quantity        : 127I(n,x)125mTe independent production cross section
+# REACTION        : 53-I-127(N,X)52-TE-125-M,,SIG
+# File ID         : n-I127-x-sig-excfun-mon-prodTe125m_Qaim_1985_21994.005
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   3.5000E-05
+# ymax            :   3.5000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  4.0000E+05  3.5000E-05  1.0000E-05
+#---------------------------------------------------

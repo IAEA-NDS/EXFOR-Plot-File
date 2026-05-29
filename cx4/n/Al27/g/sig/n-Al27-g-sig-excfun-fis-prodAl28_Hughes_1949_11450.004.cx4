@@ -1,0 +1,22 @@
+# EXFOR #         : 11450.004  
+# EXFOR Ver.      : 20021212
+# TRANS #         : 0000
+# Author          : D.J.Hughes et al.
+# Reference       : Phys.Rev. 75 (1949) 1781
+# DOI             : 10.1103/PhysRev.75.1781
+# Quantity        : 27Al(n,g)28Al cross section
+# REACTION        : 13-AL-27(N,G)13-AL-28,,SIG,,FIS
+# File ID         : n-Al27-g-sig-excfun-fis-prodAl28_Hughes_1949_11450.004
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   4.0000E-04
+# ymax            :   4.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  4.0000E-04  0.0000E+00
+#---------------------------------------------------

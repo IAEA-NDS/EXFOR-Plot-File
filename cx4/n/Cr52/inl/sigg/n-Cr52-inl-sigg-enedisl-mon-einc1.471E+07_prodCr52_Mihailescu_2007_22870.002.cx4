@@ -1,0 +1,26 @@
+# EXFOR #         : 22870.002  
+# EXFOR Ver.      : 20160106
+# TRANS #         : 2247
+# Author          : L.C.Mihailescu et al.
+# Reference       : Nucl.Phys.A 786 (2007) 1
+# DOI             : N/A
+# Quantity        : 52Cr(n,inl)52Cr partial gamma production cross section
+# REACTION        : 24-CR-52(N,INL)24-CR-52,PAR,SIG,G
+# File ID         : n-Cr52-inl-sigg-enedisl-mon-einc1.471E+07_prodCr52_Mihailescu_2007_22870.002
+#
+# Einc (eV)       :   1.4713E+07
+# dEinc (eV)      :   9.5460E+04
+#
+# npts            : 2           
+# xmin            :   1.3336E+06
+# xmax            :   1.4341E+06
+# ymin            :   1.6205E-01
+# ymax            :   5.6122E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3336E+06  0.0000E+00  1.6205E-01  1.7754E-02
+  1.4341E+06  0.0000E+00  5.6122E-01  3.2516E-02
+#---------------------------------------------------

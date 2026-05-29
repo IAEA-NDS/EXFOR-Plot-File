@@ -1,0 +1,22 @@
+# EXFOR #         : 31510.002  
+# EXFOR Ver.      : 20010213
+# TRANS #         : 0000
+# Author          : P.M.Suarez et al.
+# Reference       : Nucl.Sci.Eng. 127 (1997) 245
+# DOI             : 10.13182/NSE97-A1934
+# Quantity        : 45Sc(n,a)42K cross section
+# REACTION        : 21-SC-45(N,A)19-K-42,,SIG,,FIS
+# File ID         : n-Sc45-a-sig-excfun-fis-prodK42_Suarez_1997_31510.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.0800E-04
+# ymax            :   3.0800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.0800E-04  1.6000E-05
+#---------------------------------------------------

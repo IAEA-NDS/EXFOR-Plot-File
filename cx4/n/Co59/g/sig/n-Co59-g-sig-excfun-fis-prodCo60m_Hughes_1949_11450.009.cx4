@@ -1,0 +1,22 @@
+# EXFOR #         : 11450.009  
+# EXFOR Ver.      : 20021212
+# TRANS #         : 0000
+# Author          : D.J.Hughes et al.
+# Reference       : Phys.Rev. 75 (1949) 1781
+# DOI             : 10.1103/PhysRev.75.1781
+# Quantity        : 59Co(n,g)60mCo cross section
+# REACTION        : 27-CO-59(N,G)27-CO-60-M,,SIG,,FIS
+# File ID         : n-Co59-g-sig-excfun-fis-prodCo60m_Hughes_1949_11450.009
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.3000E-04
+# ymax            :   2.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.3000E-04  0.0000E+00
+#---------------------------------------------------

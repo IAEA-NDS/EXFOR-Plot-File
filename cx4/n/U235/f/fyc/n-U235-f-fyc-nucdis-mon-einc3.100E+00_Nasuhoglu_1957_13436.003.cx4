@@ -1,0 +1,25 @@
+# EXFOR #         : 13436.003  
+# EXFOR Ver.      : 19900207
+# TRANS #         : 0000
+# Author          : R.Nasuhoglu et al.
+# Reference       : Phys.Rev. 108 (1957) 1522
+# DOI             : 10.1103/PhysRev.108.1522
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-U235-f-fyc-nucdis-mon-einc3.100E+00_Nasuhoglu_1957_13436.003
+#
+# Einc (eV)       :   3.1000E+00
+#
+# npts            : 2           
+# xmin            : 47111.9     
+# xmax            : 48115.9     
+# ymin            :   8.0000E-05
+# ymax            :   1.9000E-04
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     47111.9  1.9000E-04  3.8000E-05
+     48115.9  8.0000E-05  1.6000E-05
+#---------------------------------------------------

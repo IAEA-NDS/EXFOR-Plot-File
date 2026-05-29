@@ -1,0 +1,26 @@
+# EXFOR #         : 31410.002  
+# EXFOR Ver.      : 20080509
+# TRANS #         : 3127
+# Author          : M.Achour et al.
+# Reference       : Proceedings of Int.Nucl.Phys.Conf., Harrogate,U.K.,25-30 Aug.1986 1 page 130
+# DOI             : N/A
+# Quantity        : 139La(n,p)139Ba cross section
+# REACTION        : 57-LA-139(N,P)56-BA-139,,SIG
+# File ID         : n-La139-p-sig-excfun-mon-prodBa139_Achour_1986_31410.002
+#
+# npts            : 5           
+# xmin            :   1.3700E+07
+# xmax            :   1.4750E+07
+# ymin            :   2.5000E-03
+# ymax            :   3.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3700E+07  5.0000E+04  2.5000E-03  5.0000E-04
+  1.4030E+07  5.0000E+04  2.7000E-03  5.0000E-04
+  1.4440E+07  7.0000E+04  2.7000E-03  5.0000E-04
+  1.4630E+07  8.0000E+04  3.2000E-03  6.0000E-04
+  1.4750E+07  9.0000E+04  3.4000E-03  6.0000E-04
+#---------------------------------------------------

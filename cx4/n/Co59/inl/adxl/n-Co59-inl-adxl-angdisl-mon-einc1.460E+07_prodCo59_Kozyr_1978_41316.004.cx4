@@ -1,0 +1,24 @@
+# EXFOR #         : 41316.004  
+# EXFOR Ver.      : 20200312
+# TRANS #         : 4186
+# Author          : Yu.E.Kozyr' et al.
+# Reference       : Yad.Fiz. 27 (1978) 616
+# DOI             : N/A
+# Quantity        : 59Co(n,inl)59Co angular differential cross section
+# REACTION        : 27-CO-59(N,INL)27-CO-59,,DA,,4PI
+# File ID         : n-Co59-inl-adxl-angdisl-mon-einc1.460E+07_prodCo59_Kozyr_1978_41316.004
+#
+# Einc (eV)       :   1.4600E+07
+#
+# npts            : 1           
+# xmin            :   60.0000000
+# xmax            :   60.0000000
+# ymin            :   3.1831E-02
+# ymax            :   3.1831E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  60.0000000   0.0000000  3.1831E-02  3.1831E-03
+#---------------------------------------------------

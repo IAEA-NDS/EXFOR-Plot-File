@@ -1,0 +1,22 @@
+# EXFOR #         : 21644.007  
+# EXFOR Ver.      : 20220209
+# TRANS #         : 2309
+# Author          : G.Benedetti et al.
+# Reference       : Nucl.Sci.Eng. 80 (1982) 379
+# DOI             : 10.13182/NSE82-A19822
+# Quantity        : 241Am(n,f) delayed fission neutron multiplicity
+# REACTION        : 95-AM-241(N,F),DL,NU,,SPA
+# File ID         : n-Am241-f-nud-excfun-spa-Benedetti_1982_21644.007
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.9400E-05
+# ymax            :   3.9400E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-d        dnu-d       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.9400E-05  2.4000E-06
+#---------------------------------------------------

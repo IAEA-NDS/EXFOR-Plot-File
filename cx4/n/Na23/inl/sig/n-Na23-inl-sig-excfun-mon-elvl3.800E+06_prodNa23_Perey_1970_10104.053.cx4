@@ -1,0 +1,28 @@
+# EXFOR #         : 10104.053  
+# EXFOR Ver.      : 20000202
+# TRANS #         : 0000
+# Author          : F.G.Perey et al.
+# Reference       : Report ORNL-4518, 1970
+# DOI             : N/A
+# Quantity        : 23Na(n,inl)23Na partial cross section
+# REACTION        : 11-NA-23(N,INL)11-NA-23,PAR,SIG
+# File ID         : n-Na23-inl-sig-excfun-mon-elvl3.800E+06_prodNa23_Perey_1970_10104.053
+#
+# Elvl (eV)       :   3.8000E+06
+# dElvl (eV)      :   1.2000E+05
+#
+# npts            : 4           
+# xmin            :   5.4400E+06
+# xmax            :   8.5200E+06
+# ymin            :   7.8890E-02
+# ymax            :   1.6404E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.4400E+06  1.7000E+05  1.6196E-01  2.2836E-02
+  6.3700E+06  1.3000E+05  1.6404E-01  1.5092E-02
+  7.6000E+06  1.0000E+05  8.4210E-02  6.9894E-03
+  8.5200E+06  8.0000E+04  7.8890E-02  6.6268E-03
+#---------------------------------------------------

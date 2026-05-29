@@ -1,0 +1,25 @@
+# EXFOR #         : 10849.008  
+# EXFOR Ver.      : 19900208
+# TRANS #         : 0000
+# Author          : J.M.Harrison
+# Reference       : Diss.Abstr.B 39 (1979) 5431
+# DOI             : N/A
+# Quantity        : 121Sb(n,inl)121Sb partial gamma production cross section
+# REACTION        : 51-SB-121(N,INL)51-SB-121,PAR,SIG,G
+# File ID         : n-Sb121-inl-sigg-enedisl-mon-einc3.000E+06_prodSb121_Harrison_1979_10849.008
+#
+# Einc (eV)       :   3.0000E+06
+#
+# npts            : 2           
+# xmin            :   1.0890E+06
+# xmax            :   1.3380E+06
+# ymin            :   5.0000E-02
+# ymax            :   2.6500E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0890E+06  0.0000E+00  2.6500E-01  4.0000E-02
+  1.3380E+06  0.0000E+00  5.0000E-02  8.0000E-03
+#---------------------------------------------------

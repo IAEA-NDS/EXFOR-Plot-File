@@ -1,0 +1,25 @@
+# EXFOR #         : 21381.003  
+# EXFOR Ver.      : 20050915
+# TRANS #         : 2174
+# Author          : M.A.Grace et al.
+# Reference       : Phys.Rev. 82 (1951) 969
+# DOI             : N/A
+# Quantity        : natMg(n,inl)natMg partial gamma production cross section
+# REACTION        : 12-MG-0(N,INL)12-MG-0,PAR,SIG,G
+# File ID         : n-Mg-inl-sigg-enedisl-mon-einc2.500E+06_prodMg_Grace_1951_21381.003
+#
+# Einc (eV)       :   2.5000E+06
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 1           
+# xmin            :   1.4000E+06
+# xmax            :   1.4000E+06
+# ymin            :   7.5000E-01
+# ymax            :   7.5000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+06  0.0000E+00  7.5000E-01  2.3000E-01
+#---------------------------------------------------

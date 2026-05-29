@@ -1,0 +1,22 @@
+# EXFOR #         : 32217.003  
+# EXFOR Ver.      : 20200907
+# TRANS #         : 3197
+# Author          : O.Gritzay et al.
+# Reference       : Proceedings of 13th Inter.Symp.on Reactor Dosimetry, Akersloot, 2008 page 549
+# DOI             : N/A
+# Quantity        : 181Ta(n,g)182Ta cross section
+# REACTION        : 73-TA-181(N,G)73-TA-182,,SIG,,SPA
+# File ID         : n-Ta181-g-sig-excfun-spa-prodTa182_Gritzay_2008_32217.003
+#
+# npts            : 1           
+# xmin            :   4.6764E+04
+# xmax            :   4.6764E+04
+# ymin            :   4.8000E-01
+# ymax            :   4.8000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.6764E+04  1.3361E+04  4.8000E-01  3.9000E-02
+#---------------------------------------------------

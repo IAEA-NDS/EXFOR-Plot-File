@@ -1,0 +1,22 @@
+# EXFOR #         : 20734.008  
+# EXFOR Ver.      : 20101112
+# TRANS #         : 2225
+# Author          : A.M.Bresesti et al.
+# Reference       : Nucl.Sci.Eng. 40 (1970) 331
+# DOI             : 10.13182/NSE70-A19693
+# Quantity        : 58Ni(n,p)58mCo cross section
+# REACTION        : 28-NI-58(N,P)27-CO-58-M,,SIG,,FIS
+# File ID         : n-Ni58-p-sig-excfun-fis-prodCo58m_Bresesti_1970_20734.008
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.9500E-02
+# ymax            :   2.9500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.9500E-02  1.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 11191.002  
+# EXFOR Ver.      : 20210317
+# TRANS #         : 1483
+# Author          : J.Rainwater et al.
+# Reference       : Phys.Rev. 70 (1946) 136
+# DOI             : 10.1103/PhysRev.70.136
+# Quantity        : natB(n,tot) cross section
+# REACTION        : 5-B-0(N,TOT),,SIG
+# File ID         : n-B-tot-sig-excfun-mon-Rainwater_1946_11191.002
+#
+# npts            : 3           
+# xmin            :   3.6246E+01
+# xmax            :   2.5964E+02
+# ymin            :   7.3620E+00
+# ymax            :   1.9728E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5964E+02  0.0000E+00  7.3620E+00  0.0000E+00
+  7.6301E+01  0.0000E+00  1.2815E+01  0.0000E+00
+  3.6246E+01  0.0000E+00  1.9728E+01  0.0000E+00
+#---------------------------------------------------

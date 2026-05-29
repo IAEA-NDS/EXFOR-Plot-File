@@ -1,0 +1,25 @@
+# EXFOR #         : 11362.003  
+# EXFOR Ver.      : 20071108
+# TRANS #         : Y001
+# Author          : L.C.Thompson et al.
+# Reference       : Phys.Rev. 94 (1954) 941
+# DOI             : 10.1103/PhysRev.94.941
+# Quantity        : 16O(n,inl)16O partial gamma production cross section
+# REACTION        : 8-O-16(N,INL)8-O-16,PAR,SIG,G
+# File ID         : n-O16-inl-sigg-enedisl-mon-einc1.410E+07_prodO16_Thompson_1954_11362.003
+#
+# Einc (eV)       :   1.4100E+07
+#
+# npts            : 2           
+# xmin            :   6.1300E+06
+# xmax            :   7.0000E+06
+# ymin            :   5.0000E-02
+# ymax            :   2.0000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.1300E+06  0.0000E+00  2.0000E-01  0.0000E+00
+  7.0000E+06  0.0000E+00  5.0000E-02  0.0000E+00
+#---------------------------------------------------

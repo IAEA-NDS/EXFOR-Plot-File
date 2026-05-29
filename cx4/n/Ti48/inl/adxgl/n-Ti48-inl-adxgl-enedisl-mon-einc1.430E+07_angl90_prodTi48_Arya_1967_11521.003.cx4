@@ -1,0 +1,25 @@
+# EXFOR #         : 11521.003  
+# EXFOR Ver.      : 20220320
+# TRANS #         : 1494
+# Author          : A.P.Arya et al.
+# Reference       : Bull.Am.Phys.Soc. 12 (1967) 124(HD4)
+# DOI             : N/A
+# Quantity        : 48Ti(n,inl)48Ti partial gamma angular differential cross section
+# REACTION        : 22-TI-48(N,INL)22-TI-48,PAR,DA,G
+# File ID         : n-Ti48-inl-adxgl-enedisl-mon-einc1.430E+07_angl90_prodTi48_Arya_1967_11521.003
+#
+# Einc (eV)       :   1.4300E+07
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   9.9000E+05
+# xmax            :   9.9000E+05
+# ymin            :   2.2300E-02
+# ymax            :   2.2300E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.9000E+05  0.0000E+00  2.2300E-02  7.5000E-03
+#---------------------------------------------------

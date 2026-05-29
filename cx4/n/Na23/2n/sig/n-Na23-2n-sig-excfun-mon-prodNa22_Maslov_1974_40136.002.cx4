@@ -1,0 +1,23 @@
+# EXFOR #         : 40136.002  
+# EXFOR Ver.      : 20150109
+# TRANS #         : 4172
+# Author          : G.N.Maslov et al.
+# Reference       : Report INDC(CCP)-42 page 10, 1974
+# DOI             : N/A
+# Quantity        : 23Na(n,2n)22Na cross section
+# REACTION        : 11-NA-23(N,2N)11-NA-22,,SIG
+# File ID         : n-Na23-2n-sig-excfun-mon-prodNa22_Maslov_1974_40136.002
+#
+# npts            : 2           
+# xmin            :   1.4200E+07
+# xmax            :   1.4600E+07
+# ymin            :   2.1100E-02
+# ymax            :   3.7400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  2.1100E-02  2.2000E-03
+  1.4600E+07  2.0000E+05  3.7400E-02  4.0000E-03
+#---------------------------------------------------

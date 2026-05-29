@@ -1,0 +1,22 @@
+# EXFOR #         : 31838.002.1
+# EXFOR Ver.      : 20211110
+# TRANS #         : 3206
+# Author          : M.Kostal et al.
+# Reference       : Ann.Nucl.Energy 158 (2021) 108268
+# DOI             : 10.1016/j.anucene.2021.108268
+# Quantity        : 47Ti(n,p)47Sc cross section
+# REACTION        : 22-TI-47(N,P)21-SC-47,,SIG,,SPA
+# File ID         : n-Ti47-p-sig-excfun-spa-prodSc47_Kostal_2021_31838.002.1
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.0880E-06
+# ymax            :   3.0880E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.0880E-06  7.1024E-08
+#---------------------------------------------------

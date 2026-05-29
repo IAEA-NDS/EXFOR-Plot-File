@@ -1,0 +1,22 @@
+# EXFOR #         : 20540.021  
+# EXFOR Ver.      : 20071216
+# TRANS #         : 2190
+# Author          : W.Struwe et al.
+# Reference       : Nucl.Phys.A 222 (1974) 605
+# DOI             : 10.1016/0375-9474(74)90342-X
+# Quantity        : 128Te(n,p)128Sb cross section
+# REACTION        : 52-TE-128(N,P)51-SB-128,,SIG
+# File ID         : n-Te128-p-sig-excfun-mon-prodSb128_Struwe_1974_20540.021
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   2.1600E-03
+# ymax            :   2.1600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  2.1600E-03  1.3000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 11331.009  
+# EXFOR Ver.      : 19820324
+# TRANS #         : 0000
+# Author          : R.L.Macklin et al.
+# Reference       : Phys.Rev. 129 (1963) 2695
+# DOI             : 10.1103/PhysRev.129.2695
+# Quantity        : natK(n,g) cross section
+# REACTION        : 19-K-0(N,G),,SIG
+# File ID         : n-K-g-sig-excfun-mon-prodK1_Macklin_1963_11331.009
+#
+# npts            : 2           
+# xmin            :   3.0000E+04
+# xmax            :   6.5000E+04
+# ymin            :   4.0000E-03
+# ymax            :   1.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  7.0000E+03  1.6000E-02  2.0000E-03
+  6.5000E+04  2.0000E+04  4.0000E-03  1.0000E-03
+#---------------------------------------------------

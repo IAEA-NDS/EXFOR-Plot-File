@@ -1,0 +1,25 @@
+# EXFOR #         : 21381.002  
+# EXFOR Ver.      : 20050915
+# TRANS #         : 2174
+# Author          : M.A.Grace et al.
+# Reference       : Phys.Rev. 82 (1951) 969
+# DOI             : N/A
+# Quantity        : 19F(n,inl)19F partial cross section
+# REACTION        : 9-F-19(N,INL)9-F-19,PAR,SIG
+# File ID         : n-F19-inl-sig-lvldis-mon-einc2.500E+06_prodF19_Grace_1951_21381.002
+#
+# Einc (eV)       :   2.5000E+06
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 1           
+# xmin            :   1.3000E+06
+# xmax            :   1.3000E+06
+# ymin            :   5.2000E-01
+# ymax            :   5.2000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+06  1.0000E+05  5.2000E-01  1.8000E-01
+#---------------------------------------------------

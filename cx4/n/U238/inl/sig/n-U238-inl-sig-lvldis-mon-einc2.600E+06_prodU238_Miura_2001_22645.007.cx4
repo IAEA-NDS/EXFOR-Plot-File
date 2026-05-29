@@ -1,0 +1,25 @@
+# EXFOR #         : 22645.007  
+# EXFOR Ver.      : 20070430
+# TRANS #         : 2185
+# Author          : T.Miura et al.
+# Reference       : Ann.Nucl.Energy 28 (2001) 937
+# DOI             : 10.1016/S0306-4549(00)00102-X
+# Quantity        : 238U(n,inl)238U partial cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,SIG
+# File ID         : n-U238-inl-sig-lvldis-mon-einc2.600E+06_prodU238_Miura_2001_22645.007
+#
+# Einc (eV)       :   2.6000E+06
+#
+# npts            : 2           
+# xmin            :   7.5000E+05
+# xmax            :   1.1500E+06
+# ymin            :   7.5500E-02
+# ymax            :   3.6400E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.5000E+05  0.0000E+00  7.5500E-02  6.6000E-03
+  1.1500E+06  0.0000E+00  3.6400E-01  1.8000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 30011.009  
+# EXFOR Ver.      : 20070806
+# TRANS #         : 3123
+# Author          : P.N.Tiwari et al.
+# Reference       : Phys.Rev. 167 (1968) 1091
+# DOI             : 10.1103/PhysRev.167.1091
+# Quantity        : 48Ca(n,2n)47Ca cross section
+# REACTION        : 20-CA-48(N,2N)20-CA-47,,SIG
+# File ID         : n-Ca48-2n-sig-excfun-mon-prodCa47_Tiwari_1968_30011.009
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   9.0000E-01
+# ymax            :   9.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  9.0000E-01  1.0800E-01
+#---------------------------------------------------

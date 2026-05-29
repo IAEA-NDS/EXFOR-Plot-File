@@ -1,0 +1,22 @@
+# EXFOR #         : 23420.021.1
+# EXFOR Ver.      : 20211123
+# TRANS #         : 2305
+# Author          : F.Kappeler et al.
+# Reference       : Phys.Rev.C 53 (1996) 1397
+# DOI             : 10.1103/PhysRevC.53.1397
+# Quantity        : 142Ce(n,g)143Ce cross section
+# REACTION        : 58-CE-142(N,G)58-CE-143,,SIG,,MXW
+# File ID         : n-Ce142-g-sig-excfun-mxw-prodCe143_Kappeler_1996_23420.021.1
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   3.2400E-02
+# ymax            :   3.2400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  3.2400E-02  1.0000E-03
+#---------------------------------------------------

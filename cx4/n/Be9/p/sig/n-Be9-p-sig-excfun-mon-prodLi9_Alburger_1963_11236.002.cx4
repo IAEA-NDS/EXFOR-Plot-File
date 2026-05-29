@@ -1,0 +1,22 @@
+# EXFOR #         : 11236.002  
+# EXFOR Ver.      : 19841008
+# TRANS #         : 0000
+# Author          : D.E.Alburger
+# Reference       : Phys.Rev. 132 (1963) 328
+# DOI             : 10.1103/PhysRev.132.328
+# Quantity        : 9Be(n,p)9Li cross section
+# REACTION        : 4-BE-9(N,P)3-LI-9,,SIG
+# File ID         : n-Be9-p-sig-excfun-mon-prodLi9_Alburger_1963_11236.002
+#
+# npts            : 1           
+# xmin            :   1.5500E+07
+# xmax            :   1.5500E+07
+# ymin            :   7.0000E-04
+# ymax            :   7.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5500E+07  0.0000E+00  7.0000E-04  3.5000E-04
+#---------------------------------------------------

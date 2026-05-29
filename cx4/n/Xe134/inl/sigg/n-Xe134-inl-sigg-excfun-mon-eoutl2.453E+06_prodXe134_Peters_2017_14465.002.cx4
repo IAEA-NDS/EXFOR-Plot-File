@@ -1,0 +1,28 @@
+# EXFOR #         : 14465.002  
+# EXFOR Ver.      : 20170209
+# TRANS #         : 1426
+# Author          : E.E.Peters et al.
+# Reference       : Phys.Rev.C 95 (2017) 014325
+# DOI             : 10.1103/PhysRevC.95.014325
+# Quantity        : 134Xe(n,inl)134Xe partial gamma production cross section
+# REACTION        : 54-XE-134(N,INL)54-XE-134,PAR,SIG,G
+# File ID         : n-Xe134-inl-sigg-excfun-mon-eoutl2.453E+06_prodXe134_Peters_2017_14465.002
+#
+# Eout,lab (eV)   :   2.4529E+06
+#
+# npts            : 5           
+# xmin            :   3.5000E+06
+# xmax            :   4.5000E+06
+# ymin            :   1.9500E-03
+# ymax            :   3.7500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+06  0.0000E+00  1.9500E-03  6.0000E-04
+  3.7500E+06  0.0000E+00  3.0200E-03  7.9000E-04
+  4.0000E+06  0.0000E+00  3.1300E-03  6.4000E-04
+  4.2500E+06  0.0000E+00  3.7500E-03  8.1000E-04
+  4.5000E+06  0.0000E+00  3.5200E-03  8.9000E-04
+#---------------------------------------------------

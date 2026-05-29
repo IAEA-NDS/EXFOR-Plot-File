@@ -1,0 +1,26 @@
+# EXFOR #         : 12835.004  
+# EXFOR Ver.      : 20110727
+# TRANS #         : 1374
+# Author          : C.Budtz-Jorgensen et al.
+# Reference       : Z.Phys.A 319 (1984) 47
+# DOI             : 10.1007/BF01429766
+# Quantity        : 89Y(n,inl)89Y partial cross section
+# REACTION        : 39-Y-89(N,INL)39-Y-89,PAR,SIG
+# File ID         : n-Y89-inl-sig-excfun-mon-elvl3.108E+06_prodY89_Budtz+Jorgensen_1984_12835.004
+#
+# Elvl (eV)       :   3.1080E+06
+#
+# npts            : 3           
+# xmin            :   3.7800E+06
+# xmax            :   3.9600E+06
+# ymin            :   3.9000E-01
+# ymax            :   4.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7800E+06  0.0000E+00  3.9200E-01  1.1800E-01
+  3.8700E+06  0.0000E+00  4.0000E-01  1.1000E-01
+  3.9600E+06  0.0000E+00  3.9000E-01  9.7300E-02
+#---------------------------------------------------

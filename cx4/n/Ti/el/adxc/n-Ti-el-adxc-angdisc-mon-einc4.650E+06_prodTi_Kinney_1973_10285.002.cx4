@@ -1,0 +1,27 @@
+# EXFOR #         : 10285.002  
+# EXFOR Ver.      : 20071108
+# TRANS #         : Y001
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4810, 1973
+# DOI             : N/A
+# Quantity        : natTi(n,el)natTi angular differential cross section
+# REACTION        : 22-TI-0(N,EL)22-TI-0,,DA
+# File ID         : n-Ti-el-adxc-angdisc-mon-einc4.650E+06_prodTi_Kinney_1973_10285.002
+#
+# Einc (eV)       :   4.6500E+06
+# dEinc (eV)      :   3.5000E+04
+#
+# npts            : 3           
+# xmin            :   71.1300000
+# xmax            :   86.2000000
+# ymin            :   2.9300E-02
+# ymax            :   3.7020E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  71.1300000   0.0000000  3.0770E-02  0.0000E+00
+  78.6700000   0.0000000  2.9300E-02  0.0000E+00
+  86.2000000   0.0000000  3.7020E-02  0.0000E+00
+#---------------------------------------------------

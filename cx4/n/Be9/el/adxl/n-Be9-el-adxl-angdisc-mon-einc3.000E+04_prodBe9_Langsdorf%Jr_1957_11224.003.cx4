@@ -1,0 +1,29 @@
+# EXFOR #         : 11224.003  
+# EXFOR Ver.      : 19860917
+# TRANS #         : 0000
+# Author          : A.Langsdorf Jr et al.
+# Reference       : Phys.Rev. 107 (1957) 1077
+# DOI             : 10.1103/PhysRev.107.1077
+# Quantity        : 9Be(n,el)9Be angular differential cross section
+# REACTION        : 4-BE-9(N,EL)4-BE-9,,DA
+# File ID         : n-Be9-el-adxl-angdisc-mon-einc3.000E+04_prodBe9_Langsdorf%Jr_1957_11224.003
+#
+# Einc (eV)       :   3.0000E+04
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 5           
+# xmin            :   29.8881300
+# xmax            :  147.7362000
+# ymin            :   4.6200E-01
+# ymax            :   4.7400E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  29.8881300   5.0000000  4.6200E-01  0.0000E+00
+  60.2048800   5.0000000  4.6700E-01  0.0000E+00
+  97.3713600   5.0000000  4.7300E-01  0.0000E+00
+ 118.8618000   3.0000000  4.7400E-01  0.0000E+00
+ 147.7362000   3.0000000  4.7200E-01  0.0000E+00
+#---------------------------------------------------

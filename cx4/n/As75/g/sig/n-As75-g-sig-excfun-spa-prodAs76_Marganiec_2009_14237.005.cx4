@@ -1,0 +1,22 @@
+# EXFOR #         : 14237.005  
+# EXFOR Ver.      : 20210913
+# TRANS #         : 1486
+# Author          : J.Marganiec et al.
+# Reference       : Phys.Rev.C 79 (2009) 065802
+# DOI             : 10.1103/PhysRevC.79.065802
+# Quantity        : 75As(n,g)76As cross section
+# REACTION        : 33-AS-75(N,G)33-AS-76,,SIG,,SPA
+# File ID         : n-As75-g-sig-excfun-spa-prodAs76_Marganiec_2009_14237.005
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   3.9420E-01
+# ymax            :   3.9420E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  3.9420E-01  2.0000E-02
+#---------------------------------------------------

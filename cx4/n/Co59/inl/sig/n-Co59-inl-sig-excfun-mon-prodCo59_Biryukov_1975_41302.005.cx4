@@ -1,0 +1,22 @@
+# EXFOR #         : 41302.005  
+# EXFOR Ver.      : 20230323
+# TRANS #         : 4213
+# Author          : N.S.Biryukov et al.
+# Reference       : Report INDC(CCP)-099 Vol.(4) page 118, 1975
+# DOI             : N/A
+# Quantity        : 59Co(n,inl)59Co cross section
+# REACTION        : 27-CO-59(N,INL)27-CO-59,,SIG
+# File ID         : n-Co59-inl-sig-excfun-mon-prodCo59_Biryukov_1975_41302.005
+#
+# npts            : 1           
+# xmin            :   9.1000E+06
+# xmax            :   9.1000E+06
+# ymin            :   1.5300E+00
+# ymax            :   1.5300E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.1000E+06  1.0000E+05  1.5300E+00  1.8000E-01
+#---------------------------------------------------

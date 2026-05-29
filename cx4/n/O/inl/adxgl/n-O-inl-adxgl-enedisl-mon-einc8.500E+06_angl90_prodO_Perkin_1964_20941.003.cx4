@@ -1,0 +1,28 @@
+# EXFOR #         : 20941.003  
+# EXFOR Ver.      : 20180123
+# TRANS #         : 2263
+# Author          : J.L.Perkin
+# Reference       : Nucl.Phys. 60 (1964) 561
+# DOI             : 10.1016/0029-5582(64)90093-8
+# Quantity        : natO(n,inl)natO partial gamma angular differential cross section
+# REACTION        : 8-O-0(N,INL)8-O-0,PAR,DA,G
+# File ID         : n-O-inl-adxgl-enedisl-mon-einc8.500E+06_angl90_prodO_Perkin_1964_20941.003
+#
+# Einc (eV)       :   8.5000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 4           
+# xmin            :   5.7500E+06
+# xmax            :   7.2500E+06
+# ymin            :   1.0000E-03
+# ymax            :   9.0000E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.7500E+06  2.5000E+05  4.0000E-03  3.0000E-03
+  6.2500E+06  2.5000E+05  9.0000E-03  2.0000E-03
+  6.7500E+06  2.5000E+05  2.0000E-03  2.0000E-03
+  7.2500E+06  2.5000E+05  1.0000E-03  2.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 12695.003  
+# EXFOR Ver.      : 20140422
+# TRANS #         : 1401
+# Author          : I.L.Morgan et al.
+# Reference       : Progress report TID-22012 page 158, 1964
+# DOI             : N/A
+# Quantity        : 12C(n,inl)12C partial gamma production cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,SIG,G
+# File ID         : n-C12-inl-sigg-excfun-mon-eoutl4.430E+06_prodC12_Morgan_1964_12695.003
+#
+# Eout,lab (eV)   :   4.4300E+06
+#
+# npts            : 3           
+# xmin            :   1.3030E+07
+# xmax            :   1.6030E+07
+# ymin            :   1.7000E-01
+# ymax            :   4.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3030E+07  0.0000E+00  4.4000E-01  8.0000E-02
+  1.4800E+07  0.0000E+00  2.2500E-01  3.0000E-02
+  1.6030E+07  0.0000E+00  1.7000E-01  3.5000E-02
+#---------------------------------------------------

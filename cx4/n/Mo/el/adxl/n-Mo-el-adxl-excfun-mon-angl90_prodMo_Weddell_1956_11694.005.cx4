@@ -1,0 +1,25 @@
+# EXFOR #         : 11694.005  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : J.B.Weddell et al.
+# Reference       : Bull.Am.Phys.Soc. 1 (1956) 55(R5)
+# DOI             : N/A
+# Quantity        : natMo(n,el)natMo angular differential cross section
+# REACTION        : 42-MO-0(N,EL),,DA
+# File ID         : n-Mo-el-adxl-excfun-mon-angl90_prodMo_Weddell_1956_11694.005
+#
+# theta,lab (deg) :   90.0000000
+# dtheta,lab (deg):    5.0000000
+#
+# npts            : 1           
+# xmin            :   4.4000E+06
+# xmax            :   4.4000E+06
+# ymin            :   3.6000E-02
+# ymax            :   3.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.4000E+06  5.0000E+04  3.6000E-02  9.0000E-03
+#---------------------------------------------------

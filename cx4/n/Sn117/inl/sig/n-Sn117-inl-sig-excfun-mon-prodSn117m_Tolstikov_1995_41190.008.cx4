@@ -1,0 +1,23 @@
+# EXFOR #         : 41190.008  
+# EXFOR Ver.      : 20191108
+# TRANS #         : 4184
+# Author          : V.A.Tolstikov et al.
+# Reference       : Yad.Reak.Konst.  No.3-4 (1995) 46
+# DOI             : N/A
+# Quantity        : 117Sn(n,inl)117mSn cross section
+# REACTION        : 50-SN-117(N,INL)50-SN-117-M,,SIG
+# File ID         : n-Sn117-inl-sig-excfun-mon-prodSn117m_Tolstikov_1995_41190.008
+#
+# npts            : 2           
+# xmin            :   5.2400E+05
+# xmax            :   6.8500E+05
+# ymin            :   2.0400E-03
+# ymax            :   8.2900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2400E+05  4.7000E+04  2.0400E-03  5.9160E-05
+  6.8500E+05  4.5500E+04  8.2900E-03  5.1398E-04
+#---------------------------------------------------

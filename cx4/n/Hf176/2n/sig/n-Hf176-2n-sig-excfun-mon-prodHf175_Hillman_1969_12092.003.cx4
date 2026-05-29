@@ -1,0 +1,22 @@
+# EXFOR #         : 12092.003  
+# EXFOR Ver.      : 20200504
+# TRANS #         : 1468
+# Author          : M.Hillman et al.
+# Reference       : J.Inorg.Nucl.Chem. 31 (1969) 909
+# DOI             : 10.1016/0022-1902(69)80136-3
+# Quantity        : 176Hf(n,2n)175Hf cross section
+# REACTION        : 72-HF-176(N,2N)72-HF-175,,SIG
+# File ID         : n-Hf176-2n-sig-excfun-mon-prodHf175_Hillman_1969_12092.003
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   2.0000E+00
+# ymax            :   2.0000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  0.0000E+00  2.0000E+00  1.0000E-01
+#---------------------------------------------------

@@ -1,0 +1,32 @@
+# EXFOR #         : 41201.003  
+# EXFOR Ver.      : 20130123
+# TRANS #         : 4159
+# Author          : V.M.Gorbachev et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 2 page 950
+# DOI             : N/A
+# Quantity        : natW(n,g+x) energy differential cross section
+# REACTION        : 74-W-0(N,X)0-G-0,,DE
+# File ID         : n-W-xg-edxl-enedisl-mon-einc1.380E+07_Gorbachev_1994_41201.003
+#
+# Einc (eV)       :   1.3800E+07
+#
+# npts            : 9           
+# xmin            :   7.5000E+05
+# xmax            :   6.5000E+06
+# ymin            :   7.0000E-09
+# ymax            :   2.9200E-06
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   edx,lab     dedx,lab    
+#  eV          eV          b/eV        b/eV       
+#---------------------------------------------------
+  7.5000E+05  2.5000E+05  2.9200E-06  6.6800E-07
+  1.2500E+06  2.5000E+05  1.8200E-06  4.2000E-07
+  1.7500E+06  2.5000E+05  1.2900E-06  2.7000E-07
+  2.2500E+06  2.5000E+05  9.2000E-07  1.8800E-07
+  2.7500E+06  2.5000E+05  5.0000E-07  1.2200E-07
+  3.5000E+06  5.0000E+05  1.4500E-07  6.6000E-08
+  4.5000E+06  5.0000E+05  3.8000E-08  4.2000E-08
+  5.5000E+06  5.0000E+05  1.1000E-08  2.4000E-08
+  6.5000E+06  5.0000E+05  7.0000E-09  1.2000E-08
+#---------------------------------------------------

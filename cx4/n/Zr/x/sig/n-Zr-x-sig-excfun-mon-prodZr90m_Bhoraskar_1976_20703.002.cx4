@@ -1,0 +1,22 @@
+# EXFOR #         : 20703.002  
+# EXFOR Ver.      : 20120714
+# TRANS #         : 2232
+# Author          : V.Bhoraskar et al.
+# Reference       : J.Nucl.Sci.Technol. 13 No.7 (1976) 343
+# DOI             : 10.1080/18811248.1976.9734038
+# Quantity        : natZr(n,x)90mZr independent production cross section
+# REACTION        : 40-ZR-0(N,X)40-ZR-90-M,,SIG
+# File ID         : n-Zr-x-sig-excfun-mon-prodZr90m_Bhoraskar_1976_20703.002
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   7.0000E-01
+# ymax            :   7.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  0.0000E+00  7.0000E-01  9.4000E-02
+#---------------------------------------------------

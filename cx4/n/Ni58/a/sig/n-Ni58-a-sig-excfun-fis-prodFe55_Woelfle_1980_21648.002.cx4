@@ -1,0 +1,22 @@
+# EXFOR #         : 21648.002  
+# EXFOR Ver.      : 20101114
+# TRANS #         : 2225
+# Author          : R.Woelfle et al.
+# Reference       : Radiochim.Acta 27 (1980) 65
+# DOI             : 10.1524/ract.1980.27.2.65
+# Quantity        : 58Ni(n,a)55Fe cross section
+# REACTION        : 28-NI-58(N,A)26-FE-55,,SIG,,FIS
+# File ID         : n-Ni58-a-sig-excfun-fis-prodFe55_Woelfle_1980_21648.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   4.5200E-03
+# ymax            :   4.5200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  4.5200E-03  9.0000E-04
+#---------------------------------------------------

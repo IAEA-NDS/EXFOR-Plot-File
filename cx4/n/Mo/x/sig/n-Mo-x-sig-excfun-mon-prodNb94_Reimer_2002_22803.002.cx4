@@ -1,0 +1,24 @@
+# EXFOR #         : 22803.002  
+# EXFOR Ver.      : 20090814
+# TRANS #         : 2214
+# Author          : P.Reimer et al.
+# Reference       : Nucl.Phys.A 705 No.3-4 (2002) 265
+# DOI             : 10.1016/S0375-9474(02)00653-X
+# Quantity        : natMo(n,x)94Nb independent production cross section
+# REACTION        : 42-MO-0(N,X)41-NB-94,,SIG
+# File ID         : n-Mo-x-sig-excfun-mon-prodNb94_Reimer_2002_22803.002
+#
+# npts            : 3           
+# xmin            :   1.4500E+07
+# xmax            :   2.0300E+07
+# ymin            :   9.9000E-03
+# ymax            :   2.8300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  7.0000E+05  9.9000E-03  1.6000E-03
+  1.8000E+07  7.0000E+05  1.7600E-02  1.4000E-03
+  2.0300E+07  3.0000E+05  2.8300E-02  7.3000E-03
+#---------------------------------------------------

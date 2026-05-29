@@ -1,0 +1,22 @@
+# EXFOR #         : 12022.002  
+# EXFOR Ver.      : 20160804
+# TRANS #         : 1421
+# Author          : F.Brown et al.
+# Reference       : J.Nucl.Energy A 13 (1961) 141
+# DOI             : 10.1016/0368-3265(61)90005-6
+# Quantity        : 133Cs(n,g)134Cs cross section
+# REACTION        : 55-CS-133(N,G)55-CS-134,,SIG,,MXW
+# File ID         : n-Cs133-g-sig-excfun-mxw-prodCs134_Brown_1961_12022.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.3400E+01
+# ymax            :   3.3400E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.3400E+01  2.6000E+00
+#---------------------------------------------------

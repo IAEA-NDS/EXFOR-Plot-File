@@ -1,0 +1,30 @@
+# EXFOR #         : 31643.002  
+# EXFOR Ver.      : 20080805
+# TRANS #         : 3129
+# Author          : Wei-Noon Wang et al.
+# Reference       : Chin.J.Phys. 8 No.1 (1970) 1
+# DOI             : N/A
+# Quantity        : 27Al(n,d)26Mg partial angular differential cross section
+# REACTION        : 13-AL-27(N,D)12-MG-26,PAR,DA
+# File ID         : n-Al27-d-adxc-angdisc-mon-einc1.410E+07_elvl1.830E+06_prodMg26_Wei+Noon%Wang_1970_31643.002
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   1.8300E+06
+#
+# npts            : 5           
+# xmin            :    9.4968000
+# xmax            :   75.6130000
+# ymin            :   5.7656E-03
+# ymax            :   1.2425E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.4968000   0.0000000  7.9888E-03  1.4138E-03
+  19.7110000   0.0000000  1.2425E-02  1.5551E-03
+  34.5440000   0.0000000  1.0454E-02  1.6965E-03
+  47.6690000   0.0000000  8.3411E-03  1.7436E-03
+  75.6130000   0.0000000  5.7656E-03  1.5080E-03
+#---------------------------------------------------

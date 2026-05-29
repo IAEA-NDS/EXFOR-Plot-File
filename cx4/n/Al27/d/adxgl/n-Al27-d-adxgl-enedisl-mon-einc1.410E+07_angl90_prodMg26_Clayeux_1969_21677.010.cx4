@@ -1,0 +1,26 @@
+# EXFOR #         : 21677.010  
+# EXFOR Ver.      : 20170811
+# TRANS #         : 2264
+# Author          : G.Clayeux et al.
+# Reference       : Report CEA-R-3807, 1969
+# DOI             : N/A
+# Quantity        : 27Al(n,d)26Mg partial gamma angular differential cross section
+# REACTION        : 13-AL-27(N,D)12-MG-26,PAR,DA,G
+# File ID         : n-Al27-d-adxgl-enedisl-mon-einc1.410E+07_angl90_prodMg26_Clayeux_1969_21677.010
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   1.8100E+06
+# xmax            :   1.8100E+06
+# ymin            :   1.0100E-02
+# ymax            :   1.0100E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.8100E+06  0.0000E+00  1.0100E-02  8.0000E-04
+#---------------------------------------------------

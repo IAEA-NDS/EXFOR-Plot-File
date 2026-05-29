@@ -1,0 +1,30 @@
+# EXFOR #         : 22807.009.1
+# EXFOR Ver.      : 20151011
+# TRANS #         : 2246
+# Author          : S.Benck et al.
+# Reference       : Nucl.Sci.Eng. 141 No.1 (2002) 55
+# DOI             : 10.13182/NSE02-A2266
+# Quantity        : natSi(n,p+x) double differential cross section
+# REACTION        : 14-SI-0(N,X)1-H-1,,DA/DE
+# File ID         : n-Si-xp-ddxl-angdisl-mon-einc5.350E+07_eoutl5.000E+06_Benck_2002_22807.009.1
+#
+# Einc (eV)       :   5.3500E+07
+# dEinc (eV)      :   2.5000E+06
+# Eout,lab (eV)   :   5.0000E+06
+#
+# npts            : 5           
+# xmin            :   20.0000000
+# xmax            :  110.0000000
+# ymin            :   2.2030E-09
+# ymax            :   6.5950E-09
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  20.0000000   0.0000000  6.5950E-09  1.2020E-09
+  40.0000000   0.0000000  4.9540E-09  1.1070E-09
+  60.0000000   0.0000000  5.7330E-09  1.2030E-09
+  70.0000000   0.0000000  4.7040E-09  1.0950E-09
+ 110.0000000   0.0000000  2.2030E-09  5.1800E-10
+#---------------------------------------------------

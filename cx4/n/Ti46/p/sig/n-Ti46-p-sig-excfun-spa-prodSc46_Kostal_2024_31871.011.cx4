@@ -1,0 +1,22 @@
+# EXFOR #         : 31871.011  
+# EXFOR Ver.      : 20260212
+# TRANS #         : 3222
+# Author          : M.Kostal et al.
+# Reference       : Ann.Nucl.Energy 206 (2024) 110616
+# DOI             : 10.1016/j.anucene.2024.110616
+# Quantity        : 46Ti(n,p)46Sc cross section
+# REACTION        : 22-TI-46(N,P)21-SC-46,,SIG,,SPA
+# File ID         : n-Ti46-p-sig-excfun-spa-prodSc46_Kostal_2024_31871.011
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.9830E-03
+# ymax            :   2.9830E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.9830E-03  6.5626E-05
+#---------------------------------------------------

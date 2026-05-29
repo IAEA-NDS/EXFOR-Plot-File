@@ -1,0 +1,22 @@
+# EXFOR #         : 11447.093  
+# EXFOR Ver.      : 20210510
+# TRANS #         : 1486
+# Author          : L.Seren et al.
+# Reference       : Phys.Rev. 72 (1947) 888
+# DOI             : 10.1103/PhysRev.72.888
+# Quantity        : 138Ba(n,g)139Ba cross section
+# REACTION        : 56-BA-138(N,G)56-BA-139,,SIG,,MXW
+# File ID         : n-Ba138-g-sig-excfun-mxw-prodBa139_Seren_1947_11447.093
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   5.1100E-01
+# ymax            :   5.1100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  5.1100E-01  1.0220E-01
+#---------------------------------------------------

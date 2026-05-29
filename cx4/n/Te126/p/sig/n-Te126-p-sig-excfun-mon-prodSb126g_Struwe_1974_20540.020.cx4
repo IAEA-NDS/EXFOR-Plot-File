@@ -1,0 +1,22 @@
+# EXFOR #         : 20540.020  
+# EXFOR Ver.      : 20071216
+# TRANS #         : 2190
+# Author          : W.Struwe et al.
+# Reference       : Nucl.Phys.A 222 (1974) 605
+# DOI             : 10.1016/0375-9474(74)90342-X
+# Quantity        : 126Te(n,p)126gSb cross section
+# REACTION        : 52-TE-126(N,P)51-SB-126-G,,SIG
+# File ID         : n-Te126-p-sig-excfun-mon-prodSb126g_Struwe_1974_20540.020
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   6.0000E-04
+# ymax            :   6.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  6.0000E-04  1.8000E-04
+#---------------------------------------------------

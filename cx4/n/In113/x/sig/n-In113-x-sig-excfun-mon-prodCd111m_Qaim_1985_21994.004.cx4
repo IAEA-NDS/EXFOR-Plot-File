@@ -1,0 +1,22 @@
+# EXFOR #         : 21994.004  
+# EXFOR Ver.      : 20150804
+# TRANS #         : 2243
+# Author          : S.M.Qaim
+# Reference       : Nucl.Phys.A 438 No.2 (1985) 384
+# DOI             : 10.1016/0375-9474(85)90381-1
+# Quantity        : 113In(n,x)111mCd independent production cross section
+# REACTION        : 49-IN-113(N,X)48-CD-111-M,,SIG
+# File ID         : n-In113-x-sig-excfun-mon-prodCd111m_Qaim_1985_21994.004
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   4.3000E-05
+# ymax            :   4.3000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  4.0000E+05  4.3000E-05  2.0000E-05
+#---------------------------------------------------

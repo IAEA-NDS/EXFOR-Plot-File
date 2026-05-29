@@ -1,0 +1,24 @@
+# EXFOR #         : 10560.008  
+# EXFOR Ver.      : 20040517
+# TRANS #         : 0000
+# Author          : P.Guenther et al.
+# Reference       : Report ANL-NDM-16, 1975
+# DOI             : N/A
+# Quantity        : 238U(n,inl)238U partial cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,SIG
+# File ID         : n-U238-inl-sig-excfun-mon-elvl3.080E+05_prodU238_Guenther_1975_10560.008
+#
+# Elvl (eV)       :   3.0800E+05
+#
+# npts            : 1           
+# xmin            :   1.8000E+06
+# xmax            :   1.8000E+06
+# ymin            :   7.5000E-02
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8000E+06  0.0000E+00  7.5000E-02  3.0000E-02
+#---------------------------------------------------

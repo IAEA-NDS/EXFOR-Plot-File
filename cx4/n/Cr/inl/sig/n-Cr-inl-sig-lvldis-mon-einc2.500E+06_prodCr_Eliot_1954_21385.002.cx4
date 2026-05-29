@@ -1,0 +1,25 @@
+# EXFOR #         : 21385.002  
+# EXFOR Ver.      : 20170805
+# TRANS #         : 2263
+# Author          : E.A.Eliot et al.
+# Reference       : Phys.Rev. 94 (1954) 144
+# DOI             : 10.1103/PhysRev.94.144
+# Quantity        : natCr(n,inl)natCr partial cross section
+# REACTION        : 24-CR-0(N,INL)24-CR-0,PAR,SIG
+# File ID         : n-Cr-inl-sig-lvldis-mon-einc2.500E+06_prodCr_Eliot_1954_21385.002
+#
+# Einc (eV)       :   2.5000E+06
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 1           
+# xmin            :   1.3000E+06
+# xmax            :   1.3000E+06
+# ymin            :   1.0000E+00
+# ymax            :   1.0000E+00
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+06  1.0000E+05  1.0000E+00  2.0000E-01
+#---------------------------------------------------

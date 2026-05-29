@@ -1,0 +1,22 @@
+# EXFOR #         : 21496.005  
+# EXFOR Ver.      : 19820730
+# TRANS #         : 0000
+# Author          : K.F.Flynn et al.
+# Reference       : Proceedings of Physics and Chemistry of Fission Symp., Vienna 1969 page 731
+# DOI             : N/A
+# Quantity        : 227Th(n,f)136Cs independent fission product yield
+# REACTION        : 90-TH-227(N,F)55-CS-136,IND,FY,,MXW
+# File ID         : n-Th227-f-fyi-excfun-mxw-prodCs136_Flynn_1969_21496.005
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.0000E-03
+# ymax            :   1.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,ind      dFY,ind     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.0000E-03  4.0000E-04
+#---------------------------------------------------

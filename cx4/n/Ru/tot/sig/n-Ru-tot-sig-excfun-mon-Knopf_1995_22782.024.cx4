@@ -1,0 +1,23 @@
+# EXFOR #         : 22782.024  
+# EXFOR Ver.      : 20060523
+# TRANS #         : 2178
+# Author          : K.Knopf et al.
+# Reference       : Z.Phys.A 352 (1995) 449
+# DOI             : 10.1007/BF01299763
+# Quantity        : natRu(n,tot) cross section
+# REACTION        : 44-RU-0(N,TOT),,SIG
+# File ID         : n-Ru-tot-sig-excfun-mon-Knopf_1995_22782.024
+#
+# npts            : 2           
+# xmin            :   1.2600E+00
+# xmax            :   5.1900E+00
+# ymin            :   6.5100E+00
+# ymax            :   6.8500E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+00  0.0000E+00  6.8500E+00  5.0000E-02
+  5.1900E+00  0.0000E+00  6.5100E+00  8.0000E-02
+#---------------------------------------------------

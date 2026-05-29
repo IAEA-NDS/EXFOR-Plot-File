@@ -1,0 +1,23 @@
+# EXFOR #         : 12912.003  
+# EXFOR Ver.      : 20120412
+# TRANS #         : 1380
+# Author          : P.Welch et al.
+# Reference       : Bull.Am.Phys.Soc. 26 (1981) 708(G3)
+# DOI             : N/A
+# Quantity        : 27Al(n,a)24Na cross section
+# REACTION        : 13-AL-27(N,A)11-NA-24,,SIG
+# File ID         : n-Al27-a-sig-excfun-mon-prodNa24_Welch_1981_12912.003
+#
+# npts            : 2           
+# xmin            :   2.0000E+07
+# xmax            :   2.3000E+07
+# ymin            :   9.0000E-02
+# ymax            :   1.6450E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+07  1.0000E+05  1.6450E-01  2.2000E-02
+  2.3000E+07  1.0000E+05  9.0000E-02  1.2000E-02
+#---------------------------------------------------

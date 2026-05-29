@@ -1,0 +1,25 @@
+# EXFOR #         : 30196.003  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : V.Valkovic et al.
+# Reference       : Nucl.Phys.A 98 (1967) 305
+# DOI             : 10.1016/0375-9474(67)90141-8
+# Quantity        : 32S(n,d)31P partial angular differential cross section
+# REACTION        : 16-S-32(N,D)15-P-31,PAR,DA
+# File ID         : n-S32-d-adxl-angdisc-mon-einc1.440E+07_elvl0.000E+00_prodP31_Valkovic_1967_30196.003
+#
+# Einc (eV)       :   1.4400E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :    5.0000000
+# xmax            :    5.0000000
+# ymin            :   2.0650E-02
+# ymax            :   2.0650E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0000000   0.0000000  2.0650E-02  6.0000E-04
+#---------------------------------------------------

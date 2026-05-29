@@ -1,0 +1,27 @@
+# EXFOR #         : 20750.005  
+# EXFOR Ver.      : 20170724
+# TRANS #         : 2263
+# Author          : H.A.Jasicek
+# Reference       : Thesis  (1973)
+# DOI             : N/A
+# Quantity        : natSb(n,inl)natSb partial cross section
+# REACTION        : 51-SB-0(N,INL)51-SB-0,PAR,SIG
+# File ID         : n-Sb-inl-sig-enedisl-mon-einc9.580E+05_prodSb_Jasicek_1973_20750.005
+#
+# Einc (eV)       :   9.5800E+05
+# dEinc (eV)      :   1.5000E+04
+#
+# npts            : 3           
+# xmin            :   1.5000E+04
+# xmax            :   5.5000E+05
+# ymin            :   2.1000E-01
+# ymax            :   2.9000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+04  3.0000E+04  2.9000E-01  1.0000E-01
+  1.4500E+05  3.0000E+04  2.2000E-01  3.0000E-02
+  5.5000E+05  3.0000E+04  2.1000E-01  3.0000E-02
+#---------------------------------------------------

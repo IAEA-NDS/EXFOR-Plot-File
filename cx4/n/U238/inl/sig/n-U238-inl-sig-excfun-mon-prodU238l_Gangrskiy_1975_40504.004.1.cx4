@@ -1,0 +1,22 @@
+# EXFOR #         : 40504.004.1
+# EXFOR Ver.      : 20110920
+# TRANS #         : 4154
+# Author          : Yu.P.Gangrskiy et al.
+# Reference       : Proceedings of 3.All Union Conf.on Neutron Phys.,Kiev,9-13 Jun 1975 5 page 245
+# DOI             : N/A
+# Quantity        : 238U(n,inl)238lU cross section
+# REACTION        : 92-U-238(N,INL)92-U-238-L,,SIG
+# File ID         : n-U238-inl-sig-excfun-mon-prodU238l_Gangrskiy_1975_40504.004.1
+#
+# npts            : 1           
+# xmin            :   3.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   5.0000E-05
+# ymax            :   5.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  0.0000E+00  5.0000E-05  2.5000E-05
+#---------------------------------------------------

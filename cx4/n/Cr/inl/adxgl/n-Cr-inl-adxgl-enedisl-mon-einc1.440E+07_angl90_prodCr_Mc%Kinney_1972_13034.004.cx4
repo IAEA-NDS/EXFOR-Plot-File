@@ -1,0 +1,28 @@
+# EXFOR #         : 13034.004  
+# EXFOR Ver.      : 19860624
+# TRANS #         : 0000
+# Author          : H.O.Mc Kinney
+# Reference       : Thesis  (1972)
+# DOI             : N/A
+# Quantity        : natCr(n,inl)52Cr partial gamma angular differential cross section
+# REACTION        : 24-CR-0(N,INL)24-CR-52,PAR,DA,G
+# File ID         : n-Cr-inl-adxgl-enedisl-mon-einc1.440E+07_angl90_prodCr_Mc%Kinney_1972_13034.004
+#
+# Einc (eV)       :   1.4400E+07
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 4           
+# xmin            :   9.4000E+05
+# xmax            :   1.5300E+06
+# ymin            :   3.6000E-03
+# ymax            :   3.5200E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.4000E+05  0.0000E+00  1.2000E-02  3.1000E-03
+  1.3300E+06  0.0000E+00  3.6000E-03  1.5000E-03
+  1.4400E+06  0.0000E+00  3.5200E-02  5.2000E-03
+  1.5300E+06  0.0000E+00  3.8000E-03  1.2000E-03
+#---------------------------------------------------

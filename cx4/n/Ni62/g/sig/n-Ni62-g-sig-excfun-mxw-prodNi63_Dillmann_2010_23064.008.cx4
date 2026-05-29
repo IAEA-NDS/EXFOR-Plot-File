@@ -1,0 +1,22 @@
+# EXFOR #         : 23064.008  
+# EXFOR Ver.      : 20211106
+# TRANS #         : 2305
+# Author          : I.Dillmann et al.
+# Reference       : Nucl.Instrum.Meth.B 268 (2010) 1283
+# DOI             : 10.1016/j.nimb.2009.10.153
+# Quantity        : 62Ni(n,g)63Ni cross section
+# REACTION        : 28-NI-62(N,G)28-NI-63,,SIG,,MXW
+# File ID         : n-Ni62-g-sig-excfun-mxw-prodNi63_Dillmann_2010_23064.008
+#
+# npts            : 1           
+# xmin            :   3.0000E+04
+# xmax            :   3.0000E+04
+# ymin            :   2.4600E-02
+# ymax            :   2.4600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  0.0000E+00  2.4600E-02  4.8000E-03
+#---------------------------------------------------

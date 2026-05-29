@@ -1,0 +1,24 @@
+# EXFOR #         : 20426.011  
+# EXFOR Ver.      : 20160725
+# TRANS #         : 2252
+# Author          : J.Lachkar et al.
+# Reference       : Phys.Rev.C 14 (1976) 933
+# DOI             : 10.1103/PhysRevC.14.933
+# Quantity        : 78Se(n,inl)78Se partial cross section
+# REACTION        : 34-SE-78(N,INL)34-SE-78,PAR,SIG
+# File ID         : n-Se78-inl-sig-excfun-mon-elvl6.100E+05_prodSe78_Lachkar_1976_20426.011
+#
+# Elvl (eV)       :   6.1000E+05
+#
+# npts            : 1           
+# xmin            :   8.0000E+06
+# xmax            :   8.0000E+06
+# ymin            :   2.0133E-01
+# ymax            :   2.0133E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+06  1.0000E+05  2.0133E-01  2.7381E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 41565.010  
+# EXFOR Ver.      : 20121010
+# TRANS #         : 4158
+# Author          : C.Bhatia et al.
+# Reference       : Appl.Radiat.Isot. 70 (2012) 1254
+# DOI             : 10.1016/j.apradiso.2011.11.020
+# Quantity        : 95Mo(n,x)92mNb independent production cross section
+# REACTION        : 42-MO-95(N,X)41-NB-92-M,,SIG,,SPA
+# File ID         : n-Mo95-x-sig-excfun-spa-prodNb92m_Bhatia_2012_41565.010
+#
+# npts            : 1           
+# xmin            :   1.0826E+08
+# xmax            :   1.0826E+08
+# ymin            :   3.6100E-03
+# ymax            :   3.6100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0826E+08  9.1740E+07  3.6100E-03  3.1000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 12977.004  
+# EXFOR Ver.      : 20120426
+# TRANS #         : 1381
+# Author          : L.R.Greenwood
+# Reference       : Report (proceedings) ASTM-STP-956 page 743, 1987
+# DOI             : N/A
+# Quantity        : 45Sc(n,a)42K cross section
+# REACTION        : 21-SC-45(N,A)19-K-42,,SIG
+# File ID         : n-Sc45-a-sig-excfun-mon-prodK42_Greenwood_1987_12977.004
+#
+# npts            : 2           
+# xmin            :   1.4500E+07
+# xmax            :   1.4900E+07
+# ymin            :   5.4000E-02
+# ymax            :   5.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  2.0000E+05  5.8000E-02  5.8000E-03
+  1.4900E+07  2.0000E+05  5.4000E-02  5.4000E-03
+#---------------------------------------------------

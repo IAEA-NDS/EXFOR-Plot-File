@@ -1,0 +1,25 @@
+# EXFOR #         : 30464.009  
+# EXFOR Ver.      : 20090311
+# TRANS #         : 3135
+# Author          : M.Abdel-Harith et al.
+# Reference       : Progress report ZFK-315 page 12, 1976
+# DOI             : N/A
+# Quantity        : 51V(n,inl)51V partial cross section
+# REACTION        : 23-V-51(N,INL)23-V-51,PAR,SIG
+# File ID         : n-V51-inl-sig-lvldis-mon-einc3.400E+06_prodV51_Abdel+Harith_1976_30464.009
+#
+# Einc (eV)       :   3.4000E+06
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   9.3000E+05
+# xmax            :   9.3000E+05
+# ymin            :   1.3650E-01
+# ymax            :   1.3650E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.3000E+05  0.0000E+00  1.3650E-01  2.0500E-02
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 11408.003  
+# EXFOR Ver.      : 20200419
+# TRANS #         : 1466
+# Author          : E.N.Shipley et al.
+# Reference       : Phys.Rev. 115 (1959) 122
+# DOI             : 10.1103/PhysRev.115.122
+# Quantity        : 23Na(n,inl)23Na partial cross section
+# REACTION        : 11-NA-23(N,INL)11-NA-23,PAR,SIG
+# File ID         : n-Na23-inl-sig-excfun-mon-elvl4.390E+05_prodNa23_Shipley_1959_11408.003
+#
+# Elvl (eV)       :   4.3900E+05
+#
+# npts            : 3           
+# xmin            :   3.4900E+06
+# xmax            :   4.0000E+06
+# ymin            :   2.7000E-01
+# ymax            :   3.7000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4900E+06  9.5000E+04  3.7000E-01  1.2000E-01
+  3.7500E+06  7.5000E+04  2.7000E-01  9.0000E-02
+  4.0000E+06  5.5000E+04  2.8000E-01  9.0000E-02
+#---------------------------------------------------

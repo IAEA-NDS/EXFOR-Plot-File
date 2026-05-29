@@ -1,0 +1,22 @@
+# EXFOR #         : 20840.028  
+# EXFOR Ver.      : 20170206
+# TRANS #         : 2259
+# Author          : S.M.Qaim et al.
+# Reference       : Nucl.Phys.A 295 (1978) 150
+# DOI             : 10.1016/0375-9474(78)90026-X
+# Quantity        : 20Ne(n,x)18F independent production cross section
+# REACTION        : 10-NE-20(N,X)9-F-18,,SIG,,SPA
+# File ID         : n-Ne20-x-sig-excfun-spa-prodF18_Qaim_1978_20840.028
+#
+# npts            : 1           
+# xmin            :   2.2500E+07
+# xmax            :   2.2500E+07
+# ymin            :   7.5000E-03
+# ymax            :   7.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2500E+07  7.9000E+06  7.5000E-03  1.5000E-03
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 13484.003  
+# EXFOR Ver.      : 19920506
+# TRANS #         : 0000
+# Author          : K.Fritze et al.
+# Reference       : Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 436
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) independent fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,IND,FY,,SPA
+# File ID         : n-Pu239-f-fyi-nucdis-spa-einc2.530E-02_Fritze_1958_13484.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 54128.9     
+# xmax            : 54130.9     
+# ymin            :   2.1000E-06
+# ymax            :   5.5000E-05
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     54128.9  2.1000E-06  1.0000E-07
+     54130.9  5.5000E-05  4.0000E-06
+#---------------------------------------------------

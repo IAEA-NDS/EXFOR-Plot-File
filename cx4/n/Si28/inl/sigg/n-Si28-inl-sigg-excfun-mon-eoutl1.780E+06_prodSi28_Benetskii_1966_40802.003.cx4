@@ -1,0 +1,24 @@
+# EXFOR #         : 40802.003  
+# EXFOR Ver.      : 20230214
+# TRANS #         : 4212
+# Author          : B.A.Benetskii
+# Reference       : Studies in Neutron Reactions, New York 1966 page 99 (1966)
+# DOI             : N/A
+# Quantity        : 28Si(n,inl)28Si partial gamma production cross section
+# REACTION        : 14-SI-28(N,INL)14-SI-28,PAR,SIG,G
+# File ID         : n-Si28-inl-sigg-excfun-mon-eoutl1.780E+06_prodSi28_Benetskii_1966_40802.003
+#
+# Eout,lab (eV)   :   1.7800E+06
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   3.7000E-01
+# ymax            :   3.7000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  3.7000E-01  6.0000E-02
+#---------------------------------------------------

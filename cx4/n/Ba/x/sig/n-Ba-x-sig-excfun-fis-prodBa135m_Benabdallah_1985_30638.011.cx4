@@ -1,0 +1,22 @@
+# EXFOR #         : 30638.011  
+# EXFOR Ver.      : 20220818
+# TRANS #         : 3208
+# Author          : H.Benabdallah et al.
+# Reference       : Fizika 17 (1985) 191
+# DOI             : N/A
+# Quantity        : natBa(n,x)135mBa independent production cross section
+# REACTION        : 56-BA-0(N,X)56-BA-135-M,,SIG,,FIS
+# File ID         : n-Ba-x-sig-excfun-fis-prodBa135m_Benabdallah_1985_30638.011
+#
+# npts            : 1           
+# xmin            :   1.4200E+06
+# xmax            :   1.4200E+06
+# ymin            :   1.8090E-01
+# ymax            :   1.8090E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+06  0.0000E+00  1.8090E-01  1.1000E-02
+#---------------------------------------------------

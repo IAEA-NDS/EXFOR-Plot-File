@@ -1,0 +1,22 @@
+# EXFOR #         : 23488.016  
+# EXFOR Ver.      : 20190303
+# TRANS #         : 2280
+# Author          : F.De Corte et al.
+# Reference       : Proceedings of Conf.on Nucl.Data For Sci.and Technol.,Mito 1988 page 583
+# DOI             : N/A
+# Quantity        : 59Co(n,g)60gCo cumulative production cross section
+# REACTION        : 27-CO-59(N,G)27-CO-60-G,M+,SIG
+# File ID         : n-Co59-x-sigc-excfun-mon-prodCo60g_De%Corte_1988_23488.016
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.7250E+01
+# ymax            :   3.7250E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.7250E+01  2.6075E+00
+#---------------------------------------------------

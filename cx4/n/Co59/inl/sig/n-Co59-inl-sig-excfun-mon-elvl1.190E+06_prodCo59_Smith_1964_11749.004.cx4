@@ -1,0 +1,24 @@
+# EXFOR #         : 11749.004  
+# EXFOR Ver.      : 20050427
+# TRANS #         : 1333
+# Author          : A.B.Smith et al.
+# Reference       : Phys.Rev. 135 (1964) B76
+# DOI             : 10.1103/PhysRev.135.B76
+# Quantity        : 59Co(n,inl)59Co partial cross section
+# REACTION        : 27-CO-59(N,INL)27-CO-59,PAR,SIG
+# File ID         : n-Co59-inl-sig-excfun-mon-elvl1.190E+06_prodCo59_Smith_1964_11749.004
+#
+# Elvl (eV)       :   1.1900E+06
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   3.9000E-01
+# ymax            :   3.9000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  3.9000E-01  1.1000E-01
+#---------------------------------------------------

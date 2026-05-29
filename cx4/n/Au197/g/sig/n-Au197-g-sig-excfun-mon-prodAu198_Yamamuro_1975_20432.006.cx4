@@ -1,0 +1,22 @@
+# EXFOR #         : 20432.006  
+# EXFOR Ver.      : 20160725
+# TRANS #         : 2252
+# Author          : N.Yamamuro et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 802
+# DOI             : N/A
+# Quantity        : 197Au(n,g)198Au cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198,,SIG
+# File ID         : n-Au197-g-sig-excfun-mon-prodAu198_Yamamuro_1975_20432.006
+#
+# npts            : 1           
+# xmin            :   2.4000E+04
+# xmax            :   2.4000E+04
+# ymin            :   6.8000E-01
+# ymax            :   6.8000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+04  4.0000E+02  6.8000E-01  2.2440E-02
+#---------------------------------------------------

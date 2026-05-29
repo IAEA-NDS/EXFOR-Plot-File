@@ -1,0 +1,23 @@
+# EXFOR #         : 41614.012  
+# EXFOR Ver.      : 20160512
+# TRANS #         : 4174
+# Author          : A.A.Filatenkov
+# Reference       : Report INDC(CCP)-0460, 2016
+# DOI             : N/A
+# Quantity        : 50V(n,n+a)46Sc cross section
+# REACTION        : 23-V-50(N,N+A)21-SC-46,,SIG
+# File ID         : n-V50-na-sig-excfun-mon-prodSc46_Filatenkov_2016_41614.012
+#
+# npts            : 2           
+# xmin            :   1.3650E+07
+# xmax            :   1.4820E+07
+# ymin            :   2.6000E-05
+# ymax            :   2.6200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3650E+07  0.0000E+00  2.6000E-05  1.9994E-05
+  1.4820E+07  0.0000E+00  2.6200E-04  6.0260E-05
+#---------------------------------------------------

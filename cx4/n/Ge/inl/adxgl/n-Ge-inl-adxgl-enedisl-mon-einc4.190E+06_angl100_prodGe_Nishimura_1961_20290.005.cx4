@@ -1,0 +1,28 @@
+# EXFOR #         : 20290.005  
+# EXFOR Ver.      : 20170425
+# TRANS #         : 2261
+# Author          : K.Nishimura
+# Reference       : J.Phys.Soc.Jpn. 16 (1961) 355
+# DOI             : 10.1143/JPSJ.16.355
+# Quantity        : natGe(n,inl)natGe partial gamma angular differential cross section
+# REACTION        : 32-GE-0(N,INL)32-GE-0,PAR,DA,G
+# File ID         : n-Ge-inl-adxgl-enedisl-mon-einc4.190E+06_angl100_prodGe_Nishimura_1961_20290.005
+#
+# Einc (eV)       :   4.1900E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :  100.0000000
+#
+# npts            : 3           
+# xmin            :   5.9000E+05
+# xmax            :   1.0100E+06
+# ymin            :   4.2500E-02
+# ymax            :   7.2600E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.9000E+05  1.0000E+04  7.2600E-02  1.0890E-02
+  8.3000E+05  2.0000E+04  5.3800E-02  8.0700E-03
+  1.0100E+06  2.0000E+04  4.2500E-02  6.3750E-03
+#---------------------------------------------------

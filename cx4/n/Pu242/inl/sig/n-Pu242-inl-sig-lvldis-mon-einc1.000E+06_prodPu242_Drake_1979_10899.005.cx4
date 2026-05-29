@@ -1,0 +1,25 @@
+# EXFOR #         : 10899.005  
+# EXFOR Ver.      : 20200229
+# TRANS #         : 1464
+# Author          : D.M.Drake et al.
+# Reference       : Report LA-7855, 1979
+# DOI             : N/A
+# Quantity        : 242Pu(n,inl)242Pu partial cross section
+# REACTION        : 94-PU-242(N,INL)94-PU-242,PAR,SIG
+# File ID         : n-Pu242-inl-sig-lvldis-mon-einc1.000E+06_prodPu242_Drake_1979_10899.005
+#
+# Einc (eV)       :   1.0000E+06
+#
+# npts            : 2           
+# xmin            :   4.5000E+04
+# xmax            :   1.4800E+05
+# ymin            :   4.2000E-01
+# ymax            :   1.1900E+00
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+04  0.0000E+00  1.1900E+00  1.7000E-01
+  1.4800E+05  0.0000E+00  4.2000E-01  8.0000E-02
+#---------------------------------------------------

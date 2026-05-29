@@ -1,0 +1,26 @@
+# EXFOR #         : 20454.007  
+# EXFOR Ver.      : 20180821
+# TRANS #         : 2270
+# Author          : R.E.Coles
+# Reference       : Report AWRE-O-66/71, 1971
+# DOI             : N/A
+# Quantity        : 93Nb(n,inl)93Nb partial cross section
+# REACTION        : 41-NB-93(N,INL)41-NB-93,PAR,SIG
+# File ID         : n-Nb93-inl-sig-lvldis-mon-einc1.400E+06_prodNb93_Coles_1971_20454.007
+#
+# Einc (eV)       :   1.4000E+06
+#
+# npts            : 3           
+# xmin            :   7.4100E+05
+# xmax            :   9.6600E+05
+# ymin            :   2.4000E-01
+# ymax            :   7.6500E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.4100E+05  0.0000E+00  2.4000E-01  2.5000E-02
+  8.0900E+05  0.0000E+00  2.5000E-01  3.0000E-02
+  9.6600E+05  0.0000E+00  7.6500E-01  8.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : 21166.007  
+# EXFOR Ver.      : 19800110
+# TRANS #         : 0000
+# Author          : M.Fazio et al.
+# Reference       : Nucl.Phys.A 111 (1968) 255
+# DOI             : N/A
+# Quantity        : 19F(n,d)18O partial angular differential cross section
+# REACTION        : 9-F-19(N,D)8-O-18,PAR,DA
+# File ID         : n-F19-d-adxl-excfun-mon-angc13_elvl1.980E+06_prodO18_Fazio_1968_21166.007
+#
+# theta,cm (deg)  :   13.1947000
+# Elvl (eV)       :   1.9800E+06
+#
+# npts            : 5           
+# xmin            :   1.4080E+07
+# xmax            :   1.4660E+07
+# ymin            :   8.4000E-04
+# ymax            :   1.0100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4080E+07  1.5000E+05  1.0000E-03  9.0000E-05
+  1.4230E+07  1.5000E+05  1.0100E-03  9.0000E-05
+  1.4410E+07  1.5000E+05  9.8000E-04  9.0000E-05
+  1.4540E+07  1.5000E+05  8.6000E-04  8.0000E-05
+  1.4660E+07  1.5000E+05  8.4000E-04  8.0000E-05
+#---------------------------------------------------

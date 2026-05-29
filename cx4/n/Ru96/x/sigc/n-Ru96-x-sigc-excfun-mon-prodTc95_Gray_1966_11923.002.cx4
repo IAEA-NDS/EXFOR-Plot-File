@@ -1,0 +1,22 @@
+# EXFOR #         : 11923.002  
+# EXFOR Ver.      : 20140413
+# TRANS #         : 1401
+# Author          : P.R.Gray et al.
+# Reference       : Nucl.Phys. 75 (1966) 215
+# DOI             : 10.1016/0029-5582(66)90757-7
+# Quantity        : 96Ru(n,x)95Tc cumulative production cross section
+# REACTION        : 44-RU-96(N,X)43-TC-95,CUM,SIG
+# File ID         : n-Ru96-x-sigc-excfun-mon-prodTc95_Gray_1966_11923.002
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.6000E+00
+# ymax            :   2.6000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  5.0000E+05  2.6000E+00  3.0000E-01
+#---------------------------------------------------

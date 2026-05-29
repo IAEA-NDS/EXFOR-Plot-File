@@ -1,0 +1,22 @@
+# EXFOR #         : 30252.005  
+# EXFOR Ver.      : 20220127
+# TRANS #         : 3207
+# Author          : S.Niese et al.
+# Reference       : Kernenergie 6 (1963) 37
+# DOI             : N/A
+# Quantity        : 72Ge(n,a)69mZn cross section
+# REACTION        : 32-GE-72(N,A)30-ZN-69-M,,SIG,,FIS
+# File ID         : n-Ge72-a-sig-excfun-fis-prodZn69m_Niese_1963_30252.005
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.0000E-05
+# ymax            :   2.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.0000E-05  5.0000E-06
+#---------------------------------------------------

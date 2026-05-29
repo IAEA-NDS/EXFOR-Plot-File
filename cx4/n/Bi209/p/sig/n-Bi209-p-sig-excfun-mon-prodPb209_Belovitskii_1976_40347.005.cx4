@@ -1,0 +1,22 @@
+# EXFOR #         : 40347.005  
+# EXFOR Ver.      : 20181008
+# TRANS #         : 4180
+# Author          : G.E.Belovitskii et al.
+# Reference       : Proceedings of 3.All Union Conf.on Neutron Phys.,Kiev,9-13 Jun 1975 4 page 209
+# DOI             : N/A
+# Quantity        : 209Bi(n,p)209Pb cross section
+# REACTION        : 83-BI-209(N,P)82-PB-209,,SIG
+# File ID         : n-Bi209-p-sig-excfun-mon-prodPb209_Belovitskii_1976_40347.005
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   6.6000E-04
+# ymax            :   6.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  0.0000E+00  6.6000E-04  1.0000E-04
+#---------------------------------------------------

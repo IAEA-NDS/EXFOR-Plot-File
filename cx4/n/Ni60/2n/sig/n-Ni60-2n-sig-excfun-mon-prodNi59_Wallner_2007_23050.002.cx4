@@ -1,0 +1,23 @@
+# EXFOR #         : 23050.002  
+# EXFOR Ver.      : 20130310
+# TRANS #         : 2235
+# Author          : A.Wallner et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 2 page 1007
+# DOI             : N/A
+# Quantity        : 60Ni(n,2n)59Ni cross section
+# REACTION        : 28-NI-60(N,2N)28-NI-59,,SIG
+# File ID         : n-Ni60-2n-sig-excfun-mon-prodNi59_Wallner_2007_23050.002
+#
+# npts            : 2           
+# xmin            :   1.7000E+07
+# xmax            :   1.9000E+07
+# ymin            :   6.0100E-01
+# ymax            :   7.7900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7000E+07  1.1500E+05  6.0100E-01  8.2000E-02
+  1.9000E+07  1.3500E+05  7.7900E-01  7.8000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 14010.010  
+# EXFOR Ver.      : 20180818
+# TRANS #         : 1443
+# Author          : J.M.Sisterson et al.
+# Reference       : Nucl.Instrum.Meth.B 234 (2005) 419
+# DOI             : 10.1016/j.nimb.2005.02.023
+# Quantity        : natFe(n,x) independent production cross section
+# REACTION        : 26-FE-0(N,X)ELEM/MASS,,SIG,,SPA
+# File ID         : n-Fe-x-sig-excfun-spa-prodV48_Sisterson_2005_14010.010
+#
+# npts            : 1           
+# xmin            :   3.7625E+08
+# xmax            :   3.7625E+08
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7625E+08  3.7375E+08  1.0000E-02  1.1000E-03
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 21707.010  
+# EXFOR Ver.      : 20181002
+# TRANS #         : 2273
+# Author          : J.Laurec et al.
+# Reference       : Nucl.Data Sheets 111 (2010) 2965
+# DOI             : 10.1016/j.nds.2010.11.004
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,FIS
+# File ID         : n-U235-f-fyc-nucdis-fis-einc1.200E+06_Laurec_2010_21707.010
+#
+# Einc (eV)       :   1.2000E+06
+#
+# npts            : 2           
+# xmin            : 63155.9     
+# xmax            : 63156.9     
+# ymin            :   1.8600E-04
+# ymax            :   3.9800E-04
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     63155.9  3.9800E-04  1.5920E-05
+     63156.9  1.8600E-04  2.3064E-05
+#---------------------------------------------------

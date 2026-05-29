@@ -1,0 +1,22 @@
+# EXFOR #         : 21441.005  
+# EXFOR Ver.      : 20200930
+# TRANS #         : 2291
+# Author          : J.F.Barry et al.
+# Reference       : Proc.Phys.Soc.(UK) 74 (1959) 632
+# DOI             : 10.1088/0370-1328/74/5/317
+# Quantity        : 142Ce(n,x)141La independent production cross section
+# REACTION        : 58-CE-142(N,X)57-LA-141,,SIG
+# File ID         : n-Ce142-x-sig-excfun-mon-prodLa141_Barry_1959_21441.005
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   1.0000E-03
+# ymax            :   1.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  4.0000E+05  1.0000E-03  2.0000E-04
+#---------------------------------------------------

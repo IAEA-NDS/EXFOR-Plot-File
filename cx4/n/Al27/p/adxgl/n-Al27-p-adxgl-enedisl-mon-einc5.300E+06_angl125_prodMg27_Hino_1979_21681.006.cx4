@@ -1,0 +1,26 @@
+# EXFOR #         : 21681.006  
+# EXFOR Ver.      : 20161001
+# TRANS #         : 2253
+# Author          : Y.Hino et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross Sections F.Techn.,Knoxville 1979 page 408
+# DOI             : N/A
+# Quantity        : 27Al(n,p)27Mg partial gamma angular differential cross section
+# REACTION        : 13-AL-27(N,P)12-MG-27,PAR,DA,G
+# File ID         : n-Al27-p-adxgl-enedisl-mon-einc5.300E+06_angl125_prodMg27_Hino_1979_21681.006
+#
+# Einc (eV)       :   5.3000E+06
+# theta,lab (deg) :  125.0000000
+#
+# npts            : 2           
+# xmin            :   9.5200E+05
+# xmax            :   9.8400E+05
+# ymin            :   4.0000E-04
+# ymax            :   2.0000E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.5200E+05  0.0000E+00  4.0000E-04  2.0000E-04
+  9.8400E+05  0.0000E+00  2.0000E-03  4.0000E-04
+#---------------------------------------------------

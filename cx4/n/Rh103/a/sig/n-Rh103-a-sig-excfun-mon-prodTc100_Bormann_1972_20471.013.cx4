@@ -1,0 +1,22 @@
+# EXFOR #         : 20471.013  
+# EXFOR Ver.      : 19840120
+# TRANS #         : 0000
+# Author          : M.Bormann et al.
+# Reference       : Nucl.Phys.A 186 (1972) 65
+# DOI             : 10.1016/0375-9474(72)90125-X
+# Quantity        : 103Rh(n,a)100Tc cross section
+# REACTION        : 45-RH-103(N,A)43-TC-100,,SIG
+# File ID         : n-Rh103-a-sig-excfun-mon-prodTc100_Bormann_1972_20471.013
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   5.0000E-03
+# ymax            :   5.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  0.0000E+00  5.0000E-03  8.0000E-04
+#---------------------------------------------------

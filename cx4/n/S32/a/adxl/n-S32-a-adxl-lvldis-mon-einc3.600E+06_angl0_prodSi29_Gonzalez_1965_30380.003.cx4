@@ -1,0 +1,25 @@
+# EXFOR #         : 30380.003  
+# EXFOR Ver.      : 20120620
+# TRANS #         : 3156
+# Author          : L.Gonzalez et al.
+# Reference       : Nucl.Phys. 72 (1965) 218
+# DOI             : 10.1016/0029-5582(65)90640-1
+# Quantity        : 32S(n,a)29Si partial angular differential cross section
+# REACTION        : 16-S-32(N,A)14-SI-29,PAR,DA
+# File ID         : n-S32-a-adxl-lvldis-mon-einc3.600E+06_angl0_prodSi29_Gonzalez_1965_30380.003
+#
+# Einc (eV)       :   3.6000E+06
+# theta,lab (deg) :    0.0000000
+#
+# npts            : 1           
+# xmin            :   0.0000E+00
+# xmax            :   0.0000E+00
+# ymin            :   2.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  2.0000E-02  8.0000E-03
+#---------------------------------------------------

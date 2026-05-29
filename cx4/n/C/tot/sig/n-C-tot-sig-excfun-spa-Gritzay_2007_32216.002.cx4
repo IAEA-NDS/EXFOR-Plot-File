@@ -1,0 +1,25 @@
+# EXFOR #         : 32216.002  
+# EXFOR Ver.      : 20200312
+# TRANS #         : 3195
+# Author          : O.Gritzay et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 page 543
+# DOI             : N/A
+# Quantity        : natC(n,tot) cross section
+# REACTION        : 6-C-0(N,TOT),,SIG,,SPA
+# File ID         : n-C-tot-sig-excfun-spa-Gritzay_2007_32216.002
+#
+# npts            : 4           
+# xmin            :   1.7555E+03
+# xmax            :   1.3345E+05
+# ymin            :   4.2650E+00
+# ymax            :   4.7140E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7555E+03  6.8450E+02  4.6350E+00  1.1000E-01
+  3.1640E+03  1.3830E+03  4.6740E+00  2.1000E-02
+  1.2540E+04  9.1300E+02  4.7140E+00  4.6000E-02
+  1.3345E+05  1.9805E+03  4.2650E+00  1.4000E-02
+#---------------------------------------------------

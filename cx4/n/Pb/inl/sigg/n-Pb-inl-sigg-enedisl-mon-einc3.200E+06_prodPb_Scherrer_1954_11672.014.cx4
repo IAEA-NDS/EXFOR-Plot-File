@@ -1,0 +1,30 @@
+# EXFOR #         : 11672.014  
+# EXFOR Ver.      : 20120520
+# TRANS #         : 1381
+# Author          : V.E.Scherrer et al.
+# Reference       : Phys.Rev. 96 (1954) 386
+# DOI             : 10.1103/PhysRev.96.386
+# Quantity        : natPb(n,inl)natPb partial gamma production cross section
+# REACTION        : 82-PB-0(N,INL)82-PB-0,PAR,SIG,G
+# File ID         : n-Pb-inl-sigg-enedisl-mon-einc3.200E+06_prodPb_Scherrer_1954_11672.014
+#
+# Einc (eV)       :   3.2000E+06
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 6           
+# xmin            :   3.5000E+05
+# xmax            :   2.2000E+06
+# ymin            :   1.6000E-01
+# ymax            :   1.0500E+00
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+05  0.0000E+00  5.2000E-01  1.0400E-01
+  5.2000E+05  0.0000E+00  1.0200E+00  2.0400E-01
+  8.0000E+05  0.0000E+00  1.0500E+00  2.1000E-01
+  1.1000E+06  0.0000E+00  1.8000E-01  3.6000E-02
+  1.4000E+06  0.0000E+00  2.5000E-01  5.0000E-02
+  2.2000E+06  0.0000E+00  1.6000E-01  3.2000E-02
+#---------------------------------------------------

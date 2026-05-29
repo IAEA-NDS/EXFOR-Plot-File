@@ -1,0 +1,25 @@
+# EXFOR #         : 20788.024  
+# EXFOR Ver.      : 20120731
+# TRANS #         : 2232
+# Author          : E.Almen-Ramstrom
+# Reference       : Report AE-503, 1975
+# DOI             : N/A
+# Quantity        : 207Pb(n,inl)207Pb partial cross section
+# REACTION        : 82-PB-207(N,INL)82-PB-207,PAR,SIG
+# File ID         : n-Pb207-inl-sig-lvldis-mon-einc2.020E+06_prodPb207_Almen+Ramstrom_1975_20788.024
+#
+# Einc (eV)       :   2.0200E+06
+#
+# npts            : 2           
+# xmin            :   5.7000E+05
+# xmax            :   8.9400E+05
+# ymin            :   3.4300E-01
+# ymax            :   5.9800E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.7000E+05  0.0000E+00  5.9800E-01  9.0000E-02
+  8.9400E+05  0.0000E+00  3.4300E-01  5.1000E-02
+#---------------------------------------------------

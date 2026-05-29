@@ -1,0 +1,22 @@
+# EXFOR #         : 41215.007  
+# EXFOR Ver.      : 20191217
+# TRANS #         : 4185
+# Author          : V.I.Popov
+# Reference       : Soviet Progress in Neutron Physics, New York 1963 page 224 (1963)
+# DOI             : N/A
+# Quantity        : natSi(n,el)natSi cross section
+# REACTION        : 14-SI-0(N,EL)14-SI-0,,SIG
+# File ID         : n-Si-el-sig-excfun-mon-prodSi_Popov_1963_41215.007
+#
+# npts            : 1           
+# xmin            :   3.1000E+06
+# xmax            :   3.1000E+06
+# ymin            :   2.0000E+00
+# ymax            :   2.0000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.1000E+06  0.0000E+00  2.0000E+00  1.0000E-01
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : 22325.012  
+# EXFOR Ver.      : 20190205
+# TRANS #         : 2274
+# Author          : Y.Kasugai et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 2 page 935
+# DOI             : N/A
+# Quantity        : 180Hf(n,p)180Lu cross section
+# REACTION        : 72-HF-180(N,P)71-LU-180,,SIG
+# File ID         : n-Hf180-p-sig-excfun-mon-prodLu180_Kasugai_1994_22325.012
+#
+# npts            : 6           
+# xmin            :   1.3380E+07
+# xmax            :   1.4950E+07
+# ymin            :   9.0000E-04
+# ymax            :   3.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3380E+07  5.0000E+04  9.0000E-04  2.0000E-04
+  1.3700E+07  5.0000E+04  1.4000E-03  3.0000E-04
+  1.4030E+07  5.0000E+04  2.0000E-03  4.0000E-04
+  1.4360E+07  5.0000E+04  2.1000E-03  4.0000E-04
+  1.4660E+07  5.0000E+04  2.5000E-03  5.0000E-04
+  1.4950E+07  5.0000E+04  3.2000E-03  6.0000E-04
+#---------------------------------------------------

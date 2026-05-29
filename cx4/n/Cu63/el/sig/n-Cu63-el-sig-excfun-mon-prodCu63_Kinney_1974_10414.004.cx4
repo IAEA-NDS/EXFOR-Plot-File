@@ -1,0 +1,24 @@
+# EXFOR #         : 10414.004  
+# EXFOR Ver.      : 20030220
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4908, 1974
+# DOI             : N/A
+# Quantity        : 63Cu(n,el)63Cu cross section
+# REACTION        : 29-CU-63(N,EL)29-CU-63,,SIG
+# File ID         : n-Cu63-el-sig-excfun-mon-prodCu63_Kinney_1974_10414.004
+#
+# npts            : 3           
+# xmin            :   5.5000E+06
+# xmax            :   8.5000E+06
+# ymin            :   2.0210E+00
+# ymax            :   2.2123E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+06  9.0000E+04  2.1253E+00  7.3000E-03
+  7.0000E+06  6.0000E+04  2.2123E+00  7.3000E-03
+  8.5000E+06  5.0000E+04  2.0210E+00  7.3000E-03
+#---------------------------------------------------

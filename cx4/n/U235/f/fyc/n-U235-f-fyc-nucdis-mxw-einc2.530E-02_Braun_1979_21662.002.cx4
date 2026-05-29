@@ -1,0 +1,25 @@
+# EXFOR #         : 21662.002  
+# EXFOR Ver.      : 20190326
+# TRANS #         : 2278
+# Author          : H.Braun et al.
+# Reference       : Progress report NEANDC(E)-202 Vol.(5) page 74, 1979
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-U235-f-fyc-nucdis-mxw-einc2.530E-02_Braun_1979_21662.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 52131.1     
+# xmax            : 52133.1     
+# ymin            :   5.0000E-03
+# ymax            :   3.7900E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     52133.1  3.7900E-02  1.5000E-03
+     52131.1  5.0000E-03  5.0000E-04
+#---------------------------------------------------

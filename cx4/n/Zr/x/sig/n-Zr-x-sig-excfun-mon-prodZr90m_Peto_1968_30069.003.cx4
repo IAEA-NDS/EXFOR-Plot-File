@@ -1,0 +1,22 @@
+# EXFOR #         : 30069.003  
+# EXFOR Ver.      : 20260401
+# TRANS #         : 3223
+# Author          : G.Peto et al.
+# Reference       : Acta Phys.Hung. 25 (1968) 91
+# DOI             : 10.1007/BF03159213
+# Quantity        : natZr(n,x)90mZr independent production cross section
+# REACTION        : 40-ZR-0(N,X)40-ZR-90-M,,SIG
+# File ID         : n-Zr-x-sig-excfun-mon-prodZr90m_Peto_1968_30069.003
+#
+# npts            : 1           
+# xmin            :   1.5000E+07
+# xmax            :   1.5000E+07
+# ymin            :   8.2000E-01
+# ymax            :   8.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  3.0000E+05  8.2000E-01  2.0000E-01
+#---------------------------------------------------

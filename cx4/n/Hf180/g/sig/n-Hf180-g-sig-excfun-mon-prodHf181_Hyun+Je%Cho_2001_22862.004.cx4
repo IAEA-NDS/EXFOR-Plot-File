@@ -1,0 +1,22 @@
+# EXFOR #         : 22862.004  
+# EXFOR Ver.      : 20110224
+# TRANS #         : 2226
+# Author          : Hyun-Je Cho et al.
+# Reference       : Nucl.Instrum.Meth.A 462 (2001) 442
+# DOI             : 10.1016/S0168-9002(01)00158-9
+# Quantity        : 180Hf(n,g)181Hf cross section
+# REACTION        : 72-HF-180(N,G)72-HF-181,,SIG
+# File ID         : n-Hf180-g-sig-excfun-mon-prodHf181_Hyun+Je%Cho_2001_22862.004
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.3040E+01
+# ymax            :   1.3040E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.3040E+01  4.7000E-01
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 31511.005  
+# EXFOR Ver.      : 20010315
+# TRANS #         : 0000
+# Author          : M.A.Arribere et al.
+# Reference       : J.Rad.Nucl.Chem. 241 (1999) 25
+# DOI             : 10.1007/BF02347285
+# Quantity        : 43Ca(n,p)43K cross section
+# REACTION        : 20-CA-43(N,P)19-K-43,,SIG,,FIS
+# File ID         : n-Ca43-p-sig-excfun-fis-prodK43_Arribere_1999_31511.005
+#
+# npts            : 1           
+# xmin            :   1.3200E+06
+# xmax            :   1.3200E+06
+# ymin            :   2.2700E-03
+# ymax            :   2.2700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3200E+06  0.0000E+00  2.2700E-03  1.2000E-04
+#---------------------------------------------------

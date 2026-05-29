@@ -1,0 +1,22 @@
+# EXFOR #         : 30740.009  
+# EXFOR Ver.      : 20100305
+# TRANS #         : 3144
+# Author          : I.F.Goncalves et al.
+# Reference       : Appl.Radiat.Isot. 38 No.11 (1987) 989
+# DOI             : 10.1016/0883-2889(87)90274-7
+# Quantity        : 106Pd(n,p)106mRh cross section
+# REACTION        : 46-PD-106(N,P)45-RH-106-M,,SIG
+# File ID         : n-Pd106-p-sig-excfun-mon-prodRh106m_Goncalves_1987_30740.009
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   8.5000E-03
+# ymax            :   8.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  1.7000E+05  8.5000E-03  7.0000E-04
+#---------------------------------------------------

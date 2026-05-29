@@ -1,0 +1,22 @@
+# EXFOR #         : 30823.002  
+# EXFOR Ver.      : 20090910
+# TRANS #         : 3141
+# Author          : F.Habbani et al.
+# Reference       : Appl.Radiat.Isot. 39 No.10 (1988) 1041
+# DOI             : 10.1016/0883-2889(88)90138-4
+# Quantity        : 57Fe(n,p)57Mn cross section
+# REACTION        : 26-FE-57(N,P)25-MN-57,,SIG
+# File ID         : n-Fe57-p-sig-excfun-mon-prodMn57_Habbani_1988_30823.002
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   7.5000E-02
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  2.0000E+05  7.5000E-02  3.0000E-03
+#---------------------------------------------------

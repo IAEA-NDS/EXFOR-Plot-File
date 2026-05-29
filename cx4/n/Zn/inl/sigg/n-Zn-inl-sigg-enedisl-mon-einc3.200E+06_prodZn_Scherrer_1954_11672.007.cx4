@@ -1,0 +1,27 @@
+# EXFOR #         : 11672.007  
+# EXFOR Ver.      : 20120520
+# TRANS #         : 1381
+# Author          : V.E.Scherrer et al.
+# Reference       : Phys.Rev. 96 (1954) 386
+# DOI             : 10.1103/PhysRev.96.386
+# Quantity        : natZn(n,inl)natZn partial gamma production cross section
+# REACTION        : 30-ZN-0(N,INL)30-ZN-0,PAR,SIG,G
+# File ID         : n-Zn-inl-sigg-enedisl-mon-einc3.200E+06_prodZn_Scherrer_1954_11672.007
+#
+# Einc (eV)       :   3.2000E+06
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 3           
+# xmin            :   1.0200E+06
+# xmax            :   1.6000E+06
+# ymin            :   2.0000E-02
+# ymax            :   1.3000E+00
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0200E+06  0.0000E+00  1.3000E+00  2.6000E-01
+  1.3000E+06  0.0000E+00  3.0000E-02  6.0000E-03
+  1.6000E+06  0.0000E+00  2.0000E-02  4.0000E-03
+#---------------------------------------------------

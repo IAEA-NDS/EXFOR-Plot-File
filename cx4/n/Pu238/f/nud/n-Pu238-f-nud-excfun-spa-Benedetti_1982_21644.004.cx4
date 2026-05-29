@@ -1,0 +1,22 @@
+# EXFOR #         : 21644.004  
+# EXFOR Ver.      : 20220209
+# TRANS #         : 2309
+# Author          : G.Benedetti et al.
+# Reference       : Nucl.Sci.Eng. 80 (1982) 379
+# DOI             : 10.13182/NSE82-A19822
+# Quantity        : 238Pu(n,f) delayed fission neutron multiplicity
+# REACTION        : 94-PU-238(N,F),DL,NU,,SPA
+# File ID         : n-Pu238-f-nud-excfun-spa-Benedetti_1982_21644.004
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   4.0600E-05
+# ymax            :   4.0600E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-d        dnu-d       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  4.0600E-05  2.0000E-06
+#---------------------------------------------------

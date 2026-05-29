@@ -1,0 +1,24 @@
+# EXFOR #         : 30664.002  
+# EXFOR Ver.      : 20090830
+# TRANS #         : 3140
+# Author          : Xie Kuan-Zhong et al.
+# Reference       : High En.Nucl.Phy.Ch. 7 No.4 (1983) 462
+# DOI             : N/A
+# Quantity        : 87Sr(n,inl)87mSr cross section
+# REACTION        : 38-SR-87(N,INL)38-SR-87-M,,SIG
+# File ID         : n-Sr87-inl-sig-excfun-mon-prodSr87m_Xie%Kuan+Zhong_1983_30664.002
+#
+# npts            : 3           
+# xmin            :   6.8300E+05
+# xmax            :   1.5090E+06
+# ymin            :   1.2800E-02
+# ymax            :   1.9470E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.8300E+05  3.5000E+04  1.2800E-02  9.0000E-04
+  9.9700E+05  3.0000E+04  3.4600E-02  2.4000E-03
+  1.5090E+06  6.0000E+04  1.9470E-01  1.3600E-02
+#---------------------------------------------------

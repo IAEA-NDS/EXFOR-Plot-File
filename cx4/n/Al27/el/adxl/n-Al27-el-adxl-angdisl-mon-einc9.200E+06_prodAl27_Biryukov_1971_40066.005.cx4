@@ -1,0 +1,25 @@
+# EXFOR #         : 40066.005  
+# EXFOR Ver.      : 20250731
+# TRANS #         : 4224
+# Author          : N.S.Biryukov
+# Reference       : Report FEI-272, 1971
+# DOI             : N/A
+# Quantity        : 27Al(n,el)27Al angular differential cross section
+# REACTION        : 13-AL-27(N,EL)13-AL-27,,DA
+# File ID         : n-Al27-el-adxl-angdisl-mon-einc9.200E+06_prodAl27_Biryukov_1971_40066.005
+#
+# Einc (eV)       :   9.2000E+06
+# dEinc (eV)      :   3.0000E+05
+#
+# npts            : 1           
+# xmin            :   32.0000000
+# xmax            :   32.0000000
+# ymin            :   1.8600E-01
+# ymax            :   1.8600E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  32.0000000   0.0000000  1.8600E-01  1.2000E-02
+#---------------------------------------------------

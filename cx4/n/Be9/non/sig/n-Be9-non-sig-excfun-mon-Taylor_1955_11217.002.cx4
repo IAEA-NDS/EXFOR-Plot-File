@@ -1,0 +1,23 @@
+# EXFOR #         : 11217.002  
+# EXFOR Ver.      : 20170919
+# TRANS #         : 1435
+# Author          : H.L.Taylor et al.
+# Reference       : Phys.Rev. 100 (1955) 174
+# DOI             : 10.1103/PhysRev.100.174
+# Quantity        : 9Be(n,non) cross section
+# REACTION        : 4-BE-9(N,NON),,SIG
+# File ID         : n-Be9-non-sig-excfun-mon-Taylor_1955_11217.002
+#
+# npts            : 2           
+# xmin            :   1.2700E+07
+# xmax            :   1.4100E+07
+# ymin            :   3.7000E-01
+# ymax            :   4.9000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2700E+07  0.0000E+00  4.9000E-01  8.0000E-02
+  1.4100E+07  0.0000E+00  3.7000E-01  8.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 10168.006  
+# EXFOR Ver.      : 20001214
+# TRANS #         : 0000
+# Author          : F.P.Cranston et al.
+# Reference       : Nucl.Phys.A 169 (1971) 95
+# DOI             : 10.1016/0375-9474(71)90562-8
+# Quantity        : 46Ca(n,g)47Ca cross section
+# REACTION        : 20-CA-46(N,G)20-CA-47,,SIG,,MXW
+# File ID         : n-Ca46-g-sig-excfun-mxw-prodCa47_Cranston_1971_10168.006
+#
+# npts            : 1           
+# xmin            :   2.5000E-02
+# xmax            :   2.5000E-02
+# ymin            :   7.0000E-01
+# ymax            :   7.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  0.0000E+00  7.0000E-01  1.1000E-01
+#---------------------------------------------------

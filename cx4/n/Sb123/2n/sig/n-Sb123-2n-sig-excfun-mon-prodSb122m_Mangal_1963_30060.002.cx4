@@ -1,0 +1,22 @@
+# EXFOR #         : 30060.002  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : S.K.Mangal et al.
+# Reference       : Nucl.Phys. 49 (1963) 510
+# DOI             : 10.1016/0029-5582(63)90115-9
+# Quantity        : 123Sb(n,2n)122mSb cross section
+# REACTION        : 51-SB-123(N,2N)51-SB-122-M,,SIG
+# File ID         : n-Sb123-2n-sig-excfun-mon-prodSb122m_Mangal_1963_30060.002
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.0130E+00
+# ymax            :   1.0130E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  2.5000E+05  1.0130E+00  1.2000E-02
+#---------------------------------------------------

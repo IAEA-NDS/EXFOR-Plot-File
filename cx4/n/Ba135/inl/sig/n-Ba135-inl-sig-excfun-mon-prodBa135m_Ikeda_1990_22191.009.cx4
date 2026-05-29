@@ -1,0 +1,23 @@
+# EXFOR #         : 22191.009  
+# EXFOR Ver.      : 20201212
+# TRANS #         : 2296
+# Author          : Y.Ikeda et al.
+# Reference       : Progress report NEANDC(J)-155 page 11, 1990
+# DOI             : N/A
+# Quantity        : 135Ba(n,inl)135mBa cross section
+# REACTION        : 56-BA-135(N,INL)56-BA-135-M,,SIG
+# File ID         : n-Ba135-inl-sig-excfun-mon-prodBa135m_Ikeda_1990_22191.009
+#
+# npts            : 2           
+# xmin            :   2.2000E+06
+# xmax            :   3.0100E+06
+# ymin            :   5.8000E-01
+# ymax            :   7.8400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0100E+06  0.0000E+00  7.8400E-01  5.3000E-02
+  2.2000E+06  0.0000E+00  5.8000E-01  3.9000E-02
+#---------------------------------------------------

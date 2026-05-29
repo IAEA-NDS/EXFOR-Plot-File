@@ -1,0 +1,22 @@
+# EXFOR #         : 23188.002  
+# EXFOR Ver.      : 20130301
+# TRANS #         : 2235
+# Author          : G.Lhersonneau et al.
+# Reference       : Nucl.Instrum.Meth.A 698 (2013) 224
+# DOI             : 10.1016/j.nima.2012.09.051
+# Quantity        : 238U(n,f)132Sn independent production cross section
+# REACTION        : 92-U-238(N,F)50-SN-132,,SIG,,SPA
+# File ID         : n-U238-x-sig-excfun-spa-prodSn132_Lhersonneau_2013_23188.002
+#
+# npts            : 1           
+# xmin            :   1.2700E+07
+# xmax            :   1.2700E+07
+# ymin            :   4.5000E-03
+# ymax            :   4.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2700E+07  0.0000E+00  4.5000E-03  8.5500E-04
+#---------------------------------------------------

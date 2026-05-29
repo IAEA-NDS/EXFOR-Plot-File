@@ -1,0 +1,25 @@
+# EXFOR #         : 11478.005  
+# EXFOR Ver.      : 19821124
+# TRANS #         : 0000
+# Author          : M.A.Rothman et al.
+# Reference       : Phys.Rev. 100 (1955) 83
+# DOI             : 10.1103/PhysRev.100.83
+# Quantity        : natSb(n,inl)natSb partial gamma angular differential cross section
+# REACTION        : 51-SB-0(N,INL),PAR,DA,G
+# File ID         : n-Sb-inl-adxgl-angdisl-mon-einc3.700E+06_eoutl1.000E+06_prodSb_Rothman_1955_11478.005
+#
+# Einc (eV)       :   3.7000E+06
+# Eout,lab (eV)   :   1.0000E+06
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   7.5000E-02
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  7.5000E-02  0.0000E+00
+#---------------------------------------------------

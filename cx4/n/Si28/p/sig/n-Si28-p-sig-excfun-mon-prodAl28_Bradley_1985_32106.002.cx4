@@ -1,0 +1,22 @@
+# EXFOR #         : 32106.002  
+# EXFOR Ver.      : 20101206
+# TRANS #         : 3147
+# Author          : D.A.Bradley et al.
+# Reference       : Proceedings of Fast Neutrons in Sci.and Techn.Symp.,Chiang Mai 1985 page 19
+# DOI             : N/A
+# Quantity        : 28Si(n,p)28Al cross section
+# REACTION        : 14-SI-28(N,P)13-AL-28,,SIG
+# File ID         : n-Si28-p-sig-excfun-mon-prodAl28_Bradley_1985_32106.002
+#
+# npts            : 1           
+# xmin            :   8.6000E+06
+# xmax            :   8.6000E+06
+# ymin            :   2.0800E-01
+# ymax            :   2.0800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.6000E+06  3.0000E+05  2.0800E-01  3.5000E-02
+#---------------------------------------------------

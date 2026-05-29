@@ -1,0 +1,26 @@
+# EXFOR #         : 32663.002  
+# EXFOR Ver.      : 20060622
+# TRANS #         : 3121
+# Author          : Wang Dongmei et al.
+# Reference       : He Huax.Fang.Huaxue 13 No.4 (1991) 237
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY
+# File ID         : n-U235-f-fyc-nucdis-mon-einc2.440E+04_Wang%Dongmei_1991_32663.002
+#
+# Einc (eV)       :   2.4400E+04
+#
+# npts            : 3           
+# xmin            : 42099.9     
+# xmax            : 56140.9     
+# ymin            :   3.1600E-02
+# ymax            :   7.8500E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     42099.9  4.6300E-02  0.0000E+00
+     52132.9  3.1600E-02  0.0000E+00
+     56140.9  7.8500E-02  0.0000E+00
+#---------------------------------------------------

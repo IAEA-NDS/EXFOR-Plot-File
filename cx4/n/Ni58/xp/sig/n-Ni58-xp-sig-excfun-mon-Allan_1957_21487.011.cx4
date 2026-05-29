@@ -1,0 +1,22 @@
+# EXFOR #         : 21487.011  
+# EXFOR Ver.      : 20101114
+# TRANS #         : 2225
+# Author          : D.L.Allan
+# Reference       : Proc.Phys.Soc.(UK) A 70 (1957) 195
+# DOI             : 10.1088/0370-1298/70/3/305
+# Quantity        : 58Ni(n,p+x) cross section
+# REACTION        : 28-NI-58(N,X)1-H-1,,SIG
+# File ID         : n-Ni58-xp-sig-excfun-mon-Allan_1957_21487.011
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   5.3000E-01
+# ymax            :   5.3000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.5000E+05  5.3000E-01  1.0600E-01
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 20455.004  
+# EXFOR Ver.      : 20180821
+# TRANS #         : 2270
+# Author          : D.Porter et al.
+# Reference       : Report AWRE-O-78/70, 1970
+# DOI             : N/A
+# Quantity        : 89Y(n,inl)89Y partial gamma angular differential cross section
+# REACTION        : 39-Y-89(N,INL)39-Y-89,PAR,DA,G
+# File ID         : n-Y89-inl-adxgl-enedisl-mon-einc1.120E+06_angl100_prodY89_Porter_1970_20455.004
+#
+# Einc (eV)       :   1.1200E+06
+# theta,lab (deg) :  100.0000000
+#
+# npts            : 1           
+# xmin            :   9.0900E+05
+# xmax            :   9.0900E+05
+# ymin            :   6.7000E-03
+# ymax            :   6.7000E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.0900E+05  0.0000E+00  6.7000E-03  1.1000E-03
+#---------------------------------------------------

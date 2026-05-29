@@ -1,0 +1,23 @@
+# EXFOR #         : 31676.007  
+# EXFOR Ver.      : 20090531
+# TRANS #         : 3138
+# Author          : Liangyong Zhao et al.
+# Reference       : Ann.Nucl.Energy 36 (2009) 874
+# DOI             : 10.1016/j.anucene.2009.03.014
+# Quantity        : 81Br(n,a)78As cross section
+# REACTION        : 35-BR-81(N,A)33-AS-78,,SIG
+# File ID         : n-Br81-a-sig-excfun-mon-prodAs78_Liangyong%Zhao_2009_31676.007
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4100E+07
+# ymin            :   4.0200E-03
+# ymax            :   4.2200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  3.0000E+05  4.2200E-03  8.1000E-04
+  1.4100E+07  2.0000E+05  4.0200E-03  1.0400E-03
+#---------------------------------------------------

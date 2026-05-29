@@ -1,0 +1,24 @@
+# EXFOR #         : 22383.005  
+# EXFOR Ver.      : 19980623
+# TRANS #         : 0000
+# Author          : M.Igashira et al.
+# Reference       : Proceedings of Meas.,Calc.and Eval.of Photon Prod.Data,Bologna  1994 page 269
+# DOI             : N/A
+# Quantity        : 11B(n,g)12B cross section
+# REACTION        : 5-B-11(N,G)5-B-12,,SIG
+# File ID         : n-B11-g-sig-excfun-mon-prodB12_Igashira_1994_22383.005
+#
+# npts            : 3           
+# xmin            :   2.3000E+04
+# xmax            :   6.1000E+04
+# ymin            :   1.7800E-05
+# ymax            :   2.3800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3000E+04  0.0000E+00  2.3800E-04  1.3000E-05
+  4.0000E+04  0.0000E+00  1.9800E-05  1.5000E-06
+  6.1000E+04  0.0000E+00  1.7800E-05  2.8000E-06
+#---------------------------------------------------

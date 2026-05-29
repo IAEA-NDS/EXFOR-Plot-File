@@ -1,0 +1,24 @@
+# EXFOR #         : 40765.006  
+# EXFOR Ver.      : 20231113
+# TRANS #         : 4216
+# Author          : I.A.Korzh
+# Reference       : Ukr.Fiz.Zh. 9 (1964) 929
+# DOI             : N/A
+# Quantity        : natSb(n,el)natSb cross section
+# REACTION        : 51-SB-0(N,EL)51-SB-0,,SIG
+# File ID         : n-Sb-el-sig-excfun-mon-prodSb_Korzh_1964_40765.006
+#
+# npts            : 3           
+# xmin            :   3.0000E+05
+# xmax            :   8.0000E+05
+# ymin            :   6.0900E+00
+# ymax            :   6.6100E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+05  2.5000E+04  6.0900E+00  3.7000E-01
+  5.0000E+05  5.0000E+04  6.6100E+00  3.1000E-01
+  8.0000E+05  5.0000E+04  6.5600E+00  3.2000E-01
+#---------------------------------------------------

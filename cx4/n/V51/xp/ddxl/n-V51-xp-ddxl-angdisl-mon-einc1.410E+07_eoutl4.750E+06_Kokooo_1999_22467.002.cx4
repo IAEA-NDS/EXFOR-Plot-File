@@ -1,0 +1,29 @@
+# EXFOR #         : 22467.002  
+# EXFOR Ver.      : 20000603
+# TRANS #         : 0000
+# Author          : Kokooo et al.
+# Reference       : Nucl.Sci.Eng. 132 No.1 (1999) 16
+# DOI             : 10.13182/NSE99-A2046
+# Quantity        : 51V(n,p+x) double differential cross section
+# REACTION        : 23-V-51(N,X)1-H-1,,DA/DE
+# File ID         : n-V51-xp-ddxl-angdisl-mon-einc1.410E+07_eoutl4.750E+06_Kokooo_1999_22467.002
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.0000E+05
+# Eout,lab (eV)   :   4.7500E+06
+#
+# npts            : 4           
+# xmin            :   45.0000000
+# xmax            :   90.0000000
+# ymin            :   8.5090E-10
+# ymax            :   1.3188E-09
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  45.0000000   0.0000000  8.5090E-10  1.0570E-10
+  60.0000000   0.0000000  8.9660E-10  1.0560E-10
+  70.0000000   0.0000000  1.3188E-09  2.0600E-10
+  90.0000000   0.0000000  9.0580E-10  1.1960E-10
+#---------------------------------------------------

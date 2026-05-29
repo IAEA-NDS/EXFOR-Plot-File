@@ -1,0 +1,24 @@
+# EXFOR #         : 31507.004  
+# EXFOR Ver.      : 20150126
+# TRANS #         : 3167
+# Author          : Yu.M.Gledenov et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 514
+# DOI             : N/A
+# Quantity        : 58Ni(n,a)55Fe cross section
+# REACTION        : 28-NI-58(N,A)26-FE-55,,SIG
+# File ID         : n-Ni58-a-sig-excfun-mon-prodFe55_Gledenov_1997_31507.004
+#
+# npts            : 3           
+# xmin            :   5.0000E+06
+# xmax            :   7.0000E+06
+# ymin            :   4.7400E-02
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+06  0.0000E+00  4.7400E-02  5.0000E-03
+  6.0000E+06  0.0000E+00  7.5000E-02  7.5000E-03
+  7.0000E+06  0.0000E+00  7.1000E-02  1.4000E-02
+#---------------------------------------------------

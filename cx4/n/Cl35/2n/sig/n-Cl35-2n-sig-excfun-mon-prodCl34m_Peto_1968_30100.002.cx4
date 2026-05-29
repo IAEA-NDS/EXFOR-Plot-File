@@ -1,0 +1,22 @@
+# EXFOR #         : 30100.002  
+# EXFOR Ver.      : 20211005
+# TRANS #         : 3202
+# Author          : G.Peto et al.
+# Reference       : Acta Phys.Hung. 24 (1968) 93
+# DOI             : 10.1007/BF03159394
+# Quantity        : 35Cl(n,2n)34mCl cross section
+# REACTION        : 17-CL-35(N,2N)17-CL-34-M,,SIG
+# File ID         : n-Cl35-2n-sig-excfun-mon-prodCl34m_Peto_1968_30100.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+07
+# xmax            :   1.5000E+07
+# ymin            :   7.6000E-03
+# ymax            :   7.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  3.0000E+05  7.6000E-03  7.0000E-04
+#---------------------------------------------------

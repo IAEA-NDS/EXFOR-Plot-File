@@ -1,0 +1,22 @@
+# EXFOR #         : 31838.010.1
+# EXFOR Ver.      : 20211110
+# TRANS #         : 3206
+# Author          : M.Kostal et al.
+# Reference       : Ann.Nucl.Energy 158 (2021) 108268
+# DOI             : 10.1016/j.anucene.2021.108268
+# Quantity        : 48Ti(n,p)48Sc cross section
+# REACTION        : 22-TI-48(N,P)21-SC-48,,SIG,,SPA
+# File ID         : n-Ti48-p-sig-excfun-spa-prodSc48_Kostal_2021_31838.010.1
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   5.0370E-08
+# ymax            :   5.0370E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  5.0370E-08  1.2089E-09
+#---------------------------------------------------

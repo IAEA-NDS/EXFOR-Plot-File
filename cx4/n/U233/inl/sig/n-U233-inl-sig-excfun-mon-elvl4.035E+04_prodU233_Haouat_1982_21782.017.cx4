@@ -1,0 +1,25 @@
+# EXFOR #         : 21782.017  
+# EXFOR Ver.      : 20150730
+# TRANS #         : 2243
+# Author          : G.Haouat et al.
+# Reference       : Nucl.Sci.Eng. 81 No.4 (1982) 491
+# DOI             : 10.13182/NSE82-A21439
+# Quantity        : 233U(n,inl)233U partial cross section
+# REACTION        : 92-U-233(N,INL)92-U-233,PAR,SIG
+# File ID         : n-U233-inl-sig-excfun-mon-elvl4.035E+04_prodU233_Haouat_1982_21782.017
+#
+# Elvl (eV)       :   4.0350E+04
+#
+# npts            : 2           
+# xmin            :   7.0000E+05
+# xmax            :   1.5000E+06
+# ymin            :   2.5200E-01
+# ymax            :   4.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0000E+05  4.0000E+03  4.0000E-01  2.0000E-02
+  1.5000E+06  9.0000E+03  2.5200E-01  8.6000E-03
+#---------------------------------------------------

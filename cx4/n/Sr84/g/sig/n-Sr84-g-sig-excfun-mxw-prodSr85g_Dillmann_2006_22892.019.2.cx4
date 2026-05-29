@@ -1,0 +1,22 @@
+# EXFOR #         : 22892.019.2
+# EXFOR Ver.      : 20211014
+# TRANS #         : 2305
+# Author          : I.Dillmann et al.
+# Reference       : Phys.Rev.C 73 (2006) 015803
+# DOI             : 10.1103/PhysRevC.73.015803
+# Quantity        : 84Sr(n,g)85gSr cross section
+# REACTION        : 38-SR-84(N,G)38-SR-85-G,,SIG,,MXW
+# File ID         : n-Sr84-g-sig-excfun-mxw-prodSr85g_Dillmann_2006_22892.019.2
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   1.1900E-01
+# ymax            :   1.1900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  5.0000E+02  1.1900E-01  9.0000E-03
+#---------------------------------------------------

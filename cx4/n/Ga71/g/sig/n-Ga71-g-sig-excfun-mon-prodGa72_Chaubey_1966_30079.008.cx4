@@ -1,0 +1,22 @@
+# EXFOR #         : 30079.008  
+# EXFOR Ver.      : 20260402
+# TRANS #         : 3223
+# Author          : A.K.Chaubey et al.
+# Reference       : Phys.Rev. 152 (1966) 1055
+# DOI             : 10.1103/PhysRev.152.1055
+# Quantity        : 71Ga(n,g)72Ga cross section
+# REACTION        : 31-GA-71(N,G)31-GA-72,,SIG
+# File ID         : n-Ga71-g-sig-excfun-mon-prodGa72_Chaubey_1966_30079.008
+#
+# npts            : 1           
+# xmin            :   2.4000E+04
+# xmax            :   2.4000E+04
+# ymin            :   7.5000E-02
+# ymax            :   7.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+04  0.0000E+00  7.5000E-02  1.0000E-02
+#---------------------------------------------------

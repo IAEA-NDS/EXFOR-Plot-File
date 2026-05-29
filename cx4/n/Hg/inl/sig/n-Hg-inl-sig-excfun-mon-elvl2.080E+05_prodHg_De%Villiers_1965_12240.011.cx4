@@ -1,0 +1,27 @@
+# EXFOR #         : 12240.011  
+# EXFOR Ver.      : 19840821
+# TRANS #         : 0000
+# Author          : J.A.M.De Villiers et al.
+# Reference       : Z.Phys. 183 (1965) 323
+# DOI             : 10.1007/BF01380762
+# Quantity        : natHg(n,inl)natHg partial cross section
+# REACTION        : 80-HG-0(N,INL),PAR,SIG
+# File ID         : n-Hg-inl-sig-excfun-mon-elvl2.080E+05_prodHg_De%Villiers_1965_12240.011
+#
+# Elvl (eV)       :   2.0800E+05
+#
+# npts            : 4           
+# xmin            :   5.5000E+05
+# xmax            :   7.0000E+05
+# ymin            :   5.0000E-02
+# ymax            :   8.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+05  0.0000E+00  5.0000E-02  0.0000E+00
+  6.0000E+05  0.0000E+00  6.0000E-02  0.0000E+00
+  6.4000E+05  0.0000E+00  8.5000E-02  0.0000E+00
+  7.0000E+05  0.0000E+00  8.0000E-02  0.0000E+00
+#---------------------------------------------------

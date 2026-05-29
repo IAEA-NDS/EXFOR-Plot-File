@@ -1,0 +1,22 @@
+# EXFOR #         : 31496.026  
+# EXFOR Ver.      : 19980715
+# TRANS #         : 0000
+# Author          : A.Grallert et al.
+# Reference       : Report INDC(NDS)-286 page 131, 1993
+# DOI             : N/A
+# Quantity        : 144Nd(n,a)141Ce cross section
+# REACTION        : 60-ND-144(N,A)58-CE-141,,SIG
+# File ID         : n-Nd144-a-sig-excfun-mon-prodCe141_Grallert_1993_31496.026
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   4.0000E-03
+# ymax            :   4.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  1.2000E+05  4.0000E-03  3.0000E-04
+#---------------------------------------------------

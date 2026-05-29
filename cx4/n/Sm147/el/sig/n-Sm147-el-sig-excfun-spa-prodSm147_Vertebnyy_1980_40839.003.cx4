@@ -1,0 +1,23 @@
+# EXFOR #         : 40839.003  
+# EXFOR Ver.      : 20231226
+# TRANS #         : 4216
+# Author          : V.P.Vertebnyy et al.
+# Reference       : Report INDC(CCP)-169 Vol.(2) page 249, 1980
+# DOI             : N/A
+# Quantity        : 147Sm(n,el)147Sm cross section
+# REACTION        : 62-SM-147(N,EL)62-SM-147,,SIG,,SPA
+# File ID         : n-Sm147-el-sig-excfun-spa-prodSm147_Vertebnyy_1980_40839.003
+#
+# npts            : 2           
+# xmin            :   2.0000E+03
+# xmax            :   2.4500E+04
+# ymin            :   1.7000E+01
+# ymax            :   4.8100E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+03  0.0000E+00  4.8100E+01  1.0000E+00
+  2.4500E+04  0.0000E+00  1.7000E+01  1.0000E+00
+#---------------------------------------------------

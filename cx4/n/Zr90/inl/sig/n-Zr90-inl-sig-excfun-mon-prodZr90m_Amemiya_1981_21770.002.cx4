@@ -1,0 +1,22 @@
+# EXFOR #         : 21770.002  
+# EXFOR Ver.      : 20140104
+# TRANS #         : 2238
+# Author          : S.Amemiya et al.
+# Reference       : J.Nucl.Sci.Technol. 18 (1981) 323
+# DOI             : 10.1080/18811248.1981.9733262
+# Quantity        : 90Zr(n,inl)90mZr cross section
+# REACTION        : 40-ZR-90(N,INL)40-ZR-90-M,,SIG
+# File ID         : n-Zr90-inl-sig-excfun-mon-prodZr90m_Amemiya_1981_21770.002
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   4.1000E-01
+# ymax            :   4.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  0.0000E+00  4.1000E-01  4.0000E-02
+#---------------------------------------------------

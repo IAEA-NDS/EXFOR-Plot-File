@@ -1,0 +1,23 @@
+# EXFOR #         : 31665.003  
+# EXFOR Ver.      : 20090319
+# TRANS #         : 3136
+# Author          : Kaihong Fang et al.
+# Reference       : Radiat.Meas. 44 (2009) 68
+# DOI             : 10.1016/j.radmeas.2008.11.001
+# Quantity        : 180W(n,2n)179gW cross section
+# REACTION        : 74-W-180(N,2N)74-W-179-G,,SIG
+# File ID         : n-W180-2n-sig-excfun-mon-prodW179g_Kaihong%Fang_2009_31665.003
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4100E+07
+# ymin            :   1.2390E+00
+# ymax            :   1.3610E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  3.0000E+05  1.2390E+00  3.6800E-01
+  1.4100E+07  2.0000E+05  1.3610E+00  3.5700E-01
+#---------------------------------------------------

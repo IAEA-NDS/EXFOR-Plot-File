@@ -1,0 +1,22 @@
+# EXFOR #         : 20815.017  
+# EXFOR Ver.      : 20131211
+# TRANS #         : 2238
+# Author          : H.K.Vonach et al.
+# Reference       : Proceedings of Nuclear Cross-Sections Techn. Conf., Washington 1968 2 page 885
+# DOI             : N/A
+# Quantity        : 65Cu(n,2n)64Cu cross section
+# REACTION        : 29-CU-65(N,2N)29-CU-64,,SIG
+# File ID         : n-Cu65-2n-sig-excfun-mon-prodCu64_Vonach_1968_20815.017
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   8.6600E-01
+# ymax            :   8.6600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  7.5000E+04  8.6600E-01  3.5000E-02
+#---------------------------------------------------

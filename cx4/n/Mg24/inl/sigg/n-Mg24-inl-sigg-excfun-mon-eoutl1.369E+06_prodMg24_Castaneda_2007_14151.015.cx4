@@ -1,0 +1,27 @@
+# EXFOR #         : 14151.015  
+# EXFOR Ver.      : 20071116
+# TRANS #         : 1345
+# Author          : C.M.Castaneda et al.
+# Reference       : Nucl.Instrum.Meth.B 260 (2007) 508
+# DOI             : 10.1016/j.nimb.2007.04.019
+# Quantity        : 24Mg(n,inl)24Mg partial gamma production cross section
+# REACTION        : 12-MG-24(N,INL)12-MG-24,PAR,SIG,G,A
+# File ID         : n-Mg24-inl-sigg-excfun-mon-eoutl1.369E+06_prodMg24_Castaneda_2007_14151.015
+#
+# Eout,lab (eV)   :   1.3686E+06
+#
+# npts            : 4           
+# xmin            :   1.7400E+07
+# xmax            :   4.2100E+07
+# ymin            :   4.1791E-04
+# ymax            :   2.0136E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7400E+07  0.0000E+00  2.0136E-03  4.3057E-04
+  2.2200E+07  0.0000E+00  9.1180E-04  7.5983E-05
+  3.2500E+07  0.0000E+00  7.7249E-04  8.8647E-05
+  4.2100E+07  0.0000E+00  4.1791E-04  1.3930E-04
+#---------------------------------------------------

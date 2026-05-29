@@ -1,0 +1,22 @@
+# EXFOR #         : 31822.005  
+# EXFOR Ver.      : 20200616
+# TRANS #         : 3196
+# Author          : N.Burianova et al.
+# Reference       : Appl.Radiat.Isot. 154 (2019) 108855
+# DOI             : 10.1016/j.apradiso.2019.108855
+# Quantity        : 48Ti(n,p)48Sc cross section
+# REACTION        : 22-TI-48(N,P)21-SC-48,,SIG,,SPA
+# File ID         : n-Ti48-p-sig-excfun-spa-prodSc48_Burianova_2019_31822.005
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.9400E-04
+# ymax            :   2.9400E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.9400E-04  1.9992E-05
+#---------------------------------------------------

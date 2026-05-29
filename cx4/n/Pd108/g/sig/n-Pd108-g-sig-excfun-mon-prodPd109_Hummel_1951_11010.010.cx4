@@ -1,0 +1,22 @@
+# EXFOR #         : 11010.010  
+# EXFOR Ver.      : 20150826
+# TRANS #         : 1409
+# Author          : V.Hummel et al.
+# Reference       : Phys.Rev. 82 (1951) 67
+# DOI             : 10.1103/PhysRev.82.67
+# Quantity        : 108Pd(n,g)109Pd cross section
+# REACTION        : 46-PD-108(N,G)46-PD-109,,SIG
+# File ID         : n-Pd108-g-sig-excfun-mon-prodPd109_Hummel_1951_11010.010
+#
+# npts            : 1           
+# xmin            :   2.4000E+04
+# xmax            :   2.4000E+04
+# ymin            :   3.6000E-01
+# ymax            :   3.6000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+04  0.0000E+00  3.6000E-01  9.0000E-02
+#---------------------------------------------------

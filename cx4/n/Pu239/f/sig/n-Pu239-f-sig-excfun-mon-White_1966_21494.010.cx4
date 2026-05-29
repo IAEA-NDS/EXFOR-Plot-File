@@ -1,0 +1,22 @@
+# EXFOR #         : 21494.010  
+# EXFOR Ver.      : 20211225
+# TRANS #         : 2306
+# Author          : P.H.White et al.
+# Reference       : Proceedings of Nuclear Data For Reactors Conf., Paris 1966 2 page 29
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cross section
+# REACTION        : 94-PU-239(N,F),,SIG
+# File ID         : n-Pu239-f-sig-excfun-mon-White_1966_21494.010
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   7.2300E+02
+# ymax            :   7.2300E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.2300E+02  1.5000E+01
+#---------------------------------------------------

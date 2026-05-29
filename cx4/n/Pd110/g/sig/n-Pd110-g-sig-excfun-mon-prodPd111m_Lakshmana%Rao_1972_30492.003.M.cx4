@@ -1,0 +1,22 @@
+# EXFOR #         : 30492.003.M
+# EXFOR Ver.      : 20090312
+# TRANS #         : 3135
+# Author          : A.Lakshmana Rao et al.
+# Reference       : Nuovo Cim.Lett. 5 No.16 (1972) 1025
+# DOI             : 10.1007/BF02896597
+# Quantity        : 110Pd(n,g)111mPd cross section
+# REACTION        : 46-PD-110(N,G)46-PD-111-M,,SIG
+# File ID         : n-Pd110-g-sig-excfun-mon-prodPd111m_Lakshmana%Rao_1972_30492.003.m
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   7.6000E-03
+# ymax            :   7.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  5.0000E+03  7.6000E-03  1.0000E-03
+#---------------------------------------------------

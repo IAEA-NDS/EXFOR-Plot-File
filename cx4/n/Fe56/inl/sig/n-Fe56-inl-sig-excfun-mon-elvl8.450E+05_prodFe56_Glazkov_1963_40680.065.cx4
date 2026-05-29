@@ -1,0 +1,25 @@
+# EXFOR #         : 40680.065  
+# EXFOR Ver.      : 20211203
+# TRANS #         : 4201
+# Author          : N.P.Glazkov
+# Reference       : At.En. 15 (1963) 416
+# DOI             : N/A
+# Quantity        : 56Fe(n,inl)56Fe partial cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG,,A
+# File ID         : n-Fe56-inl-sig-excfun-mon-elvl8.450E+05_prodFe56_Glazkov_1963_40680.065
+#
+# Elvl (eV)       :   8.4500E+05
+#
+# npts            : 2           
+# xmin            :   1.0000E+06
+# xmax            :   1.2000E+06
+# ymin            :   3.0516E-03
+# ymax            :   5.6673E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  3.0516E-03  3.2696E-04
+  1.2000E+06  0.0000E+00  5.6673E-03  5.4494E-04
+#---------------------------------------------------

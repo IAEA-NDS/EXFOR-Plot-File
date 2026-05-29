@@ -1,0 +1,25 @@
+# EXFOR #         : 10307.002  
+# EXFOR Ver.      : 20020823
+# TRANS #         : 0000
+# Author          : M.C.Gupta et al.
+# Reference       : Can.J.Phys. 51 (1973) 121
+# DOI             : 10.1139/p73-015
+# Quantity        : natSn(n,el)natSn angular differential cross section
+# REACTION        : 50-SN-0(N,EL)50-SN-0,,DA
+# File ID         : n-Sn-el-adxl-angdisl-mon-einc3.650E+06_prodSn_Gupta_1973_10307.002
+#
+# Einc (eV)       :   3.6500E+06
+#
+# npts            : 2           
+# xmin            :   10.0000000
+# xmax            :  180.0000000
+# ymin            :   2.6800E-01
+# ymax            :   1.4000E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.0000000   0.0000000  1.4000E+00  1.1000E-01
+ 180.0000000   0.0000000  2.6800E-01  7.0000E-02
+#---------------------------------------------------

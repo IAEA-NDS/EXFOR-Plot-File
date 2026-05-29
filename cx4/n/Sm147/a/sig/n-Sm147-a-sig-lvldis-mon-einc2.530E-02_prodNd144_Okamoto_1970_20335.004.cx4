@@ -1,0 +1,25 @@
+# EXFOR #         : 20335.004  
+# EXFOR Ver.      : 19831128
+# TRANS #         : 0000
+# Author          : K.Okamoto
+# Reference       : Nucl.Phys.A 141 (1970) 193
+# DOI             : 10.1016/0375-9474(70)90303-9
+# Quantity        : 147Sm(n,a)144Nd partial cross section
+# REACTION        : 62-SM-147(N,A)60-ND-144,PAR,SIG
+# File ID         : n-Sm147-a-sig-lvldis-mon-einc2.530E-02_prodNd144_Okamoto_1970_20335.004
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   6.9500E+05
+# ymin            :   1.8000E-04
+# ymax            :   5.3000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.8000E-04  4.0000E-05
+  6.9500E+05  0.0000E+00  5.3000E-04  1.0000E-04
+#---------------------------------------------------

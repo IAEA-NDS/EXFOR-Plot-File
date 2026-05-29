@@ -1,0 +1,23 @@
+# EXFOR #         : 30193.004  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : D.Rendic et al.
+# Reference       : Report ZFK-130 page 143, 1967
+# DOI             : N/A
+# Quantity        : 6Li(n,t)4He cross section
+# REACTION        : 3-LI-6(N,T)2-HE-4,,SIG
+# File ID         : n-Li6-t-sig-excfun-mon-prodHe4_Rendic_1967_30193.004
+#
+# npts            : 2           
+# xmin            :   2.7000E+06
+# xmax            :   1.4400E+07
+# ymin            :   2.6000E-02
+# ymax            :   1.6600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7000E+06  0.0000E+00  1.6600E-01  2.1000E-02
+  1.4400E+07  0.0000E+00  2.6000E-02  3.0000E-03
+#---------------------------------------------------

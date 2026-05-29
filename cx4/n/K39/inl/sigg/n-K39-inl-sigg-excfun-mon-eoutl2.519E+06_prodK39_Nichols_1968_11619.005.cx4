@@ -1,0 +1,26 @@
+# EXFOR #         : 11619.005  
+# EXFOR Ver.      : 20210920
+# TRANS #         : 1492
+# Author          : D.B.Nichols et al.
+# Reference       : Phys.Rev. 166 (1968) 1074
+# DOI             : 10.1103/PhysRev.166.1074
+# Quantity        : 39K(n,inl)39K partial gamma production cross section
+# REACTION        : 19-K-39(N,INL)19-K-39,PAR,SIG,G
+# File ID         : n-K39-inl-sigg-excfun-mon-eoutl2.519E+06_prodK39_Nichols_1968_11619.005
+#
+# Eout,lab (eV)   :   2.5190E+06
+#
+# npts            : 3           
+# xmin            :   2.6300E+06
+# xmax            :   3.9600E+06
+# ymin            :   1.4000E-02
+# ymax            :   1.1500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6300E+06  0.0000E+00  1.4000E-02  0.0000E+00
+  3.4200E+06  0.0000E+00  6.4000E-02  0.0000E+00
+  3.9600E+06  0.0000E+00  1.1500E-01  0.0000E+00
+#---------------------------------------------------

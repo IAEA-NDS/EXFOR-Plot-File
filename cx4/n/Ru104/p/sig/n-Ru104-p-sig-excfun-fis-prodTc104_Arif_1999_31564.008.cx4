@@ -1,0 +1,22 @@
+# EXFOR #         : 31564.008  
+# EXFOR Ver.      : 20051214
+# TRANS #         : 3118
+# Author          : M.Arif et al.
+# Reference       : Radiochim.Acta 85 (1999) 9
+# DOI             : 10.1524/ract.1999.85.12.9
+# Quantity        : 104Ru(n,p)104Tc cross section
+# REACTION        : 44-RU-104(N,P)43-TC-104,,SIG,,FIS
+# File ID         : n-Ru104-p-sig-excfun-fis-prodTc104_Arif_1999_31564.008
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   5.5000E-04
+# ymax            :   5.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  5.5000E-04  1.0000E-04
+#---------------------------------------------------

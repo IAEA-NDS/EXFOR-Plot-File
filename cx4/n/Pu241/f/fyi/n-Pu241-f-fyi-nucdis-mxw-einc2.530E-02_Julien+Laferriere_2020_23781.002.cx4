@@ -1,0 +1,27 @@
+# EXFOR #         : 23781.002  
+# EXFOR Ver.      : 20220215
+# TRANS #         : 2308
+# Author          : S.Julien-Laferriere et al.
+# Reference       : Phys.Rev.C 102 (2020) 034602
+# DOI             : 10.1103/PhysRevC.102.034602
+# Quantity        : 241Pu(n,f) independent fission product yield
+# REACTION        : 94-PU-241(N,F)ELEM/MASS,IND,FY,,MXW
+# File ID         : n-Pu241-f-fyi-nucdis-mxw-einc2.530E-02_Julien+Laferriere_2020_23781.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 4           
+# xmin            : 53139.9     
+# xmax            : 56139.9     
+# ymin            :   8.1160E-04
+# ymax            :   3.7033E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     53139.9  1.0442E-02  1.5122E-03
+     54139.9  3.7033E-02  6.6153E-03
+     55139.9  7.3807E-03  1.0390E-02
+     56139.9  8.1160E-04  3.6833E-03
+#---------------------------------------------------

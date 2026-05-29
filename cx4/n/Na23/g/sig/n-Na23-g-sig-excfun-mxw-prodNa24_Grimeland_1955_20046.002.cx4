@@ -1,0 +1,22 @@
+# EXFOR #         : 20046.002  
+# EXFOR Ver.      : 20190131
+# TRANS #         : 2274
+# Author          : B.Grimeland
+# Reference       : J.Nucl.Energy 1 (1955) 231
+# DOI             : 10.1016/0891-3919(54)90020-0
+# Quantity        : 23Na(n,g)24Na cross section
+# REACTION        : 11-NA-23(N,G)11-NA-24,,SIG,,MXW
+# File ID         : n-Na23-g-sig-excfun-mxw-prodNa24_Grimeland_1955_20046.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   5.1000E-01
+# ymax            :   5.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  5.1000E-01  3.0000E-02
+#---------------------------------------------------

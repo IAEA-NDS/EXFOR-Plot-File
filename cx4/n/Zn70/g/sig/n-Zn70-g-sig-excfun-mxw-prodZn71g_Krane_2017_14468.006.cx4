@@ -1,0 +1,23 @@
+# EXFOR #         : 14468.006  
+# EXFOR Ver.      : 20170213
+# TRANS #         : 1426
+# Author          : K.S.Krane
+# Reference       : Appl.Radiat.Isot. 121 (2017) 28
+# DOI             : 10.1016/j.apradiso.2016.12.029
+# Quantity        : 70Zn(n,g)71gZn cross section
+# REACTION        : 30-ZN-70(N,G)30-ZN-71-G,,SIG,,MXW
+# File ID         : n-Zn70-g-sig-excfun-mxw-prodZn71g_Krane_2017_14468.006
+#
+# npts            : 2           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.0000E-02
+# ymax            :   2.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.0000E-02  4.0000E-03
+  2.5300E-02  0.0000E+00  2.3000E-02  3.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 23488.049  
+# EXFOR Ver.      : 20190303
+# TRANS #         : 2280
+# Author          : F.De Corte et al.
+# Reference       : Proceedings of Conf.on Nucl.Data For Sci.and Technol.,Mito 1988 page 583
+# DOI             : N/A
+# Quantity        : 112Sn(n,g)113gSn cumulative production cross section
+# REACTION        : 50-SN-112(N,G)50-SN-113-G,M+,SIG
+# File ID         : n-Sn112-x-sigc-excfun-mon-prodSn113g_De%Corte_1988_23488.049
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   5.4100E-01
+# ymax            :   5.4100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  5.4100E-01  1.0820E-02
+#---------------------------------------------------

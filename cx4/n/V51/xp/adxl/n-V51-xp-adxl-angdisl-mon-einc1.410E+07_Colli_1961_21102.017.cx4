@@ -1,0 +1,25 @@
+# EXFOR #         : 21102.017  
+# EXFOR Ver.      : 20230515
+# TRANS #         : 2317
+# Author          : L.Colli et al.
+# Reference       : Nuovo Cim. 21 (1961) 966
+# DOI             : 10.1007/BF02748056
+# Quantity        : 51V(n,p+x) angular differential cross section
+# REACTION        : 23-V-51(N,X)1-H-1,,DA
+# File ID         : n-V51-xp-adxl-angdisl-mon-einc1.410E+07_Colli_1961_21102.017
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 1           
+# xmin            :   15.0000000
+# xmax            :   15.0000000
+# ymin            :   6.9500E-03
+# ymax            :   6.9500E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.0000000  15.0000000  6.9500E-03  1.3900E-03
+#---------------------------------------------------

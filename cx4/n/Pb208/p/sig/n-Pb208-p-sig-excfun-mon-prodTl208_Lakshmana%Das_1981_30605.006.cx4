@@ -1,0 +1,22 @@
+# EXFOR #         : 30605.006  
+# EXFOR Ver.      : 20220817
+# TRANS #         : 3208
+# Author          : N.Lakshmana Das et al.
+# Reference       : Ann.Nucl.Energy 8 (1981) 283
+# DOI             : 10.1016/0306-4549(81)90093-1
+# Quantity        : 208Pb(n,p)208Tl cross section
+# REACTION        : 82-PB-208(N,P)81-TL-208,,SIG
+# File ID         : n-Pb208-p-sig-excfun-mon-prodTl208_Lakshmana%Das_1981_30605.006
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   5.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  5.0000E-04  7.0000E-05
+#---------------------------------------------------

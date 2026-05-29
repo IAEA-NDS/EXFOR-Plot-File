@@ -1,0 +1,24 @@
+# EXFOR #         : 11214.003  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : H.B.Willard et al.
+# Reference       : Phys.Rev. 98 (1955) 669
+# DOI             : 10.1103/PhysRev.98.669
+# Quantity        : 9Be(n,el)9Be cross section
+# REACTION        : 4-BE-9(N,EL)4-BE-9,,SIG
+# File ID         : n-Be9-el-sig-excfun-mon-prodBe9_Willard_1955_11214.003
+#
+# npts            : 3           
+# xmin            :   5.4000E+05
+# xmax            :   7.0000E+05
+# ymin            :   3.4000E+00
+# ymax            :   7.5000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.4000E+05  8.0000E+03  3.5200E+00  0.0000E+00
+  6.2000E+05  8.0000E+03  7.5000E+00  0.0000E+00
+  7.0000E+05  8.0000E+03  3.4000E+00  0.0000E+00
+#---------------------------------------------------

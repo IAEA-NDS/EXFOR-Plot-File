@@ -1,0 +1,26 @@
+# EXFOR #         : 10029.002  
+# EXFOR Ver.      : 20050627
+# TRANS #         : 1336
+# Author          : V.C.Rogers et al.
+# Reference       : Nucl.Phys.A 137 (1969) 85
+# DOI             : 10.1016/0375-9474(69)90074-8
+# Quantity        : 45Sc(n,inl)45Sc partial gamma production cross section
+# REACTION        : 21-SC-45(N,INL)21-SC-45,PAR,SIG,G
+# File ID         : n-Sc45-inl-sigg-excfun-mon-eoutl1.412E+06_prodSc45_Rogers_1969_10029.002
+#
+# Eout,lab (eV)   :   1.4120E+06
+#
+# npts            : 3           
+# xmin            :   1.4200E+06
+# xmax            :   1.6900E+06
+# ymin            :   8.0000E-03
+# ymax            :   9.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+06  0.0000E+00  8.0000E-03  7.0000E-03
+  1.6100E+06  0.0000E+00  4.3000E-02  1.7000E-02
+  1.6900E+06  0.0000E+00  9.0000E-02  3.3000E-02
+#---------------------------------------------------

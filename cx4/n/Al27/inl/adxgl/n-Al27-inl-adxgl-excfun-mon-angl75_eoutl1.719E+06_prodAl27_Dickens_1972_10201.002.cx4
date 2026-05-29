@@ -1,0 +1,27 @@
+# EXFOR #         : 10201.002  
+# EXFOR Ver.      : 20010305
+# TRANS #         : 0000
+# Author          : J.K.Dickens
+# Reference       : Phys.Rev.C 5 (1972) 100
+# DOI             : 10.1103/PhysRevC.5.100
+# Quantity        : 27Al(n,inl)27Al partial gamma angular differential cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,DA,G
+# File ID         : n-Al27-inl-adxgl-excfun-mon-angl75_eoutl1.719E+06_prodAl27_Dickens_1972_10201.002
+#
+# theta,lab (deg) :   75.0000000
+# dtheta,lab (deg):    1.0000000
+# Eout,lab (eV)   :   1.7190E+06
+#
+# npts            : 2           
+# xmin            :   6.4000E+06
+# xmax            :   7.4500E+06
+# ymin            :   4.3000E-03
+# ymax            :   6.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.4000E+06  4.0000E+04  6.5000E-03  0.0000E+00
+  7.4500E+06  4.0000E+04  4.3000E-03  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : 22079.006  
+# EXFOR Ver.      : 20201208
+# TRANS #         : 2296
+# Author          : J.Franz et al.
+# Reference       : Nucl.Phys.A 472 (1987) 733
+# DOI             : 10.1016/0375-9474(87)90053-4
+# Quantity        : natC(n,t+x) double differential cross section
+# REACTION        : 6-C-0(N,X)1-H-3,,DA/DE
+# File ID         : n-C-xt-ddxl-enedisl-mon-einc4.280E+08_angl140_Franz_1987_22079.006
+#
+# Einc (eV)       :   4.2800E+08
+# theta,lab (deg) :  140.1000000
+#
+# npts            : 3           
+# xmin            :   6.5000E+07
+# xmax            :   8.5000E+07
+# ymin            :   4.1000E-14
+# ymax            :   2.2200E-13
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  6.5000E+07  0.0000E+00  2.2200E-13  3.9000E-14
+  7.5000E+07  0.0000E+00  7.9000E-14  1.7000E-14
+  8.5000E+07  0.0000E+00  4.1000E-14  1.2000E-14
+#---------------------------------------------------

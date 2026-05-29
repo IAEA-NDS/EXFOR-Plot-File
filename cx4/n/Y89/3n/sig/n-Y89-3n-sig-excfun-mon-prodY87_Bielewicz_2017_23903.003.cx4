@@ -1,0 +1,23 @@
+# EXFOR #         : 23903.003  
+# EXFOR Ver.      : 20240428
+# TRANS #         : 2320
+# Author          : M.Bielewicz et al.
+# Reference       : EPJ Web Conf. 146 (2017) 11032
+# DOI             : 10.1051/epjconf/201714611032
+# Quantity        : 89Y(n,3n)87Y cross section
+# REACTION        : 39-Y-89(N,3N)39-Y-87,,SIG
+# File ID         : n-Y89-3n-sig-excfun-mon-prodY87_Bielewicz_2017_23903.003
+#
+# npts            : 2           
+# xmin            :   3.5500E+07
+# xmax            :   4.7500E+07
+# ymin            :   1.9800E-01
+# ymax            :   3.1900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5500E+07  0.0000E+00  3.1900E-01  6.4000E-02
+  4.7500E+07  0.0000E+00  1.9800E-01  4.0000E-02
+#---------------------------------------------------

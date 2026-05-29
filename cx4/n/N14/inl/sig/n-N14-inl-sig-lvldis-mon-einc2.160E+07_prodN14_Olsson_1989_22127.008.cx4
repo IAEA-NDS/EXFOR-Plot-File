@@ -1,0 +1,26 @@
+# EXFOR #         : 22127.008  
+# EXFOR Ver.      : 19891211
+# TRANS #         : 0000
+# Author          : N.Olsson et al.
+# Reference       : Private communication  (1989)
+# DOI             : N/A
+# Quantity        : 14N(n,inl)14N partial cross section
+# REACTION        : 7-N-14(N,INL)7-N-14,PAR,SIG
+# File ID         : n-N14-inl-sig-lvldis-mon-einc2.160E+07_prodN14_Olsson_1989_22127.008
+#
+# Einc (eV)       :   2.1600E+07
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 2           
+# xmin            :   5.8320E+06
+# xmax            :   7.0280E+06
+# ymin            :   1.2700E-02
+# ymax            :   2.3900E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.8320E+06  0.0000E+00  2.3900E-02  1.4000E-03
+  7.0280E+06  0.0000E+00  1.2700E-02  1.0000E-03
+#---------------------------------------------------

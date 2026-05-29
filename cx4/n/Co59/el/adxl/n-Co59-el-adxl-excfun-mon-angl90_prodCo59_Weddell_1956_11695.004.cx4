@@ -1,0 +1,25 @@
+# EXFOR #         : 11695.004  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : J.B.Weddell
+# Reference       : Bull.Am.Phys.Soc. 1 (1956) 339(P8)
+# DOI             : N/A
+# Quantity        : 59Co(n,el)59Co angular differential cross section
+# REACTION        : 27-CO-59(N,EL)27-CO-59,,DA
+# File ID         : n-Co59-el-adxl-excfun-mon-angl90_prodCo59_Weddell_1956_11695.004
+#
+# theta,lab (deg) :   90.0000000
+# dtheta,lab (deg):    5.0000000
+#
+# npts            : 1           
+# xmin            :   4.4000E+06
+# xmax            :   4.4000E+06
+# ymin            :   5.0000E-02
+# ymax            :   5.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.4000E+06  5.0000E+06  5.0000E-02  1.0000E-02
+#---------------------------------------------------

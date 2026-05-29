@@ -1,0 +1,22 @@
+# EXFOR #         : 11923.011  
+# EXFOR Ver.      : 20140413
+# TRANS #         : 1401
+# Author          : P.R.Gray et al.
+# Reference       : Nucl.Phys. 75 (1966) 215
+# DOI             : 10.1016/0029-5582(66)90757-7
+# Quantity        : 103Rh(n,n+a)99mTc cross section
+# REACTION        : 45-RH-103(N,N+A)43-TC-99-M,,SIG
+# File ID         : n-Rh103-na-sig-excfun-mon-prodTc99m_Gray_1966_11923.011
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   1.5000E-04
+# ymax            :   1.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  5.0000E+05  1.5000E-04  3.0000E-05
+#---------------------------------------------------

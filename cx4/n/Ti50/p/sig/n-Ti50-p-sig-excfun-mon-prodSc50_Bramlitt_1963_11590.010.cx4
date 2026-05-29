@@ -1,0 +1,22 @@
+# EXFOR #         : 11590.010  
+# EXFOR Ver.      : 20160809
+# TRANS #         : 1421
+# Author          : E.T.Bramlitt et al.
+# Reference       : Phys.Rev. 131 (1963) 2649
+# DOI             : 10.1103/PhysRev.131.2649
+# Quantity        : 50Ti(n,p)50Sc cross section
+# REACTION        : 22-TI-50(N,P)21-SC-50,,SIG
+# File ID         : n-Ti50-p-sig-excfun-mon-prodSc50_Bramlitt_1963_11590.010
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.8000E-02
+# ymax            :   2.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  2.0000E+05  2.8000E-02  1.2000E-02
+#---------------------------------------------------

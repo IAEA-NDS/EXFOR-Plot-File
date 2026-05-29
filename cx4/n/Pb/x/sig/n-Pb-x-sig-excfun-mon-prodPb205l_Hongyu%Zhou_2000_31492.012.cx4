@@ -1,0 +1,22 @@
+# EXFOR #         : 31492.012  
+# EXFOR Ver.      : 20221002
+# TRANS #         : 3209
+# Author          : Hongyu Zhou et al.
+# Reference       : Nucl.Sci.Eng. 134 (2000) 106
+# DOI             : 10.13182/NSE00-A2104
+# Quantity        : natPb(n,x)205lPb independent production cross section
+# REACTION        : 82-PB-0(N,X)82-PB-205-L,,SIG
+# File ID         : n-Pb-x-sig-excfun-mon-prodPb205l_Hongyu%Zhou_2000_31492.012
+#
+# npts            : 1           
+# xmin            :   1.4900E+07
+# xmax            :   1.4900E+07
+# ymin            :   1.0760E+00
+# ymax            :   1.0760E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4900E+07  5.0000E+05  1.0760E+00  3.8000E-02
+#---------------------------------------------------

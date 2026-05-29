@@ -1,0 +1,30 @@
+# EXFOR #         : 13543.006  
+# EXFOR Ver.      : 20090831
+# TRANS #         : 1355
+# Author          : J.R.Vanhoy et al.
+# Reference       : Phys.Rev.C 45 (1992) 1628
+# DOI             : 10.1103/PhysRevC.45.1628
+# Quantity        : 48Ca(n,inl)48Ca partial gamma angular differential cross section
+# REACTION        : 20-CA-48(N,INL)20-CA-48,PAR,DA,G
+# File ID         : n-Ca48-inl-adxgl-angdisl-mon-einc8.000E+06_eoutl6.750E+05_prodCa48_Vanhoy_1992_13543.006
+#
+# Einc (eV)       :   8.0000E+06
+# Eout,lab (eV)   :   6.7500E+05
+#
+# npts            : 6           
+# xmin            :   60.0000000
+# xmax            :  140.0000000
+# ymin            :   1.1440E-02
+# ymax            :   1.4280E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  60.0000000   0.0000000  1.1440E-02  4.8000E-04
+  90.0000000   0.0000000  1.4280E-02  3.8000E-04
+ 100.0000000   0.0000000  1.3300E-02  5.9000E-04
+ 120.0000000   0.0000000  1.3350E-02  3.7000E-04
+ 130.0000000   0.0000000  1.2230E-02  5.1000E-04
+ 140.0000000   0.0000000  1.1970E-02  5.3000E-04
+#---------------------------------------------------

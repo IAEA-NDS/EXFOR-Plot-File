@@ -1,0 +1,22 @@
+# EXFOR #         : 22918.003  
+# EXFOR Ver.      : 20060303
+# TRANS #         : 2176
+# Author          : A.Letourneau et al.
+# Reference       : Ann.Nucl.Energy 33 (2006) 377
+# DOI             : 10.1016/j.anucene.2005.11.005
+# Quantity        : 209Bi(n,g)210gBi cross section
+# REACTION        : 83-BI-209(N,G)83-BI-210-G,,SIG,,MXW
+# File ID         : n-Bi209-g-sig-excfun-mxw-prodBi210g_Letourneau_2006_22918.003
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.8400E-02
+# ymax            :   1.8400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.8400E-02  9.0000E-04
+#---------------------------------------------------

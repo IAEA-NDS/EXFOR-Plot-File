@@ -1,0 +1,33 @@
+# EXFOR #         : 40531.083  
+# EXFOR Ver.      : 20211230
+# TRANS #         : 4203
+# Author          : I.A.Korzh et al.
+# Reference       : Proceedings of 3.All Union Conf.on Neutron Phys.,Kiev,9-13 Jun 1975 4 page 220
+# DOI             : N/A
+# Quantity        : 64Zn(n,inl)64Zn partial angular differential cross section
+# REACTION        : 30-ZN-64(N,INL)30-ZN-64,PAR,DA
+# File ID         : n-Zn64-inl-adxl-angdisl-mon-einc3.000E+06_elvl1.810E+06_prodZn64_Korzh_1975_40531.083
+#
+# Einc (eV)       :   3.0000E+06
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   1.8100E+06
+#
+# npts            : 8           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   3.0800E-02
+# ymax            :   3.5200E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  3.3600E-02  2.5000E-03
+  40.0000000   0.0000000  3.4000E-02  2.4000E-03
+  55.0000000   0.0000000  3.3500E-02  2.3000E-03
+  75.0000000   0.0000000  3.1600E-02  2.7000E-03
+  90.0000000   0.0000000  3.0900E-02  3.0000E-03
+ 105.0000000   0.0000000  3.0800E-02  2.3000E-03
+ 125.0000000   0.0000000  3.4400E-02  2.3000E-03
+ 150.0000000   0.0000000  3.5200E-02  2.5000E-03
+#---------------------------------------------------

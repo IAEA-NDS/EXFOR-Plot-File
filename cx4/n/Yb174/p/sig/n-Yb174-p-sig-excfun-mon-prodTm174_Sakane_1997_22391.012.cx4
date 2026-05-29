@@ -1,0 +1,27 @@
+# EXFOR #         : 22391.012  
+# EXFOR Ver.      : 19980720
+# TRANS #         : 0000
+# Author          : H.Sakane et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 619
+# DOI             : N/A
+# Quantity        : 174Yb(n,p)174Tm cross section
+# REACTION        : 70-YB-174(N,P)69-TM-174,,SIG
+# File ID         : n-Yb174-p-sig-excfun-mon-prodTm174_Sakane_1997_22391.012
+#
+# npts            : 6           
+# xmin            :   1.3400E+07
+# xmax            :   1.4870E+07
+# ymin            :   1.4500E-03
+# ymax            :   3.1900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3400E+07  5.0000E+04  1.4500E-03  1.3000E-04
+  1.3650E+07  5.0000E+04  1.6200E-03  1.5000E-04
+  1.3880E+07  5.0000E+04  2.1400E-03  1.6000E-04
+  1.4280E+07  5.0000E+04  2.5200E-03  2.2000E-04
+  1.4580E+07  5.0000E+04  2.9400E-03  2.1000E-04
+  1.4870E+07  5.0000E+04  3.1900E-03  2.1000E-04
+#---------------------------------------------------

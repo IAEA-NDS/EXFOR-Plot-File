@@ -1,0 +1,27 @@
+# EXFOR #         : 20589.007  
+# EXFOR Ver.      : 20211219
+# TRANS #         : 2306
+# Author          : N.Imanishi et al.
+# Reference       : Nucl.Phys.A 263 (1976) 141
+# DOI             : 10.1016/0375-9474(76)90189-5
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-Pu239-f-fyc-nucdis-mxw-einc2.530E-02_Imanishi_1976_20589.007
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 4           
+# xmin            : 50128.9     
+# xmax            : 51133.9     
+# ymin            :   6.4000E-03
+# ymax            :   1.2100E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     50128.9  6.4000E-03  4.0000E-04
+     50130.9  9.7000E-03  1.0000E-03
+     50131.9  6.9000E-03  7.0000E-04
+     51133.9  1.2100E-02  8.0000E-04
+#---------------------------------------------------

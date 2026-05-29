@@ -1,0 +1,28 @@
+# EXFOR #         : 12678.002  
+# EXFOR Ver.      : 20050126
+# TRANS #         : 1332
+# Author          : B.L.Yountz
+# Reference       : Report UCRL-2307, 1953
+# DOI             : N/A
+# Quantity        : 2H(n,el)2H angular differential cross section
+# REACTION        : 1-H-2(N,EL)1-H-2,,DA
+# File ID         : n-H2-el-adxl-angdisl-mon-einc9.000E+07_prodH2_Yountz_1953_12678.002
+#
+# Einc (eV)       :   9.0000E+07
+# dEinc (eV)      :   3.0000E+07
+#
+# npts            : 4           
+# xmin            :  119.3000000
+# xmax            :  159.7000000
+# ymin            :   3.5000E-04
+# ymax            :   1.5400E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 119.3000000   0.0000000  4.4000E-04  1.0000E-04
+ 129.3000000   0.0000000  3.5000E-04  8.0000E-05
+ 149.5000000   0.0000000  1.1600E-03  1.9000E-04
+ 159.7000000   0.0000000  1.5400E-03  4.5000E-04
+#---------------------------------------------------

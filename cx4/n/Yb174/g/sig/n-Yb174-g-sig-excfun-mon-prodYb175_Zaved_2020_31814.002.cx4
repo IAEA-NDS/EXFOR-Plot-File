@@ -1,0 +1,23 @@
+# EXFOR #         : 31814.002  
+# EXFOR Ver.      : 20200107
+# TRANS #         : 3195
+# Author          : M.M.Zaved et al.
+# Reference       : Radiat.Phys.Chem. 166 (2020) 108471
+# DOI             : 10.1016/j.radphyschem.2019.108471
+# Quantity        : 174Yb(n,g)175Yb cross section
+# REACTION        : 70-YB-174(N,G)70-YB-175,,SIG
+# File ID         : n-Yb174-g-sig-excfun-mon-prodYb175_Zaved_2020_31814.002
+#
+# npts            : 2           
+# xmin            :   3.3400E-02
+# xmax            :   5.3600E-02
+# ymin            :   4.4200E+01
+# ymax            :   5.6800E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3400E-02  0.0000E+00  5.6800E+01  3.7000E+00
+  5.3600E-02  0.0000E+00  4.4200E+01  2.6000E+00
+#---------------------------------------------------

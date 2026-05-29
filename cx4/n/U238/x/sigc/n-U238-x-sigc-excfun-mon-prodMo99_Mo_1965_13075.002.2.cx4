@@ -1,0 +1,22 @@
+# EXFOR #         : 13075.002.2
+# EXFOR Ver.      : 20120711
+# TRANS #         : 1385
+# Author          : T.Mo et al.
+# Reference       : J.Inorg.Nucl.Chem. 27 (1965) 503
+# DOI             : 10.1016/0022-1902(65)80254-8
+# Quantity        : 238U(n,f)99Mo cumulative production cross section
+# REACTION        : 92-U-238(N,F)42-MO-99,CUM,SIG
+# File ID         : n-U238-x-sigc-excfun-mon-prodMo99_Mo_1965_13075.002.2
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   6.4200E-02
+# ymax            :   6.4200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  4.0000E+05  6.4200E-02  5.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 40765.002  
+# EXFOR Ver.      : 20231113
+# TRANS #         : 4216
+# Author          : I.A.Korzh
+# Reference       : Ukr.Fiz.Zh. 9 (1964) 929
+# DOI             : N/A
+# Quantity        : natU(n,el)natU cross section
+# REACTION        : 92-U-0(N,EL)92-U-0,,SIG
+# File ID         : n-U-el-sig-excfun-mon-prodU_Korzh_1964_40765.002
+#
+# npts            : 2           
+# xmin            :   3.0000E+05
+# xmax            :   5.0000E+05
+# ymin            :   7.2500E+00
+# ymax            :   8.7000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+05  2.5000E+04  8.7000E+00  3.7000E-01
+  5.0000E+05  5.0000E+04  7.2500E+00  3.6000E-01
+#---------------------------------------------------

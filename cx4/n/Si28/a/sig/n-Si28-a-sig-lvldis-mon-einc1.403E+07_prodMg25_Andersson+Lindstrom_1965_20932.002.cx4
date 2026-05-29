@@ -1,0 +1,28 @@
+# EXFOR #         : 20932.002  
+# EXFOR Ver.      : 19791010
+# TRANS #         : 0000
+# Author          : Von G.Andersson-Lindstrom et al.
+# Reference       : Ann.Phys.(Berl.) 15 (1965) 287
+# DOI             : N/A
+# Quantity        : 28Si(n,a)25Mg partial cross section
+# REACTION        : 14-SI-28(N,A)12-MG-25,PAR,SIG
+# File ID         : n-Si28-a-sig-lvldis-mon-einc1.403E+07_prodMg25_Andersson+Lindstrom_1965_20932.002
+#
+# Einc (eV)       :   1.4030E+07
+#
+# npts            : 5           
+# xmin            :   0.0000E+00
+# xmax            :   1.9620E+06
+# ymin            :   7.5000E-03
+# ymax            :   1.8300E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.8300E-02  0.0000E+00
+  5.8400E+05  0.0000E+00  7.5000E-03  0.0000E+00
+  9.7600E+05  0.0000E+00  9.7000E-03  0.0000E+00
+  1.6110E+06  0.0000E+00  1.4200E-02  0.0000E+00
+  1.9620E+06  0.0000E+00  1.6100E-02  0.0000E+00
+#---------------------------------------------------

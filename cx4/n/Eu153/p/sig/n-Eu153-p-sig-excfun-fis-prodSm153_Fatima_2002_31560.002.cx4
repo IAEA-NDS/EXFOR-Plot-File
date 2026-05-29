@@ -1,0 +1,22 @@
+# EXFOR #         : 31560.002  
+# EXFOR Ver.      : 20051214
+# TRANS #         : 3118
+# Author          : I.Fatima et al.
+# Reference       : Radiochim.Acta 90 (2002) 61
+# DOI             : 10.1524/ract.2002.90.2_2002.61
+# Quantity        : 153Eu(n,p)153Sm cross section
+# REACTION        : 63-EU-153(N,P)62-SM-153,,SIG,,FIS
+# File ID         : n-Eu153-p-sig-excfun-fis-prodSm153_Fatima_2002_31560.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.0000E-04
+# ymax            :   2.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.0000E-04  2.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 10608.010  
+# EXFOR Ver.      : 20040726
+# TRANS #         : 0000
+# Author          : G.H.E.Sims et al.
+# Reference       : J.Inorg.Nucl.Chem. 32 (1970) 2839
+# DOI             : 10.1016/0022-1902(70)80345-1
+# Quantity        : 168Yb(n,g)169Yb cross section
+# REACTION        : 70-YB-168(N,G)70-YB-169,,SIG,,MXW
+# File ID         : n-Yb168-g-sig-excfun-mxw-prodYb169_Sims_1970_10608.010
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   3.6600E+03
+# ymax            :   3.6600E+03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  3.6600E+03  5.0000E+01
+#---------------------------------------------------

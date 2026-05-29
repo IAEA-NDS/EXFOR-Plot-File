@@ -1,0 +1,22 @@
+# EXFOR #         : 30755.012  
+# EXFOR Ver.      : 20211005
+# TRANS #         : 3202
+# Author          : Zhou Muyao et al.
+# Reference       : Chin.J.Nucl.Phys. 9 (1987) 34
+# DOI             : N/A
+# Quantity        : 86Sr(n,2n)85gSr cumulative production cross section
+# REACTION        : 38-SR-86(N,2N)38-SR-85-G,M+,SIG
+# File ID         : n-Sr86-x-sigc-excfun-mon-prodSr85g_Zhou%Muyao_1987_30755.012
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   6.5000E-01
+# ymax            :   6.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  6.5000E-01  2.1000E-02
+#---------------------------------------------------

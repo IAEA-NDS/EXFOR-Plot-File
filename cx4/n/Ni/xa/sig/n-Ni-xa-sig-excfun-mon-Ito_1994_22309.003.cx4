@@ -1,0 +1,22 @@
+# EXFOR #         : 22309.003  
+# EXFOR Ver.      : 19961120
+# TRANS #         : 0000
+# Author          : N.Ito et al.
+# Reference       : Nucl.Instrum.Meth.A 337 (1994) 474
+# DOI             : 10.1016/0168-9002(94)91117-7
+# Quantity        : natNi(n,a+x) cross section
+# REACTION        : 28-NI-0(N,X)2-HE-4,,SIG
+# File ID         : n-Ni-xa-sig-excfun-mon-Ito_1994_22309.003
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   8.5000E-02
+# ymax            :   8.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  3.0000E+05  8.5000E-02  9.0000E-03
+#---------------------------------------------------

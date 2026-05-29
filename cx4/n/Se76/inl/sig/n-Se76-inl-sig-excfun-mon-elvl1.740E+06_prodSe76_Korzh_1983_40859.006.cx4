@@ -1,0 +1,25 @@
+# EXFOR #         : 40859.006  
+# EXFOR Ver.      : 20231226
+# TRANS #         : 4216
+# Author          : I.A.Korzh et al.
+# Reference       : Proceedings of 6.All-Union Conf.on Neutron Physics,Kiev,2-6 Oct.1983 3 page 173
+# DOI             : N/A
+# Quantity        : 76Se(n,inl)76Se partial cross section
+# REACTION        : 34-SE-76(N,INL)34-SE-76,PAR,SIG
+# File ID         : n-Se76-inl-sig-excfun-mon-elvl1.740E+06_prodSe76_Korzh_1983_40859.006
+#
+# Elvl (eV)       :   1.7400E+06
+#
+# npts            : 2           
+# xmin            :   2.5000E+06
+# xmax            :   3.0000E+06
+# ymin            :   4.3800E-01
+# ymax            :   4.5600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  0.0000E+00  4.3800E-01  1.0200E-01
+  3.0000E+06  0.0000E+00  4.5600E-01  2.3000E-02
+#---------------------------------------------------

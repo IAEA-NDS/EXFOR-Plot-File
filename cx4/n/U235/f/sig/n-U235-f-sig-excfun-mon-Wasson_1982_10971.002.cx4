@@ -1,0 +1,22 @@
+# EXFOR #         : 10971.002  
+# EXFOR Ver.      : 20210917
+# TRANS #         : 1486
+# Author          : O.A.Wasson et al.
+# Reference       : Nucl.Sci.Eng. 80 (1982) 282
+# DOI             : 10.13182/NSE82-A21431
+# Quantity        : 235U(n,f) cross section
+# REACTION        : 92-U-235(N,F),,SIG
+# File ID         : n-U235-f-sig-excfun-mon-Wasson_1982_10971.002
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   2.0800E+00
+# ymax            :   2.0800E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  5.0000E+04  2.0800E+00  3.1200E-02
+#---------------------------------------------------

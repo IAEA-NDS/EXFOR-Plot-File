@@ -1,0 +1,22 @@
+# EXFOR #         : 21521.003  
+# EXFOR Ver.      : 20090315
+# TRANS #         : 2208
+# Author          : J.A.Phillips
+# Reference       : Report AERE-NP/R-2033, 1956
+# DOI             : N/A
+# Quantity        : 238U(n,2n)237U cross section
+# REACTION        : 92-U-238(N,2N)92-U-237,,SIG
+# File ID         : n-U238-2n-sig-excfun-mon-prodU237_Phillips_1956_21521.003
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   6.5000E-01
+# ymax            :   6.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.0000E+05  6.5000E-01  5.0000E-02
+#---------------------------------------------------

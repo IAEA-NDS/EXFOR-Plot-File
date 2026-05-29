@@ -1,0 +1,27 @@
+# EXFOR #         : 22831.012  
+# EXFOR Ver.      : 20041126
+# TRANS #         : 2183
+# Author          : V.Blideanu et al.
+# Reference       : Phys.Rev.C 70 No.1 (2004) 014607
+# DOI             : 10.1103/PhysRevC.70.014607
+# Quantity        : natU(n,d+x) double differential cross section
+# REACTION        : 92-U-0(N,X)1-H-2,,DA/DE
+# File ID         : n-U-xd-ddxl-angdisl-mon-einc9.600E+07_eoutl8.600E+07_Blideanu_2004_22831.012
+#
+# Einc (eV)       :   9.6000E+07
+# Eout,lab (eV)   :   8.6000E+07
+#
+# npts            : 3           
+# xmin            :   20.0000000
+# xmax            :   60.0000000
+# ymin            :   9.4000E-12
+# ymax            :   4.0720E-10
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  20.0000000   4.0000000  4.0720E-10  2.7100E-11
+  40.0000000   4.0000000  1.1110E-10  1.0300E-11
+  60.0000000   4.0000000  9.4000E-12  3.4000E-12
+#---------------------------------------------------

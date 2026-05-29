@@ -1,0 +1,25 @@
+# EXFOR #         : 23599.002  
+# EXFOR Ver.      : 20210325
+# TRANS #         : 2299
+# Author          : A.Moussa et al.
+# Reference       : Phys.Rev. 60 (1941) 534
+# DOI             : 10.1103/PhysRev.60.534
+# Quantity        : natU(n,f) independent production cross section
+# REACTION        : 92-U-0(N,F)ELEM/MASS,,SIG,,SPA
+# File ID         : n-U-x-sig-nucdis-spa-einc2.530E-02_Moussa_1941_23599.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 35084.0     
+# xmax            : 35085.9     
+# ymin            :   9.0000E-04
+# ymax            :   1.2000E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     35084.0  1.2000E-03  0.0000E+00
+     35085.9  9.0000E-04  0.0000E+00
+#---------------------------------------------------

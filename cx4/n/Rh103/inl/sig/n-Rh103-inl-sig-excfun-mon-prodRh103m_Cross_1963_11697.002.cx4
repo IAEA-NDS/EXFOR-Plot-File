@@ -1,0 +1,25 @@
+# EXFOR #         : 11697.002  
+# EXFOR Ver.      : 19821117
+# TRANS #         : 0000
+# Author          : W.G.Cross
+# Reference       : Progress report EANDC(CAN)-17 page 1, 1963
+# DOI             : N/A
+# Quantity        : 103Rh(n,inl)103mRh cross section
+# REACTION        : 45-RH-103(N,INL)45-RH-103-M,,SIG
+# File ID         : n-Rh103-inl-sig-excfun-mon-prodRh103m_Cross_1963_11697.002
+#
+# npts            : 4           
+# xmin            :   2.2000E+06
+# xmax            :   1.4000E+07
+# ymin            :   3.0000E-01
+# ymax            :   8.7000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2000E+06  0.0000E+00  6.8000E-01  0.0000E+00
+  2.6000E+06  0.0000E+00  8.4000E-01  1.1000E-01
+  2.8600E+06  0.0000E+00  8.7000E-01  0.0000E+00
+  1.4000E+07  0.0000E+00  3.0000E-01  4.0000E-02
+#---------------------------------------------------

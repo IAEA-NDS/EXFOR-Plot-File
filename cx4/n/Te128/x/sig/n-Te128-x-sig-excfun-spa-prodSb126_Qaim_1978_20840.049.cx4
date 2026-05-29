@@ -1,0 +1,22 @@
+# EXFOR #         : 20840.049  
+# EXFOR Ver.      : 20170206
+# TRANS #         : 2259
+# Author          : S.M.Qaim et al.
+# Reference       : Nucl.Phys.A 295 (1978) 150
+# DOI             : 10.1016/0375-9474(78)90026-X
+# Quantity        : 128Te(n,x)126Sb independent production cross section
+# REACTION        : 52-TE-128(N,X)51-SB-126,,SIG,,SPA
+# File ID         : n-Te128-x-sig-excfun-spa-prodSb126_Qaim_1978_20840.049
+#
+# npts            : 1           
+# xmin            :   2.2500E+07
+# xmax            :   2.2500E+07
+# ymin            :   2.5000E-02
+# ymax            :   2.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2500E+07  7.9000E+06  2.5000E-02  6.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 13465.002  
+# EXFOR Ver.      : 19900403
+# TRANS #         : 0000
+# Author          : C.D.Coryell et al.
+# Reference       : Report MIT-LNS-PR-38, 1955
+# DOI             : N/A
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U235-f-fyc-nucdis-spa-einc2.530E-02_Coryell_1955_13465.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 3           
+# xmin            : 45107.9     
+# xmax            : 51128.0     
+# ymin            :   5.0000E-04
+# ymax            :   3.7000E-03
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     45107.9  1.9000E-03  0.0000E+00
+     50128.9  3.7000E-03  0.0000E+00
+     51128.0  5.0000E-04  0.0000E+00
+#---------------------------------------------------

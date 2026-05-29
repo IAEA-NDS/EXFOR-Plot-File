@@ -1,0 +1,22 @@
+# EXFOR #         : 11447.087  
+# EXFOR Ver.      : 20210510
+# TRANS #         : 1486
+# Author          : L.Seren et al.
+# Reference       : Phys.Rev. 72 (1947) 888
+# DOI             : 10.1103/PhysRev.72.888
+# Quantity        : 128Te(n,g)129mTe cross section
+# REACTION        : 52-TE-128(N,G)52-TE-129-M,,SIG,,SPA
+# File ID         : n-Te128-g-sig-excfun-spa-prodTe129m_Seren_1947_11447.087
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   1.5400E-02
+# ymax            :   1.5400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.5400E-02  3.0800E-03
+#---------------------------------------------------

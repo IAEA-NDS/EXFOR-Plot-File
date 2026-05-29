@@ -1,0 +1,22 @@
+# EXFOR #         : 21182.004  
+# EXFOR Ver.      : 20040503
+# TRANS #         : 0000
+# Author          : V.G.Small
+# Reference       : J.Nucl.Energy 1 (1955) 319
+# DOI             : 10.1016/0891-3919(54)90034-0
+# Quantity        : 232Th(n,g)233Th cross section
+# REACTION        : 90-TH-232(N,G)90-TH-233,,SIG,,MXW
+# File ID         : n-Th232-g-sig-excfun-mxw-prodTh233_Small_1955_21182.004
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   7.5700E+00
+# ymax            :   7.5700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.5700E+00  1.7000E-01
+#---------------------------------------------------

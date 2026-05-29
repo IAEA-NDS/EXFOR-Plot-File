@@ -1,0 +1,28 @@
+# EXFOR #         : 40082.013  
+# EXFOR Ver.      : 20210728
+# TRANS #         : 4200
+# Author          : V.V.Filippov et al.
+# Reference       : Proceedings of Nuclear Data for Computations Sem., Dubna 1968 page (ASS-68/17)
+# DOI             : N/A
+# Quantity        : natZn(n,tot) cross section
+# REACTION        : 30-ZN-0(N,TOT),,SIG
+# File ID         : n-Zn-tot-sig-excfun-mon-Filippov_1968_40082.013
+#
+# npts            : 7           
+# xmin            :   5.0000E+04
+# xmax            :   2.8000E+05
+# ymin            :   5.8500E+00
+# ymax            :   8.6000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+04  3.0000E+04  8.4500E+00  3.4000E-01
+  8.5000E+04  3.0000E+04  8.6000E+00  7.5000E-01
+  1.2500E+05  3.0000E+04  7.1000E+00  2.9000E-01
+  1.7000E+05  3.0000E+04  7.4500E+00  3.7000E-01
+  2.0000E+05  3.0000E+04  6.6000E+00  4.0000E-01
+  2.4000E+05  3.0000E+04  5.9300E+00  2.2000E-01
+  2.8000E+05  3.0000E+04  5.8500E+00  1.4000E-01
+#---------------------------------------------------

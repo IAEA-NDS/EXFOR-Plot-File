@@ -1,0 +1,26 @@
+# EXFOR #         : 32907.002.1
+# EXFOR Ver.      : 20241230
+# TRANS #         : 3217
+# Author          : Yu Gongshuo et al.
+# Reference       : At.En.Sci.Technol. 57 (2023) 1066
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-Pu239-f-fyc-nucdis-spa-einc2.530E-02_Yu%Gongshuo_2023_32907.002.1
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 3           
+# xmin            : 36085.1     
+# xmax            : 36088.9     
+# ymin            :   5.5900E-03
+# ymax            :   1.2640E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     36085.1  5.5900E-03  2.0000E-04
+     36087.9  9.9200E-03  3.4000E-04
+     36088.9  1.2640E-02  3.7000E-04
+#---------------------------------------------------

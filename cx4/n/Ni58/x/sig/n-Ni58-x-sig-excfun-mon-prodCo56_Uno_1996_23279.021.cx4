@@ -1,0 +1,23 @@
+# EXFOR #         : 23279.021  
+# EXFOR Ver.      : 20151004
+# TRANS #         : 2247
+# Author          : Y.Uno et al.
+# Reference       : Proceedings of 9.Internat.Symposium on Reactor Dosimetry,Prague,1996 page 465
+# DOI             : N/A
+# Quantity        : 58Ni(n,x)56Co independent production cross section
+# REACTION        : 28-NI-58(N,X)27-CO-56,,SIG
+# File ID         : n-Ni58-x-sig-excfun-mon-prodCo56_Uno_1996_23279.021
+#
+# npts            : 2           
+# xmin            :   2.7790E+07
+# xmax            :   3.0090E+07
+# ymin            :   9.3910E-02
+# ymax            :   1.3586E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7790E+07  0.0000E+00  9.3910E-02  4.4100E-03
+  3.0090E+07  0.0000E+00  1.3586E-01  5.9500E-03
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : 11205.007  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : M.H.Mac Gregor
+# Reference       : Proceedings of Nucl. Phys. Congress, Paris 1958 page 609
+# DOI             : N/A
+# Quantity        : 27Al(n,inl)27Al partial cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,SIG
+# File ID         : n-Al27-inl-sig-excfun-mon-eoutl1.150E+07_prodAl27_Mac%Gregor_1958_11205.007
+#
+# Eout,lab (eV)   :   1.1500E+07
+# dEout,lab (eV)  :   2.5000E+06
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   1.0000E-01
+# ymax            :   1.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  0.0000E+00  1.0000E-01  4.0000E-02
+#---------------------------------------------------

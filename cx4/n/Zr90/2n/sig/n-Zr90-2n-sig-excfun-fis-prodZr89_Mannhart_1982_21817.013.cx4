@@ -1,0 +1,22 @@
+# EXFOR #         : 21817.013  
+# EXFOR Ver.      : 20140213
+# TRANS #         : 2238
+# Author          : W.Mannhart
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Antwerp 1982 page 429
+# DOI             : N/A
+# Quantity        : 90Zr(n,2n)89Zr cross section
+# REACTION        : 40-ZR-90(N,2N)40-ZR-89,,SIG,,FIS
+# File ID         : n-Zr90-2n-sig-excfun-fis-prodZr89_Mannhart_1982_21817.013
+#
+# npts            : 1           
+# xmin            :   1.4200E+06
+# xmax            :   1.4200E+06
+# ymin            :   2.2100E-04
+# ymax            :   2.2100E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+06  0.0000E+00  2.2100E-04  6.0000E-06
+#---------------------------------------------------

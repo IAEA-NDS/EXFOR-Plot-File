@@ -1,0 +1,23 @@
+# EXFOR #         : 14092.007  
+# EXFOR Ver.      : 20060310
+# TRANS #         : 1340
+# Author          : J.M.Sisterson et al.
+# Reference       : Nucl.Instrum.Meth.B 245 (2006) 371
+# DOI             : 10.1016/j.nimb.2005.12.002
+# Quantity        : natFe(n,x)54Mn independent production cross section
+# REACTION        : 26-FE-0(N,X)25-MN-54,,SIG
+# File ID         : n-Fe-x-sig-excfun-mon-prodMn54_Sisterson_2006_14092.007
+#
+# npts            : 2           
+# xmin            :   1.1220E+08
+# xmax            :   1.5160E+08
+# ymin            :   7.0200E-02
+# ymax            :   1.0400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1220E+08  0.0000E+00  1.0400E-01  1.7800E-02
+  1.5160E+08  0.0000E+00  7.0200E-02  1.1000E-02
+#---------------------------------------------------

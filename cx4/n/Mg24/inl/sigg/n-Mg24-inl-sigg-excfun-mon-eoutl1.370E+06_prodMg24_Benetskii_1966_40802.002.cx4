@@ -1,0 +1,24 @@
+# EXFOR #         : 40802.002  
+# EXFOR Ver.      : 20230214
+# TRANS #         : 4212
+# Author          : B.A.Benetskii
+# Reference       : Studies in Neutron Reactions, New York 1966 page 99 (1966)
+# DOI             : N/A
+# Quantity        : 24Mg(n,inl)24Mg partial gamma production cross section
+# REACTION        : 12-MG-24(N,INL)12-MG-24,PAR,SIG,G
+# File ID         : n-Mg24-inl-sigg-excfun-mon-eoutl1.370E+06_prodMg24_Benetskii_1966_40802.002
+#
+# Eout,lab (eV)   :   1.3700E+06
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   5.9000E-01
+# ymax            :   5.9000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  5.9000E-01  9.0000E-02
+#---------------------------------------------------

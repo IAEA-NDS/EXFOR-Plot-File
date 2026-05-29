@@ -1,0 +1,26 @@
+# EXFOR #         : 11561.002  
+# EXFOR Ver.      : 20090928
+# TRANS #         : 1357
+# Author          : B.J.Toppel et al.
+# Reference       : Phys.Rev. 91 (1953) 473(PA8)
+# DOI             : N/A
+# Quantity        : 36Ar(n,a)33S partial cross section
+# REACTION        : 18-AR-36(N,A)16-S-33,PAR,SIG
+# File ID         : n-Ar36-a-sig-excfun-mon-elvl8.700E+05_prodS33_Toppel_1953_11561.002
+#
+# Elvl (eV)       :   8.7000E+05
+#
+# npts            : 3           
+# xmin            :   3.2300E+06
+# xmax            :   4.4000E+06
+# ymin            :   3.0000E-03
+# ymax            :   4.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2300E+06  1.0000E+05  3.0000E-03  3.0000E-03
+  3.7600E+06  1.0000E+05  2.2000E-02  1.3000E-02
+  4.4000E+06  1.0000E+05  4.1000E-02  2.5000E-02
+#---------------------------------------------------

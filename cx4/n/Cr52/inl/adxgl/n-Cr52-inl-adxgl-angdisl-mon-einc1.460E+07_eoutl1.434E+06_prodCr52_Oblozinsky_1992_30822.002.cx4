@@ -1,0 +1,30 @@
+# EXFOR #         : 30822.002  
+# EXFOR Ver.      : 20090912
+# TRANS #         : 3141
+# Author          : P.Oblozinsky et al.
+# Reference       : Nuovo Cim.A 105 (1992) 965
+# DOI             : 10.1007/BF02730838
+# Quantity        : 52Cr(n,inl)52Cr partial gamma angular differential cross section
+# REACTION        : 24-CR-52(N,INL)24-CR-52,PAR,DA,G
+# File ID         : n-Cr52-inl-adxgl-angdisl-mon-einc1.460E+07_eoutl1.434E+06_prodCr52_Oblozinsky_1992_30822.002
+#
+# Einc (eV)       :   1.4600E+07
+# Eout,lab (eV)   :   1.4341E+06
+#
+# npts            : 6           
+# xmin            :   42.0000000
+# xmax            :  158.0000000
+# ymin            :   5.7800E-02
+# ymax            :   7.0200E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  42.0000000  12.0000000  6.3800E-02  5.3000E-03
+  61.0000000  10.0000000  6.3500E-02  5.7000E-03
+  90.0000000  12.0000000  5.7800E-02  4.7000E-03
+ 103.0000000  11.0000000  6.0200E-02  4.7000E-03
+ 136.0000000   9.0000000  6.1500E-02  5.4000E-03
+ 158.0000000   9.0000000  7.0200E-02  6.0000E-03
+#---------------------------------------------------

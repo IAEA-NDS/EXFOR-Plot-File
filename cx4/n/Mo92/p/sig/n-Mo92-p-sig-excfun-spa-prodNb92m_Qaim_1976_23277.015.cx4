@@ -1,0 +1,23 @@
+# EXFOR #         : 23277.015  
+# EXFOR Ver.      : 20150805
+# TRANS #         : 2243
+# Author          : S.M.Qaim et al.
+# Reference       : Proceedings of 9th Symp. on Fusion Technology, Garmisch 1976 page 589
+# DOI             : N/A
+# Quantity        : 92Mo(n,p)92mNb cross section
+# REACTION        : 42-MO-92(N,P)41-NB-92-M,,SIG,,SPA
+# File ID         : n-Mo92-p-sig-excfun-spa-prodNb92m_Qaim_1976_23277.015
+#
+# npts            : 2           
+# xmin            :   1.1500E+07
+# xmax            :   1.1500E+07
+# ymin            :   5.3000E-02
+# ymax            :   7.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+07  0.0000E+00  5.3000E-02  8.0000E-03
+  1.1500E+07  0.0000E+00  7.4000E-02  8.0000E-03
+#---------------------------------------------------

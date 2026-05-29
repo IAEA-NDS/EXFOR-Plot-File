@@ -1,0 +1,29 @@
+# EXFOR #         : 12784.003  
+# EXFOR Ver.      : 19890616
+# TRANS #         : 1340
+# Author          : J.L.Ullmann et al.
+# Reference       : Nucl.Phys.A 386 (1982) 179
+# DOI             : 10.1016/0375-9474(82)90407-9
+# Quantity        : 28Si(n,p)28Al partial angular differential cross section
+# REACTION        : 14-SI-28(N,P)13-AL-28,PAR,DA
+# File ID         : n-Si28-p-adxc-angdisc-mon-einc5.960E+07_eoutc5.000E+07_prodAl28_Ullmann_1982_12784.003
+#
+# Einc (eV)       :   5.9600E+07
+# dEinc (eV)      :   3.0000E+05
+# Eout,cm (eV)    :   5.0000E+07
+# dEout,cm (eV)   :   1.0000E+06
+#
+# npts            : 3           
+# xmin            :    9.4000000
+# xmax            :   47.7000000
+# ymin            :   2.2000E-04
+# ymax            :   1.1200E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.4000000   0.0000000  1.1200E-03  2.1000E-04
+  16.7000000   0.0000000  8.8000E-04  1.9000E-04
+  47.7000000   0.0000000  2.2000E-04  7.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 41001.013  
+# EXFOR Ver.      : 20250805
+# TRANS #         : 4224
+# Author          : Yu.N.Trofimov
+# Reference       : Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 331
+# DOI             : N/A
+# Quantity        : 116Sn(n,g)117mSn cross section
+# REACTION        : 50-SN-116(N,G)50-SN-117-M,,SIG
+# File ID         : n-Sn116-g-sig-excfun-mon-prodSn117m_Trofimov_1987_41001.013
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   4.1000E-03
+# ymax            :   4.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  4.1000E-03  6.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 33128.004  
+# EXFOR Ver.      : 20191210
+# TRANS #         : 3193
+# Author          : S.Parashari et al.
+# Reference       : Eur.Phys.J.A 55 (2019) 51
+# DOI             : 10.1140/epja/i2019-12726-2
+# Quantity        : 58Ni(n,2n)57Ni cross section
+# REACTION        : 28-NI-58(N,2N)28-NI-57,,SIG,,SPA
+# File ID         : n-Ni58-2n-sig-excfun-spa-prodNi57_Parashari_2019_33128.004
+#
+# npts            : 2           
+# xmin            :   1.3970E+07
+# xmax            :   1.6990E+07
+# ymin            :   3.1280E-02
+# ymax            :   6.5670E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3970E+07  6.8000E+05  3.1280E-02  4.1600E-03
+  1.6990E+07  5.3000E+05  6.5670E-02  9.5900E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 10413.021  
+# EXFOR Ver.      : 20030220
+# TRANS #         : 0000
+# Author          : W.E.Kinney et al.
+# Reference       : Report ORNL-4806, 1974
+# DOI             : N/A
+# Quantity        : natCr(n,inl)52Cr partial cross section
+# REACTION        : 24-CR-0(N,INL)24-CR-52,PAR,SIG
+# File ID         : n-Cr-inl-sig-excfun-mon-elvl2.965E+06_prodCr_Kinney_1974_10413.021
+#
+# Elvl (eV)       :   2.9650E+06
+#
+# npts            : 3           
+# xmin            :   4.6500E+06
+# xmax            :   5.5000E+06
+# ymin            :   1.1482E-01
+# ymax            :   1.5341E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.6500E+06  7.0000E+04  1.5341E-01  2.2551E-02
+  5.2300E+06  5.0000E+04  1.1932E-01  1.5870E-02
+  5.5000E+06  5.0000E+04  1.1482E-01  1.6993E-02
+#---------------------------------------------------

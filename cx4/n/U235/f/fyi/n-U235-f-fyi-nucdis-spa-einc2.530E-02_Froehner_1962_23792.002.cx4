@@ -1,0 +1,25 @@
+# EXFOR #         : 23792.002  
+# EXFOR Ver.      : 20210326
+# TRANS #         : 2299
+# Author          : F.H.Froehner
+# Reference       : Z.Phys. 170 (1962) 62
+# DOI             : 10.1007/BF01378309
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY,,SPA
+# File ID         : n-U235-f-fyi-nucdis-spa-einc2.530E-02_Froehner_1962_23792.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 52135.9     
+# xmax            : 53135.9     
+# ymin            :   1.5000E-02
+# ymax            :   4.6000E-02
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     53135.9  4.6000E-02  1.1000E-02
+     52135.9  1.5000E-02  1.1000E-02
+#---------------------------------------------------

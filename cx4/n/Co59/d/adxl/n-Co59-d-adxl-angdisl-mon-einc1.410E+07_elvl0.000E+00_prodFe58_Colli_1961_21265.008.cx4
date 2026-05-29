@@ -1,0 +1,26 @@
+# EXFOR #         : 21265.008  
+# EXFOR Ver.      : 19800129
+# TRANS #         : 0000
+# Author          : L.Colli et al.
+# Reference       : Nuovo Cim. 20 (1961) 94
+# DOI             : 10.1007/BF02781702
+# Quantity        : 59Co(n,d)58Fe partial angular differential cross section
+# REACTION        : 27-CO-59(N,D)26-FE-58,PAR,DA
+# File ID         : n-Co59-d-adxl-angdisl-mon-einc1.410E+07_elvl0.000E+00_prodFe58_Colli_1961_21265.008
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   1.0000E+05
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   14.0013500
+# xmax            :   14.0013500
+# ymin            :   1.5000E-04
+# ymax            :   1.5000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  14.0013500  14.0000000  1.5000E-04  4.5000E-05
+#---------------------------------------------------

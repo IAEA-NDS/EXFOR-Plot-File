@@ -1,0 +1,22 @@
+# EXFOR #         : 31828.003.1
+# EXFOR Ver.      : 20200911
+# TRANS #         : 3197
+# Author          : M.Schulc et al.
+# Reference       : Appl.Radiat.Isot. 166 (2020) 109313
+# DOI             : 10.1016/j.apradiso.2020.109313
+# Quantity        : 55Mn(n,2n)54Mn cross section
+# REACTION        : 25-MN-55(N,2N)25-MN-54,,SIG,,FIS
+# File ID         : n-Mn55-2n-sig-excfun-fis-prodMn54_Schulc_2020_31828.003.1
+#
+# npts            : 1           
+# xmin            :   1.3200E+06
+# xmax            :   1.3200E+06
+# ymin            :   2.4500E-04
+# ymax            :   2.4500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3200E+06  0.0000E+00  2.4500E-04  9.3100E-06
+#---------------------------------------------------

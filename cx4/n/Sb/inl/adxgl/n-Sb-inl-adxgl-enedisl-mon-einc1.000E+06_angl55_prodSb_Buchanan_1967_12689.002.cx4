@@ -1,0 +1,29 @@
+# EXFOR #         : 12689.002  
+# EXFOR Ver.      : 20140419
+# TRANS #         : 1401
+# Author          : P.S.Buchanan et al.
+# Reference       : Bull.Am.Phys.Soc. 12 (1967) 921(Y5)
+# DOI             : N/A
+# Quantity        : natSb(n,inl)natSb partial gamma angular differential cross section
+# REACTION        : 51-SB-0(N,INL)51-SB-0,PAR,DA,G
+# File ID         : n-Sb-inl-adxgl-enedisl-mon-einc1.000E+06_angl55_prodSb_Buchanan_1967_12689.002
+#
+# Einc (eV)       :   1.0000E+06
+# dEinc (eV)      :   5.0000E+04
+# theta,lab (deg) :   55.0000000
+#
+# npts            : 4           
+# xmin            :   3.7700E+05
+# xmax            :   5.7500E+05
+# ymin            :   1.8000E-03
+# ymax            :   1.0800E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.7700E+05  0.0000E+00  2.7000E-03  5.4000E-04
+  5.0500E+05  0.0000E+00  1.0800E-02  2.1600E-03
+  5.3700E+05  0.0000E+00  1.8000E-03  3.6000E-04
+  5.7500E+05  0.0000E+00  3.6000E-03  7.2000E-04
+#---------------------------------------------------

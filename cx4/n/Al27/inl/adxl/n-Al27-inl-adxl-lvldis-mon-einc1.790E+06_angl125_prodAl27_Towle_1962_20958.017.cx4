@@ -1,0 +1,26 @@
+# EXFOR #         : 20958.017  
+# EXFOR Ver.      : 20120811
+# TRANS #         : 2232
+# Author          : J.H.Towle et al.
+# Reference       : Nucl.Phys. 39 (1962) 300
+# DOI             : 10.1016/0029-5582(62)90394-2
+# Quantity        : 27Al(n,inl)27Al partial angular differential cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,DA,,4PI
+# File ID         : n-Al27-inl-adxl-lvldis-mon-einc1.790E+06_angl125_prodAl27_Towle_1962_20958.017
+#
+# Einc (eV)       :   1.7900E+06
+# theta,lab (deg) :  125.0000000
+#
+# npts            : 2           
+# xmin            :   8.4200E+05
+# xmax            :   1.0130E+06
+# ymin            :   4.1380E-03
+# ymax            :   1.3130E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.4200E+05  0.0000E+00  4.1380E-03  7.9577E-04
+  1.0130E+06  0.0000E+00  1.3130E-02  7.9577E-04
+#---------------------------------------------------

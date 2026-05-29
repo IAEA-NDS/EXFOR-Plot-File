@@ -1,0 +1,22 @@
+# EXFOR #         : 31740.002  
+# EXFOR Ver.      : 20140709
+# TRANS #         : 3165
+# Author          : M.S.Uddin et al.
+# Reference       : Radiochim.Acta 102 (2014) 473
+# DOI             : 10.1515/ract-2013-2199
+# Quantity        : 64Zn(n,p)64Cu cross section
+# REACTION        : 30-ZN-64(N,P)29-CU-64,,SIG,,SPA
+# File ID         : n-Zn64-p-sig-excfun-spa-prodCu64_Uddin_2014_31740.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   2.8900E-02
+# ymax            :   2.8900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  2.8900E-02  2.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 32932.003  
+# EXFOR Ver.      : 20251125
+# TRANS #         : 3221
+# Author          : Junhua Luo et al.
+# Reference       : Eur.Phys.J.A 60 (2024) 2
+# DOI             : 10.1140/epja/s10050-023-01217-y
+# Quantity        : 134Xe(n,x)133I independent production cross section
+# REACTION        : 54-XE-134(N,X)53-I-133,,SIG
+# File ID         : n-Xe134-x-sig-excfun-mon-prodI133_Junhua%Luo_2024_32932.003
+#
+# npts            : 2           
+# xmin            :   1.4300E+07
+# xmax            :   1.4920E+07
+# ymin            :   3.2000E-04
+# ymax            :   4.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4300E+07  1.7000E+05  3.2000E-04  1.5000E-04
+  1.4920E+07  2.0000E+05  4.3000E-04  1.9000E-04
+#---------------------------------------------------

@@ -1,0 +1,32 @@
+# EXFOR #         : 21247.004  
+# EXFOR Ver.      : 19810722
+# TRANS #         : 0000
+# Author          : T.Knellwolf et al.
+# Reference       : Helv.Phys.Acta 39 (1966) 376
+# DOI             : N/A
+# Quantity        : 40Ca(n,a)37Ar partial angular differential cross section
+# REACTION        : 20-CA-40(N,A)18-AR-37,PAR,DA
+# File ID         : n-Ca40-a-adxl-angdisc-mon-einc6.000E+06_elvl1.515E+06_prodAr37_Knellwolf_1966_21247.004
+#
+# Einc (eV)       :   6.0000E+06
+# dEinc (eV)      :   4.8000E+05
+# Elvl (eV)       :   1.5150E+06
+# dElvl (eV)      :   9.5000E+04
+#
+# npts            : 6           
+# xmin            :    0.0000000
+# xmax            :  147.0030000
+# ymin            :   2.8000E-03
+# ymax            :   6.1000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 147.0030000   0.0000000  2.8000E-03  4.0000E-04
+ 122.9973000   0.0000000  3.6000E-03  5.0000E-04
+  92.9979300   0.0000000  3.6000E-03  5.0000E-04
+  61.9981500   0.0000000  3.6000E-03  4.0000E-04
+  30.9963600   0.0000000  4.8000E-03  5.0000E-04
+   0.0000000   0.0000000  6.1000E-03  7.0000E-04
+#---------------------------------------------------

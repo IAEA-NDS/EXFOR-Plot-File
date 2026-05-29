@@ -1,0 +1,30 @@
+# EXFOR #         : 13615.003  
+# EXFOR Ver.      : 19960516
+# TRANS #         : 0000
+# Author          : J.R.Vanhoy et al.
+# Reference       : Phys.Rev.C 52 (1995) 2387
+# DOI             : 10.1103/PhysRevC.52.2387
+# Quantity        : 142Ce(n,inl)142Ce partial gamma angular differential cross section
+# REACTION        : 58-CE-142(N,INL)58-CE-142,PAR,DA,G
+# File ID         : n-Ce142-inl-adxgl-angdisl-mon-einc3.300E+06_eoutl1.264E+06_prodCe142_Vanhoy_1995_13615.003
+#
+# Einc (eV)       :   3.3000E+06
+# Eout,lab (eV)   :   1.2644E+06
+#
+# npts            : 6           
+# xmin            :   30.0000000
+# xmax            :  130.0000000
+# ymin            :   3.3700E-03
+# ymax            :   4.6800E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  3.3700E-03  0.0000E+00
+  50.0000000   0.0000000  3.4800E-03  0.0000E+00
+  70.0000000   0.0000000  3.6400E-03  0.0000E+00
+  90.0000000   0.0000000  3.6500E-03  0.0000E+00
+ 110.0000000   0.0000000  3.7500E-03  0.0000E+00
+ 130.0000000   0.0000000  4.6800E-03  0.0000E+00
+#---------------------------------------------------

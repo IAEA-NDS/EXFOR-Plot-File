@@ -1,0 +1,34 @@
+# EXFOR #         : 20434.006  
+# EXFOR Ver.      : 20170430
+# TRANS #         : 2261
+# Author          : J.Sigaud et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 893
+# DOI             : N/A
+# Quantity        : 76Ge(n,inl)76Ge partial gamma angular differential cross section
+# REACTION        : 32-GE-76(N,INL)32-GE-76,PAR,DA,G
+# File ID         : n-Ge76-inl-adxgl-enedisl-mon-einc2.700E+06_angl55_prodGe76_Sigaud_1975_20434.006
+#
+# Einc (eV)       :   2.7000E+06
+# theta,lab (deg) :   55.0000000
+#
+# npts            : 10          
+# xmin            :   4.3080E+05
+# xmax            :   2.5036E+06
+# ymin            :   8.0000E-04
+# ymax            :   1.0720E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.3080E+05  0.0000E+00  6.2000E-03  9.0000E-04
+  5.4580E+05  0.0000E+00  2.5100E-02  2.5000E-03
+  5.6290E+05  0.0000E+00  1.0720E-01  1.0700E-02
+  8.4720E+05  0.0000E+00  1.5400E-02  1.5000E-03
+  9.1320E+05  0.0000E+00  2.9000E-03  6.0000E-04
+  9.7620E+05  0.0000E+00  9.6000E-03  1.0000E-03
+  1.1086E+06  0.0000E+00  1.8500E-02  1.9000E-03
+  1.3485E+06  0.0000E+00  5.5000E-03  8.0000E-04
+  1.3951E+06  0.0000E+00  2.1000E-03  4.0000E-04
+  2.5036E+06  0.0000E+00  8.0000E-04  2.0000E-04
+#---------------------------------------------------

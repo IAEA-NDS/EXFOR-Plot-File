@@ -1,0 +1,22 @@
+# EXFOR #         : 30060.004  
+# EXFOR Ver.      : 20080215
+# TRANS #         : 3125
+# Author          : S.K.Mangal et al.
+# Reference       : Nucl.Phys. 49 (1963) 510
+# DOI             : 10.1016/0029-5582(63)90115-9
+# Quantity        : 110Pd(n,2n)109mPd cross section
+# REACTION        : 46-PD-110(N,2N)46-PD-109-M,,SIG
+# File ID         : n-Pd110-2n-sig-excfun-mon-prodPd109m_Mangal_1963_30060.004
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   9.7100E-01
+# ymax            :   9.7100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  2.5000E+05  9.7100E-01  1.2000E-02
+#---------------------------------------------------

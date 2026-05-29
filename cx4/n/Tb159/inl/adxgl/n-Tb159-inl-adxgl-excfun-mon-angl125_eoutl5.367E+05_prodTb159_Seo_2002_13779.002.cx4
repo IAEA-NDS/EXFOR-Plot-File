@@ -1,0 +1,31 @@
+# EXFOR #         : 13779.002  
+# EXFOR Ver.      : 20011127
+# TRANS #         : 0000
+# Author          : P.N.Seo et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 No.1 (2002) 397
+# DOI             : N/A
+# Quantity        : 159Tb(n,inl)159Tb partial gamma angular differential cross section
+# REACTION        : 65-TB-159(N,INL)65-TB-159,PAR,DA,G
+# File ID         : n-Tb159-inl-adxgl-excfun-mon-angl125_eoutl5.367E+05_prodTb159_Seo_2002_13779.002
+#
+# theta,lab (deg) :  125.0000000
+# Eout,lab (eV)   :   5.3670E+05
+#
+# npts            : 7           
+# xmin            :   7.0000E+05
+# xmax            :   1.0000E+06
+# ymin            :   7.5000E-04
+# ymax            :   2.7200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.0000E+05  0.0000E+00  7.5000E-04  7.8000E-05
+  7.5000E+05  0.0000E+00  1.5000E-03  1.0600E-04
+  8.0000E+05  0.0000E+00  2.1600E-03  1.8200E-04
+  8.5000E+05  0.0000E+00  2.2000E-03  1.4800E-04
+  9.0000E+05  0.0000E+00  2.7000E-03  1.9500E-04
+  9.5000E+05  0.0000E+00  2.5900E-03  1.8200E-04
+  1.0000E+06  0.0000E+00  2.7200E-03  1.9900E-04
+#---------------------------------------------------

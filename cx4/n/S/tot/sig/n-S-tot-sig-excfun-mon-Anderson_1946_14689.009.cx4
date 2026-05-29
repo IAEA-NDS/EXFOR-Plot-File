@@ -1,0 +1,23 @@
+# EXFOR #         : 14689.009  
+# EXFOR Ver.      : 20210309
+# TRANS #         : 1482
+# Author          : H.L.Anderson et al.
+# Reference       : Phys.Rev. 70 (1946) 815
+# DOI             : 10.1103/PhysRev.70.815
+# Quantity        : natS(n,tot) cross section
+# REACTION        : 16-S-0(N,TOT),,SIG
+# File ID         : n-S-tot-sig-excfun-mon-Anderson_1946_14689.009
+#
+# npts            : 2           
+# xmin            :   1.5516E-03
+# xmax            :   2.5300E-02
+# ymin            :   1.6600E+00
+# ymax            :   2.8900E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  1.6600E+00  0.0000E+00
+  1.5516E-03  0.0000E+00  2.8900E+00  0.0000E+00
+#---------------------------------------------------

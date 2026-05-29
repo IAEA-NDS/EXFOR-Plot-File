@@ -1,0 +1,28 @@
+# EXFOR #         : 10331.003  
+# EXFOR Ver.      : 20020926
+# TRANS #         : 0000
+# Author          : W.P.Bucher et al.
+# Reference       : Nucl.Sci.Eng. 54 (1974) 416
+# DOI             : 10.13182/NSE74-A23435
+# Quantity        : 14N(n,el)14N angular differential cross section
+# REACTION        : 7-N-14(N,EL)7-N-14,,DA
+# File ID         : n-N14-el-adxc-angdisc-mon-einc9.000E+06_prodN14_Bucher_1974_10331.003
+#
+# Einc (eV)       :   9.0000E+06
+# dEinc (eV)      :   3.0000E+04
+#
+# npts            : 4           
+# xmin            :    2.9000000
+# xmax            :   15.2000000
+# ymin            :   2.6700E-01
+# ymax            :   3.9800E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.9000000   0.0000000  3.9800E-01  5.1740E-02
+   7.3000000   0.0000000  3.9300E-01  3.9300E-02
+  11.2000000   0.0000000  3.3700E-01  2.6960E-02
+  15.2000000   0.0000000  2.6700E-01  2.4030E-02
+#---------------------------------------------------

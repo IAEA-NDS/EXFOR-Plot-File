@@ -1,0 +1,26 @@
+# EXFOR #         : 40082.019  
+# EXFOR Ver.      : 20210728
+# TRANS #         : 4200
+# Author          : V.V.Filippov et al.
+# Reference       : Proceedings of Nuclear Data for Computations Sem., Dubna 1968 page (ASS-68/17)
+# DOI             : N/A
+# Quantity        : natW(n,tot) cross section
+# REACTION        : 74-W-0(N,TOT),,SIG
+# File ID         : n-W-tot-sig-excfun-mon-Filippov_1968_40082.019
+#
+# npts            : 5           
+# xmin            :   2.5000E+04
+# xmax            :   9.0000E+04
+# ymin            :   1.0900E+01
+# ymax            :   1.6000E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  1.0000E+04  1.6000E+01  1.0000E+00
+  3.5000E+04  1.5000E+04  1.6000E+01  2.0000E+00
+  5.2000E+04  1.5000E+04  1.4000E+01  2.0000E+00
+  7.0000E+04  1.5000E+04  1.1800E+01  4.0000E-01
+  9.0000E+04  1.5000E+04  1.0900E+01  3.0000E-01
+#---------------------------------------------------

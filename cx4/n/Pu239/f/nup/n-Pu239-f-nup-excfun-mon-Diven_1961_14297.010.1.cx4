@@ -1,0 +1,22 @@
+# EXFOR #         : 14297.010.1
+# EXFOR Ver.      : 20170807
+# TRANS #         : 1430
+# Author          : B.C.Diven et al.
+# Reference       : Proceedings of Reactor Physics Sem., Vienna 1961 1 page 149
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) prompt fission neutron multiplicity
+# REACTION        : 94-PU-239(N,F),PR,NU
+# File ID         : n-Pu239-f-nup-excfun-mon-Diven_1961_14297.010.1
+#
+# npts            : 1           
+# xmin            :   4.0000E+06
+# xmax            :   4.0000E+06
+# ymin            :   3.4150E+00
+# ymax            :   3.4150E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  4.0000E+06  0.0000E+00  3.4150E+00  6.3000E-02
+#---------------------------------------------------

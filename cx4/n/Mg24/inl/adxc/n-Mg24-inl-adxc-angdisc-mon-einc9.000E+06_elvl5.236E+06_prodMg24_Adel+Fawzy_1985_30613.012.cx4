@@ -1,0 +1,30 @@
+# EXFOR #         : 30613.012  
+# EXFOR Ver.      : 20090805
+# TRANS #         : 3140
+# Author          : M.Adel-Fawzy et al.
+# Reference       : Nucl.Phys.A 440 (1985) 35
+# DOI             : 10.1016/0375-9474(85)90042-9
+# Quantity        : 24Mg(n,inl)24Mg partial angular differential cross section
+# REACTION        : 12-MG-24(N,INL)12-MG-24,PAR,DA
+# File ID         : n-Mg24-inl-adxc-angdisc-mon-einc9.000E+06_elvl5.236E+06_prodMg24_Adel+Fawzy_1985_30613.012
+#
+# Einc (eV)       :   9.0000E+06
+# dEinc (eV)      :   1.3800E+05
+# Elvl (eV)       :   5.2360E+06
+#
+# npts            : 5           
+# xmin            :   42.4700000
+# xmax            :  142.4700000
+# ymin            :   3.6000E-03
+# ymax            :   7.2000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  42.4700000   4.3000000  3.6000E-03  1.2000E-03
+  63.3300000   4.3000000  4.6000E-03  1.7000E-03
+  83.7800000   4.3000000  5.6000E-03  2.0000E-03
+ 103.7800000   4.3000000  5.9000E-03  1.3000E-03
+ 142.4700000   4.3000000  7.2000E-03  2.8000E-03
+#---------------------------------------------------

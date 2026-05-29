@@ -1,0 +1,22 @@
+# EXFOR #         : 33192.002  
+# EXFOR Ver.      : 20231228
+# TRANS #         : 3212
+# Author          : T.S.Ganesapandy et al.
+# Reference       : Radiat.Phys.Chem. 212 (2023) 111101
+# DOI             : 10.1016/j.radphyschem.2023.111101
+# Quantity        : 82Se(n,2n)81mSe cross section
+# REACTION        : 34-SE-82(N,2N)34-SE-81-M,,SIG
+# File ID         : n-Se82-2n-sig-excfun-mon-prodSe81m_Ganesapandy_2023_33192.002
+#
+# npts            : 1           
+# xmin            :   1.4770E+07
+# xmax            :   1.4770E+07
+# ymin            :   9.5126E-01
+# ymax            :   9.5126E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4770E+07  1.7000E+05  9.5126E-01  4.1760E-02
+#---------------------------------------------------

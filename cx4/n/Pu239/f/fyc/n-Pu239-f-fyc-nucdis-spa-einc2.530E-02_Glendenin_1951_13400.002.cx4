@@ -1,0 +1,25 @@
+# EXFOR #         : 13400.002  
+# EXFOR Ver.      : 20180425
+# TRANS #         : 1439
+# Author          : L.E.Glendenin
+# Reference       : Radiochemical Studies, Fission Products, USA, 1951 2 page 1092(159) (1951)
+# DOI             : N/A
+# Quantity        : 239Pu(n,f) cumulative fission product yield
+# REACTION        : 94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-Pu239-f-fyc-nucdis-spa-einc2.530E-02_Glendenin_1951_13400.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 55136.9     
+# xmax            : 55137.9     
+# ymin            :   8.9000E-04
+# ymax            :   5.3000E-02
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     55136.9  8.9000E-04  0.0000E+00
+     55137.9  5.3000E-02  0.0000E+00
+#---------------------------------------------------

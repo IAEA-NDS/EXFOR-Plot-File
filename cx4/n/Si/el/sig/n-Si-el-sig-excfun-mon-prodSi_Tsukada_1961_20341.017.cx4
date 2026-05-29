@@ -1,0 +1,26 @@
+# EXFOR #         : 20341.017  
+# EXFOR Ver.      : 20080526
+# TRANS #         : 2198
+# Author          : K.Tsukada et al.
+# Reference       : Proceedings of Reactor Physics Sem., Vienna 1961 1 page 75(18/12)
+# DOI             : N/A
+# Quantity        : natSi(n,el)natSi cross section
+# REACTION        : 14-SI-0(N,EL)14-SI-0,,SIG
+# File ID         : n-Si-el-sig-excfun-mon-prodSi_Tsukada_1961_20341.017
+#
+# npts            : 5           
+# xmin            :   3.5000E+06
+# xmax            :   4.8000E+06
+# ymin            :   9.7000E-01
+# ymax            :   1.5000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+06  0.0000E+00  9.7000E-01  1.1000E-01
+  3.8500E+06  0.0000E+00  1.4800E+00  1.6000E-01
+  4.2000E+06  0.0000E+00  1.5000E+00  1.5000E-01
+  4.5000E+06  0.0000E+00  1.2250E+00  1.3000E-01
+  4.8000E+06  0.0000E+00  1.4700E+00  1.5000E-01
+#---------------------------------------------------

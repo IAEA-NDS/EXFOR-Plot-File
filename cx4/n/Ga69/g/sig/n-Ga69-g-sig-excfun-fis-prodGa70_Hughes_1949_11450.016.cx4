@@ -1,0 +1,22 @@
+# EXFOR #         : 11450.016  
+# EXFOR Ver.      : 20021212
+# TRANS #         : 0000
+# Author          : D.J.Hughes et al.
+# Reference       : Phys.Rev. 75 (1949) 1781
+# DOI             : 10.1103/PhysRev.75.1781
+# Quantity        : 69Ga(n,g)70Ga cross section
+# REACTION        : 31-GA-69(N,G)31-GA-70,,SIG,,FIS
+# File ID         : n-Ga69-g-sig-excfun-fis-prodGa70_Hughes_1949_11450.016
+#
+# npts            : 1           
+# xmin            :   1.0000E+06
+# xmax            :   1.0000E+06
+# ymin            :   2.2700E-02
+# ymax            :   2.2700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+06  0.0000E+00  2.2700E-02  0.0000E+00
+#---------------------------------------------------

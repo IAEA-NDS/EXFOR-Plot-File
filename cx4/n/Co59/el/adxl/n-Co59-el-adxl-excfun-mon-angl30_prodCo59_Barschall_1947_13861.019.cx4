@@ -1,0 +1,24 @@
+# EXFOR #         : 13861.019  
+# EXFOR Ver.      : 20030106
+# TRANS #         : 0000
+# Author          : H.H.Barschall et al.
+# Reference       : Phys.Rev. 72 (1947) 881
+# DOI             : 10.1103/PhysRev.72.881
+# Quantity        : 59Co(n,el)59Co angular differential cross section
+# REACTION        : 27-CO-59(N,EL)27-CO-59,,DA,,4PI
+# File ID         : n-Co59-el-adxl-excfun-mon-angl30_prodCo59_Barschall_1947_13861.019
+#
+# theta,lab (deg) :   30.0000000
+#
+# npts            : 1           
+# xmin            :   6.0000E+05
+# xmax            :   6.0000E+05
+# ymin            :   2.7056E-01
+# ymax            :   2.7056E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.0000E+05  0.0000E+00  2.7056E-01  0.0000E+00
+#---------------------------------------------------

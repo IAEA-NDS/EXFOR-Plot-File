@@ -1,0 +1,27 @@
+# EXFOR #         : 21099.002  
+# EXFOR Ver.      : 19800411
+# TRANS #         : 0000
+# Author          : K.Debertin
+# Reference       : Report IKF-11, 1965
+# DOI             : N/A
+# Quantity        : 27Al(n,p)27Mg double differential cross section
+# REACTION        : 13-AL-27(N,P)12-MG-27,,DA/DE
+# File ID         : n-Al27-p-ddxl-angdisl-mon-einc2.200E+07_eoutc8.490E+06_prodMg27_Debertin_1965_21099.002
+#
+# Einc (eV)       :   2.2000E+07
+# dEinc (eV)      :   6.0000E+05
+# Eout,cm (eV)    :   8.4900E+06
+#
+# npts            : 2           
+# xmin            :    7.9868440
+# xmax            :  149.9970000
+# ymin            :   1.2100E-09
+# ymax            :   1.9200E-09
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+ 149.9970000   0.0000000  1.2100E-09  1.2100E-10
+   7.9868440   0.0000000  1.9200E-09  1.9200E-10
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 21362.007  
+# EXFOR Ver.      : 20120917
+# TRANS #         : 2234
+# Author          : F.C.W.Colmer et al.
+# Reference       : Proc.Phys.Soc.(UK) A 63 (1950) 1175
+# DOI             : 10.1088/0370-1298/63/10/112
+# Quantity        : 209Bi(n,g)210Bi cross section
+# REACTION        : 83-BI-209(N,G)83-BI-210,,SIG,,MXW
+# File ID         : n-Bi209-g-sig-excfun-mxw-prodBi210_Colmer_1950_21362.007
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.0500E-02
+# ymax            :   2.0500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.0500E-02  1.5000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 14389.002  
+# EXFOR Ver.      : 20140519
+# TRANS #         : 1400
+# Author          : J.Halperin et al.
+# Reference       : Proceedings of 1st UN Conf.Peaceful Uses Atomic Energy, Geneva 1955 7 page 258
+# DOI             : N/A
+# Quantity        : 239Pu(n,g)240Pu cross section
+# REACTION        : 94-PU-239(N,G)94-PU-240,,SIG,,SPA
+# File ID         : n-Pu239-g-sig-excfun-spa-prodPu240_Halperin_1955_14389.002
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   4.0000E+02
+# ymax            :   4.0000E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  4.0000E+02  4.0000E+01
+#---------------------------------------------------

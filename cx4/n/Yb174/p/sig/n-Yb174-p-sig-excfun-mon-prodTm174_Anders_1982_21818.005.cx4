@@ -1,0 +1,22 @@
+# EXFOR #         : 21818.005  
+# EXFOR Ver.      : 20180311
+# TRANS #         : 2270
+# Author          : B.Anders et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Antwerp 1982 page 859
+# DOI             : N/A
+# Quantity        : 174Yb(n,p)174Tm cross section
+# REACTION        : 70-YB-174(N,P)69-TM-174,,SIG
+# File ID         : n-Yb174-p-sig-excfun-mon-prodTm174_Anders_1982_21818.005
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   3.0000E-03
+# ymax            :   3.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  2.0000E+05  3.0000E-03  2.2000E-04
+#---------------------------------------------------

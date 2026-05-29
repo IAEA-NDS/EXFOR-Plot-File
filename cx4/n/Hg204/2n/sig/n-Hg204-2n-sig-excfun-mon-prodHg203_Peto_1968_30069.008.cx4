@@ -1,0 +1,22 @@
+# EXFOR #         : 30069.008  
+# EXFOR Ver.      : 20260401
+# TRANS #         : 3223
+# Author          : G.Peto et al.
+# Reference       : Acta Phys.Hung. 25 (1968) 91
+# DOI             : 10.1007/BF03159213
+# Quantity        : 204Hg(n,2n)203Hg cross section
+# REACTION        : 80-HG-204(N,2N)80-HG-203,,SIG
+# File ID         : n-Hg204-2n-sig-excfun-mon-prodHg203_Peto_1968_30069.008
+#
+# npts            : 1           
+# xmin            :   1.5000E+07
+# xmax            :   1.5000E+07
+# ymin            :   2.2300E+00
+# ymax            :   2.2300E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  3.0000E+05  2.2300E+00  3.0000E-01
+#---------------------------------------------------

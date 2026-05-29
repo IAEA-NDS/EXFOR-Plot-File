@@ -1,0 +1,28 @@
+# EXFOR #         : 41229.005  
+# EXFOR Ver.      : 20191221
+# TRANS #         : 4185
+# Author          : V.V.Nefedov et al.
+# Reference       : Neitronnaya Fizika, Moskva 1961 page 324 (1961)
+# DOI             : N/A
+# Quantity        : 27Al(n,inl)27Al partial gamma production cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,SIG,G
+# File ID         : n-Al27-inl-sigg-enedisl-mon-einc1.400E+07_prodAl27_Nefedov_1961_41229.005
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 5           
+# xmin            :   3.8000E+06
+# xmax            :   6.9000E+06
+# ymin            :   3.0000E-02
+# ymax            :   2.9000E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8000E+06  0.0000E+00  2.9000E-01  0.0000E+00
+  4.9000E+06  0.0000E+00  1.6000E-01  0.0000E+00
+  5.4000E+06  0.0000E+00  9.0000E-02  0.0000E+00
+  6.3000E+06  0.0000E+00  4.0000E-02  0.0000E+00
+  6.9000E+06  0.0000E+00  3.0000E-02  0.0000E+00
+#---------------------------------------------------

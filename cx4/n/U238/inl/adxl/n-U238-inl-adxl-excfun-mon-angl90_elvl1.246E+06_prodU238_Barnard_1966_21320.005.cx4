@@ -1,0 +1,25 @@
+# EXFOR #         : 21320.005  
+# EXFOR Ver.      : 20190828
+# TRANS #         : 2282
+# Author          : E.Barnard et al.
+# Reference       : Nucl.Phys. 80 (1966) 46
+# DOI             : 10.1016/0029-5582(66)90824-8
+# Quantity        : 238U(n,inl)238U partial angular differential cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,PAR,DA
+# File ID         : n-U238-inl-adxl-excfun-mon-angl90_elvl1.246E+06_prodU238_Barnard_1966_21320.005
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   1.2460E+06
+#
+# npts            : 1           
+# xmin            :   1.6200E+06
+# xmax            :   1.6200E+06
+# ymin            :   8.9000E-03
+# ymax            :   8.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.6200E+06  7.0000E+03  8.9000E-03  1.4000E-03
+#---------------------------------------------------

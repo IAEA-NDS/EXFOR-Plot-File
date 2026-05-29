@@ -1,0 +1,22 @@
+# EXFOR #         : 21847.004  
+# EXFOR Ver.      : 20230130
+# TRANS #         : 2313
+# Author          : T.B.Ryves et al.
+# Reference       : J.Phys.G 7 (1981) 115
+# DOI             : 10.1088/0305-4616/7/1/015
+# Quantity        : 197Au(n,g)198Au cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198,,SIG
+# File ID         : n-Au197-g-sig-excfun-mon-prodAu198_Ryves_1981_21847.004
+#
+# npts            : 1           
+# xmin            :   1.4300E+07
+# xmax            :   1.4300E+07
+# ymin            :   1.0900E-03
+# ymax            :   1.0900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4300E+07  1.0000E+05  1.0900E-03  1.0000E-04
+#---------------------------------------------------

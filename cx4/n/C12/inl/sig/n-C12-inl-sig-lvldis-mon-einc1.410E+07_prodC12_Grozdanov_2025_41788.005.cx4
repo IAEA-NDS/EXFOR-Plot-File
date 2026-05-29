@@ -1,0 +1,27 @@
+# EXFOR #         : 41788.005  
+# EXFOR Ver.      : 20251010
+# TRANS #         : 4228
+# Author          : D.N.Grozdanov et al.
+# Reference       : Eur.Phys.J.A 61 (2025) 224
+# DOI             : 10.1140/epja/s10050-025-01703-5
+# Quantity        : 12C(n,inl)12C partial cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,SIG
+# File ID         : n-C12-inl-sig-lvldis-mon-einc1.410E+07_prodC12_Grozdanov_2025_41788.005
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 3           
+# xmin            :   4.4400E+06
+# xmax            :   1.0850E+07
+# ymin            :   9.6000E-03
+# ymax            :   1.9200E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.4400E+06  0.0000E+00  1.9200E-01  1.0000E-02
+  7.6500E+06  0.0000E+00  9.6000E-03  7.0000E-04
+  1.0850E+07  0.0000E+00  1.0400E-02  7.0000E-04
+#---------------------------------------------------

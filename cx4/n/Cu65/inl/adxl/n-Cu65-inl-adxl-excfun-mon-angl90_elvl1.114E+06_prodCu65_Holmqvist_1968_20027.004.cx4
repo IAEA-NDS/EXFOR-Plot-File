@@ -1,0 +1,27 @@
+# EXFOR #         : 20027.004  
+# EXFOR Ver.      : 20190117
+# TRANS #         : 2274
+# Author          : B.Holmqvist et al.
+# Reference       : Arkiv foer Fysik 35 (1968) 71
+# DOI             : N/A
+# Quantity        : 65Cu(n,inl)65Cu partial angular differential cross section
+# REACTION        : 29-CU-65(N,INL)29-CU-65,PAR,DA
+# File ID         : n-Cu65-inl-adxl-excfun-mon-angl90_elvl1.114E+06_prodCu65_Holmqvist_1968_20027.004
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   1.1140E+06
+#
+# npts            : 3           
+# xmin            :   1.1900E+06
+# xmax            :   1.3820E+06
+# ymin            :   3.3000E-02
+# ymax            :   9.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1900E+06  4.0000E+04  3.3000E-02  1.6500E-03
+  1.2800E+06  4.0000E+04  5.1000E-02  2.5500E-03
+  1.3820E+06  4.0000E+04  9.0000E-02  4.5000E-03
+#---------------------------------------------------

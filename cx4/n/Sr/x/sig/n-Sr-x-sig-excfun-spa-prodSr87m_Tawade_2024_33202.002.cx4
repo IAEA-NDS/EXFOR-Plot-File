@@ -1,0 +1,24 @@
+# EXFOR #         : 33202.002  
+# EXFOR Ver.      : 20250121
+# TRANS #         : 3216
+# Author          : N.S.Tawade et al.
+# Reference       : Nucl.Phys.A 1042 (2024) 122805
+# DOI             : 10.1016/j.nuclphysa.2023.122805
+# Quantity        : natSr(n,x)87mSr independent production cross section
+# REACTION        : 38-SR-0(N,X)38-SR-87-M,,SIG,,SPA
+# File ID         : n-Sr-x-sig-excfun-spa-prodSr87m_Tawade_2024_33202.002
+#
+# npts            : 3           
+# xmin            :   8.5500E+05
+# xmax            :   1.9960E+06
+# ymin            :   6.7300E-02
+# ymax            :   1.5440E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.5500E+05  1.7500E+05  6.7300E-02  2.5000E-03
+  1.5350E+06  2.0900E+05  1.1290E-01  3.3000E-03
+  1.9960E+06  2.3100E+05  1.5440E-01  5.7000E-03
+#---------------------------------------------------

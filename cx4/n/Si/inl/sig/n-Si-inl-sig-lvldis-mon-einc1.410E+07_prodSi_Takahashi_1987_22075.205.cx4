@@ -1,0 +1,27 @@
+# EXFOR #         : 22075.205  
+# EXFOR Ver.      : 20090615
+# TRANS #         : 2213
+# Author          : A.Takahashi et al.
+# Reference       : Report OKTAV-A-87-03, 1987
+# DOI             : N/A
+# Quantity        : natSi(n,inl)natSi partial cross section
+# REACTION        : 14-SI-0(N,INL)14-SI-0,PAR,SIG
+# File ID         : n-Si-inl-sig-lvldis-mon-einc1.410E+07_prodSi_Takahashi_1987_22075.205
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 3           
+# xmin            :   1.7800E+06
+# xmax            :   6.7900E+06
+# ymin            :   2.9700E-02
+# ymax            :   1.1400E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7800E+06  0.0000E+00  1.1400E-01  5.7000E-03
+  4.8000E+06  1.8000E+05  2.9700E-02  1.8000E-03
+  6.7900E+06  1.0000E+05  4.9000E-02  4.0000E-03
+#---------------------------------------------------

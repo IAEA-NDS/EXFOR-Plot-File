@@ -1,0 +1,28 @@
+# EXFOR #         : 10283.004  
+# EXFOR Ver.      : 20071108
+# TRANS #         : Y001
+# Author          : F.G.Perey et al.
+# Reference       : Report ORNL-4805, 1974
+# DOI             : N/A
+# Quantity        : 14N(n,inl)14N partial angular differential cross section
+# REACTION        : 7-N-14(N,INL)7-N-14,PAR,DA
+# File ID         : n-N14-inl-adxl-angdisc-mon-einc8.040E+06_elvl5.830E+06_prodN14_Perey_1974_10283.004
+#
+# Einc (eV)       :   8.0400E+06
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   5.8300E+06
+#
+# npts            : 3           
+# xmin            :   78.3000000
+# xmax            :   93.7700000
+# ymin            :   6.0400E-03
+# ymax            :   6.1600E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  78.3000000   0.0000000  6.0400E-03  0.0000E+00
+  86.0700000   0.0000000  6.1600E-03  0.0000E+00
+  93.7700000   0.0000000  6.0400E-03  0.0000E+00
+#---------------------------------------------------

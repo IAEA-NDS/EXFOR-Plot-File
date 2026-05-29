@@ -1,0 +1,25 @@
+# EXFOR #         : 20788.014  
+# EXFOR Ver.      : 20120731
+# TRANS #         : 2232
+# Author          : E.Almen-Ramstrom
+# Reference       : Report AE-503, 1975
+# DOI             : N/A
+# Quantity        : 89Y(n,inl)89Y partial cross section
+# REACTION        : 39-Y-89(N,INL)39-Y-89,PAR,SIG
+# File ID         : n-Y89-inl-sig-lvldis-mon-einc2.270E+06_prodY89_Almen+Ramstrom_1975_20788.014
+#
+# Einc (eV)       :   2.2700E+06
+#
+# npts            : 2           
+# xmin            :   9.0000E+05
+# xmax            :   1.5100E+06
+# ymin            :   1.5600E-01
+# ymax            :   3.7900E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.0000E+05  0.0000E+00  1.5600E-01  2.3000E-02
+  1.5100E+06  0.0000E+00  3.7900E-01  1.1400E-01
+#---------------------------------------------------

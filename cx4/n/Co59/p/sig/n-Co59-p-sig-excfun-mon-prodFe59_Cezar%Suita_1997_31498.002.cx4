@@ -1,0 +1,23 @@
+# EXFOR #         : 31498.002  
+# EXFOR Ver.      : 19990503
+# TRANS #         : 0000
+# Author          : J.Cezar Suita et al.
+# Reference       : Nucl.Sci.Eng. 126 (1997) 101
+# DOI             : 10.13182/NSE97-A24461
+# Quantity        : 59Co(n,p)59Fe cross section
+# REACTION        : 27-CO-59(N,P)26-FE-59,,SIG
+# File ID         : n-Co59-p-sig-excfun-mon-prodFe59_Cezar%Suita_1997_31498.002
+#
+# npts            : 2           
+# xmin            :   9.6000E+06
+# xmax            :   1.3300E+07
+# ymin            :   5.5000E-02
+# ymax            :   6.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.6000E+06  2.0000E+05  5.5000E-02  1.9000E-02
+  1.3300E+07  2.0000E+05  6.1000E-02  4.0000E-03
+#---------------------------------------------------

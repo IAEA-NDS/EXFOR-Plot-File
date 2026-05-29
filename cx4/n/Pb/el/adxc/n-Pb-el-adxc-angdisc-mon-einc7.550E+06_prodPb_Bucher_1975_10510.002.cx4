@@ -1,0 +1,27 @@
+# EXFOR #         : 10510.002  
+# EXFOR Ver.      : 20040427
+# TRANS #         : 0000
+# Author          : W.Bucher et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 945
+# DOI             : N/A
+# Quantity        : natPb(n,el)natPb angular differential cross section
+# REACTION        : 82-PB-0(N,EL)82-PB-0,,DA
+# File ID         : n-Pb-el-adxc-angdisc-mon-einc7.550E+06_prodPb_Bucher_1975_10510.002
+#
+# Einc (eV)       :   7.5500E+06
+#
+# npts            : 4           
+# xmin            :    3.4800000
+# xmax            :   14.8500000
+# ymin            :   3.8580E+00
+# ymax            :   7.0170E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   3.4800000   0.0000000  7.0170E+00  2.1753E-01
+   6.9700000   0.0000000  6.3420E+00  1.5221E-01
+  10.9000000   0.0000000  5.0910E+00  1.0691E-01
+  14.8500000   0.0000000  3.8580E+00  7.3302E-02
+#---------------------------------------------------

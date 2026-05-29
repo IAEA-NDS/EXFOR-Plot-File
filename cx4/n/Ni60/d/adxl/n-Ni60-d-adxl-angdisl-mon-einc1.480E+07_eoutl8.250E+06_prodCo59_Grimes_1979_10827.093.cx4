@@ -1,0 +1,28 @@
+# EXFOR #         : 10827.093  
+# EXFOR Ver.      : 20110731
+# TRANS #         : 1374
+# Author          : S.M.Grimes et al.
+# Reference       : Phys.Rev.C 19 (1979) 2127
+# DOI             : 10.1103/PhysRevC.19.2127
+# Quantity        : 60Ni(n,d)59Co partial angular differential cross section
+# REACTION        : 28-NI-60(N,D)27-CO-59,PAR,DA,,AV
+# File ID         : n-Ni60-d-adxl-angdisl-mon-einc1.480E+07_eoutl8.250E+06_prodCo59_Grimes_1979_10827.093
+#
+# Einc (eV)       :   1.4800E+07
+# Eout,lab (eV)   :   8.2500E+06
+# dEout,lab (eV)  :   2.5000E+05
+#
+# npts            : 3           
+# xmin            :   30.0000000
+# xmax            :   90.0000000
+# ymin            :   7.0000E-06
+# ymax            :   2.4000E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  2.4000E-05  1.0000E-05
+  45.0000000   0.0000000  1.6000E-05  1.0000E-05
+  90.0000000   0.0000000  7.0000E-06  8.0000E-06
+#---------------------------------------------------

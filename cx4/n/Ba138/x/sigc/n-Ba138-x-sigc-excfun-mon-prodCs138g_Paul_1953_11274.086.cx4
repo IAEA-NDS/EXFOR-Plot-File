@@ -1,0 +1,22 @@
+# EXFOR #         : 11274.086  
+# EXFOR Ver.      : 19860619
+# TRANS #         : 0000
+# Author          : E.B.Paul et al.
+# Reference       : Can.J.Phys. 31 (1953) 267
+# DOI             : 10.1139/p53-028
+# Quantity        : 138Ba(n,p)138gCs cumulative production cross section
+# REACTION        : 56-BA-138(N,P)55-CS-138-G,M+,SIG
+# File ID         : n-Ba138-x-sigc-excfun-mon-prodCs138g_Paul_1953_11274.086
+#
+# npts            : 1           
+# xmin            :   1.4500E+07
+# xmax            :   1.4500E+07
+# ymin            :   6.3000E-03
+# ymax            :   6.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  0.0000E+00  6.3000E-03  2.2050E-03
+#---------------------------------------------------

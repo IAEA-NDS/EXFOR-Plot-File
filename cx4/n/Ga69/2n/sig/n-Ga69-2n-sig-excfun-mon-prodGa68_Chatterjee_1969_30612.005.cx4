@@ -1,0 +1,23 @@
+# EXFOR #         : 30612.005  
+# EXFOR Ver.      : 20090805
+# TRANS #         : 3140
+# Author          : A.Chatterjee et al.
+# Reference       : Proceedings of Nucl. and Solid State Physics Symp., Roorkee 1969 2 page 117
+# DOI             : N/A
+# Quantity        : 69Ga(n,2n)68Ga cross section
+# REACTION        : 31-GA-69(N,2N)31-GA-68,,SIG
+# File ID         : n-Ga69-2n-sig-excfun-mon-prodGa68_Chatterjee_1969_30612.005
+#
+# npts            : 2           
+# xmin            :   1.4500E+07
+# xmax            :   1.4800E+07
+# ymin            :   8.6600E-01
+# ymax            :   9.3000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  0.0000E+00  8.6600E-01  6.2000E-02
+  1.4800E+07  0.0000E+00  9.3000E-01  6.0000E-02
+#---------------------------------------------------

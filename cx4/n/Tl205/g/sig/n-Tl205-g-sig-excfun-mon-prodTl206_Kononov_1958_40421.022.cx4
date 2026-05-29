@@ -1,0 +1,22 @@
+# EXFOR #         : 40421.022  
+# EXFOR Ver.      : 20221017
+# TRANS #         : 4209
+# Author          : V.N.Kononov et al.
+# Reference       : Sov.At.Energy 5 (1958) 1483
+# DOI             : 10.1007/BF01498493
+# Quantity        : 205Tl(n,g)206Tl cross section
+# REACTION        : 81-TL-205(N,G)81-TL-206,,SIG
+# File ID         : n-Tl205-g-sig-excfun-mon-prodTl206_Kononov_1958_40421.022
+#
+# npts            : 1           
+# xmin            :   2.4000E+04
+# xmax            :   2.4000E+04
+# ymin            :   5.0000E-02
+# ymax            :   5.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+04  0.0000E+00  5.0000E-02  2.0000E-03
+#---------------------------------------------------

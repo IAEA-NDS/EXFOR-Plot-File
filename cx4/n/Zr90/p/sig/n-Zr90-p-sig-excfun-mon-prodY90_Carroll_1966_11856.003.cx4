@@ -1,0 +1,23 @@
+# EXFOR #         : 11856.003  
+# EXFOR Ver.      : 20200503
+# TRANS #         : 1468
+# Author          : E.E.Carroll et al.
+# Reference       : Nucl.Sci.Eng. 25 (1966) 285
+# DOI             : 10.13182/NSE66-A17836
+# Quantity        : 90Zr(n,p)90Y cross section
+# REACTION        : 40-ZR-90(N,P)39-Y-90,,SIG
+# File ID         : n-Zr90-p-sig-excfun-mon-prodY90_Carroll_1966_11856.003
+#
+# npts            : 2           
+# xmin            :   1.4700E+07
+# xmax            :   1.5130E+07
+# ymin            :   4.3000E-02
+# ymax            :   4.7200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  8.0000E+05  4.7200E-02  2.8000E-03
+  1.5130E+07  1.4000E+06  4.3000E-02  3.9000E-03
+#---------------------------------------------------

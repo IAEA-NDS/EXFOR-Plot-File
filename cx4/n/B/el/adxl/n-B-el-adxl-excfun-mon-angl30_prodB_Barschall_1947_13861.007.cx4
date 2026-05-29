@@ -1,0 +1,25 @@
+# EXFOR #         : 13861.007  
+# EXFOR Ver.      : 20030106
+# TRANS #         : 0000
+# Author          : H.H.Barschall et al.
+# Reference       : Phys.Rev. 72 (1947) 881
+# DOI             : 10.1103/PhysRev.72.881
+# Quantity        : natB(n,el)natB angular differential cross section
+# REACTION        : 5-B-0(N,EL)5-B-0,,DA,,4PI
+# File ID         : n-B-el-adxl-excfun-mon-angl30_prodB_Barschall_1947_13861.007
+#
+# theta,lab (deg) :   30.0000000
+#
+# npts            : 2           
+# xmin            :   2.0000E+05
+# xmax            :   6.0000E+05
+# ymin            :   2.1486E-01
+# ymax            :   3.1035E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.0000E+05  0.0000E+00  3.1035E-01  0.0000E+00
+  6.0000E+05  0.0000E+00  2.1486E-01  0.0000E+00
+#---------------------------------------------------

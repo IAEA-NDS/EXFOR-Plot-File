@@ -1,0 +1,22 @@
+# EXFOR #         : 31496.038  
+# EXFOR Ver.      : 19980715
+# TRANS #         : 0000
+# Author          : A.Grallert et al.
+# Reference       : Report INDC(NDS)-286 page 131, 1993
+# DOI             : N/A
+# Quantity        : 91Zr(n,p)91mY cross section
+# REACTION        : 40-ZR-91(N,P)39-Y-91-M,,SIG
+# File ID         : n-Zr91-p-sig-excfun-mon-prodY91m_Grallert_1993_31496.038
+#
+# npts            : 1           
+# xmin            :   1.4600E+07
+# xmax            :   1.4600E+07
+# ymin            :   2.4000E-02
+# ymax            :   2.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4600E+07  1.2000E+05  2.4000E-02  1.2000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 21193.002  
+# EXFOR Ver.      : 20230130
+# TRANS #         : 2313
+# Author          : W.Poenitz
+# Reference       : J.Nucl.Energy A/B 20 (1966) 825
+# DOI             : 10.1016/0368-3230(66)90117-0
+# Quantity        : 197Au(n,g)198Au cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198,,SIG
+# File ID         : n-Au197-g-sig-excfun-mon-prodAu198_Poenitz_1966_21193.002
+#
+# npts            : 1           
+# xmin            :   3.0000E+04
+# xmax            :   3.0000E+04
+# ymin            :   5.9300E-01
+# ymax            :   5.9300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  0.0000E+00  5.9300E-01  1.2453E-02
+#---------------------------------------------------

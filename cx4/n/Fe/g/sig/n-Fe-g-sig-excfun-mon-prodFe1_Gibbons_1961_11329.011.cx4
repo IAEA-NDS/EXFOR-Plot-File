@@ -1,0 +1,23 @@
+# EXFOR #         : 11329.011  
+# EXFOR Ver.      : 20120416
+# TRANS #         : 1380
+# Author          : J.H.Gibbons et al.
+# Reference       : Phys.Rev. 122 (1961) 182
+# DOI             : 10.1103/PhysRev.122.182
+# Quantity        : natFe(n,g) cross section
+# REACTION        : 26-FE-0(N,G),,SIG
+# File ID         : n-Fe-g-sig-excfun-mon-prodFe1_Gibbons_1961_11329.011
+#
+# npts            : 2           
+# xmin            :   3.0000E+04
+# xmax            :   6.5000E+04
+# ymin            :   6.3000E-03
+# ymax            :   1.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+04  7.0000E+03  1.2000E-02  3.0000E-03
+  6.5000E+04  2.0000E+04  6.3000E-03  2.0000E-03
+#---------------------------------------------------

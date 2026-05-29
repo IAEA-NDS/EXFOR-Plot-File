@@ -1,0 +1,22 @@
+# EXFOR #         : 30256.002  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : K.Wagner et al.
+# Reference       : Kernenergie 6 (1963) 177
+# DOI             : N/A
+# Quantity        : 59Co(n,p)59Fe cross section
+# REACTION        : 27-CO-59(N,P)26-FE-59,,SIG,,FIS
+# File ID         : n-Co59-p-sig-excfun-fis-prodFe59_Wagner_1963_30256.002
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   5.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  5.0000E-04  0.0000E+00
+#---------------------------------------------------

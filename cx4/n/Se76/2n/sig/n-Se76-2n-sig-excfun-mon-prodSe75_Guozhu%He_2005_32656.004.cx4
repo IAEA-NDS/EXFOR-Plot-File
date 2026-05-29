@@ -1,0 +1,23 @@
+# EXFOR #         : 32656.004  
+# EXFOR Ver.      : 20060615
+# TRANS #         : 3121
+# Author          : Guozhu He et al.
+# Reference       : Ind.J.Pure Appl.Phy. 43 (2005) 729
+# DOI             : N/A
+# Quantity        : 76Se(n,2n)75Se cross section
+# REACTION        : 34-SE-76(N,2N)34-SE-75,,SIG
+# File ID         : n-Se76-2n-sig-excfun-mon-prodSe75_Guozhu%He_2005_32656.004
+#
+# npts            : 2           
+# xmin            :   1.3500E+07
+# xmax            :   1.4100E+07
+# ymin            :   5.1900E-01
+# ymax            :   6.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+07  3.0000E+05  5.1900E-01  3.1000E-02
+  1.4100E+07  2.0000E+05  6.1000E-01  3.7000E-02
+#---------------------------------------------------

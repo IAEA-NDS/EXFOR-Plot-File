@@ -1,0 +1,22 @@
+# EXFOR #         : 30400.008  
+# EXFOR Ver.      : 20090309
+# TRANS #         : 3135
+# Author          : Z.Dezso et al.
+# Reference       : Proceedings of 4.All Union Conf.on Neutron Phys.,Kiev,18-22 Apr 1977 3 page 32
+# DOI             : N/A
+# Quantity        : 63Cu(n,2n)62Cu cross section
+# REACTION        : 29-CU-63(N,2N)29-CU-62,,SIG,,FIS
+# File ID         : n-Cu63-2n-sig-excfun-fis-prodCu62_Dezso_1977_30400.008
+#
+# npts            : 1           
+# xmin            :   1.4100E+06
+# xmax            :   1.4100E+06
+# ymin            :   3.0000E-04
+# ymax            :   3.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+06  0.0000E+00  3.0000E-04  2.7000E-05
+#---------------------------------------------------

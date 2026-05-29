@@ -1,0 +1,22 @@
+# EXFOR #         : 21934.015  
+# EXFOR Ver.      : 20170212
+# TRANS #         : 2259
+# Author          : R.Woelfle et al.
+# Reference       : Nucl.Phys.A 423 (1984) 130
+# DOI             : 10.1016/0375-9474(84)90301-4
+# Quantity        : natTl(n,t+x) cross section
+# REACTION        : 81-TL-0(N,X)1-H-3,,SIG,,SPA
+# File ID         : n-Tl-xt-sig-excfun-spa-Woelfle_1984_21934.015
+#
+# npts            : 1           
+# xmin            :   1.2000E+07
+# xmax            :   1.2000E+07
+# ymin            :   7.6000E-04
+# ymax            :   7.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+07  0.0000E+00  7.6000E-04  3.5000E-04
+#---------------------------------------------------

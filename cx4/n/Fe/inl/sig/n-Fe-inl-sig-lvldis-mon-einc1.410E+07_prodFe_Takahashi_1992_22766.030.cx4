@@ -1,0 +1,28 @@
+# EXFOR #         : 22766.030  
+# EXFOR Ver.      : 20090406
+# TRANS #         : 2211
+# Author          : A.Takahashi et al.
+# Reference       : Report OKTAV-A-92-01, 1992
+# DOI             : N/A
+# Quantity        : natFe(n,inl)natFe partial cross section
+# REACTION        : 26-FE-0(N,INL)26-FE-0,PAR,SIG
+# File ID         : n-Fe-inl-sig-lvldis-mon-einc1.410E+07_prodFe_Takahashi_1992_22766.030
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 4           
+# xmin            :   8.4700E+05
+# xmax            :   5.1000E+06
+# ymin            :   2.0700E-02
+# ymax            :   7.1500E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.1000E+06  0.0000E+00  2.0700E-02  3.1000E-03
+  4.4000E+06  0.0000E+00  2.8300E-02  2.0000E-03
+  3.2300E+06  0.0000E+00  2.3500E-02  1.6000E-03
+  8.4700E+05  0.0000E+00  7.1500E-02  4.3000E-03
+#---------------------------------------------------

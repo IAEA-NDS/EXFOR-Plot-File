@@ -1,0 +1,26 @@
+# EXFOR #         : 10321.004  
+# EXFOR Ver.      : 20020926
+# TRANS #         : 0000
+# Author          : D.E.Velkley et al.
+# Reference       : Phys.Rev.C 7 (1973) 1736
+# DOI             : 10.1103/PhysRevC.7.1736
+# Quantity        : 12C(n,inl)12C partial cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,SIG
+# File ID         : n-C12-inl-sig-excfun-mon-elvl4.430E+06_prodC12_Velkley_1973_10321.004
+#
+# Elvl (eV)       :   4.4300E+06
+#
+# npts            : 3           
+# xmin            :   7.7300E+06
+# xmax            :   9.0000E+06
+# ymin            :   2.8000E-01
+# ymax            :   4.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.7300E+06  5.0000E+04  3.8000E-01  2.0000E-02
+  8.2000E+06  5.0000E+04  4.5000E-01  2.0000E-02
+  9.0000E+06  1.9000E+05  2.8000E-01  1.2000E-02
+#---------------------------------------------------

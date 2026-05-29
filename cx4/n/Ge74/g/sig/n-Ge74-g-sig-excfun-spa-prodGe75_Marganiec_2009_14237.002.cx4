@@ -1,0 +1,22 @@
+# EXFOR #         : 14237.002  
+# EXFOR Ver.      : 20210913
+# TRANS #         : 1486
+# Author          : J.Marganiec et al.
+# Reference       : Phys.Rev.C 79 (2009) 065802
+# DOI             : 10.1103/PhysRevC.79.065802
+# Quantity        : 74Ge(n,g)75Ge cross section
+# REACTION        : 32-GE-74(N,G)32-GE-75,,SIG,,SPA
+# File ID         : n-Ge74-g-sig-excfun-spa-prodGe75_Marganiec_2009_14237.002
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   3.9800E-02
+# ymax            :   3.9800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  3.9800E-02  4.1000E-03
+#---------------------------------------------------

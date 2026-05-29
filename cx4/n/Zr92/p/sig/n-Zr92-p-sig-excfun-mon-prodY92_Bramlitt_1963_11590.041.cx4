@@ -1,0 +1,22 @@
+# EXFOR #         : 11590.041  
+# EXFOR Ver.      : 20160809
+# TRANS #         : 1421
+# Author          : E.T.Bramlitt et al.
+# Reference       : Phys.Rev. 131 (1963) 2649
+# DOI             : 10.1103/PhysRev.131.2649
+# Quantity        : 92Zr(n,p)92Y cross section
+# REACTION        : 40-ZR-92(N,P)39-Y-92,,SIG
+# File ID         : n-Zr92-p-sig-excfun-mon-prodY92_Bramlitt_1963_11590.041
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.2000E-02
+# ymax            :   2.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  2.0000E+05  2.2000E-02  4.0000E-03
+#---------------------------------------------------

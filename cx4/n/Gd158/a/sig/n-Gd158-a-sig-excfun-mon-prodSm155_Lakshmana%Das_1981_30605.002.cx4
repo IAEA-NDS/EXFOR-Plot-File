@@ -1,0 +1,22 @@
+# EXFOR #         : 30605.002  
+# EXFOR Ver.      : 20220817
+# TRANS #         : 3208
+# Author          : N.Lakshmana Das et al.
+# Reference       : Ann.Nucl.Energy 8 (1981) 283
+# DOI             : 10.1016/0306-4549(81)90093-1
+# Quantity        : 158Gd(n,a)155Sm cross section
+# REACTION        : 64-GD-158(N,A)62-SM-155,,SIG
+# File ID         : n-Gd158-a-sig-excfun-mon-prodSm155_Lakshmana%Das_1981_30605.002
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   2.1000E-03
+# ymax            :   2.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  2.1000E-03  4.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 32765.004  
+# EXFOR Ver.      : 20210128
+# TRANS #         : 3200
+# Author          : Chang-Lin Lan et al.
+# Reference       : Eur.Phys.J.A 53 (2017) 131
+# DOI             : 10.1140/epja/i2017-12318-2
+# Quantity        : 232Th(n,f)131gTe cumulative production cross section
+# REACTION        : 90-TH-232(N,F)52-TE-131-G,(CUM),SIG,,AV
+# File ID         : n-Th232-x-sigc-excfun-mon-prodTe131g_Chang+Lin%Lan_2017_32765.004
+#
+# npts            : 3           
+# xmin            :   1.4100E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.4000E-03
+# ymax            :   1.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  3.0000E+05  1.8000E-03  1.0000E-04
+  1.4500E+07  3.0000E+05  1.5000E-03  1.0000E-04
+  1.4800E+07  3.0000E+05  1.4000E-03  1.0000E-04
+#---------------------------------------------------

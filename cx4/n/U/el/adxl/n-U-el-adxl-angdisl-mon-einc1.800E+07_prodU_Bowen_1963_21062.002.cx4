@@ -1,0 +1,27 @@
+# EXFOR #         : 21062.002  
+# EXFOR Ver.      : 20170802
+# TRANS #         : 2263
+# Author          : P.H.Bowen et al.
+# Reference       : Nucl.Phys. 40 (1963) 186
+# DOI             : 10.1016/0029-5582(63)90264-5
+# Quantity        : natU(n,el)natU angular differential cross section
+# REACTION        : 92-U-0(N,EL)92-U-0,,DA
+# File ID         : n-U-el-adxl-angdisl-mon-einc1.800E+07_prodU_Bowen_1963_21062.002
+#
+# Einc (eV)       :   1.8000E+07
+# dEinc (eV)      :   4.0000E+06
+#
+# npts            : 3           
+# xmin            :    1.1400000
+# xmax            :    4.5200000
+# ymin            :   1.6900E+01
+# ymax            :   2.0800E+01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   1.1400000   0.0000000  1.8100E+01  9.0000E-01
+   2.5300000   0.0000000  2.0800E+01  1.2000E+00
+   4.5200000   0.0000000  1.6900E+01  1.2000E+00
+#---------------------------------------------------

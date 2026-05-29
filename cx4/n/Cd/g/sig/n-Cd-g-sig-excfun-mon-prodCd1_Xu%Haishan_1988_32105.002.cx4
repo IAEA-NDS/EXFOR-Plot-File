@@ -1,0 +1,27 @@
+# EXFOR #         : 32105.002  
+# EXFOR Ver.      : 20100924
+# TRANS #         : 3147
+# Author          : Xu Haishan et al.
+# Reference       : Proceedings of Conf.on Nucl.Data For Sci.and Technol.,Mito 1988 page 803
+# DOI             : N/A
+# Quantity        : natCd(n,g) cross section
+# REACTION        : 48-CD-0(N,G),,SIG
+# File ID         : n-Cd-g-sig-excfun-mon-prodCd1_Xu%Haishan_1988_32105.002
+#
+# npts            : 6           
+# xmin            :   3.4000E+05
+# xmax            :   1.6800E+06
+# ymin            :   3.8900E-02
+# ymax            :   1.0020E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4000E+05  5.0000E+04  1.0020E-01  1.2000E-02
+  7.8000E+05  6.0000E+04  6.3200E-02  6.0000E-03
+  1.0200E+06  9.0000E+04  5.9200E-02  6.0000E-03
+  1.1900E+06  9.0000E+04  5.9600E-02  6.0000E-03
+  1.4300E+06  8.0000E+04  5.1500E-02  5.0000E-03
+  1.6800E+06  7.0000E+04  3.8900E-02  5.0000E-03
+#---------------------------------------------------

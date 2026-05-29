@@ -1,0 +1,33 @@
+# EXFOR #         : 13001.005  
+# EXFOR Ver.      : 20140420
+# TRANS #         : 1401
+# Author          : D.L.Nellis et al.
+# Reference       : Bull.Am.Phys.Soc. 7 (1962) 120(J6)
+# DOI             : N/A
+# Quantity        : natZr(n,inl)natZr partial gamma angular differential cross section
+# REACTION        : 40-ZR-0(N,INL)40-ZR-0,PAR,DA,G
+# File ID         : n-Zr-inl-adxgl-enedisl-mon-einc4.100E+06_angl90_prodZr_Nellis_1962_13001.005
+#
+# Einc (eV)       :   4.1000E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 8           
+# xmin            :   6.5000E+05
+# xmax            :   3.7500E+06
+# ymin            :   4.1000E-03
+# ymax            :   6.9500E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.5000E+05  1.5000E+05  5.8900E-02  1.1780E-02
+  9.2000E+05  0.0000E+00  6.9500E-02  1.3900E-02
+  1.7500E+06  2.5000E+05  4.4800E-02  8.9600E-03
+  2.1800E+06  0.0000E+00  5.5100E-02  1.1020E-02
+  2.4250E+06  7.5000E+04  4.1000E-03  8.2000E-04
+  2.7500E+06  2.5000E+05  1.0600E-02  2.1200E-03
+  3.2500E+06  2.5000E+05  1.3000E-02  2.6000E-03
+  3.7500E+06  2.5000E+05  5.3000E-03  1.0600E-03
+#---------------------------------------------------

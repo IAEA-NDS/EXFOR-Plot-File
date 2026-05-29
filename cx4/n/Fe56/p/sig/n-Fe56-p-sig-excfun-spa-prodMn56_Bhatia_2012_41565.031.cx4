@@ -1,0 +1,22 @@
+# EXFOR #         : 41565.031  
+# EXFOR Ver.      : 20121010
+# TRANS #         : 4158
+# Author          : C.Bhatia et al.
+# Reference       : Appl.Radiat.Isot. 70 (2012) 1254
+# DOI             : 10.1016/j.apradiso.2011.11.020
+# Quantity        : 56Fe(n,p)56Mn cross section
+# REACTION        : 26-FE-56(N,P)25-MN-56,,SIG,,SPA
+# File ID         : n-Fe56-p-sig-excfun-spa-prodMn56_Bhatia_2012_41565.031
+#
+# npts            : 1           
+# xmin            :   1.0148E+08
+# xmax            :   1.0148E+08
+# ymin            :   2.5300E-03
+# ymax            :   2.5300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0148E+08  9.8515E+07  2.5300E-03  2.1000E-04
+#---------------------------------------------------

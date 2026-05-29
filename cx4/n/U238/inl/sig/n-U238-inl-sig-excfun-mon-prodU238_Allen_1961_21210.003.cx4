@@ -1,0 +1,22 @@
+# EXFOR #         : 21210.003  
+# EXFOR Ver.      : 20131118
+# TRANS #         : 2238
+# Author          : K.W.Allen et al.
+# Reference       : J.Nucl.Energy A/B 14 (1961) 100
+# DOI             : 10.1016/0368-3230(61)90098-2
+# Quantity        : 238U(n,inl)238U cross section
+# REACTION        : 92-U-238(N,INL)92-U-238,,SIG
+# File ID         : n-U238-inl-sig-excfun-mon-prodU238_Allen_1961_21210.003
+#
+# npts            : 1           
+# xmin            :   1.4000E+07
+# xmax            :   1.4000E+07
+# ymin            :   1.5000E-01
+# ymax            :   1.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  0.0000E+00  1.5000E-01  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : 22001.018  
+# EXFOR Ver.      : 20100721
+# TRANS #         : 2222
+# Author          : L.Koester et al.
+# Reference       : Z.Phys.A 323 (1986) 359
+# DOI             : 10.1007/BF01283794
+# Quantity        : natSb(n,tot) cross section
+# REACTION        : 51-SB-0(N,TOT),,SIG
+# File ID         : n-Sb-tot-sig-excfun-mon-Koester_1986_22001.018
+#
+# npts            : 2           
+# xmin            :   1.2600E+00
+# xmax            :   5.1900E+00
+# ymin            :   4.8240E+00
+# ymax            :   9.3000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+00  1.0000E-01  4.8240E+00  1.0000E-02
+  5.1900E+00  1.0000E-01  9.3000E+00  1.0000E-01
+#---------------------------------------------------

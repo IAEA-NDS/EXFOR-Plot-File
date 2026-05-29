@@ -1,0 +1,22 @@
+# EXFOR #         : 12899.003  
+# EXFOR Ver.      : 20141126
+# TRANS #         : 1404
+# Author          : R.C.Haight et al.
+# Reference       : Nucl.Sci.Eng. 87 (1984) 41
+# DOI             : 10.13182/NSE84-A17444
+# Quantity        : 12C(n,n+2a)4He cross section
+# REACTION        : 6-C-12(N,N+2A)2-HE-4,,SIG
+# File ID         : n-C12-n2a-sig-excfun-mon-prodHe4_Haight_1984_12899.003
+#
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   1.1000E-01
+# ymax            :   1.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  1.5000E+05  1.1000E-01  1.5000E-02
+#---------------------------------------------------

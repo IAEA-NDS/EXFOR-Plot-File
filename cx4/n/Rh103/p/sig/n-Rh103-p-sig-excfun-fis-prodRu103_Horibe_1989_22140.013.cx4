@@ -1,0 +1,22 @@
+# EXFOR #         : 22140.013  
+# EXFOR Ver.      : 20160113
+# TRANS #         : 2246
+# Author          : O.Horibe et al.
+# Reference       : Proceedings of 50 Years Nucl.Fission Conf., Washington D.C., 1989 2 page 923
+# DOI             : N/A
+# Quantity        : 103Rh(n,p)103Ru cross section
+# REACTION        : 45-RH-103(N,P)44-RU-103,,SIG,,FIS
+# File ID         : n-Rh103-p-sig-excfun-fis-prodRu103_Horibe_1989_22140.013
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.1900E-04
+# ymax            :   1.1900E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.1900E-04  1.3000E-05
+#---------------------------------------------------

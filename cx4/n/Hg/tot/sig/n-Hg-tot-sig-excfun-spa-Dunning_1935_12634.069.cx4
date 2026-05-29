@@ -1,0 +1,23 @@
+# EXFOR #         : 12634.069  
+# EXFOR Ver.      : 20260219
+# TRANS #         : 1527
+# Author          : J.R.Dunning et al.
+# Reference       : Phys.Rev. 48 (1935) 265
+# DOI             : 10.1103/PhysRev.48.265
+# Quantity        : natHg(n,tot) cross section
+# REACTION        : 80-HG-0(N,TOT),,SIG,,SPA
+# File ID         : n-Hg-tot-sig-excfun-spa-Dunning_1935_12634.069
+#
+# npts            : 2           
+# xmin            :   2.5000E-02
+# xmax            :   5.0000E+06
+# ymin            :   5.8000E+00
+# ymax            :   3.8000E+02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E-02  0.0000E+00  3.8000E+02  0.0000E+00
+  5.0000E+06  0.0000E+00  5.8000E+00  0.0000E+00
+#---------------------------------------------------

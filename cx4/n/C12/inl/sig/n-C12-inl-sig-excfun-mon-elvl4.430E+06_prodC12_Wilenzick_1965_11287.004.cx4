@@ -1,0 +1,24 @@
+# EXFOR #         : 11287.004  
+# EXFOR Ver.      : 20171126
+# TRANS #         : 1437
+# Author          : R.M.Wilenzick et al.
+# Reference       : Nucl.Phys. 62 (1965) 511
+# DOI             : 10.1016/0029-5582(65)90496-7
+# Quantity        : 12C(n,inl)12C partial cross section
+# REACTION        : 6-C-12(N,INL)6-C-12,PAR,SIG
+# File ID         : n-C12-inl-sig-excfun-mon-elvl4.430E+06_prodC12_Wilenzick_1965_11287.004
+#
+# Elvl (eV)       :   4.4300E+06
+#
+# npts            : 1           
+# xmin            :   6.0400E+06
+# xmax            :   6.0400E+06
+# ymin            :   2.2500E-01
+# ymax            :   2.2500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0400E+06  2.3000E+05  2.2500E-01  2.5000E-02
+#---------------------------------------------------

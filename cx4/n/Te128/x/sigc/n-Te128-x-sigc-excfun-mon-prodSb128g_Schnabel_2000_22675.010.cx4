@@ -1,0 +1,22 @@
+# EXFOR #         : 22675.010  
+# EXFOR Ver.      : 20151215
+# TRANS #         : 2246
+# Author          : C.Schnabel et al.
+# Reference       : Radiochim.Acta 88 (2000) 439
+# DOI             : 10.1524/ract.2000.88.8.439
+# Quantity        : 128Te(n,p)128gSb cumulative production cross section
+# REACTION        : 52-TE-128(N,P)51-SB-128-G,M+,SIG
+# File ID         : n-Te128-x-sigc-excfun-mon-prodSb128g_Schnabel_2000_22675.010
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   1.0200E-03
+# ymax            :   1.0200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  0.0000E+00  1.0200E-03  9.0000E-05
+#---------------------------------------------------

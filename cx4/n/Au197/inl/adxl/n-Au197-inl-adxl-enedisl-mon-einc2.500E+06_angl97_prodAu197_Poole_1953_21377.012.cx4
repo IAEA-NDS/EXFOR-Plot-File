@@ -1,0 +1,26 @@
+# EXFOR #         : 21377.012  
+# EXFOR Ver.      : 20170805
+# TRANS #         : 2263
+# Author          : M.J.Poole
+# Reference       : Philos.Mag. 44 (1953) 1398
+# DOI             : 10.1080/14786441208520409
+# Quantity        : 197Au(n,inl)197Au partial angular differential cross section
+# REACTION        : 79-AU-197(N,INL)79-AU-197,PAR,DA
+# File ID         : n-Au197-inl-adxl-enedisl-mon-einc2.500E+06_angl97_prodAu197_Poole_1953_21377.012
+#
+# Einc (eV)       :   2.5000E+06
+# dEinc (eV)      :   2.0000E+05
+# theta,lab (deg) :   97.0000000
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   7.0000E-02
+# ymax            :   7.0000E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.5000E+06  5.0000E+05  7.0000E-02  3.0000E-02
+#---------------------------------------------------

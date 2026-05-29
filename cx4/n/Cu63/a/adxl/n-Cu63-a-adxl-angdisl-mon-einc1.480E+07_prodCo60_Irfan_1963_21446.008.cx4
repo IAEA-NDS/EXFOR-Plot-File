@@ -1,0 +1,24 @@
+# EXFOR #         : 21446.008  
+# EXFOR Ver.      : 19800318
+# TRANS #         : 0000
+# Author          : M.Irfan et al.
+# Reference       : Proc.Phys.Soc.(UK) 81 (1963) 808
+# DOI             : 10.1088/0370-1328/81/5/303
+# Quantity        : 63Cu(n,a)60Co angular differential cross section
+# REACTION        : 29-CU-63(N,A)27-CO-60,,DA
+# File ID         : n-Cu63-a-adxl-angdisl-mon-einc1.480E+07_prodCo60_Irfan_1963_21446.008
+#
+# Einc (eV)       :   1.4800E+07
+#
+# npts            : 1           
+# xmin            :   55.0000000
+# xmax            :   55.0000000
+# ymin            :   5.6500E-03
+# ymax            :   5.6500E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  55.0000000  55.0000000  5.6500E-03  5.5000E-04
+#---------------------------------------------------

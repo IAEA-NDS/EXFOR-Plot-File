@@ -1,0 +1,22 @@
+# EXFOR #         : 20770.003  
+# EXFOR Ver.      : 20090108
+# TRANS #         : 2207
+# Author          : R.Rieppo et al.
+# Reference       : J.Inorg.Nucl.Chem. 38 No.11 (1976) 1927
+# DOI             : 10.1016/0022-1902(76)80439-3
+# Quantity        : 72Ge(n,p)72Ga cross section
+# REACTION        : 32-GE-72(N,P)31-GA-72,,SIG
+# File ID         : n-Ge72-p-sig-excfun-mon-prodGa72_Rieppo_1976_20770.003
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   4.2000E-02
+# ymax            :   4.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  3.0000E+05  4.2000E-02  4.0000E-03
+#---------------------------------------------------

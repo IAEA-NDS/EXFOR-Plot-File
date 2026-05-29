@@ -1,0 +1,22 @@
+# EXFOR #         : 22933.003  
+# EXFOR Ver.      : 20061127
+# TRANS #         : 2181
+# Author          : K.Furutaka et al.
+# Reference       : J.Nucl.Radiochem.Sc. 6 No.3 (2005) 283
+# DOI             : 10.14494/jnrs2000.6.3_283
+# Quantity        : 99Tc(n,g)100Tc cross section
+# REACTION        : 43-TC-99(N,G)43-TC-100,,SIG
+# File ID         : n-Tc99-g-sig-excfun-mon-prodTc100_Furutaka_2005_22933.003
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.2800E+01
+# ymax            :   2.2800E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  2.2800E+01  1.8000E+00
+#---------------------------------------------------

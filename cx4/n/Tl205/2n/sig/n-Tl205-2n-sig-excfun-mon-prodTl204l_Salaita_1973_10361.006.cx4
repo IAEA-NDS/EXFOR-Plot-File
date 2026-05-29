@@ -1,0 +1,22 @@
+# EXFOR #         : 10361.006  
+# EXFOR Ver.      : 20230707
+# TRANS #         : 1507
+# Author          : G.N.Salaita et al.
+# Reference       : J.Inorg.Nucl.Chem. 35 (1973) 2139
+# DOI             : 10.1016/0022-1902(73)80276-3
+# Quantity        : 205Tl(n,2n)204lTl cross section
+# REACTION        : 81-TL-205(N,2N)81-TL-204-L,,SIG
+# File ID         : n-Tl205-2n-sig-excfun-mon-prodTl204l_Salaita_1973_10361.006
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   6.6400E-01
+# ymax            :   6.6400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  3.0000E+05  6.6400E-01  5.3000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 21461.002  
+# EXFOR Ver.      : 20160621
+# TRANS #         : 2251
+# Author          : B.Leroux et al.
+# Reference       : Nucl.Phys.A 116 No.1 (1968) 196
+# DOI             : 10.1016/0375-9474(68)90491-0
+# Quantity        : 16O(n,a)13C cross section
+# REACTION        : 8-O-16(N,A)6-C-13,,SIG
+# File ID         : n-O16-a-sig-excfun-mon-prodC13_Leroux_1968_21461.002
+#
+# npts            : 1           
+# xmin            :   1.4900E+07
+# xmax            :   1.4900E+07
+# ymin            :   2.5000E-01
+# ymax            :   2.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4900E+07  3.0000E+05  2.5000E-01  7.5000E-02
+#---------------------------------------------------

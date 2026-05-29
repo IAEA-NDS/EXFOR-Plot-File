@@ -1,0 +1,22 @@
+# EXFOR #         : 13586.007  
+# EXFOR Ver.      : 20090928
+# TRANS #         : 1357
+# Author          : J.W.Meadows et al.
+# Reference       : Ann.Nucl.Energy 23 (1996) 877
+# DOI             : 10.1016/0306-4549(95)00068-2
+# Quantity        : 151Eu(n,2n)150gEu cross section
+# REACTION        : 63-EU-151(N,2N)63-EU-150-G,,SIG
+# File ID         : n-Eu151-2n-sig-excfun-mon-prodEu150g_Meadows_1996_13586.007
+#
+# npts            : 1           
+# xmin            :   1.0000E+07
+# xmax            :   1.0000E+07
+# ymin            :   2.8200E-01
+# ymax            :   2.8200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+07  2.0000E+05  2.8200E-01  3.1866E-02
+#---------------------------------------------------

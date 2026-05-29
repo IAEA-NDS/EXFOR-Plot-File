@@ -1,0 +1,28 @@
+# EXFOR #         : 22531.005  
+# EXFOR Ver.      : 20040227
+# TRANS #         : 0000
+# Author          : K.Tsukada et al.
+# Reference       : J.Phys.Soc.Jpn. 16 (1961) 166
+# DOI             : 10.1143/JPSJ.16.166
+# Quantity        : natZn(n,el)natZn angular differential cross section
+# REACTION        : 30-ZN-0(N,EL)30-ZN-0,,DA
+# File ID         : n-Zn-el-adxl-excfun-mon-angl90_prodZn_Tsukada_1961_22531.005
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 5           
+# xmin            :   3.4400E+06
+# xmax            :   4.6100E+06
+# ymin            :   2.4400E-02
+# ymax            :   5.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.4400E+06  4.0000E+05  5.3000E-02  1.1000E-02
+  3.8300E+06  3.5000E+05  4.4900E-02  9.3000E-03
+  4.0700E+06  3.3000E+05  3.8400E-02  9.0000E-03
+  4.3000E+06  3.0000E+05  4.2500E-02  9.7000E-03
+  4.6100E+06  2.8000E+05  2.4400E-02  5.1000E-03
+#---------------------------------------------------

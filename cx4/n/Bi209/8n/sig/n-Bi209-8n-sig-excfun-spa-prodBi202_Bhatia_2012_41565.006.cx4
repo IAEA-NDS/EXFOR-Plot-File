@@ -1,0 +1,22 @@
+# EXFOR #         : 41565.006  
+# EXFOR Ver.      : 20121010
+# TRANS #         : 4158
+# Author          : C.Bhatia et al.
+# Reference       : Appl.Radiat.Isot. 70 (2012) 1254
+# DOI             : 10.1016/j.apradiso.2011.11.020
+# Quantity        : 209Bi(n,8n)202Bi cross section
+# REACTION        : 83-BI-209(N,8N)83-BI-202,,SIG,,SPA
+# File ID         : n-Bi209-8n-sig-excfun-spa-prodBi202_Bhatia_2012_41565.006
+#
+# npts            : 1           
+# xmin            :   1.2714E+08
+# xmax            :   1.2714E+08
+# ymin            :   2.8900E-03
+# ymax            :   2.8900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2714E+08  7.2855E+07  2.8900E-03  2.3000E-04
+#---------------------------------------------------

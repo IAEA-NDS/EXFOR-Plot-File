@@ -1,0 +1,25 @@
+# EXFOR #         : 13475.002  
+# EXFOR Ver.      : 20200116
+# TRANS #         : 1462
+# Author          : J.E.Sattizahn et al.
+# Reference       : J.Inorg.Nucl.Chem. 12 (1960) 206
+# DOI             : 10.1016/0022-1902(60)80363-6
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+# File ID         : n-U235-f-fyc-nucdis-spa-einc2.530E-02_Sattizahn_1960_13475.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 35084.0     
+# xmax            : 35084.1     
+# ymin            :   1.9000E-04
+# ymax            :   9.2000E-03
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     35084.0  9.2000E-03  6.0000E-04
+     35084.1  1.9000E-04  3.0000E-05
+#---------------------------------------------------

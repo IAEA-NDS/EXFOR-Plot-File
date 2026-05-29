@@ -1,0 +1,24 @@
+# EXFOR #         : 22827.017  
+# EXFOR Ver.      : 20151216
+# TRANS #         : 2246
+# Author          : H.Sakane et al.
+# Reference       : Ann.Nucl.Energy 30 (2003) 1847
+# DOI             : 10.1016/S0306-4549(03)00160-9
+# Quantity        : 130Te(n,x)129gSb cumulative production cross section
+# REACTION        : 52-TE-130(N,X)51-SB-129-G,M+,SIG
+# File ID         : n-Te130-x-sigc-excfun-mon-prodSb129g_Sakane_2003_22827.017
+#
+# npts            : 3           
+# xmin            :   1.4350E+07
+# xmax            :   1.4870E+07
+# ymin            :   1.6000E-04
+# ymax            :   4.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4870E+07  0.0000E+00  4.5000E-04  4.9500E-05
+  1.4640E+07  0.0000E+00  2.0000E-04  2.2000E-05
+  1.4350E+07  0.0000E+00  1.6000E-04  1.9200E-05
+#---------------------------------------------------

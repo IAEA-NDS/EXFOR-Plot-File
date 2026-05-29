@@ -1,0 +1,32 @@
+# EXFOR #         : 11218.029  
+# EXFOR Ver.      : 19800820
+# TRANS #         : 0000
+# Author          : R.B.Day
+# Reference       : Phys.Rev. 102 (1956) 767
+# DOI             : 10.1103/PhysRev.102.767
+# Quantity        : natPb(n,inl)natPb partial gamma angular differential cross section
+# REACTION        : 82-PB-0(N,INL),PAR,DA,G,4PI
+# File ID         : n-Pb-inl-adxgl-enedisl-mon-einc2.560E+06_angl95_prodPb_Day_1956_11218.029
+#
+# Einc (eV)       :   2.5600E+06
+# dEinc (eV)      :   3.0000E+04
+# theta,lab (deg) :   95.0000000
+#
+# npts            : 7           
+# xmin            :   5.3300E+05
+# xmax            :   1.7300E+06
+# ymin            :   2.4669E-03
+# ymax            :   2.6340E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.3300E+05  0.0000E+00  1.0902E-02  1.9894E-03
+  5.7000E+05  0.0000E+00  1.6313E-02  2.8648E-03
+  6.6100E+05  0.0000E+00  5.2521E-03  1.5915E-03
+  8.0200E+05  0.0000E+00  2.6340E-02  2.8648E-03
+  8.8800E+05  0.0000E+00  1.0902E-02  1.5915E-03
+  1.4300E+06  0.0000E+00  2.4669E-03  1.1937E-03
+  1.7300E+06  0.0000E+00  3.6606E-03  1.5915E-03
+#---------------------------------------------------

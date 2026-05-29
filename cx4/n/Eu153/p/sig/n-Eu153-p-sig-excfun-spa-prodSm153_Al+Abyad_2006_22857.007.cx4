@@ -1,0 +1,22 @@
+# EXFOR #         : 22857.007  
+# EXFOR Ver.      : 20170301
+# TRANS #         : 2259
+# Author          : M.Al-Abyad et al.
+# Reference       : Appl.Radiat.Isot. 64 (2006) 717
+# DOI             : 10.1016/j.apradiso.2005.12.020
+# Quantity        : 153Eu(n,p)153Sm cross section
+# REACTION        : 63-EU-153(N,P)62-SM-153,,SIG,,SPA
+# File ID         : n-Eu153-p-sig-excfun-spa-prodSm153_Al+Abyad_2006_22857.007
+#
+# npts            : 1           
+# xmin            :   3.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   2.6000E-04
+# ymax            :   2.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  0.0000E+00  2.6000E-04  4.0000E-05
+#---------------------------------------------------

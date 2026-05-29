@@ -1,0 +1,22 @@
+# EXFOR #         : 30266.003  
+# EXFOR Ver.      : 20081203
+# TRANS #         : 3132
+# Author          : A.Pazsit et al.
+# Reference       : Appl.Radiat.Isot. 26 (1975) 621
+# DOI             : 10.1016/0020-708X(75)90080-0
+# Quantity        : 103Rh(n,inl)103mRh cross section
+# REACTION        : 45-RH-103(N,INL)45-RH-103-M,,SIG
+# File ID         : n-Rh103-inl-sig-excfun-mon-prodRh103m_Pazsit_1975_30266.003
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   2.1600E-01
+# ymax            :   2.1600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  2.0000E+05  2.1600E-01  2.6000E-02
+#---------------------------------------------------

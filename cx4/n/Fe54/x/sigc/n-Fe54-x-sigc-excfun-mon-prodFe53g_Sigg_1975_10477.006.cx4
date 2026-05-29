@@ -1,0 +1,22 @@
+# EXFOR #         : 10477.006  
+# EXFOR Ver.      : 20031103
+# TRANS #         : 0000
+# Author          : R.A.Sigg et al.
+# Reference       : J.Inorg.Nucl.Chem. 37 (1975) 631
+# DOI             : 10.1016/0022-1902(75)80511-2
+# Quantity        : 54Fe(n,2n)53gFe cumulative production cross section
+# REACTION        : 26-FE-54(N,2N)26-FE-53-G,(M),SIG
+# File ID         : n-Fe54-x-sigc-excfun-mon-prodFe53g_Sigg_1975_10477.006
+#
+# npts            : 1           
+# xmin            :   1.4800E+07
+# xmax            :   1.4800E+07
+# ymin            :   1.5000E-02
+# ymax            :   1.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  2.0000E+05  1.5000E-02  1.3000E-03
+#---------------------------------------------------

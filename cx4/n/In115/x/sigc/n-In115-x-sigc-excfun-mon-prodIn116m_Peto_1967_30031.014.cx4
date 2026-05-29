@@ -1,0 +1,22 @@
+# EXFOR #         : 30031.014  
+# EXFOR Ver.      : 20070806
+# TRANS #         : 3123
+# Author          : G.Peto et al.
+# Reference       : J.Nucl.Energy 21 (1967) 797
+# DOI             : 10.1016/0022-3107(67)90089-5
+# Quantity        : 115In(n,g)116m1In cumulative production cross section
+# REACTION        : 49-IN-115(N,G)49-IN-116-M1,M+,SIG
+# File ID         : n-In115-x-sigc-excfun-mon-prodIn116m_Peto_1967_30031.014
+#
+# npts            : 1           
+# xmin            :   3.0000E+06
+# xmax            :   3.0000E+06
+# ymin            :   6.8000E-02
+# ymax            :   6.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  2.0000E+05  6.8000E-02  1.0000E-02
+#---------------------------------------------------

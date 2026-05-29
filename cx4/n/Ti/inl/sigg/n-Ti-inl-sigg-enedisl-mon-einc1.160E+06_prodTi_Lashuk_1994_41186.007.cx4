@@ -1,0 +1,26 @@
+# EXFOR #         : 41186.007  
+# EXFOR Ver.      : 20191107
+# TRANS #         : 4184
+# Author          : A.I.Lashuk et al.
+# Reference       : Yad.Reak.Konst.  No.1 (1994) 26
+# DOI             : N/A
+# Quantity        : natTi(n,inl)natTi partial gamma production cross section
+# REACTION        : 22-TI-0(N,INL)22-TI-0,PAR,SIG,G
+# File ID         : n-Ti-inl-sigg-enedisl-mon-einc1.160E+06_prodTi_Lashuk_1994_41186.007
+#
+# Einc (eV)       :   1.1600E+06
+#
+# npts            : 3           
+# xmin            :   1.6000E+05
+# xmax            :   9.8200E+05
+# ymin            :   3.4000E-02
+# ymax            :   3.2800E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+05  0.0000E+00  7.0000E-02  7.0000E-03
+  8.9000E+05  0.0000E+00  3.4000E-02  3.0000E-03
+  9.8200E+05  0.0000E+00  3.2800E-01  2.3000E-02
+#---------------------------------------------------

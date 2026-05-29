@@ -1,0 +1,26 @@
+# EXFOR #         : 41590.002  
+# EXFOR Ver.      : 20131129
+# TRANS #         : 4162
+# Author          : V.M.Piksaykin et al.
+# Reference       : Report INDC(NDS)-0646, 2013
+# DOI             : N/A
+# Quantity        : 241Am(n,f) delayed fission neutron multiplicity
+# REACTION        : 95-AM-241(N,F),DL,NU
+# File ID         : n-Am241-f-nud-excfun-mon-Piksaykin_2013_41590.002
+#
+# npts            : 5           
+# xmin            :   8.6000E+05
+# xmax            :   4.8500E+06
+# ymin            :   3.3000E-03
+# ymax            :   5.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-d        dnu-d       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  8.6000E+05  0.0000E+00  3.3000E-03  5.0000E-04
+  9.6000E+05  0.0000E+00  3.6000E-03  5.4000E-04
+  1.0100E+06  0.0000E+00  4.6000E-03  6.9000E-04
+  3.8500E+06  0.0000E+00  4.9000E-03  7.4000E-04
+  4.8500E+06  0.0000E+00  5.4000E-03  8.2000E-04
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : 11698.008  
+# EXFOR Ver.      : 19831011
+# TRANS #         : 0000
+# Author          : S.M.Schectman et al.
+# Reference       : Bull.Am.Phys.Soc. 10 (1965) 498(GB4)
+# DOI             : N/A
+# Quantity        : 209Bi(n,inl)209Bi partial angular differential cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,DA
+# File ID         : n-Bi209-inl-adxl-angdisl-mon-einc1.410E+07_eoutl3.000E+06_prodBi209_Schectman_1965_11698.008
+#
+# Einc (eV)       :   1.4100E+07
+# Eout,lab (eV)   :   3.0000E+06
+# dEout,lab (eV)  :   2.0000E+06
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   2.4000E-01
+# ymax            :   2.4000E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  2.4000E-01  4.8000E-02
+#---------------------------------------------------

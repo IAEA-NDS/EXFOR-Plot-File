@@ -1,0 +1,25 @@
+# EXFOR #         : 13244.003  
+# EXFOR Ver.      : 20210409
+# TRANS #         : 1482
+# Author          : B.R.Erdal et al.
+# Reference       : J.Inorg.Nucl.Chem. 31 (1969) 2993
+# DOI             : 10.1016/0022-1902(69)80080-1
+# Quantity        : 235U(n,f) cumulative fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+# File ID         : n-U235-f-fyc-nucdis-mxw-einc2.530E-02_Erdal_1969_13244.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            : 50127.0     
+# xmax            : 50128.9     
+# ymin            :   6.7000E-04
+# ymax            :   3.1400E-03
+#
+#---------------------------------------------------
+# Product     FY,cum      dFY,cum     
+#              /fis         /fis      
+#---------------------------------------------------
+     50127.0  6.7000E-04  1.0000E-05
+     50128.9  3.1400E-03  4.0000E-05
+#---------------------------------------------------

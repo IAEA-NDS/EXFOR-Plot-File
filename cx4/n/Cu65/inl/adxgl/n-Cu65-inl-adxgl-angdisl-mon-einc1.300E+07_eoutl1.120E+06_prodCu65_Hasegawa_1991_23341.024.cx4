@@ -1,0 +1,25 @@
+# EXFOR #         : 23341.024  
+# EXFOR Ver.      : 20170714
+# TRANS #         : 2262
+# Author          : K.Hasegawa et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 329
+# DOI             : N/A
+# Quantity        : 65Cu(n,inl)65Cu partial gamma angular differential cross section
+# REACTION        : 29-CU-65(N,INL)29-CU-65,PAR,DA,G,A
+# File ID         : n-Cu65-inl-adxgl-angdisl-mon-einc1.300E+07_eoutl1.120E+06_prodCu65_Hasegawa_1991_23341.024
+#
+# Einc (eV)       :   1.3000E+07
+# Eout,lab (eV)   :   1.1200E+06
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   6.2237E-04
+# ymax            :   6.2237E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  6.2237E-04  1.0697E-04
+#---------------------------------------------------

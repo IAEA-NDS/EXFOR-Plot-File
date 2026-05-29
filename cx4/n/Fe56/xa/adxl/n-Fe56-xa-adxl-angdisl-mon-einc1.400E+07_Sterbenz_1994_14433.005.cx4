@@ -1,0 +1,27 @@
+# EXFOR #         : 14433.005  
+# EXFOR Ver.      : 20150805
+# TRANS #         : 1409
+# Author          : S.M.Sterbenz et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 1 page 314
+# DOI             : N/A
+# Quantity        : 56Fe(n,a+x) angular differential cross section
+# REACTION        : 26-FE-56(N,X)2-HE-4,,DA
+# File ID         : n-Fe56-xa-adxl-angdisl-mon-einc1.400E+07_Sterbenz_1994_14433.005
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 4           
+# xmin            :   30.0000000
+# xmax            :  135.0000000
+# ymin            :   2.2840E-03
+# ymax            :   5.2190E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  5.2190E-03  3.5100E-04
+  60.0000000   0.0000000  3.5630E-03  1.4000E-04
+  90.0000000   0.0000000  2.7850E-03  4.2100E-04
+ 135.0000000   0.0000000  2.2840E-03  2.4600E-04
+#---------------------------------------------------

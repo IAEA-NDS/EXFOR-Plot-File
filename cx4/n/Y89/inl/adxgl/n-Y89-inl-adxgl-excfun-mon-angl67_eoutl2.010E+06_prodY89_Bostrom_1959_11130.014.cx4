@@ -1,0 +1,28 @@
+# EXFOR #         : 11130.014  
+# EXFOR Ver.      : 19800814
+# TRANS #         : 0000
+# Author          : N.A.Bostrom et al.
+# Reference       : Report WADC-TN-59-107, 1959
+# DOI             : N/A
+# Quantity        : 89Y(n,inl)89Y partial gamma angular differential cross section
+# REACTION        : 39-Y-89(N,INL)39-Y-89,PAR,DA,G
+# File ID         : n-Y89-inl-adxgl-excfun-mon-angl67_eoutl2.010E+06_prodY89_Bostrom_1959_11130.014
+#
+# theta,lab (deg) :   67.0000000
+# Eout,lab (eV)   :   2.0100E+06
+#
+# npts            : 4           
+# xmin            :   3.4600E+06
+# xmax            :   4.5900E+06
+# ymin            :   2.7000E-03
+# ymax            :   1.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.4600E+06  1.4000E+05  2.7000E-03  2.2000E-03
+  3.8000E+06  1.1000E+05  3.1000E-03  2.0000E-03
+  4.2000E+06  9.0000E+04  9.1000E-03  4.5000E-03
+  4.5900E+06  7.0000E+04  1.2000E-02  7.0000E-03
+#---------------------------------------------------

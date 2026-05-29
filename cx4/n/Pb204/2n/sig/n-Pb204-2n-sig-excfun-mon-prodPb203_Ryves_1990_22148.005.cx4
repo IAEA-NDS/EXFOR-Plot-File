@@ -1,0 +1,22 @@
+# EXFOR #         : 22148.005  
+# EXFOR Ver.      : 19910124
+# TRANS #         : 0000
+# Author          : T.B.Ryves et al.
+# Reference       : Ann.Nucl.Energy 17 (1990) 107
+# DOI             : 10.1016/0306-4549(90)90014-5
+# Quantity        : 204Pb(n,2n)203Pb cross section
+# REACTION        : 82-PB-204(N,2N)82-PB-203,,SIG
+# File ID         : n-Pb204-2n-sig-excfun-mon-prodPb203_Ryves_1990_22148.005
+#
+# npts            : 1           
+# xmin            :   1.4300E+07
+# xmax            :   1.4300E+07
+# ymin            :   2.2100E+00
+# ymax            :   2.2100E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4300E+07  1.0000E+05  2.2100E+00  1.1271E-01
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : 23420.019.1
+# EXFOR Ver.      : 20211123
+# TRANS #         : 2305
+# Author          : F.Kappeler et al.
+# Reference       : Phys.Rev.C 53 (1996) 1397
+# DOI             : 10.1103/PhysRevC.53.1397
+# Quantity        : 138Ce(n,g)139Ce cross section
+# REACTION        : 58-CE-138(N,G)58-CE-139,,SIG,,MXW
+# File ID         : n-Ce138-g-sig-excfun-mxw-prodCe139_Kappeler_1996_23420.019.1
+#
+# npts            : 1           
+# xmin            :   2.5000E+04
+# xmax            :   2.5000E+04
+# ymin            :   2.0300E-01
+# ymax            :   2.0300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+04  0.0000E+00  2.0300E-01  5.0000E-03
+#---------------------------------------------------

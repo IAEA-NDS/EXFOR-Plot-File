@@ -1,0 +1,25 @@
+# EXFOR #         : 14325.004  
+# EXFOR Ver.      : 20120522
+# TRANS #         : 1383
+# Author          : F.C.Engesser et al.
+# Reference       : Report USNRDL-TR-916, 1965
+# DOI             : N/A
+# Quantity        : 26Mg(n,inl)26Mg partial gamma angular differential cross section
+# REACTION        : 12-MG-26(N,INL)12-MG-26,PAR,DA,G
+# File ID         : n-Mg26-inl-adxgl-enedisl-mon-einc2.800E+06_angl90_prodMg26_Engesser_1965_14325.004
+#
+# Einc (eV)       :   2.8000E+06
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 1           
+# xmin            :   1.8300E+06
+# xmax            :   1.8300E+06
+# ymin            :   5.1100E-02
+# ymax            :   5.1100E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.8300E+06  0.0000E+00  5.1100E-02  0.0000E+00
+#---------------------------------------------------

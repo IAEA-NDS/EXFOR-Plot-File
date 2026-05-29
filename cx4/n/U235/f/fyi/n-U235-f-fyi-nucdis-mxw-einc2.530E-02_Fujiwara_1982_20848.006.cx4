@@ -1,0 +1,26 @@
+# EXFOR #         : 20848.006  
+# EXFOR Ver.      : 20220205
+# TRANS #         : 2309
+# Author          : I.Fujiwara et al.
+# Reference       : J.Phys.Soc.Jpn. 51 (1982) 1713
+# DOI             : 10.1143/JPSJ.51.1713
+# Quantity        : 235U(n,f) independent fission product yield
+# REACTION        : 92-U-235(N,F)ELEM/MASS,IND,FY,,MXW
+# File ID         : n-U235-f-fyi-nucdis-mxw-einc2.530E-02_Fujiwara_1982_20848.006
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 3           
+# xmin            : 54135.9     
+# xmax            : 54135.9     
+# ymin            :   8.3000E-04
+# ymax            :   2.3000E-03
+#
+#---------------------------------------------------
+# Product     FY,ind      dFY,ind     
+#              /fis         /fis      
+#---------------------------------------------------
+     54135.9  2.3000E-03  2.0000E-04
+     54135.9  1.5000E-03  2.0000E-04
+     54135.9  8.3000E-04  1.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : 12875.005  
+# EXFOR Ver.      : 19840725
+# TRANS #         : 0000
+# Author          : C.S.Whisnant et al.
+# Reference       : Phys.Rev.C 30 (1984) 1435
+# DOI             : 10.1103/PhysRevC.30.1435
+# Quantity        : 27Al(n,inl)27Al partial cross section
+# REACTION        : 13-AL-27(N,INL)13-AL-27,PAR,SIG
+# File ID         : n-Al27-inl-sig-lvldis-mon-einc1.388E+07_prodAl27_Whisnant_1984_12875.005
+#
+# Einc (eV)       :   1.3883E+07
+#
+# npts            : 1           
+# xmin            :   2.2100E+06
+# xmax            :   2.2100E+06
+# ymin            :   4.0200E-02
+# ymax            :   4.0200E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2100E+06  0.0000E+00  4.0200E-02  8.0000E-03
+#---------------------------------------------------

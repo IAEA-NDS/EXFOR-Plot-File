@@ -1,0 +1,27 @@
+# EXFOR #         : 41186.020  
+# EXFOR Ver.      : 20191107
+# TRANS #         : 4184
+# Author          : A.I.Lashuk et al.
+# Reference       : Yad.Reak.Konst.  No.1 (1994) 26
+# DOI             : N/A
+# Quantity        : natSb(n,inl)natSb partial gamma production cross section
+# REACTION        : 51-SB-0(N,INL)51-SB-0,PAR,SIG,G
+# File ID         : n-Sb-inl-sigg-enedisl-mon-einc7.400E+05_prodSb_Lashuk_1994_41186.020
+#
+# Einc (eV)       :   7.4000E+05
+#
+# npts            : 4           
+# xmin            :   1.6100E+05
+# xmax            :   5.7300E+05
+# ymin            :   2.1000E-02
+# ymax            :   4.4300E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6100E+05  0.0000E+00  4.4300E-01  4.4000E-02
+  3.8000E+05  0.0000E+00  4.0000E-02  4.0000E-03
+  5.0800E+05  0.0000E+00  9.7000E-02  1.0000E-02
+  5.7300E+05  0.0000E+00  2.1000E-02  3.0000E-03
+#---------------------------------------------------

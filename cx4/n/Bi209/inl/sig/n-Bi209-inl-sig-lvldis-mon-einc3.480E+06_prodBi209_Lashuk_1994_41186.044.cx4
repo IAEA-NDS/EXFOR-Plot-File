@@ -1,0 +1,25 @@
+# EXFOR #         : 41186.044  
+# EXFOR Ver.      : 20191107
+# TRANS #         : 4184
+# Author          : A.I.Lashuk et al.
+# Reference       : Yad.Reak.Konst.  No.1 (1994) 26
+# DOI             : N/A
+# Quantity        : 209Bi(n,inl)209Bi partial cross section
+# REACTION        : 83-BI-209(N,INL)83-BI-209,PAR,SIG
+# File ID         : n-Bi209-inl-sig-lvldis-mon-einc3.480E+06_prodBi209_Lashuk_1994_41186.044
+#
+# Einc (eV)       :   3.4800E+06
+#
+# npts            : 2           
+# xmin            :   8.9400E+05
+# xmax            :   2.7370E+06
+# ymin            :   3.5500E-01
+# ymax            :   4.9000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.9400E+05  0.0000E+00  4.9000E-01  5.1000E-02
+  2.7370E+06  0.0000E+00  3.5500E-01  3.9000E-02
+#---------------------------------------------------

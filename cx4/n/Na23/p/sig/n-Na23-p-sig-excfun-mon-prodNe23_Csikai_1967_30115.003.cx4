@@ -1,0 +1,22 @@
+# EXFOR #         : 30115.003  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : J.Csikai et al.
+# Reference       : Nucl.Phys.A 91 (1967) 222
+# DOI             : 10.1016/0375-9474(67)90463-0
+# Quantity        : 23Na(n,p)23Ne cross section
+# REACTION        : 11-NA-23(N,P)10-NE-23,,SIG
+# File ID         : n-Na23-p-sig-excfun-mon-prodNe23_Csikai_1967_30115.003
+#
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   3.9000E-02
+# ymax            :   3.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4700E+07  0.0000E+00  3.9000E-02  4.0000E-03
+#---------------------------------------------------

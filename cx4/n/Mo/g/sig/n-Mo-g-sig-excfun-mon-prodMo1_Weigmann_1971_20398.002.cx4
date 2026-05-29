@@ -1,0 +1,26 @@
+# EXFOR #         : 20398.002  
+# EXFOR Ver.      : 19840109
+# TRANS #         : 0000
+# Author          : H.Weigmann et al.
+# Reference       : Proceedings of 3rd Conf.Neutron Cross-Sections+Tech.,Knoxville 1971 page 749
+# DOI             : N/A
+# Quantity        : natMo(n,g) cross section
+# REACTION        : 42-MO-0(N,G),,SIG,,AV
+# File ID         : n-Mo-g-sig-excfun-mon-prodMo1_Weigmann_1971_20398.002
+#
+# npts            : 5           
+# xmin            :   1.1000E+03
+# xmax            :   1.8600E+03
+# ymin            :   6.0000E-01
+# ymax            :   1.0100E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1000E+03  1.0000E+02  7.7000E-01  7.0000E-02
+  1.3000E+03  1.0000E+02  6.2000E-01  6.0000E-02
+  1.4900E+03  9.0000E+01  1.0100E+00  9.0000E-02
+  1.6750E+03  9.5000E+01  7.4000E-01  7.0000E-02
+  1.8600E+03  9.0000E+01  6.0000E-01  6.0000E-02
+#---------------------------------------------------

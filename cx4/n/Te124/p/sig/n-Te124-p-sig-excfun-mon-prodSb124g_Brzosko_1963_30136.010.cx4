@@ -1,0 +1,22 @@
+# EXFOR #         : 30136.010  
+# EXFOR Ver.      : 20100303
+# TRANS #         : 3144
+# Author          : J.Brzosko et al.
+# Reference       : Nucl.Phys. 45 (1963) 579
+# DOI             : 10.1016/0029-5582(63)90833-2
+# Quantity        : 124Te(n,p)124gSb cross section
+# REACTION        : 52-TE-124(N,P)51-SB-124-G,,SIG
+# File ID         : n-Te124-p-sig-excfun-mon-prodSb124g_Brzosko_1963_30136.010
+#
+# npts            : 1           
+# xmin            :   1.4200E+07
+# xmax            :   1.4200E+07
+# ymin            :   1.4400E-01
+# ymax            :   1.4400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+07  2.0000E+05  1.4400E-01  4.0000E-02
+#---------------------------------------------------

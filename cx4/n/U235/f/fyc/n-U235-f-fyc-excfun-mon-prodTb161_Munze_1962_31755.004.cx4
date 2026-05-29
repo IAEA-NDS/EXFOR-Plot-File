@@ -1,0 +1,22 @@
+# EXFOR #         : 31755.004  
+# EXFOR Ver.      : 20150506
+# TRANS #         : 3170
+# Author          : R.Munze et al.
+# Reference       : Kernenergie 5 (1962) 472
+# DOI             : N/A
+# Quantity        : 235U(n,f)161Tb cumulative fission product yield
+# REACTION        : 92-U-235(N,F)65-TB-161,CUM,FY
+# File ID         : n-U235-f-fyc-excfun-mon-prodTb161_Munze_1962_31755.004
+#
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   7.4000E-07
+# ymax            :   7.4000E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       FY,cum      dFY,cum     
+#  eV          eV          /fis         /fis      
+#---------------------------------------------------
+  2.5300E-02  0.0000E+00  7.4000E-07  1.5000E-07
+#---------------------------------------------------
