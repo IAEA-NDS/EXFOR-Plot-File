@@ -1,12 +1,12 @@
-# EXFOR CX4 File (CX4)
-The EXFOR CX4 File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to CX4 (Compact EXFOR Format) by ForEXy [1]. See [2] for the original EXFOR Library.
+# EXFOR Plot File (CX4)
+The EXFOR Plot File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to CX4 (Compact EXFOR Format) by ForEXy [1]. See [2] for the original EXFOR Library.
 
 **Download**
 
-- download individual files of the current version from the [EXFOR CX4 File](https://nds.iaea.org/nrdc/exfor-master/cx4/) website, or
+- download individual files of the current version from the [EXFOR Plot File](https://nds.iaea.org/nrdc/exfor-master/cx4/) website, or
 - download the full repository of the current version by using the terminal command:
 ```
-git clone https://github.com/iaea-nrdcnetwork/exfor-cx4-file.git
+git clone https://github.com/iaea-nrdcnetwork/exfor-plot-file.git
 ```
 
 **Contents**
@@ -51,7 +51,7 @@ Ni(a,x)64Cu production cross section as a function of the incident energy (excfu
 * `p/Bi209/xn/ddxl/p-Bi209-xn-ddxl-enedisl-mon-einc9.000E+07_angl20_Kalend_1983_C0841.008.cx4`:
 209Bi(p,n+x) double differential cross section in the lab. system (ddxl) at the incident energy (einc) of 90 MeV and outgoing angle in the lab. system (angl) at 20 deg as a function of the outgoing neutron energy in the lab. system (enedisl), published by Kalend in 1983 and compiled in EXFOR C0841.008.
 
-## Abbreviations in CX4Lib file names
+## Abbreviations in CX4 file names
 ### Isomeric state
 An isomeric state is indicated by
 
