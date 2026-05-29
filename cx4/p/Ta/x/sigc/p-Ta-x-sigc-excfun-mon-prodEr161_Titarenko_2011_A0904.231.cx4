@@ -1,0 +1,24 @@
+# EXFOR #         : A0904.231  
+# EXFOR Ver.      : 20111209
+# TRANS #         : A075
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 551
+# DOI             : 10.1134/S1063778811040181
+# Quantity        : natTa(p,x)161Er cumulative production cross section
+# REACTION        : 73-TA-0(P,X)68-ER-161,CUM,SIG
+# File ID         : p-Ta-x-sigc-excfun-mon-prodEr161_Titarenko_2011_a0904.231
+#
+# npts            : 3           
+# xmin            :   1.1990E+09
+# xmax            :   2.6050E+09
+# ymin            :   2.3200E-02
+# ymax            :   4.2900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1990E+09  3.0000E+06  4.2900E-02  4.6000E-03
+  1.5980E+09  4.0000E+06  3.3700E-02  3.7000E-03
+  2.6050E+09  8.0000E+06  2.3200E-02  2.6000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : B0127.004  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : S.Schery et al.
+# Reference       : Nucl.Intrum.Meth. 147 (1977) 399
+# DOI             : 10.1016/0029-554X(77)90275-0
+# Quantity        : 7Li(p,n)7Be partial angular differential cross section
+# REACTION        : 3-LI-7(P,N)4-BE-7,PAR,DA,,,EXP
+# File ID         : p-Li7-n-adxl-lvldis-mon-einc2.480E+07_angl70_prodBe7_Schery_1977_b0127.004
+#
+# Einc (eV)       :   2.4800E+07
+# theta,lab (deg) :   70.0000000
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   4.2900E+05
+# ymin            :   5.1300E-04
+# ymax            :   1.5100E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.5100E-03  3.9260E-05
+  4.2900E+05  0.0000E+00  5.1300E-04  2.5650E-05
+#---------------------------------------------------

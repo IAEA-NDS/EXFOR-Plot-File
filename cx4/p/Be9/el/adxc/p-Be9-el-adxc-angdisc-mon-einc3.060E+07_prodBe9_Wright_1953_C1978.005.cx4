@@ -1,0 +1,25 @@
+# EXFOR #         : C1978.005  
+# EXFOR Ver.      : 20130207
+# TRANS #         : C129
+# Author          : B.T.Wright
+# Reference       : Progress report UCRL-2422, 1953
+# DOI             : N/A
+# Quantity        : 9Be(p,el)9Be angular differential cross section
+# REACTION        : 4-BE-9(P,EL)4-BE-9,,DA,,AV
+# File ID         : p-Be9-el-adxc-angdisc-mon-einc3.060E+07_prodBe9_Wright_1953_c1978.005
+#
+# Einc (eV)       :   3.0600E+07
+# dEinc (eV)      :   4.0000E+05
+#
+# npts            : 1           
+# xmin            :  135.0000000
+# xmax            :  135.0000000
+# ymin            :   5.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 135.0000000  15.0000000  5.0000E-04  1.0000E-04
+#---------------------------------------------------

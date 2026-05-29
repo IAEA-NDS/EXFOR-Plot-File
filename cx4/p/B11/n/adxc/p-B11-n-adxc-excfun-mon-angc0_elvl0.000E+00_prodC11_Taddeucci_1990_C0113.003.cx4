@@ -1,0 +1,27 @@
+# EXFOR #         : C0113.003  
+# EXFOR Ver.      : 20171029
+# TRANS #         : C169
+# Author          : T.N.Taddeucci et al.
+# Reference       : Phys.Rev.C 42 (1990) 935
+# DOI             : 10.1103/PhysRevC.42.935
+# Quantity        : 11B(p,n)11C partial angular differential cross section
+# REACTION        : 5-B-11(P,N)6-C-11,PAR,DA
+# File ID         : p-B11-n-adxc-excfun-mon-angc0_elvl0.000E+00_prodC11_Taddeucci_1990_c0113.003
+#
+# theta,cm (deg)  :    0.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :   4.9400E+08
+# xmax            :   7.9500E+08
+# ymin            :   4.1500E-03
+# ymax            :   4.4700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.9400E+08  6.6000E+05  4.4100E-03  2.3000E-04
+  6.4400E+08  6.8000E+05  4.1500E-03  2.1000E-04
+  7.9500E+08  1.2500E+06  4.4700E-03  2.5000E-04
+#---------------------------------------------------

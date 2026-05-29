@@ -1,0 +1,25 @@
+# EXFOR #         : D0995.006  
+# EXFOR Ver.      : 20211101
+# TRANS #         : D135
+# Author          : E.Simeckova et al.
+# Reference       : Nucl.Phys.A 1016 (2021) 122310
+# DOI             : 10.1016/j.nuclphysa.2021.122310
+# Quantity        : 181Ta(p,x)175Hf independent production cross section
+# REACTION        : 73-TA-181(P,X)72-HF-175,,SIG
+# File ID         : p-Ta181-x-sig-excfun-mon-prodHf175_Simeckova_2021_d0995.006
+#
+# npts            : 4           
+# xmin            :   3.0430E+07
+# xmax            :   3.3420E+07
+# ymin            :   5.7000E-05
+# ymax            :   6.1500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0430E+07  3.5000E+05  5.7000E-05  6.0000E-06
+  3.1390E+07  3.5000E+05  1.0500E-04  7.0000E-06
+  3.2510E+07  3.4000E+05  2.6600E-04  2.4000E-05
+  3.3420E+07  3.3000E+05  6.1500E-04  4.8000E-05
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : O0081.017  
+# EXFOR Ver.      : 20230404
+# TRANS #         : O095
+# Author          : J.J.H.Menet et al.
+# Reference       : Phys.Rev.C 4 (1971) 1114
+# DOI             : 10.1103/PhysRevC.4.1114
+# Quantity        : 68Zn(p,non) cross section
+# REACTION        : 30-ZN-68(P,NON),,SIG
+# File ID         : p-Zn68-non-sig-excfun-mon-Menet_1971_o0081.017
+#
+# npts            : 2           
+# xmin            :   4.0000E+07
+# xmax            :   6.0800E+07
+# ymin            :   9.4800E-01
+# ymax            :   1.2300E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+07  0.0000E+00  1.2300E+00  5.4000E-02
+  6.0800E+07  0.0000E+00  9.4800E-01  3.8000E-02
+#---------------------------------------------------

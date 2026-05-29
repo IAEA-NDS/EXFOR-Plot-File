@@ -1,0 +1,30 @@
+# EXFOR #         : O1596.002  
+# EXFOR Ver.      : 20080129
+# TRANS #         : O034
+# Author          : P.D.Cottle et al.
+# Reference       : Phys.Rev.C 47 (1993) 1048
+# DOI             : 10.1103/PhysRevC.47.1048
+# Quantity        : 146Nd(p,inl)146Nd partial angular differential cross section
+# REACTION        : 60-ND-146(P,INL)60-ND-146,PAR,DA
+# File ID         : p-Nd146-inl-adxl-angdisl-mon-einc2.600E+07_elvl1.189E+06_prodNd146_Cottle_1993_o1596.002
+#
+# Einc (eV)       :   2.6000E+07
+# dEinc (eV)      :   2.5000E+04
+# Elvl (eV)       :   1.1890E+06
+#
+# npts            : 5           
+# xmin            :   24.4100000
+# xmax            :   49.3700000
+# ymin            :   6.2000E-05
+# ymax            :   2.7400E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  24.4100000   0.0000000  1.7000E-04  1.3600E-05
+  29.3400000   0.0000000  2.7400E-04  1.3700E-05
+  34.2100000   0.0000000  2.7200E-04  2.1760E-05
+  39.4200000   0.0000000  2.0400E-04  0.0000E+00
+  49.3700000   0.0000000  6.2000E-05  1.1160E-05
+#---------------------------------------------------

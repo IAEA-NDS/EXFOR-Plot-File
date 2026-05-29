@@ -1,0 +1,25 @@
+# EXFOR #         : O0073.007  
+# EXFOR Ver.      : 20201202
+# TRANS #         : O081
+# Author          : G.V.S.Rayudu
+# Reference       : Can.J.Chem. 42 (1964) 1149
+# DOI             : 10.1139/v64-178
+# Quantity        : natFe(p,x)32P independent production cross section
+# REACTION        : 26-FE-0(P,X)15-P-32,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodP32_Rayudu_1964_o0073.007
+#
+# npts            : 4           
+# xmin            :   1.3000E+08
+# xmax            :   3.9600E+08
+# ymin            :   2.0000E-05
+# ymax            :   6.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  1.3000E+07  2.0000E-05  4.0000E-06
+  2.0800E+08  2.0800E+07  8.6000E-05  1.3000E-05
+  2.9700E+08  1.4850E+07  3.2000E-04  5.0000E-05
+  3.9600E+08  1.9800E+07  6.1000E-04  9.2000E-05
+#---------------------------------------------------

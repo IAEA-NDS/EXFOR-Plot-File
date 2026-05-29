@@ -1,0 +1,22 @@
+# EXFOR #         : A0131.004  
+# EXFOR Ver.      : 20240304
+# TRANS #         : A109
+# Author          : V.V.Kuzminov et al.
+# Reference       : Sov.J.Nucl.Phys. 35 (1982) 638
+# DOI             : N/A
+# Quantity        : 86Kr(p,x)85gKr cumulative production cross section
+# REACTION        : 36-KR-86(P,X)36-KR-85-G,CUM,SIG
+# File ID         : p-Kr86-x-sigc-excfun-mon-prodKr85g_Kuzminov_1982_a0131.004
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   3.6700E-02
+# ymax            :   3.6700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  3.6700E-02  8.0000E-04
+#---------------------------------------------------

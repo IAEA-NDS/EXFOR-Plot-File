@@ -1,0 +1,22 @@
+# EXFOR #         : O0044.027  
+# EXFOR Ver.      : 20140121
+# TRANS #         : O052
+# Author          : M.Lefort et al.
+# Reference       : Nucl.Phys. 25 (1961) 216
+# DOI             : 10.1016/0029-5582(61)90154-7
+# Quantity        : 232Th(p,t+x) cross section
+# REACTION        : 90-TH-232(P,X)1-H-3,,SIG
+# File ID         : p-Th232-xt-sig-excfun-mon-Lefort_1961_o0044.027
+#
+# npts            : 1           
+# xmin            :   1.5000E+08
+# xmax            :   1.5000E+08
+# ymin            :   2.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  5.0000E+06  2.0000E-02  2.0000E-03
+#---------------------------------------------------

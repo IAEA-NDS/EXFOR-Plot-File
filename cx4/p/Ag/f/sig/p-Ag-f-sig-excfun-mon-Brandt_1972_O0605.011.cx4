@@ -1,0 +1,23 @@
+# EXFOR #         : O0605.011  
+# EXFOR Ver.      : 20220109
+# TRANS #         : O086
+# Author          : R.Brandt et al.
+# Reference       : Rev.Phys.Appl. 7 (1972) 243
+# DOI             : N/A
+# Quantity        : natAg(p,f) cross section
+# REACTION        : 47-AG-0(P,F),,SIG
+# File ID         : p-Ag-f-sig-excfun-mon-Brandt_1972_o0605.011
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   1.8000E+10
+# ymin            :   4.0000E-04
+# ymax            :   2.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  4.0000E-04  0.0000E+00
+  1.8000E+10  0.0000E+00  2.0000E-03  0.0000E+00
+#---------------------------------------------------

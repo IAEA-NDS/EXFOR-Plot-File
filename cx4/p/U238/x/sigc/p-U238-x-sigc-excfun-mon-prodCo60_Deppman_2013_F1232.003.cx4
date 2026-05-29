@@ -1,0 +1,22 @@
+# EXFOR #         : F1232.003  
+# EXFOR Ver.      : 20240216
+# TRANS #         : F097
+# Author          : A.Deppman et al.
+# Reference       : Phys.Rev.C 88 (2013) 064609
+# DOI             : 10.1103/PhysRevC.88.064609
+# Quantity        : 238U(p,x)60Co cumulative production cross section
+# REACTION        : 92-U-238(P,X)27-CO-60,CUM,SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodCo60_Deppman_2013_f1232.003
+#
+# npts            : 1           
+# xmin            :   6.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   3.3000E-04
+# ymax            :   3.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  3.3000E-04  3.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : O0360.002  
+# EXFOR Ver.      : 20210204
+# TRANS #         : O086
+# Author          : J.-P.Garron et al.
+# Reference       : J.Phys.(Paris) 21 (1960) 317
+# DOI             : 10.1051/jphysrad:01960002105031701
+# Quantity        : 12C(p,el)12C angular differential cross section
+# REACTION        : 6-C-12(P,EL)6-C-12,,DA
+# File ID         : p-C12-el-adxl-angdisl-mon-einc1.550E+08_prodC12_Garron_1960_o0360.002
+#
+# Einc (eV)       :   1.5500E+08
+#
+# npts            : 4           
+# xmin            :   15.0000000
+# xmax            :   30.0000000
+# ymin            :   2.7000E-03
+# ymax            :   1.7000E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.0000000   0.0000000  1.7000E-01  1.0000E-02
+  20.0000000   0.0000000  3.4700E-02  1.3000E-03
+  25.0000000   0.0000000  7.8000E-03  4.0000E-04
+  30.0000000   0.0000000  2.7000E-03  2.0000E-04
+#---------------------------------------------------

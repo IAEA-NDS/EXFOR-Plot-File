@@ -1,0 +1,22 @@
+# EXFOR #         : O0466.005.3
+# EXFOR Ver.      : 20070515
+# TRANS #         : O028
+# Author          : M.Lagarde-Simonoff et al.
+# Reference       : Phys.Rev.C 20 (1979) 1498
+# DOI             : 10.1103/PhysRevC.20.1498
+# Quantity        : 141Pr(p,f)86gRb cumulative production cross section
+# REACTION        : 59-PR-141(P,F)37-RB-86-G,M+,SIG
+# File ID         : p-Pr141-x-sigc-excfun-mon-prodRb86g_Lagarde+Simonoff_1979_o0466.005.3
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   5.0000E-06
+# ymax            :   5.0000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  5.0000E-06  4.0000E-06
+#---------------------------------------------------

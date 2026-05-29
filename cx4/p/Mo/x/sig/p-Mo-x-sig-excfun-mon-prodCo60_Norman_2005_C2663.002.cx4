@@ -1,0 +1,23 @@
+# EXFOR #         : C2663.002  
+# EXFOR Ver.      : 20210928
+# TRANS #         : C209
+# Author          : E.B.Norman et al.
+# Reference       : Nucl.Phys.B.Suppl. 143 (2005) 508
+# DOI             : 10.1016/j.nuclphysbps.2005.01.173
+# Quantity        : natMo(p,x)60Co independent production cross section
+# REACTION        : 42-MO-0(P,X)27-CO-60,,SIG
+# File ID         : p-Mo-x-sig-excfun-mon-prodCo60_Norman_2005_c2663.002
+#
+# npts            : 2           
+# xmin            :   8.0000E+08
+# xmax            :   1.8500E+09
+# ymin            :   7.7000E-04
+# ymax            :   1.4500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  7.7000E-04  1.1000E-04
+  1.8500E+09  0.0000E+00  1.4500E-03  2.0000E-04
+#---------------------------------------------------

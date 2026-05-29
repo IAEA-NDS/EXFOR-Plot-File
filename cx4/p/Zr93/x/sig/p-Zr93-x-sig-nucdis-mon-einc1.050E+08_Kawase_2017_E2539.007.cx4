@@ -1,0 +1,29 @@
+# EXFOR #         : E2539.007  
+# EXFOR Ver.      : 20171219
+# TRANS #         : E110
+# Author          : S.Kawase et al.
+# Reference       : Prog.Theor.Exp.Phys. 2017 (2017) 093D03
+# DOI             : N/A
+# Quantity        : 93Zr(p,x) independent production cross section
+# REACTION        : 40-ZR-93(P,X)ELEM/MASS,,SIG
+# File ID         : p-Zr93-x-sig-nucdis-mon-einc1.050E+08_Kawase_2017_e2539.007
+#
+# Einc (eV)       :   1.0500E+08
+#
+# npts            : 6           
+# xmin            : 36077.9     
+# xmax            : 36082.9     
+# ymin            :   6.8200E-04
+# ymax            :   3.2500E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     36082.9  1.5500E-03  7.1700E-04
+     36081.9  3.2500E-03  7.1400E-04
+     36080.9  2.5200E-03  9.0700E-04
+     36079.9  2.7600E-03  8.9100E-04
+     36078.9  6.9200E-04  5.8500E-04
+     36077.9  6.8200E-04  3.7500E-04
+#---------------------------------------------------

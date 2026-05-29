@@ -1,0 +1,25 @@
+# EXFOR #         : E1411.220  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : T.Ohtsuki et al.
+# Reference       : Phys.Rev.C 44 (1991) 1405
+# DOI             : 10.1103/PhysRevC.44.1405
+# Quantity        : 244Pu(p,f)95Zr cumulative production cross section
+# REACTION        : 94-PU-244(P,F)40-ZR-95,(CUM),SIG
+# File ID         : p-Pu244-x-sigc-excfun-mon-prodZr95_Ohtsuki_1991_e1411.220
+#
+# npts            : 4           
+# xmin            :   1.3100E+07
+# xmax            :   1.8000E+07
+# ymin            :   7.7400E-03
+# ymax            :   1.7740E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3100E+07  0.0000E+00  7.7400E-03  8.0000E-04
+  1.4400E+07  0.0000E+00  9.4900E-03  3.3900E-03
+  1.5600E+07  0.0000E+00  1.2640E-02  9.1000E-04
+  1.8000E+07  0.0000E+00  1.7740E-02  8.9000E-04
+#---------------------------------------------------

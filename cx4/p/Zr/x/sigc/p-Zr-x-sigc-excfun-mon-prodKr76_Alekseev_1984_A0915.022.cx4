@@ -1,0 +1,22 @@
+# EXFOR #         : A0915.022  
+# EXFOR Ver.      : 20120117
+# TRANS #         : A076
+# Author          : E.G.Alekseev et al.
+# Reference       : Sov.Radiochem. 26 (1984) 632
+# DOI             : N/A
+# Quantity        : natZr(p,x)76Kr cumulative production cross section
+# REACTION        : 40-ZR-0(P,X)36-KR-76,CUM,SIG
+# File ID         : p-Zr-x-sigc-excfun-mon-prodKr76_Alekseev_1984_a0915.022
+#
+# npts            : 1           
+# xmin            :   1.0000E+09
+# xmax            :   1.0000E+09
+# ymin            :   1.6000E-03
+# ymax            :   1.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  1.6000E-03  6.0000E-04
+#---------------------------------------------------

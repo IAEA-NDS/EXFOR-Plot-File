@@ -1,0 +1,26 @@
+# EXFOR #         : D4420.002  
+# EXFOR Ver.      : 20220601
+# TRANS #         : D137
+# Author          : A.Hermanne et al.
+# Reference       : Nucl.Instrum.Meth.B 511 (2022) 91
+# DOI             : 10.1016/j.nimb.2021.11.008
+# Quantity        : natSr(p,x)84gY independent production cross section
+# REACTION        : 38-SR-0(P,X)39-Y-84-G,,SIG
+# File ID         : p-Sr-x-sig-excfun-mon-prodY84g_Hermanne_2022_d4420.002
+#
+# npts            : 5           
+# xmin            :   3.0300E+07
+# xmax            :   3.3200E+07
+# ymin            :   1.3000E-03
+# ymax            :   7.7000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3200E+07  2.0000E+05  7.7000E-03  8.0000E-04
+  3.2800E+07  3.0000E+05  6.5000E-03  7.0000E-04
+  3.2000E+07  4.0000E+05  4.0000E-03  4.0000E-04
+  3.1300E+07  4.0000E+05  2.1000E-03  2.0000E-04
+  3.0300E+07  5.0000E+05  1.3000E-03  1.0000E-04
+#---------------------------------------------------

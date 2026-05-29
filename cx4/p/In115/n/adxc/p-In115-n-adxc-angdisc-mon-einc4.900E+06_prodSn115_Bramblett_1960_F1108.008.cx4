@@ -1,0 +1,24 @@
+# EXFOR #         : F1108.008  
+# EXFOR Ver.      : 20240209
+# TRANS #         : F097
+# Author          : R.L.Bramblett et al.
+# Reference       : Nucl.Phys. 20 (1960) 395
+# DOI             : 10.1016/0029-5582(60)90182-6
+# Quantity        : 115In(p,n)115Sn angular differential cross section
+# REACTION        : 49-IN-115(P,N)50-SN-115,,DA
+# File ID         : p-In115-n-adxc-angdisc-mon-einc4.900E+06_prodSn115_Bramblett_1960_f1108.008
+#
+# Einc (eV)       :   4.9000E+06
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   1.3000E-03
+# ymax            :   1.3000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  1.3000E-03  0.0000E+00
+#---------------------------------------------------

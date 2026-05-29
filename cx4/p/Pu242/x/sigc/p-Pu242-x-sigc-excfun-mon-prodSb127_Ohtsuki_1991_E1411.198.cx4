@@ -1,0 +1,23 @@
+# EXFOR #         : E1411.198  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : T.Ohtsuki et al.
+# Reference       : Phys.Rev.C 44 (1991) 1405
+# DOI             : 10.1103/PhysRevC.44.1405
+# Quantity        : 242Pu(p,f)127Sb cumulative production cross section
+# REACTION        : 94-PU-242(P,F)51-SB-127,(CUM),SIG
+# File ID         : p-Pu242-x-sigc-excfun-mon-prodSb127_Ohtsuki_1991_e1411.198
+#
+# npts            : 2           
+# xmin            :   1.2000E+07
+# xmax            :   1.8000E+07
+# ymin            :   2.4600E-03
+# ymax            :   9.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+07  0.0000E+00  9.5000E-03  5.9000E-04
+  1.8000E+07  0.0000E+00  2.4600E-03  8.0000E-05
+#---------------------------------------------------

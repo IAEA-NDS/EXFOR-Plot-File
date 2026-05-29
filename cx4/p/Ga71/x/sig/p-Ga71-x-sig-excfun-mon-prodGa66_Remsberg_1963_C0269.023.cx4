@@ -1,0 +1,22 @@
+# EXFOR #         : C0269.023  
+# EXFOR Ver.      : 20211005
+# TRANS #         : C206
+# Author          : L.P.Remsberg et al.
+# Reference       : Phys.Rev. 130 (1963) 2069
+# DOI             : 10.1103/PhysRev.130.2069
+# Quantity        : 71Ga(p,x)66Ga independent production cross section
+# REACTION        : 31-GA-71(P,X)31-GA-66,,SIG
+# File ID         : p-Ga71-x-sig-excfun-mon-prodGa66_Remsberg_1963_c0269.023
+#
+# npts            : 1           
+# xmin            :   3.7000E+08
+# xmax            :   3.7000E+08
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+08  0.0000E+00  1.0000E-02  7.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : C0253.035  
+# EXFOR Ver.      : 20250611
+# TRANS #         : C250
+# Author          : R.G.Korteling et al.
+# Reference       : Phys.Rev.C 1 (1970) 1960
+# DOI             : 10.1103/PhysRevC.1.1960
+# Quantity        : natZn(p,x)24Na cumulative production cross section
+# REACTION        : 30-ZN-0(P,X)11-NA-24,CUM,SIG
+# File ID         : p-Zn-x-sigc-excfun-mon-prodNa24_Korteling_1970_c0253.035
+#
+# npts            : 3           
+# xmin            :   1.0000E+08
+# xmax            :   3.0000E+08
+# ymin            :   4.1800E-07
+# ymax            :   1.6900E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  1.0000E+07  4.1800E-07  5.7000E-08
+  2.0000E+08  1.0000E+07  4.6100E-06  1.6000E-07
+  3.0000E+08  1.0000E+07  1.6900E-05  3.0000E-07
+#---------------------------------------------------

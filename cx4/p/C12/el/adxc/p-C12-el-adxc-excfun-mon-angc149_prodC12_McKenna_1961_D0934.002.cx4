@@ -1,0 +1,27 @@
+# EXFOR #         : D0934.002  
+# EXFOR Ver.      : 20190211
+# TRANS #         : D119
+# Author          : V.R.McKenna et al.
+# Reference       : Australian J.Physics 14 (1961) 196
+# DOI             : 10.1071/PH610196
+# Quantity        : 12C(p,el)12C angular differential cross section
+# REACTION        : 6-C-12(P,EL)6-C-12,,DA
+# File ID         : p-C12-el-adxc-excfun-mon-angc149_prodC12_McKenna_1961_d0934.002
+#
+# theta,cm (deg)  :  149.4000000
+#
+# npts            : 4           
+# xmin            :   6.1400E+06
+# xmax            :   8.1910E+06
+# ymin            :   9.9000E-03
+# ymax            :   1.8680E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.1400E+06  0.0000E+00  1.8680E-01  9.9000E-03
+  6.6540E+06  0.0000E+00  1.4450E-01  8.4000E-03
+  7.4340E+06  0.0000E+00  5.8600E-02  4.5000E-03
+  8.1910E+06  0.0000E+00  9.9000E-03  4.1000E-03
+#---------------------------------------------------

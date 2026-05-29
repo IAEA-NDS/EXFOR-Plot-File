@@ -1,0 +1,28 @@
+# EXFOR #         : D0640.013  
+# EXFOR Ver.      : 20211202
+# TRANS #         : D133
+# Author          : I.Leya
+# Reference       : Thesis  (1997)
+# DOI             : N/A
+# Quantity        : natTi(p,x) independent production cross section
+# REACTION        : 22-TI-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Ti-x-sig-nucdis-mon-einc1.600E+09_Leya_1997_d0640.013
+#
+# Einc (eV)       :   1.6000E+09
+#
+# npts            : 5           
+# xmin            : 4007.9      
+# xmax            : 21048.9     
+# ymin            :   2.8500E-03
+# ymax            :   2.9000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      4007.9  6.5600E-03  3.4000E-04
+     21046.9  2.9000E-02  2.2000E-03
+     21046.9  2.8800E-02  1.5000E-03
+     21047.9  2.8100E-02  1.5000E-03
+     21048.9  2.8500E-03  1.8000E-04
+#---------------------------------------------------

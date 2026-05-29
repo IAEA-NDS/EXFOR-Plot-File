@@ -1,0 +1,27 @@
+# EXFOR #         : O2589.002  
+# EXFOR Ver.      : 20240120
+# TRANS #         : O100
+# Author          : D.Bucurescu et al.
+# Reference       : Phys.Rev.C 108 (2023) 014310
+# DOI             : 10.1103/PhysRevC.108.014310
+# Quantity        : 170Er(p,t)168Er partial angular differential cross section
+# REACTION        : 68-ER-170(P,T)68-ER-168,PAR,DA
+# File ID         : p-Er170-t-adxl-angdisl-mon-einc2.500E+07_elvl3.581E+06_prodEr168_Bucurescu_2023_o2589.002
+#
+# Einc (eV)       :   2.5000E+07
+# Elvl (eV)       :   3.5810E+06
+#
+# npts            : 3           
+# xmin            :    5.0000000
+# xmax            :   14.0000000
+# ymin            :   1.2900E-06
+# ymax            :   2.5920E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0000000   0.0000000  2.5920E-06  2.5100E-07
+  10.0000000   0.0000000  1.6690E-06  4.5100E-07
+  14.0000000   0.0000000  1.2900E-06  2.5900E-07
+#---------------------------------------------------

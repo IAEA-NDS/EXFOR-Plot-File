@@ -1,0 +1,22 @@
+# EXFOR #         : C0237.003  
+# EXFOR Ver.      : 20040823
+# TRANS #         : 0000
+# Author          : I.Dostrovsky et al.
+# Reference       : Phys.Rev. 169 (1968) 836
+# DOI             : 10.1103/PhysRev.169.836
+# Quantity        : natC(p,x)9Li independent production cross section
+# REACTION        : 6-C-0(P,X)3-LI-9,,SIG
+# File ID         : p-C-x-sig-excfun-mon-prodLi9_Dostrovsky_1968_c0237.003
+#
+# npts            : 1           
+# xmin            :   1.5600E+08
+# xmax            :   1.5600E+08
+# ymin            :   1.6700E-05
+# ymax            :   1.6700E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5600E+08  0.0000E+00  1.6700E-05  3.2000E-06
+#---------------------------------------------------

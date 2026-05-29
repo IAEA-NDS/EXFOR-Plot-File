@@ -1,0 +1,23 @@
+# EXFOR #         : P0014.008  
+# EXFOR Ver.      : 20160809
+# TRANS #         : C161
+# Author          : N.T.Porile et al.
+# Reference       : Nucl.Phys. 43 (1963) 500
+# DOI             : 10.1016/0029-5582(63)90370-5
+# Quantity        : 69Ga(p,x)65Ga cumulative production cross section
+# REACTION        : 31-GA-69(P,X)31-GA-65,CUM,SIG
+# File ID         : p-Ga69-x-sigc-excfun-mon-prodGa65_Porile_1963_p0014.008
+#
+# npts            : 2           
+# xmin            :   4.9900E+07
+# xmax            :   5.6300E+07
+# ymin            :   1.6200E-03
+# ymax            :   3.7300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9900E+07  0.0000E+00  1.6200E-03  0.0000E+00
+  5.6300E+07  0.0000E+00  3.7300E-02  0.0000E+00
+#---------------------------------------------------

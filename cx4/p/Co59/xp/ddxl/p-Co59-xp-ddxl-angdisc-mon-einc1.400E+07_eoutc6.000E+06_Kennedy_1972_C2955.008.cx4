@@ -1,0 +1,30 @@
+# EXFOR #         : C2955.008  
+# EXFOR Ver.      : 20240606
+# TRANS #         : C238
+# Author          : A.J.Kennedy et al.
+# Reference       : Phys.Rev.C 5 (1972) 500
+# DOI             : 10.1103/PhysRevC.5.500
+# Quantity        : 59Co(p,p+x) double differential cross section
+# REACTION        : 27-CO-59(P,X)1-H-1,,DA/DE
+# File ID         : p-Co59-xp-ddxl-angdisc-mon-einc1.400E+07_eoutc6.000E+06_Kennedy_1972_c2955.008
+#
+# Einc (eV)       :   1.4000E+07
+# Eout,cm (eV)    :   6.0000E+06
+# dEout,cm (eV)   :   1.8000E+06
+#
+# npts            : 5           
+# xmin            :   30.4000000
+# xmax            :  150.6000000
+# ymin            :   3.8950E-09
+# ymax            :   4.4240E-09
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  30.4000000   0.0000000  4.4240E-09  2.1220E-10
+  61.9000000   0.0000000  4.0600E-09  2.0410E-10
+  90.9000000   0.0000000  3.9650E-09  2.0410E-10
+ 121.4000000   0.0000000  3.8950E-09  1.8780E-10
+ 150.6000000   0.0000000  3.9630E-09  9.7990E-11
+#---------------------------------------------------

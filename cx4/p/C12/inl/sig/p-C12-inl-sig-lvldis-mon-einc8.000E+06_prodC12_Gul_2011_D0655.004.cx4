@@ -1,0 +1,24 @@
+# EXFOR #         : D0655.004  
+# EXFOR Ver.      : 20110727
+# TRANS #         : D079
+# Author          : K.Gul et al.
+# Reference       : Nucl.Instrum.Meth.B 269 (2011) 2032
+# DOI             : 10.1016/j.nimb.2011.06.006
+# Quantity        : 12C(p,inl)12C partial cross section
+# REACTION        : 6-C-12(P,INL)6-C-12,PAR,SIG
+# File ID         : p-C12-inl-sig-lvldis-mon-einc8.000E+06_prodC12_Gul_2011_d0655.004
+#
+# Einc (eV)       :   8.0000E+06
+#
+# npts            : 1           
+# xmin            :   4.4300E+06
+# xmax            :   4.4300E+06
+# ymin            :   1.7500E-01
+# ymax            :   1.7500E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.4300E+06  0.0000E+00  1.7500E-01  4.0000E-03
+#---------------------------------------------------

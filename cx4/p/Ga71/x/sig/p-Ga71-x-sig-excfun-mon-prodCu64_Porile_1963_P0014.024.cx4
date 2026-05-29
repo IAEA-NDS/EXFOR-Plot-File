@@ -1,0 +1,24 @@
+# EXFOR #         : P0014.024  
+# EXFOR Ver.      : 20241025
+# TRANS #         : C242
+# Author          : N.T.Porile et al.
+# Reference       : Nucl.Phys. 43 (1963) 500
+# DOI             : 10.1016/0029-5582(63)90370-5
+# Quantity        : 71Ga(p,x)64Cu independent production cross section
+# REACTION        : 31-GA-71(P,X)29-CU-64,,SIG
+# File ID         : p-Ga71-x-sig-excfun-mon-prodCu64_Porile_1963_p0014.024
+#
+# npts            : 3           
+# xmin            :   4.5800E+07
+# xmax            :   5.5400E+07
+# ymin            :   5.0100E-04
+# ymax            :   1.1800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5800E+07  0.0000E+00  5.0100E-04  0.0000E+00
+  5.0300E+07  0.0000E+00  3.4700E-03  0.0000E+00
+  5.5400E+07  0.0000E+00  1.1800E-02  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : C0293.009.2
+# EXFOR Ver.      : 19871120
+# TRANS #         : 0000
+# Author          : R.Korteling et al.
+# Reference       : Phys.Rev.C 2 (1970) 957
+# DOI             : 10.1103/PhysRevC.2.957
+# Quantity        : natZr(p,x)33P cumulative production cross section
+# REACTION        : 40-ZR-0(P,X)15-P-33,CUM,SIG
+# File ID         : p-Zr-x-sigc-excfun-mon-prodP33_Korteling_1970_c0293.009.2
+#
+# npts            : 2           
+# xmin            :   2.0000E+08
+# xmax            :   5.5000E+08
+# ymin            :   3.0100E-06
+# ymax            :   5.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  3.0100E-06  6.8000E-07
+  5.5000E+08  0.0000E+00  5.0000E-05  1.7000E-05
+#---------------------------------------------------

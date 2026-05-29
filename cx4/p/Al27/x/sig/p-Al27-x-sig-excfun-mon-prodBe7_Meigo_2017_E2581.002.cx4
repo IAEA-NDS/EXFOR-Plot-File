@@ -1,0 +1,23 @@
+# EXFOR #         : E2581.002  
+# EXFOR Ver.      : 20181127
+# TRANS #         : E117
+# Author          : S.Meigo et al.
+# Reference       : Proceedings of 13th Int.Meeting on Nucl.Appl.of Accel., Quebec, 2017 page 396
+# DOI             : N/A
+# Quantity        : 27Al(p,x)7Be independent production cross section
+# REACTION        : 13-AL-27(P,X)4-BE-7,,SIG
+# File ID         : p-Al27-x-sig-excfun-mon-prodBe7_Meigo_2017_e2581.002
+#
+# npts            : 2           
+# xmin            :   4.0000E+08
+# xmax            :   2.9840E+09
+# ymin            :   2.9600E-03
+# ymax            :   8.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  1.1000E+06  2.9600E-03  1.1000E-04
+  2.9840E+09  8.1000E+06  8.5000E-03  3.1000E-04
+#---------------------------------------------------

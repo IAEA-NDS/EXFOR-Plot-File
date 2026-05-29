@@ -1,0 +1,26 @@
+# EXFOR #         : C0404.002  
+# EXFOR Ver.      : 20160809
+# TRANS #         : C161
+# Author          : V.P.Narang et al.
+# Reference       : Can.J.Chem. 46 (1968) 3171
+# DOI             : 10.1139/v68-526
+# Quantity        : 127I(p,x) independent production cross section
+# REACTION        : 53-I-127(P,X)ELEM/MASS,,SIG
+# File ID         : p-I127-x-sig-nucdis-mon-einc2.100E+07_Narang_1968_c0404.002
+#
+# Einc (eV)       :   2.1000E+07
+# dEinc (eV)      :   2.0000E+06
+#
+# npts            : 2           
+# xmin            : 53126.9     
+# xmax            : 54127.9     
+# ymin            :   2.4000E-02
+# ymax            :   4.0000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     53126.9  4.0000E-02  8.0000E-03
+     54127.9  2.4000E-02  5.0000E-03
+#---------------------------------------------------

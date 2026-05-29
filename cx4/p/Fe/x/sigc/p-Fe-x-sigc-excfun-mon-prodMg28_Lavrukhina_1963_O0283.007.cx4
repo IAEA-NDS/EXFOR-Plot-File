@@ -1,0 +1,22 @@
+# EXFOR #         : O0283.007  
+# EXFOR Ver.      : 20140121
+# TRANS #         : O052
+# Author          : A.K.Lavrukhina et al.
+# Reference       : Zh.Eksp.Teor.Fiz. 44 (1963) 1429
+# DOI             : N/A
+# Quantity        : natFe(p,x)28Mg cumulative production cross section
+# REACTION        : 26-FE-0(P,X)12-MG-28,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodMg28_Lavrukhina_1963_o0283.007
+#
+# npts            : 1           
+# xmin            :   1.5000E+08
+# xmax            :   1.5000E+08
+# ymin            :   5.0000E-06
+# ymax            :   5.0000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  5.0000E-06  1.0000E-06
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : O1028.006  
+# EXFOR Ver.      : 20120607
+# TRANS #         : O048
+# Author          : V.I.Yurevich et al.
+# Reference       : Yad.Fiz. 65 (2002) 1417
+# DOI             : N/A
+# Quantity        : 237Np(p,f) cross section
+# REACTION        : 93-NP-237(P,F),,SIG
+# File ID         : p-Np237-f-sig-excfun-mon-Yurevich_2002_o1028.006
+#
+# npts            : 2           
+# xmin            :   1.0000E+09
+# xmax            :   2.5500E+09
+# ymin            :   1.3930E+00
+# ymax            :   1.7360E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  1.7360E+00  1.9500E-01
+  2.5500E+09  0.0000E+00  1.3930E+00  2.3600E-01
+#---------------------------------------------------

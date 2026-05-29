@@ -1,0 +1,24 @@
+# EXFOR #         : C0330.002  
+# EXFOR Ver.      : 20240418
+# TRANS #         : C236
+# Author          : J.A.Panontin et al.
+# Reference       : J.Inorg.Nucl.Chem. 30 (1968) 2017
+# DOI             : 10.1016/0022-1902(68)80193-9
+# Quantity        : 238U(p,f) cumulative production cross section
+# REACTION        : 92-U-238(P,F)ELEM/MASS,CUM,SIG
+# File ID         : p-U238-x-sigc-nucdis-mon-einc4.000E+08_Panontin_1968_c0330.002
+#
+# Einc (eV)       :   4.0000E+08
+#
+# npts            : 1           
+# xmin            : 46103.9     
+# xmax            : 46103.9     
+# ymin            :   3.5000E-04
+# ymax            :   3.5000E-04
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     46103.9  3.5000E-04  3.0000E-05
+#---------------------------------------------------

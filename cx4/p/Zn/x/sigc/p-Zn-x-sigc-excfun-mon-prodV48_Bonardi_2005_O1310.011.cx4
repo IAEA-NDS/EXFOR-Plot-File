@@ -1,0 +1,26 @@
+# EXFOR #         : O1310.011  
+# EXFOR Ver.      : 20060529
+# TRANS #         : O026
+# Author          : M.L.Bonardi et al.
+# Reference       : J.Rad.Nucl.Chem. 264 (2005) 101
+# DOI             : 10.1007/s10967-005-0681-1
+# Quantity        : natZn(p,x)48V cumulative production cross section
+# REACTION        : 30-ZN-0(P,X)23-V-48,CUM,SIG
+# File ID         : p-Zn-x-sigc-excfun-mon-prodV48_Bonardi_2005_o1310.011
+#
+# npts            : 5           
+# xmin            :   9.7800E+07
+# xmax            :   1.4080E+08
+# ymin            :   3.0000E-05
+# ymax            :   4.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4080E+08  3.0000E+05  4.0000E-04  8.0000E-05
+  1.3045E+08  3.5000E+05  2.9000E-04  6.0000E-05
+  1.1975E+08  3.5000E+05  1.4000E-04  3.0000E-05
+  1.0845E+08  3.5000E+05  6.0000E-05  2.0000E-05
+  9.7800E+07  4.0000E+05  3.0000E-05  1.0000E-05
+#---------------------------------------------------

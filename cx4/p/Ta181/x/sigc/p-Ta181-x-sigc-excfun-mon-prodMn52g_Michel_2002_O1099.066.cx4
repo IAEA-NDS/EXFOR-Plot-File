@@ -1,0 +1,26 @@
+# EXFOR #         : O1099.066  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 181Ta(p,x)52gMn cumulative production cross section
+# REACTION        : 73-TA-181(P,X)25-MN-52-G,CUM,SIG
+# File ID         : p-Ta181-x-sigc-excfun-mon-prodMn52g_Michel_2002_o1099.066
+#
+# npts            : 5           
+# xmin            :   9.8600E+08
+# xmax            :   2.5800E+09
+# ymin            :   8.7600E-05
+# ymax            :   2.8300E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.8600E+08  1.0000E+06  9.3200E-05  1.6000E-05
+  1.1800E+09  1.0000E+06  1.0800E-04  3.3000E-05
+  1.3800E+09  1.0000E+06  8.7600E-05  1.8500E-05
+  1.5700E+09  1.0000E+06  1.2000E-04  2.4000E-05
+  2.5800E+09  1.0000E+06  2.8300E-04  5.6000E-05
+#---------------------------------------------------

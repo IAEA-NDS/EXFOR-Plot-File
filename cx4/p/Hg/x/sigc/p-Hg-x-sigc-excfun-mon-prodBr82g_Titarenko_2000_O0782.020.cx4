@@ -1,0 +1,25 @@
+# EXFOR #         : O0782.020  
+# EXFOR Ver.      : 20160801
+# TRANS #         : O058
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Report LA-UR-00-3600, 2000
+# DOI             : N/A
+# Quantity        : natHg(p,x)82gBr cumulative production cross section
+# REACTION        : 80-HG-0(P,X)35-BR-82-G,M+,SIG
+# File ID         : p-Hg-x-sigc-excfun-mon-prodBr82g_Titarenko_2000_o0782.020
+#
+# npts            : 4           
+# xmin            :   1.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   3.2900E-04
+# ymax            :   1.2700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  3.2900E-04  3.4000E-05
+  2.0000E+08  0.0000E+00  6.6400E-04  6.7000E-05
+  8.0000E+08  0.0000E+00  1.2700E-03  1.0000E-04
+  2.6000E+09  0.0000E+00  7.2000E-04  7.3000E-05
+#---------------------------------------------------

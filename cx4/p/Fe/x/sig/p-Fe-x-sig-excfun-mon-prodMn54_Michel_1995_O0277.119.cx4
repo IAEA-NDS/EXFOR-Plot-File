@@ -1,0 +1,25 @@
+# EXFOR #         : O0277.119  
+# EXFOR Ver.      : 20190830
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natFe(p,x)54Mn independent production cross section
+# REACTION        : 26-FE-0(P,X)25-MN-54,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodMn54_Michel_1995_o0277.119
+#
+# npts            : 4           
+# xmin            :   8.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   2.8300E-02
+# ymax            :   3.8800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  3.8800E-02  3.0000E-03
+  1.2000E+09  0.0000E+00  3.7200E-02  3.0000E-03
+  1.6000E+09  0.0000E+00  3.5900E-02  3.1000E-03
+  2.6000E+09  0.0000E+00  2.8300E-02  2.7000E-03
+#---------------------------------------------------

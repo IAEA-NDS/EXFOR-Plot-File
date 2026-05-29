@@ -1,0 +1,22 @@
+# EXFOR #         : O0842.042  
+# EXFOR Ver.      : 20131017
+# TRANS #         : O051
+# Author          : J.Adam et al.
+# Reference       : Proceedings of Conf.Nucl.Spectr.Nucl.Struct.,St.Petersbg.,June 2000 page 301
+# DOI             : N/A
+# Quantity        : 237Np(p,x)148Eu cumulative production cross section
+# REACTION        : 93-NP-237(P,X)63-EU-148,CUM,SIG
+# File ID         : p-Np237-x-sigc-excfun-mon-prodEu148_Adam_2000_o0842.042
+#
+# npts            : 1           
+# xmin            :   6.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   3.3100E-03
+# ymax            :   3.3100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  3.3100E-03  3.0000E-04
+#---------------------------------------------------

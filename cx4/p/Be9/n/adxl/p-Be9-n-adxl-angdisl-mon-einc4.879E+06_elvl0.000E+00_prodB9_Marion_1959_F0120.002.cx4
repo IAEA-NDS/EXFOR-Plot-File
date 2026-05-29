@@ -1,0 +1,25 @@
+# EXFOR #         : F0120.002  
+# EXFOR Ver.      : 20120126
+# TRANS #         : F045
+# Author          : J.B.Marion et al.
+# Reference       : Phys.Rev. 115 (1959) 144
+# DOI             : 10.1103/PhysRev.115.144
+# Quantity        : 9Be(p,n)9B partial angular differential cross section
+# REACTION        : 4-BE-9(P,N)5-B-9,PAR,DA
+# File ID         : p-Be9-n-adxl-angdisl-mon-einc4.879E+06_elvl0.000E+00_prodB9_Marion_1959_f0120.002
+#
+# Einc (eV)       :   4.8790E+06
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :    0.0000000
+# xmax            :    0.0000000
+# ymin            :   2.3460E-02
+# ymax            :   2.3460E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  2.3460E-02  7.0380E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : A0512.080  
+# EXFOR Ver.      : 19980601
+# TRANS #         : 0000
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : Proceedings of 41.Conf.Nucl.Spectroscopy Nucl.Struct.,Minsk 1991 page 472
+# DOI             : N/A
+# Quantity        : natGe(p,x)59Fe cumulative production cross section
+# REACTION        : 32-GE-0(P,X)26-FE-59,CUM,SIG
+# File ID         : p-Ge-x-sigc-excfun-mon-prodFe59_Aleksandrov_1991_a0512.080
+#
+# npts            : 1           
+# xmin            :   6.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   2.1200E-03
+# ymax            :   2.1200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  2.1200E-03  9.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : O1099.093  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 181Ta(p,x)113gSn cumulative production cross section
+# REACTION        : 73-TA-181(P,X)50-SN-113-G,CUM,SIG
+# File ID         : p-Ta181-x-sigc-excfun-mon-prodSn113g_Michel_2002_o1099.093
+#
+# npts            : 5           
+# xmin            :   9.8600E+08
+# xmax            :   2.5800E+09
+# ymin            :   4.9600E-04
+# ymax            :   7.8500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.8600E+08  1.0000E+06  4.9600E-04  6.5000E-05
+  1.1800E+09  1.0000E+06  1.0900E-03  1.5000E-04
+  1.3800E+09  1.0000E+06  2.2500E-03  2.8000E-04
+  1.5700E+09  1.0000E+06  3.3700E-03  4.3000E-04
+  2.5800E+09  1.0000E+06  7.8500E-03  9.9000E-04
+#---------------------------------------------------

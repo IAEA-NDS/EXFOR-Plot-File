@@ -1,0 +1,27 @@
+# EXFOR #         : O0533.005  
+# EXFOR Ver.      : 20050406
+# TRANS #         : O023
+# Author          : R.Brandt
+# Reference       : Radiochim.Acta 16 (1971) 148
+# DOI             : 10.1524/ract.1971.16.34.148
+# Quantity        : natU(p,x) cumulative production cross section
+# REACTION        : 92-U-0(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-U-x-sigc-nucdis-mon-einc5.500E+08_Brandt_1971_o0533.005
+#
+# Einc (eV)       :   5.5000E+08
+#
+# npts            : 4           
+# xmin            : 35074.9     
+# xmax            : 35084.9     
+# ymin            :   9.0000E-06
+# ymax            :   2.1900E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     35074.9  9.0000E-06  3.6000E-10
+     35075.9  1.8000E-05  5.4000E-10
+     35083.9  2.1900E-02  5.9130E-04
+     35084.9  1.0400E-02  9.3600E-05
+#---------------------------------------------------

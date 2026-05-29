@@ -1,0 +1,24 @@
+# EXFOR #         : C1019.012  
+# EXFOR Ver.      : 20140930
+# TRANS #         : C145
+# Author          : C.B.Fulmer
+# Reference       : Phys.Rev. 125 (1962) 631
+# DOI             : 10.1103/PhysRev.125.631
+# Quantity        : 58Fe(p,el)58Fe angular differential cross section
+# REACTION        : 26-FE-58(P,EL)26-FE-58,,DA
+# File ID         : p-Fe58-el-adxc-angdisc-mon-einc2.220E+07_prodFe58_Fulmer_1962_c1019.012
+#
+# Einc (eV)       :   2.2200E+07
+#
+# npts            : 1           
+# xmin            :   91.0000000
+# xmax            :   91.0000000
+# ymin            :   9.4200E-03
+# ymax            :   9.4200E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  91.0000000   0.0000000  9.4200E-03  4.7100E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : O0468.028  
+# EXFOR Ver.      : 20001124
+# TRANS #         : 0000
+# Author          : G.Rudstam et al.
+# Reference       : J.Inorg.Nucl.Chem. 28 (1966) 771
+# DOI             : 10.1016/0022-1902(66)80414-1
+# Quantity        : natU(p,f)120Xe cumulative production cross section
+# REACTION        : 92-U-0(P,F)54-XE-120,CUM,SIG
+# File ID         : p-U-x-sigc-excfun-mon-prodXe120_Rudstam_1966_o0468.028
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   1.8000E+10
+# ymin            :   2.0000E-05
+# ymax            :   1.6200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  2.0000E-05  9.0000E-06
+  1.8000E+10  0.0000E+00  1.6200E-03  2.7000E-04
+#---------------------------------------------------

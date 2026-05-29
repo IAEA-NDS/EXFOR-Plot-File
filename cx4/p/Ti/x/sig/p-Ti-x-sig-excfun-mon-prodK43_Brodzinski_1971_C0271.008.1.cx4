@@ -1,0 +1,26 @@
+# EXFOR #         : C0271.008.1
+# EXFOR Ver.      : 19961009
+# TRANS #         : 0000
+# Author          : R.L.Brodzinski et al.
+# Reference       : Phys.Rev.C 4 (1971) 1250
+# DOI             : 10.1103/PhysRevC.4.1250
+# Quantity        : natTi(p,x)43K independent production cross section
+# REACTION        : 22-TI-0(P,X)19-K-43,,SIG
+# File ID         : p-Ti-x-sig-excfun-mon-prodK43_Brodzinski_1971_c0271.008.1
+#
+# npts            : 5           
+# xmin            :   4.5000E+07
+# xmax            :   5.8400E+08
+# ymin            :   1.1000E-03
+# ymax            :   2.1100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+07  0.0000E+00  1.1000E-03  2.5000E-04
+  1.1800E+08  0.0000E+00  1.2300E-03  1.8000E-04
+  3.1900E+08  0.0000E+00  2.0400E-03  4.8000E-04
+  4.3300E+08  0.0000E+00  1.4500E-03  2.8000E-04
+  5.8400E+08  0.0000E+00  2.1100E-03  6.8000E-04
+#---------------------------------------------------

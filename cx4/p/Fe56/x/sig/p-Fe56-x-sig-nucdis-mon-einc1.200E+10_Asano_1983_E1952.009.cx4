@@ -1,0 +1,25 @@
+# EXFOR #         : E1952.009  
+# EXFOR Ver.      : 20060906
+# TRANS #         : E038
+# Author          : T.Asano et al.
+# Reference       : Phys.Rev.C 28 No.4 (1983) 1840
+# DOI             : 10.1103/PhysRevC.28.1840
+# Quantity        : 56Fe(p,x) independent production cross section
+# REACTION        : 26-FE-56(P,X)ELEM/MASS,,SIG
+# File ID         : p-Fe56-x-sig-nucdis-mon-einc1.200E+10_Asano_1983_e1952.009
+#
+# Einc (eV)       :   1.2000E+10
+#
+# npts            : 2           
+# xmin            : 27055.9     
+# xmax            : 27056.9     
+# ymin            :   1.7000E-04
+# ymax            :   5.8000E-04
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     27056.9  5.8000E-04  4.0000E-05
+     27055.9  1.7000E-04  2.0000E-05
+#---------------------------------------------------

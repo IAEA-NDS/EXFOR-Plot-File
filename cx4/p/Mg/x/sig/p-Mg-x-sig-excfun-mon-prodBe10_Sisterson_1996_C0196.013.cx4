@@ -1,0 +1,25 @@
+# EXFOR #         : C0196.013  
+# EXFOR Ver.      : 20220530
+# TRANS #         : C213
+# Author          : J.M.Sisterson et al.
+# Reference       : Proceedings of Conf.on Appl.of Accel.in Res.and Ind.,Denton,USA,1996 page 811
+# DOI             : N/A
+# Quantity        : natMg(p,x)10Be independent production cross section
+# REACTION        : 12-MG-0(P,X)4-BE-10,,SIG
+# File ID         : p-Mg-x-sig-excfun-mon-prodBe10_Sisterson_1996_c0196.013
+#
+# npts            : 4           
+# xmin            :   4.2300E+07
+# xmax            :   6.7400E+07
+# ymin            :   7.0000E-06
+# ymax            :   3.3000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.2300E+07  0.0000E+00  7.0000E-06  1.0000E-06
+  4.9900E+07  0.0000E+00  1.1000E-05  2.0000E-06
+  5.9700E+07  0.0000E+00  2.3000E-05  2.0000E-06
+  6.7400E+07  0.0000E+00  3.3000E-05  3.0000E-06
+#---------------------------------------------------

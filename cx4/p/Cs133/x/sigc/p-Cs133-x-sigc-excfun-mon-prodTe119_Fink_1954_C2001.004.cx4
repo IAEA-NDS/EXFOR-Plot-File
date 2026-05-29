@@ -1,0 +1,22 @@
+# EXFOR #         : C2001.004  
+# EXFOR Ver.      : 20130416
+# TRANS #         : C131
+# Author          : R.W.Fink et al.
+# Reference       : Phys.Rev. 94 (1954) 1357
+# DOI             : 10.1103/PhysRev.94.1357
+# Quantity        : 133Cs(p,x)119Te cumulative production cross section
+# REACTION        : 55-CS-133(P,X)52-TE-119,CUM,SIG
+# File ID         : p-Cs133-x-sigc-excfun-mon-prodTe119_Fink_1954_c2001.004
+#
+# npts            : 1           
+# xmin            :   2.4000E+08
+# xmax            :   2.4000E+08
+# ymin            :   5.0000E-02
+# ymax            :   5.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+08  0.0000E+00  5.0000E-02  0.0000E+00
+#---------------------------------------------------

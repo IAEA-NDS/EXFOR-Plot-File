@@ -1,0 +1,30 @@
+# EXFOR #         : F1360.005  
+# EXFOR Ver.      : 20180911
+# TRANS #         : F070
+# Author          : I.A.Vorontsov et al.
+# Reference       : Proceedings of Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 page 120
+# DOI             : N/A
+# Quantity        : natTa(p,p+x) double differential cross section
+# REACTION        : 73-TA-0(P,X)1-H-1,,DA/DP
+# File ID         : p-Ta-xp-ddxl-enedisl-mon-einc1.280E+09_angl4_Vorontsov_1996_f1360.005
+#
+# Einc (eV)       :   1.2800E+09
+# theta,lab (deg) :    3.5000000
+#
+# npts            : 6           
+# xmin            :   2.1594E+09
+# xmax            :   2.9582E+09
+# ymin            :   1.9826E-09
+# ymax            :   4.0274E-09
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.1594E+09  0.0000E+00  1.9826E-09  0.0000E+00
+  2.2981E+09  0.0000E+00  2.4533E-09  0.0000E+00
+  2.4506E+09  0.0000E+00  2.4320E-09  0.0000E+00
+  2.6131E+09  0.0000E+00  3.0151E-09  0.0000E+00
+  2.7829E+09  0.0000E+00  3.8823E-09  0.0000E+00
+  2.9582E+09  0.0000E+00  4.0274E-09  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C3102.002  
+# EXFOR Ver.      : 20260120
+# TRANS #         : C253
+# Author          : S.Mirzadeh et al.
+# Reference       : Appl.Radiat.Isot. 37 (1986) 29
+# DOI             : 10.1016/0883-2889(86)90192-9
+# Quantity        : natZn(p,x)61Cu cumulative production cross section
+# REACTION        : 30-ZN-0(P,X)29-CU-61,(CUM),SIG
+# File ID         : p-Zn-x-sigc-excfun-mon-prodCu61_Mirzadeh_1986_c3102.002
+#
+# npts            : 1           
+# xmin            :   2.0000E+08
+# xmax            :   2.0000E+08
+# ymin            :   2.3000E-02
+# ymax            :   2.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  2.3000E-02  1.6000E-03
+#---------------------------------------------------

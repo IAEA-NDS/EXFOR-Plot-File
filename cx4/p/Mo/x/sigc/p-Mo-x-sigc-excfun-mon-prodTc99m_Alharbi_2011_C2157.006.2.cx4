@@ -1,0 +1,29 @@
+# EXFOR #         : C2157.006.2
+# EXFOR Ver.      : 20150310
+# TRANS #         : C148
+# Author          : A.A.Alharbi et al.
+# Reference       : Radioisotopes-Applications in Bio-Medical Sci. 2011 page 3 (2011)
+# DOI             : N/A
+# Quantity        : natMo(p,x)99mTc cumulative production cross section
+# REACTION        : 42-MO-0(P,X)43-TC-99-M,CUM,SIG
+# File ID         : p-Mo-x-sigc-excfun-mon-prodTc99m_Alharbi_2011_c2157.006.2
+#
+# npts            : 8           
+# xmin            :   8.0000E+06
+# xmax            :   2.0000E+07
+# ymin            :   6.0000E-03
+# ymax            :   2.2200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+06  8.0000E+05  6.0000E-03  9.0000E-04
+  1.0000E+07  7.0000E+05  1.1600E-01  1.1000E-02
+  1.2000E+07  7.0000E+05  1.7000E-01  1.4000E-02
+  1.3000E+07  6.0000E+05  1.9600E-01  1.6000E-02
+  1.5000E+07  6.0000E+05  2.2200E-01  1.6000E-02
+  1.7000E+07  6.0000E+05  2.2000E-01  1.8000E-02
+  1.8000E+07  5.0000E+05  1.8200E-01  1.2000E-02
+  2.0000E+07  5.0000E+05  1.2000E-01  1.0000E-02
+#---------------------------------------------------

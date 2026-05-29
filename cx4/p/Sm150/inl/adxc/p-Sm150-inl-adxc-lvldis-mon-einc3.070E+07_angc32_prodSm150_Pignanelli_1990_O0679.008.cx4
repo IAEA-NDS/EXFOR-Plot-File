@@ -1,0 +1,26 @@
+# EXFOR #         : O0679.008  
+# EXFOR Ver.      : 20000427
+# TRANS #         : 0000
+# Author          : M.Pignanelli et al.
+# Reference       : Nucl.Phys.A 519 (1990) 567
+# DOI             : 10.1016/0375-9474(90)90447-T
+# Quantity        : 150Sm(p,inl)150Sm partial angular differential cross section
+# REACTION        : 62-SM-150(P,INL)62-SM-150,PAR,DA
+# File ID         : p-Sm150-inl-adxc-lvldis-mon-einc3.070E+07_angc32_prodSm150_Pignanelli_1990_o0679.008
+#
+# Einc (eV)       :   3.0700E+07
+# theta,cm (deg)  :   31.7500000
+# dtheta,cm (deg) :    0.3000000
+#
+# npts            : 1           
+# xmin            :   1.1630E+06
+# xmax            :   1.1630E+06
+# ymin            :   8.4000E-05
+# ymax            :   8.4000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1630E+06  0.0000E+00  8.4000E-05  2.1000E-06
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : E2659.029  
+# EXFOR Ver.      : 20220818
+# TRANS #         : E135
+# Author          : A.Frotscher et al.
+# Reference       : Phys.Rev.Lett. 125 (2020) 012501
+# DOI             : 10.1103/PhysRevLett.125.012501
+# Quantity        : 90Se(p,3p)88Ge cross section
+# REACTION        : 34-SE-90(P,3P)32-GE-88,,SIG
+# File ID         : p-Se90-3p-sig-excfun-mon-prodGe88_Frotscher_2020_e2659.029
+#
+# npts            : 1           
+# xmin            :   2.8100E+08
+# xmax            :   2.8100E+08
+# ymin            :   3.0000E-05
+# ymax            :   3.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8100E+08  0.0000E+00  3.0000E-05  1.0000E-05
+#---------------------------------------------------

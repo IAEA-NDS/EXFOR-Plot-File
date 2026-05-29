@@ -1,0 +1,27 @@
+# EXFOR #         : O0289.002  
+# EXFOR Ver.      : 20220105
+# TRANS #         : O086
+# Author          : F.E.Bertrand et al.
+# Reference       : Report ORNL-4471, 1970
+# DOI             : N/A
+# Quantity        : 120Sn(p,el)120Sn angular differential cross section
+# REACTION        : 50-SN-120(P,EL)50-SN-120,,DA
+# File ID         : p-Sn120-el-adxc-angdisc-mon-einc2.880E+07_prodSn120_Bertrand_1970_o0289.002
+#
+# Einc (eV)       :   2.8800E+07
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 3           
+# xmin            :   15.2000000
+# xmax            :  125.5000000
+# ymin            :   8.8000E-04
+# ymax            :   8.4650E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.2000000   0.0000000  8.4650E+00  8.4650E-03
+  30.2000000   0.0000000  5.0100E-01  1.5030E-03
+ 125.5000000   0.0000000  8.8000E-04  1.5840E-05
+#---------------------------------------------------

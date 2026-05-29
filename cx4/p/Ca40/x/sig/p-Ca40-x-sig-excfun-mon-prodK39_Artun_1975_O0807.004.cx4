@@ -1,0 +1,24 @@
+# EXFOR #         : O0807.004  
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : O.Artun et al.
+# Reference       : Phys.Rev.Lett. 35 (1975) 773
+# DOI             : 10.1103/PhysRevLett.35.773
+# Quantity        : 40Ca(p,x)39K independent production cross section
+# REACTION        : 20-CA-40(P,X)19-K-39,,SIG
+# File ID         : p-Ca40-x-sig-excfun-mon-prodK39_Artun_1975_o0807.004
+#
+# npts            : 3           
+# xmin            :   1.1000E+08
+# xmax            :   6.0000E+08
+# ymin            :   3.2000E-03
+# ymax            :   1.5200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1000E+08  0.0000E+00  1.5200E-02  3.0400E-03
+  2.1000E+08  0.0000E+00  9.7000E-03  1.9400E-03
+  6.0000E+08  0.0000E+00  3.2000E-03  6.4000E-04
+#---------------------------------------------------

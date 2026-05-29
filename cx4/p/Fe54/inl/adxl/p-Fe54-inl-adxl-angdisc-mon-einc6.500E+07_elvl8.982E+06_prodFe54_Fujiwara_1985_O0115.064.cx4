@@ -1,0 +1,29 @@
+# EXFOR #         : O0115.064  
+# EXFOR Ver.      : 19950605
+# TRANS #         : 0000
+# Author          : M.Fujiwara et al.
+# Reference       : Phys.Rev.C 32 (1985) 830
+# DOI             : 10.1103/PhysRevC.32.830
+# Quantity        : 54Fe(p,inl)54Fe partial angular differential cross section
+# REACTION        : 26-FE-54(P,INL)26-FE-54,PAR,DA,,,EXP
+# File ID         : p-Fe54-inl-adxl-angdisc-mon-einc6.500E+07_elvl8.982E+06_prodFe54_Fujiwara_1985_o0115.064
+#
+# Einc (eV)       :   6.5000E+07
+# Elvl (eV)       :   8.9820E+06
+#
+# npts            : 5           
+# xmin            :    6.9000000
+# xmax            :   24.3000000
+# ymin            :   3.0000E-05
+# ymax            :   6.2000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.9000000   0.4000000  5.7100E-05  1.7130E-06
+   8.7000000   0.4000000  5.0300E-05  1.5090E-06
+  12.7000000   0.4000000  5.0300E-05  1.5090E-06
+  17.4000000   0.4000000  6.2000E-05  1.4880E-05
+  24.3000000   0.4000000  3.0000E-05  9.0000E-06
+#---------------------------------------------------

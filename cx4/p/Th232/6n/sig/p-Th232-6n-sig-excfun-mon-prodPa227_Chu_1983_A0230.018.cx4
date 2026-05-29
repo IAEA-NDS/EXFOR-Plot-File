@@ -1,0 +1,22 @@
+# EXFOR #         : A0230.018  
+# EXFOR Ver.      : 20240820
+# TRANS #         : A116
+# Author          : Y.Y.Chu et al.
+# Reference       : IEEE Trans.Nucl.Sci. 30 (1983) 1153
+# DOI             : 10.1109/TNS.1983.4332477
+# Quantity        : 232Th(p,6n)227Pa cross section
+# REACTION        : 90-TH-232(P,6N)91-PA-227,,SIG
+# File ID         : p-Th232-6n-sig-excfun-mon-prodPa227_Chu_1983_a0230.018
+#
+# npts            : 1           
+# xmin            :   2.0000E+08
+# xmax            :   2.0000E+08
+# ymin            :   3.7000E-04
+# ymax            :   3.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  3.7000E-04  4.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : C0272.008.1
+# EXFOR Ver.      : 20160809
+# TRANS #         : C161
+# Author          : R.L.Brodzinski et al.
+# Reference       : Phys.Rev.C 4 (1971) 1257
+# DOI             : 10.1103/PhysRevC.4.1257
+# Quantity        : natFe(p,x)48Cr independent production cross section
+# REACTION        : 26-FE-0(P,X)24-CR-48,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodCr48_Brodzinski_1971_c0272.008.1
+#
+# npts            : 3           
+# xmin            :   1.2000E+08
+# xmax            :   5.8500E+08
+# ymin            :   3.4500E-04
+# ymax            :   5.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+08  0.0000E+00  3.4500E-04  4.5000E-05
+  4.3400E+08  0.0000E+00  4.5400E-04  7.9000E-05
+  5.8500E+08  0.0000E+00  5.5000E-04  1.7000E-04
+#---------------------------------------------------

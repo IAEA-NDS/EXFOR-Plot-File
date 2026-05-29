@@ -1,0 +1,22 @@
+# EXFOR #         : C0282.007  
+# EXFOR Ver.      : 20211005
+# TRANS #         : C206
+# Author          : N.T.Porile et al.
+# Reference       : Phys.Rev. 130 (1963) 1541
+# DOI             : 10.1103/PhysRev.130.1541
+# Quantity        : 79Br(p,x)78Br independent production cross section
+# REACTION        : 35-BR-79(P,X)35-BR-78,,SIG
+# File ID         : p-Br79-x-sig-excfun-mon-prodBr78_Porile_1963_c0282.007
+#
+# npts            : 1           
+# xmin            :   2.9000E+09
+# xmax            :   2.9000E+09
+# ymin            :   5.6000E-02
+# ymax            :   5.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9000E+09  0.0000E+00  5.6000E-02  3.0000E-03
+#---------------------------------------------------

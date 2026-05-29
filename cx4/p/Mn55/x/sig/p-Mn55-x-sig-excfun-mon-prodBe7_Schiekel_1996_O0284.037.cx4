@@ -1,0 +1,24 @@
+# EXFOR #         : O0284.037  
+# EXFOR Ver.      : 20191005
+# TRANS #         : O071
+# Author          : Th.Schiekel et al.
+# Reference       : Nucl.Instrum.Meth.B 114 (1996) 91
+# DOI             : 10.1016/0168-583X(96)00145-0
+# Quantity        : 55Mn(p,x)7Be independent production cross section
+# REACTION        : 25-MN-55(P,X)4-BE-7,,SIG
+# File ID         : p-Mn55-x-sig-excfun-mon-prodBe7_Schiekel_1996_o0284.037
+#
+# npts            : 3           
+# xmin            :   2.8200E+08
+# xmax            :   3.8400E+08
+# ymin            :   8.7600E-04
+# ymax            :   1.2300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8200E+08  1.0600E+06  8.7600E-04  2.0400E-04
+  3.4800E+08  1.5900E+06  9.8100E-04  2.4500E-04
+  3.8400E+08  1.0400E+06  1.2300E-03  3.0200E-04
+#---------------------------------------------------

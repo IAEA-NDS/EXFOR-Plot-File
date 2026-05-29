@@ -1,0 +1,22 @@
+# EXFOR #         : B0071.002.M
+# EXFOR Ver.      : 20220316
+# TRANS #         : B033
+# Author          : D.J.Reuland et al.
+# Reference       : J.Inorg.Nucl.Chem. 31 (1969) 1915
+# DOI             : 10.1016/0022-1902(69)90005-0
+# Quantity        : 52Cr(p,n)52mMn cross section
+# REACTION        : 24-CR-52(P,N)25-MN-52-M,,SIG
+# File ID         : p-Cr52-n-sig-excfun-mon-prodMn52m_Reuland_1969_b0071.002.m
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   3.6000E-04
+# ymax            :   3.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  2.0000E+07  3.6000E-04  1.1520E-04
+#---------------------------------------------------

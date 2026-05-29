@@ -1,0 +1,29 @@
+# EXFOR #         : E2502.003  
+# EXFOR Ver.      : 20220628
+# TRANS #         : E135
+# Author          : J.Chen et al.
+# Reference       : Phys.Rev.C 93 (2016) 034623
+# DOI             : 10.1103/PhysRevC.93.034623
+# Quantity        : 11Be(p,inl)11Be partial angular differential cross section
+# REACTION        : 4-BE-11(P,INL)4-BE-11,PAR,DA
+# File ID         : p-Be11-inl-adxc-angdisc-mon-einc2.690E+07_elvl1.750E+06_prodBe11_Chen_2016_e2502.003
+#
+# Einc (eV)       :   2.6900E+07
+# Elvl (eV)       :   1.7500E+06
+# dElvl (eV)      :   1.2500E+06
+#
+# npts            : 4           
+# xmin            :   24.7800000
+# xmax            :   38.0600000
+# ymin            :   1.3400E-02
+# ymax            :   3.8260E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  24.7800000   0.0000000  3.8260E-02  7.2400E-03
+  30.2000000   0.0000000  2.6790E-02  5.5500E-03
+  34.6300000   0.0000000  1.3400E-02  4.2200E-03
+  38.0600000   0.0000000  1.9670E-02  6.6400E-03
+#---------------------------------------------------

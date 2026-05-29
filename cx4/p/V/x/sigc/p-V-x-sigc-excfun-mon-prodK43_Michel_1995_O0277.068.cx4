@@ -1,0 +1,24 @@
+# EXFOR #         : O0277.068  
+# EXFOR Ver.      : 20131028
+# TRANS #         : O051
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natV(p,x)43K cumulative production cross section
+# REACTION        : 23-V-0(P,X)19-K-43,CUM,SIG
+# File ID         : p-V-x-sigc-excfun-mon-prodK43_Michel_1995_o0277.068
+#
+# npts            : 3           
+# xmin            :   8.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   4.5900E-03
+# ymax            :   5.5200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  5.5200E-03  4.6000E-04
+  1.2000E+09  0.0000E+00  4.5900E-03  3.3000E-04
+  2.6000E+09  0.0000E+00  4.6300E-03  4.3000E-04
+#---------------------------------------------------

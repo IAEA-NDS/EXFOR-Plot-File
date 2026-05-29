@@ -1,0 +1,23 @@
+# EXFOR #         : O0661.003.S
+# EXFOR Ver.      : 20010115
+# TRANS #         : 0000
+# Author          : H.A.Tewes et al.
+# Reference       : Phys.Rev. 88 (1952) 860
+# DOI             : 10.1103/PhysRev.88.860
+# Quantity        : 232Th(p,3n)230Pa cross section
+# REACTION        : 90-TH-232(P,3N)91-PA-230,,SIG
+# File ID         : p-Th232-3n-sig-excfun-mon-prodPa230_Tewes_1952_o0661.003.s
+#
+# npts            : 2           
+# xmin            :   1.9500E+07
+# xmax            :   2.1100E+07
+# ymin            :   2.7500E-01
+# ymax            :   2.8500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9500E+07  0.0000E+00  2.7500E-01  7.1500E-03
+  2.1100E+07  0.0000E+00  2.8500E-01  7.4100E-03
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : F1100.007  
+# EXFOR Ver.      : 20260108
+# TRANS #         : F107
+# Author          : A.B.Kurepin et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 31 (1968) 174
+# DOI             : N/A
+# Quantity        : 174Yb(p,inl)174Yb partial angular differential cross section
+# REACTION        : 70-YB-174(P,INL)70-YB-174,PAR,DA
+# File ID         : p-Yb174-inl-adxl-angdisl-mon-einc1.200E+07_elvl5.270E+05_prodYb174_Kurepin_1968_f1100.007
+#
+# Einc (eV)       :   1.2000E+07
+# Elvl (eV)       :   5.2700E+05
+#
+# npts            : 3           
+# xmin            :  149.4000000
+# xmax            :  159.4000000
+# ymin            :   1.9100E-05
+# ymax            :   2.4800E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 149.4000000   0.0000000  2.1300E-05  2.6000E-06
+ 159.4000000   0.0000000  1.9100E-05  2.6000E-06
+ 159.4000000   0.0000000  2.4800E-05  3.4000E-06
+#---------------------------------------------------

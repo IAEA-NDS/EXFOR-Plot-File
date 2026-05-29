@@ -1,0 +1,30 @@
+# EXFOR #         : C1422.002  
+# EXFOR Ver.      : 20060227
+# TRANS #         : C077
+# Author          : O.Hausser et al.
+# Reference       : Phys.Rev.C 37 (1988) 1119
+# DOI             : 10.1103/PhysRevC.37.1119
+# Quantity        : 28Si(p,inl)28Si partial angular differential cross section
+# REACTION        : 14-SI-28(P,INL)14-SI-28,PAR,DA
+# File ID         : p-Si28-inl-adxc-angdisc-mon-einc4.000E+08_elvl1.145E+07_prodSi28_Hausser_1988_c1422.002
+#
+# Einc (eV)       :   4.0000E+08
+# Elvl (eV)       :   1.1450E+07
+#
+# npts            : 6           
+# xmin            :    4.1300000
+# xmax            :    8.1100000
+# ymin            :   3.6600E-04
+# ymax            :   1.3000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.1300000   0.0000000  1.3000E-03  1.0800E-04
+   4.9000000   0.0000000  1.0700E-03  7.4300E-05
+   5.7500000   0.0000000  7.3800E-04  7.0600E-05
+   6.3200000   0.0000000  5.3900E-04  3.0100E-05
+   7.2200000   0.0000000  4.1600E-04  3.4400E-05
+   8.1100000   0.0000000  3.6600E-04  3.5100E-05
+#---------------------------------------------------

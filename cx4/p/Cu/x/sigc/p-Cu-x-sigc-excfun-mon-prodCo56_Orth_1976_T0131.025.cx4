@@ -1,0 +1,22 @@
+# EXFOR #         : T0131.025  
+# EXFOR Ver.      : 20001127
+# TRANS #         : 0000
+# Author          : C.J.Orth et al.
+# Reference       : J.Inorg.Nucl.Chem. 38 (1976) 13
+# DOI             : 10.1016/0022-1902(76)80040-1
+# Quantity        : natCu(p,x)56Co cumulative production cross section
+# REACTION        : 29-CU-0(P,X)27-CO-56,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodCo56_Orth_1976_t0131.025
+#
+# npts            : 1           
+# xmin            :   5.9000E+08
+# xmax            :   5.9000E+08
+# ymin            :   1.0210E-02
+# ymax            :   1.0210E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  1.0210E-02  7.4000E-04
+#---------------------------------------------------

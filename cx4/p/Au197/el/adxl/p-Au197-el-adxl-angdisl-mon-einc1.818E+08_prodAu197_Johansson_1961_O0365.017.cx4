@@ -1,0 +1,26 @@
+# EXFOR #         : O0365.017  
+# EXFOR Ver.      : 20200113
+# TRANS #         : O073
+# Author          : A.Johansson et al.
+# Reference       : Arkiv foer Fysik 19 (1961) 541
+# DOI             : N/A
+# Quantity        : 197Au(p,el)197Au angular differential cross section
+# REACTION        : 79-AU-197(P,EL)79-AU-197,,DA
+# File ID         : p-Au197-el-adxl-angdisl-mon-einc1.818E+08_prodAu197_Johansson_1961_o0365.017
+#
+# Einc (eV)       :   1.8180E+08
+#
+# npts            : 3           
+# xmin            :    9.3300000
+# xmax            :   14.0700000
+# ymin            :   4.0000E-01
+# ymax            :   1.5840E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.3300000   0.6600000  1.5840E+00  2.7000E-02
+  11.5700000   0.6600000  4.0000E-01  7.6000E-03
+  14.0700000   0.6600000  5.6600E-01  1.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C0348.004.1
+# EXFOR Ver.      : 20230616
+# TRANS #         : C232
+# Author          : B.M.Foreman
+# Reference       : Phys.Rev. 132 (1963) 1768
+# DOI             : 10.1103/PhysRev.132.1768
+# Quantity        : 142Ce(p,2p)141La cross section
+# REACTION        : 58-CE-142(P,2P)57-LA-141,,SIG
+# File ID         : p-Ce142-2p-sig-excfun-mon-prodLa141_Foreman_1963_c0348.004.1
+#
+# npts            : 1           
+# xmin            :   3.7000E+08
+# xmax            :   3.7000E+08
+# ymin            :   2.0000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+08  0.0000E+00  2.0000E-02  2.3000E-03
+#---------------------------------------------------

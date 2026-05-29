@@ -1,0 +1,30 @@
+# EXFOR #         : C0841.006  
+# EXFOR Ver.      : 20100520
+# TRANS #         : C099
+# Author          : A.M.Kalend et al.
+# Reference       : Phys.Rev.C 28 (1983) 105
+# DOI             : 10.1103/PhysRevC.28.105
+# Quantity        : 90Zr(p,n+x) double differential cross section
+# REACTION        : 40-ZR-90(P,X)0-NN-1,,DA/DE
+# File ID         : p-Zr90-xn-ddxl-enedisl-mon-einc9.000E+07_angl105_Kalend_1983_c0841.006
+#
+# Einc (eV)       :   9.0000E+07
+# theta,lab (deg) :  105.0000000
+#
+# npts            : 6           
+# xmin            :   4.2300E+07
+# xmax            :   8.7700E+07
+# ymin            :   6.0500E-13
+# ymax            :   9.5200E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  4.2300E+07  0.0000E+00  9.5200E-11  7.0450E-12
+  4.8200E+07  0.0000E+00  5.4200E-11  4.2280E-12
+  5.5200E+07  0.0000E+00  2.1100E-11  1.9410E-12
+  6.3700E+07  0.0000E+00  9.3200E-12  1.0350E-12
+  7.4300E+07  0.0000E+00  1.6700E-12  3.3900E-13
+  8.7700E+07  0.0000E+00  6.0500E-13  1.7790E-13
+#---------------------------------------------------

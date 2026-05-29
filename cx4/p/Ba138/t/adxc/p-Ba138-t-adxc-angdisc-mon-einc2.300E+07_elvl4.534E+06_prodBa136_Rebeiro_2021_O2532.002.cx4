@@ -1,0 +1,29 @@
+# EXFOR #         : O2532.002  
+# EXFOR Ver.      : 20220218
+# TRANS #         : O094
+# Author          : B.M.Rebeiro et al.
+# Reference       : Phys.Rev.C 104 (2021) 034309
+# DOI             : 10.1103/PhysRevC.104.034309
+# Quantity        : 138Ba(p,t)136Ba partial angular differential cross section
+# REACTION        : 56-BA-138(P,T)56-BA-136,PAR,DA
+# File ID         : p-Ba138-t-adxc-angdisc-mon-einc2.300E+07_elvl4.534E+06_prodBa136_Rebeiro_2021_o2532.002
+#
+# Einc (eV)       :   2.3000E+07
+# Elvl (eV)       :   4.5340E+06
+#
+# npts            : 5           
+# xmin            :   15.2700000
+# xmax            :   40.6700000
+# ymin            :   2.0000E-07
+# ymax            :   1.2000E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.2700000   0.0000000  6.0000E-07  3.0000E-07
+  20.3600000   0.0000000  1.2000E-06  5.0000E-07
+  25.4400000   0.0000000  1.0000E-06  4.0000E-07
+  35.6000000   0.0000000  4.0000E-07  1.0000E-07
+  40.6700000   0.0000000  2.0000E-07  1.0000E-07
+#---------------------------------------------------

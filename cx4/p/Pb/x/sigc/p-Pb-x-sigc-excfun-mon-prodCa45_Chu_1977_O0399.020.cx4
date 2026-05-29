@@ -1,0 +1,25 @@
+# EXFOR #         : O0399.020  
+# EXFOR Ver.      : 20020909
+# TRANS #         : 0000
+# Author          : Y.Y.Chu et al.
+# Reference       : Phys.Rev.C 15 (1977) 352
+# DOI             : 10.1103/PhysRevC.15.352
+# Quantity        : natPb(p,x)45Ca cumulative production cross section
+# REACTION        : 82-PB-0(P,X)20-CA-45,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodCa45_Chu_1977_o0399.020
+#
+# npts            : 4           
+# xmin            :   1.0000E+09
+# xmax            :   2.8500E+10
+# ymin            :   2.6000E-04
+# ymax            :   3.2500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  2.6000E-04  4.0000E-05
+  2.0000E+09  0.0000E+00  6.2000E-04  1.0000E-04
+  3.0000E+09  0.0000E+00  1.3900E-03  2.0000E-04
+  2.8500E+10  0.0000E+00  3.2500E-03  3.5000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : C0236.016.2
+# EXFOR Ver.      : 20211005
+# TRANS #         : C206
+# Author          : I.Dostrovsky et al.
+# Reference       : Phys.Rev. 139 (1965) B1513
+# DOI             : 10.1103/PhysRev.139.B1513
+# Quantity        : natLa(p,x)16C independent production cross section
+# REACTION        : 57-LA-0(P,X)6-C-16,,SIG
+# File ID         : p-La-x-sig-excfun-mon-prodC16_Dostrovsky_1965_c0236.016.2
+#
+# npts            : 2           
+# xmin            :   1.0000E+09
+# xmax            :   2.8000E+09
+# ymin            :   7.2000E-05
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  7.2000E-05  0.0000E+00
+  2.8000E+09  0.0000E+00  5.0000E-04  0.0000E+00
+#---------------------------------------------------

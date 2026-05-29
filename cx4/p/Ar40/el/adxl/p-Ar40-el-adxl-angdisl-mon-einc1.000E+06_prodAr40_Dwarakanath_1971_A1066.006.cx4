@@ -1,0 +1,24 @@
+# EXFOR #         : A1066.006  
+# EXFOR Ver.      : 20210125
+# TRANS #         : A096
+# Author          : M.R.Dwarakanath et al.
+# Reference       : Phys.Rev.C 4 (1971) 1532
+# DOI             : 10.1103/PhysRevC.4.1532
+# Quantity        : 40Ar(p,el)40Ar angular differential cross section
+# REACTION        : 18-AR-40(P,EL)18-AR-40,,DA
+# File ID         : p-Ar40-el-adxl-angdisl-mon-einc1.000E+06_prodAr40_Dwarakanath_1971_a1066.006
+#
+# Einc (eV)       :   1.0000E+06
+#
+# npts            : 1           
+# xmin            :  140.0000000
+# xmax            :  140.0000000
+# ymin            :   5.6300E-01
+# ymax            :   5.6300E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 140.0000000   0.0000000  5.6300E-01  0.0000E+00
+#---------------------------------------------------

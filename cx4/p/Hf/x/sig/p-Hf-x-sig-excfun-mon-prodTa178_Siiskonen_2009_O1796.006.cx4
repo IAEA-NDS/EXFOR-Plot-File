@@ -1,0 +1,26 @@
+# EXFOR #         : O1796.006  
+# EXFOR Ver.      : 20091103
+# TRANS #         : O041
+# Author          : T.Siiskonen et al.
+# Reference       : Nucl.Instrum.Meth.B 267 (2009) 3500
+# DOI             : 10.1016/j.nimb.2009.08.016
+# Quantity        : natHf(p,x)178Ta independent production cross section
+# REACTION        : 72-HF-0(P,X)73-TA-178,,SIG
+# File ID         : p-Hf-x-sig-excfun-mon-prodTa178_Siiskonen_2009_o1796.006
+#
+# npts            : 5           
+# xmin            :   9.8100E+06
+# xmax            :   1.6580E+07
+# ymin            :   7.9000E-03
+# ymax            :   5.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.8100E+06  5.5000E+05  7.9000E-03  8.0000E-04
+  1.0920E+07  5.0000E+05  1.9100E-02  1.8000E-03
+  1.2280E+07  4.5000E+05  2.6000E-02  3.0000E-03
+  1.3550E+07  4.0000E+05  3.2000E-02  4.0000E-03
+  1.6580E+07  3.0000E+05  5.3000E-02  6.0000E-03
+#---------------------------------------------------

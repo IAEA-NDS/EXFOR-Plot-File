@@ -1,0 +1,22 @@
+# EXFOR #         : T0131.034  
+# EXFOR Ver.      : 20001127
+# TRANS #         : 0000
+# Author          : C.J.Orth et al.
+# Reference       : J.Inorg.Nucl.Chem. 38 (1976) 13
+# DOI             : 10.1016/0022-1902(76)80040-1
+# Quantity        : natCu(p,x)51Cr cumulative production cross section
+# REACTION        : 29-CU-0(P,X)24-CR-51,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodCr51_Orth_1976_t0131.034
+#
+# npts            : 1           
+# xmin            :   5.9000E+08
+# xmax            :   5.9000E+08
+# ymin            :   2.6900E-02
+# ymax            :   2.6900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  2.6900E-02  1.7500E-03
+#---------------------------------------------------

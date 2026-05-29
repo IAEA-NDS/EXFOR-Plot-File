@@ -1,0 +1,26 @@
+# EXFOR #         : T0110.048  
+# EXFOR Ver.      : 20071109
+# TRANS #         : Y004
+# Author          : W.Scobel et al.
+# Reference       : Phys.Rev.C 30 (1984) 1480
+# DOI             : 10.1103/PhysRevC.30.1480
+# Quantity        : 159Tb(p,n)159Dy double differential cross section
+# REACTION        : 65-TB-159(P,N)66-DY-159,,DA/DE
+# File ID         : p-Tb159-n-ddxl-enedisl-mon-einc2.500E+07_angl160_prodDy159_Scobel_1984_t0110.048
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   8.0000E+04
+# theta,lab (deg) :  159.9000000
+#
+# npts            : 1           
+# xmin            :   4.6900E+06
+# xmax            :   4.6900E+06
+# ymin            :   2.0500E-06
+# ymax            :   2.0500E-06
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  4.6900E+06  0.0000E+00  2.0500E-06  3.3600E-06
+#---------------------------------------------------

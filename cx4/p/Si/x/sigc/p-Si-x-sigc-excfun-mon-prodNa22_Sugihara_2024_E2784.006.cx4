@@ -1,0 +1,25 @@
+# EXFOR #         : E2784.006  
+# EXFOR Ver.      : 20241228
+# TRANS #         : E151
+# Author          : K.Sugihara et al.
+# Reference       : Nucl.Instrum.Meth.B 549 (2024) 165299
+# DOI             : 10.1016/j.nimb.2024.165299
+# Quantity        : natSi(p,x)22Na cumulative production cross section
+# REACTION        : 14-SI-0(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Si-x-sigc-excfun-mon-prodNa22_Sugihara_2024_e2784.006
+#
+# npts            : 4           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   1.3500E-02
+# ymax            :   1.7500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  1.7500E-02  6.0000E-04
+  1.3000E+09  0.0000E+00  1.5800E-02  5.0000E-04
+  2.2000E+09  0.0000E+00  1.4600E-02  1.1000E-03
+  3.0000E+09  0.0000E+00  1.3500E-02  4.0000E-04
+#---------------------------------------------------

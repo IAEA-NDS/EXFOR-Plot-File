@@ -1,0 +1,28 @@
+# EXFOR #         : C1085.021  
+# EXFOR Ver.      : 20041228
+# TRANS #         : 0000
+# Author          : O.Chamberlain et al.
+# Reference       : Phys.Rev. 102 (1956) 1659
+# DOI             : 10.1103/PhysRev.102.1659
+# Quantity        : 181Ta(p,el)181Ta angular differential cross section
+# REACTION        : 73-TA-181(P,EL)73-TA-181,,DA
+# File ID         : p-Ta181-el-adxl-angdisl-mon-einc3.160E+08_prodTa181_Chamberlain_1956_c1085.021
+#
+# Einc (eV)       :   3.1600E+08
+# dEinc (eV)      :   1.2000E+07
+#
+# npts            : 4           
+# xmin            :    4.0000000
+# xmax            :   10.0000000
+# ymin            :   5.0900E-01
+# ymax            :   4.1050E+01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.0000000   0.0000000  4.1050E+01  4.5000E-01
+   6.0000000   0.0000000  6.0080E+00  7.5000E-02
+   8.0000000   0.0000000  8.2300E-01  3.0000E-02
+  10.0000000   0.0000000  5.0900E-01  1.8000E-02
+#---------------------------------------------------

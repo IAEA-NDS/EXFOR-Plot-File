@@ -1,0 +1,26 @@
+# EXFOR #         : A1011.002  
+# EXFOR Ver.      : 20240228
+# TRANS #         : A109
+# Author          : H.Wassmer et al.
+# Reference       : Helv.Phys.Acta 46 (1973) 626
+# DOI             : N/A
+# Quantity        : 1H(p,el)1H angular differential cross section
+# REACTION        : 1-H-1(P,EL)1-H-1,,DA
+# File ID         : p-H1-el-adxc-angdisc-mon-einc4.992E+05_prodH1_Wassmer_1973_a1011.002
+#
+# Einc (eV)       :   4.9920E+05
+#
+# npts            : 3           
+# xmin            :   24.0000000
+# xmax            :   90.0000000
+# ymin            :   2.0213E-02
+# ymax            :   9.5799E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  24.0000000   0.0000000  9.5799E+00  2.5866E-01
+  50.0000000   0.0000000  3.1866E-01  9.5598E-03
+  90.0000000   0.0000000  2.0213E-02  1.6170E-03
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : E2456.002.1
+# EXFOR Ver.      : 20140916
+# TRANS #         : E092
+# Author          : S.Michimasa et al.
+# Reference       : Phys.Rev.C 89 (2014) 054307
+# DOI             : 10.1103/PhysRevC.89.054307
+# Quantity        : 28Ne(p,inl)28Ne partial cross section
+# REACTION        : 10-NE-28(P,INL)10-NE-28,PAR,SIG
+# File ID         : p-Ne28-inl-sig-lvldis-mon-einc5.350E+07_prodNe28_Michimasa_2014_e2456.002.1
+#
+# Einc (eV)       :   5.3500E+07
+#
+# npts            : 1           
+# xmin            :   1.3030E+06
+# xmax            :   1.3030E+06
+# ymin            :   2.4000E-02
+# ymax            :   2.4000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3030E+06  0.0000E+00  2.4000E-02  2.0000E-03
+#---------------------------------------------------

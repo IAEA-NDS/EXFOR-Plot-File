@@ -1,0 +1,25 @@
+# EXFOR #         : C2005.004  
+# EXFOR Ver.      : 20130520
+# TRANS #         : C132
+# Author          : R.E.Batzel et al.
+# Reference       : Phys.Rev. 82 (1951) 607
+# DOI             : 10.1103/PhysRev.82.607
+# Quantity        : natSn(p,x)24Na independent production cross section
+# REACTION        : 50-SN-0(P,X)11-NA-24,,SIG
+# File ID         : p-Sn-x-sig-excfun-mon-prodNa24_Batzel_1951_c2005.004
+#
+# npts            : 4           
+# xmin            :   9.8500E+07
+# xmax            :   3.2930E+08
+# ymin            :   8.3300E-08
+# ymax            :   2.7100E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.8500E+07  0.0000E+00  8.3300E-08  0.0000E+00
+  1.4750E+08  0.0000E+00  7.1700E-07  0.0000E+00
+  1.9600E+08  0.0000E+00  2.0400E-06  0.0000E+00
+  3.2930E+08  9.8790E+06  2.7100E-06  0.0000E+00
+#---------------------------------------------------

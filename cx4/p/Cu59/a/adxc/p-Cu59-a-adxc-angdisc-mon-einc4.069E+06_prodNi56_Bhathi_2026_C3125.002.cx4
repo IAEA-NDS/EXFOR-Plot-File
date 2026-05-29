@@ -1,0 +1,27 @@
+# EXFOR #         : C3125.002  
+# EXFOR Ver.      : 20260325
+# TRANS #         : C257
+# Author          : N.Bhathi et al.
+# Reference       : Astrophys.J. 999 (2026) 8
+# DOI             : 10.3847/1538-4357/ae3de6
+# Quantity        : 59Cu(p,a)56Ni angular differential cross section
+# REACTION        : 29-CU-59(P,A)28-NI-56,,DA
+# File ID         : p-Cu59-a-adxc-angdisc-mon-einc4.069E+06_prodNi56_Bhathi_2026_c3125.002
+#
+# Einc (eV)       :   4.0685E+06
+# dEinc (eV)      :   4.0003E+05
+#
+# npts            : 3           
+# xmin            :   81.9880000
+# xmax            :  122.0470000
+# ymin            :   1.7000E-05
+# ymax            :   3.0000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  81.9880000   0.0000000  1.7000E-05  4.0000E-06
+ 103.3530000   0.0000000  2.0000E-05  2.0000E-06
+ 122.0470000   0.0000000  3.0000E-05  5.0000E-06
+#---------------------------------------------------

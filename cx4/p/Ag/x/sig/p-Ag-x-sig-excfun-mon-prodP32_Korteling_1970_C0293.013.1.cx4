@@ -1,0 +1,23 @@
+# EXFOR #         : C0293.013.1
+# EXFOR Ver.      : 19871120
+# TRANS #         : 0000
+# Author          : R.Korteling et al.
+# Reference       : Phys.Rev.C 2 (1970) 957
+# DOI             : 10.1103/PhysRevC.2.957
+# Quantity        : natAg(p,x)32P independent production cross section
+# REACTION        : 47-AG-0(P,X)15-P-32,,SIG
+# File ID         : p-Ag-x-sig-excfun-mon-prodP32_Korteling_1970_c0293.013.1
+#
+# npts            : 2           
+# xmin            :   2.0000E+08
+# xmax            :   5.5000E+08
+# ymin            :   3.0000E-06
+# ymax            :   3.6300E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  3.0000E-06  0.0000E+00
+  5.5000E+08  0.0000E+00  3.6300E-05  2.2000E-06
+#---------------------------------------------------

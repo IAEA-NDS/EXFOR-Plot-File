@@ -1,0 +1,23 @@
+# EXFOR #         : O0468.055  
+# EXFOR Ver.      : 20001124
+# TRANS #         : 0000
+# Author          : G.Rudstam et al.
+# Reference       : J.Inorg.Nucl.Chem. 28 (1966) 771
+# DOI             : 10.1016/0022-1902(66)80414-1
+# Quantity        : 139La(p,x)130gI independent production cross section
+# REACTION        : 57-LA-139(P,X)53-I-130-G,IND,SIG
+# File ID         : p-La139-x-sig-excfun-mon-prodI130g_Rudstam_1966_o0468.055
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   1.8000E+10
+# ymin            :   2.8100E-04
+# ymax            :   3.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  3.3000E-04  2.0000E-05
+  1.8000E+10  0.0000E+00  2.8100E-04  2.9000E-05
+#---------------------------------------------------

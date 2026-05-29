@@ -1,0 +1,25 @@
+# EXFOR #         : O0887.003  
+# EXFOR Ver.      : 20030423
+# TRANS #         : 0000
+# Author          : J.Cohen-Ganouna et al.
+# Reference       : Nucl.Phys. 40 (1963) 67
+# DOI             : 10.1016/0029-5582(63)90253-0
+# Quantity        : 31P(p,el)31P angular differential cross section
+# REACTION        : 15-P-31(P,EL)15-P-31,,DA
+# File ID         : p-P31-el-adxl-angdisc-mon-einc1.231E+06_prodP31_Cohen+Ganouna_1963_o0887.003
+#
+# Einc (eV)       :   1.2310E+06
+# dEinc (eV)      :   3.0000E+05
+#
+# npts            : 1           
+# xmin            :   91.4500000
+# xmax            :   91.4500000
+# ymin            :   8.3550E-01
+# ymax            :   8.3550E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  91.4500000   0.0000000  8.3550E-01  0.0000E+00
+#---------------------------------------------------

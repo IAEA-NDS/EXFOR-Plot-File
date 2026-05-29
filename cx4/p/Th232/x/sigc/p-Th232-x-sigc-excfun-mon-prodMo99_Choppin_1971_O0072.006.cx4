@@ -1,0 +1,22 @@
+# EXFOR #         : O0072.006  
+# EXFOR Ver.      : 20151122
+# TRANS #         : O056
+# Author          : G.R.Choppin et al.
+# Reference       : J.Inorg.Nucl.Chem. 33 (1971) 1535
+# DOI             : 10.1016/0022-1902(71)80587-0
+# Quantity        : 232Th(p,f)99Mo cumulative production cross section
+# REACTION        : 90-TH-232(P,F)42-MO-99,CUM,SIG
+# File ID         : p-Th232-x-sigc-excfun-mon-prodMo99_Choppin_1971_o0072.006
+#
+# npts            : 1           
+# xmin            :   1.1300E+07
+# xmax            :   1.1300E+07
+# ymin            :   2.5950E-03
+# ymax            :   2.5950E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1300E+07  0.0000E+00  2.5950E-03  3.0000E-05
+#---------------------------------------------------

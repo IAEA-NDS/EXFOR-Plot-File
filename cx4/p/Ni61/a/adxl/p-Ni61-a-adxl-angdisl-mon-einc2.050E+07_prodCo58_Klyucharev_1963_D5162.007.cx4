@@ -1,0 +1,24 @@
+# EXFOR #         : D5162.007  
+# EXFOR Ver.      : 20190204
+# TRANS #         : D119
+# Author          : A.P.Klyucharev et al.
+# Reference       : J.Exp.Theor.Phys. 17 (1963) 1175
+# DOI             : N/A
+# Quantity        : 61Ni(p,a)58Co angular differential cross section
+# REACTION        : 28-NI-61(P,A)27-CO-58,,DA
+# File ID         : p-Ni61-a-adxl-angdisl-mon-einc2.050E+07_prodCo58_Klyucharev_1963_d5162.007
+#
+# Einc (eV)       :   2.0500E+07
+#
+# npts            : 1           
+# xmin            :  120.0000000
+# xmax            :  120.0000000
+# ymin            :   4.0602E-03
+# ymax            :   4.0602E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 120.0000000   0.0000000  4.0602E-03  2.6320E-04
+#---------------------------------------------------

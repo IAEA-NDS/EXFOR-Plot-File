@@ -1,0 +1,23 @@
+# EXFOR #         : O2005.004  
+# EXFOR Ver.      : 20120809
+# TRANS #         : O049
+# Author          : N.Poffe et al.
+# Reference       : J.Phys.(Paris) 22 (1961) 639
+# DOI             : 10.1051/jphysrad:019610022010063900
+# Quantity        : 197Au(p,6n)192Hg cross section
+# REACTION        : 79-AU-197(P,6N)80-HG-192,,SIG
+# File ID         : p-Au197-6n-sig-excfun-mon-prodHg192_Poffe_1961_o2005.004
+#
+# npts            : 2           
+# xmin            :   6.0000E+07
+# xmax            :   8.0000E+07
+# ymin            :   8.3232E-01
+# ymax            :   1.0132E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+07  0.0000E+00  1.0132E+00  2.3459E-01
+  8.0000E+07  0.0000E+00  8.3232E-01  1.7949E-01
+#---------------------------------------------------

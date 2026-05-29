@@ -1,0 +1,22 @@
+# EXFOR #         : B0071.005  
+# EXFOR Ver.      : 20220316
+# TRANS #         : B033
+# Author          : D.J.Reuland et al.
+# Reference       : J.Inorg.Nucl.Chem. 31 (1969) 1915
+# DOI             : 10.1016/0022-1902(69)90005-0
+# Quantity        : 63Cu(p,2n)62Zn cross section
+# REACTION        : 29-CU-63(P,2N)30-ZN-62,,SIG
+# File ID         : p-Cu63-2n-sig-excfun-mon-prodZn62_Reuland_1969_b0071.005
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   8.0000E-04
+# ymax            :   8.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  2.0000E+07  8.0000E-04  1.5200E-04
+#---------------------------------------------------

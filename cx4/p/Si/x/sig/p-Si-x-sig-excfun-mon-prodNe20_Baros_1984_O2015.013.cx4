@@ -1,0 +1,23 @@
+# EXFOR #         : O2015.013  
+# EXFOR Ver.      : 20220317
+# TRANS #         : O088
+# Author          : F.Baros et al.
+# Reference       : J.Phys.(Paris) 45 (1984) 855
+# DOI             : 10.1051/jphys:01984004505085500
+# Quantity        : natSi(p,x)20Ne independent production cross section
+# REACTION        : 14-SI-0(P,X)10-NE-20,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodNe20_Baros_1984_o2015.013
+#
+# npts            : 2           
+# xmin            :   1.5000E+08
+# xmax            :   2.4000E+10
+# ymin            :   1.7000E-02
+# ymax            :   1.7800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  1.7000E-02  1.8000E-03
+  2.4000E+10  0.0000E+00  1.7800E-02  2.0000E-03
+#---------------------------------------------------

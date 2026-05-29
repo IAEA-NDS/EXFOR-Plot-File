@@ -1,0 +1,22 @@
+# EXFOR #         : O0320.014  
+# EXFOR Ver.      : 19990712
+# TRANS #         : 0000
+# Author          : M.Gloris et al.
+# Reference       : Nucl.Instrum.Meth.B 113 (1996) 429
+# DOI             : 10.1016/0168-583X(95)01325-3
+# Quantity        : natPb(p,x)89gZr cumulative production cross section
+# REACTION        : 82-PB-0(P,X)40-ZR-89-G,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodZr89g_Gloris_1996_o0320.014
+#
+# npts            : 1           
+# xmin            :   1.6000E+09
+# xmax            :   1.6000E+09
+# ymin            :   2.6400E-03
+# ymax            :   2.6400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+09  0.0000E+00  2.6400E-03  2.9000E-04
+#---------------------------------------------------

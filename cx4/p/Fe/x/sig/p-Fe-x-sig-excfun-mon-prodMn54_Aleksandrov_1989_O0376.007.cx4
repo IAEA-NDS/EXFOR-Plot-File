@@ -1,0 +1,22 @@
+# EXFOR #         : O0376.007  
+# EXFOR Ver.      : 20170417
+# TRANS #         : O061
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : Proceedings of 39.Conf.Nucl.Spectrosc.and Nucl.Struct.,Tashkent 1989 page 536
+# DOI             : N/A
+# Quantity        : natFe(p,x)54Mn independent production cross section
+# REACTION        : 26-FE-0(P,X)25-MN-54,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodMn54_Aleksandrov_1989_o0376.007
+#
+# npts            : 1           
+# xmin            :   1.0000E+09
+# xmax            :   1.0000E+09
+# ymin            :   3.0400E-02
+# ymax            :   3.0400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  3.0400E-02  1.5000E-03
+#---------------------------------------------------

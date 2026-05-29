@@ -1,0 +1,22 @@
+# EXFOR #         : E1411.170  
+# EXFOR Ver.      : 20200121
+# TRANS #         : E125
+# Author          : T.Ohtsuki et al.
+# Reference       : Phys.Rev.C 44 (1991) 1405
+# DOI             : 10.1103/PhysRevC.44.1405
+# Quantity        : 239Pu(p,f)130gI cumulative production cross section
+# REACTION        : 94-PU-239(P,F)53-I-130-G,M+,SIG
+# File ID         : p-Pu239-x-sigc-excfun-mon-prodI130g_Ohtsuki_1991_e1411.170
+#
+# npts            : 1           
+# xmin            :   1.5500E+07
+# xmax            :   1.5500E+07
+# ymin            :   1.0030E-02
+# ymax            :   1.0030E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5500E+07  0.0000E+00  1.0030E-02  2.8000E-04
+#---------------------------------------------------

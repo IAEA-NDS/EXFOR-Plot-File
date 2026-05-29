@@ -1,0 +1,23 @@
+# EXFOR #         : A0906.114  
+# EXFOR Ver.      : 20240110
+# TRANS #         : A107
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 537
+# DOI             : 10.1134/S106377881104017X
+# Quantity        : 93Nb(p,x)41Ar cumulative production cross section
+# REACTION        : 41-NB-93(P,X)18-AR-41,CUM,SIG
+# File ID         : p-Nb93-x-sigc-excfun-mon-prodAr41_Titarenko_2011_a0906.114
+#
+# npts            : 2           
+# xmin            :   1.5990E+09
+# xmax            :   2.6050E+09
+# ymin            :   2.9400E-04
+# ymax            :   4.8800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5990E+09  4.0000E+06  2.9400E-04  3.7000E-05
+  2.6050E+09  8.0000E+06  4.8800E-04  5.9000E-05
+#---------------------------------------------------

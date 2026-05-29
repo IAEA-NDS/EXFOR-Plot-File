@@ -1,0 +1,31 @@
+# EXFOR #         : O0291.004  
+# EXFOR Ver.      : 20151028
+# TRANS #         : O056
+# Author          : F.E.Bertrand et al.
+# Reference       : Report ORNL-4469, 1970
+# DOI             : N/A
+# Quantity        : 54Fe(p,d)53Fe partial angular differential cross section
+# REACTION        : 26-FE-54(P,D)26-FE-53,PAR,DA
+# File ID         : p-Fe54-d-adxc-angdisc-mon-einc6.150E+07_elvl1.390E+06_prodFe53_Bertrand_1970_o0291.004
+#
+# Einc (eV)       :   6.1500E+07
+# dEinc (eV)      :   1.0000E+05
+# Elvl (eV)       :   1.3900E+06
+#
+# npts            : 6           
+# xmin            :   15.5000000
+# xmax            :   56.4000000
+# ymin            :   0.0000E+00
+# ymax            :   6.1000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.5000000   0.0000000  0.0000E+00  0.0000E+00
+  30.8000000   0.0000000  6.1000E-05  4.8800E-06
+  41.1000000   0.0000000  3.4000E-05  6.1200E-06
+  48.2000000   0.0000000  1.2000E-05  4.5600E-06
+  51.3000000   0.0000000  3.0000E-05  4.2000E-06
+  56.4000000   0.0000000  9.9000E-06  3.2670E-06
+#---------------------------------------------------

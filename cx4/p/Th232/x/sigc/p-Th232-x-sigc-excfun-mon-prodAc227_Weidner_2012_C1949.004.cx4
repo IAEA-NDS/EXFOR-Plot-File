@@ -1,0 +1,22 @@
+# EXFOR #         : C1949.004  
+# EXFOR Ver.      : 20121003
+# TRANS #         : C123
+# Author          : J.W.Weidner et al.
+# Reference       : Appl.Radiat.Isot. 70 (2012) 2590
+# DOI             : 10.1016/j.apradiso.2012.07.003
+# Quantity        : 232Th(p,x)227Ac cumulative production cross section
+# REACTION        : 90-TH-232(P,X)89-AC-227,CUM,SIG
+# File ID         : p-Th232-x-sigc-excfun-mon-prodAc227_Weidner_2012_c1949.004
+#
+# npts            : 1           
+# xmin            :   8.0000E+08
+# xmax            :   8.0000E+08
+# ymin            :   2.0800E-02
+# ymax            :   2.0800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  2.0800E-02  2.0000E-03
+#---------------------------------------------------

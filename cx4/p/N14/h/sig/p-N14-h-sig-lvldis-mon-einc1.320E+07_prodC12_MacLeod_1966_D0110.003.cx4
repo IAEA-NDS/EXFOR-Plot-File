@@ -1,0 +1,26 @@
+# EXFOR #         : D0110.003  
+# EXFOR Ver.      : 20040213
+# TRANS #         : 0000
+# Author          : A.M.MacLeod et al.
+# Reference       : Proc.Phys.Soc.(UK) 87 (1966) 437
+# DOI             : 10.1088/0370-1328/87/2/313
+# Quantity        : 14N(p,he3)12C partial cross section
+# REACTION        : 7-N-14(P,HE3)6-C-12,PAR,SIG
+# File ID         : p-N14-h-sig-lvldis-mon-einc1.320E+07_prodC12_MacLeod_1966_d0110.003
+#
+# Einc (eV)       :   1.3200E+07
+# dEinc (eV)      :   3.0000E+05
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   4.4000E+06
+# ymin            :   1.2600E-02
+# ymax            :   1.5500E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.5500E-02  2.7000E-03
+  4.4000E+06  0.0000E+00  1.2600E-02  2.5000E-03
+#---------------------------------------------------

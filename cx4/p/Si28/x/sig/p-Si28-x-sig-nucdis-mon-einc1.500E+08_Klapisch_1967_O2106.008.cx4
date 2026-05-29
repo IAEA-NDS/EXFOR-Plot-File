@@ -1,0 +1,28 @@
+# EXFOR #         : O2106.008  
+# EXFOR Ver.      : 20121022
+# TRANS #         : O050
+# Author          : R.Klapisch et al.
+# Reference       : Nucl.Intrum.Meth. 53 (1967) 216
+# DOI             : 10.1016/0029-554X(67)91358-4
+# Quantity        : 28Si(p,x) independent production cross section
+# REACTION        : 14-SI-28(P,X)ELEM/MASS,,SIG
+# File ID         : p-Si28-x-sig-nucdis-mon-einc1.500E+08_Klapisch_1967_o2106.008
+#
+# Einc (eV)       :   1.5000E+08
+#
+# npts            : 5           
+# xmin            : 11020.9     
+# xmax            : 11025.9     
+# ymin            :   2.3000E-04
+# ymax            :   1.5792E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     11020.9  2.3000E-04  0.0000E+00
+     11021.9  2.5940E-03  0.0000E+00
+     11022.9  1.5792E-02  0.0000E+00
+     11024.9  3.5650E-03  0.0000E+00
+     11025.9  5.0500E-04  0.0000E+00
+#---------------------------------------------------

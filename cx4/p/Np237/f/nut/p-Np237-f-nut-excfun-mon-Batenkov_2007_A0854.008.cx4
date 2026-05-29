@@ -1,0 +1,23 @@
+# EXFOR #         : A0854.008  
+# EXFOR Ver.      : 20100624
+# TRANS #         : A069
+# Author          : O.I.Batenkov et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 2 page 1085
+# DOI             : N/A
+# Quantity        : 237Np(p,f) total fission neutron multiplicity
+# REACTION        : 93-NP-237(P,F),,NU
+# File ID         : p-Np237-f-nut-excfun-mon-Batenkov_2007_a0854.008
+#
+# npts            : 2           
+# xmin            :   5.0000E+07
+# xmax            :   9.6000E+07
+# ymin            :   7.2400E+00
+# ymax            :   8.5800E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-t        dnu-t       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  5.0000E+07  0.0000E+00  7.2400E+00  6.0000E-02
+  9.6000E+07  0.0000E+00  8.5800E+00  1.0000E-01
+#---------------------------------------------------

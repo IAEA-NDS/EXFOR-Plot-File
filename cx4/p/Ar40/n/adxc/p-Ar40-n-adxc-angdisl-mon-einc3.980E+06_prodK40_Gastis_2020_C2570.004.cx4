@@ -1,0 +1,28 @@
+# EXFOR #         : C2570.004  
+# EXFOR Ver.      : 20200718
+# TRANS #         : C199
+# Author          : P.Gastis et al.
+# Reference       : Phys.Rev.C 101 (2020) 055805
+# DOI             : 10.1103/PhysRevC.101.055805
+# Quantity        : 40Ar(p,n)40K angular differential cross section
+# REACTION        : 18-AR-40(P,N)19-K-40,,DA
+# File ID         : p-Ar40-n-adxc-angdisl-mon-einc3.980E+06_prodK40_Gastis_2020_c2570.004
+#
+# Einc (eV)       :   3.9801E+06
+# dEinc (eV)      :   4.8005E+04
+#
+# npts            : 4           
+# xmin            :   30.0000000
+# xmax            :  135.0000000
+# ymin            :   7.3000E-03
+# ymax            :   8.7000E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  7.6000E-03  9.0000E-04
+  60.0000000   0.0000000  8.2000E-03  9.0000E-04
+  90.0000000   0.0000000  8.7000E-03  1.0000E-02
+ 135.0000000   0.0000000  7.3000E-03  9.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : F1319.002  
+# EXFOR Ver.      : 20170814
+# TRANS #         : F065
+# Author          : G.I.Krupnyi et al.
+# Reference       : At.En. 89 No.5 (2000) 418
+# DOI             : N/A
+# Quantity        : 27Al(p,x) independent production cross section
+# REACTION        : 13-AL-27(P,X)ELEM/MASS,,SIG
+# File ID         : p-Al27-x-sig-excfun-mon-prodBe7_Krupnyi_2000_f1319.002
+#
+# npts            : 3           
+# xmin            :   3.7000E+07
+# xmax            :   1.0000E+08
+# ymin            :   7.2000E-04
+# ymax            :   1.2700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+07  2.5000E+03  7.2000E-04  7.9200E-05
+  7.3000E+07  2.5000E+03  1.0100E-03  7.4538E-05
+  1.0000E+08  2.5000E+03  1.2700E-03  7.6200E-05
+#---------------------------------------------------

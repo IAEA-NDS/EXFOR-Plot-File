@@ -1,0 +1,22 @@
+# EXFOR #         : B0024.011.M
+# EXFOR Ver.      : 20020311
+# TRANS #         : 0000
+# Author          : L.B.Church et al.
+# Reference       : Phys.Rev. 178 (1969) 1732
+# DOI             : 10.1103/PhysRev.178.1732
+# Quantity        : 75As(p,3n)73mSe cross section
+# REACTION        : 33-AS-75(P,3N)34-SE-73-M,,SIG,,,EXP
+# File ID         : p-As75-3n-sig-excfun-mon-prodSe73m_Church_1969_b0024.011.m
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   5.2000E-04
+# ymax            :   5.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  5.2000E-04  1.1000E-04
+#---------------------------------------------------

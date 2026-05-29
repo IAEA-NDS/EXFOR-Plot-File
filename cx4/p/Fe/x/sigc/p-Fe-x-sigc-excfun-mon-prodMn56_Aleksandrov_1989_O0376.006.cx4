@@ -1,0 +1,22 @@
+# EXFOR #         : O0376.006  
+# EXFOR Ver.      : 20170417
+# TRANS #         : O061
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : Proceedings of 39.Conf.Nucl.Spectrosc.and Nucl.Struct.,Tashkent 1989 page 536
+# DOI             : N/A
+# Quantity        : natFe(p,x)56Mn cumulative production cross section
+# REACTION        : 26-FE-0(P,X)25-MN-56,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodMn56_Aleksandrov_1989_o0376.006
+#
+# npts            : 1           
+# xmin            :   1.0000E+09
+# xmax            :   1.0000E+09
+# ymin            :   1.2500E-03
+# ymax            :   1.2500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  1.2500E-03  1.0000E-04
+#---------------------------------------------------

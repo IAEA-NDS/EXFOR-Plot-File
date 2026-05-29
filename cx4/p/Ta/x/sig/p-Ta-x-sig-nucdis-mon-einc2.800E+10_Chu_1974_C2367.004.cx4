@@ -1,0 +1,27 @@
+# EXFOR #         : C2367.004  
+# EXFOR Ver.      : 20241031
+# TRANS #         : C243
+# Author          : Y.Y.Chu et al.
+# Reference       : Phys.Rev.C 10 (1974) 156
+# DOI             : 10.1103/PhysRevC.10.156
+# Quantity        : natTa(p,x) independent production cross section
+# REACTION        : 73-TA-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Ta-x-sig-nucdis-mon-einc2.800E+10_Chu_1974_c2367.004
+#
+# Einc (eV)       :   2.8000E+10
+#
+# npts            : 4           
+# xmin            : 62145.9     
+# xmax            : 63149.9     
+# ymin            :   9.4000E-04
+# ymax            :   3.3900E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     62145.9  1.4600E-03  1.1000E-04
+     63146.9  3.3900E-03  4.7000E-04
+     63147.9  1.7500E-03  2.8000E-04
+     63149.9  9.4000E-04  9.0000E-05
+#---------------------------------------------------

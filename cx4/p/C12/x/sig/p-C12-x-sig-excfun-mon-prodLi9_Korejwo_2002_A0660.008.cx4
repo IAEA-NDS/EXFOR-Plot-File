@@ -1,0 +1,23 @@
+# EXFOR #         : A0660.008  
+# EXFOR Ver.      : 20250728
+# TRANS #         : A122
+# Author          : A.Korejwo et al.
+# Reference       : J.Phys.G 28 (2002) 1199
+# DOI             : 10.1088/0954-3899/28/6/304
+# Quantity        : 12C(p,x)9Li independent production cross section
+# REACTION        : 6-C-12(P,X)3-LI-9,,SIG
+# File ID         : p-C12-x-sig-excfun-mon-prodLi9_Korejwo_2002_a0660.008
+#
+# npts            : 2           
+# xmin            :   1.8700E+09
+# xmax            :   2.6900E+09
+# ymin            :   3.6000E-04
+# ymax            :   3.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8700E+09  0.0000E+00  3.6000E-04  8.0000E-05
+  2.6900E+09  0.0000E+00  3.6000E-04  1.0000E-04
+#---------------------------------------------------

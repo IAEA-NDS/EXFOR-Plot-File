@@ -1,0 +1,23 @@
+# EXFOR #         : O0741.012  
+# EXFOR Ver.      : 20000427
+# TRANS #         : 0000
+# Author          : B.D.Wilkins et al.
+# Reference       : Phys.Rev. 129 (1963) 2198
+# DOI             : 10.1103/PhysRev.129.2198
+# Quantity        : natTi(p,non) cross section
+# REACTION        : 22-TI-0(P,NON),,SIG
+# File ID         : p-Ti-non-sig-excfun-mon-Wilkins_1963_o0741.012
+#
+# npts            : 2           
+# xmin            :   9.9900E+06
+# xmax            :   1.0220E+07
+# ymin            :   8.1700E-01
+# ymax            :   8.3000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0220E+07  4.0000E+05  8.3000E-01  4.4000E-02
+  9.9900E+06  4.1000E+05  8.1700E-01  4.4000E-02
+#---------------------------------------------------

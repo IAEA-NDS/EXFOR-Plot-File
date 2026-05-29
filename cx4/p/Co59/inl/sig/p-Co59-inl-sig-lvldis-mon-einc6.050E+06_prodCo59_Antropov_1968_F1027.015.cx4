@@ -1,0 +1,26 @@
+# EXFOR #         : F1027.015  
+# EXFOR Ver.      : 20120327
+# TRANS #         : F047
+# Author          : A.E.Antropov et al.
+# Reference       : Izv.Ross.AN,Fiz. 32 No.10 (1968) 1747
+# DOI             : N/A
+# Quantity        : 59Co(p,inl)59Co partial cross section
+# REACTION        : 27-CO-59(P,INL)27-CO-59,PAR,SIG
+# File ID         : p-Co59-inl-sig-lvldis-mon-einc6.050E+06_prodCo59_Antropov_1968_f1027.015
+#
+# Einc (eV)       :   6.0500E+06
+#
+# npts            : 3           
+# xmin            :   1.0970E+06
+# xmax            :   1.2890E+06
+# ymin            :   2.0000E-03
+# ymax            :   1.0500E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0970E+06  0.0000E+00  4.6000E-03  0.0000E+00
+  1.1890E+06  0.0000E+00  1.0500E-02  0.0000E+00
+  1.2890E+06  0.0000E+00  2.0000E-03  0.0000E+00
+#---------------------------------------------------

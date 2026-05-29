@@ -1,0 +1,25 @@
+# EXFOR #         : O0277.007  
+# EXFOR Ver.      : 20110313
+# TRANS #         : O045
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natO(p,x)10Be independent production cross section
+# REACTION        : 8-O-0(P,X)4-BE-10,,SIG
+# File ID         : p-O-x-sig-excfun-mon-prodBe10_Michel_1995_o0277.007
+#
+# npts            : 4           
+# xmin            :   8.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   2.5700E-03
+# ymax            :   3.6400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  2.8700E-03  2.7000E-04
+  1.2000E+09  0.0000E+00  3.6400E-03  3.4000E-04
+  1.6000E+09  0.0000E+00  2.5700E-03  2.1000E-04
+  2.6000E+09  0.0000E+00  2.7600E-03  2.5000E-04
+#---------------------------------------------------

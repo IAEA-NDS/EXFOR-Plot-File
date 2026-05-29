@@ -1,0 +1,27 @@
+# EXFOR #         : C0811.004  
+# EXFOR Ver.      : 20010517
+# TRANS #         : 0000
+# Author          : J.W.Watson et al.
+# Reference       : Phys.Rev.C 40 (1989) 22
+# DOI             : 10.1103/PhysRevC.40.22
+# Quantity        : 12C(p,n)12N partial angular differential cross section
+# REACTION        : 6-C-12(P,N)7-N-12,PAR,DA
+# File ID         : p-C12-n-adxc-excfun-mon-angl0_elvl0.000E+00_prodN12_Watson_1989_c0811.004
+#
+# theta,lab (deg) :    0.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :   2.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   6.9900E-03
+# ymax            :   7.6400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  6.9900E-03  7.0000E-04
+  3.0000E+08  0.0000E+00  7.3100E-03  7.3000E-04
+  4.0000E+08  0.0000E+00  7.6400E-03  7.6000E-04
+#---------------------------------------------------

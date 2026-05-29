@@ -1,0 +1,23 @@
+# EXFOR #         : A0607.005  
+# EXFOR Ver.      : 20260204
+# TRANS #         : A131
+# Author          : Y.W.Yu et al.
+# Reference       : Phys.Rev.C 10 (1974) 167
+# DOI             : 10.1103/PhysRevC.10.167
+# Quantity        : 238U(p,f)130gI cumulative production cross section
+# REACTION        : 92-U-238(P,F)53-I-130-G,M+,SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodI130g_Yu_1974_a0607.005
+#
+# npts            : 2           
+# xmin            :   1.1500E+10
+# xmax            :   3.0000E+11
+# ymin            :   2.1600E-03
+# ymax            :   2.5100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+10  0.0000E+00  2.5100E-03  7.0000E-05
+  3.0000E+11  0.0000E+00  2.1600E-03  2.4000E-04
+#---------------------------------------------------

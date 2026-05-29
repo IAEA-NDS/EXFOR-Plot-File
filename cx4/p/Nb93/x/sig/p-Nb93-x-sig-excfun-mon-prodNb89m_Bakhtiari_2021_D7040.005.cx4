@@ -1,0 +1,26 @@
+# EXFOR #         : D7040.005  
+# EXFOR Ver.      : 20221215
+# TRANS #         : D138
+# Author          : M.Bakhtiari et al.
+# Reference       : Phys.Rev.C 103 (2021) 064617
+# DOI             : 10.1103/PhysRevC.103.064617
+# Quantity        : 93Nb(p,x)89mNb independent production cross section
+# REACTION        : 41-NB-93(P,X)41-NB-89-M,,SIG
+# File ID         : p-Nb93-x-sig-excfun-mon-prodNb89m_Bakhtiari_2021_d7040.005
+#
+# npts            : 5           
+# xmin            :   5.8100E+07
+# xmax            :   9.9300E+07
+# ymin            :   1.0600E-02
+# ymax            :   2.2300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9300E+07  1.0000E+05  1.0600E-02  1.2000E-03
+  9.0000E+07  5.0000E+05  1.3500E-02  1.6000E-03
+  8.0600E+07  7.0000E+05  1.5800E-02  1.9000E-03
+  7.0000E+07  8.0000E+05  2.2300E-02  2.8000E-03
+  5.8100E+07  1.2000E+06  1.0700E-02  1.2000E-03
+#---------------------------------------------------

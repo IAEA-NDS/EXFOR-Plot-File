@@ -1,0 +1,22 @@
+# EXFOR #         : E1854.005  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : M.Noguchi et al.
+# Reference       : Appl.Radiat.Isot. 42 No.6 (1991) 577
+# DOI             : 10.1016/0883-2889(91)90165-W
+# Quantity        : 93Nb(p,t+x) cross section
+# REACTION        : 41-NB-93(P,X)1-H-3,,SIG
+# File ID         : p-Nb93-xt-sig-excfun-mon-Noguchi_1991_e1854.005
+#
+# npts            : 1           
+# xmin            :   1.2000E+10
+# xmax            :   1.2000E+10
+# ymin            :   2.2900E-01
+# ymax            :   2.2900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+10  0.0000E+00  2.2900E-01  3.4000E-02
+#---------------------------------------------------

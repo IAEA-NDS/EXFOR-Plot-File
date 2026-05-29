@@ -1,0 +1,24 @@
+# EXFOR #         : C0294.004  
+# EXFOR Ver.      : 19871120
+# TRANS #         : 0000
+# Author          : I.Dostrovsky et al.
+# Reference       : Phys.Rev. 123 (1961) 1452
+# DOI             : 10.1103/PhysRev.123.1452
+# Quantity        : natPb(p,x)13N independent production cross section
+# REACTION        : 82-PB-0(P,X)7-N-13,,SIG
+# File ID         : p-Pb-x-sig-excfun-mon-prodN13_Dostrovsky_1961_c0294.004
+#
+# npts            : 3           
+# xmin            :   9.4000E+08
+# xmax            :   2.9000E+09
+# ymin            :   1.1000E-05
+# ymax            :   1.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.4000E+08  0.0000E+00  1.1000E-05  0.0000E+00
+  1.8400E+09  0.0000E+00  1.1000E-04  0.0000E+00
+  2.9000E+09  0.0000E+00  1.6000E-04  0.0000E+00
+#---------------------------------------------------

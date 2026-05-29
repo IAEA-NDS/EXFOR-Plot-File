@@ -1,0 +1,31 @@
+# EXFOR #         : F1143.010  
+# EXFOR Ver.      : 20111114
+# TRANS #         : F044
+# Author          : A.E.Antropov et al.
+# Reference       : Izv.Ross.AN,Fiz. 41 (1977) 2210
+# DOI             : N/A
+# Quantity        : 58Ni(p,inl)58Ni partial angular differential cross section
+# REACTION        : 28-NI-58(P,INL)28-NI-58,PAR,DA
+# File ID         : p-Ni58-inl-adxl-excfun-mon-angl169_elvl2.460E+06_prodNi58_Antropov_1977_f1143.010
+#
+# theta,lab (deg) :  169.0000000
+# Elvl (eV)       :   2.4600E+06
+#
+# npts            : 7           
+# xmin            :   5.6112E+06
+# xmax            :   6.0528E+06
+# ymin            :   7.0268E-04
+# ymax            :   1.8611E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.6112E+06  0.0000E+00  1.8611E-03  0.0000E+00
+  5.6981E+06  0.0000E+00  7.0268E-04  0.0000E+00
+  5.7923E+06  0.0000E+00  1.6136E-03  0.0000E+00
+  5.8452E+06  0.0000E+00  1.3265E-03  0.0000E+00
+  5.9357E+06  0.0000E+00  1.5246E-03  0.0000E+00
+  6.0263E+06  0.0000E+00  1.8019E-03  0.0000E+00
+  6.0528E+06  0.0000E+00  8.3160E-04  0.0000E+00
+#---------------------------------------------------

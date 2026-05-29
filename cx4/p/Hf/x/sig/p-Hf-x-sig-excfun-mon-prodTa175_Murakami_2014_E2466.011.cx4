@@ -1,0 +1,25 @@
+# EXFOR #         : E2466.011  
+# EXFOR Ver.      : 20150429
+# TRANS #         : E096
+# Author          : M.Murakami et al.
+# Reference       : Appl.Radiat.Isot. 90 (2014) 149
+# DOI             : 10.1016/j.apradiso.2014.03.014
+# Quantity        : natHf(p,x)175Ta independent production cross section
+# REACTION        : 72-HF-0(P,X)73-TA-175,,SIG
+# File ID         : p-Hf-x-sig-excfun-mon-prodTa175_Murakami_2014_e2466.011
+#
+# npts            : 4           
+# xmin            :   1.2100E+07
+# xmax            :   1.4100E+07
+# ymin            :   6.0000E-03
+# ymax            :   3.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+07  3.0000E+05  3.0000E-02  3.4000E-03
+  1.3500E+07  3.0000E+05  2.2800E-02  2.6000E-03
+  1.2800E+07  3.0000E+05  1.3400E-02  1.7000E-03
+  1.2100E+07  3.0000E+05  6.0000E-03  1.2000E-03
+#---------------------------------------------------

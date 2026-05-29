@@ -1,0 +1,26 @@
+# EXFOR #         : O1242.008  
+# EXFOR Ver.      : 20050304
+# TRANS #         : O023
+# Author          : H.Guratzsch et al.
+# Reference       : Nucl.Phys.A 129 (1969) 405
+# DOI             : 10.1016/0375-9474(69)90676-9
+# Quantity        : 13C(p,inl)13C partial angular differential cross section
+# REACTION        : 6-C-13(P,INL)6-C-13,PAR,DA
+# File ID         : p-C13-inl-adxc-lvldis-mon-einc7.000E+06_angc105_prodC13_Guratzsch_1969_o1242.008
+#
+# Einc (eV)       :   7.0000E+06
+# dEinc (eV)      :   1.0000E+05
+# theta,cm (deg)  :  105.4000000
+#
+# npts            : 1           
+# xmin            :   3.8540E+06
+# xmax            :   3.8540E+06
+# ymin            :   2.4000E-03
+# ymax            :   2.4000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.8540E+06  0.0000E+00  2.4000E-03  4.0800E-04
+#---------------------------------------------------

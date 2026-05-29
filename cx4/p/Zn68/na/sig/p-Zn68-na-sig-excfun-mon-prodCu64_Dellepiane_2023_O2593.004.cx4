@@ -1,0 +1,24 @@
+# EXFOR #         : O2593.004  
+# EXFOR Ver.      : 20240106
+# TRANS #         : O100
+# Author          : G.Dellepiane et al.
+# Reference       : Appl.Radiat.Isot. 195 (2023) 110737
+# DOI             : 10.1016/j.apradiso.2023.110737
+# Quantity        : 68Zn(p,n+a)64Cu cross section
+# REACTION        : 30-ZN-68(P,N+A)29-CU-64,,SIG
+# File ID         : p-Zn68-na-sig-excfun-mon-prodCu64_Dellepiane_2023_o2593.004
+#
+# npts            : 3           
+# xmin            :   1.5000E+07
+# xmax            :   1.8200E+07
+# ymin            :   2.3000E-03
+# ymax            :   1.8800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  4.0000E+05  2.3000E-03  7.0000E-04
+  1.6800E+07  4.0000E+05  8.6000E-03  2.0000E-03
+  1.8200E+07  4.0000E+05  1.8800E-02  2.2000E-03
+#---------------------------------------------------

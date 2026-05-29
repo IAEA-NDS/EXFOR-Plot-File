@@ -1,0 +1,27 @@
+# EXFOR #         : E2202.002  
+# EXFOR Ver.      : 20190514
+# TRANS #         : E123
+# Author          : S.Tokunaga et al.
+# Reference       : J.Phys.Soc.Jpn. 8 (1953) 571
+# DOI             : 10.1143/JPSJ.8.571
+# Quantity        : natC(p,pi++x) double differential cross section
+# REACTION        : 6-C-0(P,X)1-PP-0,,DA/DE
+# File ID         : p-C-xpip-ddxl-enedisl-mon-einc3.450E+08_angl90_Tokunaga_1953_e2202.002
+#
+# Einc (eV)       :   3.4500E+08
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 3           
+# xmin            :   3.0570E+07
+# xmax            :   6.0620E+07
+# ymin            :   1.7860E-12
+# ymax            :   3.1900E-12
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  3.0570E+07  1.3920E+06  1.7860E-12  1.6920E-13
+  5.0400E+07  1.5450E+06  3.1900E-12  2.3080E-13
+  6.0620E+07  1.2380E+06  1.8920E-12  1.5390E-13
+#---------------------------------------------------

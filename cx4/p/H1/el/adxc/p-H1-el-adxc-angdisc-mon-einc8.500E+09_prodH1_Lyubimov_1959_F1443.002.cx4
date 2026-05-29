@@ -1,0 +1,28 @@
+# EXFOR #         : F1443.002  
+# EXFOR Ver.      : 20210707
+# TRANS #         : F087
+# Author          : V.B.Lyubimov et al.
+# Reference       : Zh.Eksp.Teor.Fiz. 37 (1959) 910
+# DOI             : N/A
+# Quantity        : 1H(p,el)1H angular differential cross section
+# REACTION        : 1-H-1(P,EL)1-H-1,,DA
+# File ID         : p-H1-el-adxc-angdisc-mon-einc8.500E+09_prodH1_Lyubimov_1959_f1443.002
+#
+# Einc (eV)       :   8.5000E+09
+#
+# npts            : 5           
+# xmin            :    1.8600000
+# xmax            :   17.9100000
+# ymin            :   2.6400E-03
+# ymax            :   1.7464E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   1.8600000   0.0000000  1.7464E-01  4.1250E-02
+   5.9900000   0.0000000  8.0080E-02  1.5390E-02
+  10.0000000   0.0000000  2.1840E-02  6.1600E-03
+  13.9700000   0.0000000  3.6300E-03  2.4600E-03
+  17.9100000   0.0000000  2.6400E-03  1.8500E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : C0199.003  
+# EXFOR Ver.      : 20220530
+# TRANS #         : C213
+# Author          : R.J.Schneider et al.
+# Reference       : Nucl.Instrum.Meth.B 29 (1987) 271
+# DOI             : 10.1016/0168-583X(87)90248-5
+# Quantity        : 27Al(p,x)26gAl independent production cross section
+# REACTION        : 13-AL-27(P,X)13-AL-26-G,,SIG
+# File ID         : p-Al27-x-sig-excfun-mon-prodAl26g_Schneider_1987_c0199.003
+#
+# npts            : 5           
+# xmin            :   5.0000E+07
+# xmax            :   1.5900E+08
+# ymin            :   4.3900E-02
+# ymax            :   7.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+07  4.0000E+06  7.4000E-02  5.9200E-03
+  6.0000E+07  3.0000E+06  6.6400E-02  6.6400E-03
+  9.0000E+07  2.0000E+06  5.9300E-02  6.5230E-03
+  1.2000E+08  2.0000E+06  5.0000E-02  4.5000E-03
+  1.5900E+08  1.0000E+06  4.3900E-02  3.9510E-03
+#---------------------------------------------------

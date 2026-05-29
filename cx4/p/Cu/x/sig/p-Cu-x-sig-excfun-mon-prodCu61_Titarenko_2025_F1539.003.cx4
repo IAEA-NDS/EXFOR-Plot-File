@@ -1,0 +1,22 @@
+# EXFOR #         : F1539.003  
+# EXFOR Ver.      : 20260115
+# TRANS #         : F106
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 88 (2025) 464
+# DOI             : 10.1134/S1063778825600642
+# Quantity        : natCu(p,x)61Cu independent production cross section
+# REACTION        : 29-CU-0(P,X)29-CU-61,,SIG,,AV
+# File ID         : p-Cu-x-sig-excfun-mon-prodCu61_Titarenko_2025_f1539.003
+#
+# npts            : 1           
+# xmin            :   2.1200E+07
+# xmax            :   2.1200E+07
+# ymin            :   1.9700E-03
+# ymax            :   1.9700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1200E+07  3.0000E+05  1.9700E-03  3.9000E-04
+#---------------------------------------------------

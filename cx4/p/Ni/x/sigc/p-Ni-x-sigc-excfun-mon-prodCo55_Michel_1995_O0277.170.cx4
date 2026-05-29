@@ -1,0 +1,23 @@
+# EXFOR #         : O0277.170  
+# EXFOR Ver.      : 20131028
+# TRANS #         : O051
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natNi(p,x)55Co cumulative production cross section
+# REACTION        : 28-NI-0(P,X)27-CO-55,CUM,SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodCo55_Michel_1995_o0277.170
+#
+# npts            : 2           
+# xmin            :   1.2000E+09
+# xmax            :   2.6000E+09
+# ymin            :   9.6900E-03
+# ymax            :   1.0600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  1.0600E-02  8.0000E-04
+  2.6000E+09  0.0000E+00  9.6900E-03  9.2000E-04
+#---------------------------------------------------

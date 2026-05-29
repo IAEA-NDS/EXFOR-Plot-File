@@ -1,0 +1,27 @@
+# EXFOR #         : O0471.019  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : S.J.Burger et al.
+# Reference       : Nucl.Phys.A 243 (1975) 461
+# DOI             : 10.1016/0375-9474(75)90290-0
+# Quantity        : 98Mo(p,inl)98Mo partial angular differential cross section
+# REACTION        : 42-MO-98(P,INL)42-MO-98,PAR,DA
+# File ID         : p-Mo98-inl-adxl-lvldis-mon-einc1.252E+07_angc90_prodMo98_Burger_1975_o0471.019
+#
+# Einc (eV)       :   1.2520E+07
+# dEinc (eV)      :   2.0000E+04
+# theta,cm (deg)  :   90.5000000
+# dtheta,cm (deg) :    0.4000000
+#
+# npts            : 1           
+# xmin            :   1.4400E+06
+# xmax            :   1.4400E+06
+# ymin            :   2.4700E-04
+# ymax            :   2.4700E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4400E+06  0.0000E+00  2.4700E-04  4.9400E-06
+#---------------------------------------------------

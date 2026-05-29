@@ -1,0 +1,28 @@
+# EXFOR #         : C0763.004  
+# EXFOR Ver.      : 20010119
+# TRANS #         : 0000
+# Author          : R.E.L.Green et al.
+# Reference       : Phys.Rev.C 35 (1987) 1341
+# DOI             : 10.1103/PhysRevC.35.1341
+# Quantity        : 9Be(p,t+x) double differential cross section
+# REACTION        : 4-BE-9(P,X)1-H-3,,DA/DE
+# File ID         : p-Be9-xt-ddxl-enedisl-mon-einc3.000E+08_angl160_Green_1987_c0763.004
+#
+# Einc (eV)       :   3.0000E+08
+# theta,lab (deg) :  160.0000000
+#
+# npts            : 4           
+# xmin            :   3.7500E+07
+# xmax            :   5.2500E+07
+# ymin            :   3.2000E-14
+# ymax            :   1.7700E-13
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  3.7500E+07  0.0000E+00  1.7700E-13  1.2000E-14
+  4.2500E+07  0.0000E+00  1.0200E-13  9.0000E-15
+  4.7500E+07  0.0000E+00  5.9000E-14  7.0000E-15
+  5.2500E+07  0.0000E+00  3.2000E-14  5.0000E-15
+#---------------------------------------------------

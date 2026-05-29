@@ -1,0 +1,22 @@
+# EXFOR #         : A0026.143  
+# EXFOR Ver.      : 20160207
+# TRANS #         : A084
+# Author          : C.Damdinsuren et al.
+# Reference       : Report JINR-E1-89-481, 1989
+# DOI             : N/A
+# Quantity        : natPb(p,x)196mTl cumulative production cross section
+# REACTION        : 82-PB-0(P,X)81-TL-196-M,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodTl196m_Damdinsuren_1989_a0026.143
+#
+# npts            : 1           
+# xmin            :   3.6500E+09
+# xmax            :   3.6500E+09
+# ymin            :   7.5000E-03
+# ymax            :   7.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6500E+09  0.0000E+00  7.5000E-03  1.2000E-03
+#---------------------------------------------------

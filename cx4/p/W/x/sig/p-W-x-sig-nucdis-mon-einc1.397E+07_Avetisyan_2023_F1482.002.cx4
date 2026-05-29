@@ -1,0 +1,30 @@
+# EXFOR #         : F1482.002  
+# EXFOR Ver.      : 20231103
+# TRANS #         : F095
+# Author          : R.V.Avetisyan et al.
+# Reference       : Nucl.Instrum.Meth.B 537 (2023) 88
+# DOI             : 10.1016/j.nimb.2023.02.010
+# Quantity        : natW(p,x) independent production cross section
+# REACTION        : 74-W-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-W-x-sig-nucdis-mon-einc1.397E+07_Avetisyan_2023_f1482.002
+#
+# Einc (eV)       :   1.3970E+07
+# dEinc (eV)      :   6.8000E+05
+#
+# npts            : 6           
+# xmin            : 75181.9     
+# xmax            : 75186.0     
+# ymin            :   9.4500E-03
+# ymax            :   1.2300E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     75181.9  1.0490E-01  1.1330E-02
+     75182.1  9.8900E-02  1.1080E-02
+     75182.0  2.1790E-02  2.4200E-03
+     75183.9  1.2300E-01  1.3280E-02
+     75184.0  9.4500E-03  9.9000E-04
+     75186.0  1.7610E-02  1.8500E-03
+#---------------------------------------------------

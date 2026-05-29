@@ -1,0 +1,29 @@
+# EXFOR #         : O0482.002  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : G.S.Mani
+# Reference       : Nucl.Phys.A 157 (1970) 471
+# DOI             : 10.1016/0375-9474(70)90227-7
+# Quantity        : 54Fe(p,inl)54Fe partial angular differential cross section
+# REACTION        : 26-FE-54(P,INL)26-FE-54,PAR,DA
+# File ID         : p-Fe54-inl-adxl-lvldis-mon-einc4.935E+07_angc51_prodFe54_Mani_1970_o0482.002
+#
+# Einc (eV)       :   4.9350E+07
+# dEinc (eV)      :   7.4025E+04
+# theta,cm (deg)  :   51.0000000
+# dtheta,cm (deg) :    0.4000000
+#
+# npts            : 3           
+# xmin            :   4.0720E+06
+# xmax            :   4.7890E+06
+# ymin            :   4.3000E-05
+# ymax            :   2.1200E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.0720E+06  1.5000E+04  6.3000E-05  8.1900E-06
+  4.2970E+06  2.0000E+04  2.1200E-04  2.9680E-05
+  4.7890E+06  2.0000E+04  4.3000E-05  5.1600E-06
+#---------------------------------------------------

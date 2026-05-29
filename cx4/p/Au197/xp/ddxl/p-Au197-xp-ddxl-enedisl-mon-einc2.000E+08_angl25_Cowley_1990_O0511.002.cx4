@@ -1,0 +1,30 @@
+# EXFOR #         : O0511.002  
+# EXFOR Ver.      : 20200902
+# TRANS #         : O079
+# Author          : A.A.Cowley et al.
+# Reference       : Z.Phys.A 336 (1990) 189
+# DOI             : 10.1007/BF01290619
+# Quantity        : 197Au(p,p+x) double differential cross section
+# REACTION        : 79-AU-197(P,X)1-H-1,,DA/DE
+# File ID         : p-Au197-xp-ddxl-enedisl-mon-einc2.000E+08_angl25_Cowley_1990_o0511.002
+#
+# Einc (eV)       :   2.0000E+08
+# dEinc (eV)      :   5.0000E+05
+# theta,lab (deg) :   25.0000000
+#
+# npts            : 5           
+# xmin            :   6.0000E+07
+# xmax            :   1.7000E+08
+# ymin            :   1.8758E-09
+# ymax            :   2.2798E-09
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  6.0000E+07  0.0000E+00  2.2529E-09  3.8950E-11
+  1.0000E+08  0.0000E+00  1.9290E-09  3.6040E-11
+  1.2000E+08  0.0000E+00  2.0320E-09  3.6990E-11
+  1.5000E+08  0.0000E+00  2.2798E-09  3.9180E-11
+  1.7000E+08  0.0000E+00  1.8758E-09  3.5540E-11
+#---------------------------------------------------

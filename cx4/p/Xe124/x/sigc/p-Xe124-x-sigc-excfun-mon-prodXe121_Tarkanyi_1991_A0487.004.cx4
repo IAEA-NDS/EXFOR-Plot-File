@@ -1,0 +1,24 @@
+# EXFOR #         : A0487.004  
+# EXFOR Ver.      : 20160212
+# TRANS #         : A084
+# Author          : F.Tarkanyi et al.
+# Reference       : Appl.Radiat.Isot. 42 (1991) 229
+# DOI             : 10.1016/0883-2889(91)90081-B
+# Quantity        : 124Xe(p,x)121Xe cumulative production cross section
+# REACTION        : 54-XE-124(P,X)54-XE-121,CUM,SIG
+# File ID         : p-Xe124-x-sigc-excfun-mon-prodXe121_Tarkanyi_1991_a0487.004
+#
+# npts            : 3           
+# xmin            :   3.9700E+07
+# xmax            :   4.4000E+07
+# ymin            :   1.5800E-02
+# ymax            :   1.6150E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.4000E+07  0.0000E+00  1.6150E-01  2.8700E-02
+  4.2400E+07  0.0000E+00  7.2500E-02  1.5500E-02
+  3.9700E+07  0.0000E+00  1.5800E-02  8.3000E-03
+#---------------------------------------------------

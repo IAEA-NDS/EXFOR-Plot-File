@@ -1,0 +1,25 @@
+# EXFOR #         : D0743.015  
+# EXFOR Ver.      : 20141017
+# TRANS #         : D095
+# Author          : O.Lebeda et al.
+# Reference       : Nucl.Phys.A 929 (2014) 129
+# DOI             : 10.1016/j.nuclphysa.2014.06.010
+# Quantity        : natNd(p,x)138mPr independent production cross section
+# REACTION        : 60-ND-0(P,X)59-PR-138-M,,SIG
+# File ID         : p-Nd-x-sig-excfun-mon-prodPr138m_Lebeda_2014_d0743.015
+#
+# npts            : 4           
+# xmin            :   3.0550E+07
+# xmax            :   3.5410E+07
+# ymin            :   1.5600E-03
+# ymax            :   2.2200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5410E+07  2.0000E+05  2.2200E-03  2.6000E-04
+  3.3670E+07  2.1000E+05  1.9900E-03  2.3000E-04
+  3.1860E+07  2.1000E+05  1.8600E-03  2.2000E-04
+  3.0550E+07  2.2000E+05  1.5600E-03  1.8000E-04
+#---------------------------------------------------

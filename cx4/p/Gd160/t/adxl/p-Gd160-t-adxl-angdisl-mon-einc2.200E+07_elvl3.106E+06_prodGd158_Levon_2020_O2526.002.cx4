@@ -1,0 +1,25 @@
+# EXFOR #         : O2526.002  
+# EXFOR Ver.      : 20210412
+# TRANS #         : O084
+# Author          : A.I.Levon et al.
+# Reference       : Phys.Rev.C 102 (2020) 014308
+# DOI             : 10.1103/PhysRevC.102.014308
+# Quantity        : 160Gd(p,t)158Gd partial angular differential cross section
+# REACTION        : 64-GD-160(P,T)64-GD-158,PAR,DA
+# File ID         : p-Gd160-t-adxl-angdisl-mon-einc2.200E+07_elvl3.106E+06_prodGd158_Levon_2020_o2526.002
+#
+# Einc (eV)       :   2.2000E+07
+# Elvl (eV)       :   3.1056E+06
+#
+# npts            : 1           
+# xmin            :    5.0000000
+# xmax            :    5.0000000
+# ymin            :   2.9000E-06
+# ymax            :   2.9000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0000000   0.0000000  2.9000E-06  4.0000E-07
+#---------------------------------------------------

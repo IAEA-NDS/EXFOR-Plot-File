@@ -1,0 +1,22 @@
+# EXFOR #         : E2626.056  
+# EXFOR Ver.      : 20201014
+# TRANS #         : E129
+# Author          : N.Paul et al.
+# Reference       : Phys.Rev.Lett. 122 (2019) 162503
+# DOI             : 10.1103/PhysRevLett.122.162503
+# Quantity        : 114Tc(p,x)113Tc independent production cross section
+# REACTION        : 43-TC-114(P,X)43-TC-113,,SIG
+# File ID         : p-Tc114-x-sig-excfun-mon-prodTc113_Paul_2019_e2626.056
+#
+# npts            : 1           
+# xmin            :   2.0400E+05
+# xmax            :   2.0400E+05
+# ymin            :   5.1000E-02
+# ymax            :   5.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0400E+05  0.0000E+00  5.1000E-02  8.0000E-03
+#---------------------------------------------------

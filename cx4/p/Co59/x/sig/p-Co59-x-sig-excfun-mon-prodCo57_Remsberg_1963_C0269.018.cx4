@@ -1,0 +1,22 @@
+# EXFOR #         : C0269.018  
+# EXFOR Ver.      : 20211005
+# TRANS #         : C206
+# Author          : L.P.Remsberg et al.
+# Reference       : Phys.Rev. 130 (1963) 2069
+# DOI             : 10.1103/PhysRev.130.2069
+# Quantity        : 59Co(p,x)57Co independent production cross section
+# REACTION        : 27-CO-59(P,X)27-CO-57,,SIG
+# File ID         : p-Co59-x-sig-excfun-mon-prodCo57_Remsberg_1963_c0269.018
+#
+# npts            : 1           
+# xmin            :   3.7000E+08
+# xmax            :   3.7000E+08
+# ymin            :   3.7900E-02
+# ymax            :   3.7900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+08  0.0000E+00  3.7900E-02  3.2000E-03
+#---------------------------------------------------

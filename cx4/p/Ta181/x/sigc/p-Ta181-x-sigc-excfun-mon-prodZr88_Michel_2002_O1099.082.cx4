@@ -1,0 +1,26 @@
+# EXFOR #         : O1099.082  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 181Ta(p,x)88Zr cumulative production cross section
+# REACTION        : 73-TA-181(P,X)40-ZR-88,CUM,SIG
+# File ID         : p-Ta181-x-sigc-excfun-mon-prodZr88_Michel_2002_o1099.082
+#
+# npts            : 5           
+# xmin            :   9.8600E+08
+# xmax            :   2.5800E+09
+# ymin            :   3.6900E-04
+# ymax            :   2.7700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.8600E+08  1.0000E+06  3.6900E-04  4.7000E-05
+  1.1800E+09  1.0000E+06  5.0200E-04  6.7000E-05
+  1.3800E+09  1.0000E+06  7.1300E-04  9.1000E-05
+  1.5700E+09  1.0000E+06  9.2500E-04  1.1900E-04
+  2.5800E+09  1.0000E+06  2.7700E-03  3.5000E-04
+#---------------------------------------------------

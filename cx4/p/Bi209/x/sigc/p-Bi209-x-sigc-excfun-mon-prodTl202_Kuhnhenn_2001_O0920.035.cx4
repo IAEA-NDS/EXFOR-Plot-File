@@ -1,0 +1,26 @@
+# EXFOR #         : O0920.035  
+# EXFOR Ver.      : 20230505
+# TRANS #         : O096
+# Author          : J.Kuhnhenn
+# Reference       : Thesis  (2001)
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)202Tl cumulative production cross section
+# REACTION        : 83-BI-209(P,X)81-TL-202,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodTl202_Kuhnhenn_2001_o0920.035
+#
+# npts            : 5           
+# xmin            :   5.2000E+07
+# xmax            :   6.9300E+07
+# ymin            :   4.2300E-04
+# ymax            :   1.4600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2000E+07  1.3000E+06  4.2300E-04  1.1800E-04
+  5.6900E+07  1.2000E+06  7.7200E-04  7.6000E-05
+  6.1600E+07  1.1000E+06  9.7200E-04  5.8000E-05
+  6.6100E+07  1.0000E+06  1.4400E-03  1.0000E-04
+  6.9300E+07  1.0000E+06  1.4600E-03  1.7000E-04
+#---------------------------------------------------

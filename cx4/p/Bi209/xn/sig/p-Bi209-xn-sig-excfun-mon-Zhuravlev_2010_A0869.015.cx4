@@ -1,0 +1,23 @@
+# EXFOR #         : A0869.015  
+# EXFOR Ver.      : 20110726
+# TRANS #         : A072
+# Author          : B.V.Zhuravlev et al.
+# Reference       : Yad.Fiz. 73 (2010) 1150
+# DOI             : N/A
+# Quantity        : 209Bi(p,n+x) cross section
+# REACTION        : 83-BI-209(P,X)0-NN-1,,SIG
+# File ID         : p-Bi209-xn-sig-excfun-mon-Zhuravlev_2010_a0869.015
+#
+# npts            : 2           
+# xmin            :   1.0170E+07
+# xmax            :   1.1130E+07
+# ymin            :   1.3800E-01
+# ymax            :   2.5700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0170E+07  0.0000E+00  1.3800E-01  1.3800E-02
+  1.1130E+07  0.0000E+00  2.5700E-01  2.5700E-02
+#---------------------------------------------------

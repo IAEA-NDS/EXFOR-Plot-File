@@ -1,0 +1,27 @@
+# EXFOR #         : O1906.002  
+# EXFOR Ver.      : 20230521
+# TRANS #         : O096
+# Author          : M.Lefort et al.
+# Reference       : Nucl.Phys. 19 (1960) 173
+# DOI             : 10.1016/0029-5582(60)90230-3
+# Quantity        : 209Bi(p,x) independent production cross section
+# REACTION        : 83-BI-209(P,X)ELEM/MASS,,SIG
+# File ID         : p-Bi209-x-sig-nucdis-mon-einc1.500E+08_Lefort_1960_o1906.002
+#
+# Einc (eV)       :   1.5000E+08
+#
+# npts            : 4           
+# xmin            : 85207.9     
+# xmax            : 85210.9     
+# ymin            :   5.0000E-07
+# ymax            :   5.0000E-06
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     85207.9  5.0000E-07  2.0000E-07
+     85208.9  1.1000E-06  2.0000E-07
+     85209.9  4.0000E-06  1.0000E-06
+     85210.9  5.0000E-06  5.0000E-07
+#---------------------------------------------------

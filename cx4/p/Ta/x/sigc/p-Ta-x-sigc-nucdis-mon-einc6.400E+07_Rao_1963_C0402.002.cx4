@@ -1,0 +1,25 @@
+# EXFOR #         : C0402.002  
+# EXFOR Ver.      : 20240418
+# TRANS #         : C236
+# Author          : C.L.Rao et al.
+# Reference       : Can.J.Chem. 41 (1963) 2516
+# DOI             : 10.1139/v63-372
+# Quantity        : natTa(p,x) cumulative production cross section
+# REACTION        : 73-TA-0(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-Ta-x-sigc-nucdis-mon-einc6.400E+07_Rao_1963_c0402.002
+#
+# Einc (eV)       :   6.4000E+07
+# dEinc (eV)      :   2.0000E+06
+#
+# npts            : 1           
+# xmin            : 73175.9     
+# xmax            : 73175.9     
+# ymin            :   1.3000E-01
+# ymax            :   1.3000E-01
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     73175.9  1.3000E-01  3.6400E-02
+#---------------------------------------------------

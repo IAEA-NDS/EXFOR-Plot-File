@@ -1,0 +1,29 @@
+# EXFOR #         : T0256.002  
+# EXFOR Ver.      : 20031219
+# TRANS #         : 0000
+# Author          : M.H.Mortensen et al.
+# Reference       : Phys.Rev.C 21 (1980) 2288
+# DOI             : 10.1103/PhysRevC.21.2288
+# Quantity        : 183W(p,t)181W partial angular differential cross section
+# REACTION        : 74-W-183(P,T)74-W-181,PAR,DA
+# File ID         : p-W183-t-adxc-angdisc-mon-einc2.100E+07_elvl3.650E+05_prodW181_Mortensen_1980_t0256.002
+#
+# Einc (eV)       :   2.1000E+07
+# Elvl (eV)       :   3.6500E+05
+#
+# npts            : 5           
+# xmin            :   13.0500000
+# xmax            :   43.8100000
+# ymin            :   2.2000E-05
+# ymax            :   7.0000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  13.0500000   0.0000000  7.0000E-05  0.0000E+00
+  20.3000000   0.0000000  5.1400E-05  0.0000E+00
+  28.0800000   0.0000000  2.2000E-05  0.0000E+00
+  36.3200000   0.0000000  3.3500E-05  0.0000E+00
+  43.8100000   0.0000000  4.1500E-05  0.0000E+00
+#---------------------------------------------------

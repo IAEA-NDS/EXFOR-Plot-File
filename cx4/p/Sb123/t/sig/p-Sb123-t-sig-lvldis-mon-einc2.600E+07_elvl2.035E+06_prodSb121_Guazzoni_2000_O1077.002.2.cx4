@@ -1,0 +1,26 @@
+# EXFOR #         : O1077.002.2
+# EXFOR Ver.      : 20040407
+# TRANS #         : 0000
+# Author          : P.Guazzoni et al.
+# Reference       : Phys.Rev.C 62 (2000) 054312
+# DOI             : 10.1103/PhysRevC.62.054312
+# Quantity        : 123Sb(p,t)121Sb partial cross section
+# REACTION        : 51-SB-123(P,T)51-SB-121,PAR,SIG
+# File ID         : p-Sb123-t-sig-lvldis-mon-einc2.600E+07_elvl2.035E+06_prodSb121_Guazzoni_2000_o1077.002.2
+#
+# Einc (eV)       :   2.6000E+07
+# Elvl (eV)       :   2.0350E+06
+# dElvl (eV)      :   3.0000E+03
+#
+# npts            : 1           
+# xmin            :   2.0350E+06
+# xmax            :   2.0350E+06
+# ymin            :   1.1959E-05
+# ymax            :   1.1959E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0350E+06  3.0000E+03  1.1959E-05  0.0000E+00
+#---------------------------------------------------

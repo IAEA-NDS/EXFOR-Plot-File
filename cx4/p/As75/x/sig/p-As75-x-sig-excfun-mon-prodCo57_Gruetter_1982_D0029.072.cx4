@@ -1,0 +1,23 @@
+# EXFOR #         : D0029.072  
+# EXFOR Ver.      : 20060725
+# TRANS #         : D048
+# Author          : A.Gruetter
+# Reference       : Appl.Radiat.Isot. 33 (1982) 725
+# DOI             : 10.1016/0020-708X(82)90092-8
+# Quantity        : 75As(p,x)57Co independent production cross section
+# REACTION        : 33-AS-75(P,X)27-CO-57,IND,SIG
+# File ID         : p-As75-x-sig-excfun-mon-prodCo57_Gruetter_1982_d0029.072
+#
+# npts            : 2           
+# xmin            :   5.4000E+08
+# xmax            :   5.9300E+08
+# ymin            :   9.8000E-03
+# ymax            :   1.0800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9300E+08  0.0000E+00  1.0800E-02  0.0000E+00
+  5.4000E+08  0.0000E+00  9.8000E-03  0.0000E+00
+#---------------------------------------------------

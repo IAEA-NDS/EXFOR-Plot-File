@@ -1,0 +1,23 @@
+# EXFOR #         : O2001.068  
+# EXFOR Ver.      : 20120808
+# TRANS #         : O049
+# Author          : S.Kraemer et al.
+# Reference       : Inorg.Nucl.Chem.Lett 13 (1977) 205
+# DOI             : 10.1016/0020-1650(77)80095-0
+# Quantity        : 197Au(p,x)65Zn cumulative production cross section
+# REACTION        : 79-AU-197(P,X)30-ZN-65,CUM,SIG
+# File ID         : p-Au197-x-sigc-excfun-mon-prodZn65_Kraemer_1977_o2001.068
+#
+# npts            : 2           
+# xmin            :   4.5000E+08
+# xmax            :   2.4000E+10
+# ymin            :   4.7000E-05
+# ymax            :   4.9700E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+08  0.0000E+00  4.7000E-05  9.0000E-06
+  2.4000E+10  0.0000E+00  4.9700E-04  9.9000E-05
+#---------------------------------------------------

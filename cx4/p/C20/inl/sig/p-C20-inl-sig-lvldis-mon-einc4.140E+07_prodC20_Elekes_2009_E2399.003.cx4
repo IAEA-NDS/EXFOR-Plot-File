@@ -1,0 +1,24 @@
+# EXFOR #         : E2399.003  
+# EXFOR Ver.      : 20140620
+# TRANS #         : E092
+# Author          : Z.Elekes et al.
+# Reference       : Phys.Rev.C 79 (2009) 011302
+# DOI             : 10.1103/PhysRevC.79.011302
+# Quantity        : 20C(p,inl)20C partial cross section
+# REACTION        : 6-C-20(P,INL)6-C-20,PAR,SIG
+# File ID         : p-C20-inl-sig-lvldis-mon-einc4.140E+07_prodC20_Elekes_2009_e2399.003
+#
+# Einc (eV)       :   4.1400E+07
+#
+# npts            : 1           
+# xmin            :   1.6140E+06
+# xmax            :   1.6140E+06
+# ymin            :   2.4000E-02
+# ymax            :   2.4000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6140E+06  1.1000E+04  2.4000E-02  4.0000E-03
+#---------------------------------------------------

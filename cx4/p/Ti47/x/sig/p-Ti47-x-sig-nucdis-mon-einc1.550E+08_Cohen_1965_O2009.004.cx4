@@ -1,0 +1,25 @@
+# EXFOR #         : O2009.004  
+# EXFOR Ver.      : 20151207
+# TRANS #         : O056
+# Author          : J.P.Cohen et al.
+# Reference       : J.Phys.(Paris) 26 (1965) 427
+# DOI             : 10.1051/jphys:01965002607042700
+# Quantity        : 47Ti(p,x) independent production cross section
+# REACTION        : 22-TI-47(P,X)ELEM/MASS,,SIG
+# File ID         : p-Ti47-x-sig-nucdis-mon-einc1.550E+08_Cohen_1965_o2009.004
+#
+# Einc (eV)       :   1.5500E+08
+#
+# npts            : 2           
+# xmin            : 21044.9     
+# xmax            : 21046.9     
+# ymin            :   2.1500E-02
+# ymax            :   3.6500E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     21046.9  2.1500E-02  9.4000E-03
+     21044.9  3.6500E-02  1.2800E-02
+#---------------------------------------------------

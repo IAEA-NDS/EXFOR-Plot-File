@@ -1,0 +1,25 @@
+# EXFOR #         : O0798.002  
+# EXFOR Ver.      : 20190419
+# TRANS #         : O068
+# Author          : R.Johansson et al.
+# Reference       : Nucl.Phys.A 641 (1998) 389
+# DOI             : 10.1016/S0375-9474(98)00490-4
+# Quantity        : 2H(p,g)3He angular differential cross section
+# REACTION        : 1-H-2(P,G)2-HE-3,,DA
+# File ID         : p-H2-g-adxc-angdisl-mon-einc1.760E+08_prodHe3_Johansson_1998_o0798.002
+#
+# Einc (eV)       :   1.7600E+08
+#
+# npts            : 2           
+# xmin            :   40.0000000
+# xmax            :   80.0000000
+# ymin            :   8.3000E-08
+# ymax            :   1.3000E-07
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.0000000   0.0000000  1.3000E-07  8.0000E-09
+  80.0000000   0.0000000  8.3000E-08  1.2000E-08
+#---------------------------------------------------

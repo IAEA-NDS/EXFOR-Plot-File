@@ -1,0 +1,22 @@
+# EXFOR #         : O0412.011  
+# EXFOR Ver.      : 20220107
+# TRANS #         : O086
+# Author          : R.G.Korteling et al.
+# Reference       : J.Inorg.Nucl.Chem. 29 (1967) 2863
+# DOI             : 10.1016/0022-1902(67)80117-9
+# Quantity        : natTi(p,x)24Na cumulative production cross section
+# REACTION        : 22-TI-0(P,X)11-NA-24,CUM,SIG
+# File ID         : p-Ti-x-sigc-excfun-mon-prodNa24_Korteling_1967_o0412.011
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   5.3800E-04
+# ymax            :   5.3800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  5.0000E+05  5.3800E-04  1.6000E-05
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : O0284.122  
+# EXFOR Ver.      : 20191005
+# TRANS #         : O071
+# Author          : Th.Schiekel et al.
+# Reference       : Nucl.Instrum.Meth.B 114 (1996) 91
+# DOI             : 10.1016/0168-583X(96)00145-0
+# Quantity        : natCu(p,x)65Zn independent production cross section
+# REACTION        : 29-CU-0(P,X)30-ZN-65,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodZn65_Schiekel_1996_o0284.122
+#
+# npts            : 4           
+# xmin            :   2.2600E+08
+# xmax            :   3.7500E+08
+# ymin            :   5.6200E-04
+# ymax            :   7.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2600E+08  1.8000E+06  7.9000E-04  7.7400E-05
+  2.7100E+08  1.2800E+06  6.4700E-04  6.8900E-05
+  3.3800E+08  1.7400E+06  5.8100E-04  6.2100E-05
+  3.7500E+08  1.2600E+06  5.6200E-04  6.3400E-05
+#---------------------------------------------------

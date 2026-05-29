@@ -1,0 +1,24 @@
+# EXFOR #         : O0095.032  
+# EXFOR Ver.      : 20160706
+# TRANS #         : O058
+# Author          : S.Regnier
+# Reference       : Phys.Rev.C 20 (1979) 1517
+# DOI             : 10.1103/PhysRevC.20.1517
+# Quantity        : 59Co(p,x)36Ar cumulative production cross section
+# REACTION        : 27-CO-59(P,X)18-AR-36,(CUM),SIG
+# File ID         : p-Co59-x-sigc-excfun-mon-prodAr36_Regnier_1979_o0095.032
+#
+# npts            : 3           
+# xmin            :   1.5000E+08
+# xmax            :   2.4000E+10
+# ymin            :   3.5000E-06
+# ymax            :   1.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  3.5000E-06  6.0000E-06
+  1.0500E+09  0.0000E+00  1.8000E-03  3.0000E-04
+  2.4000E+10  0.0000E+00  1.3000E-03  1.4000E-04
+#---------------------------------------------------

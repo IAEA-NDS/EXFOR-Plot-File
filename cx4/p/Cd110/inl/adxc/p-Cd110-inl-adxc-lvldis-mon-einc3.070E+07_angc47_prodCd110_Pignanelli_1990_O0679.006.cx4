@@ -1,0 +1,26 @@
+# EXFOR #         : O0679.006  
+# EXFOR Ver.      : 20000427
+# TRANS #         : 0000
+# Author          : M.Pignanelli et al.
+# Reference       : Nucl.Phys.A 519 (1990) 567
+# DOI             : 10.1016/0375-9474(90)90447-T
+# Quantity        : 110Cd(p,inl)110Cd partial angular differential cross section
+# REACTION        : 48-CD-110(P,INL)48-CD-110,PAR,DA
+# File ID         : p-Cd110-inl-adxc-lvldis-mon-einc3.070E+07_angc47_prodCd110_Pignanelli_1990_o0679.006
+#
+# Einc (eV)       :   3.0700E+07
+# theta,cm (deg)  :   47.3000000
+# dtheta,cm (deg) :    0.3000000
+#
+# npts            : 1           
+# xmin            :   2.6500E+06
+# xmax            :   2.6500E+06
+# ymin            :   3.6000E-05
+# ymax            :   3.6000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.6500E+06  0.0000E+00  3.6000E-05  2.8800E-06
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : O2037.002  
+# EXFOR Ver.      : 20120906
+# TRANS #         : O049
+# Author          : S.Regnier et al.
+# Reference       : Compt.Rend.B 280 (1975) 513
+# DOI             : N/A
+# Quantity        : natFe(p,x)7Be independent production cross section
+# REACTION        : 26-FE-0(P,X)4-BE-7,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodBe7_Regnier_1975_o2037.002
+#
+# npts            : 2           
+# xmin            :   6.0000E+08
+# xmax            :   2.4000E+10
+# ymin            :   1.8000E-03
+# ymax            :   1.0200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  1.8000E-03  6.0000E-04
+  2.4000E+10  0.0000E+00  1.0200E-02  1.0000E-03
+#---------------------------------------------------

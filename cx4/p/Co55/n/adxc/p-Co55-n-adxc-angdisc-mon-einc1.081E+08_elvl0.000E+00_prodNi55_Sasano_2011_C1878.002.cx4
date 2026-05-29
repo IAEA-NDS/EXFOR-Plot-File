@@ -1,0 +1,28 @@
+# EXFOR #         : C1878.002  
+# EXFOR Ver.      : 20111213
+# TRANS #         : C115
+# Author          : M.Sasano et al.
+# Reference       : Phys.Rev.Lett. 107 (2011) 202501
+# DOI             : 10.1103/PhysRevLett.107.202501
+# Quantity        : 55Co(p,n)55Ni partial angular differential cross section
+# REACTION        : 27-CO-55(P,N)28-NI-55,PAR,DA
+# File ID         : p-Co55-n-adxc-angdisc-mon-einc1.081E+08_elvl0.000E+00_prodNi55_Sasano_2011_c1878.002
+#
+# Einc (eV)       :   1.0805E+08
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :    1.0000000
+# xmax            :    7.0000000
+# ymin            :   9.1000E-04
+# ymax            :   1.5000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   1.0000000   1.0000000  1.4300E-03  3.0000E-04
+   3.0000000   1.0000000  1.5000E-03  1.6000E-04
+   5.0000000   1.0000000  1.0000E-03  1.0000E-04
+   7.0000000   1.0000000  9.1000E-04  9.0000E-05
+#---------------------------------------------------

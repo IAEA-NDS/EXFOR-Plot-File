@@ -1,0 +1,24 @@
+# EXFOR #         : F1248.003  
+# EXFOR Ver.      : 20150414
+# TRANS #         : F058
+# Author          : Y.D.Bajukov et al.
+# Reference       : Phys.Lett.B 24 No.11 (1967) 598
+# DOI             : 10.1016/0370-2693(67)90403-0
+# Quantity        : 2H(p,el)2H angular differential cross section
+# REACTION        : 1-H-2(P,EL)1-H-2,,DA
+# File ID         : p-H2-el-adxc-angdisc-mon-einc2.000E+09_prodH2_Bajukov_1967_f1248.003
+#
+# Einc (eV)       :   2.0000E+09
+#
+# npts            : 1           
+# xmin            :  163.0000000
+# xmax            :  163.0000000
+# ymin            :   3.5000E-06
+# ymax            :   3.5000E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 163.0000000   0.0000000  3.5000E-06  9.0000E-07
+#---------------------------------------------------

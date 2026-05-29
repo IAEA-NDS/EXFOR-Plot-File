@@ -1,0 +1,23 @@
+# EXFOR #         : O0399.031  
+# EXFOR Ver.      : 20020909
+# TRANS #         : 0000
+# Author          : Y.Y.Chu et al.
+# Reference       : Phys.Rev.C 15 (1977) 352
+# DOI             : 10.1103/PhysRevC.15.352
+# Quantity        : natPb(p,x)51Cr cumulative production cross section
+# REACTION        : 82-PB-0(P,X)24-CR-51,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodCr51_Chu_1977_o0399.031
+#
+# npts            : 2           
+# xmin            :   2.0000E+09
+# xmax            :   3.0000E+09
+# ymin            :   6.0000E-04
+# ymax            :   1.1500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+09  0.0000E+00  6.0000E-04  1.8000E-04
+  3.0000E+09  0.0000E+00  1.1500E-03  2.3000E-04
+#---------------------------------------------------

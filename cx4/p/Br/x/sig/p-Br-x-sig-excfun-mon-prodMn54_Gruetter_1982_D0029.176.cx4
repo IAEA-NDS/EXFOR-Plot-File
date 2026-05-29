@@ -1,0 +1,22 @@
+# EXFOR #         : D0029.176  
+# EXFOR Ver.      : 20060725
+# TRANS #         : D048
+# Author          : A.Gruetter
+# Reference       : Appl.Radiat.Isot. 33 (1982) 725
+# DOI             : 10.1016/0020-708X(82)90092-8
+# Quantity        : natBr(p,x)54Mn independent production cross section
+# REACTION        : 35-BR-0(P,X)25-MN-54,IND,SIG
+# File ID         : p-Br-x-sig-excfun-mon-prodMn54_Gruetter_1982_d0029.176
+#
+# npts            : 1           
+# xmin            :   5.9300E+08
+# xmax            :   5.9300E+08
+# ymin            :   3.9000E-03
+# ymax            :   3.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9300E+08  0.0000E+00  3.9000E-03  0.0000E+00
+#---------------------------------------------------

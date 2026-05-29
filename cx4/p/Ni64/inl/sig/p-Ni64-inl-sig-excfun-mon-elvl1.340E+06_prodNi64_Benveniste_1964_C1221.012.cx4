@@ -1,0 +1,25 @@
+# EXFOR #         : C1221.012  
+# EXFOR Ver.      : 20050408
+# TRANS #         : C073
+# Author          : J.Benveniste et al.
+# Reference       : Phys.Rev. 133 No.2 (1964) B323
+# DOI             : N/A
+# Quantity        : 64Ni(p,inl)64Ni partial cross section
+# REACTION        : 28-NI-64(P,INL)28-NI-64,PAR,SIG
+# File ID         : p-Ni64-inl-sig-excfun-mon-elvl1.340E+06_prodNi64_Benveniste_1964_c1221.012
+#
+# Elvl (eV)       :   1.3400E+06
+#
+# npts            : 2           
+# xmin            :   9.6000E+06
+# xmax            :   1.1700E+07
+# ymin            :   2.8900E-02
+# ymax            :   2.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.6000E+06  0.0000E+00  2.8900E-02  0.0000E+00
+  1.1700E+07  0.0000E+00  2.9000E-02  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : O1252.003  
+# EXFOR Ver.      : 20050406
+# TRANS #         : O023
+# Author          : N.Marie et al.
+# Reference       : Proceedings of Worksh.Nucl.Data for Transmutation, Darmstadt, 2003
+# DOI             : N/A
+# Quantity        : 59Co(p,n+x) angular differential cross section
+# REACTION        : 27-CO-59(P,X)0-NN-1,,DA
+# File ID         : p-Co59-xn-adxl-angdisl-mon-einc6.290E+07_Marie_2003_o1252.003
+#
+# Einc (eV)       :   6.2900E+07
+#
+# npts            : 5           
+# xmin            :   24.0000000
+# xmax            :  120.0000000
+# ymin            :   4.9556E-02
+# ymax            :   1.4119E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 120.0000000   0.0000000  4.9556E-02  6.1025E-03
+  80.0000000   0.0000000  6.3152E-02  7.4400E-03
+  55.0000000   0.0000000  8.3410E-02  9.2254E-03
+  35.0000000   0.0000000  1.3815E-01  1.4176E-02
+  24.0000000   0.0000000  1.4119E-01  1.3828E-02
+#---------------------------------------------------

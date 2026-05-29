@@ -1,0 +1,27 @@
+# EXFOR #         : O0365.012  
+# EXFOR Ver.      : 20200113
+# TRANS #         : O073
+# Author          : A.Johansson et al.
+# Reference       : Arkiv foer Fysik 19 (1961) 541
+# DOI             : N/A
+# Quantity        : natFe(p,el)natFe angular differential cross section
+# REACTION        : 26-FE-0(P,EL)26-FE-0,,DA
+# File ID         : p-Fe-el-adxl-angdisl-mon-einc1.755E+08_prodFe_Johansson_1961_o0365.012
+#
+# Einc (eV)       :   1.7550E+08
+#
+# npts            : 4           
+# xmin            :   50.3200000
+# xmax            :   65.3000000
+# ymin            :   2.5100E-06
+# ymax            :   5.3700E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  50.3200000   1.3800000  5.3700E-05  4.0000E-06
+  55.3300000   1.3800000  2.7900E-05  1.9000E-06
+  60.3000000   1.3800000  1.0280E-05  9.7000E-07
+  65.3000000   1.3800000  2.5100E-06  4.3000E-07
+#---------------------------------------------------

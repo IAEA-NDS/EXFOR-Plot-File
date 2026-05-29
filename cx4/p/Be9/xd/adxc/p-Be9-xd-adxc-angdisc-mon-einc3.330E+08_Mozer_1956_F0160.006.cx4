@@ -1,0 +1,25 @@
+# EXFOR #         : F0160.006  
+# EXFOR Ver.      : 20170720
+# TRANS #         : F065
+# Author          : F.S.Mozer
+# Reference       : Phys.Rev. 104 (1956) 1386
+# DOI             : 10.1103/PhysRev.104.1386
+# Quantity        : 9Be(p,d+x) angular differential cross section
+# REACTION        : 4-BE-9(P,X)1-H-2,,DA
+# File ID         : p-Be9-xd-adxc-angdisc-mon-einc3.330E+08_Mozer_1956_f0160.006
+#
+# Einc (eV)       :   3.3300E+08
+#
+# npts            : 2           
+# xmin            :   40.5358000
+# xmax            :   58.6610400
+# ymin            :   3.2953E-05
+# ymax            :   3.3418E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.5358000   0.0000000  3.3418E-05  2.9293E-06
+  58.6610400   0.0000000  3.2953E-05  2.9293E-06
+#---------------------------------------------------

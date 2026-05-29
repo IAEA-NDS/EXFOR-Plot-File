@@ -1,0 +1,28 @@
+# EXFOR #         : O1417.004  
+# EXFOR Ver.      : 20070605
+# TRANS #         : O028
+# Author          : Ch.Dufauquez et al.
+# Reference       : Nucl.Phys.A 773 (2006) 24
+# DOI             : 10.1016/j.nuclphysa.2006.04.005
+# Quantity        : natSi(p,t+x) double differential cross section
+# REACTION        : 14-SI-0(P,X)1-H-3,,DA/DE
+# File ID         : p-Si-xt-ddxl-enedisl-mon-einc2.650E+07_angl10_Dufauquez_2006_o1417.004
+#
+# Einc (eV)       :   2.6500E+07
+# theta,lab (deg) :   10.0000000
+#
+# npts            : 4           
+# xmin            :   3.4500E+06
+# xmax            :   4.3500E+06
+# ymin            :   2.6000E-11
+# ymax            :   1.6900E-10
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  3.4500E+06  0.0000E+00  2.6000E-11  1.3030E-11
+  3.7500E+06  0.0000E+00  4.5500E-11  1.7240E-11
+  4.0500E+06  0.0000E+00  1.6900E-10  3.3220E-11
+  4.3500E+06  0.0000E+00  2.6000E-11  1.3030E-11
+#---------------------------------------------------

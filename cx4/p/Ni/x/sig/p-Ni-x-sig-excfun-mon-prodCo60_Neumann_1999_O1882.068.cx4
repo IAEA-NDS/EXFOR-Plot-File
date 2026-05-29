@@ -1,0 +1,24 @@
+# EXFOR #         : O1882.068  
+# EXFOR Ver.      : 20101220
+# TRANS #         : O044
+# Author          : S.Neumann
+# Reference       : Thesis  (1999)
+# DOI             : N/A
+# Quantity        : natNi(p,x)60Co independent production cross section
+# REACTION        : 28-NI-0(P,X)27-CO-60,IND,SIG
+# File ID         : p-Ni-x-sig-excfun-mon-prodCo60_Neumann_1999_o1882.068
+#
+# npts            : 3           
+# xmin            :   9.5700E+08
+# xmax            :   2.6000E+09
+# ymin            :   2.1900E-03
+# ymax            :   2.3800E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5700E+08  2.0000E+06  2.3800E-03  3.2000E-04
+  1.3590E+09  2.0000E+06  2.2600E-03  2.9000E-04
+  2.6000E+09  1.0000E+06  2.1900E-03  3.0000E-04
+#---------------------------------------------------

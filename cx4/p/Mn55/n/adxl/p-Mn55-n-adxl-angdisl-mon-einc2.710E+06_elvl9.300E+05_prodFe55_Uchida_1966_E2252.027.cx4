@@ -1,0 +1,28 @@
+# EXFOR #         : E2252.027  
+# EXFOR Ver.      : 20151116
+# TRANS #         : E100
+# Author          : A.Uchida et al.
+# Reference       : J.Phys.Soc.Jpn. 21 (1966) 2115
+# DOI             : 10.1143/JPSJ.21.2115
+# Quantity        : 55Mn(p,n)55Fe partial angular differential cross section
+# REACTION        : 25-MN-55(P,N)26-FE-55,PAR,DA
+# File ID         : p-Mn55-n-adxl-angdisl-mon-einc2.710E+06_elvl9.300E+05_prodFe55_Uchida_1966_e2252.027
+#
+# Einc (eV)       :   2.7100E+06
+# Elvl (eV)       :   9.3000E+05
+#
+# npts            : 4           
+# xmin            :    0.0000000
+# xmax            :  135.0000000
+# ymin            :   5.0500E-03
+# ymax            :   8.9690E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  8.9690E-03  5.1300E-04
+  45.0000000   0.0000000  7.8680E-03  3.8600E-04
+  90.0000000   0.0000000  5.8240E-03  6.1100E-04
+ 135.0000000   0.0000000  5.0500E-03  1.7700E-04
+#---------------------------------------------------

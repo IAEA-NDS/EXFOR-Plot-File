@@ -1,0 +1,23 @@
+# EXFOR #         : D0646.006  
+# EXFOR Ver.      : 20110223
+# TRANS #         : D078
+# Author          : M.Ivascu et al.
+# Reference       : Rom.J.Phys. 55 (2010) 1006
+# DOI             : N/A
+# Quantity        : 63Cu(p,n)63Zn cross section
+# REACTION        : 29-CU-63(P,N)30-ZN-63,,SIG
+# File ID         : p-Cu63-n-sig-excfun-mon-prodZn63_Ivascu_2010_d0646.006
+#
+# npts            : 2           
+# xmin            :   5.1400E+06
+# xmax            :   5.2300E+06
+# ymin            :   6.7734E-02
+# ymax            :   8.6430E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.1400E+06  1.1000E+05  6.7734E-02  5.4850E-03
+  5.2300E+06  1.0000E+05  8.6430E-02  6.9971E-03
+#---------------------------------------------------

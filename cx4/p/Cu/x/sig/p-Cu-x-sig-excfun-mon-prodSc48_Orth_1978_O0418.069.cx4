@@ -1,0 +1,23 @@
+# EXFOR #         : O0418.069  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : C.J.Orth et al.
+# Reference       : Phys.Rev.C 18 (1978) 1426
+# DOI             : 10.1103/PhysRevC.18.1426
+# Quantity        : natCu(p,x)48Sc independent production cross section
+# REACTION        : 29-CU-0(P,X)21-SC-48,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodSc48_Orth_1978_o0418.069
+#
+# npts            : 2           
+# xmin            :   2.0000E+08
+# xmax            :   3.5000E+08
+# ymin            :   7.0000E-05
+# ymax            :   2.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  7.0000E-05  1.0000E-05
+  3.5000E+08  0.0000E+00  2.5000E-04  6.0000E-05
+#---------------------------------------------------

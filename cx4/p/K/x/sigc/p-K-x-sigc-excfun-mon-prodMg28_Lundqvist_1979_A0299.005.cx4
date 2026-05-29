@@ -1,0 +1,26 @@
+# EXFOR #         : A0299.005  
+# EXFOR Ver.      : 20240109
+# TRANS #         : A107
+# Author          : H.Lundqvist et al.
+# Reference       : Appl.Radiat.Isot. 30 (1979) 33
+# DOI             : 10.1016/0020-708X(79)90094-2
+# Quantity        : natK(p,x)28Mg cumulative production cross section
+# REACTION        : 19-K-0(P,X)12-MG-28,(CUM),SIG
+# File ID         : p-K-x-sigc-excfun-mon-prodMg28_Lundqvist_1979_a0299.005
+#
+# npts            : 5           
+# xmin            :   8.0250E+07
+# xmax            :   1.5994E+08
+# ymin            :   7.0000E-07
+# ymax            :   3.2500E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0250E+07  0.0000E+00  7.0000E-07  0.0000E+00
+  1.0056E+08  0.0000E+00  8.9000E-06  0.0000E+00
+  1.2016E+08  0.0000E+00  2.1600E-05  0.0000E+00
+  1.4004E+08  0.0000E+00  3.1300E-05  0.0000E+00
+  1.5994E+08  0.0000E+00  3.2500E-05  0.0000E+00
+#---------------------------------------------------

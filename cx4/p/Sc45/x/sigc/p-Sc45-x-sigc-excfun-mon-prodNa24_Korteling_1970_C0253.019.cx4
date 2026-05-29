@@ -1,0 +1,24 @@
+# EXFOR #         : C0253.019  
+# EXFOR Ver.      : 20250611
+# TRANS #         : C250
+# Author          : R.G.Korteling et al.
+# Reference       : Phys.Rev.C 1 (1970) 1960
+# DOI             : 10.1103/PhysRevC.1.1960
+# Quantity        : 45Sc(p,x)24Na cumulative production cross section
+# REACTION        : 21-SC-45(P,X)11-NA-24,CUM,SIG
+# File ID         : p-Sc45-x-sigc-excfun-mon-prodNa24_Korteling_1970_c0253.019
+#
+# npts            : 3           
+# xmin            :   1.0000E+08
+# xmax            :   3.0000E+08
+# ymin            :   6.6000E-05
+# ymax            :   6.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  1.0000E+07  6.6000E-05  3.0000E-06
+  2.0000E+08  1.0000E+07  2.4000E-04  0.0000E+00
+  3.0000E+08  1.0000E+07  6.0000E-04  0.0000E+00
+#---------------------------------------------------

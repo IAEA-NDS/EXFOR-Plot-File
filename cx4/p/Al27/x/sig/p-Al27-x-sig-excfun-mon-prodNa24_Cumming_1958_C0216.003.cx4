@@ -1,0 +1,23 @@
+# EXFOR #         : C0216.003  
+# EXFOR Ver.      : 20210828
+# TRANS #         : C203
+# Author          : J.B.Cumming et al.
+# Reference       : Phys.Rev. 111 (1958) 1386
+# DOI             : 10.1103/PhysRev.111.1386
+# Quantity        : 27Al(p,x)24Na independent production cross section
+# REACTION        : 13-AL-27(P,X)11-NA-24,,SIG
+# File ID         : p-Al27-x-sig-excfun-mon-prodNa24_Cumming_1958_c0216.003
+#
+# npts            : 2           
+# xmin            :   2.0000E+09
+# xmax            :   3.0000E+09
+# ymin            :   1.0000E-02
+# ymax            :   1.0400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+09  0.0000E+00  1.0400E-02  6.0000E-04
+  3.0000E+09  0.0000E+00  1.0000E-02  6.0000E-04
+#---------------------------------------------------

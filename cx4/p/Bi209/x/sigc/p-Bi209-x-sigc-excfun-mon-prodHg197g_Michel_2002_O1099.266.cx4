@@ -1,0 +1,23 @@
+# EXFOR #         : O1099.266  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)197gHg cumulative production cross section
+# REACTION        : 83-BI-209(P,X)80-HG-197-G,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodHg197g_Michel_2002_o1099.266
+#
+# npts            : 2           
+# xmin            :   2.3500E+08
+# xmax            :   3.1800E+08
+# ymin            :   9.7490E-02
+# ymax            :   1.3160E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3500E+08  0.0000E+00  9.7490E-02  1.4830E-02
+  3.1800E+08  1.9600E+06  1.3160E-01  3.1430E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : A0927.110  
+# EXFOR Ver.      : 20120126
+# TRANS #         : A076
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.Rev.C 84 (2011) 064612
+# DOI             : 10.1103/PhysRevC.84.064612
+# Quantity        : 208Pb(p,x)97Zr cumulative production cross section
+# REACTION        : 82-PB-208(P,X)40-ZR-97,CUM,SIG
+# File ID         : p-Pb208-x-sigc-excfun-mon-prodZr97_Titarenko_2011_a0927.110
+#
+# npts            : 1           
+# xmin            :   5.0000E+08
+# xmax            :   5.0000E+08
+# ymin            :   7.8600E-04
+# ymax            :   7.8600E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+08  0.0000E+00  7.8600E-04  6.2000E-05
+#---------------------------------------------------

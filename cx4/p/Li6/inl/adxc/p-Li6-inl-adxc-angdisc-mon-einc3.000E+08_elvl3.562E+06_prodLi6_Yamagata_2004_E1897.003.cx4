@@ -1,0 +1,30 @@
+# EXFOR #         : E1897.003  
+# EXFOR Ver.      : 20050914
+# TRANS #         : E032
+# Author          : T.Yamagata et al.
+# Reference       : Phys.Rev.C 69 No.4 (2004) 044313
+# DOI             : 10.1103/PhysRevC.69.044313
+# Quantity        : 6Li(p,inl)6Li partial angular differential cross section
+# REACTION        : 3-LI-6(P,INL)3-LI-6,PAR,DA
+# File ID         : p-Li6-inl-adxc-angdisc-mon-einc3.000E+08_elvl3.562E+06_prodLi6_Yamagata_2004_e1897.003
+#
+# Einc (eV)       :   3.0000E+08
+# Elvl (eV)       :   3.5620E+06
+#
+# npts            : 6           
+# xmin            :    3.2760000
+# xmax            :   15.1460000
+# ymin            :   4.0936E-05
+# ymax            :   5.0621E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   3.2760000   0.0000000  5.0621E-03  2.5311E-04
+   5.4600000   0.0000000  2.1455E-03  1.0728E-04
+   7.8850000   0.0000000  1.1955E-03  5.9777E-05
+   9.7020000   0.0000000  5.5853E-04  2.7930E-05
+  12.1230000   0.0000000  2.6876E-04  1.3446E-05
+  15.1460000   0.0000000  4.0936E-05  2.0572E-06
+#---------------------------------------------------

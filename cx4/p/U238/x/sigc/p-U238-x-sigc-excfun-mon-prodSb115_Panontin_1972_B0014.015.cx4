@@ -1,0 +1,22 @@
+# EXFOR #         : B0014.015  
+# EXFOR Ver.      : 20220317
+# TRANS #         : B033
+# Author          : J.A.Panontin et al.
+# Reference       : J.Inorg.Nucl.Chem. 34 (1972) 1485
+# DOI             : 10.1016/0022-1902(72)80268-9
+# Quantity        : 238U(p,f)115Sb cumulative production cross section
+# REACTION        : 92-U-238(P,F)51-SB-115,CUM,SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodSb115_Panontin_1972_b0014.015
+#
+# npts            : 1           
+# xmin            :   4.5000E+08
+# xmax            :   4.5000E+08
+# ymin            :   3.1000E-04
+# ymax            :   3.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+08  0.0000E+00  3.1000E-04  1.0000E-05
+#---------------------------------------------------

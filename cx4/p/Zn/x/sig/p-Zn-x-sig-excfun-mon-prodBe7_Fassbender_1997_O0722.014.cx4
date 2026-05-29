@@ -1,0 +1,23 @@
+# EXFOR #         : O0722.014  
+# EXFOR Ver.      : 20040419
+# TRANS #         : 0000
+# Author          : M.Fassbender et al.
+# Reference       : Appl.Radiat.Isot. 48 (1997) 1221
+# DOI             : 10.1016/S0969-8043(97)00102-4
+# Quantity        : natZn(p,x)7Be independent production cross section
+# REACTION        : 30-ZN-0(P,X)4-BE-7,,SIG
+# File ID         : p-Zn-x-sig-excfun-mon-prodBe7_Fassbender_1997_o0722.014
+#
+# npts            : 2           
+# xmin            :   1.3400E+08
+# xmax            :   2.5430E+08
+# ymin            :   3.0000E-04
+# ymax            :   3.8000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5430E+08  0.0000E+00  3.8000E-04  6.0000E-05
+  1.3400E+08  0.0000E+00  3.0000E-04  5.0000E-05
+#---------------------------------------------------

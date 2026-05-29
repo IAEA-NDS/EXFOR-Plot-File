@@ -1,0 +1,25 @@
+# EXFOR #         : O0034.002  
+# EXFOR Ver.      : 20200815
+# TRANS #         : O079
+# Author          : J.Narayanaswamy et al.
+# Reference       : Phys.Rev.C 24 (1981) 2727
+# DOI             : 10.1103/PhysRevC.24.2727
+# Quantity        : 16O(p,inl)16O partial gamma production cross section
+# REACTION        : 8-O-16(P,INL)8-O-16,PAR,SIG,G
+# File ID         : p-O16-inl-sigg-excfun-mon-eoutl6.130E+06_prodO16_Narayanaswamy_1981_o0034.002
+#
+# Eout,lab (eV)   :   6.1300E+06
+#
+# npts            : 2           
+# xmin            :   2.3700E+07
+# xmax            :   4.4600E+07
+# ymin            :   4.0400E-02
+# ymax            :   5.8900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3700E+07  0.0000E+00  5.8900E-02  6.2000E-03
+  4.4600E+07  0.0000E+00  4.0400E-02  4.9000E-03
+#---------------------------------------------------

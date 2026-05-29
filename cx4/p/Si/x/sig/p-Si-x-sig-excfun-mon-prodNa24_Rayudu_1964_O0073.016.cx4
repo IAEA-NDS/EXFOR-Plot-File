@@ -1,0 +1,25 @@
+# EXFOR #         : O0073.016  
+# EXFOR Ver.      : 20201202
+# TRANS #         : O081
+# Author          : G.V.S.Rayudu
+# Reference       : Can.J.Chem. 42 (1964) 1149
+# DOI             : 10.1139/v64-178
+# Quantity        : natSi(p,x)24Na independent production cross section
+# REACTION        : 14-SI-0(P,X)11-NA-24,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodNa24_Rayudu_1964_o0073.016
+#
+# npts            : 4           
+# xmin            :   1.3000E+08
+# xmax            :   3.9600E+08
+# ymin            :   3.3780E-03
+# ymax            :   4.7800E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  1.3000E+07  3.3780E-03  6.6000E-04
+  2.0800E+08  2.0800E+07  3.6620E-03  3.6600E-04
+  2.9700E+08  1.4850E+07  4.7400E-03  4.7400E-04
+  3.9600E+08  1.9800E+07  4.7800E-03  4.7800E-04
+#---------------------------------------------------

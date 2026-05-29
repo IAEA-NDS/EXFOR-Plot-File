@@ -1,0 +1,22 @@
+# EXFOR #         : A0612.004  
+# EXFOR Ver.      : 20160227
+# TRANS #         : A084
+# Author          : A.S.Danagulyan et al.
+# Reference       : Proceedings of Conf.Nucl.Spectrosc.Nucl.Struct., Moscow, June 1998 page 219
+# DOI             : N/A
+# Quantity        : 112Sn(p,x)88Zr cumulative production cross section
+# REACTION        : 50-SN-112(P,X)40-ZR-88,CUM,SIG
+# File ID         : p-Sn112-x-sigc-excfun-mon-prodZr88_Danagulyan_1998_a0612.004
+#
+# npts            : 1           
+# xmin            :   8.1000E+09
+# xmax            :   8.1000E+09
+# ymin            :   2.0400E-02
+# ymax            :   2.0400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.1000E+09  0.0000E+00  2.0400E-02  2.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : O0468.016.1
+# EXFOR Ver.      : 20001124
+# TRANS #         : 0000
+# Author          : G.Rudstam et al.
+# Reference       : J.Inorg.Nucl.Chem. 28 (1966) 771
+# DOI             : 10.1016/0022-1902(66)80414-1
+# Quantity        : natU(p,f)121I independent production cross section
+# REACTION        : 92-U-0(P,F)53-I-121,IND,SIG
+# File ID         : p-U-x-sig-excfun-mon-prodI121_Rudstam_1966_o0468.016.1
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   1.8000E+10
+# ymin            :   1.1400E-03
+# ymax            :   3.2300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  1.1400E-03  1.1000E-04
+  1.8000E+10  0.0000E+00  3.2300E-03  3.1000E-04
+#---------------------------------------------------

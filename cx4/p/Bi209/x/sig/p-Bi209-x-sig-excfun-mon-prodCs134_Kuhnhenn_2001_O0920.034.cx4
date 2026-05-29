@@ -1,0 +1,25 @@
+# EXFOR #         : O0920.034  
+# EXFOR Ver.      : 20230121
+# TRANS #         : O093
+# Author          : J.Kuhnhenn
+# Reference       : Thesis  (2001)
+# DOI             : N/A
+# Quantity        : 209Bi(p,f)134Cs independent production cross section
+# REACTION        : 83-BI-209(P,F)55-CS-134,,SIG
+# File ID         : p-Bi209-x-sig-excfun-mon-prodCs134_Kuhnhenn_2001_o0920.034
+#
+# npts            : 4           
+# xmin            :   5.2000E+07
+# xmax            :   6.9300E+07
+# ymin            :   4.0500E-05
+# ymax            :   6.1300E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2000E+07  1.3000E+06  4.0500E-05  2.3700E-05
+  6.1600E+07  1.1000E+06  4.4900E-05  2.1000E-05
+  6.6100E+07  1.0000E+06  6.1300E-05  1.1000E-05
+  6.9300E+07  1.0000E+06  4.5500E-05  3.2800E-05
+#---------------------------------------------------

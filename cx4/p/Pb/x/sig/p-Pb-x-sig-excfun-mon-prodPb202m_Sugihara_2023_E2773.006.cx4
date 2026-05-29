@@ -1,0 +1,26 @@
+# EXFOR #         : E2773.006  
+# EXFOR Ver.      : 20240503
+# TRANS #         : E142
+# Author          : K.Sugihara et al.
+# Reference       : Report (proceedings) JAEA-C-2023-001 page 80, 2023
+# DOI             : N/A
+# Quantity        : natPb(p,x)202mPb independent production cross section
+# REACTION        : 82-PB-0(P,X)82-PB-202-M,,SIG
+# File ID         : p-Pb-x-sig-excfun-mon-prodPb202m_Sugihara_2023_e2773.006
+#
+# npts            : 5           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   8.7300E-03
+# ymax            :   1.7740E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  1.7740E-02  1.2300E-03
+  1.3000E+09  0.0000E+00  1.2450E-02  9.2000E-04
+  1.5000E+09  0.0000E+00  1.0840E-02  8.4000E-04
+  2.2000E+09  0.0000E+00  9.5900E-03  2.0600E-03
+  3.0000E+09  0.0000E+00  8.7300E-03  1.1200E-03
+#---------------------------------------------------

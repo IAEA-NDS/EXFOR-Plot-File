@@ -1,0 +1,26 @@
+# EXFOR #         : O2309.002  
+# EXFOR Ver.      : 20210906
+# TRANS #         : O084
+# Author          : K.G.Leach et al.
+# Reference       : Phys.Rev.C 100 (2019) 014320
+# DOI             : 10.1103/PhysRevC.100.014320
+# Quantity        : 52Cr(p,t)50Cr partial angular differential cross section
+# REACTION        : 24-CR-52(P,T)24-CR-50,PAR,DA
+# File ID         : p-Cr52-t-adxc-angdisc-mon-einc2.400E+07_elvl2.924E+06_prodCr50_Leach_2019_o2309.002
+#
+# Einc (eV)       :   2.4000E+07
+# Elvl (eV)       :   2.9242E+06
+#
+# npts            : 2           
+# xmin            :   40.7249500
+# xmax            :   50.8618500
+# ymin            :   3.6676E-05
+# ymax            :   4.0610E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.7249500   0.0000000  3.6676E-05  1.8952E-06
+  50.8618500   0.0000000  4.0610E-05  2.1781E-06
+#---------------------------------------------------

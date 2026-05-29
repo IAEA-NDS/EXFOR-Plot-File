@@ -1,0 +1,25 @@
+# EXFOR #         : C0278.009  
+# EXFOR Ver.      : 19871120
+# TRANS #         : 0000
+# Author          : G.D.Wagner et al.
+# Reference       : Phys.Rev. 96 (1954) 1100
+# DOI             : 10.1103/PhysRev.96.1100
+# Quantity        : 59Co(p,x)39Cl independent production cross section
+# REACTION        : 27-CO-59(P,X)17-CL-39,,SIG
+# File ID         : p-Co59-x-sig-excfun-mon-prodCl39_Wagner_1954_c0278.009
+#
+# npts            : 4           
+# xmin            :   1.7000E+08
+# xmax            :   2.4000E+08
+# ymin            :   3.0000E-06
+# ymax            :   2.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+08  0.0000E+00  7.0000E-05  5.0000E-05
+  2.4000E+08  0.0000E+00  2.3000E-04  1.6000E-04
+  1.7000E+08  0.0000E+00  1.1000E-05  8.0000E-06
+  1.7000E+08  0.0000E+00  3.0000E-06  2.0000E-06
+#---------------------------------------------------

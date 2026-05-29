@@ -1,0 +1,27 @@
+# EXFOR #         : D1007.004  
+# EXFOR Ver.      : 20200107
+# TRANS #         : D135
+# Author          : A.A.Ahmed et al.
+# Reference       : Radiat.Phys.Chem. 190 (2022) 109774
+# DOI             : 10.1016/j.radphyschem.2021.109774
+# Quantity        : natMo(p,x)95gTc cumulative production cross section
+# REACTION        : 42-MO-0(P,X)43-TC-95-G,(M),SIG
+# File ID         : p-Mo-x-sigc-excfun-mon-prodTc95g_Ahmed_2022_d1007.004
+#
+# npts            : 6           
+# xmin            :   3.3000E+06
+# xmax            :   1.7300E+07
+# ymin            :   3.4700E-03
+# ymax            :   1.1600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3000E+06  2.7000E+06  3.4700E-03  0.0000E+00
+  5.9000E+06  3.8000E+06  1.0800E-02  0.0000E+00
+  9.4000E+06  3.4000E+06  5.5700E-02  0.0000E+00
+  1.2500E+07  2.7000E+06  9.3000E-02  0.0000E+00
+  1.5100E+07  2.4000E+06  1.1600E-01  0.0000E+00
+  1.7300E+07  2.1000E+06  1.0800E-01  0.0000E+00
+#---------------------------------------------------

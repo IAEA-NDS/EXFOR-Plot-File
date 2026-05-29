@@ -1,0 +1,30 @@
+# EXFOR #         : C0148.007  
+# EXFOR Ver.      : 19970421
+# TRANS #         : 0000
+# Author          : H.Seifert et al.
+# Reference       : Phys.Rev.C 47 (1993) 1615
+# DOI             : 10.1103/PhysRevC.47.1615
+# Quantity        : 40Ca(p,inl)40Ca partial angular differential cross section
+# REACTION        : 20-CA-40(P,INL)20-CA-40,PAR,DA
+# File ID         : p-Ca40-inl-adxc-angdisc-mon-einc2.014E+08_elvl5.213E+06_prodCa40_Seifert_1993_c0148.007
+#
+# Einc (eV)       :   2.0140E+08
+# dEinc (eV)      :   2.0000E+05
+# Elvl (eV)       :   5.2130E+06
+#
+# npts            : 5           
+# xmin            :   14.0500000
+# xmax            :   47.5600000
+# ymin            :   7.5590E-08
+# ymax            :   1.0040E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  14.0500000   0.0000000  1.0040E-05  5.7278E-06
+  20.3700000   0.0000000  1.3240E-06  1.0562E-06
+  29.1100000   0.0000000  8.6620E-07  4.2089E-07
+  32.2000000   0.0000000  3.5740E-07  2.5511E-07
+  47.5600000   0.0000000  7.5590E-08  3.2436E-08
+#---------------------------------------------------

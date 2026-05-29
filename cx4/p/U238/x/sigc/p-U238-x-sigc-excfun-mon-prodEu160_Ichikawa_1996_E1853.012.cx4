@@ -1,0 +1,22 @@
+# EXFOR #         : E1853.012  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : S.Ichikawa et al.
+# Reference       : Nucl.Instrum.Meth.A 374 (1996) 330
+# DOI             : 10.1016/0168-9002(96)00086-1
+# Quantity        : 238U(p,f)160Eu cumulative production cross section
+# REACTION        : 92-U-238(P,F)63-EU-160,(CUM),SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodEu160_Ichikawa_1996_e1853.012
+#
+# npts            : 1           
+# xmin            :   1.5000E+07
+# xmax            :   1.5000E+07
+# ymin            :   1.3000E-04
+# ymax            :   1.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+07  0.0000E+00  1.3000E-04  0.0000E+00
+#---------------------------------------------------

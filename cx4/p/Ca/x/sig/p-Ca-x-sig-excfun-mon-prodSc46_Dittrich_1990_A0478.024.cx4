@@ -1,0 +1,24 @@
+# EXFOR #         : A0478.024  
+# EXFOR Ver.      : 20240915
+# TRANS #         : A118
+# Author          : B.Dittrich et al.
+# Reference       : Progress report NEANDC(E)-312U Vol.(5) page 46, 1990
+# DOI             : N/A
+# Quantity        : natCa(p,x)46Sc independent production cross section
+# REACTION        : 20-CA-0(P,X)21-SC-46,,SIG
+# File ID         : p-Ca-x-sig-excfun-mon-prodSc46_Dittrich_1990_a0478.024
+#
+# npts            : 3           
+# xmin            :   8.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   9.9000E-06
+# ymax            :   2.9400E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  2.9400E-05  4.5000E-06
+  1.2000E+09  0.0000E+00  1.1800E-05  1.1000E-06
+  2.6000E+09  0.0000E+00  9.9000E-06  2.1000E-06
+#---------------------------------------------------

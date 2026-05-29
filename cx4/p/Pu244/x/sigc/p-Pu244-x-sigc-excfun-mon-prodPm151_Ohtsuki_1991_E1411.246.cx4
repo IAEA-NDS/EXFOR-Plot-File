@@ -1,0 +1,22 @@
+# EXFOR #         : E1411.246  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : T.Ohtsuki et al.
+# Reference       : Phys.Rev.C 44 (1991) 1405
+# DOI             : 10.1103/PhysRevC.44.1405
+# Quantity        : 244Pu(p,f)151Pm cumulative production cross section
+# REACTION        : 94-PU-244(P,F)61-PM-151,(CUM),SIG
+# File ID         : p-Pu244-x-sigc-excfun-mon-prodPm151_Ohtsuki_1991_e1411.246
+#
+# npts            : 1           
+# xmin            :   1.3100E+07
+# xmax            :   1.3100E+07
+# ymin            :   2.8000E-03
+# ymax            :   2.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3100E+07  0.0000E+00  2.8000E-03  7.2000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : O2315.021  
+# EXFOR Ver.      : 20230521
+# TRANS #         : O096
+# Author          : E.Garrido et al.
+# Reference       : Nucl.Instrum.Meth.B 383 (2016) 191
+# DOI             : 10.1016/j.nimb.2016.07.011
+# Quantity        : natCu(p,x)56Co independent production cross section
+# REACTION        : 29-CU-0(P,X)27-CO-56,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodCo56_Garrido_2016_o2315.021
+#
+# npts            : 3           
+# xmin            :   5.6740E+07
+# xmax            :   5.7550E+07
+# ymin            :   2.4300E-03
+# ymax            :   3.3200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.7550E+07  1.0700E+06  3.3200E-03  3.6000E-04
+  5.7120E+07  1.0900E+06  2.8000E-03  2.0000E-04
+  5.6740E+07  1.1300E+06  2.4300E-03  1.9000E-04
+#---------------------------------------------------

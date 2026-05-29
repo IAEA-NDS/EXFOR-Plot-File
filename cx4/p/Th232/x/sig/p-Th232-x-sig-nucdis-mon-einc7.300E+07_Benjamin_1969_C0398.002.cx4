@@ -1,0 +1,26 @@
+# EXFOR #         : C0398.002  
+# EXFOR Ver.      : 19881228
+# TRANS #         : 0000
+# Author          : P.P.Benjamin et al.
+# Reference       : Can.J.Chem. 47 (1969) 301
+# DOI             : 10.1139/v69-042
+# Quantity        : 232Th(p,x) independent production cross section
+# REACTION        : 90-TH-232(P,X)ELEM/MASS,,SIG
+# File ID         : p-Th232-x-sig-nucdis-mon-einc7.300E+07_Benjamin_1969_c0398.002
+#
+# Einc (eV)       :   7.3000E+07
+# dEinc (eV)      :   2.0000E+06
+#
+# npts            : 2           
+# xmin            : 55134.1     
+# xmax            : 55136.0     
+# ymin            :   7.3000E-03
+# ymax            :   1.7000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     55134.1  7.3000E-03  1.5000E-03
+     55136.0  1.7000E-02  3.0000E-03
+#---------------------------------------------------

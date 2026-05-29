@@ -1,0 +1,26 @@
+# EXFOR #         : O2139.038  
+# EXFOR Ver.      : 20131008
+# TRANS #         : O051
+# Author          : S.A.M.Issa et al.
+# Reference       : Nucl.Instrum.Meth.B 298 (2013) 19
+# DOI             : 10.1016/j.nimb.2013.01.001
+# Quantity        : natRe(p,x)121Te cumulative production cross section
+# REACTION        : 75-RE-0(P,X)52-TE-121,CUM,SIG
+# File ID         : p-Re-x-sigc-excfun-mon-prodTe121_Issa_2013_o2139.038
+#
+# npts            : 5           
+# xmin            :   5.5800E+08
+# xmax            :   2.5900E+09
+# ymin            :   3.1000E-04
+# ymax            :   1.2300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5800E+08  1.6000E+06  3.1000E-04  3.0000E-05
+  7.6300E+08  1.5000E+06  4.4000E-04  8.0000E-05
+  1.1650E+09  1.5000E+06  1.8700E-03  7.0000E-05
+  1.5700E+09  1.5000E+06  6.4500E-03  1.5500E-03
+  2.5900E+09  1.0000E+06  1.2300E-02  1.5000E-03
+#---------------------------------------------------

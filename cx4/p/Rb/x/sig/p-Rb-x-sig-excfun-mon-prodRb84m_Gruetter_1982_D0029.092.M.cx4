@@ -1,0 +1,22 @@
+# EXFOR #         : D0029.092.M
+# EXFOR Ver.      : 20060725
+# TRANS #         : D048
+# Author          : A.Gruetter
+# Reference       : Appl.Radiat.Isot. 33 (1982) 725
+# DOI             : 10.1016/0020-708X(82)90092-8
+# Quantity        : natRb(p,x)84mRb independent production cross section
+# REACTION        : 37-RB-0(P,X)37-RB-84-M,IND,SIG
+# File ID         : p-Rb-x-sig-excfun-mon-prodRb84m_Gruetter_1982_d0029.092.m
+#
+# npts            : 1           
+# xmin            :   5.9300E+08
+# xmax            :   5.9300E+08
+# ymin            :   2.2800E-02
+# ymax            :   2.2800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9300E+08  0.0000E+00  2.2800E-02  0.0000E+00
+#---------------------------------------------------

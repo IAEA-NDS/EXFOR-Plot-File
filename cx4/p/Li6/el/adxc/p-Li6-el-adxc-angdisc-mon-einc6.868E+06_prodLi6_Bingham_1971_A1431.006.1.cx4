@@ -1,0 +1,24 @@
+# EXFOR #         : A1431.006.1
+# EXFOR Ver.      : 20200409
+# TRANS #         : A094
+# Author          : H.G.Bingham et al.
+# Reference       : Nucl.Phys.A 173 (1971) 265
+# DOI             : 10.1016/0375-9474(71)90344-7
+# Quantity        : 6Li(p,el)6Li angular differential cross section
+# REACTION        : 3-LI-6(P,EL)3-LI-6,,DA
+# File ID         : p-Li6-el-adxc-angdisc-mon-einc6.868E+06_prodLi6_Bingham_1971_a1431.006.1
+#
+# Einc (eV)       :   6.8680E+06
+#
+# npts            : 1           
+# xmin            :  104.6000000
+# xmax            :  104.6000000
+# ymin            :   3.4020E-02
+# ymax            :   3.4020E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 104.6000000   0.0000000  3.4020E-02  2.0000E-03
+#---------------------------------------------------

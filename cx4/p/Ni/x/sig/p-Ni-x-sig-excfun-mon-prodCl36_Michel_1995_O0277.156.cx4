@@ -1,0 +1,23 @@
+# EXFOR #         : O0277.156  
+# EXFOR Ver.      : 19970111
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natNi(p,x)36Cl independent production cross section
+# REACTION        : 28-NI-0(P,X)17-CL-36,,SIG
+# File ID         : p-Ni-x-sig-excfun-mon-prodCl36_Michel_1995_o0277.156
+#
+# npts            : 2           
+# xmin            :   8.0000E+08
+# xmax            :   1.2000E+09
+# ymin            :   7.0100E-03
+# ymax            :   9.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  7.0100E-03  6.8000E-04
+  1.2000E+09  0.0000E+00  9.3000E-03  7.5000E-04
+#---------------------------------------------------

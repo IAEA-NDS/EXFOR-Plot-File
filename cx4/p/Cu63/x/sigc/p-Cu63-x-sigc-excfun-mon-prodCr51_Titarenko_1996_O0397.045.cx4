@@ -1,0 +1,22 @@
+# EXFOR #         : O0397.045  
+# EXFOR Ver.      : 20080512
+# TRANS #         : O035
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 page 184
+# DOI             : N/A
+# Quantity        : 63Cu(p,x)51Cr cumulative production cross section
+# REACTION        : 29-CU-63(P,X)24-CR-51,CUM,SIG
+# File ID         : p-Cu63-x-sigc-excfun-mon-prodCr51_Titarenko_1996_o0397.045
+#
+# npts            : 1           
+# xmin            :   1.5000E+09
+# xmax            :   1.5000E+09
+# ymin            :   3.0100E-02
+# ymax            :   3.0100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+09  0.0000E+00  3.0100E-02  3.2000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : O0570.010  
+# EXFOR Ver.      : 20190307
+# TRANS #         : O068
+# Author          : G.R.Choppin et al.
+# Reference       : J.Inorg.Nucl.Chem. 33 (1971) 897
+# DOI             : 10.1016/0022-1902(71)80155-0
+# Quantity        : 238U(p,f)135I cumulative production cross section
+# REACTION        : 92-U-238(P,F)53-I-135,CUM,SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodI135_Choppin_1971_o0570.010
+#
+# npts            : 1           
+# xmin            :   1.1200E+07
+# xmax            :   1.1200E+07
+# ymin            :   5.4200E-03
+# ymax            :   5.4200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1200E+07  0.0000E+00  5.4200E-03  3.2520E-04
+#---------------------------------------------------

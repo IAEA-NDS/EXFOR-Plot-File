@@ -1,0 +1,23 @@
+# EXFOR #         : A0906.155  
+# EXFOR Ver.      : 20240110
+# TRANS #         : A107
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 537
+# DOI             : 10.1134/S106377881104017X
+# Quantity        : 93Nb(p,x)42K independent production cross section
+# REACTION        : 41-NB-93(P,X)19-K-42,,SIG
+# File ID         : p-Nb93-x-sig-excfun-mon-prodK42_Titarenko_2011_a0906.155
+#
+# npts            : 2           
+# xmin            :   1.5990E+09
+# xmax            :   2.6050E+09
+# ymin            :   9.7000E-04
+# ymax            :   1.6600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5990E+09  4.0000E+06  9.7000E-04  1.3000E-04
+  2.6050E+09  8.0000E+06  1.6600E-03  1.7000E-04
+#---------------------------------------------------

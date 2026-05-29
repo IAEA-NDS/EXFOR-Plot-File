@@ -1,0 +1,23 @@
+# EXFOR #         : E2770.015  
+# EXFOR Ver.      : 20231202
+# TRANS #         : E141
+# Author          : H.Matsuda et al.
+# Reference       : EPJ Web Conf. 239 (2020) 06004
+# DOI             : 10.1051/epjconf/202023906004
+# Quantity        : 209Bi(p,x)183Re cumulative production cross section
+# REACTION        : 83-BI-209(P,X)75-RE-183,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodRe183_Matsuda_2020_e2770.015
+#
+# npts            : 2           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   1.1372E-02
+# ymax            :   1.9751E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  1.1372E-02  1.0821E-03
+  3.0000E+09  0.0000E+00  1.9751E-02  1.8795E-03
+#---------------------------------------------------

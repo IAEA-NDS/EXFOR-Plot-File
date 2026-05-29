@@ -1,0 +1,22 @@
+# EXFOR #         : O0343.002  
+# EXFOR Ver.      : 20190306
+# TRANS #         : O068
+# Author          : N.Poffe et al.
+# Reference       : Compt.Rend. 248 (1959) 3552
+# DOI             : N/A
+# Quantity        : 197Au(p,n)197gHg cumulative production cross section
+# REACTION        : 79-AU-197(P,N)80-HG-197-G,M+,SIG
+# File ID         : p-Au197-x-sigc-excfun-mon-prodHg197g_Poffe_1959_o0343.002
+#
+# npts            : 1           
+# xmin            :   1.5500E+08
+# xmax            :   1.5500E+08
+# ymin            :   3.1000E-02
+# ymax            :   3.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5500E+08  0.0000E+00  3.1000E-02  9.3000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : O0500.084  
+# EXFOR Ver.      : 20220107
+# TRANS #         : O087
+# Author          : M.Gloris et al.
+# Reference       : Nucl.Instrum.Meth.A 463 (2001) 593
+# DOI             : 10.1016/S0168-9002(01)00174-7
+# Quantity        : natPb(p,x)172Lu independent production cross section
+# REACTION        : 82-PB-0(P,X)71-LU-172,,SIG
+# File ID         : p-Pb-x-sig-excfun-mon-prodLu172_Gloris_2001_o0500.084
+#
+# npts            : 1           
+# xmin            :   5.5300E+08
+# xmax            :   5.5300E+08
+# ymin            :   4.2400E-04
+# ymax            :   4.2400E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5300E+08  2.0000E+06  4.2400E-04  1.0200E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : E1867.023  
+# EXFOR Ver.      : 20240504
+# TRANS #         : E144
+# Author          : K.Sakamoto et al.
+# Reference       : Appl.Radiat.Isot. 36 (1985) 481
+# DOI             : 10.1016/0020-708X(85)90213-3
+# Quantity        : 133Cs(p,x)130gCs cumulative production cross section
+# REACTION        : 55-CS-133(P,X)55-CS-130-G,(M),SIG
+# File ID         : p-Cs133-x-sigc-excfun-mon-prodCs130g_Sakamoto_1985_e1867.023
+#
+# npts            : 3           
+# xmin            :   3.6300E+07
+# xmax            :   4.8240E+07
+# ymin            :   9.8540E-03
+# ymax            :   1.7570E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6300E+07  1.0690E+06  9.8540E-03  1.4030E-03
+  4.1630E+07  1.0690E+06  5.0380E-02  0.0000E+00
+  4.8240E+07  1.2300E+06  1.7570E-01  0.0000E+00
+#---------------------------------------------------

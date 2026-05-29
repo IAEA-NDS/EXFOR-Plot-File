@@ -1,0 +1,24 @@
+# EXFOR #         : D0124.003  
+# EXFOR Ver.      : 20040227
+# TRANS #         : 0000
+# Author          : M.Braun et al.
+# Reference       : Z.Phys.A 311 (1983) 173
+# DOI             : 10.1007/BF01415102
+# Quantity        : 16O(p,el)16O angular differential cross section
+# REACTION        : 8-O-16(P,EL)8-O-16,,DA
+# File ID         : p-O16-el-adxl-excfun-mon-angl113_prodO16_Braun_1983_d0124.003
+#
+# theta,lab (deg) :  113.4000000
+#
+# npts            : 1           
+# xmin            :   2.0000E+06
+# xmax            :   2.0000E+06
+# ymin            :   8.3000E+01
+# ymax            :   8.3000E+01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.0000E+06  0.0000E+00  8.3000E+01  3.0000E+00
+#---------------------------------------------------

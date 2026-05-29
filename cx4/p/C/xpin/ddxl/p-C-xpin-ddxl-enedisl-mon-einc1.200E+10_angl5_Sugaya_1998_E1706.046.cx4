@@ -1,0 +1,28 @@
+# EXFOR #         : E1706.046  
+# EXFOR Ver.      : 20061121
+# TRANS #         : E039
+# Author          : Y.Sugaya et al.
+# Reference       : Nucl.Phys.A 634 No.1-2 (1998) 115
+# DOI             : 10.1016/S0375-9474(98)00122-5
+# Quantity        : natC(p,pi-+x) double differential cross section
+# REACTION        : 6-C-0(P,X)1-PN-0,,DA/DP
+# File ID         : p-C-xpin-ddxl-enedisl-mon-einc1.200E+10_angl5_Sugaya_1998_e1706.046
+#
+# Einc (eV)       :   1.2000E+10
+# theta,lab (deg) :    5.1000000
+#
+# npts            : 4           
+# xmin            :   2.2981E+09
+# xmax            :   3.5994E+09
+# ymin            :   2.4300E-13
+# ymax            :   4.0570E-13
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.2981E+09  0.0000E+00  4.0570E-13  2.6960E-15
+  2.6972E+09  0.0000E+00  3.6860E-13  1.3020E-15
+  3.1378E+09  0.0000E+00  3.2740E-13  1.2640E-15
+  3.5994E+09  0.0000E+00  2.4300E-13  1.2340E-15
+#---------------------------------------------------

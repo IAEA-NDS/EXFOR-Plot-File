@@ -1,0 +1,27 @@
+# EXFOR #         : C0334.005  
+# EXFOR Ver.      : 19871228
+# TRANS #         : 0000
+# Author          : N.T.Porile et al.
+# Reference       : Phys.Rev. 133 (1964) B310
+# DOI             : 10.1103/PhysRev.133.B310
+# Quantity        : 96Mo(p,x) independent production cross section
+# REACTION        : 42-MO-96(P,X)ELEM/MASS,,SIG
+# File ID         : p-Mo96-x-sig-nucdis-mon-einc1.800E+09_Porile_1964_c0334.005
+#
+# Einc (eV)       :   1.8000E+09
+#
+# npts            : 4           
+# xmin            : 31066.9     
+# xmax            : 33074.9     
+# ymin            :   2.2000E-04
+# ymax            :   9.5000E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     31066.9  6.0000E-03  2.0000E-04
+     31072.9  2.2000E-04  2.0000E-05
+     33072.9  9.5000E-03  1.0000E-03
+     33074.9  3.3000E-03  2.0000E-04
+#---------------------------------------------------

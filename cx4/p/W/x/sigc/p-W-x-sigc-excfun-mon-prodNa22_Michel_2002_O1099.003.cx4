@@ -1,0 +1,27 @@
+# EXFOR #         : O1099.003  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : natW(p,x)22Na cumulative production cross section
+# REACTION        : 74-W-0(P,X)11-NA-22,CUM,SIG
+# File ID         : p-W-x-sigc-excfun-mon-prodNa22_Michel_2002_o1099.003
+#
+# npts            : 6           
+# xmin            :   9.8800E+08
+# xmax            :   2.5900E+09
+# ymin            :   6.2940E-05
+# ymax            :   7.4200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.8800E+08  1.0100E+06  6.2940E-05  1.7980E-05
+  1.1600E+09  1.3660E+06  1.3060E-04  3.1480E-05
+  1.3800E+09  1.0160E+06  2.0140E-04  2.3040E-05
+  1.5700E+09  1.2900E+06  2.5250E-04  3.8580E-05
+  2.5800E+09  1.0020E+06  7.4200E-04  1.4230E-04
+  2.5900E+09  1.0100E+06  6.1930E-04  9.0780E-05
+#---------------------------------------------------

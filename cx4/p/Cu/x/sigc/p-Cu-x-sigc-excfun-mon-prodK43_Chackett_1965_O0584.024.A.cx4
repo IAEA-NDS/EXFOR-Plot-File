@@ -1,0 +1,23 @@
+# EXFOR #         : O0584.024.A
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : K.F.Chackett
+# Reference       : J.Inorg.Nucl.Chem. 27 (1965) 2493
+# DOI             : 10.1016/0022-1902(65)80148-8
+# Quantity        : natCu(p,x)43K cumulative production cross section
+# REACTION        : 29-CU-0(P,X)19-K-43,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodK43_Chackett_1965_o0584.024.a
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   1.8300E+10
+# ymin            :   4.4000E-04
+# ymax            :   1.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  4.4000E-04  0.0000E+00
+  1.8300E+10  0.0000E+00  1.1000E-03  0.0000E+00
+#---------------------------------------------------

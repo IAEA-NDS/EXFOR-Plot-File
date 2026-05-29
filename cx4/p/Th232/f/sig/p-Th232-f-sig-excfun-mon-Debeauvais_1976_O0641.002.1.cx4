@@ -1,0 +1,25 @@
+# EXFOR #         : O0641.002.1
+# EXFOR Ver.      : 20220109
+# TRANS #         : O087
+# Author          : M.Debeauvais et al.
+# Reference       : Proceedings of 9.Conf.Solid State Nucl.Track Detect.,Neuherberg 1976 2 page 1179
+# DOI             : N/A
+# Quantity        : 232Th(p,f) cross section
+# REACTION        : 90-TH-232(P,F),,SIG
+# File ID         : p-Th232-f-sig-excfun-mon-Debeauvais_1976_o0641.002.1
+#
+# npts            : 4           
+# xmin            :   6.0000E+08
+# xmax            :   2.3000E+10
+# ymin            :   8.5000E-01
+# ymax            :   2.3000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  2.3000E+00  0.0000E+00
+  3.0000E+09  0.0000E+00  8.7000E-01  0.0000E+00
+  1.8000E+10  0.0000E+00  8.5000E-01  0.0000E+00
+  2.3000E+10  0.0000E+00  9.1000E-01  0.0000E+00
+#---------------------------------------------------

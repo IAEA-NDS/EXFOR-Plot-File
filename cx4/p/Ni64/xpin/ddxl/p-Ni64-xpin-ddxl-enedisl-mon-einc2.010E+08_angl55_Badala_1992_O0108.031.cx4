@@ -1,0 +1,29 @@
+# EXFOR #         : O0108.031  
+# EXFOR Ver.      : 20100707
+# TRANS #         : O042
+# Author          : A.Badala et al.
+# Reference       : Phys.Rev.C 46 (1992) 604
+# DOI             : 10.1103/PhysRevC.46.604
+# Quantity        : 64Ni(p,pi-+x) double differential cross section
+# REACTION        : 28-NI-64(P,X)1-PN-0,,DA/DE
+# File ID         : p-Ni64-xpin-ddxl-enedisl-mon-einc2.010E+08_angl55_Badala_1992_o0108.031
+#
+# Einc (eV)       :   2.0100E+08
+# theta,lab (deg) :   55.0000000
+#
+# npts            : 5           
+# xmin            :   2.0000E+07
+# xmax            :   5.0000E+07
+# ymin            :   1.6000E-14
+# ymax            :   1.0500E-13
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.0000E+07  0.0000E+00  1.0500E-13  8.0000E-15
+  2.5000E+07  0.0000E+00  9.0000E-14  6.0000E-15
+  3.0000E+07  0.0000E+00  7.5000E-14  5.0000E-15
+  4.0000E+07  0.0000E+00  4.7000E-14  3.0000E-15
+  5.0000E+07  0.0000E+00  1.6000E-14  1.0000E-15
+#---------------------------------------------------

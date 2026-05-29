@@ -1,0 +1,29 @@
+# EXFOR #         : C2700.002  
+# EXFOR Ver.      : 20211211
+# TRANS #         : C211
+# Author          : J.G.Kulleck et al.
+# Reference       : Thesis  (1970)
+# DOI             : N/A
+# Quantity        : 208Pb(p,inl)208Pb partial angular differential cross section
+# REACTION        : 82-PB-208(P,INL)82-PB-208,PAR,DA
+# File ID         : p-Pb208-inl-adxl-excfun-mon-angl90_elvl3.913E+06_prodPb208_Kulleck_1970_c2700.002
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   3.9130E+06
+#
+# npts            : 5           
+# xmin            :   1.4950E+07
+# xmax            :   1.7500E+07
+# ymin            :   8.6000E-06
+# ymax            :   1.1520E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4950E+07  9.0000E+03  5.0400E-05  0.0000E+00
+  1.5020E+07  9.0000E+03  1.1520E-04  0.0000E+00
+  1.5085E+07  9.0000E+03  7.8500E-05  0.0000E+00
+  1.7000E+07  9.0000E+03  1.3200E-05  0.0000E+00
+  1.7500E+07  9.0000E+03  8.6000E-06  0.0000E+00
+#---------------------------------------------------

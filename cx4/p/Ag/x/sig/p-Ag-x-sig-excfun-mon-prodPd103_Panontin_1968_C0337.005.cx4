@@ -1,0 +1,23 @@
+# EXFOR #         : C0337.005  
+# EXFOR Ver.      : 20241014
+# TRANS #         : C241
+# Author          : J.A.Panontin et al.
+# Reference       : Phys.Rev. 165 (1968) 1273
+# DOI             : 10.1103/PhysRev.165.1273
+# Quantity        : natAg(p,x)103Pd independent production cross section
+# REACTION        : 47-AG-0(P,X)46-PD-103,,SIG
+# File ID         : p-Ag-x-sig-excfun-mon-prodPd103_Panontin_1968_c0337.005
+#
+# npts            : 2           
+# xmin            :   2.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   4.9300E-02
+# ymax            :   6.7500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  6.7500E-02  4.6000E-03
+  4.0000E+08  0.0000E+00  4.9300E-02  1.8000E-03
+#---------------------------------------------------

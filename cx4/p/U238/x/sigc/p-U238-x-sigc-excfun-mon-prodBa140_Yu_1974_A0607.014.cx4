@@ -1,0 +1,23 @@
+# EXFOR #         : A0607.014  
+# EXFOR Ver.      : 20260204
+# TRANS #         : A131
+# Author          : Y.W.Yu et al.
+# Reference       : Phys.Rev.C 10 (1974) 167
+# DOI             : 10.1103/PhysRevC.10.167
+# Quantity        : 238U(p,f)140Ba cumulative production cross section
+# REACTION        : 92-U-238(P,F)56-BA-140,CUM,SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodBa140_Yu_1974_a0607.014
+#
+# npts            : 2           
+# xmin            :   1.1500E+10
+# xmax            :   3.0000E+11
+# ymin            :   8.2700E-03
+# ymax            :   8.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+10  0.0000E+00  8.2700E-03  1.3000E-04
+  3.0000E+11  0.0000E+00  8.5000E-03  7.3000E-04
+#---------------------------------------------------

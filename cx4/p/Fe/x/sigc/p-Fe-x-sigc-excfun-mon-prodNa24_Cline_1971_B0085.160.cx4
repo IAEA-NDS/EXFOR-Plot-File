@@ -1,0 +1,22 @@
+# EXFOR #         : B0085.160  
+# EXFOR Ver.      : 20240425
+# TRANS #         : B036
+# Author          : J.E.Cline et al.
+# Reference       : Nucl.Phys.A 169 (1971) 437
+# DOI             : 10.1016/0375-9474(71)90897-9
+# Quantity        : natFe(p,x)24Na cumulative production cross section
+# REACTION        : 26-FE-0(P,X)11-NA-24,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodNa24_Cline_1971_b0085.160
+#
+# npts            : 1           
+# xmin            :   5.9000E+08
+# xmax            :   5.9000E+08
+# ymin            :   4.7000E-04
+# ymax            :   4.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  4.7000E-04  5.0000E-05
+#---------------------------------------------------

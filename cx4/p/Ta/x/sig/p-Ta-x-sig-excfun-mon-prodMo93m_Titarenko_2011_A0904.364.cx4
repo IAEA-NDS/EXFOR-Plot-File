@@ -1,0 +1,23 @@
+# EXFOR #         : A0904.364  
+# EXFOR Ver.      : 20220323
+# TRANS #         : A099
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 551
+# DOI             : 10.1134/S1063778811040181
+# Quantity        : natTa(p,x)93mMo independent production cross section
+# REACTION        : 73-TA-0(P,X)42-MO-93-M,,SIG
+# File ID         : p-Ta-x-sig-excfun-mon-prodMo93m_Titarenko_2011_a0904.364
+#
+# npts            : 2           
+# xmin            :   1.5980E+09
+# xmax            :   2.6050E+09
+# ymin            :   4.4900E-04
+# ymax            :   1.4200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5980E+09  4.0000E+06  4.4900E-04  9.7000E-05
+  2.6050E+09  8.0000E+06  1.4200E-03  1.7000E-04
+#---------------------------------------------------

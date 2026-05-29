@@ -1,0 +1,24 @@
+# EXFOR #         : D4058.042.2
+# EXFOR Ver.      : 20150504
+# TRANS #         : D099
+# Author          : P.Jung
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 352
+# DOI             : N/A
+# Quantity        : natFe(p,x)57Co independent production cross section
+# REACTION        : 26-FE-0(P,X)27-CO-57,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodCo57_Jung_1991_d4058.042.2
+#
+# npts            : 3           
+# xmin            :   7.5000E+06
+# xmax            :   2.3800E+07
+# ymin            :   2.3100E-03
+# ymax            :   9.3300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.5000E+06  5.0000E+05  9.3300E-03  0.0000E+00
+  1.5700E+07  3.0000E+05  4.8700E-03  0.0000E+00
+  2.3800E+07  2.0000E+05  2.3100E-03  0.0000E+00
+#---------------------------------------------------

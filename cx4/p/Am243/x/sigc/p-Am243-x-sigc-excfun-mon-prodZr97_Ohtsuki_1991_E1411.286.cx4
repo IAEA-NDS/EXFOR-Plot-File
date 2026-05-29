@@ -1,0 +1,25 @@
+# EXFOR #         : E1411.286  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : T.Ohtsuki et al.
+# Reference       : Phys.Rev.C 44 (1991) 1405
+# DOI             : 10.1103/PhysRevC.44.1405
+# Quantity        : 243Am(p,f)97Zr cumulative production cross section
+# REACTION        : 95-AM-243(P,F)40-ZR-97,(CUM),SIG
+# File ID         : p-Am243-x-sigc-excfun-mon-prodZr97_Ohtsuki_1991_e1411.286
+#
+# npts            : 4           
+# xmin            :   1.0400E+07
+# xmax            :   1.5600E+07
+# ymin            :   9.5000E-04
+# ymax            :   1.5820E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0400E+07  0.0000E+00  9.5000E-04  1.2000E-04
+  1.2000E+07  0.0000E+00  5.2100E-03  3.3000E-04
+  1.4000E+07  0.0000E+00  7.0600E-03  4.9000E-04
+  1.5600E+07  0.0000E+00  1.5820E-02  1.5700E-03
+#---------------------------------------------------

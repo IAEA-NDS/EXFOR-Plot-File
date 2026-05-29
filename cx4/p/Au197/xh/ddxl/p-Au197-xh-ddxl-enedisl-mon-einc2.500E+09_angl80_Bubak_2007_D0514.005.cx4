@@ -1,0 +1,27 @@
+# EXFOR #         : D0514.005  
+# EXFOR Ver.      : 20080904
+# TRANS #         : D063
+# Author          : A.Bubak et al.
+# Reference       : Phys.Rev.C 76 (2007) 014618
+# DOI             : 10.1103/PhysRevC.76.014618
+# Quantity        : 197Au(p,h+x) double differential cross section
+# REACTION        : 79-AU-197(P,X)2-HE-3,,DA/DE
+# File ID         : p-Au197-xh-ddxl-enedisl-mon-einc2.500E+09_angl80_Bubak_2007_d0514.005
+#
+# Einc (eV)       :   2.5000E+09
+# theta,lab (deg) :   80.0000000
+#
+# npts            : 3           
+# xmin            :   1.3500E+07
+# xmax            :   1.9500E+07
+# ymin            :   1.7100E-10
+# ymax            :   3.7300E-10
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.3500E+07  0.0000E+00  1.7100E-10  9.1000E-12
+  1.6500E+07  0.0000E+00  3.0900E-10  1.4000E-11
+  1.9500E+07  0.0000E+00  3.7300E-10  1.6000E-11
+#---------------------------------------------------

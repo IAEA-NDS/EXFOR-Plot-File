@@ -1,0 +1,26 @@
+# EXFOR #         : O0463.003  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : I.Kumabe et al.
+# Reference       : Nucl.Phys. 46 (1963) 454
+# DOI             : 10.1016/0029-5582(63)90617-5
+# Quantity        : 65Cu(p,a)62Ni partial angular differential cross section
+# REACTION        : 29-CU-65(P,A)28-NI-62,PAR,DA
+# File ID         : p-Cu65-a-adxc-lvldis-mon-einc8.000E+06_angc102_prodNi62_Kumabe_1963_o0463.003
+#
+# Einc (eV)       :   8.0000E+06
+# theta,cm (deg)  :  101.6000000
+# dtheta,cm (deg) :    0.7000000
+#
+# npts            : 1           
+# xmin            :   2.3360E+06
+# xmax            :   2.3360E+06
+# ymin            :   2.2800E-04
+# ymax            :   2.2800E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.3360E+06  0.0000E+00  2.2800E-04  4.0000E-06
+#---------------------------------------------------

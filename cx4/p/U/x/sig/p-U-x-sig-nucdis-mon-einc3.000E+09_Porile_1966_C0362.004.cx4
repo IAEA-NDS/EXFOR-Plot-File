@@ -1,0 +1,25 @@
+# EXFOR #         : C0362.004  
+# EXFOR Ver.      : 19950719
+# TRANS #         : 0000
+# Author          : N.T.Porile
+# Reference       : Phys.Rev. 148 (1966) 1235
+# DOI             : 10.1103/PhysRev.148.1235
+# Quantity        : natU(p,x) independent production cross section
+# REACTION        : 92-U-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-U-x-sig-nucdis-mon-einc3.000E+09_Porile_1966_c0362.004
+#
+# Einc (eV)       :   3.0000E+09
+#
+# npts            : 2           
+# xmin            : 48109.9     
+# xmax            : 49114.1     
+# ymin            :   3.6000E-03
+# ymax            :   5.7000E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     48109.9  3.6000E-03  3.0000E-04
+     49114.1  5.7000E-03  3.0000E-04
+#---------------------------------------------------

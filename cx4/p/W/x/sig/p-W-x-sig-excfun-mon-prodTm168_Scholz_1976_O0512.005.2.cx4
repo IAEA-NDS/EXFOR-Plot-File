@@ -1,0 +1,23 @@
+# EXFOR #         : O0512.005.2
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : K.L.Scholz et al.
+# Reference       : Appl.Radiat.Isot. 27 (1976) 263
+# DOI             : 10.1016/0020-708X(76)90142-3
+# Quantity        : natW(p,x)168Tm independent production cross section
+# REACTION        : 74-W-0(P,X)69-TM-168,IND,SIG
+# File ID         : p-W-x-sig-excfun-mon-prodTm168_Scholz_1976_o0512.005.2
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   5.9000E+08
+# ymin            :   2.3000E-04
+# ymax            :   5.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  5.4000E-04  2.7000E-04
+  5.9000E+08  0.0000E+00  2.3000E-04  1.4000E-04
+#---------------------------------------------------

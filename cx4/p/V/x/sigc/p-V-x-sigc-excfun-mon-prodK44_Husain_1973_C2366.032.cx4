@@ -1,0 +1,23 @@
+# EXFOR #         : C2366.032  
+# EXFOR Ver.      : 20181212
+# TRANS #         : C183
+# Author          : L.Husain et al.
+# Reference       : Phys.Rev.C 7 (1973) 2452
+# DOI             : 10.1103/PhysRevC.7.2452
+# Quantity        : natV(p,x)44K cumulative production cross section
+# REACTION        : 23-V-0(P,X)19-K-44,CUM,SIG
+# File ID         : p-V-x-sigc-excfun-mon-prodK44_Husain_1973_c2366.032
+#
+# npts            : 2           
+# xmin            :   3.0000E+09
+# xmax            :   2.9000E+10
+# ymin            :   7.7000E-04
+# ymax            :   8.8000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+09  0.0000E+00  7.7000E-04  1.5400E-04
+  2.9000E+10  0.0000E+00  8.8000E-04  1.7600E-04
+#---------------------------------------------------

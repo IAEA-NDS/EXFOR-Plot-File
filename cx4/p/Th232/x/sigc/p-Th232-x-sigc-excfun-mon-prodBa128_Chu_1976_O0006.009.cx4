@@ -1,0 +1,22 @@
+# EXFOR #         : O0006.009  
+# EXFOR Ver.      : 20151116
+# TRANS #         : O056
+# Author          : Y.Y.Chu et al.
+# Reference       : Phys.Rev.C 14 (1976) 1068
+# DOI             : 10.1103/PhysRevC.14.1068
+# Quantity        : 232Th(p,f)128Ba cumulative production cross section
+# REACTION        : 90-TH-232(P,F)56-BA-128,CUM,SIG
+# File ID         : p-Th232-x-sigc-excfun-mon-prodBa128_Chu_1976_o0006.009
+#
+# npts            : 1           
+# xmin            :   2.8000E+10
+# xmax            :   2.8000E+10
+# ymin            :   5.5300E-03
+# ymax            :   5.5300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8000E+10  0.0000E+00  5.5300E-03  6.0000E-04
+#---------------------------------------------------

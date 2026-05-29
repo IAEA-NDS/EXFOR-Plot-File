@@ -1,0 +1,29 @@
+# EXFOR #         : C2157.004.1
+# EXFOR Ver.      : 20150310
+# TRANS #         : C148
+# Author          : A.A.Alharbi et al.
+# Reference       : Radioisotopes-Applications in Bio-Medical Sci. 2011 page 3 (2011)
+# DOI             : N/A
+# Quantity        : natMo(p,x)95gTc independent production cross section
+# REACTION        : 42-MO-0(P,X)43-TC-95-G,,SIG
+# File ID         : p-Mo-x-sig-excfun-mon-prodTc95g_Alharbi_2011_c2157.004.1
+#
+# npts            : 8           
+# xmin            :   1.8000E+07
+# xmax            :   3.9000E+07
+# ymin            :   8.4000E-02
+# ymax            :   1.5800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8000E+07  5.0000E+05  1.2000E-01  1.1000E-02
+  2.0000E+07  5.0000E+05  1.4000E-01  1.1000E-02
+  2.2000E+07  5.0000E+05  1.5800E-01  1.2000E-02
+  2.5000E+07  4.0000E+05  1.2000E-01  1.1000E-02
+  2.7000E+07  4.0000E+05  9.0000E-02  9.0000E-03
+  3.0000E+07  4.0000E+05  8.4000E-02  9.0000E-03
+  3.5000E+07  3.0000E+05  1.0900E-01  1.1000E-02
+  3.9000E+07  3.0000E+05  1.1300E-01  1.1000E-02
+#---------------------------------------------------

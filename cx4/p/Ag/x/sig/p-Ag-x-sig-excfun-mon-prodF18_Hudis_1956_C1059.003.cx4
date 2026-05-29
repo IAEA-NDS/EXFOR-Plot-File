@@ -1,0 +1,24 @@
+# EXFOR #         : C1059.003  
+# EXFOR Ver.      : 20170919
+# TRANS #         : C170
+# Author          : J.Hudis et al.
+# Reference       : Bull.Am.Phys.Soc. 1 (1956) 224(W10)
+# DOI             : N/A
+# Quantity        : natAg(p,x)18F independent production cross section
+# REACTION        : 47-AG-0(P,X)9-F-18,,SIG
+# File ID         : p-Ag-x-sig-excfun-mon-prodF18_Hudis_1956_c1059.003
+#
+# npts            : 3           
+# xmin            :   1.0000E+09
+# xmax            :   3.0000E+09
+# ymin            :   1.8000E-04
+# ymax            :   1.1100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  1.8000E-04  0.0000E+00
+  2.0000E+09  0.0000E+00  4.4000E-04  0.0000E+00
+  3.0000E+09  0.0000E+00  1.1100E-03  0.0000E+00
+#---------------------------------------------------

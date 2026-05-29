@@ -1,0 +1,24 @@
+# EXFOR #         : O1020.004  
+# EXFOR Ver.      : 20230324
+# TRANS #         : O095
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Report INDC(CCP)-434 page 60, 2002
+# DOI             : N/A
+# Quantity        : 184W(p,x)178m1Ta independent production cross section
+# REACTION        : 74-W-184(P,X)73-TA-178-M1,,SIG
+# File ID         : p-W184-x-sig-excfun-mon-prodTa178m_Titarenko_2002_o1020.004
+#
+# npts            : 3           
+# xmin            :   2.0000E+08
+# xmax            :   1.6000E+09
+# ymin            :   9.8400E-03
+# ymax            :   1.2200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  1.2200E-02  9.0000E-04
+  8.0000E+08  0.0000E+00  1.2100E-02  1.8000E-03
+  1.6000E+09  0.0000E+00  9.8400E-03  8.3000E-04
+#---------------------------------------------------

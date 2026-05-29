@@ -1,0 +1,26 @@
+# EXFOR #         : E2218.014  
+# EXFOR Ver.      : 20190117
+# TRANS #         : E119
+# Author          : Y.Oda et al.
+# Reference       : J.Phys.Soc.Jpn. 15 (1960) 760
+# DOI             : 10.1143/JPSJ.15.760
+# Quantity        : 24Mg(p,inl)24Mg partial cross section
+# REACTION        : 12-MG-24(P,INL)12-MG-24,PAR,SIG
+# File ID         : p-Mg24-inl-sig-excfun-mon-elvl1.370E+06_prodMg24_Oda_1960_e2218.014
+#
+# Elvl (eV)       :   1.3700E+06
+#
+# npts            : 3           
+# xmin            :   7.8000E+06
+# xmax            :   1.3880E+07
+# ymin            :   1.5340E-01
+# ymax            :   3.1890E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.8000E+06  7.8000E+04  3.1890E-01  0.0000E+00
+  1.1070E+07  1.1070E+05  1.6320E-01  0.0000E+00
+  1.3880E+07  1.3880E+05  1.5340E-01  0.0000E+00
+#---------------------------------------------------

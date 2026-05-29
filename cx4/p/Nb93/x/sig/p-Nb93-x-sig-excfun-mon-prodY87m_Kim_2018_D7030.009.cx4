@@ -1,0 +1,24 @@
+# EXFOR #         : D7030.009  
+# EXFOR Ver.      : 20220103
+# TRANS #         : D135
+# Author          : K.S.Kim et al.
+# Reference       : J.Rad.Nucl.Chem. 317 (2018) 1021
+# DOI             : 10.1007/s10967-018-5949-3
+# Quantity        : 93Nb(p,x)87mY independent production cross section
+# REACTION        : 41-NB-93(P,X)39-Y-87-M,,SIG
+# File ID         : p-Nb93-x-sig-excfun-mon-prodY87m_Kim_2018_d7030.009
+#
+# npts            : 3           
+# xmin            :   3.9600E+07
+# xmax            :   4.2000E+07
+# ymin            :   2.6000E-04
+# ymax            :   1.1100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.2000E+07  1.8000E+05  1.1100E-03  1.8000E-04
+  4.0800E+07  1.8000E+05  2.6000E-04  4.0000E-05
+  3.9600E+07  2.0000E+05  4.2000E-04  5.0000E-05
+#---------------------------------------------------

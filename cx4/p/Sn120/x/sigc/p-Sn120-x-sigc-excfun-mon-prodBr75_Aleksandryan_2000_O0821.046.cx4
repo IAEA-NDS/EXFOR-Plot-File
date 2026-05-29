@@ -1,0 +1,23 @@
+# EXFOR #         : O0821.046  
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : V.Aleksandryan et al.
+# Reference       : Nucl.Phys.A 674 (2000) 539
+# DOI             : 10.1016/S0375-9474(00)00167-6
+# Quantity        : 120Sn(p,x)75Br cumulative production cross section
+# REACTION        : 50-SN-120(P,X)35-BR-75,CUM,SIG
+# File ID         : p-Sn120-x-sigc-excfun-mon-prodBr75_Aleksandryan_2000_o0821.046
+#
+# npts            : 2           
+# xmin            :   1.0000E+09
+# xmax            :   8.1000E+09
+# ymin            :   5.9000E-04
+# ymax            :   2.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  5.9000E-04  5.0000E-05
+  8.1000E+09  0.0000E+00  2.6000E-03  3.0000E-04
+#---------------------------------------------------

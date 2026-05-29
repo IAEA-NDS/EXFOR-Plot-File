@@ -1,0 +1,23 @@
+# EXFOR #         : A0660.010  
+# EXFOR Ver.      : 20250728
+# TRANS #         : A122
+# Author          : A.Korejwo et al.
+# Reference       : J.Phys.G 28 (2002) 1199
+# DOI             : 10.1088/0954-3899/28/6/304
+# Quantity        : 12C(p,x)9Be independent production cross section
+# REACTION        : 6-C-12(P,X)4-BE-9,,SIG
+# File ID         : p-C12-x-sig-excfun-mon-prodBe9_Korejwo_2002_a0660.010
+#
+# npts            : 2           
+# xmin            :   1.8700E+09
+# xmax            :   2.6900E+09
+# ymin            :   6.5000E-03
+# ymax            :   6.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8700E+09  0.0000E+00  6.6000E-03  1.2000E-03
+  2.6900E+09  0.0000E+00  6.5000E-03  1.4000E-03
+#---------------------------------------------------

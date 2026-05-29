@@ -1,0 +1,22 @@
+# EXFOR #         : O0570.008  
+# EXFOR Ver.      : 20190307
+# TRANS #         : O068
+# Author          : G.R.Choppin et al.
+# Reference       : J.Inorg.Nucl.Chem. 33 (1971) 897
+# DOI             : 10.1016/0022-1902(71)80155-0
+# Quantity        : 238U(p,f)132I independent production cross section
+# REACTION        : 92-U-238(P,F)53-I-132,,SIG
+# File ID         : p-U238-x-sig-excfun-mon-prodI132_Choppin_1971_o0570.008
+#
+# npts            : 1           
+# xmin            :   1.1200E+07
+# xmax            :   1.1200E+07
+# ymin            :   1.1000E-03
+# ymax            :   1.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1200E+07  0.0000E+00  1.1000E-03  6.6000E-05
+#---------------------------------------------------

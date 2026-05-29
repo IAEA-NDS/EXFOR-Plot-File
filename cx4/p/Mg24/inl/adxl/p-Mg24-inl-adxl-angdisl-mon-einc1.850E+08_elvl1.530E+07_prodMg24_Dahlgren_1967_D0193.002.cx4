@@ -1,0 +1,26 @@
+# EXFOR #         : D0193.002  
+# EXFOR Ver.      : 20050507
+# TRANS #         : D044
+# Author          : S.Dahlgren et al.
+# Reference       : Nucl.Phys.A 90 (1967) 673
+# DOI             : 10.1016/0375-9474(67)90073-5
+# Quantity        : 24Mg(p,inl)24Mg partial angular differential cross section
+# REACTION        : 12-MG-24(P,INL)12-MG-24,PAR,DA
+# File ID         : p-Mg24-inl-adxl-angdisl-mon-einc1.850E+08_elvl1.530E+07_prodMg24_Dahlgren_1967_d0193.002
+#
+# Einc (eV)       :   1.8500E+08
+# Elvl (eV)       :   1.5300E+07
+# dElvl (eV)      :   2.0000E+05
+#
+# npts            : 1           
+# xmin            :   25.0000000
+# xmax            :   25.0000000
+# ymin            :   7.0000E-04
+# ymax            :   7.0000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  25.0000000   0.0000000  7.0000E-04  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : A0927.029  
+# EXFOR Ver.      : 20120126
+# TRANS #         : A076
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.Rev.C 84 (2011) 064612
+# DOI             : 10.1103/PhysRevC.84.064612
+# Quantity        : 208Pb(p,x)203Hg cumulative production cross section
+# REACTION        : 82-PB-208(P,X)80-HG-203,CUM,SIG
+# File ID         : p-Pb208-x-sigc-excfun-mon-prodHg203_Titarenko_2011_a0927.029
+#
+# npts            : 1           
+# xmin            :   5.0000E+08
+# xmax            :   5.0000E+08
+# ymin            :   3.7300E-03
+# ymax            :   3.7300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+08  0.0000E+00  3.7300E-03  2.8000E-04
+#---------------------------------------------------

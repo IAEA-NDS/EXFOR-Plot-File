@@ -1,0 +1,22 @@
+# EXFOR #         : A0512.081  
+# EXFOR Ver.      : 19980601
+# TRANS #         : 0000
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : Proceedings of 41.Conf.Nucl.Spectroscopy Nucl.Struct.,Minsk 1991 page 472
+# DOI             : N/A
+# Quantity        : natGe(p,x)55Co cumulative production cross section
+# REACTION        : 32-GE-0(P,X)27-CO-55,CUM,SIG
+# File ID         : p-Ge-x-sigc-excfun-mon-prodCo55_Aleksandrov_1991_a0512.081
+#
+# npts            : 1           
+# xmin            :   6.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   6.8900E-04
+# ymax            :   6.8900E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  6.8900E-04  3.0000E-05
+#---------------------------------------------------

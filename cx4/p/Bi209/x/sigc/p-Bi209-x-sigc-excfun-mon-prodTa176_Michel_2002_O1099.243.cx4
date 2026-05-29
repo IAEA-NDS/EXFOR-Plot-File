@@ -1,0 +1,22 @@
+# EXFOR #         : O1099.243  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)176Ta cumulative production cross section
+# REACTION        : 83-BI-209(P,X)73-TA-176,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodTa176_Michel_2002_o1099.243
+#
+# npts            : 1           
+# xmin            :   9.9800E+08
+# xmax            :   9.9800E+08
+# ymin            :   4.5510E-02
+# ymax            :   4.5510E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9800E+08  6.9000E+05  4.5510E-02  6.0030E-03
+#---------------------------------------------------

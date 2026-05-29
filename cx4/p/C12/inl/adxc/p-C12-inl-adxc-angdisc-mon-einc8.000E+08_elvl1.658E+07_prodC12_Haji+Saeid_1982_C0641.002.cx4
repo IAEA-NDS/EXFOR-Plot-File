@@ -1,0 +1,29 @@
+# EXFOR #         : C0641.002  
+# EXFOR Ver.      : 20000421
+# TRANS #         : 0000
+# Author          : M.Haji-Saeid et al.
+# Reference       : Phys.Rev.C 25 (1982) 3035
+# DOI             : 10.1103/PhysRevC.25.3035
+# Quantity        : 12C(p,inl)12C partial angular differential cross section
+# REACTION        : 6-C-12(P,INL)6-C-12,PAR,DA
+# File ID         : p-C12-inl-adxc-angdisc-mon-einc8.000E+08_elvl1.658E+07_prodC12_Haji+Saeid_1982_c0641.002
+#
+# Einc (eV)       :   8.0000E+08
+# dEinc (eV)      :   2.0000E+06
+# Elvl (eV)       :   1.6580E+07
+#
+# npts            : 4           
+# xmin            :   14.3400000
+# xmax            :   19.4800000
+# ymin            :   5.0000E-06
+# ymax            :   2.2000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  14.3400000   0.0000000  2.2000E-05  3.0000E-06
+  16.0000000   0.0000000  1.4000E-05  1.5000E-06
+  17.7700000   0.0000000  6.2000E-06  7.0000E-07
+  19.4800000   0.0000000  5.0000E-06  6.0000E-07
+#---------------------------------------------------

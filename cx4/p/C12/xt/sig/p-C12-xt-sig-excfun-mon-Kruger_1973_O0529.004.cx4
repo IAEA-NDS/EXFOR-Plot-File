@@ -1,0 +1,23 @@
+# EXFOR #         : O0529.004  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : S.T.Kruger et al.
+# Reference       : Phys.Rev.C 7 (1973) 2179
+# DOI             : 10.1103/PhysRevC.7.2179
+# Quantity        : 12C(p,t+x) cross section
+# REACTION        : 6-C-12(P,X)1-H-3,,SIG
+# File ID         : p-C12-xt-sig-excfun-mon-Kruger_1973_o0529.004
+#
+# npts            : 2           
+# xmin            :   6.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   3.2000E-02
+# ymax            :   3.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  3.2000E-02  4.0000E-03
+  3.0000E+09  0.0000E+00  3.5000E-02  4.0000E-03
+#---------------------------------------------------

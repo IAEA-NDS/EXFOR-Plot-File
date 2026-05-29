@@ -1,0 +1,25 @@
+# EXFOR #         : O0277.031  
+# EXFOR Ver.      : 20190830
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natSi(p,x)7Be independent production cross section
+# REACTION        : 14-SI-0(P,X)4-BE-7,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodBe7_Michel_1995_o0277.031
+#
+# npts            : 4           
+# xmin            :   8.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   7.7600E-03
+# ymax            :   1.1200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  7.7600E-03  6.3000E-04
+  1.2000E+09  0.0000E+00  1.0600E-02  8.0000E-04
+  1.6000E+09  0.0000E+00  1.0700E-02  8.0000E-04
+  2.6000E+09  0.0000E+00  1.1200E-02  8.0000E-04
+#---------------------------------------------------

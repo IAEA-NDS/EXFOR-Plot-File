@@ -1,0 +1,23 @@
+# EXFOR #         : C0401.003  
+# EXFOR Ver.      : 19970425
+# TRANS #         : 0000
+# Author          : M.S.Lafleur et al.
+# Reference       : Can.J.Chem. 44 (1966) 2749
+# DOI             : 10.1139/v66-410
+# Quantity        : 27Al(p,x)7Be independent production cross section
+# REACTION        : 13-AL-27(P,X)4-BE-7,,SIG
+# File ID         : p-Al27-x-sig-excfun-mon-prodBe7_Lafleur_1966_c0401.003
+#
+# npts            : 2           
+# xmin            :   7.0000E+07
+# xmax            :   8.5000E+07
+# ymin            :   7.6000E-04
+# ymax            :   1.0600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0000E+07  2.0000E+06  7.6000E-04  9.8800E-05
+  8.5000E+07  2.0000E+06  1.0600E-03  1.3780E-04
+#---------------------------------------------------

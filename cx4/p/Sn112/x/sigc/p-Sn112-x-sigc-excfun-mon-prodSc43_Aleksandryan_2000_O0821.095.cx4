@@ -1,0 +1,22 @@
+# EXFOR #         : O0821.095  
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : V.Aleksandryan et al.
+# Reference       : Nucl.Phys.A 674 (2000) 539
+# DOI             : 10.1016/S0375-9474(00)00167-6
+# Quantity        : 112Sn(p,x)43Sc cumulative production cross section
+# REACTION        : 50-SN-112(P,X)21-SC-43,CUM,SIG
+# File ID         : p-Sn112-x-sigc-excfun-mon-prodSc43_Aleksandryan_2000_o0821.095
+#
+# npts            : 1           
+# xmin            :   8.1000E+09
+# xmax            :   8.1000E+09
+# ymin            :   2.1000E-03
+# ymax            :   2.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.1000E+09  0.0000E+00  2.1000E-03  3.0000E-04
+#---------------------------------------------------

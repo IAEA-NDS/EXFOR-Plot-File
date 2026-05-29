@@ -1,0 +1,22 @@
+# EXFOR #         : O0342.004  
+# EXFOR Ver.      : 20080409
+# TRANS #         : O036
+# Author          : P.C.Brun et al.
+# Reference       : J.Phys.(Paris) 23 (1962) 167
+# DOI             : 10.1051/jphysrad:01962002303016700
+# Quantity        : natFe(p,t+x) cross section
+# REACTION        : 26-FE-0(P,X)1-H-3,,SIG
+# File ID         : p-Fe-xt-sig-excfun-mon-Brun_1962_o0342.004
+#
+# npts            : 1           
+# xmin            :   1.5000E+08
+# xmax            :   1.5000E+08
+# ymin            :   1.7000E-02
+# ymax            :   1.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  1.7000E-02  2.0000E-03
+#---------------------------------------------------

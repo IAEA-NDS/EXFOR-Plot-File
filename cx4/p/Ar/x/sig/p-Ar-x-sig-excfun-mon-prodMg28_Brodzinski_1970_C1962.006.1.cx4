@@ -1,0 +1,23 @@
+# EXFOR #         : C1962.006.1
+# EXFOR Ver.      : 20121203
+# TRANS #         : C125
+# Author          : R.L.Brodzinski et al.
+# Reference       : Phys.Rev.C 1 No.6 (1970) 1955
+# DOI             : 10.1103/PhysRevC.1.1955
+# Quantity        : natAr(p,x)28Mg independent production cross section
+# REACTION        : 18-AR-0(P,X)12-MG-28,,SIG
+# File ID         : p-Ar-x-sig-excfun-mon-prodMg28_Brodzinski_1970_c1962.006.1
+#
+# npts            : 2           
+# xmin            :   3.1000E+08
+# xmax            :   5.7800E+08
+# ymin            :   5.1000E-04
+# ymax            :   1.0200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.1000E+08  0.0000E+00  5.1000E-04  1.9000E-04
+  5.7800E+08  0.0000E+00  1.0200E-02  5.4000E-03
+#---------------------------------------------------

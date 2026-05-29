@@ -1,0 +1,22 @@
+# EXFOR #         : O2103.003  
+# EXFOR Ver.      : 20121028
+# TRANS #         : O050
+# Author          : J.Delaunay-Olkowsky et al.
+# Reference       : Nucl.Phys. 47 (1963) 266
+# DOI             : 10.1016/0029-5582(63)90872-1
+# Quantity        : 86Sr(p,n)86Y cross section
+# REACTION        : 38-SR-86(P,N)39-Y-86,,SIG
+# File ID         : p-Sr86-n-sig-excfun-mon-prodY86_Delaunay+Olkowsky_1963_o2103.003
+#
+# npts            : 1           
+# xmin            :   1.1200E+07
+# xmax            :   1.1200E+07
+# ymin            :   7.3800E-01
+# ymax            :   7.3800E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1200E+07  0.0000E+00  7.3800E-01  1.7000E-02
+#---------------------------------------------------

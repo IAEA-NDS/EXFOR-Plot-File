@@ -1,0 +1,22 @@
+# EXFOR #         : E2790.002  
+# EXFOR Ver.      : 20241124
+# TRANS #         : E151
+# Author          : Y.Shigekawa et al.
+# Reference       : J.Rad.Nucl.Chem. 333 (2024) 1479
+# DOI             : 10.1007/s10967-023-09069-y
+# Quantity        : 232Th(p,x)229Pa independent production cross section
+# REACTION        : 90-TH-232(P,X)91-PA-229,,SIG
+# File ID         : p-Th232-x-sig-excfun-mon-prodPa229_Shigekawa_2024_e2790.002
+#
+# npts            : 1           
+# xmin            :   2.9550E+07
+# xmax            :   2.9550E+07
+# ymin            :   2.1900E-01
+# ymax            :   2.1900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9550E+07  5.5000E+05  2.1900E-01  2.0000E-02
+#---------------------------------------------------

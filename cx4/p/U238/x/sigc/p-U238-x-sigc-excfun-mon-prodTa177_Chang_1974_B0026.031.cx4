@@ -1,0 +1,23 @@
+# EXFOR #         : B0026.031  
+# EXFOR Ver.      : 20220316
+# TRANS #         : B033
+# Author          : S.K.Chang et al.
+# Reference       : Phys.Rev.C 9 (1974) 1138
+# DOI             : 10.1103/PhysRevC.9.1138
+# Quantity        : 238U(p,x)177Ta cumulative production cross section
+# REACTION        : 92-U-238(P,X)73-TA-177,CUM,SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodTa177_Chang_1974_b0026.031
+#
+# npts            : 2           
+# xmin            :   1.1500E+10
+# xmax            :   3.0000E+11
+# ymin            :   2.8500E-03
+# ymax            :   3.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+10  0.0000E+00  2.8500E-03  0.0000E+00
+  3.0000E+11  0.0000E+00  3.0000E-03  0.0000E+00
+#---------------------------------------------------

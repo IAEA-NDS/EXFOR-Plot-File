@@ -1,0 +1,24 @@
+# EXFOR #         : T0012.002  
+# EXFOR Ver.      : 20181008
+# TRANS #         : C179
+# Author          : G.B.Chadwick et al.
+# Reference       : Can.J.Phys. 34 (1956) 381
+# DOI             : 10.1139/p56-044
+# Quantity        : 10B(p,a)7Be partial cross section
+# REACTION        : 5-B-10(P,A)4-BE-7,PAR,SIG
+# File ID         : p-B10-a-sig-lvldis-mon-einc1.530E+06_prodBe7_Chadwick_1956_t0012.002
+#
+# Einc (eV)       :   1.5300E+06
+#
+# npts            : 1           
+# xmin            :   4.3000E+05
+# xmax            :   4.3000E+05
+# ymin            :   2.1000E-01
+# ymax            :   2.1000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3000E+05  0.0000E+00  2.1000E-01  5.0000E-02
+#---------------------------------------------------

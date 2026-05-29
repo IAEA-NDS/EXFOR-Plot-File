@@ -1,0 +1,31 @@
+# EXFOR #         : F1147.003  
+# EXFOR Ver.      : 20210525
+# TRANS #         : F084
+# Author          : A.E.Antropov et al.
+# Reference       : Yad.Fiz. 22 (1975) 21
+# DOI             : N/A
+# Quantity        : 55Mn(p,inl)55Mn partial angular differential cross section
+# REACTION        : 25-MN-55(P,INL)25-MN-55,PAR,DA
+# File ID         : p-Mn55-inl-adxc-angdisc-mon-einc5.900E+06_elvl9.840E+05_prodMn55_Antropov_1975_f1147.003
+#
+# Einc (eV)       :   5.9000E+06
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   9.8400E+05
+#
+# npts            : 6           
+# xmin            :   47.6000000
+# xmax            :  131.3000000
+# ymin            :   7.9800E-04
+# ymax            :   1.4060E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  47.6000000   0.0000000  1.3560E-03  2.0340E-04
+  61.6000000   0.0000000  1.4060E-03  2.1090E-04
+  76.2000000   0.0000000  1.0160E-03  1.5240E-04
+  91.2000000   0.0000000  7.9800E-04  1.1970E-04
+ 103.3000000   0.0000000  8.8400E-04  1.3260E-04
+ 131.3000000   0.0000000  8.2400E-04  1.2360E-04
+#---------------------------------------------------

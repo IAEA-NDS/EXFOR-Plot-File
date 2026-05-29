@@ -1,0 +1,29 @@
+# EXFOR #         : C0147.003  
+# EXFOR Ver.      : 19970422
+# TRANS #         : 0000
+# Author          : S.Dixit et al.
+# Reference       : Phys.Rev.C 43 (1991) 1758
+# DOI             : 10.1103/PhysRevC.43.1758
+# Quantity        : 9Be(p,inl)9Be partial angular differential cross section
+# REACTION        : 4-BE-9(P,INL)4-BE-9,PAR,DA
+# File ID         : p-Be9-inl-adxc-angdisc-mon-einc1.799E+08_elvl1.749E+07_prodBe9_Dixit_1991_c0147.003
+#
+# Einc (eV)       :   1.7990E+08
+# Elvl (eV)       :   1.7490E+07
+#
+# npts            : 5           
+# xmin            :   11.3700000
+# xmax            :   48.3500000
+# ymin            :   9.3140E-06
+# ymax            :   1.1120E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  11.3700000   0.1000000  1.1120E-04  4.0922E-06
+  15.9000000   0.1000000  9.6640E-05  3.9526E-06
+  24.9400000   0.1000000  4.1330E-05  2.0665E-06
+  38.9500000   0.1000000  2.9880E-05  1.2460E-06
+  48.3500000   0.1000000  9.3140E-06  3.4741E-07
+#---------------------------------------------------

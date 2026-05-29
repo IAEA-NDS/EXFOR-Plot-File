@@ -1,0 +1,22 @@
+# EXFOR #         : O0418.072  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : C.J.Orth et al.
+# Reference       : Phys.Rev.C 18 (1978) 1426
+# DOI             : 10.1103/PhysRevC.18.1426
+# Quantity        : natCu(p,x)41Ar cumulative production cross section
+# REACTION        : 29-CU-0(P,X)18-AR-41,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodAr41_Orth_1978_o0418.072
+#
+# npts            : 1           
+# xmin            :   3.5000E+08
+# xmax            :   3.5000E+08
+# ymin            :   7.0000E-05
+# ymax            :   7.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+08  0.0000E+00  7.0000E-05  2.0000E-05
+#---------------------------------------------------

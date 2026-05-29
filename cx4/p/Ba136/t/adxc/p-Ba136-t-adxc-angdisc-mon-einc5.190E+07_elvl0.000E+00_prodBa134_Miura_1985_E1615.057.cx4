@@ -1,0 +1,25 @@
+# EXFOR #         : E1615.057  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : K.Miura et al.
+# Reference       : Nucl.Phys.A 436 No.2 (1985) 221
+# DOI             : 10.1016/0375-9474(85)90197-6
+# Quantity        : 136Ba(p,t)134Ba partial angular differential cross section
+# REACTION        : 56-BA-136(P,T)56-BA-134,PAR,DA
+# File ID         : p-Ba136-t-adxc-angdisc-mon-einc5.190E+07_elvl0.000E+00_prodBa134_Miura_1985_e1615.057
+#
+# Einc (eV)       :   5.1900E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   16.2000000
+# xmax            :   16.2000000
+# ymin            :   1.9100E-04
+# ymax            :   1.9100E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.2000000   0.0000000  1.9100E-04  3.6000E-05
+#---------------------------------------------------

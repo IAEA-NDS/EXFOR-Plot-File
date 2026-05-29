@@ -1,0 +1,25 @@
+# EXFOR #         : O0545.003  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : M.M.Stautberg et al.
+# Reference       : Phys.Rev. 151 (1966) 969
+# DOI             : 10.1103/PhysRev.151.969
+# Quantity        : 92Zr(p,inl)92Zr partial angular differential cross section
+# REACTION        : 40-ZR-92(P,INL)40-ZR-92,PAR,DA
+# File ID         : p-Zr92-inl-adxc-lvldis-mon-einc1.940E+07_angc145_prodZr92_Stautberg_1966_o0545.003
+#
+# Einc (eV)       :   1.9400E+07
+# theta,cm (deg)  :  145.0000000
+#
+# npts            : 1           
+# xmin            :   2.3300E+06
+# xmax            :   2.3300E+06
+# ymin            :   2.7100E-04
+# ymax            :   2.7100E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.3300E+06  0.0000E+00  2.7100E-04  1.6260E-05
+#---------------------------------------------------

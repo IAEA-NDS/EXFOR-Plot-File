@@ -1,0 +1,31 @@
+# EXFOR #         : C1824.052  
+# EXFOR Ver.      : 20110118
+# TRANS #         : C105
+# Author          : L.E.Bailey
+# Reference       : Report UCRL-3334, 1956
+# DOI             : N/A
+# Quantity        : natAg(p,a+x) double differential cross section
+# REACTION        : 47-AG-0(P,X)2-HE-4,,DA/DE
+# File ID         : p-Ag-xa-ddxl-enedisl-mon-einc1.900E+08_angl110_Bailey_1956_c1824.052
+#
+# Einc (eV)       :   1.9000E+08
+# theta,lab (deg) :  109.5000000
+# dtheta,lab (deg):    7.5000000
+#
+# npts            : 6           
+# xmin            :   2.1400E+07
+# xmax            :   4.3000E+07
+# ymin            :   2.0000E-14
+# ymax            :   3.3200E-13
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.1400E+07  0.0000E+00  3.1000E-13  0.0000E+00
+  2.5000E+07  0.0000E+00  3.3200E-13  0.0000E+00
+  2.8600E+07  0.0000E+00  5.9000E-14  0.0000E+00
+  3.2400E+07  0.0000E+00  6.0000E-14  0.0000E+00
+  3.7000E+07  0.0000E+00  4.3000E-14  0.0000E+00
+  4.3000E+07  0.0000E+00  2.0000E-14  0.0000E+00
+#---------------------------------------------------

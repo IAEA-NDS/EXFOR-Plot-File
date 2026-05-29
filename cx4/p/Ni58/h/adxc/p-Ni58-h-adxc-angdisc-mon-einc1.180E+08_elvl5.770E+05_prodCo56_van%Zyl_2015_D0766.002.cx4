@@ -1,0 +1,30 @@
+# EXFOR #         : D0766.002  
+# EXFOR Ver.      : 20150302
+# TRANS #         : D098
+# Author          : J.J.van Zyl et al.
+# Reference       : Phys.Rev.C 91 (2015) 024614
+# DOI             : 10.1103/PhysRevC.91.024614
+# Quantity        : 58Ni(p,he3)56Co partial angular differential cross section
+# REACTION        : 28-NI-58(P,HE3)27-CO-56,PAR,DA
+# File ID         : p-Ni58-h-adxc-angdisc-mon-einc1.180E+08_elvl5.770E+05_prodCo56_van%Zyl_2015_d0766.002
+#
+# Einc (eV)       :   1.1800E+08
+# dEinc (eV)      :   5.0000E+05
+# Elvl (eV)       :   5.7700E+05
+#
+# npts            : 5           
+# xmin            :   25.7900000
+# xmax            :   46.3100000
+# ymin            :   9.1400E-08
+# ymax            :   1.0700E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  25.7900000   0.0000000  1.0700E-06  1.2300E-07
+  30.9300000   0.0000000  7.1600E-07  8.3600E-08
+  36.0600000   0.0000000  3.0600E-07  3.1200E-08
+  41.1900000   0.0000000  2.6100E-07  7.3200E-08
+  46.3100000   0.0000000  9.1400E-08  1.1700E-08
+#---------------------------------------------------

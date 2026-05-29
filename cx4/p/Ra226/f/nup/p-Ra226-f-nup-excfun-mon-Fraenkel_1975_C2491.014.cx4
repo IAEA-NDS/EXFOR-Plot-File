@@ -1,0 +1,22 @@
+# EXFOR #         : C2491.014  
+# EXFOR Ver.      : 20200303
+# TRANS #         : C192
+# Author          : Z.Fraenkel et al.
+# Reference       : Phys.Rev.C 12 (1975) 1809
+# DOI             : 10.1103/PhysRevC.12.1809
+# Quantity        : 226Ra(p,f) prompt fission neutron multiplicity
+# REACTION        : 88-RA-226(P,F),PR,NU
+# File ID         : p-Ra226-f-nup-excfun-mon-Fraenkel_1975_c2491.014
+#
+# npts            : 1           
+# xmin            :   1.6000E+07
+# xmax            :   1.6000E+07
+# ymin            :   4.1000E+00
+# ymax            :   4.1000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.6000E+07  0.0000E+00  4.1000E+00  3.0000E-01
+#---------------------------------------------------

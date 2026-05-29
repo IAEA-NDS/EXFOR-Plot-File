@@ -1,0 +1,24 @@
+# EXFOR #         : E1952.011  
+# EXFOR Ver.      : 20060906
+# TRANS #         : E038
+# Author          : T.Asano et al.
+# Reference       : Phys.Rev.C 28 No.4 (1983) 1840
+# DOI             : 10.1103/PhysRevC.28.1840
+# Quantity        : 65Cu(p,x) independent production cross section
+# REACTION        : 29-CU-65(P,X)ELEM/MASS,,SIG
+# File ID         : p-Cu65-x-sig-nucdis-mon-einc1.200E+10_Asano_1983_e1952.011
+#
+# Einc (eV)       :   1.2000E+10
+#
+# npts            : 1           
+# xmin            : 30065.9     
+# xmax            : 30065.9     
+# ymin            :   2.6900E-03
+# ymax            :   2.6900E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     30065.9  2.6900E-03  2.0000E-04
+#---------------------------------------------------

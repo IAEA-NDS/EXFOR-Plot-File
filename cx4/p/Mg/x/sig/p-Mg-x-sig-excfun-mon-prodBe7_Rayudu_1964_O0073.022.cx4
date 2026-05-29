@@ -1,0 +1,25 @@
+# EXFOR #         : O0073.022  
+# EXFOR Ver.      : 20220103
+# TRANS #         : O086
+# Author          : G.V.S.Rayudu
+# Reference       : Can.J.Chem. 42 (1964) 1149
+# DOI             : 10.1139/v64-178
+# Quantity        : natMg(p,x)7Be independent production cross section
+# REACTION        : 12-MG-0(P,X)4-BE-7,,SIG
+# File ID         : p-Mg-x-sig-excfun-mon-prodBe7_Rayudu_1964_o0073.022
+#
+# npts            : 4           
+# xmin            :   1.3000E+08
+# xmax            :   3.9600E+08
+# ymin            :   2.3100E-03
+# ymax            :   3.2500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  1.3000E+07  2.6600E-03  6.6000E-04
+  2.0800E+08  2.0800E+07  2.3100E-03  5.8000E-04
+  2.9700E+08  1.4850E+07  2.4800E-03  6.2000E-04
+  3.9600E+08  1.9800E+07  3.2500E-03  8.8000E-04
+#---------------------------------------------------

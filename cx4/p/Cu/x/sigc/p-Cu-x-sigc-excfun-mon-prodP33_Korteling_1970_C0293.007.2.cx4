@@ -1,0 +1,23 @@
+# EXFOR #         : C0293.007.2
+# EXFOR Ver.      : 19871120
+# TRANS #         : 0000
+# Author          : R.Korteling et al.
+# Reference       : Phys.Rev.C 2 (1970) 957
+# DOI             : 10.1103/PhysRevC.2.957
+# Quantity        : natCu(p,x)33P cumulative production cross section
+# REACTION        : 29-CU-0(P,X)15-P-33,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodP33_Korteling_1970_c0293.007.2
+#
+# npts            : 2           
+# xmin            :   2.0000E+08
+# xmax            :   5.5000E+08
+# ymin            :   5.8600E-06
+# ymax            :   5.7800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  5.8600E-06  1.4000E-07
+  5.5000E+08  0.0000E+00  5.7800E-04  6.0000E-06
+#---------------------------------------------------

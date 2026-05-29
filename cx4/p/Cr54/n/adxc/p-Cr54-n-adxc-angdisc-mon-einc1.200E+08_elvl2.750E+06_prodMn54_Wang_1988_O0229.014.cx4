@@ -1,0 +1,28 @@
+# EXFOR #         : O0229.014  
+# EXFOR Ver.      : 19961229
+# TRANS #         : 0000
+# Author          : D.Wang et al.
+# Reference       : Nucl.Phys.A 480 (1988) 285
+# DOI             : 10.1016/0375-9474(88)90398-3
+# Quantity        : 54Cr(p,n)54Mn partial angular differential cross section
+# REACTION        : 24-CR-54(P,N)25-MN-54,PAR,DA,,,EXP
+# File ID         : p-Cr54-n-adxc-angdisc-mon-einc1.200E+08_elvl2.750E+06_prodMn54_Wang_1988_o0229.014
+#
+# Einc (eV)       :   1.2000E+08
+# Elvl (eV)       :   2.7500E+06
+# dElvl (eV)      :   1.5000E+05
+#
+# npts            : 3           
+# xmin            :    0.0000000
+# xmax            :    7.4500000
+# ymin            :   4.1000E-05
+# ymax            :   3.6500E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0700000  3.6500E-04  1.8250E-05
+   4.6200000   0.0700000  2.1000E-04  1.0500E-05
+   7.4500000   0.0700000  4.1000E-05  2.4600E-06
+#---------------------------------------------------

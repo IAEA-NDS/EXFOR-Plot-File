@@ -1,0 +1,22 @@
+# EXFOR #         : C1915.004  
+# EXFOR Ver.      : 20120420
+# TRANS #         : C183
+# Author          : C.K.Garrett et al.
+# Reference       : Phys.Rev.C 8 (1973) 594
+# DOI             : 10.1103/PhysRevC.8.594
+# Quantity        : natCu(p,x)59Fe cumulative production cross section
+# REACTION        : 29-CU-0(P,X)26-FE-59,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodFe59_Garrett_1973_c1915.004
+#
+# npts            : 1           
+# xmin            :   2.0500E+08
+# xmax            :   2.0500E+08
+# ymin            :   3.0000E-04
+# ymax            :   3.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0500E+08  0.0000E+00  3.0000E-04  2.0000E-05
+#---------------------------------------------------

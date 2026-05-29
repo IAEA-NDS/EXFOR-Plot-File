@@ -1,0 +1,25 @@
+# EXFOR #         : O2266.014  
+# EXFOR Ver.      : 20151017
+# TRANS #         : O055
+# Author          : S.A.M.Issa et al.
+# Reference       : J.Rad.Nucl.Chem. 305 (2015) 345
+# DOI             : 10.1007/s10967-015-3985-9
+# Quantity        : natU(p,f)127Xe cumulative production cross section
+# REACTION        : 92-U-0(P,F)54-XE-127,CUM,SIG
+# File ID         : p-U-x-sigc-excfun-mon-prodXe127_Issa_2015_o2266.014
+#
+# npts            : 4           
+# xmin            :   2.1100E+08
+# xmax            :   2.5300E+09
+# ymin            :   2.4000E-03
+# ymax            :   1.0300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1100E+08  2.0000E+06  2.4000E-03  1.0000E-04
+  1.0000E+09  2.0000E+06  1.0300E-02  5.0000E-04
+  1.4000E+09  2.0000E+06  8.3000E-03  2.0000E-04
+  2.5300E+09  2.0000E+06  6.9000E-03  5.0000E-04
+#---------------------------------------------------

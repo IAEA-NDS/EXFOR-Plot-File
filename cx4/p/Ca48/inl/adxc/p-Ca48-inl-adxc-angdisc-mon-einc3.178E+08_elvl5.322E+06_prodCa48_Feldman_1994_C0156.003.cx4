@@ -1,0 +1,31 @@
+# EXFOR #         : C0156.003  
+# EXFOR Ver.      : 19970423
+# TRANS #         : 0000
+# Author          : A.E.Feldman et al.
+# Reference       : Phys.Rev.C 49 (1994) 2068
+# DOI             : 10.1103/PhysRevC.49.2068
+# Quantity        : 48Ca(p,inl)48Ca partial angular differential cross section
+# REACTION        : 20-CA-48(P,INL)20-CA-48,PAR,DA
+# File ID         : p-Ca48-inl-adxc-angdisc-mon-einc3.178E+08_elvl5.322E+06_prodCa48_Feldman_1994_c0156.003
+#
+# Einc (eV)       :   3.1780E+08
+# dEinc (eV)      :   3.0000E+05
+# Elvl (eV)       :   5.3220E+06
+#
+# npts            : 6           
+# xmin            :    9.2500000
+# xmax            :   35.9400000
+# ymin            :   2.1080E-06
+# ymax            :   2.2550E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.2500000   0.0000000  2.2550E-05  1.6714E-05
+  17.4700000   0.0000000  6.9880E-06  6.0125E-06
+  27.7200000   0.0000000  4.6290E-06  2.3335E-06
+  29.7700000   0.0000000  3.0940E-06  1.1473E-06
+  31.8100000   0.0000000  2.1080E-06  9.7179E-07
+  35.9400000   0.0000000  1.0860E-05  2.3056E-06
+#---------------------------------------------------

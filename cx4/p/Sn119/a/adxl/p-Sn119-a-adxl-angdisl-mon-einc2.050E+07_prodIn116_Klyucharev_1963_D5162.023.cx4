@@ -1,0 +1,24 @@
+# EXFOR #         : D5162.023  
+# EXFOR Ver.      : 20190204
+# TRANS #         : D119
+# Author          : A.P.Klyucharev et al.
+# Reference       : J.Exp.Theor.Phys. 17 (1963) 1175
+# DOI             : N/A
+# Quantity        : 119Sn(p,a)116In angular differential cross section
+# REACTION        : 50-SN-119(P,A)49-IN-116,,DA
+# File ID         : p-Sn119-a-adxl-angdisl-mon-einc2.050E+07_prodIn116_Klyucharev_1963_d5162.023
+#
+# Einc (eV)       :   2.0500E+07
+#
+# npts            : 1           
+# xmin            :  120.0000000
+# xmax            :  120.0000000
+# ymin            :   1.8800E-04
+# ymax            :   1.8800E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 120.0000000   0.0000000  1.8800E-04  9.2000E-05
+#---------------------------------------------------

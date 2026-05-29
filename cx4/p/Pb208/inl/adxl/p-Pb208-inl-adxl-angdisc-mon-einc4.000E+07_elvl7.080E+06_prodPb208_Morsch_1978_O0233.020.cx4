@@ -1,0 +1,28 @@
+# EXFOR #         : O0233.020  
+# EXFOR Ver.      : 19961111
+# TRANS #         : 0000
+# Author          : H.P.Morsch et al.
+# Reference       : Nucl.Phys.A 297 (1978) 317
+# DOI             : 10.1016/0375-9474(78)90279-8
+# Quantity        : 208Pb(p,inl)208Pb partial angular differential cross section
+# REACTION        : 82-PB-208(P,INL)82-PB-208,PAR,DA,,,EXP
+# File ID         : p-Pb208-inl-adxl-angdisc-mon-einc4.000E+07_elvl7.080E+06_prodPb208_Morsch_1978_o0233.020
+#
+# Einc (eV)       :   4.0000E+07
+# Elvl (eV)       :   7.0800E+06
+#
+# npts            : 4           
+# xmin            :   10.0600000
+# xmax            :   23.2100000
+# ymin            :   9.9000E-06
+# ymax            :   8.8000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.0600000   0.0900000  8.8000E-05  7.9200E-06
+  12.4100000   0.0900000  6.2000E-05  9.9200E-06
+  20.0600000   0.0900000  1.1700E-05  2.1060E-06
+  23.2100000   0.0900000  9.9000E-06  1.6830E-06
+#---------------------------------------------------

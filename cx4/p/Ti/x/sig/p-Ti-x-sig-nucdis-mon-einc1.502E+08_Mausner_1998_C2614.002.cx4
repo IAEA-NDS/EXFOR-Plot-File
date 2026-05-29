@@ -1,0 +1,28 @@
+# EXFOR #         : C2614.002  
+# EXFOR Ver.      : 20211107
+# TRANS #         : C208
+# Author          : L.F.Mausner et al.
+# Reference       : Appl.Radiat.Isot. 49 (1998) 285
+# DOI             : 10.1016/S0969-8043(97)00040-7
+# Quantity        : natTi(p,x) independent production cross section
+# REACTION        : 22-TI-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Ti-x-sig-nucdis-mon-einc1.502E+08_Mausner_1998_c2614.002
+#
+# Einc (eV)       :   1.5020E+08
+# dEinc (eV)      :   9.0000E+05
+#
+# npts            : 4           
+# xmin            : 21044.1     
+# xmax            : 21048.9     
+# ymin            :   2.5000E-03
+# ymax            :   3.6300E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     21044.1  1.2400E-02  1.6000E-03
+     21046.9  3.6300E-02  4.7000E-03
+     21047.9  2.4000E-02  3.2000E-03
+     21048.9  2.5000E-03  3.0000E-04
+#---------------------------------------------------

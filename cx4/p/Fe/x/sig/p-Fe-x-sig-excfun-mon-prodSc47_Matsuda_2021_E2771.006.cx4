@@ -1,0 +1,25 @@
+# EXFOR #         : E2771.006  
+# EXFOR Ver.      : 20240314
+# TRANS #         : E141
+# Author          : H.Matsuda et al.
+# Reference       : JPS Conf.Proc. 33 (2021) 011047
+# DOI             : N/A
+# Quantity        : natFe(p,x)47Sc independent production cross section
+# REACTION        : 26-FE-0(P,X)21-SC-47,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodSc47_Matsuda_2021_e2771.006
+#
+# npts            : 4           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   2.7624E-03
+# ymax            :   3.5147E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  2.7624E-03  8.8895E-05
+  1.3000E+09  0.0000E+00  3.5147E-03  1.1309E-04
+  2.2000E+09  0.0000E+00  3.1932E-03  1.0274E-04
+  3.0000E+09  0.0000E+00  2.8466E-03  9.1588E-05
+#---------------------------------------------------

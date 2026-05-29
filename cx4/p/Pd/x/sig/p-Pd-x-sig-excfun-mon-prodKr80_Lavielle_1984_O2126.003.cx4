@@ -1,0 +1,24 @@
+# EXFOR #         : O2126.003  
+# EXFOR Ver.      : 20130613
+# TRANS #         : O051
+# Author          : B.Lavielle et al.
+# Reference       : J.Phys.(Paris) 45 (1984) 981
+# DOI             : 10.1051/jphys:01984004506098100
+# Quantity        : natPd(p,x)80Kr independent production cross section
+# REACTION        : 46-PD-0(P,X)36-KR-80,,SIG
+# File ID         : p-Pd-x-sig-excfun-mon-prodKr80_Lavielle_1984_o2126.003
+#
+# npts            : 3           
+# xmin            :   1.5000E+08
+# xmax            :   2.4000E+10
+# ymin            :   2.6000E-06
+# ymax            :   2.4700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  2.6000E-06  5.0000E-06
+  1.0500E+09  0.0000E+00  2.4700E-02  2.5000E-03
+  2.4000E+10  0.0000E+00  1.3300E-02  1.5000E-03
+#---------------------------------------------------

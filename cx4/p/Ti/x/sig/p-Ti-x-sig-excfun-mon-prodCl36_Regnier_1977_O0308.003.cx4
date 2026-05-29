@@ -1,0 +1,23 @@
+# EXFOR #         : O0308.003  
+# EXFOR Ver.      : 20220105
+# TRANS #         : O086
+# Author          : S.Regnier et al.
+# Reference       : Phys.Lett.B 68 (1977) 202
+# DOI             : 10.1016/0370-2693(77)90201-5
+# Quantity        : natTi(p,x)36Cl independent production cross section
+# REACTION        : 22-TI-0(P,X)17-CL-36,,SIG
+# File ID         : p-Ti-x-sig-excfun-mon-prodCl36_Regnier_1977_o0308.003
+#
+# npts            : 2           
+# xmin            :   1.5000E+08
+# xmax            :   2.4000E+10
+# ymin            :   5.1000E-03
+# ymax            :   1.9100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  5.1000E-03  1.3000E-03
+  2.4000E+10  0.0000E+00  1.9100E-02  3.4000E-03
+#---------------------------------------------------

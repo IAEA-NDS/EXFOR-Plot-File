@@ -1,0 +1,25 @@
+# EXFOR #         : C0507.015  
+# EXFOR Ver.      : 19981224
+# TRANS #         : 0000
+# Author          : J.M.Sisterson et al.
+# Reference       : Nucl.Instrum.Meth.B 123 (1997) 324
+# DOI             : 10.1016/S0168-583X(96)00409-0
+# Quantity        : 16O(p,x)7Be independent production cross section
+# REACTION        : 8-O-16(P,X)4-BE-7,,SIG
+# File ID         : p-O16-x-sig-excfun-mon-prodBe7_Sisterson_1997_c0507.015
+#
+# npts            : 4           
+# xmin            :   2.0000E+08
+# xmax            :   5.0000E+08
+# ymin            :   1.0200E-02
+# ymax            :   1.1100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  1.0300E-02  7.7000E-04
+  3.0000E+08  0.0000E+00  1.1100E-02  8.5000E-04
+  4.0000E+08  0.0000E+00  1.0300E-02  7.7000E-04
+  5.0000E+08  0.0000E+00  1.0200E-02  7.7000E-04
+#---------------------------------------------------

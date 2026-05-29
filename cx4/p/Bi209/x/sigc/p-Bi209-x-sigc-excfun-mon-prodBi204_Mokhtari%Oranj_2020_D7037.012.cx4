@@ -1,0 +1,23 @@
+# EXFOR #         : D7037.012  
+# EXFOR Ver.      : 20220805
+# TRANS #         : D137
+# Author          : L.Mokhtari Oranj et al.
+# Reference       : Phys.Rev.C 101 (2020) 014602
+# DOI             : 10.1103/PhysRevC.101.014602
+# Quantity        : 209Bi(p,x)204Bi cumulative production cross section
+# REACTION        : 83-BI-209(P,X)83-BI-204,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodBi204_Mokhtari%Oranj_2020_d7037.012
+#
+# npts            : 2           
+# xmin            :   5.0800E+07
+# xmax            :   6.7400E+07
+# ymin            :   3.5000E-02
+# ymax            :   2.4660E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0800E+07  1.5000E+06  3.5000E-02  5.0000E-03
+  6.7400E+07  3.0000E+05  2.4660E-01  3.4700E-02
+#---------------------------------------------------

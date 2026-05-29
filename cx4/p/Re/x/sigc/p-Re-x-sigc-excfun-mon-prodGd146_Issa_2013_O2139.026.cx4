@@ -1,0 +1,26 @@
+# EXFOR #         : O2139.026  
+# EXFOR Ver.      : 20131008
+# TRANS #         : O051
+# Author          : S.A.M.Issa et al.
+# Reference       : Nucl.Instrum.Meth.B 298 (2013) 19
+# DOI             : 10.1016/j.nimb.2013.01.001
+# Quantity        : natRe(p,x)146Gd cumulative production cross section
+# REACTION        : 75-RE-0(P,X)64-GD-146,CUM,SIG
+# File ID         : p-Re-x-sigc-excfun-mon-prodGd146_Issa_2013_o2139.026
+#
+# npts            : 5           
+# xmin            :   5.5800E+08
+# xmax            :   2.5900E+09
+# ymin            :   3.1000E-03
+# ymax            :   2.3300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5800E+08  1.6000E+06  3.1000E-03  5.0000E-04
+  7.6300E+08  1.5000E+06  1.1600E-02  1.1000E-03
+  1.1650E+09  1.5000E+06  2.2600E-02  2.0000E-03
+  1.5700E+09  1.5000E+06  2.3300E-02  1.7000E-03
+  2.5900E+09  1.0000E+06  1.6900E-02  1.3000E-03
+#---------------------------------------------------

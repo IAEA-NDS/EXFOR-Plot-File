@@ -1,0 +1,22 @@
+# EXFOR #         : A0513.005  
+# EXFOR Ver.      : 20220814
+# TRANS #         : A102
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : Proceedings of 41.Conf.Nucl.Spectroscopy Nucl.Struct.,Minsk 1991 page 488
+# DOI             : N/A
+# Quantity        : natZr(p,x)52gMn cumulative production cross section
+# REACTION        : 40-ZR-0(P,X)25-MN-52-G,CUM,SIG
+# File ID         : p-Zr-x-sigc-excfun-mon-prodMn52g_Aleksandrov_1991_a0513.005
+#
+# npts            : 1           
+# xmin            :   6.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   2.0000E-04
+# ymax            :   2.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  2.0000E-04  2.0000E-05
+#---------------------------------------------------

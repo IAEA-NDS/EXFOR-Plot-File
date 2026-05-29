@@ -1,0 +1,24 @@
+# EXFOR #         : O2616.003  
+# EXFOR Ver.      : 20240827
+# TRANS #         : O100
+# Author          : C.Duchemin et al.
+# Reference       : Phys.Med.Biol. 60 (2015) 931
+# DOI             : 10.1088/0031-9155/60/3/931
+# Quantity        : 232Th(p,x)227Th independent production cross section
+# REACTION        : 90-TH-232(P,X)90-TH-227,,SIG
+# File ID         : p-Th232-x-sig-excfun-mon-prodTh227_Duchemin_2015_o2616.003
+#
+# npts            : 3           
+# xmin            :   4.5920E+07
+# xmax            :   7.0120E+07
+# ymin            :   8.3100E-03
+# ymax            :   4.7630E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5920E+07  5.6000E+05  8.3100E-03  1.3900E-03
+  5.7680E+07  1.0300E+06  3.5220E-02  4.9900E-03
+  7.0120E+07  5.3000E+05  4.7630E-02  5.6600E-03
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : C0402.003  
+# EXFOR Ver.      : 19980310
+# TRANS #         : 0000
+# Author          : C.L.Rao et al.
+# Reference       : Can.J.Chem. 41 (1963) 2516
+# DOI             : 10.1139/v63-372
+# Quantity        : natTa(p,x) independent production cross section
+# REACTION        : 73-TA-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Ta-x-sig-nucdis-mon-einc2.400E+07_Rao_1963_c0402.003
+#
+# Einc (eV)       :   2.4000E+07
+# dEinc (eV)      :   2.0000E+06
+#
+# npts            : 4           
+# xmin            : 73179.9     
+# xmax            : 74181.9     
+# ymin            :   2.9000E-02
+# ymax            :   1.2000E+00
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     73179.9  2.9000E-02  8.1200E-03
+     73180.9  1.0000E-01  2.2000E-02
+     74179.9  1.2000E+00  2.6400E-01
+     74181.9  4.7000E-02  1.0340E-02
+#---------------------------------------------------

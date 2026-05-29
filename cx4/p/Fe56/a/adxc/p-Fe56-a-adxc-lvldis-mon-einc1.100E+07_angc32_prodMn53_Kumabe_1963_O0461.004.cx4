@@ -1,0 +1,26 @@
+# EXFOR #         : O0461.004  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : I.Kumabe et al.
+# Reference       : Nucl.Phys. 46 (1963) 437
+# DOI             : 10.1016/0029-5582(63)90616-3
+# Quantity        : 56Fe(p,a)53Mn partial angular differential cross section
+# REACTION        : 26-FE-56(P,A)25-MN-53,PAR,DA
+# File ID         : p-Fe56-a-adxc-lvldis-mon-einc1.100E+07_angc32_prodMn53_Kumabe_1963_o0461.004
+#
+# Einc (eV)       :   1.1000E+07
+# theta,cm (deg)  :   31.7000000
+# dtheta,cm (deg) :    0.6000000
+#
+# npts            : 1           
+# xmin            :   3.8000E+05
+# xmax            :   3.8000E+05
+# ymin            :   5.4000E-04
+# ymax            :   5.4000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.8000E+05  0.0000E+00  5.4000E-04  4.0000E-05
+#---------------------------------------------------

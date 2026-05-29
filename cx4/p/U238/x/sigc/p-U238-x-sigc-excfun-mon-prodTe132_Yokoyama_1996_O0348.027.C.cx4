@@ -1,0 +1,22 @@
+# EXFOR #         : O0348.027.C
+# EXFOR Ver.      : 20221115
+# TRANS #         : O091
+# Author          : A.Yokoyama et al.
+# Reference       : Z.Phys.A 356 (1996) 55
+# DOI             : 10.1007/s002180050148
+# Quantity        : 238U(p,f)132Te cumulative production cross section
+# REACTION        : 92-U-238(P,F)52-TE-132,CUM,SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodTe132_Yokoyama_1996_o0348.027.c
+#
+# npts            : 1           
+# xmin            :   8.6000E+06
+# xmax            :   8.6000E+06
+# ymin            :   4.4300E-04
+# ymax            :   4.4300E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.6000E+06  0.0000E+00  4.4300E-04  3.4000E-05
+#---------------------------------------------------

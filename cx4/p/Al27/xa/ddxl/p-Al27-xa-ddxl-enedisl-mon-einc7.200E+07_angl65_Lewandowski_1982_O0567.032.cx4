@@ -1,0 +1,28 @@
+# EXFOR #         : O0567.032  
+# EXFOR Ver.      : 20190209
+# TRANS #         : O068
+# Author          : Z.Lewandowski et al.
+# Reference       : Nucl.Phys.A 389 (1982) 247
+# DOI             : 10.1016/0375-9474(82)90518-8
+# Quantity        : 27Al(p,a+x) double differential cross section
+# REACTION        : 13-AL-27(P,X)2-HE-4,,DA/DE
+# File ID         : p-Al27-xa-ddxl-enedisl-mon-einc7.200E+07_angl65_Lewandowski_1982_o0567.032
+#
+# Einc (eV)       :   7.2000E+07
+# theta,lab (deg) :   65.0000000
+#
+# npts            : 4           
+# xmin            :   3.0400E+07
+# xmax            :   5.9800E+07
+# ymin            :   2.6500E-12
+# ymax            :   4.7860E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  3.0400E+07  0.0000E+00  4.7860E-11  0.0000E+00
+  4.0300E+07  0.0000E+00  2.1510E-11  0.0000E+00
+  4.9900E+07  0.0000E+00  9.4100E-12  0.0000E+00
+  5.9800E+07  0.0000E+00  2.6500E-12  0.0000E+00
+#---------------------------------------------------

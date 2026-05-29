@@ -1,0 +1,25 @@
+# EXFOR #         : F0217.003  
+# EXFOR Ver.      : 20251210
+# TRANS #         : F104
+# Author          : J.W.Cronin
+# Reference       : Phys.Rev. 101 (1956) 298
+# DOI             : 10.1103/PhysRev.101.298
+# Quantity        : 10B(p,a)7Be partial angular differential cross section
+# REACTION        : 5-B-10(P,A)4-BE-7,PAR,DA
+# File ID         : p-B10-a-adxc-excfun-mon-angc100_elvl4.300E+05_prodBe7_Cronin_1956_f0217.003
+#
+# theta,cm (deg)  :  100.0000000
+# Elvl (eV)       :   4.3000E+05
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  1.0000E-02  2.0000E-03
+#---------------------------------------------------

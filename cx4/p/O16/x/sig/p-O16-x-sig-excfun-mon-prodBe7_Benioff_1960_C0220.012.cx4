@@ -1,0 +1,22 @@
+# EXFOR #         : C0220.012  
+# EXFOR Ver.      : 19871102
+# TRANS #         : 0000
+# Author          : P.A.Benioff
+# Reference       : Phys.Rev. 119 (1960) 316
+# DOI             : 10.1103/PhysRev.119.316
+# Quantity        : 16O(p,x)7Be independent production cross section
+# REACTION        : 8-O-16(P,X)4-BE-7,,SIG
+# File ID         : p-O16-x-sig-excfun-mon-prodBe7_Benioff_1960_c0220.012
+#
+# npts            : 1           
+# xmin            :   5.7000E+09
+# xmax            :   5.7000E+09
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.7000E+09  0.0000E+00  1.0000E-02  2.6000E-03
+#---------------------------------------------------

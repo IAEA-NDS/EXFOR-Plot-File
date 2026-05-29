@@ -1,0 +1,22 @@
+# EXFOR #         : C0269.015  
+# EXFOR Ver.      : 20211005
+# TRANS #         : C206
+# Author          : L.P.Remsberg et al.
+# Reference       : Phys.Rev. 130 (1963) 2069
+# DOI             : 10.1103/PhysRev.130.2069
+# Quantity        : 56Fe(p,n)56Co cross section
+# REACTION        : 26-FE-56(P,N)27-CO-56,,SIG
+# File ID         : p-Fe56-n-sig-excfun-mon-prodCo56_Remsberg_1963_c0269.015
+#
+# npts            : 1           
+# xmin            :   3.7000E+08
+# xmax            :   3.7000E+08
+# ymin            :   9.2000E-04
+# ymax            :   9.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+08  0.0000E+00  9.2000E-04  6.0000E-05
+#---------------------------------------------------

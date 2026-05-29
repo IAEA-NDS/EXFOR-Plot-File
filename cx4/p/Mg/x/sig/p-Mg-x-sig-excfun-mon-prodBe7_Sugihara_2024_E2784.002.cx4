@@ -1,0 +1,23 @@
+# EXFOR #         : E2784.002  
+# EXFOR Ver.      : 20241228
+# TRANS #         : E151
+# Author          : K.Sugihara et al.
+# Reference       : Nucl.Instrum.Meth.B 549 (2024) 165299
+# DOI             : 10.1016/j.nimb.2024.165299
+# Quantity        : natMg(p,x)7Be independent production cross section
+# REACTION        : 12-MG-0(P,X)4-BE-7,,SIG
+# File ID         : p-Mg-x-sig-excfun-mon-prodBe7_Sugihara_2024_e2784.002
+#
+# npts            : 2           
+# xmin            :   8.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   8.8600E-03
+# ymax            :   1.2600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  8.8600E-03  2.9000E-04
+  3.0000E+09  0.0000E+00  1.2600E-02  4.0000E-04
+#---------------------------------------------------

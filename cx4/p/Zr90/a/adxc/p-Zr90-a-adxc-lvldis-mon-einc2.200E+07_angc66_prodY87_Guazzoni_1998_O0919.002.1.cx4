@@ -1,0 +1,28 @@
+# EXFOR #         : O0919.002.1
+# EXFOR Ver.      : 20030503
+# TRANS #         : 0000
+# Author          : P.Guazzoni et al.
+# Reference       : Eur.Phys.J.A 1 (1998) 365
+# DOI             : 10.1007/s100500050071
+# Quantity        : 90Zr(p,a)87Y partial angular differential cross section
+# REACTION        : 40-ZR-90(P,A)39-Y-87,PAR,DA
+# File ID         : p-Zr90-a-adxc-lvldis-mon-einc2.200E+07_angc66_prodY87_Guazzoni_1998_o0919.002.1
+#
+# Einc (eV)       :   2.2000E+07
+# theta,cm (deg)  :   66.3000000
+#
+# npts            : 4           
+# xmin            :   2.8010E+06
+# xmax            :   2.9980E+06
+# ymin            :   1.4710E-06
+# ymax            :   3.9830E-06
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.8010E+06  0.0000E+00  1.5310E-06  1.3100E-07
+  2.8310E+06  0.0000E+00  1.4710E-06  1.2800E-07
+  2.9030E+06  0.0000E+00  1.9600E-06  1.4800E-07
+  2.9980E+06  0.0000E+00  3.9830E-06  2.1100E-07
+#---------------------------------------------------

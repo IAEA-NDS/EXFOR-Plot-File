@@ -1,0 +1,23 @@
+# EXFOR #         : A0184.004  
+# EXFOR Ver.      : 20240820
+# TRANS #         : A116
+# Author          : T.Nozaki et al.
+# Reference       : Appl.Radiat.Isot. 30 (1979) 79
+# DOI             : 10.1016/0020-708X(79)90137-6
+# Quantity        : natSe(p,x)82gBr cumulative production cross section
+# REACTION        : 34-SE-0(P,X)35-BR-82-G,M+,SIG
+# File ID         : p-Se-x-sigc-excfun-mon-prodBr82g_Nozaki_1979_a0184.004
+#
+# npts            : 2           
+# xmin            :   1.0000E+07
+# xmax            :   1.5000E+07
+# ymin            :   2.0000E-02
+# ymax            :   1.1100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+07  0.0000E+00  1.1100E-01  2.7750E-02
+  1.5000E+07  0.0000E+00  2.0000E-02  5.0000E-03
+#---------------------------------------------------

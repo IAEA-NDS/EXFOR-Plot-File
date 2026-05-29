@@ -1,0 +1,27 @@
+# EXFOR #         : O0805.007  
+# EXFOR Ver.      : 20040401
+# TRANS #         : 0000
+# Author          : C.Djalali et al.
+# Reference       : Nucl.Phys.A 388 (1982) 1
+# DOI             : N/A
+# Quantity        : 120Sn(p,inl)120Sn partial angular differential cross section
+# REACTION        : 50-SN-120(P,INL)50-SN-120,PAR,DA
+# File ID         : p-Sn120-inl-adxl-angdisc-mon-einc2.000E+08_elvl8.400E+06_prodSn120_Djalali_1982_o0805.007
+#
+# Einc (eV)       :   2.0000E+08
+# Elvl (eV)       :   8.4000E+06
+#
+# npts            : 3           
+# xmin            :    3.0500000
+# xmax            :    5.0500000
+# ymin            :   7.7000E-04
+# ymax            :   1.8000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   3.0500000   0.0000000  1.8000E-03  3.0600E-04
+   4.0400000   0.0000000  1.1400E-03  1.8240E-04
+   5.0500000   0.0000000  7.7000E-04  1.6170E-04
+#---------------------------------------------------

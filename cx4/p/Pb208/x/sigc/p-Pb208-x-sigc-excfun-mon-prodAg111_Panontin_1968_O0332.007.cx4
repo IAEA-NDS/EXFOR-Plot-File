@@ -1,0 +1,22 @@
+# EXFOR #         : O0332.007  
+# EXFOR Ver.      : 20220105
+# TRANS #         : O086
+# Author          : J.A.Panontin et al.
+# Reference       : J.Inorg.Nucl.Chem. 30 (1968) 2891
+# DOI             : 10.1016/0022-1902(68)80148-4
+# Quantity        : 208Pb(p,f)111Ag cumulative production cross section
+# REACTION        : 82-PB-208(P,F)47-AG-111,CUM,SIG
+# File ID         : p-Pb208-x-sigc-excfun-mon-prodAg111_Panontin_1968_o0332.007
+#
+# npts            : 1           
+# xmin            :   4.5000E+08
+# xmax            :   4.5000E+08
+# ymin            :   3.2700E-03
+# ymax            :   3.2700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+08  0.0000E+00  3.2700E-03  2.0000E-05
+#---------------------------------------------------

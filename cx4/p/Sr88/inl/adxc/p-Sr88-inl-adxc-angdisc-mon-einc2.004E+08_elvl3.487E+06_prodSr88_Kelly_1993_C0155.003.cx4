@@ -1,0 +1,29 @@
+# EXFOR #         : C0155.003  
+# EXFOR Ver.      : 19970423
+# TRANS #         : 0000
+# Author          : J.J.Kelly et al.
+# Reference       : Phys.Rev.C 47 (1993) 2146
+# DOI             : 10.1103/PhysRevC.47.2146
+# Quantity        : 88Sr(p,inl)88Sr partial angular differential cross section
+# REACTION        : 38-SR-88(P,INL)38-SR-88,PAR,DA
+# File ID         : p-Sr88-inl-adxc-angdisc-mon-einc2.004E+08_elvl3.487E+06_prodSr88_Kelly_1993_c0155.003
+#
+# Einc (eV)       :   2.0040E+08
+# Elvl (eV)       :   3.4870E+06
+#
+# npts            : 5           
+# xmin            :    8.1100000
+# xmax            :   14.1300000
+# ymin            :   7.0540E-06
+# ymax            :   3.4280E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   8.1100000   0.0000000  3.4280E-05  2.0095E-05
+  11.1400000   0.0000000  1.6990E-05  9.8661E-06
+  12.1700000   0.0000000  1.8810E-05  7.6181E-06
+  14.0900000   0.0000000  1.6600E-05  4.7991E-06
+  14.1300000   0.0000000  7.0540E-06  4.0412E-06
+#---------------------------------------------------

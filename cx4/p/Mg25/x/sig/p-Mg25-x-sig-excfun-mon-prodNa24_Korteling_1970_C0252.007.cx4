@@ -1,0 +1,23 @@
+# EXFOR #         : C0252.007  
+# EXFOR Ver.      : 19881005
+# TRANS #         : 0000
+# Author          : R.R.Korteling et al.
+# Reference       : Phys.Rev.C 1 (1970) 193
+# DOI             : 10.1103/PhysRevC.1.193
+# Quantity        : 25Mg(p,x)24Na independent production cross section
+# REACTION        : 12-MG-25(P,X)11-NA-24,,SIG
+# File ID         : p-Mg25-x-sig-excfun-mon-prodNa24_Korteling_1970_c0252.007
+#
+# npts            : 2           
+# xmin            :   3.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   2.2700E-02
+# ymax            :   2.4100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+08  0.0000E+00  2.2700E-02  7.5000E-04
+  4.0000E+08  0.0000E+00  2.4100E-02  4.3000E-04
+#---------------------------------------------------

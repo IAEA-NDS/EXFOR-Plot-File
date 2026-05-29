@@ -1,0 +1,24 @@
+# EXFOR #         : C1034.014  
+# EXFOR Ver.      : 20220817
+# TRANS #         : C223
+# Author          : J.B.Ball et al.
+# Reference       : Phys.Rev. 130 (1963) 2342
+# DOI             : 10.1103/PhysRev.130.2342
+# Quantity        : 91Zr(p,d)90Zr partial cross section
+# REACTION        : 40-ZR-91(P,D)40-ZR-90,PAR,SIG
+# File ID         : p-Zr91-d-sig-lvldis-mon-einc2.230E+07_prodZr90_Ball_1963_c1034.014
+#
+# Einc (eV)       :   2.2300E+07
+#
+# npts            : 1           
+# xmin            :   0.0000E+00
+# xmax            :   0.0000E+00
+# ymin            :   6.7000E-03
+# ymax            :   6.7000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  6.7000E-03  2.0000E-04
+#---------------------------------------------------

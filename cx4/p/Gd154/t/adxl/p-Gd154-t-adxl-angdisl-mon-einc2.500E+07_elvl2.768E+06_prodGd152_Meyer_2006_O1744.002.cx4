@@ -1,0 +1,29 @@
+# EXFOR #         : O1744.002  
+# EXFOR Ver.      : 20090505
+# TRANS #         : O040
+# Author          : D.A.Meyer et al.
+# Reference       : Phys.Rev.C 74 (2006) 044309
+# DOI             : 10.1103/PhysRevC.74.044309
+# Quantity        : 154Gd(p,t)152Gd partial angular differential cross section
+# REACTION        : 64-GD-154(P,T)64-GD-152,PAR,DA
+# File ID         : p-Gd154-t-adxl-angdisl-mon-einc2.500E+07_elvl2.768E+06_prodGd152_Meyer_2006_o1744.002
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   3.0000E+03
+# Elvl (eV)       :   2.7677E+06
+# dElvl (eV)      :   7.0000E+02
+#
+# npts            : 3           
+# xmin            :    5.0000000
+# xmax            :   30.0000000
+# ymin            :   1.5000E-06
+# ymax            :   7.1000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0000000   0.0000000  7.1000E-06  6.0000E-07
+  17.5000000   0.0000000  1.5000E-06  2.0000E-07
+  30.0000000   0.0000000  2.3000E-06  2.0000E-07
+#---------------------------------------------------

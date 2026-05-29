@@ -1,0 +1,23 @@
+# EXFOR #         : O0569.020  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : J.L.Anderson et al.
+# Reference       : J.Inorg.Nucl.Chem. 30 (1968) 3167
+# DOI             : 10.1016/0022-1902(68)80108-3
+# Quantity        : 238U(p,f)96Nb independent production cross section
+# REACTION        : 92-U-238(P,F)41-NB-96,,SIG
+# File ID         : p-U238-x-sig-excfun-mon-prodNb96_Anderson_1968_o0569.020
+#
+# npts            : 2           
+# xmin            :   9.5000E+06
+# xmax            :   1.1300E+07
+# ymin            :   1.6800E-05
+# ymax            :   2.6100E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5000E+06  0.0000E+00  2.6100E-05  4.0000E-06
+  1.1300E+07  0.0000E+00  1.6800E-05  2.5000E-06
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : C2612.003  
+# EXFOR Ver.      : 20210612
+# TRANS #         : C204
+# Author          : C.P.Poirier et al.
+# Reference       : Phys.Rev.C 1 (1970) 1982
+# DOI             : 10.1103/PhysRevC.1.1982
+# Quantity        : 29Si(p,el)29Si angular differential cross section
+# REACTION        : 14-SI-29(P,EL)14-SI-29,,DA,,RTH
+# File ID         : p-Si29-el-adxc-angdisc-mon-einc1.373E+06_prodSi29_Poirier_1970_c2612.003
+#
+# Einc (eV)       :   1.3735E+06
+#
+# npts            : 1           
+# xmin            :  131.5000000
+# xmax            :  131.5000000
+# ymin            :   1.9653E-01
+# ymax            :   1.9653E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 131.5000000   0.0000000  1.9653E-01  0.0000E+00
+#---------------------------------------------------

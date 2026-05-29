@@ -1,0 +1,28 @@
+# EXFOR #         : A1041.006  
+# EXFOR Ver.      : 20240423
+# TRANS #         : A111
+# Author          : N.Jarmie et al.
+# Reference       : Phys.Rev.C 10 (1974) 54
+# DOI             : 10.1103/PhysRevC.10.54
+# Quantity        : 3H(p,el)3H angular differential cross section
+# REACTION        : 1-H-3(P,EL)1-H-3,,DA
+# File ID         : p-H3-el-adxc-angdisc-mon-einc1.360E+07_prodH3_Jarmie_1974_a1041.006
+#
+# Einc (eV)       :   1.3600E+07
+# dEinc (eV)      :   1.5000E+04
+#
+# npts            : 4           
+# xmin            :   16.0300000
+# xmax            :   64.9500000
+# ymin            :   8.8780E-02
+# ymax            :   2.9000E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.0300000   0.0300000  2.9000E-01  0.0000E+00
+  20.0000000   0.0300000  2.8480E-01  0.0000E+00
+  26.6200000   0.0300000  2.6620E-01  0.0000E+00
+  64.9500000   0.0300000  8.8780E-02  0.0000E+00
+#---------------------------------------------------

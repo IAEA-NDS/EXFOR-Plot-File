@@ -1,0 +1,27 @@
+# EXFOR #         : C2101.004  
+# EXFOR Ver.      : 20140410
+# TRANS #         : C142
+# Author          : R.A.Langley
+# Reference       : Proceedings of Conf.Rad.Eff.Trit.Tech.for Fus.React.,Gatlinburg,1975 4 page 158
+# DOI             : N/A
+# Quantity        : 3H(p,el)3H angular differential cross section
+# REACTION        : 1-H-3(P,EL)1-H-3,,DA
+# File ID         : p-H3-el-adxc-excfun-mon-angc169_prodH3_Langley_1975_c2101.004
+#
+# theta,cm (deg)  :  168.7000000
+#
+# npts            : 4           
+# xmin            :   2.7660E+06
+# xmax            :   3.5130E+06
+# ymin            :   2.0277E-01
+# ymax            :   2.4499E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.7660E+06  0.0000E+00  2.4499E-01  0.0000E+00
+  3.0480E+06  0.0000E+00  2.2388E-01  0.0000E+00
+  3.2660E+06  0.0000E+00  2.1301E-01  0.0000E+00
+  3.5130E+06  0.0000E+00  2.0277E-01  0.0000E+00
+#---------------------------------------------------

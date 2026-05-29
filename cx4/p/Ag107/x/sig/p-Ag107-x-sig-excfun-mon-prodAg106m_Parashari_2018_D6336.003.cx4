@@ -1,0 +1,25 @@
+# EXFOR #         : D6336.003  
+# EXFOR Ver.      : 20191018
+# TRANS #         : D124
+# Author          : S.Parashari et al.
+# Reference       : Nucl.Phys.A 979 (2018) 102
+# DOI             : 10.1016/j.nuclphysa.2018.09.042
+# Quantity        : 107Ag(p,x)106mAg independent production cross section
+# REACTION        : 47-AG-107(P,X)47-AG-106-M,,SIG
+# File ID         : p-Ag107-x-sig-excfun-mon-prodAg106m_Parashari_2018_d6336.003
+#
+# npts            : 4           
+# xmin            :   1.3900E+07
+# xmax            :   2.1820E+07
+# ymin            :   2.1800E-04
+# ymax            :   5.2140E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3900E+07  2.3000E+05  2.1800E-04  2.1500E-04
+  1.6770E+07  2.0000E+05  1.1210E-02  9.3000E-04
+  1.9480E+07  1.8000E+05  3.0570E-02  2.6500E-04
+  2.1820E+07  1.7000E+05  5.2140E-02  4.7400E-03
+#---------------------------------------------------

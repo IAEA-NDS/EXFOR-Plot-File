@@ -1,0 +1,25 @@
+# EXFOR #         : O0277.090  
+# EXFOR Ver.      : 20190830
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : 55Mn(p,x)51Cr cumulative production cross section
+# REACTION        : 25-MN-55(P,X)24-CR-51,CUM,SIG
+# File ID         : p-Mn55-x-sigc-excfun-mon-prodCr51_Michel_1995_o0277.090
+#
+# npts            : 4           
+# xmin            :   8.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   2.7200E-02
+# ymax            :   3.7800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  3.7800E-02  3.2000E-03
+  1.2000E+09  0.0000E+00  3.3600E-02  2.7000E-03
+  1.6000E+09  0.0000E+00  3.1500E-02  2.7000E-03
+  2.6000E+09  0.0000E+00  2.7200E-02  2.6000E-03
+#---------------------------------------------------

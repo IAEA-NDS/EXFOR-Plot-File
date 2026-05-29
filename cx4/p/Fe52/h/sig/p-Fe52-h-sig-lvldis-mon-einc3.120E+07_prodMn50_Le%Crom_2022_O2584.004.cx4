@@ -1,0 +1,25 @@
+# EXFOR #         : O2584.004  
+# EXFOR Ver.      : 20230916
+# TRANS #         : O099
+# Author          : B.Le Crom et al.
+# Reference       : Phys.Lett.B 829 (2022) 137057
+# DOI             : 10.1016/j.physletb.2022.137057
+# Quantity        : 52Fe(p,he3)50Mn partial cross section
+# REACTION        : 26-FE-52(P,HE3)25-MN-50,PAR,SIG
+# File ID         : p-Fe52-h-sig-lvldis-mon-einc3.120E+07_prodMn50_Le%Crom_2022_o2584.004
+#
+# Einc (eV)       :   3.1200E+07
+#
+# npts            : 2           
+# xmin            :   0.0000E+00
+# xmax            :   6.5100E+05
+# ymin            :   1.6000E-05
+# ymax            :   1.4500E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  1.4500E-04  1.2000E-05
+  6.5100E+05  0.0000E+00  1.6000E-05  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : A0501.056  
+# EXFOR Ver.      : 20240910
+# TRANS #         : A117
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 54 No.11 (1990) 161
+# DOI             : N/A
+# Quantity        : 59Co(p,x)57Co cumulative production cross section
+# REACTION        : 27-CO-59(P,X)27-CO-57,CUM,SIG
+# File ID         : p-Co59-x-sigc-excfun-mon-prodCo57_Aleksandrov_1990_a0501.056
+#
+# npts            : 1           
+# xmin            :   1.0000E+09
+# xmax            :   1.0000E+09
+# ymin            :   2.5800E-02
+# ymax            :   2.5800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  2.5800E-02  1.1000E-03
+#---------------------------------------------------

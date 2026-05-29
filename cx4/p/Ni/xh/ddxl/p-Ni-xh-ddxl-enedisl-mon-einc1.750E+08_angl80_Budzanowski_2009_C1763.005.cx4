@@ -1,0 +1,28 @@
+# EXFOR #         : C1763.005  
+# EXFOR Ver.      : 20091216
+# TRANS #         : C096
+# Author          : A.Budzanowski et al.
+# Reference       : Phys.Rev.C 80 (2009) 054604
+# DOI             : 10.1103/PhysRevC.80.054604
+# Quantity        : natNi(p,h+x) double differential cross section
+# REACTION        : 28-NI-0(P,X)2-HE-3,,DA/DE
+# File ID         : p-Ni-xh-ddxl-enedisl-mon-einc1.750E+08_angl80_Budzanowski_2009_c1763.005
+#
+# Einc (eV)       :   1.7500E+08
+# theta,lab (deg) :   80.0000000
+#
+# npts            : 4           
+# xmin            :   1.2500E+07
+# xmax            :   2.1500E+07
+# ymin            :   3.5600E-11
+# ymax            :   5.7800E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.2500E+07  0.0000E+00  5.7800E-11  2.5000E-12
+  1.5500E+07  0.0000E+00  5.6300E-11  2.7000E-12
+  1.8500E+07  0.0000E+00  4.3300E-11  1.4000E-12
+  2.1500E+07  0.0000E+00  3.5600E-11  1.2000E-12
+#---------------------------------------------------

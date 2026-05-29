@@ -1,0 +1,28 @@
+# EXFOR #         : C0360.003  
+# EXFOR Ver.      : 19871110
+# TRANS #         : 0000
+# Author          : R.Wolfgang et al.
+# Reference       : Phys.Rev. 103 (1956) 394
+# DOI             : 10.1103/PhysRev.103.394
+# Quantity        : natPb(p,x) independent production cross section
+# REACTION        : 82-PB-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Pb-x-sig-nucdis-mon-einc6.000E+08_Wolfgang_1956_c0360.003
+#
+# Einc (eV)       :   6.0000E+08
+#
+# npts            : 5           
+# xmin            : 15032.9     
+# xmax            : 48115.1     
+# ymin            :   2.0000E-05
+# ymax            :   1.0600E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     15032.9  2.0000E-05  0.0000E+00
+     29064.9  4.7000E-04  0.0000E+00
+     31072.9  1.0600E-03  0.0000E+00
+     42093.1  1.4000E-04  0.0000E+00
+     48115.1  5.5000E-04  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : C0398.003  
+# EXFOR Ver.      : 19881011
+# TRANS #         : 0000
+# Author          : P.P.Benjamin et al.
+# Reference       : Can.J.Chem. 47 (1969) 301
+# DOI             : 10.1139/v69-042
+# Quantity        : 232Th(p,x) cumulative production cross section
+# REACTION        : 90-TH-232(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-Th232-x-sigc-nucdis-mon-einc4.500E+07_Benjamin_1969_c0398.003
+#
+# Einc (eV)       :   4.5000E+07
+# dEinc (eV)      :   2.0000E+06
+#
+# npts            : 1           
+# xmin            : 55137.9     
+# xmax            : 55137.9     
+# ymin            :   3.6000E-02
+# ymax            :   3.6000E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     55137.9  3.6000E-02  1.4000E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : O0573.004  
+# EXFOR Ver.      : 20140121
+# TRANS #         : O052
+# Author          : L.D.Miller et al.
+# Reference       : J.Inorg.Nucl.Chem. 35 (1973) 1805
+# DOI             : 10.1016/0022-1902(73)80115-0
+# Quantity        : natU(p,f)122gSb independent production cross section
+# REACTION        : 92-U-0(P,F)51-SB-122-G,,SIG
+# File ID         : p-U-x-sig-excfun-mon-prodSb122g_Miller_1973_o0573.004
+#
+# npts            : 4           
+# xmin            :   5.0000E+07
+# xmax            :   1.6000E+08
+# ymin            :   9.5000E-04
+# ymax            :   8.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+07  0.0000E+00  9.5000E-04  1.0000E-04
+  7.0000E+07  0.0000E+00  3.3000E-03  3.0000E-04
+  8.5000E+07  0.0000E+00  5.1000E-03  5.0000E-04
+  1.6000E+08  0.0000E+00  8.6000E-03  9.0000E-04
+#---------------------------------------------------

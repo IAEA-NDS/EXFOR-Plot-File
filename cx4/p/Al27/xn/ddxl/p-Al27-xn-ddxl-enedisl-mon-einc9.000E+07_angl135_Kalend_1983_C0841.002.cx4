@@ -1,0 +1,27 @@
+# EXFOR #         : C0841.002  
+# EXFOR Ver.      : 20100520
+# TRANS #         : C099
+# Author          : A.M.Kalend et al.
+# Reference       : Phys.Rev.C 28 (1983) 105
+# DOI             : 10.1103/PhysRevC.28.105
+# Quantity        : 27Al(p,n+x) double differential cross section
+# REACTION        : 13-AL-27(P,X)0-NN-1,,DA/DE
+# File ID         : p-Al27-xn-ddxl-enedisl-mon-einc9.000E+07_angl135_Kalend_1983_c0841.002
+#
+# Einc (eV)       :   9.0000E+07
+# theta,lab (deg) :  135.0000000
+#
+# npts            : 3           
+# xmin            :   4.3900E+07
+# xmax            :   6.6700E+07
+# ymin            :   1.0700E-13
+# ymax            :   6.0400E-12
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  4.3900E+07  0.0000E+00  6.0400E-12  3.5640E-13
+  5.3700E+07  0.0000E+00  1.5600E-12  1.0450E-13
+  6.6700E+07  0.0000E+00  1.0700E-13  1.4870E-14
+#---------------------------------------------------

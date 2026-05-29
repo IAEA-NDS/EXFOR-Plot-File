@@ -1,0 +1,26 @@
+# EXFOR #         : O0416.011  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : H.R.Heydegger et al.
+# Reference       : Phys.Rev.C 6 (1972) 1235
+# DOI             : 10.1103/PhysRevC.6.1235
+# Quantity        : natCu(p,x)54Mn independent production cross section
+# REACTION        : 29-CU-0(P,X)25-MN-54,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodMn54_Heydegger_1972_o0416.011
+#
+# npts            : 5           
+# xmin            :   8.2000E+07
+# xmax            :   4.1600E+08
+# ymin            :   3.7000E-03
+# ymax            :   2.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.2000E+07  8.0000E+06  3.7000E-03  7.4000E-04
+  1.1100E+08  1.0000E+07  1.1000E-02  2.2000E-03
+  1.8700E+08  1.3000E+07  1.6000E-02  3.2000E-03
+  2.8300E+08  1.7000E+07  1.9000E-02  3.8000E-03
+  4.1600E+08  2.1000E+07  2.1000E-02  4.2000E-03
+#---------------------------------------------------

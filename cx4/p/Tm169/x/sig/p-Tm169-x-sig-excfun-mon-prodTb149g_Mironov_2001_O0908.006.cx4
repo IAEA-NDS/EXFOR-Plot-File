@@ -1,0 +1,29 @@
+# EXFOR #         : O0908.006  
+# EXFOR Ver.      : 20170418
+# TRANS #         : O061
+# Author          : Yu.T.Mironov
+# Reference       : Proceedings of Conf.Nucl.Spectrosc.Nucl.Struct.,Sarov, Russia,2001 page 276
+# DOI             : N/A
+# Quantity        : 169Tm(p,x)149gTb independent production cross section
+# REACTION        : 69-TM-169(P,X)65-TB-149-G,,SIG
+# File ID         : p-Tm169-x-sig-excfun-mon-prodTb149g_Mironov_2001_o0908.006
+#
+# npts            : 8           
+# xmin            :   1.3000E+08
+# xmax            :   1.0000E+09
+# ymin            :   3.0000E-05
+# ymax            :   1.0200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  2.0000E+07  9.6000E-03  1.0000E-03
+  9.4000E+08  2.0000E+07  7.8000E-03  9.0000E-04
+  8.4000E+08  2.0000E+07  7.2000E-03  8.0000E-04
+  7.8000E+08  2.0000E+07  9.3000E-03  1.0000E-03
+  6.2500E+08  2.0000E+07  9.7000E-03  1.1000E-03
+  4.4000E+08  2.0000E+07  1.0200E-02  1.2000E-03
+  2.3500E+08  2.0000E+07  2.1600E-03  2.5000E-04
+  1.3000E+08  2.0000E+07  3.0000E-05  6.0000E-06
+#---------------------------------------------------

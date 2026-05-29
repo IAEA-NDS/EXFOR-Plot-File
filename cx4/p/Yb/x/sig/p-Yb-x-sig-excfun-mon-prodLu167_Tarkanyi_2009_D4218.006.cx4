@@ -1,0 +1,26 @@
+# EXFOR #         : D4218.006  
+# EXFOR Ver.      : 20090625
+# TRANS #         : D069
+# Author          : F.Tarkanyi et al.
+# Reference       : Nucl.Instrum.Meth.B 267 (2009) 2789
+# DOI             : 10.1016/j.nimb.2009.05.075
+# Quantity        : natYb(p,x)167Lu independent production cross section
+# REACTION        : 70-YB-0(P,X)71-LU-167,,SIG
+# File ID         : p-Yb-x-sig-excfun-mon-prodLu167_Tarkanyi_2009_d4218.006
+#
+# npts            : 5           
+# xmin            :   1.4800E+07
+# xmax            :   3.4600E+07
+# ymin            :   3.5000E-04
+# ymax            :   1.1200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4800E+07  3.0000E+05  3.5000E-04  2.0000E-04
+  1.5700E+07  3.0000E+05  5.9000E-04  5.0000E-04
+  3.2100E+07  4.0000E+05  3.4500E-03  7.1000E-04
+  3.3400E+07  3.0000E+05  5.4600E-03  7.2000E-04
+  3.4600E+07  3.0000E+05  1.1200E-02  1.4000E-03
+#---------------------------------------------------

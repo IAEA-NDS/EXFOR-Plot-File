@@ -1,0 +1,26 @@
+# EXFOR #         : D0412.005  
+# EXFOR Ver.      : 20230830
+# TRANS #         : D139
+# Author          : M.U.Khandaker et al.
+# Reference       : J.Korean.Phys.Soc. 48 (2006) 821
+# DOI             : N/A
+# Quantity        : natMo(p,x)95gTc independent production cross section
+# REACTION        : 42-MO-0(P,X)43-TC-95-G,,SIG
+# File ID         : p-Mo-x-sig-excfun-mon-prodTc95g_Khandaker_2006_d0412.005
+#
+# npts            : 5           
+# xmin            :   1.1755E+07
+# xmax            :   2.6235E+07
+# ymin            :   7.0000E-02
+# ymax            :   1.5560E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6235E+07  0.0000E+00  1.4830E-01  1.1920E-02
+  2.3252E+07  0.0000E+00  1.5560E-01  1.2680E-02
+  1.9931E+07  0.0000E+00  1.3860E-01  1.1450E-02
+  1.6311E+07  0.0000E+00  1.1940E-01  1.0340E-02
+  1.1755E+07  0.0000E+00  7.0000E-02  7.7400E-03
+#---------------------------------------------------

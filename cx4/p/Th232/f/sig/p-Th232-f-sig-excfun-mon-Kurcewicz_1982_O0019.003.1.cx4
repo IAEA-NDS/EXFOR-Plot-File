@@ -1,0 +1,22 @@
+# EXFOR #         : O0019.003.1
+# EXFOR Ver.      : 20190208
+# TRANS #         : O068
+# Author          : W.Kurcewicz et al.
+# Reference       : Z.Phys.A 306 (1982) 99
+# DOI             : 10.1007/BF01415478
+# Quantity        : 232Th(p,f) cross section
+# REACTION        : 90-TH-232(P,F),,SIG
+# File ID         : p-Th232-f-sig-excfun-mon-Kurcewicz_1982_o0019.003.1
+#
+# npts            : 1           
+# xmin            :   8.0000E+06
+# xmax            :   8.0000E+06
+# ymin            :   3.1000E-03
+# ymax            :   3.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+06  1.0000E+04  3.1000E-03  4.0000E-04
+#---------------------------------------------------

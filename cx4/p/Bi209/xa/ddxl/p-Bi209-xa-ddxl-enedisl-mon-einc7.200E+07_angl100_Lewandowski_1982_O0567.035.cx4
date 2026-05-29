@@ -1,0 +1,28 @@
+# EXFOR #         : O0567.035  
+# EXFOR Ver.      : 20190209
+# TRANS #         : O068
+# Author          : Z.Lewandowski et al.
+# Reference       : Nucl.Phys.A 389 (1982) 247
+# DOI             : 10.1016/0375-9474(82)90518-8
+# Quantity        : 209Bi(p,a+x) double differential cross section
+# REACTION        : 83-BI-209(P,X)2-HE-4,,DA/DE
+# File ID         : p-Bi209-xa-ddxl-enedisl-mon-einc7.200E+07_angl100_Lewandowski_1982_o0567.035
+#
+# Einc (eV)       :   7.2000E+07
+# theta,lab (deg) :  100.0000000
+#
+# npts            : 4           
+# xmin            :   3.9200E+07
+# xmax            :   6.9800E+07
+# ymin            :   1.4000E-13
+# ymax            :   2.2240E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  3.9200E+07  0.0000E+00  2.2240E-11  0.0000E+00
+  4.9400E+07  0.0000E+00  5.0800E-12  0.0000E+00
+  5.9600E+07  0.0000E+00  9.8000E-13  0.0000E+00
+  6.9800E+07  0.0000E+00  1.4000E-13  0.0000E+00
+#---------------------------------------------------

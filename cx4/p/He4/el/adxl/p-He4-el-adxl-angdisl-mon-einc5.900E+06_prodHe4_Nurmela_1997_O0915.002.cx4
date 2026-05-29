@@ -1,0 +1,24 @@
+# EXFOR #         : O0915.002  
+# EXFOR Ver.      : 20040312
+# TRANS #         : 0000
+# Author          : A.Nurmela et al.
+# Reference       : J.Appl.Phys. 82 (1997) 1983
+# DOI             : 10.1063/1.366008
+# Quantity        : 4He(p,el)4He angular differential cross section
+# REACTION        : 2-HE-4(P,EL)2-HE-4,,DA
+# File ID         : p-He4-el-adxl-angdisl-mon-einc5.900E+06_prodHe4_Nurmela_1997_o0915.002
+#
+# Einc (eV)       :   5.9000E+06
+#
+# npts            : 1           
+# xmin            :  170.0000000
+# xmax            :  170.0000000
+# ymin            :   6.7000E-02
+# ymax            :   6.7000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 170.0000000   0.0000000  6.7000E-02  0.0000E+00
+#---------------------------------------------------

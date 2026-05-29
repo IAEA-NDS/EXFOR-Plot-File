@@ -1,0 +1,28 @@
+# EXFOR #         : T0175.002  
+# EXFOR Ver.      : 20020724
+# TRANS #         : 0000
+# Author          : B.J.Wagner et al.
+# Reference       : Phys.Rev.C 31 (1985) 1934
+# DOI             : 10.1103/PhysRevC.31.1934
+# Quantity        : 133Cs(p,f) cumulative production cross section
+# REACTION        : 55-CS-133(P,F)ELEM/MASS,CUM,SIG
+# File ID         : p-Cs133-x-sigc-nucdis-mon-einc2.000E+08_Wagner_1985_t0175.002
+#
+# Einc (eV)       :   2.0000E+08
+#
+# npts            : 5           
+# xmin            : 19042.9     
+# xmax            : 33077.9     
+# ymin            :   1.3200E-07
+# ymax            :   2.4800E-07
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     19042.9  1.3200E-07  4.0000E-08
+     28065.9  2.4500E-07  1.2000E-07
+     29067.9  2.1800E-07  5.0000E-08
+     30072.9  2.4800E-07  1.4800E-07
+     33077.9  1.9800E-07  6.0000E-08
+#---------------------------------------------------

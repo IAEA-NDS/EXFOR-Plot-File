@@ -1,0 +1,22 @@
+# EXFOR #         : B0049.006  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : B.L.Cohen et al.
+# Reference       : Phys.Rev. 99 (1955) 723
+# DOI             : 10.1103/PhysRev.99.723
+# Quantity        : 31P(p,x)30P cumulative production cross section
+# REACTION        : 15-P-31(P,X)15-P-30,CUM,SIG,,,EXP
+# File ID         : p-P31-x-sigc-excfun-mon-prodP30_Cohen_1955_b0049.006
+#
+# npts            : 1           
+# xmin            :   2.1500E+07
+# xmax            :   2.1500E+07
+# ymin            :   2.4000E-01
+# ymax            :   2.4000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1500E+07  0.0000E+00  2.4000E-01  0.0000E+00
+#---------------------------------------------------

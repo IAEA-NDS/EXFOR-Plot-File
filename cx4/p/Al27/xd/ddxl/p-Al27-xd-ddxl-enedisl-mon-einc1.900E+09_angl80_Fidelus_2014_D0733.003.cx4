@@ -1,0 +1,27 @@
+# EXFOR #         : D0733.003  
+# EXFOR Ver.      : 20141209
+# TRANS #         : D096
+# Author          : M.Fidelus et al.
+# Reference       : Phys.Rev.C 89 (2014) 054617
+# DOI             : 10.1103/PhysRevC.89.054617
+# Quantity        : 27Al(p,d+x) double differential cross section
+# REACTION        : 13-AL-27(P,X)1-H-2,,DA/DE
+# File ID         : p-Al27-xd-ddxl-enedisl-mon-einc1.900E+09_angl80_Fidelus_2014_d0733.003
+#
+# Einc (eV)       :   1.9000E+09
+# theta,lab (deg) :   80.0000000
+#
+# npts            : 3           
+# xmin            :   4.5000E+06
+# xmax            :   9.5000E+06
+# ymin            :   7.9770E-10
+# ymax            :   1.0510E-09
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  4.5000E+06  0.0000E+00  1.0510E-09  3.4000E-11
+  7.5000E+06  0.0000E+00  9.3000E-10  1.5000E-11
+  9.5000E+06  0.0000E+00  7.9770E-10  7.7000E-12
+#---------------------------------------------------

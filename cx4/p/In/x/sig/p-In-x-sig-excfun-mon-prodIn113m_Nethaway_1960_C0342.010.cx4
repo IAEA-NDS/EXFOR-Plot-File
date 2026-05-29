@@ -1,0 +1,23 @@
+# EXFOR #         : C0342.010  
+# EXFOR Ver.      : 20160709
+# TRANS #         : C159
+# Author          : D.R.Nethaway et al.
+# Reference       : Phys.Rev. 119 (1960) 1375
+# DOI             : 10.1103/PhysRev.119.1375
+# Quantity        : natIn(p,x)113mIn independent production cross section
+# REACTION        : 49-IN-0(P,X)49-IN-113-M,,SIG
+# File ID         : p-In-x-sig-excfun-mon-prodIn113m_Nethaway_1960_c0342.010
+#
+# npts            : 2           
+# xmin            :   1.0000E+09
+# xmax            :   2.0000E+09
+# ymin            :   1.9000E-03
+# ymax            :   2.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  1.9000E-03  0.0000E+00
+  2.0000E+09  0.0000E+00  2.5000E-03  0.0000E+00
+#---------------------------------------------------

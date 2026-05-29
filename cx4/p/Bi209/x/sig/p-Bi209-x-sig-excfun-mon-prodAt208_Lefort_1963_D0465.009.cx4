@@ -1,0 +1,24 @@
+# EXFOR #         : D0465.009  
+# EXFOR Ver.      : 20130604
+# TRANS #         : D089
+# Author          : M.Lefort et al.
+# Reference       : Nucl.Phys. 46 (1963) 161
+# DOI             : 10.1016/0029-5582(63)90576-5
+# Quantity        : 209Bi(p,x)208At independent production cross section
+# REACTION        : 83-BI-209(P,X)85-AT-208,,SIG
+# File ID         : p-Bi209-x-sig-excfun-mon-prodAt208_Lefort_1963_d0465.009
+#
+# npts            : 3           
+# xmin            :   2.4000E+08
+# xmax            :   5.5000E+08
+# ymin            :   5.0000E-06
+# ymax            :   2.5000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+08  0.0000E+00  2.5000E-05  0.0000E+00
+  4.2000E+08  0.0000E+00  1.8000E-05  0.0000E+00
+  2.4000E+08  0.0000E+00  5.0000E-06  0.0000E+00
+#---------------------------------------------------

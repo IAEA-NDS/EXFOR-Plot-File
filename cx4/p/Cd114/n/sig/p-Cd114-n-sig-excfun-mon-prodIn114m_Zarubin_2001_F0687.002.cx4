@@ -1,0 +1,23 @@
+# EXFOR #         : F0687.002  
+# EXFOR Ver.      : 20160423
+# TRANS #         : F062
+# Author          : P.P.Zarubin et al.
+# Reference       : Izv.Ross.AN,Fiz. 65 (2001) 1612
+# DOI             : N/A
+# Quantity        : 114Cd(p,n)114mIn cross section
+# REACTION        : 48-CD-114(P,N)49-IN-114-M,,SIG
+# File ID         : p-Cd114-n-sig-excfun-mon-prodIn114m_Zarubin_2001_f0687.002
+#
+# npts            : 2           
+# xmin            :   6.3000E+06
+# xmax            :   6.6100E+06
+# ymin            :   4.8000E-02
+# ymax            :   6.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.3000E+06  9.0000E+04  4.8000E-02  4.0000E-03
+  6.6100E+06  7.0000E+04  6.0000E-02  5.0000E-03
+#---------------------------------------------------

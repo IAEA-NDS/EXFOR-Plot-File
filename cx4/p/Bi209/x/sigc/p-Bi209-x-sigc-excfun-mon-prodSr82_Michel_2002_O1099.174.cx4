@@ -1,0 +1,23 @@
+# EXFOR #         : O1099.174  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)82Sr cumulative production cross section
+# REACTION        : 83-BI-209(P,X)38-SR-82,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodSr82_Michel_2002_o1099.174
+#
+# npts            : 2           
+# xmin            :   1.5700E+09
+# xmax            :   2.5980E+09
+# ymin            :   7.7090E-04
+# ymax            :   8.6500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5700E+09  1.4700E+06  8.6500E-04  2.1450E-04
+  2.5980E+09  7.2510E+05  7.7090E-04  1.0520E-04
+#---------------------------------------------------

@@ -1,0 +1,30 @@
+# EXFOR #         : F1111.002  
+# EXFOR Ver.      : 20110404
+# TRANS #         : F044
+# Author          : S.S.Vasilev et al.
+# Reference       : Izv.Ross.AN,Fiz. 30 (1966) 214
+# DOI             : N/A
+# Quantity        : 27Al(p,inl)27Al partial angular differential cross section
+# REACTION        : 13-AL-27(P,INL)13-AL-27,PAR,DA
+# File ID         : p-Al27-inl-adxc-angdisc-mon-einc6.380E+06_elvl5.150E+06_prodAl27_Vasilev_1966_f1111.002
+#
+# Einc (eV)       :   6.3800E+06
+# Elvl (eV)       :   5.1500E+06
+#
+# npts            : 6           
+# xmin            :   31.3330000
+# xmax            :  151.8300000
+# ymin            :   3.4544E-03
+# ymax            :   6.0732E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  31.3330000   0.0000000  3.4544E-03  0.0000E+00
+  76.0420000   0.0000000  4.9731E-03  0.0000E+00
+  91.3130000   0.0000000  4.2409E-03  0.0000E+00
+ 122.2900000   0.0000000  6.0732E-03  6.4535E-04
+ 137.0500000   0.0000000  5.2189E-03  0.0000E+00
+ 151.8300000   0.0000000  3.9810E-03  0.0000E+00
+#---------------------------------------------------

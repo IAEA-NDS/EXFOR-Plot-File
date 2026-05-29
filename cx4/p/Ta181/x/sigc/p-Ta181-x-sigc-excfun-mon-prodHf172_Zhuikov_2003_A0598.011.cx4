@@ -1,0 +1,26 @@
+# EXFOR #         : A0598.011  
+# EXFOR Ver.      : 20160228
+# TRANS #         : A084
+# Author          : B.L.Zhuikov et al.
+# Reference       : Phys.Rev.C 68 (2003) 054611
+# DOI             : 10.1103/PhysRevC.68.054611
+# Quantity        : 181Ta(p,x)172Hf cumulative production cross section
+# REACTION        : 73-TA-181(P,X)72-HF-172,CUM,SIG
+# File ID         : p-Ta181-x-sigc-excfun-mon-prodHf172_Zhuikov_2003_a0598.011
+#
+# npts            : 5           
+# xmin            :   1.0000E+08
+# xmax            :   5.0000E+08
+# ymin            :   1.9000E-02
+# ymax            :   1.0700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  3.2000E-02  5.0000E-03
+  1.4500E+08  0.0000E+00  1.0700E-01  6.0000E-02
+  2.0000E+08  0.0000E+00  9.6000E-02  8.0000E-03
+  3.5000E+08  0.0000E+00  4.0000E-02  3.0000E-03
+  5.0000E+08  0.0000E+00  1.9000E-02  2.0000E-03
+#---------------------------------------------------

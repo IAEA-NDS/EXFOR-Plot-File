@@ -1,0 +1,22 @@
+# EXFOR #         : O0281.011.1
+# EXFOR Ver.      : 20151116
+# TRANS #         : O056
+# Author          : B.Dittrich et al.
+# Reference       : Nucl.Instrum.Meth.B 52 (1990) 588
+# DOI             : 10.1016/0168-583X(90)90481-9
+# Quantity        : natFe(p,x)26gAl independent production cross section
+# REACTION        : 26-FE-0(P,X)13-AL-26-G,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodAl26g_Dittrich_1990_o0281.011.1
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   5.4000E-04
+# ymax            :   5.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  5.4000E-04  4.0000E-05
+#---------------------------------------------------

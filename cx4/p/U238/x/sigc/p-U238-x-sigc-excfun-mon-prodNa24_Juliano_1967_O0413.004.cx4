@@ -1,0 +1,22 @@
+# EXFOR #         : O0413.004  
+# EXFOR Ver.      : 20220107
+# TRANS #         : O086
+# Author          : A.Juliano et al.
+# Reference       : J.Inorg.Nucl.Chem. 29 (1967) 2859
+# DOI             : 10.1016/0022-1902(67)80116-7
+# Quantity        : 238U(p,x)24Na cumulative production cross section
+# REACTION        : 92-U-238(P,X)11-NA-24,CUM,SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodNa24_Juliano_1967_o0413.004
+#
+# npts            : 1           
+# xmin            :   1.1600E+10
+# xmax            :   1.1600E+10
+# ymin            :   1.2500E-02
+# ymax            :   1.2500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1600E+10  0.0000E+00  1.2500E-02  2.5000E-03
+#---------------------------------------------------

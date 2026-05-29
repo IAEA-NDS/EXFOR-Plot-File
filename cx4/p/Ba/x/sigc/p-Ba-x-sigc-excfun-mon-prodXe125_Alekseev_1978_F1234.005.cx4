@@ -1,0 +1,22 @@
+# EXFOR #         : F1234.005  
+# EXFOR Ver.      : 20140919
+# TRANS #         : F056
+# Author          : E.G.Alekseev et al.
+# Reference       : Radioch.Radioan.Let. 36 No.2-3 (1978) 125
+# DOI             : N/A
+# Quantity        : natBa(p,x)125Xe cumulative production cross section
+# REACTION        : 56-BA-0(P,X)54-XE-125,CUM,SIG
+# File ID         : p-Ba-x-sigc-excfun-mon-prodXe125_Alekseev_1978_f1234.005
+#
+# npts            : 1           
+# xmin            :   1.0000E+09
+# xmax            :   1.0000E+09
+# ymin            :   2.2000E-02
+# ymax            :   2.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  2.2000E-02  3.0000E-03
+#---------------------------------------------------

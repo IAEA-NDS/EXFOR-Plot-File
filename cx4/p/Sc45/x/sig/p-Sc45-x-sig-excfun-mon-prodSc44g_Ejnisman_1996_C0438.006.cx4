@@ -1,0 +1,25 @@
+# EXFOR #         : C0438.006  
+# EXFOR Ver.      : 20211005
+# TRANS #         : C206
+# Author          : R.Ejnisman et al.
+# Reference       : Phys.Rev.C 54 (1996) 2047
+# DOI             : 10.1103/PhysRevC.54.2047
+# Quantity        : 45Sc(p,x)44gSc independent production cross section
+# REACTION        : 21-SC-45(P,X)21-SC-44-G,,SIG
+# File ID         : p-Sc45-x-sig-excfun-mon-prodSc44g_Ejnisman_1996_c0438.006
+#
+# npts            : 4           
+# xmin            :   1.6000E+07
+# xmax            :   2.2000E+07
+# ymin            :   9.0000E-03
+# ymax            :   3.1100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+07  7.0000E+05  9.0000E-03  1.0000E-03
+  1.8000E+07  7.0000E+05  9.0000E-02  1.1000E-02
+  2.0000E+07  7.0000E+05  1.9000E-01  2.3000E-02
+  2.2000E+07  7.0000E+05  3.1100E-01  3.8000E-02
+#---------------------------------------------------

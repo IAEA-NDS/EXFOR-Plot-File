@@ -1,0 +1,22 @@
+# EXFOR #         : C0836.015  
+# EXFOR Ver.      : 20230129
+# TRANS #         : C223
+# Author          : L.A.Currie et al.
+# Reference       : Phys.Rev. 101 (1956) 1557
+# DOI             : 10.1103/PhysRev.101.1557
+# Quantity        : natAg(p,t+x) cross section
+# REACTION        : 47-AG-0(P,X)1-H-3,,SIG
+# File ID         : p-Ag-xt-sig-excfun-mon-Currie_1956_c0836.015
+#
+# npts            : 1           
+# xmin            :   2.0500E+09
+# xmax            :   2.0500E+09
+# ymin            :   1.6000E-01
+# ymax            :   1.6000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0500E+09  0.0000E+00  1.6000E-01  3.2000E-02
+#---------------------------------------------------

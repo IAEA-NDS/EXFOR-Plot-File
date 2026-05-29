@@ -1,0 +1,26 @@
+# EXFOR #         : A0091.002  
+# EXFOR Ver.      : 20080627
+# TRANS #         : A063
+# Author          : M.Adilbish et al.
+# Reference       : Report JINR-6-80-517, 1980
+# DOI             : N/A
+# Quantity        : 209Bi(p,x) cumulative production cross section
+# REACTION        : 83-BI-209(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-Bi209-x-sigc-nucdis-mon-einc6.600E+08_Adilbish_1980_a0091.002
+#
+# Einc (eV)       :   6.6000E+08
+#
+# npts            : 3           
+# xmin            : 81200.9     
+# xmax            : 81202.9     
+# ymin            :   6.2000E-03
+# ymax            :   1.2000E-01
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     81200.9  1.2000E-01  1.9000E-02
+     81201.9  6.2000E-02  9.0000E-03
+     81202.9  6.2000E-03  1.7000E-03
+#---------------------------------------------------

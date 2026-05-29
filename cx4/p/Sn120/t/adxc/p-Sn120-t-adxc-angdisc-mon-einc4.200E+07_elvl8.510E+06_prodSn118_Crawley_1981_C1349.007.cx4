@@ -1,0 +1,26 @@
+# EXFOR #         : C1349.007  
+# EXFOR Ver.      : 20120626
+# TRANS #         : C120
+# Author          : G.M.Crawley et al.
+# Reference       : Phys.Rev.C 23 (1981) 589
+# DOI             : 10.1103/PhysRevC.23.589
+# Quantity        : 120Sn(p,t)118Sn partial angular differential cross section
+# REACTION        : 50-SN-120(P,T)50-SN-118,PAR,DA
+# File ID         : p-Sn120-t-adxc-angdisc-mon-einc4.200E+07_elvl8.510E+06_prodSn118_Crawley_1981_c1349.007
+#
+# Einc (eV)       :   4.2000E+07
+# Elvl (eV)       :   8.5100E+06
+# dElvl (eV)      :   4.0000E+04
+#
+# npts            : 1           
+# xmin            :   16.0000000
+# xmax            :   16.0000000
+# ymin            :   3.4700E-04
+# ymax            :   3.4700E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.0000000   0.0000000  3.4700E-04  3.0500E-05
+#---------------------------------------------------

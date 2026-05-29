@@ -1,0 +1,26 @@
+# EXFOR #         : E2490.018  
+# EXFOR Ver.      : 20160421
+# TRANS #         : E101
+# Author          : Y.Iwamoto et al.
+# Reference       : Nucl.Instrum.Meth.A 804 (2015) 50
+# DOI             : 10.1016/j.nima.2015.09.045
+# Quantity        : 7Li(p,n+x) angular differential cross section
+# REACTION        : 3-LI-7(P,X)0-NN-1,,DA
+# File ID         : p-Li7-xn-adxl-angdisl-mon-einc8.000E+07_Iwamoto_2015_e2490.018
+#
+# Einc (eV)       :   8.0000E+07
+#
+# npts            : 3           
+# xmin            :    0.0000000
+# xmax            :   25.0000000
+# ymin            :   2.5900E-03
+# ymax            :   3.1710E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  3.1710E-02  6.3400E-03
+  15.0000000   0.0000000  1.0300E-02  2.0600E-03
+  25.0000000   0.0000000  2.5900E-03  5.2000E-04
+#---------------------------------------------------

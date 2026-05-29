@@ -1,0 +1,24 @@
+# EXFOR #         : O1099.118  
+# EXFOR Ver.      : 20220120
+# TRANS #         : O087
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 181Ta(p,x)153Gd independent production cross section
+# REACTION        : 73-TA-181(P,X)64-GD-153,,SIG
+# File ID         : p-Ta181-x-sig-excfun-mon-prodGd153_Michel_2002_o1099.118
+#
+# npts            : 3           
+# xmin            :   3.3700E+08
+# xmax            :   2.5800E+09
+# ymin            :   5.6200E-04
+# ymax            :   1.7700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3700E+08  2.0000E+06  5.7800E-04  2.3000E-04
+  9.8600E+08  1.0000E+06  1.7700E-03  1.0600E-03
+  2.5800E+09  1.0000E+06  5.6200E-04  6.6200E-04
+#---------------------------------------------------

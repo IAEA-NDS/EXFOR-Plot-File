@@ -1,0 +1,25 @@
+# EXFOR #         : E1615.088  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : K.Miura et al.
+# Reference       : Nucl.Phys.A 436 No.2 (1985) 221
+# DOI             : 10.1016/0375-9474(85)90197-6
+# Quantity        : 209Bi(p,t)207Bi partial angular differential cross section
+# REACTION        : 83-BI-209(P,T)83-BI-207,PAR,DA
+# File ID         : p-Bi209-t-adxc-angdisc-mon-einc5.190E+07_elvl0.000E+00_prodBi207_Miura_1985_e1615.088
+#
+# Einc (eV)       :   5.1900E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   12.6000000
+# xmax            :   12.6000000
+# ymin            :   9.7000E-05
+# ymax            :   9.7000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.6000000   0.0000000  9.7000E-05  4.0000E-06
+#---------------------------------------------------

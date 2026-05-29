@@ -1,0 +1,22 @@
+# EXFOR #         : C0274.019  
+# EXFOR Ver.      : 20230918
+# TRANS #         : C233
+# Author          : P.J.Karol et al.
+# Reference       : Phys.Rev. 166 (1968) 1089
+# DOI             : 10.1103/PhysRev.166.1089
+# Quantity        : 50Cr(p,x)48V cumulative production cross section
+# REACTION        : 24-CR-50(P,X)23-V-48,(CUM),SIG
+# File ID         : p-Cr50-x-sigc-excfun-mon-prodV48_Karol_1968_c0274.019
+#
+# npts            : 1           
+# xmin            :   3.7000E+08
+# xmax            :   3.7000E+08
+# ymin            :   2.9600E-02
+# ymax            :   2.9600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+08  0.0000E+00  2.9600E-02  1.5000E-03
+#---------------------------------------------------

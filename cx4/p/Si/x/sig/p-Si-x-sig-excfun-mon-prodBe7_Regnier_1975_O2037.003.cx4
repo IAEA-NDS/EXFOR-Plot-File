@@ -1,0 +1,23 @@
+# EXFOR #         : O2037.003  
+# EXFOR Ver.      : 20120808
+# TRANS #         : O049
+# Author          : S.Regnier et al.
+# Reference       : Compt.Rend.B 280 (1975) 513
+# DOI             : N/A
+# Quantity        : natSi(p,x)7Be independent production cross section
+# REACTION        : 14-SI-0(P,X)4-BE-7,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodBe7_Regnier_1975_o2037.003
+#
+# npts            : 2           
+# xmin            :   6.0000E+08
+# xmax            :   2.4000E+10
+# ymin            :   5.8000E-03
+# ymax            :   1.0500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  5.8000E-03  2.0000E-03
+  2.4000E+10  0.0000E+00  1.0500E-02  3.0000E-03
+#---------------------------------------------------

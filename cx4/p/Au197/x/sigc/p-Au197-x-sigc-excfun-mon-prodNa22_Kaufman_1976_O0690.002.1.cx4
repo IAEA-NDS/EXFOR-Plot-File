@@ -1,0 +1,22 @@
+# EXFOR #         : O0690.002.1
+# EXFOR Ver.      : 20230111
+# TRANS #         : O091
+# Author          : S.B.Kaufman et al.
+# Reference       : Phys.Rev.C 14 (1976) 1121
+# DOI             : 10.1103/PhysRevC.14.1121
+# Quantity        : 197Au(p,x)22Na cumulative production cross section
+# REACTION        : 79-AU-197(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Au197-x-sigc-excfun-mon-prodNa22_Kaufman_1976_o0690.002.1
+#
+# npts            : 1           
+# xmin            :   1.1500E+10
+# xmax            :   1.1500E+10
+# ymin            :   2.5200E-03
+# ymax            :   2.5200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+10  0.0000E+00  2.5200E-03  1.5000E-04
+#---------------------------------------------------

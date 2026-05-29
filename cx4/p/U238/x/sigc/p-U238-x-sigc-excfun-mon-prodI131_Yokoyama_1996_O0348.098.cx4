@@ -1,0 +1,22 @@
+# EXFOR #         : O0348.098  
+# EXFOR Ver.      : 20151202
+# TRANS #         : O056
+# Author          : A.Yokoyama et al.
+# Reference       : Z.Phys.A 356 (1996) 55
+# DOI             : 10.1007/s002180050148
+# Quantity        : 238U(p,f)131I cumulative production cross section
+# REACTION        : 92-U-238(P,F)53-I-131,CUM,SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodI131_Yokoyama_1996_o0348.098
+#
+# npts            : 1           
+# xmin            :   8.6000E+06
+# xmax            :   8.6000E+06
+# ymin            :   4.6000E-04
+# ymax            :   4.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.6000E+06  0.0000E+00  4.6000E-04  2.2000E-05
+#---------------------------------------------------

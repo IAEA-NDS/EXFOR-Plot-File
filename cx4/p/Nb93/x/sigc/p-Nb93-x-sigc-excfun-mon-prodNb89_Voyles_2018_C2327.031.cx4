@@ -1,0 +1,23 @@
+# EXFOR #         : C2327.031  
+# EXFOR Ver.      : 20241014
+# TRANS #         : C241
+# Author          : A.S.Voyles et al.
+# Reference       : Nucl.Instrum.Meth.B 429 (2018) 53
+# DOI             : 10.1016/j.nimb.2018.05.028
+# Quantity        : 93Nb(p,x)89Nb cumulative production cross section
+# REACTION        : 41-NB-93(P,X)41-NB-89,(CUM),SIG
+# File ID         : p-Nb93-x-sigc-excfun-mon-prodNb89_Voyles_2018_c2327.031
+#
+# npts            : 2           
+# xmin            :   6.1070E+07
+# xmax            :   6.9700E+07
+# ymin            :   1.7900E-01
+# ymax            :   2.1440E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.1070E+07  0.0000E+00  2.1440E-01  9.8000E-03
+  6.9700E+07  0.0000E+00  1.7900E-01  1.4000E-02
+#---------------------------------------------------

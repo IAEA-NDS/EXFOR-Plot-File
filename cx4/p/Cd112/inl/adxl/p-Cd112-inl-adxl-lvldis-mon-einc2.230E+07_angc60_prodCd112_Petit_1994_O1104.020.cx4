@@ -1,0 +1,25 @@
+# EXFOR #         : O1104.020  
+# EXFOR Ver.      : 20040328
+# TRANS #         : 0000
+# Author          : R.M.A.L.Petit et al.
+# Reference       : J.Phys.G 20 (1994) 1955
+# DOI             : 10.1088/0954-3899/20/12/011
+# Quantity        : 112Cd(p,inl)112Cd partial angular differential cross section
+# REACTION        : 48-CD-112(P,INL)48-CD-112,PAR,DA
+# File ID         : p-Cd112-inl-adxl-lvldis-mon-einc2.230E+07_angc60_prodCd112_Petit_1994_o1104.020
+#
+# Einc (eV)       :   2.2300E+07
+# theta,cm (deg)  :   60.5000000
+#
+# npts            : 1           
+# xmin            :   1.3120E+06
+# xmax            :   1.3120E+06
+# ymin            :   2.2700E-04
+# ymax            :   2.2700E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.3120E+06  0.0000E+00  2.2700E-04  0.0000E+00
+#---------------------------------------------------

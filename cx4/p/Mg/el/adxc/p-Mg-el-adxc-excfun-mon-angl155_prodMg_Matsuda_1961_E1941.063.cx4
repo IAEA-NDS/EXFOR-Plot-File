@@ -1,0 +1,29 @@
+# EXFOR #         : E1941.063  
+# EXFOR Ver.      : 20060906
+# TRANS #         : E038
+# Author          : K.Matsuda et al.
+# Reference       : Nucl.Phys. 27 No.1 (1961) 1
+# DOI             : N/A
+# Quantity        : natMg(p,el)natMg angular differential cross section
+# REACTION        : 12-MG-0(P,EL)12-MG-0,,DA
+# File ID         : p-Mg-el-adxc-excfun-mon-angl155_prodMg_Matsuda_1961_e1941.063
+#
+# theta,lab (deg) :  155.0000000
+#
+# npts            : 6           
+# xmin            :   7.8300E+06
+# xmax            :   8.4300E+06
+# ymin            :   1.2100E-02
+# ymax            :   2.7500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.8300E+06  1.0000E+05  2.5200E-02  7.5600E-04
+  7.9100E+06  1.0000E+05  2.3700E-02  7.1100E-04
+  8.0800E+06  1.0000E+05  2.7500E-02  8.2500E-04
+  8.1800E+06  1.0000E+05  1.4000E-02  4.2000E-04
+  8.3300E+06  1.0000E+05  1.2400E-02  3.7200E-04
+  8.4300E+06  1.0000E+05  1.2100E-02  3.6300E-04
+#---------------------------------------------------

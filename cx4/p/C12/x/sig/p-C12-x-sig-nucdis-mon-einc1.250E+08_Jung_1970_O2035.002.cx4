@@ -1,0 +1,27 @@
+# EXFOR #         : O2035.002  
+# EXFOR Ver.      : 20120904
+# TRANS #         : O049
+# Author          : M.Jung et al.
+# Reference       : Phys.Rev.C 1 (1970) 435
+# DOI             : 10.1103/PhysRevC.1.435
+# Quantity        : 12C(p,x) independent production cross section
+# REACTION        : 6-C-12(P,X)ELEM/MASS,,SIG
+# File ID         : p-C12-x-sig-nucdis-mon-einc1.250E+08_Jung_1970_o2035.002
+#
+# Einc (eV)       :   1.2500E+08
+#
+# npts            : 4           
+# xmin            : 3006.9      
+# xmax            : 4009.9      
+# ymin            :   2.5000E-03
+# ymax            :   8.3000E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      3006.9  8.3000E-03  2.1000E-03
+      3007.9  6.5000E-03  1.9000E-03
+      4007.9  4.0000E-03  1.4000E-03
+      4009.9  2.5000E-03  1.0000E-03
+#---------------------------------------------------

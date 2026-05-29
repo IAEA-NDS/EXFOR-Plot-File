@@ -1,0 +1,26 @@
+# EXFOR #         : C2413.005  
+# EXFOR Ver.      : 20191030
+# TRANS #         : C188
+# Author          : E.Lamere et al.
+# Reference       : Phys.Rev.C 100 (2019) 034614
+# DOI             : 10.1103/PhysRevC.100.034614
+# Quantity        : 92Mo(p,x)91mNb cumulative production cross section
+# REACTION        : 42-MO-92(P,X)41-NB-91-M,CUM,SIG
+# File ID         : p-Mo92-x-sigc-excfun-mon-prodNb91m_Lamere_2019_c2413.005
+#
+# npts            : 5           
+# xmin            :   1.3030E+07
+# xmax            :   1.8070E+07
+# ymin            :   8.2000E-04
+# ymax            :   6.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3030E+07  6.0000E+04  8.2000E-04  2.2000E-04
+  1.5070E+07  2.0000E+04  1.0400E-02  2.9000E-03
+  1.6070E+07  2.0000E+04  2.0000E-02  6.0000E-03
+  1.7050E+07  4.0000E+04  4.0000E-02  1.0000E-02
+  1.8070E+07  2.0000E+04  6.7000E-02  1.9000E-02
+#---------------------------------------------------

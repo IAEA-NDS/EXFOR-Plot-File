@@ -1,0 +1,24 @@
+# EXFOR #         : O0277.028  
+# EXFOR Ver.      : 20221220
+# TRANS #         : O092
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : 27Al(p,x)26gAl independent production cross section
+# REACTION        : 13-AL-27(P,X)13-AL-26-G,,SIG
+# File ID         : p-Al27-x-sig-excfun-mon-prodAl26g_Michel_1995_o0277.028
+#
+# npts            : 3           
+# xmin            :   8.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   1.9100E-02
+# ymax            :   2.2600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  2.2600E-02  2.2000E-03
+  1.2000E+09  0.0000E+00  2.0800E-02  2.1000E-03
+  2.6000E+09  0.0000E+00  1.9100E-02  1.9000E-03
+#---------------------------------------------------

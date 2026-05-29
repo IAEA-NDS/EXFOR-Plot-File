@@ -1,0 +1,25 @@
+# EXFOR #         : O1299.002  
+# EXFOR Ver.      : 20070515
+# TRANS #         : O028
+# Author          : X.Zhang et al.
+# Reference       : J.Rad.Nucl.Chem. 266 (2005) 149
+# DOI             : 10.1007/s10967-005-0884-5
+# Quantity        : natV(p,el)natV angular differential cross section
+# REACTION        : 23-V-0(P,EL)23-V-0,,DA
+# File ID         : p-V-el-adxl-angdisl-mon-einc2.598E+06_prodV_Zhang_2005_o1299.002
+#
+# Einc (eV)       :   2.5980E+06
+#
+# npts            : 2           
+# xmin            :  160.0000000
+# xmax            :  170.0000000
+# ymin            :   1.1530E-01
+# ymax            :   1.1910E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 160.0000000   0.0000000  1.1530E-01  3.4590E-03
+ 170.0000000   0.0000000  1.1910E-01  3.5730E-03
+#---------------------------------------------------

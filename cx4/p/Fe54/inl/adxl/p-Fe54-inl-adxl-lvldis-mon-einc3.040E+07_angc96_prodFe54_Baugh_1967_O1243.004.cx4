@@ -1,0 +1,27 @@
+# EXFOR #         : O1243.004  
+# EXFOR Ver.      : 20050228
+# TRANS #         : O023
+# Author          : D.J.Baugh et al.
+# Reference       : Nucl.Phys.A 99 (1967) 203
+# DOI             : 10.1016/0375-9474(67)90336-3
+# Quantity        : 54Fe(p,inl)54Fe partial angular differential cross section
+# REACTION        : 26-FE-54(P,INL)26-FE-54,PAR,DA
+# File ID         : p-Fe54-inl-adxl-lvldis-mon-einc3.040E+07_angc96_prodFe54_Baugh_1967_o1243.004
+#
+# Einc (eV)       :   3.0400E+07
+# theta,cm (deg)  :   96.1000000
+#
+# npts            : 3           
+# xmin            :   1.4100E+06
+# xmax            :   6.4000E+06
+# ymin            :   9.6000E-05
+# ymax            :   5.4000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4100E+06  0.0000E+00  5.4000E-04  6.0000E-05
+  4.8000E+06  0.0000E+00  9.6000E-05  1.1000E-05
+  6.4000E+06  0.0000E+00  2.0800E-04  1.4000E-05
+#---------------------------------------------------

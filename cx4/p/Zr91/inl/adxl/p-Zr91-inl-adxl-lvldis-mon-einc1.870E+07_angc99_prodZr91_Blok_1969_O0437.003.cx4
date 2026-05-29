@@ -1,0 +1,27 @@
+# EXFOR #         : O0437.003  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : H.P.Blok et al.
+# Reference       : Nucl.Phys.A 127 (1969) 188
+# DOI             : 10.1016/0375-9474(69)90778-7
+# Quantity        : 91Zr(p,inl)91Zr partial angular differential cross section
+# REACTION        : 40-ZR-91(P,INL)40-ZR-91,PAR,DA
+# File ID         : p-Zr91-inl-adxl-lvldis-mon-einc1.870E+07_angc99_prodZr91_Blok_1969_o0437.003
+#
+# Einc (eV)       :   1.8700E+07
+# dEinc (eV)      :   1.0000E+05
+# theta,cm (deg)  :   99.2000000
+# dtheta,cm (deg) :    0.7000000
+#
+# npts            : 1           
+# xmin            :   3.1000E+06
+# xmax            :   3.1000E+06
+# ymin            :   3.1500E-05
+# ymax            :   3.1500E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.1000E+06  0.0000E+00  3.1500E-05  1.8900E-06
+#---------------------------------------------------

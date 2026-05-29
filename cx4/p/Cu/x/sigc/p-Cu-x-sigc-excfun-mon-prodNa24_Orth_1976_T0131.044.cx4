@@ -1,0 +1,22 @@
+# EXFOR #         : T0131.044  
+# EXFOR Ver.      : 20230918
+# TRANS #         : C233
+# Author          : C.J.Orth et al.
+# Reference       : J.Inorg.Nucl.Chem. 38 (1976) 13
+# DOI             : 10.1016/0022-1902(76)80040-1
+# Quantity        : natCu(p,x)24Na cumulative production cross section
+# REACTION        : 29-CU-0(P,X)11-NA-24,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodNa24_Orth_1976_t0131.044
+#
+# npts            : 1           
+# xmin            :   5.9000E+08
+# xmax            :   5.9000E+08
+# ymin            :   2.5900E-04
+# ymax            :   2.5900E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  2.5900E-04  1.8000E-05
+#---------------------------------------------------

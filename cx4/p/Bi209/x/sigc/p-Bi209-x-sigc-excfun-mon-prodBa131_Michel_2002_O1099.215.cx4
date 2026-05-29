@@ -1,0 +1,26 @@
+# EXFOR #         : O1099.215  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)131Ba cumulative production cross section
+# REACTION        : 83-BI-209(P,X)56-BA-131,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodBa131_Michel_2002_o1099.215
+#
+# npts            : 5           
+# xmin            :   9.9800E+08
+# xmax            :   2.5980E+09
+# ymin            :   7.5730E-04
+# ymax            :   6.0370E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9800E+08  6.9000E+05  7.5730E-04  6.9010E-05
+  1.1700E+09  1.4500E+06  9.4440E-04  1.2260E-04
+  1.3980E+09  6.8590E+05  1.8810E-03  1.7220E-04
+  1.5700E+09  1.4700E+06  2.4510E-03  2.1690E-04
+  2.5980E+09  7.2510E+05  6.0370E-03  3.9830E-04
+#---------------------------------------------------

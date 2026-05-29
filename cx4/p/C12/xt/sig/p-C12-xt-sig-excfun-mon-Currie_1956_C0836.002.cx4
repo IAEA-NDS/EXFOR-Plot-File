@@ -1,0 +1,22 @@
+# EXFOR #         : C0836.002  
+# EXFOR Ver.      : 20230129
+# TRANS #         : C223
+# Author          : L.A.Currie et al.
+# Reference       : Phys.Rev. 101 (1956) 1557
+# DOI             : 10.1103/PhysRev.101.1557
+# Quantity        : 12C(p,t+x) cross section
+# REACTION        : 6-C-12(P,X)1-H-3,,SIG
+# File ID         : p-C12-xt-sig-excfun-mon-Currie_1956_c0836.002
+#
+# npts            : 1           
+# xmin            :   4.5000E+08
+# xmax            :   4.5000E+08
+# ymin            :   7.3000E-03
+# ymax            :   7.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+08  0.0000E+00  7.3000E-03  5.0000E-04
+#---------------------------------------------------

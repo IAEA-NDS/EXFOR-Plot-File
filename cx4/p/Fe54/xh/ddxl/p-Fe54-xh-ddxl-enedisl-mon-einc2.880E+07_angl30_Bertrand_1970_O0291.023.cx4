@@ -1,0 +1,30 @@
+# EXFOR #         : O0291.023  
+# EXFOR Ver.      : 20151028
+# TRANS #         : O056
+# Author          : F.E.Bertrand et al.
+# Reference       : Report ORNL-4469, 1970
+# DOI             : N/A
+# Quantity        : 54Fe(p,h+x) double differential cross section
+# REACTION        : 26-FE-54(P,X)2-HE-3,,DA/DE
+# File ID         : p-Fe54-xh-ddxl-enedisl-mon-einc2.880E+07_angl30_Bertrand_1970_o0291.023
+#
+# Einc (eV)       :   2.8800E+07
+# dEinc (eV)      :   1.0000E+05
+# theta,lab (deg) :   30.0000000
+#
+# npts            : 5           
+# xmin            :   1.3040E+07
+# xmax            :   1.6880E+07
+# ymin            :   2.0000E-12
+# ymax            :   3.0000E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.3040E+07  0.0000E+00  3.0000E-11  4.0000E-12
+  1.4050E+07  0.0000E+00  2.7000E-11  4.0000E-12
+  1.5060E+07  0.0000E+00  2.8000E-11  4.0000E-12
+  1.6070E+07  0.0000E+00  2.0000E-12  1.0000E-12
+  1.6880E+07  0.0000E+00  2.0000E-12  1.0000E-12
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : A0927.034  
+# EXFOR Ver.      : 20250729
+# TRANS #         : A122
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.Rev.C 84 (2011) 064612
+# DOI             : 10.1103/PhysRevC.84.064612
+# Quantity        : 208Pb(p,x)193mHg independent production cross section
+# REACTION        : 82-PB-208(P,X)80-HG-193-M,,SIG
+# File ID         : p-Pb208-x-sig-excfun-mon-prodHg193m_Titarenko_2011_a0927.034
+#
+# npts            : 1           
+# xmin            :   5.0000E+08
+# xmax            :   5.0000E+08
+# ymin            :   1.6300E-02
+# ymax            :   1.6300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+08  0.0000E+00  1.6300E-02  5.7000E-03
+#---------------------------------------------------

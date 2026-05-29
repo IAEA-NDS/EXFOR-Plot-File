@@ -1,0 +1,31 @@
+# EXFOR #         : C1824.024  
+# EXFOR Ver.      : 20110118
+# TRANS #         : C105
+# Author          : L.E.Bailey
+# Reference       : Report UCRL-3334, 1956
+# DOI             : N/A
+# Quantity        : 197Au(p,h+x) double differential cross section
+# REACTION        : 79-AU-197(P,X)2-HE-3,,DA/DE
+# File ID         : p-Au197-xh-ddxl-enedisl-mon-einc1.900E+08_angl32_Bailey_1956_c1824.024
+#
+# Einc (eV)       :   1.9000E+08
+# theta,lab (deg) :   32.5000000
+# dtheta,lab (deg):   32.5000000
+#
+# npts            : 6           
+# xmin            :   7.8000E+06
+# xmax            :   4.7000E+07
+# ymin            :   1.5000E-11
+# ymax            :   5.8000E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  7.8000E+06  0.0000E+00  1.5000E-11  0.0000E+00
+  2.5000E+07  0.0000E+00  2.8000E-11  0.0000E+00
+  3.0000E+07  0.0000E+00  4.3000E-11  0.0000E+00
+  3.5000E+07  0.0000E+00  2.9000E-11  0.0000E+00
+  4.0000E+07  0.0000E+00  1.6000E-11  0.0000E+00
+  4.7000E+07  0.0000E+00  5.8000E-11  0.0000E+00
+#---------------------------------------------------

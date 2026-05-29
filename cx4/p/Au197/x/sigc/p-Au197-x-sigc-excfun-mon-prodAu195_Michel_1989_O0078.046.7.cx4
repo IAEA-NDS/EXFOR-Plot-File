@@ -1,0 +1,22 @@
+# EXFOR #         : O0078.046.7
+# EXFOR Ver.      : 20220201
+# TRANS #         : O088
+# Author          : R.Michel et al.
+# Reference       : Analyst (London) 114 (1989) 287
+# DOI             : N/A
+# Quantity        : 197Au(p,x)195Au cumulative production cross section
+# REACTION        : 79-AU-197(P,X)79-AU-195,CUM,SIG
+# File ID         : p-Au197-x-sigc-excfun-mon-prodAu195_Michel_1989_o0078.046.7
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   6.9400E-02
+# ymax            :   6.9400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  6.9400E-02  3.1000E-03
+#---------------------------------------------------

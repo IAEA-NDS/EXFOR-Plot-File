@@ -1,0 +1,24 @@
+# EXFOR #         : D0512.028  
+# EXFOR Ver.      : 20090609
+# TRANS #         : D068
+# Author          : A.Budzanowski et al.
+# Reference       : Phys.Rev.C 78 (2008) 024603
+# DOI             : 10.1103/PhysRevC.78.024603
+# Quantity        : 197Au(p,t+x) cross section
+# REACTION        : 79-AU-197(P,X)1-H-3,,SIG
+# File ID         : p-Au197-xt-sig-excfun-mon-Budzanowski_2008_d0512.028
+#
+# npts            : 3           
+# xmin            :   1.2000E+09
+# xmax            :   2.5000E+09
+# ymin            :   8.7000E-02
+# ymax            :   3.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  8.7000E-02  0.0000E+00
+  1.9000E+09  0.0000E+00  1.7000E-01  0.0000E+00
+  2.5000E+09  0.0000E+00  3.0000E-01  0.0000E+00
+#---------------------------------------------------

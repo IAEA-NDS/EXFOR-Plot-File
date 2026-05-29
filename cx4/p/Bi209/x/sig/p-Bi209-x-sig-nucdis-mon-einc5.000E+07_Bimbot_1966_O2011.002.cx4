@@ -1,0 +1,26 @@
+# EXFOR #         : O2011.002  
+# EXFOR Ver.      : 20120814
+# TRANS #         : O049
+# Author          : R.Bimbot et al.
+# Reference       : J.Phys.(Paris) 27 (1966) 385
+# DOI             : 10.1051/jphys:01966002707-8038500
+# Quantity        : 209Bi(p,x) independent production cross section
+# REACTION        : 83-BI-209(P,X)ELEM/MASS,,SIG
+# File ID         : p-Bi209-x-sig-nucdis-mon-einc5.000E+07_Bimbot_1966_o2011.002
+#
+# Einc (eV)       :   5.0000E+07
+#
+# npts            : 3           
+# xmin            : 82202.9     
+# xmax            : 82204.9     
+# ymin            :   1.4000E-03
+# ymax            :   1.1500E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     82204.9  5.5000E-03  1.5000E-03
+     82203.9  1.1500E-02  1.7000E-03
+     82202.9  1.4000E-03  5.0000E-04
+#---------------------------------------------------

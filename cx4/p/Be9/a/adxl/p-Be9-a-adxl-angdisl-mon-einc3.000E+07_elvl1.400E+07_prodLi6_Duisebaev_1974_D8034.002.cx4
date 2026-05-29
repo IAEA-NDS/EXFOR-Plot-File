@@ -1,0 +1,25 @@
+# EXFOR #         : D8034.002  
+# EXFOR Ver.      : 20210415
+# TRANS #         : D130
+# Author          : A.D.Duisebaev et al.
+# Reference       : JETP Lett. 19 (1974) 280
+# DOI             : N/A
+# Quantity        : 9Be(p,a)6Li partial angular differential cross section
+# REACTION        : 4-BE-9(P,A)3-LI-6,PAR,DA
+# File ID         : p-Be9-a-adxl-angdisl-mon-einc3.000E+07_elvl1.400E+07_prodLi6_Duisebaev_1974_d8034.002
+#
+# Einc (eV)       :   3.0000E+07
+# Elvl (eV)       :   1.4000E+07
+#
+# npts            : 1           
+# xmin            :   30.0000000
+# xmax            :   30.0000000
+# ymin            :   2.0000E-04
+# ymax            :   2.0000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.1000000  2.0000E-04  6.0000E-05
+#---------------------------------------------------

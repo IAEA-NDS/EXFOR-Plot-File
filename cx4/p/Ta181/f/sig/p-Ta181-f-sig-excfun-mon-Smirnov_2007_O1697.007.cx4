@@ -1,0 +1,26 @@
+# EXFOR #         : O1697.007  
+# EXFOR Ver.      : 20081115
+# TRANS #         : O037
+# Author          : A.N.Smirnov et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 2 page 1095
+# DOI             : N/A
+# Quantity        : 181Ta(p,f) cross section
+# REACTION        : 73-TA-181(P,F),,SIG
+# File ID         : p-Ta181-f-sig-excfun-mon-Smirnov_2007_o1697.007
+#
+# npts            : 5           
+# xmin            :   6.4000E+07
+# xmax            :   1.6960E+08
+# ymin            :   3.9000E-05
+# ymax            :   1.9100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.4000E+07  1.0000E+06  3.9000E-05  1.7000E-05
+  9.3200E+07  1.0000E+06  3.6000E-04  7.0000E-05
+  1.3050E+08  1.0000E+06  9.4000E-04  1.8000E-04
+  1.6600E+08  1.0000E+06  1.5300E-03  2.3000E-04
+  1.6960E+08  1.0000E+06  1.9100E-03  2.8000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : D5162.010  
+# EXFOR Ver.      : 20190204
+# TRANS #         : D119
+# Author          : A.P.Klyucharev et al.
+# Reference       : J.Exp.Theor.Phys. 17 (1963) 1175
+# DOI             : N/A
+# Quantity        : 63Cu(p,a)60Ni angular differential cross section
+# REACTION        : 29-CU-63(P,A)28-NI-60,,DA
+# File ID         : p-Cu63-a-adxl-angdisl-mon-einc2.050E+07_prodNi60_Klyucharev_1963_d5162.010
+#
+# Einc (eV)       :   2.0500E+07
+#
+# npts            : 1           
+# xmin            :  120.0000000
+# xmax            :  120.0000000
+# ymin            :   5.3862E-03
+# ymax            :   5.3862E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 120.0000000   0.0000000  5.3862E-03  5.4560E-04
+#---------------------------------------------------

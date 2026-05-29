@@ -1,0 +1,27 @@
+# EXFOR #         : C0537.015  
+# EXFOR Ver.      : 19990723
+# TRANS #         : 0000
+# Author          : L.R.Greenwood et al.
+# Reference       : Progress report DOE-ER-0046-18 page 11, 1984
+# DOI             : N/A
+# Quantity        : natCu(p,x)48Sc cumulative production cross section
+# REACTION        : 29-CU-0(P,X)21-SC-48,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodSc48_Greenwood_1984_c0537.015
+#
+# npts            : 6           
+# xmin            :   1.5000E+08
+# xmax            :   4.5000E+08
+# ymin            :   2.7000E-05
+# ymax            :   3.8100E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  2.7000E-05  1.3500E-06
+  2.0000E+08  0.0000E+00  9.0000E-05  4.5000E-06
+  2.5000E+08  0.0000E+00  1.1600E-04  5.8000E-06
+  3.0000E+08  0.0000E+00  3.2100E-04  1.6050E-05
+  3.5000E+08  0.0000E+00  3.8100E-04  1.9050E-05
+  4.5000E+08  0.0000E+00  3.1800E-04  1.5900E-05
+#---------------------------------------------------

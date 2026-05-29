@@ -1,0 +1,22 @@
+# EXFOR #         : O0327.002  
+# EXFOR Ver.      : 20230423
+# TRANS #         : O096
+# Author          : E.Hageboe et al.
+# Reference       : J.Inorg.Nucl.Chem. 37 (1975) 1569
+# DOI             : 10.1016/0022-1902(75)80278-8
+# Quantity        : natPb(p,x)83Rb cumulative production cross section
+# REACTION        : 82-PB-0(P,X)37-RB-83,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodRb83_Hageboe_1975_o0327.002
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   2.0100E-03
+# ymax            :   2.0100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  2.0100E-03  1.7000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : O2001.023  
+# EXFOR Ver.      : 20120808
+# TRANS #         : O049
+# Author          : S.Kraemer et al.
+# Reference       : Inorg.Nucl.Chem.Lett 13 (1977) 205
+# DOI             : 10.1016/0020-1650(77)80095-0
+# Quantity        : 197Au(p,x)175Hf cumulative production cross section
+# REACTION        : 79-AU-197(P,X)72-HF-175,CUM,SIG
+# File ID         : p-Au197-x-sigc-excfun-mon-prodHf175_Kraemer_1977_o2001.023
+#
+# npts            : 3           
+# xmin            :   3.0000E+08
+# xmax            :   2.4000E+10
+# ymin            :   9.3900E-03
+# ymax            :   5.8630E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+08  0.0000E+00  9.3900E-03  1.4000E-04
+  4.5000E+08  0.0000E+00  5.8630E-02  3.0000E-03
+  2.4000E+10  0.0000E+00  1.9010E-02  3.8000E-03
+#---------------------------------------------------

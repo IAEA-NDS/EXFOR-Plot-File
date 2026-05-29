@@ -1,0 +1,30 @@
+# EXFOR #         : F0978.002  
+# EXFOR Ver.      : 20160423
+# TRANS #         : F062
+# Author          : E.A.Romanovskii et al.
+# Reference       : Izv.Ross.AN,Fiz. 41 (1977) 211
+# DOI             : N/A
+# Quantity        : 50Cr(p,el)50Cr angular differential cross section
+# REACTION        : 24-CR-50(P,EL)24-CR-50,,DA
+# File ID         : p-Cr50-el-adxl-excfun-mon-angl120_prodCr50_Romanovskii_1977_f0978.002
+#
+# theta,lab (deg) :  120.0000000
+#
+# npts            : 7           
+# xmin            :   5.9840E+06
+# xmax            :   6.2020E+06
+# ymin            :   2.9310E-02
+# ymax            :   4.0860E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.9840E+06  0.0000E+00  3.0520E-02  1.5260E-03
+  6.0210E+06  0.0000E+00  2.9310E-02  1.4655E-03
+  6.0590E+06  0.0000E+00  2.9660E-02  1.4830E-03
+  6.0950E+06  0.0000E+00  3.4140E-02  1.7070E-03
+  6.1310E+06  0.0000E+00  3.3450E-02  1.6725E-03
+  6.1660E+06  0.0000E+00  3.6210E-02  1.8105E-03
+  6.2020E+06  0.0000E+00  4.0860E-02  2.0430E-03
+#---------------------------------------------------

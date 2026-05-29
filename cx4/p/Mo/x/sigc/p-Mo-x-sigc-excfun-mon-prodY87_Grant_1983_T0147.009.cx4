@@ -1,0 +1,22 @@
+# EXFOR #         : T0147.009  
+# EXFOR Ver.      : 20010209
+# TRANS #         : 0000
+# Author          : P.M.Grant et al.
+# Reference       : Appl.Radiat.Isot. 34 (1983) 1631
+# DOI             : 10.1016/0020-708X(83)90012-1
+# Quantity        : natMo(p,x)87Y cumulative production cross section
+# REACTION        : 42-MO-0(P,X)39-Y-87,CUM,SIG
+# File ID         : p-Mo-x-sigc-excfun-mon-prodY87_Grant_1983_t0147.009
+#
+# npts            : 1           
+# xmin            :   8.0000E+08
+# xmax            :   8.0000E+08
+# ymin            :   5.9000E-02
+# ymax            :   5.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  5.9000E-02  1.0000E-03
+#---------------------------------------------------

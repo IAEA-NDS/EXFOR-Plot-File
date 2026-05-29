@@ -1,0 +1,29 @@
+# EXFOR #         : F0920.012  
+# EXFOR Ver.      : 20080829
+# TRANS #         : F034
+# Author          : G.A.Krivonosov et al.
+# Reference       : Yad.Fiz. 24 (1976) 461
+# DOI             : N/A
+# Quantity        : 59Co(p,inl)59Co partial angular differential cross section
+# REACTION        : 27-CO-59(P,INL)27-CO-59,PAR,DA
+# File ID         : p-Co59-inl-adxl-excfun-mon-angl56_elvl1.099E+06_prodCo59_Krivonosov_1976_f0920.012
+#
+# theta,lab (deg) :   56.0000000
+# Elvl (eV)       :   1.0990E+06
+#
+# npts            : 5           
+# xmin            :   2.5719E+06
+# xmax            :   2.9788E+06
+# ymin            :   1.3802E-06
+# ymax            :   1.1512E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.5719E+06  0.0000E+00  1.3802E-06  3.7599E-07
+  2.6680E+06  0.0000E+00  2.8566E-06  7.0851E-07
+  2.7719E+06  0.0000E+00  3.9421E-06  8.1126E-07
+  2.8802E+06  0.0000E+00  5.8108E-06  1.3939E-06
+  2.9788E+06  0.0000E+00  1.1512E-05  2.0626E-06
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : O0073.024  
+# EXFOR Ver.      : 20220103
+# TRANS #         : O086
+# Author          : G.V.S.Rayudu
+# Reference       : Can.J.Chem. 42 (1964) 1149
+# DOI             : 10.1139/v64-178
+# Quantity        : natO(p,x)7Be independent production cross section
+# REACTION        : 8-O-0(P,X)4-BE-7,,SIG
+# File ID         : p-O-x-sig-excfun-mon-prodBe7_Rayudu_1964_o0073.024
+#
+# npts            : 4           
+# xmin            :   1.3000E+08
+# xmax            :   3.9600E+08
+# ymin            :   4.8900E-03
+# ymax            :   7.8500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  1.3000E+07  7.8500E-03  1.9600E-03
+  2.0800E+08  2.0800E+07  4.8900E-03  1.2200E-03
+  2.9700E+08  1.4850E+07  6.5400E-03  1.6300E-03
+  3.9600E+08  1.9800E+07  7.4700E-03  1.8700E-03
+#---------------------------------------------------

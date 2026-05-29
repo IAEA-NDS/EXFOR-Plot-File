@@ -1,0 +1,24 @@
+# EXFOR #         : A1415.005  
+# EXFOR Ver.      : 20250922
+# TRANS #         : A127
+# Author          : F.Merchez et al.
+# Reference       : J.Phys.(Paris) 29 (1968) 969
+# DOI             : 10.1051/jphys:019680029011-12096900
+# Quantity        : 6Li(p,inl)6Li partial cross section
+# REACTION        : 3-LI-6(P,INL)3-LI-6,PAR,SIG
+# File ID         : p-Li6-inl-sig-lvldis-mon-einc1.400E+07_prodLi6_Merchez_1968_a1415.005
+#
+# Einc (eV)       :   1.4000E+07
+#
+# npts            : 1           
+# xmin            :   2.1800E+06
+# xmax            :   2.1800E+06
+# ymin            :   7.8000E-02
+# ymax            :   7.8000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1800E+06  0.0000E+00  7.8000E-02  3.0000E-03
+#---------------------------------------------------

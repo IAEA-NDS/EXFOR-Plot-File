@@ -1,0 +1,28 @@
+# EXFOR #         : C0537.011  
+# EXFOR Ver.      : 19990723
+# TRANS #         : 0000
+# Author          : L.R.Greenwood et al.
+# Reference       : Progress report DOE-ER-0046-18 page 11, 1984
+# DOI             : N/A
+# Quantity        : natCu(p,x)52Fe cumulative production cross section
+# REACTION        : 29-CU-0(P,X)26-FE-52,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodFe52_Greenwood_1984_c0537.011
+#
+# npts            : 7           
+# xmin            :   1.0000E+08
+# xmax            :   4.5000E+08
+# ymin            :   3.0000E-05
+# ymax            :   2.0900E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  3.0000E-05  1.5000E-06
+  1.5000E+08  0.0000E+00  8.3000E-05  4.1500E-06
+  2.0000E+08  0.0000E+00  1.3100E-04  6.5500E-06
+  2.5000E+08  0.0000E+00  1.5300E-04  7.6500E-06
+  3.0000E+08  0.0000E+00  1.7800E-04  8.9000E-06
+  3.5000E+08  0.0000E+00  1.8100E-04  9.0500E-06
+  4.5000E+08  0.0000E+00  2.0900E-04  1.0450E-05
+#---------------------------------------------------

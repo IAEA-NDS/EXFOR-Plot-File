@@ -1,0 +1,24 @@
+# EXFOR #         : C0507.005  
+# EXFOR Ver.      : 19981224
+# TRANS #         : 0000
+# Author          : J.M.Sisterson et al.
+# Reference       : Nucl.Instrum.Meth.B 123 (1997) 324
+# DOI             : 10.1016/S0168-583X(96)00409-0
+# Quantity        : natSi(p,x)10Be independent production cross section
+# REACTION        : 14-SI-0(P,X)4-BE-10,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodBe10_Sisterson_1997_c0507.005
+#
+# npts            : 3           
+# xmin            :   5.0200E+07
+# xmax            :   6.6900E+07
+# ymin            :   9.0000E-07
+# ymax            :   9.7000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0200E+07  0.0000E+00  9.0000E-07  2.0000E-07
+  6.5600E+07  0.0000E+00  5.0000E-06  5.0000E-07
+  6.6900E+07  0.0000E+00  9.7000E-06  1.2000E-06
+#---------------------------------------------------

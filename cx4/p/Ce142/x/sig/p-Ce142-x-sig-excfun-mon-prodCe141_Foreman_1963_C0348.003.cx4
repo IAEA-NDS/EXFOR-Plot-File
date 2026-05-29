@@ -1,0 +1,24 @@
+# EXFOR #         : C0348.003  
+# EXFOR Ver.      : 20230616
+# TRANS #         : C232
+# Author          : B.M.Foreman
+# Reference       : Phys.Rev. 132 (1963) 1768
+# DOI             : 10.1103/PhysRev.132.1768
+# Quantity        : 142Ce(p,x)141Ce independent production cross section
+# REACTION        : 58-CE-142(P,X)58-CE-141,,SIG
+# File ID         : p-Ce142-x-sig-excfun-mon-prodCe141_Foreman_1963_c0348.003
+#
+# npts            : 3           
+# xmin            :   1.0000E+09
+# xmax            :   2.8500E+09
+# ymin            :   5.8100E-02
+# ymax            :   6.5200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  6.2400E-02  0.0000E+00
+  2.0000E+09  0.0000E+00  6.5200E-02  6.7000E-03
+  2.8500E+09  0.0000E+00  5.8100E-02  5.4000E-03
+#---------------------------------------------------

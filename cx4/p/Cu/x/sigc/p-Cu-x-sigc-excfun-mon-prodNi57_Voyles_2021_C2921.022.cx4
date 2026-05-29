@@ -1,0 +1,24 @@
+# EXFOR #         : C2921.022  
+# EXFOR Ver.      : 20230211
+# TRANS #         : C230
+# Author          : A.S.Voyles et al.
+# Reference       : Eur.Phys.J.A 57 (2021) 94
+# DOI             : 10.1140/epja/s10050-021-00401-2
+# Quantity        : natCu(p,x)57Ni cumulative production cross section
+# REACTION        : 29-CU-0(P,X)28-NI-57,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodNi57_Voyles_2021_c2921.022
+#
+# npts            : 3           
+# xmin            :   3.8420E+07
+# xmax            :   5.3040E+07
+# ymin            :   5.3000E-05
+# ymax            :   2.1500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.3040E+07  6.1000E+05  2.1500E-03  1.5000E-04
+  4.6180E+07  6.8000E+05  7.7500E-04  4.5000E-05
+  3.8420E+07  7.9000E+05  5.3000E-05  4.4000E-06
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : C2369.022  
+# EXFOR Ver.      : 20181207
+# TRANS #         : C183
+# Author          : G.D.Cole et al.
+# Reference       : Phys.Rev.C 24 (1981) 2038
+# DOI             : 10.1103/PhysRevC.24.2038
+# Quantity        : natGd(p,x) independent production cross section
+# REACTION        : 64-GD-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Gd-x-sig-nucdis-mon-einc4.000E+11_Cole_1981_c2369.022
+#
+# Einc (eV)       :   4.0000E+11
+#
+# npts            : 3           
+# xmin            : 19042.9     
+# xmax            : 25052.0     
+# ymin            :   8.8000E-04
+# ymax            :   2.0700E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     19042.9  2.0700E-03  5.6000E-04
+     21044.1  1.3900E-03  5.0000E-05
+     25052.0  8.8000E-04  4.0000E-05
+#---------------------------------------------------

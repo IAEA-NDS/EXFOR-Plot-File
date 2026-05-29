@@ -1,0 +1,22 @@
+# EXFOR #         : O0768.030  
+# EXFOR Ver.      : 20221115
+# TRANS #         : O091
+# Author          : E.Porras et al.
+# Reference       : Nucl.Instrum.Meth.B 160 (2000) 73
+# DOI             : 10.1016/S0168-583X(99)00556-X
+# Quantity        : natHg(p,x)197mHg independent production cross section
+# REACTION        : 80-HG-0(P,X)80-HG-197-M,,SIG
+# File ID         : p-Hg-x-sig-excfun-mon-prodHg197m_Porras_2000_o0768.030
+#
+# npts            : 1           
+# xmin            :   1.7000E+09
+# xmax            :   1.7000E+09
+# ymin            :   1.1000E-02
+# ymax            :   1.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7000E+09  0.0000E+00  1.1000E-02  1.0000E-03
+#---------------------------------------------------

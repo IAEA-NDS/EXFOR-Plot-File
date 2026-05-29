@@ -1,0 +1,23 @@
+# EXFOR #         : O0132.091  
+# EXFOR Ver.      : 20160708
+# TRANS #         : O058
+# Author          : M.E.Sadler et al.
+# Reference       : Phys.Rev.C 21 (1980) 2303
+# DOI             : 10.1103/PhysRevC.21.2303
+# Quantity        : 60Ni(p,x)50Cr independent production cross section
+# REACTION        : 28-NI-60(P,X)24-CR-50,IND,SIG
+# File ID         : p-Ni60-x-sig-excfun-mon-prodCr50_Sadler_1980_o0132.091
+#
+# npts            : 2           
+# xmin            :   1.0000E+08
+# xmax            :   1.3600E+08
+# ymin            :   3.0000E-03
+# ymax            :   9.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  3.0000E-03  2.0000E-03
+  1.3600E+08  0.0000E+00  9.0000E-03  2.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : O0410.025  
+# EXFOR Ver.      : 20050914
+# TRANS #         : O024
+# Author          : M.Lagarde-Simonoff et al.
+# Reference       : J.Inorg.Nucl.Chem. 37 (1975) 627
+# DOI             : 10.1016/0022-1902(75)80510-0
+# Quantity        : natCu(p,x)47Sc cumulative production cross section
+# REACTION        : 29-CU-0(P,X)21-SC-47,(CUM),SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodSc47_Lagarde+Simonoff_1975_o0410.025
+#
+# npts            : 2           
+# xmin            :   3.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   5.9000E-04
+# ymax            :   1.9100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+08  0.0000E+00  5.9000E-04  2.0000E-05
+  6.0000E+08  0.0000E+00  1.9100E-03  8.0000E-05
+#---------------------------------------------------

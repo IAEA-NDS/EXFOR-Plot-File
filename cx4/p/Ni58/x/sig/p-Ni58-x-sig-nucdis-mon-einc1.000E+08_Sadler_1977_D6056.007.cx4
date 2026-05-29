@@ -1,0 +1,25 @@
+# EXFOR #         : D6056.007  
+# EXFOR Ver.      : 20230615
+# TRANS #         : D139
+# Author          : M.Sadler et al.
+# Reference       : Phys.Rev.Lett. 38 (1977) 950
+# DOI             : 10.1103/PhysRevLett.38.950
+# Quantity        : 58Ni(p,x) independent production cross section
+# REACTION        : 28-NI-58(P,X)ELEM/MASS,,SIG
+# File ID         : p-Ni58-x-sig-nucdis-mon-einc1.000E+08_Sadler_1977_d6056.007
+#
+# Einc (eV)       :   1.0000E+08
+#
+# npts            : 2           
+# xmin            : 22047.9     
+# xmax            : 25050.9     
+# ymin            :   1.0000E-03
+# ymax            :   2.0000E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     22047.9  2.0000E-03  0.0000E+00
+     25050.9  1.0000E-03  0.0000E+00
+#---------------------------------------------------

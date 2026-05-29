@@ -1,0 +1,27 @@
+# EXFOR #         : O2550.026  
+# EXFOR Ver.      : 20220309
+# TRANS #         : O089
+# Author          : S.V.Szwec et al.
+# Reference       : Phys.Rev.C 104 (2021) 054308
+# DOI             : 10.1103/PhysRevC.104.054308
+# Quantity        : 124Sn(p,d)123Sn partial angular differential cross section
+# REACTION        : 50-SN-124(P,D)50-SN-123,PAR,DA
+# File ID         : p-Sn124-d-adxl-angdisl-mon-einc2.100E+07_elvl2.726E+06_prodSn123_Szwec_2021_o2550.026
+#
+# Einc (eV)       :   2.1000E+07
+# Elvl (eV)       :   2.7260E+06
+#
+# npts            : 3           
+# xmin            :   18.0000000
+# xmax            :   40.0000000
+# ymin            :   9.0000E-06
+# ymax            :   1.1000E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  18.0000000   0.0000000  1.0000E-05  1.0000E-06
+  30.0000000   0.0000000  1.1000E-05  1.0000E-06
+  40.0000000   0.0000000  9.0000E-06  1.0000E-06
+#---------------------------------------------------

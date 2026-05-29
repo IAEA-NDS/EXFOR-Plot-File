@@ -1,0 +1,26 @@
+# EXFOR #         : T0110.014  
+# EXFOR Ver.      : 20071109
+# TRANS #         : Y004
+# Author          : W.Scobel et al.
+# Reference       : Phys.Rev.C 30 (1984) 1480
+# DOI             : 10.1103/PhysRevC.30.1480
+# Quantity        : 59Co(p,n)59Ni double differential cross section
+# REACTION        : 27-CO-59(P,N)28-NI-59,,DA/DE
+# File ID         : p-Co59-n-ddxl-enedisl-mon-einc2.500E+07_angl24_prodNi59_Scobel_1984_t0110.014
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   8.0000E+04
+# theta,lab (deg) :   23.8000000
+#
+# npts            : 1           
+# xmin            :   4.8900E+06
+# xmax            :   4.8900E+06
+# ymin            :   7.6500E-06
+# ymax            :   7.6500E-06
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  4.8900E+06  0.0000E+00  7.6500E-06  4.6200E-07
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : C0134.007  
+# EXFOR Ver.      : 20160504
+# TRANS #         : C160
+# Author          : B.D.Anderson et al.
+# Reference       : Phys.Rev.C 31 (1985) 1147
+# DOI             : 10.1103/PhysRevC.31.1147
+# Quantity        : 48Ca(p,n)48Sc partial angular differential cross section
+# REACTION        : 20-CA-48(P,N)21-SC-48,PAR,DA
+# File ID         : p-Ca48-n-adxc-angdisc-mon-einc1.340E+08_elvl2.520E+06_prodSc48_Anderson_1985_c0134.007
+#
+# Einc (eV)       :   1.3400E+08
+# Elvl (eV)       :   2.5200E+06
+#
+# npts            : 5           
+# xmin            :    0.0000000
+# xmax            :   24.4600000
+# ymin            :   4.4180E-05
+# ymax            :   6.7760E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  6.7760E-03  0.0000E+00
+   6.1470000   0.0000000  3.5370E-03  0.0000E+00
+  12.1840000   0.0000000  7.3260E-04  0.0000E+00
+  18.6190000   0.0000000  2.7870E-04  0.0000E+00
+  24.4600000   0.0000000  4.4180E-05  1.7680E-05
+#---------------------------------------------------

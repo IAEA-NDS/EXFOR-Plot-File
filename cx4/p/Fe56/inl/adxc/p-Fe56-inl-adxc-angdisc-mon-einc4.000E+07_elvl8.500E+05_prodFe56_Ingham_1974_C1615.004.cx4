@@ -1,0 +1,27 @@
+# EXFOR #         : C1615.004  
+# EXFOR Ver.      : 20080421
+# TRANS #         : C087
+# Author          : D.Ingham et al.
+# Reference       : Nucl.Intrum.Meth. 114 (1974) 5
+# DOI             : 10.1016/0029-554X(74)90321-8
+# Quantity        : 56Fe(p,inl)56Fe partial angular differential cross section
+# REACTION        : 26-FE-56(P,INL)26-FE-56,PAR,DA
+# File ID         : p-Fe56-inl-adxc-angdisc-mon-einc4.000E+07_elvl8.500E+05_prodFe56_Ingham_1974_c1615.004
+#
+# Einc (eV)       :   4.0000E+07
+# Elvl (eV)       :   8.5000E+05
+#
+# npts            : 3           
+# xmin            :    6.2470000
+# xmax            :   20.4600000
+# ymin            :   7.5190E-03
+# ymax            :   1.5780E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.2470000   0.0000000  1.5780E-02  4.2770E-03
+  10.4200000   0.0000000  1.3340E-02  1.3740E-03
+  20.4600000   0.0000000  7.5190E-03  0.0000E+00
+#---------------------------------------------------

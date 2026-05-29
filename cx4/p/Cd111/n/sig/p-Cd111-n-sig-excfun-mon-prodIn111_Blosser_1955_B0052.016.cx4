@@ -1,0 +1,22 @@
+# EXFOR #         : B0052.016  
+# EXFOR Ver.      : 20190120
+# TRANS #         : B029
+# Author          : H.G.Blosser et al.
+# Reference       : Phys.Rev. 100 (1955) 1340
+# DOI             : 10.1103/PhysRev.100.1340
+# Quantity        : 111Cd(p,n)111In cross section
+# REACTION        : 48-CD-111(P,N)49-IN-111,,SIG
+# File ID         : p-Cd111-n-sig-excfun-mon-prodIn111_Blosser_1955_b0052.016
+#
+# npts            : 1           
+# xmin            :   1.2000E+07
+# xmax            :   1.2000E+07
+# ymin            :   8.1000E-01
+# ymax            :   8.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+07  0.0000E+00  8.1000E-01  1.2000E-01
+#---------------------------------------------------

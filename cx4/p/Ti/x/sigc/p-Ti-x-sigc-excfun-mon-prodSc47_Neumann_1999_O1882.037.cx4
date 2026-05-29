@@ -1,0 +1,23 @@
+# EXFOR #         : O1882.037  
+# EXFOR Ver.      : 20101220
+# TRANS #         : O044
+# Author          : S.Neumann
+# Reference       : Thesis  (1999)
+# DOI             : N/A
+# Quantity        : natTi(p,x)47Sc cumulative production cross section
+# REACTION        : 22-TI-0(P,X)21-SC-47,CUM,SIG
+# File ID         : p-Ti-x-sigc-excfun-mon-prodSc47_Neumann_1999_o1882.037
+#
+# npts            : 2           
+# xmin            :   4.3300E+07
+# xmax            :   5.8400E+07
+# ymin            :   2.1100E-02
+# ymax            :   2.1400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.3300E+07  1.4000E+06  2.1100E-02  2.0000E-03
+  5.8400E+07  1.2000E+06  2.1400E-02  2.1000E-03
+#---------------------------------------------------

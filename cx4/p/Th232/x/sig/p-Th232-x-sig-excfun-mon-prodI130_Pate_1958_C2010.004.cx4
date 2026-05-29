@@ -1,0 +1,24 @@
+# EXFOR #         : C2010.004  
+# EXFOR Ver.      : 20130605
+# TRANS #         : C132
+# Author          : B.D.Pate et al.
+# Reference       : Can.J.Chem. 36 (1958) 1691
+# DOI             : 10.1139/v58-246
+# Quantity        : 232Th(p,f)130I independent production cross section
+# REACTION        : 90-TH-232(P,F)53-I-130,,SIG
+# File ID         : p-Th232-x-sig-excfun-mon-prodI130_Pate_1958_c2010.004
+#
+# npts            : 3           
+# xmin            :   7.3820E+07
+# xmax            :   8.6890E+07
+# ymin            :   5.0900E-03
+# ymax            :   5.7200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.3820E+07  0.0000E+00  5.4000E-03  4.3000E-04
+  8.2730E+07  0.0000E+00  5.7200E-03  7.3000E-04
+  8.6890E+07  0.0000E+00  5.0900E-03  5.0000E-04
+#---------------------------------------------------

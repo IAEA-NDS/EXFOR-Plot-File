@@ -1,0 +1,27 @@
+# EXFOR #         : A0869.014  
+# EXFOR Ver.      : 20110726
+# TRANS #         : A072
+# Author          : B.V.Zhuravlev et al.
+# Reference       : Yad.Fiz. 73 (2010) 1150
+# DOI             : N/A
+# Quantity        : 209Bi(p,n)209Po angular differential cross section
+# REACTION        : 83-BI-209(P,N)84-PO-209,,DA,,4PI
+# File ID         : p-Bi209-n-adxl-excfun-mon-angl105_prodPo209_Zhuravlev_2010_a0869.014
+#
+# theta,lab (deg) :  105.0000000
+#
+# npts            : 4           
+# xmin            :   6.8600E+06
+# xmax            :   9.5200E+06
+# ymin            :   3.2627E-04
+# ymax            :   5.9524E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.8600E+06  0.0000E+00  3.2627E-04  3.2627E-05
+  8.0300E+06  0.0000E+00  1.2732E-03  1.2732E-04
+  9.0900E+06  0.0000E+00  4.2415E-03  4.2415E-04
+  9.5200E+06  0.0000E+00  5.9524E-03  5.9524E-04
+#---------------------------------------------------

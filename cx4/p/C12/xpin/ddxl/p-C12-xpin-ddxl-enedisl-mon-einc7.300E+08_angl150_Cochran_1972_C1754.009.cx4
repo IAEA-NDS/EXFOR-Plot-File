@@ -1,0 +1,30 @@
+# EXFOR #         : C1754.009  
+# EXFOR Ver.      : 20091126
+# TRANS #         : C095
+# Author          : D.R.F.Cochran et al.
+# Reference       : Phys.Rev.D 6 (1972) 3085
+# DOI             : 10.1103/PhysRevD.6.3085
+# Quantity        : 12C(p,pi-+x) double differential cross section
+# REACTION        : 6-C-12(P,X)1-PN-0,,DA/DE
+# File ID         : p-C12-xpin-ddxl-enedisl-mon-einc7.300E+08_angl150_Cochran_1972_c1754.009
+#
+# Einc (eV)       :   7.3000E+08
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 6           
+# xmin            :   3.0000E+07
+# xmax            :   2.0500E+08
+# ymin            :   3.0000E-14
+# ymax            :   2.5000E-12
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  3.0000E+07  0.0000E+00  2.1200E-12  3.4000E-13
+  5.2000E+07  0.0000E+00  2.5000E-12  2.2000E-13
+  7.9000E+07  0.0000E+00  1.5700E-12  1.3000E-13
+  1.0500E+08  0.0000E+00  7.6000E-13  6.0000E-14
+  1.5500E+08  0.0000E+00  1.4000E-13  1.0000E-14
+  2.0500E+08  0.0000E+00  3.0000E-14  1.0000E-14
+#---------------------------------------------------

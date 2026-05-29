@@ -1,0 +1,26 @@
+# EXFOR #         : C2243.013  
+# EXFOR Ver.      : 20171107
+# TRANS #         : C170
+# Author          : S.A.Graves et al.
+# Reference       : Nucl.Instrum.Meth.B 386 (2016) 44
+# DOI             : 10.1016/j.nimb.2016.09.018
+# Quantity        : natCu(p,x)57Ni cumulative production cross section
+# REACTION        : 29-CU-0(P,X)28-NI-57,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodNi57_Graves_2016_c2243.013
+#
+# npts            : 5           
+# xmin            :   4.8000E+07
+# xmax            :   8.9400E+07
+# ymin            :   9.8100E-04
+# ymax            :   2.0900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.9400E+07  6.0000E+05  1.3100E-03  9.0000E-05
+  7.8600E+07  9.0000E+05  9.8500E-04  8.6000E-05
+  6.9100E+07  1.1000E+06  1.3500E-03  1.6000E-04
+  5.8600E+07  1.4000E+06  2.0900E-03  2.5000E-04
+  4.8000E+07  1.6000E+06  9.8100E-04  7.5000E-05
+#---------------------------------------------------

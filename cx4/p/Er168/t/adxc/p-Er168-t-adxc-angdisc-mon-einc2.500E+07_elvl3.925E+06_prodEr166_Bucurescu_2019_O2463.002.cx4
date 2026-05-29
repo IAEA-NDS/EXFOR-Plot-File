@@ -1,0 +1,29 @@
+# EXFOR #         : O2463.002  
+# EXFOR Ver.      : 20200814
+# TRANS #         : O080
+# Author          : D.Bucurescu et al.
+# Reference       : Phys.Rev.C 100 (2019) 044316
+# DOI             : 10.1103/PhysRevC.100.044316
+# Quantity        : 168Er(p,t)166Er partial angular differential cross section
+# REACTION        : 68-ER-168(P,T)68-ER-166,PAR,DA
+# File ID         : p-Er168-t-adxc-angdisc-mon-einc2.500E+07_elvl3.925E+06_prodEr166_Bucurescu_2019_o2463.002
+#
+# Einc (eV)       :   2.5000E+07
+# Elvl (eV)       :   3.9249E+06
+#
+# npts            : 5           
+# xmin            :    5.1000000
+# xmax            :   23.4000000
+# ymin            :   2.8160E-04
+# ymax            :   3.1200E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.1000000   0.0000000  3.1200E-03  2.5000E-04
+  10.1000000   0.0000000  1.4813E-03  1.4536E-04
+  14.2000000   0.0000000  2.8160E-04  2.3576E-04
+  17.7000000   0.0000000  4.1625E-04  1.4702E-04
+  23.4000000   0.0000000  8.2672E-04  1.2605E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : C0236.005.1
+# EXFOR Ver.      : 20211005
+# TRANS #         : C206
+# Author          : I.Dostrovsky et al.
+# Reference       : Phys.Rev. 139 (1965) B1513
+# DOI             : 10.1103/PhysRev.139.B1513
+# Quantity        : 18O(p,x)9Li independent production cross section
+# REACTION        : 8-O-18(P,X)3-LI-9,,SIG
+# File ID         : p-O18-x-sig-excfun-mon-prodLi9_Dostrovsky_1965_c0236.005.1
+#
+# npts            : 2           
+# xmin            :   1.0000E+09
+# xmax            :   2.8000E+09
+# ymin            :   5.8000E-04
+# ymax            :   5.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  5.9000E-04  0.0000E+00
+  2.8000E+09  0.0000E+00  5.8000E-04  0.0000E+00
+#---------------------------------------------------

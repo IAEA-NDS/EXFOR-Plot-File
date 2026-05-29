@@ -1,0 +1,25 @@
+# EXFOR #         : E1615.087  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : K.Miura et al.
+# Reference       : Nucl.Phys.A 436 No.2 (1985) 221
+# DOI             : 10.1016/0375-9474(85)90197-6
+# Quantity        : 208Pb(p,t)206Pb partial angular differential cross section
+# REACTION        : 82-PB-208(P,T)82-PB-206,PAR,DA
+# File ID         : p-Pb208-t-adxc-angdisc-mon-einc5.190E+07_elvl0.000E+00_prodPb206_Miura_1985_e1615.087
+#
+# Einc (eV)       :   5.1900E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   12.6000000
+# xmax            :   12.6000000
+# ymin            :   9.4000E-05
+# ymax            :   9.4000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.6000000   0.0000000  9.4000E-05  4.0000E-06
+#---------------------------------------------------

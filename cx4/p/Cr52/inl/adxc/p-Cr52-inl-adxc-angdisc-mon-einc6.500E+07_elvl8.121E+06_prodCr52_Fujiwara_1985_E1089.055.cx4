@@ -1,0 +1,29 @@
+# EXFOR #         : E1089.055  
+# EXFOR Ver.      : 20110518
+# TRANS #         : E065
+# Author          : M.Fujiwara et al.
+# Reference       : Phys.Rev.C 32 No.3 (1985) 830
+# DOI             : 10.1103/PhysRevC.32.830
+# Quantity        : 52Cr(p,inl)52Cr partial angular differential cross section
+# REACTION        : 24-CR-52(P,INL)24-CR-52,PAR,DA
+# File ID         : p-Cr52-inl-adxc-angdisc-mon-einc6.500E+07_elvl8.121E+06_prodCr52_Fujiwara_1985_e1089.055
+#
+# Einc (eV)       :   6.5000E+07
+# Elvl (eV)       :   8.1210E+06
+#
+# npts            : 5           
+# xmin            :    6.6690000
+# xmax            :   19.9200000
+# ymin            :   2.2830E-05
+# ymax            :   4.7900E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.6690000   0.0000000  4.7900E-05  1.5960E-05
+   7.8020000   0.0000000  3.4590E-05  9.6270E-06
+  11.9300000   0.0000000  2.9740E-05  1.1460E-05
+  15.7900000   0.0000000  2.6050E-05  1.5680E-05
+  19.9200000   0.0000000  2.2830E-05  1.1600E-05
+#---------------------------------------------------

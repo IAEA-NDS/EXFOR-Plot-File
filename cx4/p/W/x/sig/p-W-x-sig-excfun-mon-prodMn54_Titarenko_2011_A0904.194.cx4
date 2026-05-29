@@ -1,0 +1,25 @@
+# EXFOR #         : A0904.194  
+# EXFOR Ver.      : 20220323
+# TRANS #         : A099
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 551
+# DOI             : 10.1134/S1063778811040181
+# Quantity        : natW(p,x)54Mn independent production cross section
+# REACTION        : 74-W-0(P,X)25-MN-54,,SIG
+# File ID         : p-W-x-sig-excfun-mon-prodMn54_Titarenko_2011_a0904.194
+#
+# npts            : 4           
+# xmin            :   7.9900E+08
+# xmax            :   2.6050E+09
+# ymin            :   3.9500E-04
+# ymax            :   1.9500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.9900E+08  2.0000E+06  3.9500E-04  4.3000E-05
+  1.1990E+09  3.0000E+06  6.8700E-04  6.3000E-05
+  1.5990E+09  4.0000E+06  8.9000E-04  1.2000E-04
+  2.6050E+09  8.0000E+06  1.9500E-03  1.8000E-04
+#---------------------------------------------------

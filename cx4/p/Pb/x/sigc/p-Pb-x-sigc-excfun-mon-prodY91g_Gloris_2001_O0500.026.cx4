@@ -1,0 +1,22 @@
+# EXFOR #         : O0500.026  
+# EXFOR Ver.      : 20030414
+# TRANS #         : 0000
+# Author          : M.Gloris et al.
+# Reference       : Nucl.Instrum.Meth.A 463 (2001) 593
+# DOI             : 10.1016/S0168-9002(01)00174-7
+# Quantity        : natPb(p,x)91gY cumulative production cross section
+# REACTION        : 82-PB-0(P,X)39-Y-91-G,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodY91g_Gloris_2001_o0500.026
+#
+# npts            : 1           
+# xmin            :   2.7200E+08
+# xmax            :   2.7200E+08
+# ymin            :   3.7200E-03
+# ymax            :   3.7200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7200E+08  1.0000E+06  3.7200E-03  7.8000E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C0392.007  
+# EXFOR Ver.      : 19961011
+# TRANS #         : 0000
+# Author          : W.J.Nieckarz Jr et al.
+# Reference       : Phys.Rev.C 2 (1970) 1917
+# DOI             : 10.1103/PhysRevC.2.1917
+# Quantity        : 114Cd(p,2p)113gAg cumulative production cross section
+# REACTION        : 48-CD-114(P,2P)47-AG-113-G,M+,SIG
+# File ID         : p-Cd114-x-sigc-excfun-mon-prodAg113g_Nieckarz%Jr_1970_c0392.007
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   1.3700E-02
+# ymax            :   1.3700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  2.0000E+07  1.3700E-02  1.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : O1882.055  
+# EXFOR Ver.      : 20101220
+# TRANS #         : O044
+# Author          : S.Neumann
+# Reference       : Thesis  (1999)
+# DOI             : N/A
+# Quantity        : natNi(p,x)48Cr cumulative production cross section
+# REACTION        : 28-NI-0(P,X)24-CR-48,CUM,SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodCr48_Neumann_1999_o1882.055
+#
+# npts            : 3           
+# xmin            :   9.5700E+08
+# xmax            :   2.6000E+09
+# ymin            :   1.2000E-03
+# ymax            :   1.9200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5700E+08  2.0000E+06  1.9200E-03  2.4000E-04
+  1.3590E+09  2.0000E+06  1.4300E-03  1.8000E-04
+  2.6000E+09  1.0000E+06  1.2000E-03  1.5000E-04
+#---------------------------------------------------

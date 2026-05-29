@@ -1,0 +1,24 @@
+# EXFOR #         : A0904.181  
+# EXFOR Ver.      : 20220323
+# TRANS #         : A099
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 551
+# DOI             : 10.1134/S1063778811040181
+# Quantity        : natW(p,x)106mAg independent production cross section
+# REACTION        : 74-W-0(P,X)47-AG-106-M,,SIG
+# File ID         : p-W-x-sig-excfun-mon-prodAg106m_Titarenko_2011_a0904.181
+#
+# npts            : 3           
+# xmin            :   1.1990E+09
+# xmax            :   2.6050E+09
+# ymin            :   3.7300E-04
+# ymax            :   1.7900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1990E+09  3.0000E+06  3.7300E-04  5.5000E-05
+  1.5990E+09  4.0000E+06  6.4300E-04  6.8000E-05
+  2.6050E+09  8.0000E+06  1.7900E-03  1.7000E-04
+#---------------------------------------------------

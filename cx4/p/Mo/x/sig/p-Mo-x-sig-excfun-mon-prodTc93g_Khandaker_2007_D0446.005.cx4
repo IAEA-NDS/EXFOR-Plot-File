@@ -1,0 +1,25 @@
+# EXFOR #         : D0446.005  
+# EXFOR Ver.      : 20070816
+# TRANS #         : D055
+# Author          : M.U.Khandaker et al.
+# Reference       : Nucl.Instrum.Meth.B 262 (2007) 171
+# DOI             : 10.1016/j.nimb.2007.05.028
+# Quantity        : natMo(p,x)93gTc independent production cross section
+# REACTION        : 42-MO-0(P,X)43-TC-93-G,,SIG
+# File ID         : p-Mo-x-sig-excfun-mon-prodTc93g_Khandaker_2007_d0446.005
+#
+# npts            : 4           
+# xmin            :   1.6310E+07
+# xmax            :   2.6240E+07
+# ymin            :   2.1000E-02
+# ymax            :   1.1872E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6310E+07  4.1000E+05  2.1000E-02  2.8100E-03
+  1.9930E+07  3.6000E+05  7.5400E-02  8.0900E-03
+  2.3250E+07  3.0000E+05  1.0000E-01  8.3200E-03
+  2.6240E+07  2.1000E+05  1.1872E-01  9.8500E-03
+#---------------------------------------------------

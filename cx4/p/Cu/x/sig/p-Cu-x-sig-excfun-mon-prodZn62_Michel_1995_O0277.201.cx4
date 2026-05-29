@@ -1,0 +1,22 @@
+# EXFOR #         : O0277.201  
+# EXFOR Ver.      : 20190830
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natCu(p,x)62Zn independent production cross section
+# REACTION        : 29-CU-0(P,X)30-ZN-62,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodZn62_Michel_1995_o0277.201
+#
+# npts            : 1           
+# xmin            :   1.6000E+09
+# xmax            :   1.6000E+09
+# ymin            :   4.3300E-04
+# ymax            :   4.3300E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+09  0.0000E+00  4.3300E-04  6.3000E-05
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : C0361.007  
+# EXFOR Ver.      : 19871208
+# TRANS #         : 0000
+# Author          : G.Friedlander et al.
+# Reference       : Phys.Rev. 117 (1960) 578
+# DOI             : 10.1103/PhysRev.117.578
+# Quantity        : 235U(p,x) cumulative production cross section
+# REACTION        : 92-U-235(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-U235-x-sigc-nucdis-mon-einc3.000E+09_Friedlander_1960_c0361.007
+#
+# Einc (eV)       :   3.0000E+09
+#
+# npts            : 3           
+# xmin            : 19043.9     
+# xmax            : 20047.9     
+# ymin            :   5.0000E-04
+# ymax            :   3.9000E-03
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     19043.9  3.9000E-03  7.8000E-04
+     20045.9  3.7000E-03  1.8500E-03
+     20047.9  5.0000E-04  3.7500E-04
+#---------------------------------------------------

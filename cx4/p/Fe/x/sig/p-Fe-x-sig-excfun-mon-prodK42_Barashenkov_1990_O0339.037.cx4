@@ -1,0 +1,22 @@
+# EXFOR #         : O0339.037  
+# EXFOR Ver.      : 19970516
+# TRANS #         : 0000
+# Author          : V.S.Barashenkov et al.
+# Reference       : Nucl.Instrum.Meth.A 292 (1990) 169
+# DOI             : 10.1016/0168-9002(90)91745-W
+# Quantity        : natFe(p,x)42K independent production cross section
+# REACTION        : 26-FE-0(P,X)19-K-42,IND,SIG,,,EXP
+# File ID         : p-Fe-x-sig-excfun-mon-prodK42_Barashenkov_1990_o0339.037
+#
+# npts            : 1           
+# xmin            :   1.1000E+09
+# xmax            :   1.1000E+09
+# ymin            :   5.6000E-04
+# ymax            :   5.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1000E+09  0.0000E+00  5.6000E-04  8.0000E-05
+#---------------------------------------------------

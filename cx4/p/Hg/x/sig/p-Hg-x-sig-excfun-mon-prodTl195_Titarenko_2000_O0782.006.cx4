@@ -1,0 +1,23 @@
+# EXFOR #         : O0782.006  
+# EXFOR Ver.      : 20220110
+# TRANS #         : O086
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Report LA-UR-00-3600, 2000
+# DOI             : N/A
+# Quantity        : natHg(p,x)195Tl independent production cross section
+# REACTION        : 80-HG-0(P,X)81-TL-195,,SIG
+# File ID         : p-Hg-x-sig-excfun-mon-prodTl195_Titarenko_2000_o0782.006
+#
+# npts            : 2           
+# xmin            :   1.0000E+08
+# xmax            :   2.0000E+08
+# ymin            :   2.2900E-02
+# ymax            :   1.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  1.0000E-01  1.0000E-02
+  2.0000E+08  0.0000E+00  2.2900E-02  2.6000E-03
+#---------------------------------------------------

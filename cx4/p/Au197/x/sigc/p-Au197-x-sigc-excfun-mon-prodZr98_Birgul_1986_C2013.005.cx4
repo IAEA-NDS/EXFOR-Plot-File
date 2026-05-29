@@ -1,0 +1,26 @@
+# EXFOR #         : C2013.005  
+# EXFOR Ver.      : 20130620
+# TRANS #         : C133
+# Author          : O.Birgul et al.
+# Reference       : J.Rad.Nucl.Chem.Lett 103 (1986) 153
+# DOI             : 10.1007/BF02166561
+# Quantity        : 197Au(p,f)98Zr cumulative production cross section
+# REACTION        : 79-AU-197(P,F)40-ZR-98,CUM,SIG
+# File ID         : p-Au197-x-sigc-excfun-mon-prodZr98_Birgul_1986_c2013.005
+#
+# npts            : 5           
+# xmin            :   5.2000E+07
+# xmax            :   8.5000E+07
+# ymin            :   3.6000E-05
+# ymax            :   1.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2000E+07  0.0000E+00  3.6000E-05  5.0000E-06
+  6.2000E+07  0.0000E+00  1.0500E-04  1.6000E-05
+  7.2000E+07  0.0000E+00  1.6700E-04  2.5000E-05
+  8.0000E+07  0.0000E+00  1.9000E-04  2.9000E-05
+  8.5000E+07  0.0000E+00  1.8100E-04  2.7000E-05
+#---------------------------------------------------

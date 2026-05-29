@@ -1,0 +1,26 @@
+# EXFOR #         : A0427.003  
+# EXFOR Ver.      : 20220804
+# TRANS #         : A101
+# Author          : P.M.Grant et al.
+# Reference       : Appl.Radiat.Isot. 39 (1988) 501
+# DOI             : 10.1016/0883-2889(88)90197-9
+# Quantity        : natV(p,x) independent production cross section
+# REACTION        : 23-V-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-V-x-sig-nucdis-mon-einc8.000E+08_Grant_1988_a0427.003
+#
+# Einc (eV)       :   8.0000E+08
+#
+# npts            : 3           
+# xmin            : 19042.9     
+# xmax            : 21048.9     
+# ymin            :   6.9000E-03
+# ymax            :   2.5000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     19042.9  1.2000E-02  4.0000E-04
+     21046.9  2.5000E-02  9.0000E-04
+     21048.9  6.9000E-03  7.0000E-05
+#---------------------------------------------------

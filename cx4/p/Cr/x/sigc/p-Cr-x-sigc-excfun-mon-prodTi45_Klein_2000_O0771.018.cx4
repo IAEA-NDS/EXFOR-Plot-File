@@ -1,0 +1,24 @@
+# EXFOR #         : O0771.018  
+# EXFOR Ver.      : 20151204
+# TRANS #         : O056
+# Author          : A.T.J.Klein et al.
+# Reference       : Radiochim.Acta 88 (2000) 253
+# DOI             : 10.1524/ract.2000.88.5.253
+# Quantity        : natCr(p,x)45Ti cumulative production cross section
+# REACTION        : 24-CR-0(P,X)22-TI-45,(CUM),SIG
+# File ID         : p-Cr-x-sigc-excfun-mon-prodTi45_Klein_2000_o0771.018
+#
+# npts            : 3           
+# xmin            :   3.3490E+07
+# xmax            :   3.8080E+07
+# ymin            :   9.0000E-05
+# ymax            :   6.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3490E+07  2.5000E+05  9.0000E-05  9.0000E-05
+  3.5670E+07  2.4000E+05  4.0000E-04  1.4000E-04
+  3.8080E+07  2.3000E+05  6.3000E-04  2.5000E-04
+#---------------------------------------------------

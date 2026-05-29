@@ -1,0 +1,22 @@
+# EXFOR #         : C0062.008  
+# EXFOR Ver.      : 20211005
+# TRANS #         : C206
+# Author          : L.Valentin
+# Reference       : Nucl.Phys. 62 (1965) 81
+# DOI             : 10.1016/0029-5582(65)90072-6
+# Quantity        : 48Ti(p,n)48V cross section
+# REACTION        : 22-TI-48(P,N)23-V-48,,SIG
+# File ID         : p-Ti48-n-sig-excfun-mon-prodV48_Valentin_1965_c0062.008
+#
+# npts            : 1           
+# xmin            :   1.5500E+08
+# xmax            :   1.5500E+08
+# ymin            :   3.2000E-03
+# ymax            :   3.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5500E+08  1.0000E+06  3.2000E-03  5.0000E-04
+#---------------------------------------------------

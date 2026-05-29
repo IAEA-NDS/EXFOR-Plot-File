@@ -1,0 +1,22 @@
+# EXFOR #         : O0768.246  
+# EXFOR Ver.      : 20221115
+# TRANS #         : O091
+# Author          : E.Porras et al.
+# Reference       : Nucl.Instrum.Meth.B 160 (2000) 73
+# DOI             : 10.1016/S0168-583X(99)00556-X
+# Quantity        : natTi(p,x)45K independent production cross section
+# REACTION        : 22-TI-0(P,X)19-K-45,,SIG
+# File ID         : p-Ti-x-sig-excfun-mon-prodK45_Porras_2000_o0768.246
+#
+# npts            : 1           
+# xmin            :   1.2000E+09
+# xmax            :   1.2000E+09
+# ymin            :   3.0000E-04
+# ymax            :   3.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  3.0000E-04  3.0000E-05
+#---------------------------------------------------

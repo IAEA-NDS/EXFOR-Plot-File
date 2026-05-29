@@ -1,0 +1,25 @@
+# EXFOR #         : E1615.050  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : K.Miura et al.
+# Reference       : Nucl.Phys.A 436 No.2 (1985) 221
+# DOI             : 10.1016/0375-9474(85)90197-6
+# Quantity        : 122Te(p,t)120Te partial angular differential cross section
+# REACTION        : 52-TE-122(P,T)52-TE-120,PAR,DA
+# File ID         : p-Te122-t-adxc-angdisc-mon-einc5.190E+07_elvl0.000E+00_prodTe120_Miura_1985_e1615.050
+#
+# Einc (eV)       :   5.1900E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   17.3000000
+# xmax            :   17.3000000
+# ymin            :   3.7200E-04
+# ymax            :   3.7200E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  17.3000000   0.0000000  3.7200E-04  7.0000E-06
+#---------------------------------------------------

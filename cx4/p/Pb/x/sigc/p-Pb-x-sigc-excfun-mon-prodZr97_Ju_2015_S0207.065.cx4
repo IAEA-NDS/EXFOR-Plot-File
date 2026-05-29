@@ -1,0 +1,22 @@
+# EXFOR #         : S0207.065  
+# EXFOR Ver.      : 20181214
+# TRANS #         : S025
+# Author          : Y.Q.Ju et al.
+# Reference       : J.Phys.G 42 (2015) 125102
+# DOI             : 10.1088/0954-3899/42/12/125102
+# Quantity        : natPb(p,x)97Zr cumulative production cross section
+# REACTION        : 82-PB-0(P,X)40-ZR-97,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodZr97_Ju_2015_s0207.065
+#
+# npts            : 1           
+# xmin            :   2.5000E+08
+# xmax            :   2.5000E+08
+# ymin            :   4.3600E-03
+# ymax            :   4.3600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+08  0.0000E+00  4.3600E-03  2.9000E-04
+#---------------------------------------------------

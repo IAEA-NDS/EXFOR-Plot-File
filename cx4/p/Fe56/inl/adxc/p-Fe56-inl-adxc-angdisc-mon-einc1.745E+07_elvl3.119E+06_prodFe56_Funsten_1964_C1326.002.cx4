@@ -1,0 +1,31 @@
+# EXFOR #         : C1326.002  
+# EXFOR Ver.      : 20150709
+# TRANS #         : C152
+# Author          : H.O.Funsten et al.
+# Reference       : Phys.Rev. 134 (1964) B117
+# DOI             : 10.1103/PhysRev.134.B117
+# Quantity        : 56Fe(p,inl)56Fe partial angular differential cross section
+# REACTION        : 26-FE-56(P,INL)26-FE-56,PAR,DA
+# File ID         : p-Fe56-inl-adxc-angdisc-mon-einc1.745E+07_elvl3.119E+06_prodFe56_Funsten_1964_c1326.002
+#
+# Einc (eV)       :   1.7450E+07
+# dEinc (eV)      :   5.0000E+04
+# Elvl (eV)       :   3.1190E+06
+#
+# npts            : 6           
+# xmin            :   20.3900000
+# xmax            :   71.0600000
+# ymin            :   4.3400E-04
+# ymax            :   7.3100E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.3900000   0.0000000  5.9800E-04  5.7800E-05
+  30.5700000   0.0000000  5.3200E-04  5.8000E-05
+  40.7300000   0.0000000  6.6000E-04  5.8000E-05
+  50.8700000   0.0000000  7.3100E-04  6.8300E-05
+  60.9800000   0.0000000  6.6700E-04  6.8600E-05
+  71.0600000   0.0000000  4.3400E-04  4.9300E-05
+#---------------------------------------------------

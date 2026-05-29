@@ -1,0 +1,22 @@
+# EXFOR #         : C0272.014.1
+# EXFOR Ver.      : 20160809
+# TRANS #         : C161
+# Author          : R.L.Brodzinski et al.
+# Reference       : Phys.Rev.C 4 (1971) 1257
+# DOI             : 10.1103/PhysRevC.4.1257
+# Quantity        : natFe(p,x)44Ti independent production cross section
+# REACTION        : 26-FE-0(P,X)22-TI-44,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodTi44_Brodzinski_1971_c0272.014.1
+#
+# npts            : 1           
+# xmin            :   5.8500E+08
+# xmax            :   5.8500E+08
+# ymin            :   2.5000E-04
+# ymax            :   2.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.8500E+08  0.0000E+00  2.5000E-04  1.8000E-04
+#---------------------------------------------------

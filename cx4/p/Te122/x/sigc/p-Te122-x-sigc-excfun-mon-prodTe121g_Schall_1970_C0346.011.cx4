@@ -1,0 +1,22 @@
+# EXFOR #         : C0346.011  
+# EXFOR Ver.      : 20230918
+# TRANS #         : C233
+# Author          : R.F.Schall et al.
+# Reference       : Phys.Rev.C 2 (1970) 1924
+# DOI             : 10.1103/PhysRevC.2.1924
+# Quantity        : 122Te(p,x)121gTe cumulative production cross section
+# REACTION        : 52-TE-122(P,X)52-TE-121-G,(M),SIG
+# File ID         : p-Te122-x-sigc-excfun-mon-prodTe121g_Schall_1970_c0346.011
+#
+# npts            : 1           
+# xmin            :   3.0000E+08
+# xmax            :   3.0000E+08
+# ymin            :   1.9700E-02
+# ymax            :   1.9700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+08  0.0000E+00  1.9700E-02  4.9000E-03
+#---------------------------------------------------

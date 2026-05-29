@@ -1,0 +1,22 @@
+# EXFOR #         : F1108.015  
+# EXFOR Ver.      : 20240209
+# TRANS #         : F097
+# Author          : R.L.Bramblett et al.
+# Reference       : Nucl.Phys. 20 (1960) 395
+# DOI             : 10.1016/0029-5582(60)90182-6
+# Quantity        : 114Cd(p,n)114In cross section
+# REACTION        : 48-CD-114(P,N)49-IN-114,,SIG
+# File ID         : p-Cd114-n-sig-excfun-mon-prodIn114_Bramblett_1960_f1108.015
+#
+# npts            : 1           
+# xmin            :   5.3000E+06
+# xmax            :   5.3000E+06
+# ymin            :   3.2000E-02
+# ymax            :   3.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.3000E+06  0.0000E+00  3.2000E-02  3.2000E-03
+#---------------------------------------------------

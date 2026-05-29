@@ -1,0 +1,23 @@
+# EXFOR #         : O0741.016  
+# EXFOR Ver.      : 20000427
+# TRANS #         : 0000
+# Author          : B.D.Wilkins et al.
+# Reference       : Phys.Rev. 129 (1963) 2198
+# DOI             : 10.1103/PhysRev.129.2198
+# Quantity        : natZr(p,non) cross section
+# REACTION        : 40-ZR-0(P,NON),,SIG
+# File ID         : p-Zr-non-sig-excfun-mon-Wilkins_1963_o0741.016
+#
+# npts            : 2           
+# xmin            :   1.0030E+07
+# xmax            :   1.0250E+07
+# ymin            :   7.9300E-01
+# ymax            :   8.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0250E+07  3.7000E+05  8.0000E-01  8.5000E-02
+  1.0030E+07  3.7000E+05  7.9300E-01  8.3000E-02
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : O0500.004  
+# EXFOR Ver.      : 20220107
+# TRANS #         : O087
+# Author          : M.Gloris et al.
+# Reference       : Nucl.Instrum.Meth.A 463 (2001) 593
+# DOI             : 10.1016/S0168-9002(01)00174-7
+# Quantity        : natPb(p,x)24Na cumulative production cross section
+# REACTION        : 82-PB-0(P,X)11-NA-24,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodNa24_Gloris_2001_o0500.004
+#
+# npts            : 3           
+# xmin            :   1.1700E+09
+# xmax            :   2.5900E+09
+# ymin            :   8.9200E-04
+# ymax            :   3.7200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1700E+09  1.0000E+06  8.9200E-04  1.7600E-04
+  1.5700E+09  1.0000E+06  2.0300E-03  4.3000E-04
+  2.5900E+09  1.0000E+06  3.7200E-03  5.5000E-04
+#---------------------------------------------------

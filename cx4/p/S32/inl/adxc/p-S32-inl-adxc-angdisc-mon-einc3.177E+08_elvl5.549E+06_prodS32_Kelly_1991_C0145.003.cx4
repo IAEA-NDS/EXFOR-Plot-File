@@ -1,0 +1,29 @@
+# EXFOR #         : C0145.003  
+# EXFOR Ver.      : 19970422
+# TRANS #         : 0000
+# Author          : J.J.Kelly et al.
+# Reference       : Phys.Rev.C 44 (1991) 1963
+# DOI             : 10.1103/PhysRevC.44.1963
+# Quantity        : 32S(p,inl)32S partial angular differential cross section
+# REACTION        : 16-S-32(P,INL)16-S-32,PAR,DA
+# File ID         : p-S32-inl-adxc-angdisc-mon-einc3.177E+08_elvl5.549E+06_prodS32_Kelly_1991_c0145.003
+#
+# Einc (eV)       :   3.1770E+08
+# dEinc (eV)      :   4.0000E+05
+# Elvl (eV)       :   5.5490E+06
+#
+# npts            : 4           
+# xmin            :    7.2900000
+# xmax            :   21.8600000
+# ymin            :   6.4030E-05
+# ymax            :   1.7290E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.2900000   0.0000000  7.9980E-05  2.0043E-05
+   9.3800000   0.0000000  1.0890E-04  2.1029E-05
+  17.7000000   0.0000000  1.7290E-04  2.4846E-05
+  21.8600000   0.0000000  6.4030E-05  9.0026E-06
+#---------------------------------------------------

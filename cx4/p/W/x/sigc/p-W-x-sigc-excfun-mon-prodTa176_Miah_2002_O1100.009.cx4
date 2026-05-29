@@ -1,0 +1,23 @@
+# EXFOR #         : O1100.009  
+# EXFOR Ver.      : 20040116
+# TRANS #         : 0000
+# Author          : M.H.Miah et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 369
+# DOI             : N/A
+# Quantity        : natW(p,x)176Ta cumulative production cross section
+# REACTION        : 74-W-0(P,X)73-TA-176,CUM,SIG
+# File ID         : p-W-x-sigc-excfun-mon-prodTa176_Miah_2002_o1100.009
+#
+# npts            : 2           
+# xmin            :   6.6100E+07
+# xmax            :   6.8900E+07
+# ymin            :   4.1150E-02
+# ymax            :   1.1040E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6100E+07  7.1200E+05  4.1150E-02  1.7870E-03
+  6.8900E+07  6.6200E+05  1.1040E-01  3.6430E-03
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : O0471.021  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : S.J.Burger et al.
+# Reference       : Nucl.Phys.A 243 (1975) 461
+# DOI             : 10.1016/0375-9474(75)90290-0
+# Quantity        : 100Mo(p,inl)100Mo partial angular differential cross section
+# REACTION        : 42-MO-100(P,INL)42-MO-100,PAR,DA
+# File ID         : p-Mo100-inl-adxl-lvldis-mon-einc1.252E+07_angc75_prodMo100_Burger_1975_o0471.021
+#
+# Einc (eV)       :   1.2520E+07
+# dEinc (eV)      :   2.0000E+04
+# theta,cm (deg)  :   74.9000000
+# dtheta,cm (deg) :    0.4000000
+#
+# npts            : 1           
+# xmin            :   6.8000E+05
+# xmax            :   6.8000E+05
+# ymin            :   6.5000E-05
+# ymax            :   6.5000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.8000E+05  0.0000E+00  6.5000E-05  5.8500E-06
+#---------------------------------------------------

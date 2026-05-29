@@ -1,0 +1,31 @@
+# EXFOR #         : F0137.004  
+# EXFOR Ver.      : 20141003
+# TRANS #         : F057
+# Author          : S.S.Vasilev et al.
+# Reference       : Izv.Ross.AN,Fiz. 35 No.11 (1971) 2364
+# DOI             : N/A
+# Quantity        : 9Be(p,inl)9Be partial angular differential cross section
+# REACTION        : 4-BE-9(P,INL)4-BE-9,PAR,DA
+# File ID         : p-Be9-inl-adxl-excfun-mon-angl75_elvl1.680E+06_prodBe9_Vasilev_1971_f0137.004
+#
+# theta,lab (deg) :   75.0000000
+# Elvl (eV)       :   1.6800E+06
+#
+# npts            : 7           
+# xmin            :   6.3619E+06
+# xmax            :   6.4807E+06
+# ymin            :   2.3227E-04
+# ymax            :   2.8990E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.3619E+06  0.0000E+00  2.3449E-04  3.0430E-05
+  6.3807E+06  0.0000E+00  2.4266E-04  3.0440E-05
+  6.4019E+06  0.0000E+00  2.8990E-04  3.0430E-05
+  6.4203E+06  0.0000E+00  2.3285E-04  3.0440E-05
+  6.4411E+06  0.0000E+00  2.3227E-04  3.0430E-05
+  6.4621E+06  0.0000E+00  2.5777E-04  3.0440E-05
+  6.4807E+06  0.0000E+00  2.4420E-04  2.6090E-05
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : O1028.003  
+# EXFOR Ver.      : 20120607
+# TRANS #         : O048
+# Author          : V.I.Yurevich et al.
+# Reference       : Yad.Fiz. 65 (2002) 1417
+# DOI             : N/A
+# Quantity        : 232Th(p,f) cross section
+# REACTION        : 90-TH-232(P,F),,SIG
+# File ID         : p-Th232-f-sig-excfun-mon-Yurevich_2002_o1028.003
+#
+# npts            : 2           
+# xmin            :   1.0000E+09
+# xmax            :   2.5500E+09
+# ymin            :   9.0900E-01
+# ymax            :   9.9600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  9.9600E-01  1.1000E-01
+  2.5500E+09  0.0000E+00  9.0900E-01  1.3100E-01
+#---------------------------------------------------

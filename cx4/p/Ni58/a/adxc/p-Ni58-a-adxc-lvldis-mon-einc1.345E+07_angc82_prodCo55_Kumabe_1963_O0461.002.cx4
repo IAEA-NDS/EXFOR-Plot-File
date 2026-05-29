@@ -1,0 +1,26 @@
+# EXFOR #         : O0461.002  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : I.Kumabe et al.
+# Reference       : Nucl.Phys. 46 (1963) 437
+# DOI             : 10.1016/0029-5582(63)90616-3
+# Quantity        : 58Ni(p,a)55Co partial angular differential cross section
+# REACTION        : 28-NI-58(P,A)27-CO-55,PAR,DA
+# File ID         : p-Ni58-a-adxc-lvldis-mon-einc1.345E+07_angc82_prodCo55_Kumabe_1963_o0461.002
+#
+# Einc (eV)       :   1.3450E+07
+# theta,cm (deg)  :   81.9000000
+# dtheta,cm (deg) :    0.6000000
+#
+# npts            : 1           
+# xmin            :   1.8000E+06
+# xmax            :   1.8000E+06
+# ymin            :   9.6000E-05
+# ymax            :   9.6000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.8000E+06  0.0000E+00  9.6000E-05  4.0000E-06
+#---------------------------------------------------

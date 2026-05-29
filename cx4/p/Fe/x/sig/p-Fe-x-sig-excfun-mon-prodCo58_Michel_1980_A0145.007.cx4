@@ -1,0 +1,26 @@
+# EXFOR #         : A0145.007  
+# EXFOR Ver.      : 20240818
+# TRANS #         : A116
+# Author          : R.Michel et al.
+# Reference       : J.Radioanal.Chem. 59 (1980) 467
+# DOI             : 10.1007/BF02517298
+# Quantity        : natFe(p,x)58Co independent production cross section
+# REACTION        : 26-FE-0(P,X)27-CO-58,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodCo58_Michel_1980_a0145.007
+#
+# npts            : 5           
+# xmin            :   7.4100E+06
+# xmax            :   1.6060E+07
+# ymin            :   7.7000E-04
+# ymax            :   2.0400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6060E+07  2.5000E+05  7.7000E-04  1.2000E-04
+  1.4380E+07  3.0000E+05  1.3200E-03  1.8000E-04
+  1.2550E+07  3.9000E+05  2.0200E-03  2.4000E-04
+  1.0440E+07  4.3000E+05  2.0400E-03  2.4000E-04
+  7.4100E+06  5.5000E+05  1.3500E-03  2.0000E-04
+#---------------------------------------------------

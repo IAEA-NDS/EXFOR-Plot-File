@@ -1,0 +1,29 @@
+# EXFOR #         : T0061.002  
+# EXFOR Ver.      : 20001018
+# TRANS #         : 0000
+# Author          : K.R.Cordell et al.
+# Reference       : Nucl.Phys.A 352 (1981) 485
+# DOI             : 10.1016/0375-9474(81)90425-5
+# Quantity        : 181Ta(p,p+x) double differential cross section
+# REACTION        : 73-TA-181(P,X)1-H-1,,DA/DE
+# File ID         : p-Ta181-xp-ddxl-enedisl-mon-einc6.000E+08_angl150_Cordell_1981_t0061.002
+#
+# Einc (eV)       :   6.0000E+08
+# theta,lab (deg) :  150.0000000
+#
+# npts            : 5           
+# xmin            :   1.2100E+08
+# xmax            :   2.7040E+08
+# ymin            :   7.0000E-13
+# ymax            :   5.2100E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.2100E+08  0.0000E+00  5.2100E-11  3.9080E-11
+  1.4660E+08  0.0000E+00  3.0300E-11  2.2730E-11
+  1.7940E+08  0.0000E+00  1.2500E-11  9.3750E-12
+  2.1740E+08  0.0000E+00  3.8000E-12  2.8500E-12
+  2.7040E+08  0.0000E+00  7.0000E-13  5.2500E-13
+#---------------------------------------------------

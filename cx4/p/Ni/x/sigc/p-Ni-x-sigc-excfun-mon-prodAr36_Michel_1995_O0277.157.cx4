@@ -1,0 +1,24 @@
+# EXFOR #         : O0277.157  
+# EXFOR Ver.      : 20110313
+# TRANS #         : O045
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natNi(p,x)36Ar cumulative production cross section
+# REACTION        : 28-NI-0(P,X)18-AR-36,CUM,SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodAr36_Michel_1995_o0277.157
+#
+# npts            : 3           
+# xmin            :   8.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   2.3400E-03
+# ymax            :   3.0600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  2.3400E-03  1.7000E-04
+  1.2000E+09  0.0000E+00  3.0600E-03  2.2000E-04
+  2.6000E+09  0.0000E+00  2.8100E-03  2.0000E-04
+#---------------------------------------------------

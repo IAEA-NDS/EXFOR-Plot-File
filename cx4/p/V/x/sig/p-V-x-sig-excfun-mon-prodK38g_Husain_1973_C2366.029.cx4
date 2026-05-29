@@ -1,0 +1,23 @@
+# EXFOR #         : C2366.029  
+# EXFOR Ver.      : 20181212
+# TRANS #         : C183
+# Author          : L.Husain et al.
+# Reference       : Phys.Rev.C 7 (1973) 2452
+# DOI             : 10.1103/PhysRevC.7.2452
+# Quantity        : natV(p,x)38gK independent production cross section
+# REACTION        : 23-V-0(P,X)19-K-38-G,,SIG
+# File ID         : p-V-x-sig-excfun-mon-prodK38g_Husain_1973_c2366.029
+#
+# npts            : 2           
+# xmin            :   3.0000E+09
+# xmax            :   2.9000E+10
+# ymin            :   3.2000E-04
+# ymax            :   4.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+09  0.0000E+00  4.5000E-04  6.7500E-05
+  2.9000E+10  0.0000E+00  3.2000E-04  4.8000E-05
+#---------------------------------------------------

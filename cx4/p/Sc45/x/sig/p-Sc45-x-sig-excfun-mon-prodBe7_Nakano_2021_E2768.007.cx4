@@ -1,0 +1,23 @@
+# EXFOR #         : E2768.007  
+# EXFOR Ver.      : 20231202
+# TRANS #         : E141
+# Author          : K.Nakano et al.
+# Reference       : Report JAEA-R-2021-014 page 1, 2021
+# DOI             : N/A
+# Quantity        : 45Sc(p,x)7Be independent production cross section
+# REACTION        : 21-SC-45(P,X)4-BE-7,,SIG
+# File ID         : p-Sc45-x-sig-excfun-mon-prodBe7_Nakano_2021_e2768.007
+#
+# npts            : 2           
+# xmin            :   2.2000E+09
+# xmax            :   3.0000E+09
+# ymin            :   9.2800E-03
+# ymax            :   1.0200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2000E+09  0.0000E+00  9.2800E-03  5.6000E-04
+  3.0000E+09  0.0000E+00  1.0200E-02  6.0000E-04
+#---------------------------------------------------

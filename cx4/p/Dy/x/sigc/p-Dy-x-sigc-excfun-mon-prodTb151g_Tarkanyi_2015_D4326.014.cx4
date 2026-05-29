@@ -1,0 +1,26 @@
+# EXFOR #         : D4326.014  
+# EXFOR Ver.      : 20260304
+# TRANS #         : D151
+# Author          : F.Tarkanyi et al.
+# Reference       : Appl.Radiat.Isot. 98 (2015) 87
+# DOI             : 10.1016/j.apradiso.2015.01.015
+# Quantity        : natDy(p,x)151gTb cumulative production cross section
+# REACTION        : 66-DY-0(P,X)65-TB-151-G,CUM,SIG
+# File ID         : p-Dy-x-sigc-excfun-mon-prodTb151g_Tarkanyi_2015_d4326.014
+#
+# npts            : 5           
+# xmin            :   6.1000E+07
+# xmax            :   6.4900E+07
+# ymin            :   3.5000E-04
+# ymax            :   5.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.1000E+07  4.0000E+05  3.5000E-04  7.0000E-05
+  6.1900E+07  4.0000E+05  3.9000E-04  6.0000E-05
+  6.3000E+07  3.0000E+05  4.2000E-04  7.0000E-05
+  6.3900E+07  3.0000E+05  5.7000E-04  8.0000E-05
+  6.4900E+07  3.0000E+05  4.9000E-04  8.0000E-05
+#---------------------------------------------------

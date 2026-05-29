@@ -1,0 +1,22 @@
+# EXFOR #         : O0821.038  
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : V.Aleksandryan et al.
+# Reference       : Nucl.Phys.A 674 (2000) 539
+# DOI             : 10.1016/S0375-9474(00)00167-6
+# Quantity        : 120Sn(p,x)81Rb cumulative production cross section
+# REACTION        : 50-SN-120(P,X)37-RB-81,CUM,SIG
+# File ID         : p-Sn120-x-sigc-excfun-mon-prodRb81_Aleksandryan_2000_o0821.038
+#
+# npts            : 1           
+# xmin            :   1.0000E+09
+# xmax            :   1.0000E+09
+# ymin            :   3.6000E-03
+# ymax            :   3.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  3.6000E-03  3.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : D0539.003  
+# EXFOR Ver.      : 20210929
+# TRANS #         : D132
+# Author          : E.K.Elmaghraby et al.
+# Reference       : Appl.Radiat.Isot. 67 (2009) 147
+# DOI             : 10.1016/j.apradiso.2008.07.017
+# Quantity        : 124Sn(p,n)124gSb cumulative production cross section
+# REACTION        : 50-SN-124(P,N)51-SB-124-G,M+,SIG
+# File ID         : p-Sn124-x-sigc-excfun-mon-prodSb124g_Elmaghraby_2009_d0539.003
+#
+# npts            : 2           
+# xmin            :   7.9600E+06
+# xmax            :   1.3000E+07
+# ymin            :   9.0010E-02
+# ymax            :   2.9286E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.9600E+06  0.0000E+00  2.9286E-01  2.3700E-02
+  1.3000E+07  0.0000E+00  9.0010E-02  7.3000E-03
+#---------------------------------------------------

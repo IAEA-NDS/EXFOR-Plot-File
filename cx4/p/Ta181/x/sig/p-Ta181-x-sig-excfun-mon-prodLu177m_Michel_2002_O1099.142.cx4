@@ -1,0 +1,26 @@
+# EXFOR #         : O1099.142  
+# EXFOR Ver.      : 20220120
+# TRANS #         : O087
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 181Ta(p,x)177mLu independent production cross section
+# REACTION        : 73-TA-181(P,X)71-LU-177-M,,SIG
+# File ID         : p-Ta181-x-sig-excfun-mon-prodLu177m_Michel_2002_o1099.142
+#
+# npts            : 5           
+# xmin            :   3.3700E+08
+# xmax            :   2.5800E+09
+# ymin            :   1.4400E-04
+# ymax            :   3.1100E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3700E+08  2.0000E+06  1.4400E-04  2.7000E-05
+  9.8600E+08  1.0000E+06  2.4500E-04  3.7000E-05
+  1.3800E+09  1.0000E+06  2.5500E-04  3.9000E-05
+  1.5700E+09  1.0000E+06  2.4800E-04  3.5000E-05
+  2.5800E+09  1.0000E+06  3.1100E-04  6.5000E-05
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : C3074.007  
+# EXFOR Ver.      : 20250710
+# TRANS #         : C251
+# Author          : J.T.Morrell et al.
+# Reference       : Eur.Phys.J.A 56 (2020) 13
+# DOI             : 10.1140/epja/s10050-019-00010-0
+# Quantity        : 139La(p,x)132Ce independent production cross section
+# REACTION        : 57-LA-139(P,X)58-CE-132,,SIG
+# File ID         : p-La139-x-sig-excfun-mon-prodCe132_Morrell_2020_c3074.007
+#
+# npts            : 3           
+# xmin            :   5.0990E+07
+# xmax            :   5.6070E+07
+# ymin            :   4.0500E-05
+# ymax            :   1.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.6070E+07  3.1000E+05  1.7000E-04  1.4000E-05
+  5.4420E+07  3.2000E+05  1.1140E-04  5.4000E-06
+  5.0990E+07  3.3000E+05  4.0500E-05  5.7000E-06
+#---------------------------------------------------

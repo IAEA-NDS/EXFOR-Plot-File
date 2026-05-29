@@ -1,0 +1,27 @@
+# EXFOR #         : D4133.003  
+# EXFOR Ver.      : 20250505
+# TRANS #         : D148
+# Author          : M.Fassbender et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 page 1647
+# DOI             : N/A
+# Quantity        : natN(p,x)11C independent production cross section
+# REACTION        : 7-N-0(P,X)6-C-11,,SIG
+# File ID         : p-N-x-sig-excfun-mon-prodC11_Fassbender_1997_d4133.003
+#
+# npts            : 6           
+# xmin            :   5.1000E+07
+# xmax            :   1.7240E+08
+# ymin            :   9.2000E-03
+# ymax            :   1.3300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.1000E+07  0.0000E+00  1.3300E-02  3.2000E-03
+  5.5400E+07  0.0000E+00  1.3000E-02  2.7000E-03
+  5.9500E+07  0.0000E+00  1.2900E-02  2.8000E-03
+  6.4000E+07  0.0000E+00  1.1000E-02  2.3000E-03
+  6.8000E+07  0.0000E+00  1.1800E-02  2.5000E-03
+  1.7240E+08  0.0000E+00  9.2000E-03  9.0000E-04
+#---------------------------------------------------

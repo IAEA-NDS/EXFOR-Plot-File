@@ -1,0 +1,22 @@
+# EXFOR #         : B0085.133  
+# EXFOR Ver.      : 20240425
+# TRANS #         : B036
+# Author          : J.E.Cline et al.
+# Reference       : Nucl.Phys.A 169 (1971) 437
+# DOI             : 10.1016/0375-9474(71)90897-9
+# Quantity        : natCu(p,x)38gK independent production cross section
+# REACTION        : 29-CU-0(P,X)19-K-38-G,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodK38g_Cline_1971_b0085.133
+#
+# npts            : 1           
+# xmin            :   5.9000E+08
+# xmax            :   5.9000E+08
+# ymin            :   1.7000E-04
+# ymax            :   1.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  1.7000E-04  5.0000E-05
+#---------------------------------------------------

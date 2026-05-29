@@ -1,0 +1,26 @@
+# EXFOR #         : E2084.005  
+# EXFOR Ver.      : 20081121
+# TRANS #         : E055
+# Author          : Y.Shimizu et al.
+# Reference       : Phys.Rev.C 76 No.4 (2007) 044003
+# DOI             : 10.1103/PhysRevC.76.044003
+# Quantity        : 3He(p,el)3He angular differential cross section
+# REACTION        : 2-HE-3(P,EL)2-HE-3,,DA
+# File ID         : p-He3-el-adxc-excfun-mon-angc180_prodHe3_Shimizu_2007_e2084.005
+#
+# theta,cm (deg)  :  180.0000000
+#
+# npts            : 3           
+# xmin            :   2.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   2.0400E-06
+# ymax            :   1.4200E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  1.4200E-05  1.0000E-07
+  3.0000E+08  0.0000E+00  3.5600E-06  1.0000E-08
+  4.0000E+08  0.0000E+00  2.0400E-06  1.0000E-08
+#---------------------------------------------------

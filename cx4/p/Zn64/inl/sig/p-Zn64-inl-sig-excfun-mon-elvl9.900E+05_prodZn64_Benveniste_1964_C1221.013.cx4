@@ -1,0 +1,25 @@
+# EXFOR #         : C1221.013  
+# EXFOR Ver.      : 20050408
+# TRANS #         : C073
+# Author          : J.Benveniste et al.
+# Reference       : Phys.Rev. 133 No.2 (1964) B323
+# DOI             : N/A
+# Quantity        : 64Zn(p,inl)64Zn partial cross section
+# REACTION        : 30-ZN-64(P,INL)30-ZN-64,PAR,SIG
+# File ID         : p-Zn64-inl-sig-excfun-mon-elvl9.900E+05_prodZn64_Benveniste_1964_c1221.013
+#
+# Elvl (eV)       :   9.9000E+05
+#
+# npts            : 2           
+# xmin            :   9.6000E+06
+# xmax            :   1.1700E+07
+# ymin            :   5.4300E-02
+# ymax            :   5.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.6000E+06  0.0000E+00  5.5000E-02  0.0000E+00
+  1.1700E+07  0.0000E+00  5.4300E-02  0.0000E+00
+#---------------------------------------------------

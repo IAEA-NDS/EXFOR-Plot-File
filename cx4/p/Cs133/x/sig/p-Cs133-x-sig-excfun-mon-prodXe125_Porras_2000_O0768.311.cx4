@@ -1,0 +1,22 @@
+# EXFOR #         : O0768.311  
+# EXFOR Ver.      : 20221115
+# TRANS #         : O091
+# Author          : E.Porras et al.
+# Reference       : Nucl.Instrum.Meth.B 160 (2000) 73
+# DOI             : 10.1016/S0168-583X(99)00556-X
+# Quantity        : 133Cs(p,x)125Xe independent production cross section
+# REACTION        : 55-CS-133(P,X)54-XE-125,,SIG
+# File ID         : p-Cs133-x-sig-excfun-mon-prodXe125_Porras_2000_o0768.311
+#
+# npts            : 1           
+# xmin            :   1.2000E+09
+# xmax            :   1.2000E+09
+# ymin            :   9.4000E-03
+# ymax            :   9.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  9.4000E-03  5.0000E-04
+#---------------------------------------------------

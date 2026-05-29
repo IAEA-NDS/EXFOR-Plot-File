@@ -1,0 +1,27 @@
+# EXFOR #         : C2229.004  
+# EXFOR Ver.      : 20160718
+# TRANS #         : C162
+# Author          : T.Bloxham et al.
+# Reference       : Phys.Rev.C 82 (2010) 027308
+# DOI             : 10.1103/PhysRevC.82.027308
+# Quantity        : 130Te(p,t)128Te partial angular differential cross section
+# REACTION        : 52-TE-130(P,T)52-TE-128,PAR,DA
+# File ID         : p-Te130-t-adxl-lvldis-mon-einc1.500E+07_angl5_prodTe128_Bloxham_2010_c2229.004
+#
+# Einc (eV)       :   1.5000E+07
+# theta,lab (deg) :    5.0000000
+#
+# npts            : 3           
+# xmin            :   0.0000E+00
+# xmax            :   2.3130E+06
+# ymin            :   5.0000E-05
+# ymax            :   3.4900E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  3.4900E-03  0.0000E+00
+  1.9790E+06  0.0000E+00  5.0000E-05  0.0000E+00
+  2.3130E+06  0.0000E+00  5.0000E-05  0.0000E+00
+#---------------------------------------------------

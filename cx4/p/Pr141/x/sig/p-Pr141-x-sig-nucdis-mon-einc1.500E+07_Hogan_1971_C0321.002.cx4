@@ -1,0 +1,25 @@
+# EXFOR #         : C0321.002  
+# EXFOR Ver.      : 20220805
+# TRANS #         : C216
+# Author          : J.J.Hogan
+# Reference       : J.Inorg.Nucl.Chem. 33 (1971) 3627
+# DOI             : 10.1016/0022-1902(71)80267-1
+# Quantity        : 141Pr(p,x) independent production cross section
+# REACTION        : 59-PR-141(P,X)ELEM/MASS,,SIG
+# File ID         : p-Pr141-x-sig-nucdis-mon-einc1.500E+07_Hogan_1971_c0321.002
+#
+# Einc (eV)       :   1.5000E+07
+#
+# npts            : 2           
+# xmin            : 60140.9     
+# xmax            : 60141.9     
+# ymin            :   6.1700E-01
+# ymax            :   7.0700E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     60141.9  7.0700E-01  1.4000E-02
+     60140.9  6.1700E-01  1.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C0237.010.2
+# EXFOR Ver.      : 20040823
+# TRANS #         : 0000
+# Author          : I.Dostrovsky et al.
+# Reference       : Phys.Rev. 169 (1968) 836
+# DOI             : 10.1103/PhysRev.169.836
+# Quantity        : 23Na(p,x)16C independent production cross section
+# REACTION        : 11-NA-23(P,X)6-C-16,,SIG
+# File ID         : p-Na23-x-sig-excfun-mon-prodC16_Dostrovsky_1968_c0237.010.2
+#
+# npts            : 1           
+# xmin            :   1.5600E+08
+# xmax            :   1.5600E+08
+# ymin            :   3.2000E-06
+# ymax            :   3.2000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5600E+08  0.0000E+00  3.2000E-06  1.9000E-06
+#---------------------------------------------------

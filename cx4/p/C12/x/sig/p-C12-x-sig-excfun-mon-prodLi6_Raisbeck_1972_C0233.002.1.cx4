@@ -1,0 +1,23 @@
+# EXFOR #         : C0233.002.1
+# EXFOR Ver.      : 19871116
+# TRANS #         : 0000
+# Author          : G.M.Raisbeck et al.
+# Reference       : Phys.Rev.C 6 (1972) 685
+# DOI             : 10.1103/PhysRevC.6.685
+# Quantity        : 12C(p,x)6Li independent production cross section
+# REACTION        : 6-C-12(P,X)3-LI-6,,SIG
+# File ID         : p-C12-x-sig-excfun-mon-prodLi6_Raisbeck_1972_c0233.002.1
+#
+# npts            : 2           
+# xmin            :   1.5000E+08
+# xmax            :   6.0000E+08
+# ymin            :   1.1600E-02
+# ymax            :   1.5500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  1.1600E-02  1.6000E-03
+  6.0000E+08  0.0000E+00  1.5500E-02  2.2000E-03
+#---------------------------------------------------

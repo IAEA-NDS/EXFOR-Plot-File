@@ -1,0 +1,28 @@
+# EXFOR #         : O0442.002  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : N.Lingappa et al.
+# Reference       : Phys.Rev.C 2 (1970) 1329
+# DOI             : 10.1103/PhysRevC.2.1329
+# Quantity        : 58Ni(p,inl)58Ni partial angular differential cross section
+# REACTION        : 28-NI-58(P,INL)28-NI-58,PAR,DA
+# File ID         : p-Ni58-inl-adxc-lvldis-mon-einc4.000E+07_angc15_prodNi58_Lingappa_1970_o0442.002
+#
+# Einc (eV)       :   4.0000E+07
+# dEinc (eV)      :   2.3000E+05
+# theta,cm (deg)  :   15.3000000
+#
+# npts            : 3           
+# xmin            :   1.4500E+06
+# xmax            :   4.4000E+06
+# ymin            :   8.3000E-04
+# ymax            :   1.2690E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4500E+06  0.0000E+00  1.2690E-02  6.0000E-04
+  2.4500E+06  0.0000E+00  8.3000E-04  8.0000E-05
+  4.4000E+06  0.0000E+00  5.8400E-03  3.0000E-04
+#---------------------------------------------------

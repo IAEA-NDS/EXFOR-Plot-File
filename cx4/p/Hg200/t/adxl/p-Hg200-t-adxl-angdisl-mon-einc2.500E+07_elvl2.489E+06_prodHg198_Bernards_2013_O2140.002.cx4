@@ -1,0 +1,28 @@
+# EXFOR #         : O2140.002  
+# EXFOR Ver.      : 20131007
+# TRANS #         : O051
+# Author          : C.Bernards et al.
+# Reference       : Phys.Rev.C 87 (2013) 024318
+# DOI             : 10.1103/PhysRevC.87.024318
+# Quantity        : 200Hg(p,t)198Hg partial angular differential cross section
+# REACTION        : 80-HG-200(P,T)80-HG-198,PAR,DA
+# File ID         : p-Hg200-t-adxl-angdisl-mon-einc2.500E+07_elvl2.489E+06_prodHg198_Bernards_2013_o2140.002
+#
+# Einc (eV)       :   2.5000E+07
+# Elvl (eV)       :   2.4886E+06
+# dElvl (eV)      :   2.0000E+02
+#
+# npts            : 3           
+# xmin            :    5.0000000
+# xmax            :   30.0000000
+# ymin            :   1.4900E-05
+# ymax            :   1.8600E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0000000   0.0000000  1.4900E-05  1.7000E-06
+  17.5000000   0.0000000  1.8600E-05  2.0000E-06
+  30.0000000   0.0000000  1.7300E-05  1.9000E-06
+#---------------------------------------------------

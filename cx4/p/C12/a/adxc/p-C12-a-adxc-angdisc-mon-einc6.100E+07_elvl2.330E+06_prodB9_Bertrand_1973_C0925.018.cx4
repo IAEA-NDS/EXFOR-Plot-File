@@ -1,0 +1,27 @@
+# EXFOR #         : C0925.018  
+# EXFOR Ver.      : 20110125
+# TRANS #         : C105
+# Author          : F.E.Bertrand et al.
+# Reference       : Phys.Rev.C 8 (1973) 1045
+# DOI             : 10.1103/PhysRevC.8.1045
+# Quantity        : 12C(p,a)9B partial angular differential cross section
+# REACTION        : 6-C-12(P,A)5-B-9,PAR,DA
+# File ID         : p-C12-a-adxc-angdisc-mon-einc6.100E+07_elvl2.330E+06_prodB9_Bertrand_1973_c0925.018
+#
+# Einc (eV)       :   6.1000E+07
+# Elvl (eV)       :   2.3300E+06
+#
+# npts            : 3           
+# xmin            :   36.2000000
+# xmax            :   53.7000000
+# ymin            :   4.1000E-05
+# ymax            :   5.4000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  36.2000000   0.0000000  5.1000E-05  7.1400E-06
+  42.1000000   0.0000000  5.4000E-05  4.8600E-06
+  53.7000000   0.0000000  4.1000E-05  2.8700E-06
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : A0145.016  
+# EXFOR Ver.      : 20240818
+# TRANS #         : A116
+# Author          : R.Michel et al.
+# Reference       : J.Radioanal.Chem. 59 (1980) 467
+# DOI             : 10.1007/BF02517298
+# Quantity        : natFe(p,x)56Co independent production cross section
+# REACTION        : 26-FE-0(P,X)27-CO-56,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodCo56_Michel_1980_a0145.016
+#
+# npts            : 5           
+# xmin            :   7.4100E+06
+# xmax            :   1.6060E+07
+# ymin            :   9.7300E-02
+# ymax            :   3.7100E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6060E+07  2.5000E+05  2.2800E-01  2.3000E-02
+  1.4380E+07  3.0000E+05  3.4200E-01  3.4000E-02
+  1.2550E+07  3.9000E+05  3.7100E-01  3.7000E-02
+  1.0440E+07  4.3000E+05  3.1900E-01  3.2000E-02
+  7.4100E+06  5.5000E+05  9.7300E-02  1.0000E-02
+#---------------------------------------------------

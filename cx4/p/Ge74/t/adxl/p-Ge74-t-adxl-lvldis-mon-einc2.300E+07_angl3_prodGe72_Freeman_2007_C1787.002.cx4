@@ -1,0 +1,25 @@
+# EXFOR #         : C1787.002  
+# EXFOR Ver.      : 20100308
+# TRANS #         : C100
+# Author          : S.J.Freeman et al.
+# Reference       : Phys.Rev.C 75 (2007) 051301
+# DOI             : 10.1103/PhysRevC.75.051301
+# Quantity        : 74Ge(p,t)72Ge partial angular differential cross section
+# REACTION        : 32-GE-74(P,T)32-GE-72,PAR,DA
+# File ID         : p-Ge74-t-adxl-lvldis-mon-einc2.300E+07_angl3_prodGe72_Freeman_2007_c1787.002
+#
+# Einc (eV)       :   2.3000E+07
+# theta,lab (deg) :    3.0000000
+#
+# npts            : 1           
+# xmin            :   0.0000E+00
+# xmax            :   0.0000E+00
+# ymin            :   6.4000E-03
+# ymax            :   6.4000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  6.4000E-03  6.4000E-04
+#---------------------------------------------------

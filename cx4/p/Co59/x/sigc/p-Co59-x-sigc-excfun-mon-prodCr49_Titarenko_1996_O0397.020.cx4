@@ -1,0 +1,22 @@
+# EXFOR #         : O0397.020  
+# EXFOR Ver.      : 20191007
+# TRANS #         : O071
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 page 184
+# DOI             : N/A
+# Quantity        : 59Co(p,x)49Cr cumulative production cross section
+# REACTION        : 27-CO-59(P,X)24-CR-49,CUM,SIG
+# File ID         : p-Co59-x-sigc-excfun-mon-prodCr49_Titarenko_1996_o0397.020
+#
+# npts            : 1           
+# xmin            :   1.2000E+09
+# xmax            :   1.2000E+09
+# ymin            :   4.4000E-03
+# ymax            :   4.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  4.4000E-03  5.0000E-04
+#---------------------------------------------------

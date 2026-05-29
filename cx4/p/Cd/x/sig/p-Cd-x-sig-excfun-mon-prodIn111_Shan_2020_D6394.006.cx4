@@ -1,0 +1,25 @@
+# EXFOR #         : D6394.006  
+# EXFOR Ver.      : 20210907
+# TRANS #         : D134
+# Author          : P.T.M.Shan et al.
+# Reference       : Eur.Phys.J.Plus 135 (2020) 385
+# DOI             : 10.1140/epjp/s13360-020-00393-w
+# Quantity        : natCd(p,x)111In independent production cross section
+# REACTION        : 48-CD-0(P,X)49-IN-111,,SIG
+# File ID         : p-Cd-x-sig-excfun-mon-prodIn111_Shan_2020_d6394.006
+#
+# npts            : 4           
+# xmin            :   8.9600E+06
+# xmax            :   2.1960E+07
+# ymin            :   2.4300E-01
+# ymax            :   6.9900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.9600E+06  5.0000E+05  2.4300E-01  2.6700E-02
+  1.2950E+07  4.0000E+05  3.0800E-01  2.7700E-02
+  1.7890E+07  4.0000E+05  4.0800E-01  2.8500E-02
+  2.1960E+07  2.0000E+05  6.9900E-01  4.7460E-02
+#---------------------------------------------------

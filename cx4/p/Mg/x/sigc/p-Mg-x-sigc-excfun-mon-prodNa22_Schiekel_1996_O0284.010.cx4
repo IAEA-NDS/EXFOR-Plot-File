@@ -1,0 +1,25 @@
+# EXFOR #         : O0284.010  
+# EXFOR Ver.      : 20191005
+# TRANS #         : O071
+# Author          : Th.Schiekel et al.
+# Reference       : Nucl.Instrum.Meth.B 114 (1996) 91
+# DOI             : 10.1016/0168-583X(96)00145-0
+# Quantity        : natMg(p,x)22Na cumulative production cross section
+# REACTION        : 12-MG-0(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Mg-x-sigc-excfun-mon-prodNa22_Schiekel_1996_o0284.010
+#
+# npts            : 4           
+# xmin            :   2.5400E+08
+# xmax            :   3.9600E+08
+# ymin            :   3.3000E-02
+# ymax            :   3.4500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5400E+08  1.3000E+06  3.3900E-02  1.8700E-03
+  2.9600E+08  6.4300E+05  3.4500E-02  1.8200E-03
+  3.6100E+08  1.2900E+06  3.3000E-02  1.7100E-03
+  3.9600E+08  6.3600E+05  3.4000E-02  1.8300E-03
+#---------------------------------------------------

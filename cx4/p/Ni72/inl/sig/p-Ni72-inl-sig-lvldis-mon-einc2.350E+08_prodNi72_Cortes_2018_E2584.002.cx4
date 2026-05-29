@@ -1,0 +1,26 @@
+# EXFOR #         : E2584.002  
+# EXFOR Ver.      : 20181228
+# TRANS #         : E121
+# Author          : M.L.Cortes et al.
+# Reference       : Phys.Rev.C 97 (2018) 044315
+# DOI             : 10.1103/PhysRevC.97.044315
+# Quantity        : 72Ni(p,inl)72Ni partial cross section
+# REACTION        : 28-NI-72(P,INL)28-NI-72,PAR,SIG
+# File ID         : p-Ni72-inl-sig-lvldis-mon-einc2.350E+08_prodNi72_Cortes_2018_e2584.002
+#
+# Einc (eV)       :   2.3500E+08
+#
+# npts            : 3           
+# xmin            :   1.0960E+06
+# xmax            :   2.2200E+06
+# ymin            :   7.0000E-04
+# ymax            :   2.2000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0960E+06  0.0000E+00  2.2000E-03  7.0000E-04
+  1.9410E+06  0.0000E+00  8.0000E-04  1.0000E-04
+  2.2200E+06  0.0000E+00  7.0000E-04  3.0000E-04
+#---------------------------------------------------

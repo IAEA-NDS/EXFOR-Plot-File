@@ -1,0 +1,27 @@
+# EXFOR #         : O0787.002  
+# EXFOR Ver.      : 20050202
+# TRANS #         : 0000
+# Author          : J.Kiener et al.
+# Reference       : Phys.Rev.C 58 (1998) 2174
+# DOI             : 10.1103/PhysRevC.58.2174
+# Quantity        : 16O(p,inl)16O partial gamma production cross section
+# REACTION        : 8-O-16(P,INL)8-O-16,PAR,SIG,G
+# File ID         : p-O16-inl-sigg-enedisl-mon-einc8.721E+06_prodO16_Kiener_1998_o0787.002
+#
+# Einc (eV)       :   8.7210E+06
+# dEinc (eV)      :   7.9000E+04
+#
+# npts            : 3           
+# xmin            :   6.1300E+06
+# xmax            :   7.1200E+06
+# ymin            :   1.2610E-02
+# ymax            :   1.4330E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.1300E+06  0.0000E+00  7.9390E-02  2.1220E-02
+  6.9200E+06  0.0000E+00  1.4330E-01  4.2550E-02
+  7.1200E+06  0.0000E+00  1.2610E-02  4.0570E-03
+#---------------------------------------------------

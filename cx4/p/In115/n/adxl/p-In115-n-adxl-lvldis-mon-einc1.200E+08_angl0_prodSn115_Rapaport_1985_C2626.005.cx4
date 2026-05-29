@@ -1,0 +1,26 @@
+# EXFOR #         : C2626.005  
+# EXFOR Ver.      : 20210924
+# TRANS #         : C209
+# Author          : J.Rapaport et al.
+# Reference       : Phys.Rev.Lett. 54 (1985) 2325
+# DOI             : 10.1103/PhysRevLett.54.2325
+# Quantity        : 115In(p,n)115Sn partial angular differential cross section
+# REACTION        : 49-IN-115(P,N)50-SN-115,PAR,DA
+# File ID         : p-In115-n-adxl-lvldis-mon-einc1.200E+08_angl0_prodSn115_Rapaport_1985_c2626.005
+#
+# Einc (eV)       :   1.2000E+08
+# dEinc (eV)      :   3.0000E+05
+# theta,lab (deg) :    0.0000000
+#
+# npts            : 1           
+# xmin            :   6.1400E+05
+# xmax            :   6.1400E+05
+# ymin            :   5.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.1400E+05  0.0000E+00  5.0000E-04  0.0000E+00
+#---------------------------------------------------

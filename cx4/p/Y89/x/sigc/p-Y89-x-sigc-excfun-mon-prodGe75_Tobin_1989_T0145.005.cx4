@@ -1,0 +1,22 @@
+# EXFOR #         : T0145.005  
+# EXFOR Ver.      : 20010213
+# TRANS #         : 0000
+# Author          : M.J.Tobin et al.
+# Reference       : Phys.Rev.C 39 (1989) 2330
+# DOI             : 10.1103/PhysRevC.39.2330
+# Quantity        : 89Y(p,x)75Ge cumulative production cross section
+# REACTION        : 39-Y-89(P,X)32-GE-75,CUM,SIG
+# File ID         : p-Y89-x-sigc-excfun-mon-prodGe75_Tobin_1989_t0145.005
+#
+# npts            : 1           
+# xmin            :   8.0000E+08
+# xmax            :   8.0000E+08
+# ymin            :   5.8000E-05
+# ymax            :   5.8000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  5.8000E-05  8.0000E-06
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : O0820.022  
+# EXFOR Ver.      : 20120605
+# TRANS #         : O048
+# Author          : A.S.Danagulyan et al.
+# Reference       : Yad.Fiz. 63 (2000) 204
+# DOI             : N/A
+# Quantity        : 124Sn(p,x)24Na cumulative production cross section
+# REACTION        : 50-SN-124(P,X)11-NA-24,CUM,SIG
+# File ID         : p-Sn124-x-sigc-excfun-mon-prodNa24_Danagulyan_2000_o0820.022
+#
+# npts            : 2           
+# xmin            :   6.6000E+08
+# xmax            :   8.1000E+09
+# ymin            :   9.0000E-05
+# ymax            :   5.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  9.0000E-05  1.0000E-05
+  8.1000E+09  0.0000E+00  5.3000E-03  2.0000E-04
+#---------------------------------------------------

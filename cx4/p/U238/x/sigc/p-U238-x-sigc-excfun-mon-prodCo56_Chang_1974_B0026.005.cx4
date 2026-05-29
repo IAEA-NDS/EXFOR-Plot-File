@@ -1,0 +1,23 @@
+# EXFOR #         : B0026.005  
+# EXFOR Ver.      : 20220316
+# TRANS #         : B033
+# Author          : S.K.Chang et al.
+# Reference       : Phys.Rev.C 9 (1974) 1138
+# DOI             : 10.1103/PhysRevC.9.1138
+# Quantity        : 238U(p,x)56Co cumulative production cross section
+# REACTION        : 92-U-238(P,X)27-CO-56,CUM,SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodCo56_Chang_1974_b0026.005
+#
+# npts            : 2           
+# xmin            :   1.1500E+10
+# xmax            :   3.0000E+11
+# ymin            :   3.1000E-04
+# ymax            :   3.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+10  0.0000E+00  3.1000E-04  0.0000E+00
+  3.0000E+11  0.0000E+00  3.2000E-04  0.0000E+00
+#---------------------------------------------------

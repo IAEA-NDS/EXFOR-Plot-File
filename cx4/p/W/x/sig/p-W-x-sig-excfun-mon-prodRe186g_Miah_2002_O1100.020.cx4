@@ -1,0 +1,25 @@
+# EXFOR #         : O1100.020  
+# EXFOR Ver.      : 20230124
+# TRANS #         : O093
+# Author          : M.H.Miah et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 369
+# DOI             : N/A
+# Quantity        : natW(p,x)186gRe independent production cross section
+# REACTION        : 74-W-0(P,X)75-RE-186-G,,SIG
+# File ID         : p-W-x-sig-excfun-mon-prodRe186g_Miah_2002_o1100.020
+#
+# npts            : 4           
+# xmin            :   5.2100E+07
+# xmax            :   6.8900E+07
+# ymin            :   2.0520E-03
+# ymax            :   3.2710E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2100E+07  9.0400E+05  3.2710E-03  7.8230E-04
+  5.5400E+07  8.7000E+05  2.8830E-03  2.5160E-04
+  5.8600E+07  8.3300E+05  2.9080E-03  1.9120E-04
+  6.8900E+07  6.6200E+05  2.0520E-03  7.3650E-05
+#---------------------------------------------------

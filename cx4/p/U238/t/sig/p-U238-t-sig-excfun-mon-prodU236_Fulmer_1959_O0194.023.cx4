@@ -1,0 +1,22 @@
+# EXFOR #         : O0194.023  
+# EXFOR Ver.      : 20100401
+# TRANS #         : O041
+# Author          : C.B.Fulmer
+# Reference       : Phys.Rev. 116 (1959) 418
+# DOI             : 10.1103/PhysRev.116.418
+# Quantity        : 238U(p,t)236U cross section
+# REACTION        : 92-U-238(P,T)92-U-236,,SIG
+# File ID         : p-U238-t-sig-excfun-mon-prodU236_Fulmer_1959_o0194.023
+#
+# npts            : 1           
+# xmin            :   2.2800E+07
+# xmax            :   2.2800E+07
+# ymin            :   1.3000E-02
+# ymax            :   1.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2800E+07  0.0000E+00  1.3000E-02  4.0000E-03
+#---------------------------------------------------

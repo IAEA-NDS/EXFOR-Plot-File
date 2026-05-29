@@ -1,0 +1,26 @@
+# EXFOR #         : A0495.002  
+# EXFOR Ver.      : 20260202
+# TRANS #         : A130
+# Author          : C.Angulo et al.
+# Reference       : Nucl.Phys.A 716 (2003) 211
+# DOI             : 10.1016/S0375-9474(02)01584-1
+# Quantity        : 7Be(p,el)7Be angular differential cross section
+# REACTION        : 4-BE-7(P,EL)4-BE-7,,DA
+# File ID         : p-Be7-el-adxc-angdisc-mon-einc7.628E+05_prodBe7_Angulo_2003_a0495.002
+#
+# Einc (eV)       :   7.6283E+05
+#
+# npts            : 3           
+# xmin            :  123.6000000
+# xmax            :  168.4000000
+# ymin            :   6.1400E-02
+# ymax            :   8.4300E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 123.6000000   0.0000000  8.4300E-02  1.5800E-03
+ 156.6000000   0.0000000  6.1400E-02  2.6600E-03
+ 168.4000000   0.0000000  6.3500E-02  2.5900E-03
+#---------------------------------------------------

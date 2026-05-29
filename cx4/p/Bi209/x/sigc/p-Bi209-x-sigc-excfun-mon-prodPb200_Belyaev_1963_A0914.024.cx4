@@ -1,0 +1,23 @@
+# EXFOR #         : A0914.024  
+# EXFOR Ver.      : 20120117
+# TRANS #         : A076
+# Author          : B.I.Belyaev et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 27 (1963) 907
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)200Pb cumulative production cross section
+# REACTION        : 83-BI-209(P,X)82-PB-200,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodPb200_Belyaev_1963_a0914.024
+#
+# npts            : 2           
+# xmin            :   1.3500E+08
+# xmax            :   2.6000E+08
+# ymin            :   8.2000E-02
+# ymax            :   1.0300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3500E+08  0.0000E+00  8.2000E-02  1.6000E-02
+  2.6000E+08  0.0000E+00  1.0300E-01  5.0000E-03
+#---------------------------------------------------

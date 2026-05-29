@@ -1,0 +1,23 @@
+# EXFOR #         : O0630.004.1
+# EXFOR Ver.      : 20120602
+# TRANS #         : O048
+# Author          : O.E.Shigaev et al.
+# Reference       : Yad.Fiz. 35 (1982) 567
+# DOI             : N/A
+# Quantity        : natSn(p,f) cross section
+# REACTION        : 50-SN-0(P,F),,SIG
+# File ID         : p-Sn-f-sig-excfun-mon-Shigaev_1982_o0630.004.1
+#
+# npts            : 2           
+# xmin            :   1.5500E+08
+# xmax            :   2.0000E+08
+# ymin            :   6.2000E-06
+# ymax            :   1.5500E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5500E+08  0.0000E+00  6.2000E-06  6.0000E-07
+  2.0000E+08  0.0000E+00  1.5500E-05  1.2000E-06
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : E2752.003  
+# EXFOR Ver.      : 20230721
+# TRANS #         : E139
+# Author          : H.Wang et al.
+# Reference       : Phys.Lett.B 843 (2023) 138038
+# DOI             : 10.1016/j.physletb.2023.138038
+# Quantity        : 29Ne(p,n+p)28Ne cross section
+# REACTION        : 10-NE-29(P,N+P)10-NE-28,,SIG
+# File ID         : p-Ne29-np-sig-excfun-mon-prodNe28_Wang_2023_e2752.003
+#
+# npts            : 1           
+# xmin            :   2.4000E+08
+# xmax            :   2.4000E+08
+# ymin            :   2.8000E-02
+# ymax            :   2.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+08  0.0000E+00  2.8000E-02  1.0000E-03
+#---------------------------------------------------

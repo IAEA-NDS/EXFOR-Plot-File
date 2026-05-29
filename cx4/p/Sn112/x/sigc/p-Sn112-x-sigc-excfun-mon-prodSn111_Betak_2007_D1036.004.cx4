@@ -1,0 +1,22 @@
+# EXFOR #         : D1036.004  
+# EXFOR Ver.      : 20230214
+# TRANS #         : D138
+# Author          : E.Betak et al.
+# Reference       : Nukleonica 52 (2007) 17
+# DOI             : N/A
+# Quantity        : 112Sn(p,x)111Sn cumulative production cross section
+# REACTION        : 50-SN-112(P,X)50-SN-111,(CUM),SIG
+# File ID         : p-Sn112-x-sigc-excfun-mon-prodSn111_Betak_2007_d1036.004
+#
+# npts            : 1           
+# xmin            :   2.3600E+07
+# xmax            :   2.3600E+07
+# ymin            :   3.0700E-01
+# ymax            :   3.0700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3600E+07  8.0000E+05  3.0700E-01  3.5000E-02
+#---------------------------------------------------

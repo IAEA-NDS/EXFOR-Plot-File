@@ -1,0 +1,24 @@
+# EXFOR #         : C2019.002  
+# EXFOR Ver.      : 20130801
+# TRANS #         : C134
+# Author          : G.B.Saha et al.
+# Reference       : Can.J.Chem. 49 (1971) 2205
+# DOI             : 10.1139/v71-360
+# Quantity        : 235U(p,f)129Cs independent production cross section
+# REACTION        : 92-U-235(P,F)55-CS-129,IND,SIG
+# File ID         : p-U235-x-sig-excfun-mon-prodCs129_Saha_1971_c2019.002
+#
+# npts            : 3           
+# xmin            :   7.0000E+07
+# xmax            :   8.5000E+07
+# ymin            :   2.1000E-04
+# ymax            :   3.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0000E+07  2.0000E+06  2.1000E-04  4.0000E-05
+  7.7000E+07  2.0000E+06  2.8000E-04  4.0000E-05
+  8.5000E+07  2.0000E+06  3.3000E-04  3.0000E-05
+#---------------------------------------------------

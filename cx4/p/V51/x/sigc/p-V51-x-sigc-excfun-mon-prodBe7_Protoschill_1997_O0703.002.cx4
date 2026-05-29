@@ -1,0 +1,25 @@
+# EXFOR #         : O0703.002  
+# EXFOR Ver.      : 20230128
+# TRANS #         : O093
+# Author          : J.Protoschill
+# Reference       : Thesis  (1997)
+# DOI             : N/A
+# Quantity        : 51V(p,x)7Be cumulative production cross section
+# REACTION        : 23-V-51(P,X)4-BE-7,CUM,SIG
+# File ID         : p-V51-x-sigc-excfun-mon-prodBe7_Protoschill_1997_o0703.002
+#
+# npts            : 4           
+# xmin            :   2.7700E+08
+# xmax            :   2.5500E+09
+# ymin            :   6.0800E-04
+# ymax            :   7.3380E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7700E+08  5.8000E+05  6.0800E-04  8.7000E-05
+  9.5400E+08  1.5900E+06  3.8000E-03  4.7600E-04
+  1.3500E+09  1.5800E+06  5.6410E-03  6.7700E-04
+  2.5500E+09  1.6300E+06  7.3380E-03  7.5400E-04
+#---------------------------------------------------

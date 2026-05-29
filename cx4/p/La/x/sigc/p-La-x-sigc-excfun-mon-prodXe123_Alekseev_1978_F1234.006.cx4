@@ -1,0 +1,22 @@
+# EXFOR #         : F1234.006  
+# EXFOR Ver.      : 20140919
+# TRANS #         : F056
+# Author          : E.G.Alekseev et al.
+# Reference       : Radioch.Radioan.Let. 36 No.2-3 (1978) 125
+# DOI             : N/A
+# Quantity        : natLa(p,x)123Xe cumulative production cross section
+# REACTION        : 57-LA-0(P,X)54-XE-123,CUM,SIG
+# File ID         : p-La-x-sigc-excfun-mon-prodXe123_Alekseev_1978_f1234.006
+#
+# npts            : 1           
+# xmin            :   1.0000E+09
+# xmax            :   1.0000E+09
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  1.0000E-02  1.5000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : D8058.010  
+# EXFOR Ver.      : 20230408
+# TRANS #         : D139
+# Author          : J.L.Rodriguez-Sanchez et al.
+# Reference       : Phys.Rev.C 106 (2022) 014618
+# DOI             : 10.1103/PhysRevC.106.014618
+# Quantity        : 124Sb(p,x)124Sb independent production cross section
+# REACTION        : 51-SB-124(P,X)51-SB-124,,SIG
+# File ID         : p-Sb124-x-sig-excfun-mon-prodSb124_Rodriguez+Sanchez_2022_d8058.010
+#
+# npts            : 1           
+# xmin            :   1.0000E+09
+# xmax            :   1.0000E+09
+# ymin            :   5.8500E-04
+# ymax            :   5.8500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  5.8500E-04  1.9000E-05
+#---------------------------------------------------

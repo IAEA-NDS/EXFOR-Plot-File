@@ -1,0 +1,25 @@
+# EXFOR #         : E1615.090  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : K.Miura et al.
+# Reference       : Nucl.Phys.A 436 No.2 (1985) 221
+# DOI             : 10.1016/0375-9474(85)90197-6
+# Quantity        : 238U(p,t)236U partial angular differential cross section
+# REACTION        : 92-U-238(P,T)92-U-236,PAR,DA
+# File ID         : p-U238-t-adxc-angdisc-mon-einc5.190E+07_elvl0.000E+00_prodU236_Miura_1985_e1615.090
+#
+# Einc (eV)       :   5.1900E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   10.1000000
+# xmax            :   10.1000000
+# ymin            :   9.7000E-05
+# ymax            :   9.7000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.1000000   0.0000000  9.7000E-05  1.8000E-05
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : O0410.010  
+# EXFOR Ver.      : 20050914
+# TRANS #         : O024
+# Author          : M.Lagarde-Simonoff et al.
+# Reference       : J.Inorg.Nucl.Chem. 37 (1975) 627
+# DOI             : 10.1016/0022-1902(75)80510-0
+# Quantity        : 51V(p,x)43K cumulative production cross section
+# REACTION        : 23-V-51(P,X)19-K-43,CUM,SIG
+# File ID         : p-V51-x-sigc-excfun-mon-prodK43_Lagarde+Simonoff_1975_o0410.010
+#
+# npts            : 2           
+# xmin            :   1.5000E+08
+# xmax            :   3.0000E+08
+# ymin            :   2.1600E-03
+# ymax            :   2.5400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  2.5400E-03  2.4000E-04
+  3.0000E+08  0.0000E+00  2.1600E-03  1.1000E-04
+#---------------------------------------------------

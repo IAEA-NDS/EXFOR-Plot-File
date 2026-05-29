@@ -1,0 +1,23 @@
+# EXFOR #         : C0226.002.1
+# EXFOR Ver.      : 20111118
+# TRANS #         : C113
+# Author          : M.Honda et al.
+# Reference       : Nucl.Phys. 51 (1964) 363
+# DOI             : 10.1016/0029-5582(64)90277-9
+# Quantity        : natFe(p,x)10Be independent production cross section
+# REACTION        : 26-FE-0(P,X)4-BE-10,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodBe10_Honda_1964_c0226.002.1
+#
+# npts            : 2           
+# xmin            :   7.3000E+08
+# xmax            :   7.3000E+08
+# ymin            :   1.1000E-03
+# ymax            :   1.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.3000E+08  0.0000E+00  1.2000E-03  4.0000E-04
+  7.3000E+08  0.0000E+00  1.1000E-03  3.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : O1459.002  
+# EXFOR Ver.      : 20070528
+# TRANS #         : O029
+# Author          : V.Kostjuchenko et al.
+# Reference       : Appl.Radiat.Isot. 44 (1993) 1173
+# DOI             : 10.1016/0969-8043(93)90060-N
+# Quantity        : natC(p,x)11C independent production cross section
+# REACTION        : 6-C-0(P,X)6-C-11,,SIG
+# File ID         : p-C-x-sig-excfun-mon-prodC11_Kostjuchenko_1993_o1459.002
+#
+# npts            : 4           
+# xmin            :   9.5000E+07
+# xmax            :   1.9700E+08
+# ymin            :   4.2100E-02
+# ymax            :   6.4500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5000E+07  5.0000E+05  6.4500E-02  1.8000E-03
+  1.2500E+08  7.0000E+05  5.3500E-02  1.5000E-03
+  1.7800E+08  9.0000E+05  4.3000E-02  1.2000E-03
+  1.9700E+08  1.0000E+06  4.2100E-02  1.2000E-03
+#---------------------------------------------------

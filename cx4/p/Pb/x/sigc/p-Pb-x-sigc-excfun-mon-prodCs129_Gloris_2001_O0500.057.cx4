@@ -1,0 +1,22 @@
+# EXFOR #         : O0500.057  
+# EXFOR Ver.      : 20220107
+# TRANS #         : O087
+# Author          : M.Gloris et al.
+# Reference       : Nucl.Instrum.Meth.A 463 (2001) 593
+# DOI             : 10.1016/S0168-9002(01)00174-7
+# Quantity        : natPb(p,x)129Cs cumulative production cross section
+# REACTION        : 82-PB-0(P,X)55-CS-129,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodCs129_Gloris_2001_o0500.057
+#
+# npts            : 1           
+# xmin            :   2.5900E+09
+# xmax            :   2.5900E+09
+# ymin            :   9.1500E-03
+# ymax            :   9.1500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5900E+09  1.0000E+06  9.1500E-03  1.2600E-03
+#---------------------------------------------------

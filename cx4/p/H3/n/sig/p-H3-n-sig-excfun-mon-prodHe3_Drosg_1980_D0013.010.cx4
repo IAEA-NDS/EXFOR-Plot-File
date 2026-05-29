@@ -1,0 +1,23 @@
+# EXFOR #         : D0013.010  
+# EXFOR Ver.      : 20150710
+# TRANS #         : D101
+# Author          : M.Drosg
+# Reference       : Report LA-8215-MS, 1980
+# DOI             : N/A
+# Quantity        : 3H(p,n)3He cross section
+# REACTION        : 1-H-3(P,N)2-HE-3,,SIG
+# File ID         : p-H3-n-sig-excfun-mon-prodHe3_Drosg_1980_d0013.010
+#
+# npts            : 2           
+# xmin            :   2.5000E+06
+# xmax            :   4.0000E+06
+# ymin            :   4.7000E-01
+# ymax            :   5.2150E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+06  0.0000E+00  5.2150E-01  0.0000E+00
+  4.0000E+06  0.0000E+00  4.7000E-01  0.0000E+00
+#---------------------------------------------------

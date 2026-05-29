@@ -1,0 +1,22 @@
+# EXFOR #         : A0501.024  
+# EXFOR Ver.      : 20240910
+# TRANS #         : A117
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : Proceedings of 40.Conf.Nucl.Spectroscopy Nucl.Struct.,Leningrad 1990 page 496
+# DOI             : N/A
+# Quantity        : 54Fe(p,x)47Sc cumulative production cross section
+# REACTION        : 26-FE-54(P,X)21-SC-47,CUM,SIG
+# File ID         : p-Fe54-x-sigc-excfun-mon-prodSc47_Aleksandrov_1990_a0501.024
+#
+# npts            : 1           
+# xmin            :   1.0000E+09
+# xmax            :   1.0000E+09
+# ymin            :   8.2000E-04
+# ymax            :   8.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  8.2000E-04  8.0000E-05
+#---------------------------------------------------

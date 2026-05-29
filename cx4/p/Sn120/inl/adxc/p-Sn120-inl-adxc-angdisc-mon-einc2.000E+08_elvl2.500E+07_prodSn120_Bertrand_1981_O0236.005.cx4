@@ -1,0 +1,30 @@
+# EXFOR #         : O0236.005  
+# EXFOR Ver.      : 20120520
+# TRANS #         : O048
+# Author          : F.E.Bertrand et al.
+# Reference       : Phys.Lett.B 103 (1981) 326
+# DOI             : 10.1016/0370-2693(81)90235-5
+# Quantity        : 120Sn(p,inl)120Sn partial angular differential cross section
+# REACTION        : 50-SN-120(P,INL)50-SN-120,PAR,DA
+# File ID         : p-Sn120-inl-adxc-angdisc-mon-einc2.000E+08_elvl2.500E+07_prodSn120_Bertrand_1981_o0236.005
+#
+# Einc (eV)       :   2.0000E+08
+# dEinc (eV)      :   5.0000E+05
+# Elvl (eV)       :   2.5000E+07
+#
+# npts            : 5           
+# xmin            :    6.2700000
+# xmax            :   14.1900000
+# ymin            :   1.1000E-03
+# ymax            :   2.4000E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.2700000   0.0000000  1.1000E-03  4.4000E-04
+   8.4300000   0.0000000  2.0000E-03  6.0000E-04
+  10.2900000   0.0000000  2.3000E-03  3.9100E-04
+  12.4900000   0.0000000  2.4000E-03  4.0800E-04
+  14.1900000   0.0000000  1.2000E-03  3.6000E-04
+#---------------------------------------------------

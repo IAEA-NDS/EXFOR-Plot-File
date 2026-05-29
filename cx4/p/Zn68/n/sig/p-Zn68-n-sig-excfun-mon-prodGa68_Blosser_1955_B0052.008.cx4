@@ -1,0 +1,22 @@
+# EXFOR #         : B0052.008  
+# EXFOR Ver.      : 20190120
+# TRANS #         : B029
+# Author          : H.G.Blosser et al.
+# Reference       : Phys.Rev. 100 (1955) 1340
+# DOI             : 10.1103/PhysRev.100.1340
+# Quantity        : 68Zn(p,n)68Ga cross section
+# REACTION        : 30-ZN-68(P,N)31-GA-68,,SIG
+# File ID         : p-Zn68-n-sig-excfun-mon-prodGa68_Blosser_1955_b0052.008
+#
+# npts            : 1           
+# xmin            :   1.2000E+07
+# xmax            :   1.2000E+07
+# ymin            :   1.1000E+00
+# ymax            :   1.1000E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+07  0.0000E+00  1.1000E+00  1.5000E-01
+#---------------------------------------------------

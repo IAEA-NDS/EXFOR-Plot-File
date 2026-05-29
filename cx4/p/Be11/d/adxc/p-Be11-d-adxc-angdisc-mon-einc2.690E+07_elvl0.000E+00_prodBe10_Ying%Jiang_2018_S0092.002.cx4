@@ -1,0 +1,28 @@
+# EXFOR #         : S0092.002  
+# EXFOR Ver.      : 20200224
+# TRANS #         : S027
+# Author          : Ying Jiang et al.
+# Reference       : Chin.Phys.Lett. 35 (2018) 082501
+# DOI             : 10.1088/0256-307X/35/8/082501
+# Quantity        : 11Be(p,d)10Be partial angular differential cross section
+# REACTION        : 4-BE-11(P,D)4-BE-10,PAR,DA
+# File ID         : p-Be11-d-adxc-angdisc-mon-einc2.690E+07_elvl0.000E+00_prodBe10_Ying%Jiang_2018_s0092.002
+#
+# Einc (eV)       :   2.6900E+07
+# dEinc (eV)      :   5.3800E+05
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :    9.8900000
+# xmax            :   14.9600000
+# ymin            :   1.5600E-03
+# ymax            :   4.4500E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.8900000   0.0000000  4.4500E-03  3.1500E-03
+  12.2500000   0.0000000  3.8700E-03  2.7300E-03
+  14.9600000   0.0000000  1.5600E-03  1.5000E-03
+#---------------------------------------------------

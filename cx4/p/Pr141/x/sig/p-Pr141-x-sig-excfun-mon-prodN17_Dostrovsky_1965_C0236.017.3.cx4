@@ -1,0 +1,23 @@
+# EXFOR #         : C0236.017.3
+# EXFOR Ver.      : 20211005
+# TRANS #         : C206
+# Author          : I.Dostrovsky et al.
+# Reference       : Phys.Rev. 139 (1965) B1513
+# DOI             : 10.1103/PhysRev.139.B1513
+# Quantity        : 141Pr(p,x)17N independent production cross section
+# REACTION        : 59-PR-141(P,X)7-N-17,,SIG
+# File ID         : p-Pr141-x-sig-excfun-mon-prodN17_Dostrovsky_1965_c0236.017.3
+#
+# npts            : 2           
+# xmin            :   1.0000E+09
+# xmax            :   2.8000E+09
+# ymin            :   2.9000E-04
+# ymax            :   2.0700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  2.9000E-04  0.0000E+00
+  2.8000E+09  0.0000E+00  2.0700E-03  0.0000E+00
+#---------------------------------------------------

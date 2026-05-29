@@ -1,0 +1,24 @@
+# EXFOR #         : O0277.054  
+# EXFOR Ver.      : 19970111
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natTi(p,x)36Cl independent production cross section
+# REACTION        : 22-TI-0(P,X)17-CL-36,,SIG
+# File ID         : p-Ti-x-sig-excfun-mon-prodCl36_Michel_1995_o0277.054
+#
+# npts            : 3           
+# xmin            :   1.2000E+09
+# xmax            :   2.6000E+09
+# ymin            :   1.5500E-02
+# ymax            :   1.9600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  1.7500E-02  1.3000E-03
+  1.6000E+09  0.0000E+00  1.5500E-02  1.2000E-03
+  2.6000E+09  0.0000E+00  1.9600E-02  1.4000E-03
+#---------------------------------------------------

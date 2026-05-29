@@ -1,0 +1,22 @@
+# EXFOR #         : C0288.002  
+# EXFOR Ver.      : 19961010
+# TRANS #         : 0000
+# Author          : G.Rudstam et al.
+# Reference       : Phys.Rev. 126 (1962) 1852
+# DOI             : 10.1103/PhysRev.126.1852
+# Quantity        : natCu(p,x)57Ni independent production cross section
+# REACTION        : 29-CU-0(P,X)28-NI-57,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodNi57_Rudstam_1962_c0288.002
+#
+# npts            : 1           
+# xmin            :   2.4000E+10
+# xmax            :   2.4000E+10
+# ymin            :   5.4000E-04
+# ymax            :   5.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+10  1.0000E+09  5.4000E-04  4.0000E-05
+#---------------------------------------------------

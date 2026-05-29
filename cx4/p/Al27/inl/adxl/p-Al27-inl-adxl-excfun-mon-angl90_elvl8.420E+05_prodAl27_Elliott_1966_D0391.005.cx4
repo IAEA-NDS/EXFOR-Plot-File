@@ -1,0 +1,28 @@
+# EXFOR #         : D0391.005  
+# EXFOR Ver.      : 20060313
+# TRANS #         : D046
+# Author          : R.V.Elliott et al.
+# Reference       : Nucl.Phys. 84 (1966) 209
+# DOI             : 10.1016/0029-5582(66)90443-3
+# Quantity        : 27Al(p,inl)27Al partial angular differential cross section
+# REACTION        : 13-AL-27(P,INL)13-AL-27,PAR,DA
+# File ID         : p-Al27-inl-adxl-excfun-mon-angl90_elvl8.420E+05_prodAl27_Elliott_1966_d0391.005
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   8.4200E+05
+#
+# npts            : 4           
+# xmin            :   4.0000E+06
+# xmax            :   7.0000E+06
+# ymin            :   1.0600E-03
+# ymax            :   3.0600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.0000E+06  1.0000E+04  3.0600E-03  3.0600E-04
+  5.0000E+06  1.0000E+04  1.0600E-03  1.0600E-04
+  6.0000E+06  1.0000E+04  1.8400E-03  1.8400E-04
+  7.0000E+06  1.0000E+04  1.7300E-03  1.7300E-04
+#---------------------------------------------------

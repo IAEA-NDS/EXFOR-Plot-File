@@ -1,0 +1,27 @@
+# EXFOR #         : O1733.003  
+# EXFOR Ver.      : 20090408
+# TRANS #         : O039
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of 1 Int.Worksh.on Acc.Radat.Ind.Activ., Villigen, 2008 page 68
+# DOI             : N/A
+# Quantity        : 181Ta(p,x)148Gd independent production cross section
+# REACTION        : 73-TA-181(P,X)64-GD-148,,SIG
+# File ID         : p-Ta181-x-sig-excfun-mon-prodGd148_Titarenko_2008_o1733.003
+#
+# npts            : 6           
+# xmin            :   4.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   2.2500E-03
+# ymax            :   3.3500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  2.2500E-03  2.0000E-04
+  6.0000E+08  0.0000E+00  1.6600E-02  1.9000E-03
+  8.0000E+08  0.0000E+00  2.3400E-02  1.7000E-03
+  1.2000E+09  0.0000E+00  2.8800E-02  2.1000E-03
+  1.6000E+09  0.0000E+00  3.3500E-02  3.8000E-03
+  2.6000E+09  0.0000E+00  2.1100E-02  2.6000E-03
+#---------------------------------------------------

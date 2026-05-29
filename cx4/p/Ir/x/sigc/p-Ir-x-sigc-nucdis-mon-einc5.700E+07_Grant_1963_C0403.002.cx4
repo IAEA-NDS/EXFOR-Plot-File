@@ -1,0 +1,25 @@
+# EXFOR #         : C0403.002  
+# EXFOR Ver.      : 20241014
+# TRANS #         : C241
+# Author          : G.R.Grant et al.
+# Reference       : Can.J.Chem. 41 (1963) 2533
+# DOI             : 10.1139/v63-373
+# Quantity        : natIr(p,x) cumulative production cross section
+# REACTION        : 77-IR-0(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-Ir-x-sigc-nucdis-mon-einc5.700E+07_Grant_1963_c0403.002
+#
+# Einc (eV)       :   5.7000E+07
+#
+# npts            : 2           
+# xmin            : 76183.9     
+# xmax            : 77185.9     
+# ymin            :   3.3000E-03
+# ymax            :   4.7000E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     76183.9  3.3000E-03  8.2500E-04
+     77185.9  4.7000E-02  1.1750E-02
+#---------------------------------------------------

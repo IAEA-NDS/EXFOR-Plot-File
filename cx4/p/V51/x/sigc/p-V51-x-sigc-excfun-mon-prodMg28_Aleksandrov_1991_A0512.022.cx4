@@ -1,0 +1,22 @@
+# EXFOR #         : A0512.022  
+# EXFOR Ver.      : 19980601
+# TRANS #         : 0000
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : Proceedings of 41.Conf.Nucl.Spectroscopy Nucl.Struct.,Minsk 1991 page 472
+# DOI             : N/A
+# Quantity        : 51V(p,x)28Mg cumulative production cross section
+# REACTION        : 23-V-51(P,X)12-MG-28,CUM,SIG
+# File ID         : p-V51-x-sigc-excfun-mon-prodMg28_Aleksandrov_1991_a0512.022
+#
+# npts            : 1           
+# xmin            :   6.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   2.1800E-04
+# ymax            :   2.1800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  2.1800E-04  1.1000E-05
+#---------------------------------------------------

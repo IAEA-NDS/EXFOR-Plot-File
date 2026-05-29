@@ -1,0 +1,25 @@
+# EXFOR #         : D1032.008  
+# EXFOR Ver.      : 20221116
+# TRANS #         : D138
+# Author          : M.S.Abdelshafy et al.
+# Reference       : Radiochim.Acta 110 (2022) 891
+# DOI             : 10.1515/ract-2022-0048
+# Quantity        : natCe(p,x)141Ce cumulative production cross section
+# REACTION        : 58-CE-0(P,X)58-CE-141,(CUM),SIG
+# File ID         : p-Ce-x-sigc-excfun-mon-prodCe141_Abdelshafy_2022_d1032.008
+#
+# npts            : 4           
+# xmin            :   1.3700E+07
+# xmax            :   1.4500E+07
+# ymin            :   4.9000E-04
+# ymax            :   8.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+07  4.0000E+05  8.3000E-04  1.0000E-04
+  1.4200E+07  4.0000E+05  7.4000E-04  9.0000E-05
+  1.4100E+07  4.0000E+05  4.9000E-04  5.0000E-05
+  1.3700E+07  4.0000E+05  6.4000E-04  7.0000E-05
+#---------------------------------------------------

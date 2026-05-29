@@ -1,0 +1,27 @@
+# EXFOR #         : C0832.002  
+# EXFOR Ver.      : 20010830
+# TRANS #         : 0000
+# Author          : J.S.Wesick
+# Reference       : Phys.Rev.C 32 (1985) 1474
+# DOI             : 10.1103/PhysRevC.32.1474
+# Quantity        : 2H(p,el)2H angular differential cross section
+# REACTION        : 1-H-2(P,EL)1-H-2,,DA
+# File ID         : p-H2-el-adxl-angdisl-mon-einc1.000E+08_prodH2_Wesick_1985_c0832.002
+#
+# Einc (eV)       :   1.0000E+08
+#
+# npts            : 4           
+# xmin            :   17.5000000
+# xmax            :   60.0000000
+# ymin            :   9.5880E-03
+# ymax            :   1.6640E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  17.5000000   0.0000000  1.6570E-02  1.0000E-04
+  30.0000000   0.0000000  1.6640E-02  1.7000E-04
+  45.0000000   0.0000000  1.3120E-02  1.4000E-04
+  60.0000000   0.0000000  9.5880E-03  9.0000E-05
+#---------------------------------------------------

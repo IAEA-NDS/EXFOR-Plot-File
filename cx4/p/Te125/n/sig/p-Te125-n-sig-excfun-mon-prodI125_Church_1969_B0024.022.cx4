@@ -1,0 +1,22 @@
+# EXFOR #         : B0024.022  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : L.B.Church et al.
+# Reference       : Phys.Rev. 178 (1969) 1732
+# DOI             : 10.1103/PhysRev.178.1732
+# Quantity        : 125Te(p,n)125I cross section
+# REACTION        : 52-TE-125(P,N)53-I-125,,SIG,,,EXP
+# File ID         : p-Te125-n-sig-excfun-mon-prodI125_Church_1969_b0024.022
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   1.2300E-03
+# ymax            :   1.2300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  1.2300E-03  1.6000E-04
+#---------------------------------------------------

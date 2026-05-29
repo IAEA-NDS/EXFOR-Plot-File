@@ -1,0 +1,22 @@
+# EXFOR #         : O0562.004.1
+# EXFOR Ver.      : 20010115
+# TRANS #         : 0000
+# Author          : I.Haldorsen et al.
+# Reference       : J.Inorg.Nucl.Chem. 36 (1974) 245
+# DOI             : 10.1016/0022-1902(74)80002-3
+# Quantity        : natU(p,f)121gSn cumulative production cross section
+# REACTION        : 92-U-0(P,F)50-SN-121-G,CUM,SIG
+# File ID         : p-U-x-sigc-excfun-mon-prodSn121g_Haldorsen_1974_o0562.004.1
+#
+# npts            : 1           
+# xmin            :   1.7000E+08
+# xmax            :   1.7000E+08
+# ymin            :   2.3000E-02
+# ymax            :   2.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7000E+08  0.0000E+00  2.3000E-02  2.0000E-03
+#---------------------------------------------------

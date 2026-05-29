@@ -1,0 +1,23 @@
+# EXFOR #         : C0286.006.1
+# EXFOR Ver.      : 20241014
+# TRANS #         : C241
+# Author          : A.A.Caretto et al.
+# Reference       : Phys.Rev. 110 (1958) 1130
+# DOI             : 10.1103/PhysRev.110.1130
+# Quantity        : natPb(p,x)18F independent production cross section
+# REACTION        : 82-PB-0(P,X)9-F-18,,SIG
+# File ID         : p-Pb-x-sig-excfun-mon-prodF18_Caretto_1958_c0286.006.1
+#
+# npts            : 2           
+# xmin            :   4.5000E+09
+# xmax            :   5.9000E+09
+# ymin            :   1.1000E-03
+# ymax            :   1.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+09  0.0000E+00  1.1000E-03  2.7500E-04
+  5.9000E+09  0.0000E+00  1.4000E-03  3.5000E-04
+#---------------------------------------------------

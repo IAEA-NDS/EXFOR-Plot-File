@@ -1,0 +1,23 @@
+# EXFOR #         : C0902.002  
+# EXFOR Ver.      : 20030130
+# TRANS #         : 0000
+# Author          : D.W.Bardayan et al.
+# Reference       : Phys.Rev.Lett. 89 (2002) 262501
+# DOI             : 10.1103/PhysRevLett.89.262501
+# Quantity        : 18F(p,a)15O cross section
+# REACTION        : 9-F-18(P,A)8-O-15,,SIG
+# File ID         : p-F18-a-sig-excfun-mon-prodO15_Bardayan_2002_c0902.002
+#
+# npts            : 2           
+# xmin            :   3.4320E+05
+# xmax            :   3.9494E+05
+# ymin            :   1.7000E-04
+# ymax            :   4.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4320E+05  0.0000E+00  4.4000E-04  1.3000E-04
+  3.9494E+05  0.0000E+00  1.7000E-04  1.0000E-04
+#---------------------------------------------------

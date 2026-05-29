@@ -1,0 +1,23 @@
+# EXFOR #         : O0912.002  
+# EXFOR Ver.      : 20030503
+# TRANS #         : 0000
+# Author          : G.M.Raisbeck et al.
+# Reference       : Nature 244 (1973) 28
+# DOI             : 10.1038/244028a0
+# Quantity        : 13C(p,x)7Be independent production cross section
+# REACTION        : 6-C-13(P,X)4-BE-7,,SIG
+# File ID         : p-C13-x-sig-excfun-mon-prodBe7_Raisbeck_1973_o0912.002
+#
+# npts            : 2           
+# xmin            :   1.5000E+08
+# xmax            :   6.0000E+08
+# ymin            :   4.9000E-03
+# ymax            :   6.7000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  6.7000E-03  1.2000E-03
+  6.0000E+08  0.0000E+00  4.9000E-03  9.0000E-04
+#---------------------------------------------------

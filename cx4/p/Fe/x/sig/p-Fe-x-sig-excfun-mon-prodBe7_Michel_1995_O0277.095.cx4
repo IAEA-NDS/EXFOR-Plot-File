@@ -1,0 +1,25 @@
+# EXFOR #         : O0277.095  
+# EXFOR Ver.      : 20190830
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natFe(p,x)7Be independent production cross section
+# REACTION        : 26-FE-0(P,X)4-BE-7,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodBe7_Michel_1995_o0277.095
+#
+# npts            : 4           
+# xmin            :   8.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   3.4400E-03
+# ymax            :   1.0400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  3.4400E-03  2.6000E-04
+  1.2000E+09  0.0000E+00  5.9100E-03  4.7000E-04
+  1.6000E+09  0.0000E+00  7.2200E-03  5.6000E-04
+  2.6000E+09  0.0000E+00  1.0400E-02  8.0000E-04
+#---------------------------------------------------

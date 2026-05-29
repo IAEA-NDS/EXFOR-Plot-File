@@ -1,0 +1,24 @@
+# EXFOR #         : O1882.030  
+# EXFOR Ver.      : 20101220
+# TRANS #         : O044
+# Author          : S.Neumann
+# Reference       : Thesis  (1999)
+# DOI             : N/A
+# Quantity        : natTi(p,x)24Na cumulative production cross section
+# REACTION        : 22-TI-0(P,X)11-NA-24,CUM,SIG
+# File ID         : p-Ti-x-sigc-excfun-mon-prodNa24_Neumann_1999_o1882.030
+#
+# npts            : 3           
+# xmin            :   9.5300E+08
+# xmax            :   2.6000E+09
+# ymin            :   3.9800E-03
+# ymax            :   5.2700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5300E+08  2.0000E+06  3.9800E-03  5.0000E-04
+  1.3550E+09  2.0000E+06  5.2700E-03  6.9000E-04
+  2.6000E+09  1.0000E+06  4.8300E-03  6.1000E-04
+#---------------------------------------------------

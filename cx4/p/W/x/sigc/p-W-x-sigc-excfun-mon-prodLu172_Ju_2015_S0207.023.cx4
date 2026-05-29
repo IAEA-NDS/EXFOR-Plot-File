@@ -1,0 +1,22 @@
+# EXFOR #         : S0207.023  
+# EXFOR Ver.      : 20181214
+# TRANS #         : S025
+# Author          : Y.Q.Ju et al.
+# Reference       : J.Phys.G 42 (2015) 125102
+# DOI             : 10.1088/0954-3899/42/12/125102
+# Quantity        : natW(p,x)172Lu cumulative production cross section
+# REACTION        : 74-W-0(P,X)71-LU-172,CUM,SIG
+# File ID         : p-W-x-sigc-excfun-mon-prodLu172_Ju_2015_s0207.023
+#
+# npts            : 1           
+# xmin            :   2.5000E+08
+# xmax            :   2.5000E+08
+# ymin            :   2.3500E-03
+# ymax            :   2.3500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+08  0.0000E+00  2.3500E-03  2.4000E-04
+#---------------------------------------------------

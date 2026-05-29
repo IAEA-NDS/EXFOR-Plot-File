@@ -1,0 +1,24 @@
+# EXFOR #         : O2617.007.2
+# EXFOR Ver.      : 20240813
+# TRANS #         : O100
+# Author          : S.Harissopulos et al.
+# Reference       : Phys.Rev.C 110 (2024) 015803
+# DOI             : 10.1103/PhysRevC.110.015803
+# Quantity        : 116Sn(p,g)117Sb cross section
+# REACTION        : 50-SN-116(P,G)51-SB-117,,SIG,,SFC
+# File ID         : p-Sn116-g-sig-excfun-mon-prodSb117_Harissopulos_2024_o2617.007.2
+#
+# npts            : 3           
+# xmin            :   2.2918E+06
+# xmax            :   3.4992E+06
+# ymin            :   1.7966E-06
+# ymax            :   3.0529E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2918E+06  8.0002E+03  1.7966E-06  3.0026E-07
+  2.4431E+06  7.4502E+03  4.6528E-06  6.9922E-07
+  3.4992E+06  1.7001E+03  3.0529E-04  5.1983E-05
+#---------------------------------------------------

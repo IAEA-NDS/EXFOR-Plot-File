@@ -1,0 +1,23 @@
+# EXFOR #         : D4375.009  
+# EXFOR Ver.      : 20171127
+# TRANS #         : D113
+# Author          : F.Tarkanyi et al.
+# Reference       : J.Rad.Nucl.Chem. 312 (2017) 691
+# DOI             : 10.1007/s10967-017-5253-7
+# Quantity        : 139La(p,x)133La cumulative production cross section
+# REACTION        : 57-LA-139(P,X)57-LA-133,CUM,SIG
+# File ID         : p-La139-x-sigc-excfun-mon-prodLa133_Tarkanyi_2017_d4375.009
+#
+# npts            : 2           
+# xmin            :   6.2020E+07
+# xmax            :   6.4090E+07
+# ymin            :   7.5200E-03
+# ymax            :   2.0750E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.2020E+07  2.3000E+05  7.5200E-03  2.0600E-03
+  6.4090E+07  2.0000E+05  2.0750E-02  3.6600E-03
+#---------------------------------------------------

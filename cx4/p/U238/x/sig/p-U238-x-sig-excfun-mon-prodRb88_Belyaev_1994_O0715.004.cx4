@@ -1,0 +1,23 @@
+# EXFOR #         : O0715.004  
+# EXFOR Ver.      : 20000427
+# TRANS #         : 0000
+# Author          : B.N.Belyaev et al.
+# Reference       : Yad.Fiz. 57 (1994) 1231
+# DOI             : N/A
+# Quantity        : 238U(p,f)88Rb independent production cross section
+# REACTION        : 92-U-238(P,F)37-RB-88,IND,SIG
+# File ID         : p-U238-x-sig-excfun-mon-prodRb88_Belyaev_1994_o0715.004
+#
+# npts            : 2           
+# xmin            :   7.0000E+07
+# xmax            :   9.0000E+07
+# ymin            :   6.1000E-03
+# ymax            :   6.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0000E+07  0.0000E+00  6.3000E-03  9.0000E-04
+  9.0000E+07  0.0000E+00  6.1000E-03  8.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : C2631.004  
+# EXFOR Ver.      : 20210619
+# TRANS #         : C207
+# Author          : M.B.Fox et al.
+# Reference       : Phys.Rev.C 103 (2021) 034601
+# DOI             : 10.1103/PhysRevC.103.034601
+# Quantity        : 93Nb(p,x)74As independent production cross section
+# REACTION        : 41-NB-93(P,X)33-AS-74,,SIG
+# File ID         : p-Nb93-x-sig-excfun-mon-prodAs74_Fox_2021_c2631.004
+#
+# npts            : 2           
+# xmin            :   1.7711E+08
+# xmax            :   1.9238E+08
+# ymin            :   1.0710E-04
+# ymax            :   1.8200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9238E+08  7.3000E+05  1.8200E-04  1.2000E-05
+  1.7711E+08  7.7000E+05  1.0710E-04  7.1000E-06
+#---------------------------------------------------

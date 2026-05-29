@@ -1,0 +1,23 @@
+# EXFOR #         : O0577.026  
+# EXFOR Ver.      : 20140205
+# TRANS #         : O052
+# Author          : E.Hagebo
+# Reference       : J.Inorg.Nucl.Chem. 29 (1967) 2515
+# DOI             : 10.1016/0022-1902(67)80177-5
+# Quantity        : natU(p,f)130gSb cumulative production cross section
+# REACTION        : 92-U-0(P,F)51-SB-130-G,CUM,SIG
+# File ID         : p-U-x-sigc-excfun-mon-prodSb130g_Hagebo_1967_o0577.026
+#
+# npts            : 2           
+# xmin            :   5.7000E+08
+# xmax            :   1.8200E+10
+# ymin            :   1.3700E-03
+# ymax            :   3.2900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.7000E+08  0.0000E+00  3.2900E-03  1.7000E-04
+  1.8200E+10  0.0000E+00  1.3700E-03  1.1000E-04
+#---------------------------------------------------

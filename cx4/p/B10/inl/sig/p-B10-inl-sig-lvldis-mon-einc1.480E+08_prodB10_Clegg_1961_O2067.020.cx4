@@ -1,0 +1,25 @@
+# EXFOR #         : O2067.020  
+# EXFOR Ver.      : 20121028
+# TRANS #         : O050
+# Author          : A.B.Clegg et al.
+# Reference       : Proc.Phys.Soc.(UK) 78 (1961) 681
+# DOI             : 10.1088/0370-1328/78/5/305
+# Quantity        : 10B(p,inl)10B partial cross section
+# REACTION        : 5-B-10(P,INL)5-B-10,PAR,SIG
+# File ID         : p-B10-inl-sig-lvldis-mon-einc1.480E+08_prodB10_Clegg_1961_o2067.020
+#
+# Einc (eV)       :   1.4800E+08
+#
+# npts            : 2           
+# xmin            :   1.7400E+06
+# xmax            :   2.1500E+06
+# ymin            :   4.0000E-04
+# ymax            :   2.1000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1500E+06  0.0000E+00  2.1000E-03  6.5000E-04
+  1.7400E+06  0.0000E+00  4.0000E-04  4.0000E-04
+#---------------------------------------------------

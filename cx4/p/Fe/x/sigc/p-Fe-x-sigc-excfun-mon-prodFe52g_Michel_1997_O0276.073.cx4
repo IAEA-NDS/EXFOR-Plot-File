@@ -1,0 +1,26 @@
+# EXFOR #         : O0276.073  
+# EXFOR Ver.      : 20190827
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 129 (1997) 153
+# DOI             : 10.1016/S0168-583X(97)00213-9
+# Quantity        : natFe(p,x)52gFe cumulative production cross section
+# REACTION        : 26-FE-0(P,X)26-FE-52-G,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodFe52g_Michel_1997_o0276.073
+#
+# npts            : 5           
+# xmin            :   1.1400E+08
+# xmax            :   1.7700E+08
+# ymin            :   8.8400E-04
+# ymax            :   1.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1400E+08  1.8400E+06  1.5000E-03  2.1100E-04
+  1.3700E+08  1.3400E+06  9.9700E-04  9.5500E-05
+  1.4300E+08  1.5700E+06  1.4000E-03  2.7700E-04
+  1.6000E+08  1.0900E+06  8.8400E-04  9.6600E-05
+  1.7700E+08  1.1100E+06  1.0500E-03  1.7600E-04
+#---------------------------------------------------

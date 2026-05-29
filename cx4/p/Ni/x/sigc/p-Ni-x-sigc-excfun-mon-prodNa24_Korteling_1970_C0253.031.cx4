@@ -1,0 +1,24 @@
+# EXFOR #         : C0253.031  
+# EXFOR Ver.      : 20250611
+# TRANS #         : C250
+# Author          : R.G.Korteling et al.
+# Reference       : Phys.Rev.C 1 (1970) 1960
+# DOI             : 10.1103/PhysRevC.1.1960
+# Quantity        : natNi(p,x)24Na cumulative production cross section
+# REACTION        : 28-NI-0(P,X)11-NA-24,CUM,SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodNa24_Korteling_1970_c0253.031
+#
+# npts            : 3           
+# xmin            :   1.0000E+08
+# xmax            :   3.0000E+08
+# ymin            :   7.9800E-07
+# ymax            :   2.4800E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  1.0000E+07  7.9800E-07  3.1000E-07
+  2.0000E+08  1.0000E+07  5.9100E-06  9.0000E-08
+  3.0000E+08  1.0000E+07  2.4800E-05  5.0000E-08
+#---------------------------------------------------

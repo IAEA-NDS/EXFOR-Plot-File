@@ -1,0 +1,23 @@
+# EXFOR #         : O1020.005  
+# EXFOR Ver.      : 20230324
+# TRANS #         : O095
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Report INDC(CCP)-434 page 60, 2002
+# DOI             : N/A
+# Quantity        : 184W(p,x)179m2Hf independent production cross section
+# REACTION        : 74-W-184(P,X)72-HF-179-M2,,SIG
+# File ID         : p-W184-x-sig-excfun-mon-prodHf179n_Titarenko_2002_o1020.005
+#
+# npts            : 2           
+# xmin            :   8.0000E+08
+# xmax            :   1.6000E+09
+# ymin            :   2.9400E-04
+# ymax            :   3.7200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  2.9400E-04  3.6000E-05
+  1.6000E+09  0.0000E+00  3.7200E-04  5.1000E-05
+#---------------------------------------------------

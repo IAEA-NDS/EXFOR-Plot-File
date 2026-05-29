@@ -1,0 +1,30 @@
+# EXFOR #         : O1596.004  
+# EXFOR Ver.      : 20080129
+# TRANS #         : O034
+# Author          : P.D.Cottle et al.
+# Reference       : Phys.Rev.C 47 (1993) 1048
+# DOI             : 10.1103/PhysRevC.47.1048
+# Quantity        : 148Sm(p,inl)148Sm partial angular differential cross section
+# REACTION        : 62-SM-148(P,INL)62-SM-148,PAR,DA
+# File ID         : p-Sm148-inl-adxl-angdisl-mon-einc2.600E+07_elvl1.162E+06_prodSm148_Cottle_1993_o1596.004
+#
+# Einc (eV)       :   2.6000E+07
+# dEinc (eV)      :   2.5000E+04
+# Elvl (eV)       :   1.1620E+06
+#
+# npts            : 5           
+# xmin            :   25.0900000
+# xmax            :   50.0400000
+# ymin            :   7.1000E-04
+# ymax            :   3.8600E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  25.0900000   0.0000000  2.1500E-03  0.0000E+00
+  30.0100000   0.0000000  3.1300E-03  2.5040E-04
+  34.9000000   0.0000000  3.8600E-03  3.0880E-04
+  39.8700000   0.0000000  2.0000E-03  1.0000E-04
+  50.0400000   0.0000000  7.1000E-04  4.9700E-05
+#---------------------------------------------------

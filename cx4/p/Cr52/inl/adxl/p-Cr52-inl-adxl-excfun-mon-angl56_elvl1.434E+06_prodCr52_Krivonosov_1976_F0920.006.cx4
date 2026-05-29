@@ -1,0 +1,29 @@
+# EXFOR #         : F0920.006  
+# EXFOR Ver.      : 20080829
+# TRANS #         : F034
+# Author          : G.A.Krivonosov et al.
+# Reference       : Yad.Fiz. 24 (1976) 461
+# DOI             : N/A
+# Quantity        : 52Cr(p,inl)52Cr partial angular differential cross section
+# REACTION        : 24-CR-52(P,INL)24-CR-52,PAR,DA
+# File ID         : p-Cr52-inl-adxl-excfun-mon-angl56_elvl1.434E+06_prodCr52_Krivonosov_1976_f0920.006
+#
+# theta,lab (deg) :   56.0000000
+# Elvl (eV)       :   1.4340E+06
+#
+# npts            : 5           
+# xmin            :   2.5730E+06
+# xmax            :   3.0134E+06
+# ymin            :   8.6874E-06
+# ymax            :   1.0184E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.5730E+06  0.0000E+00  8.6874E-06  2.2329E-06
+  2.7072E+06  0.0000E+00  2.1526E-05  5.5327E-06
+  2.8043E+06  0.0000E+00  8.4909E-05  2.1823E-05
+  2.9121E+06  0.0000E+00  7.7225E-05  1.6562E-05
+  3.0134E+06  0.0000E+00  1.0184E-04  2.3312E-05
+#---------------------------------------------------

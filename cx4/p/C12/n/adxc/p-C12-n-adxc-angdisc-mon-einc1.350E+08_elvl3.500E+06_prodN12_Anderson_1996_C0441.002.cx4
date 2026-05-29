@@ -1,0 +1,28 @@
+# EXFOR #         : C0441.002  
+# EXFOR Ver.      : 19961223
+# TRANS #         : 0000
+# Author          : B.D.Anderson et al.
+# Reference       : Phys.Rev.C 54 (1996) 237
+# DOI             : 10.1103/PhysRevC.54.237
+# Quantity        : 12C(p,n)12N partial angular differential cross section
+# REACTION        : 6-C-12(P,N)7-N-12,PAR,DA
+# File ID         : p-C12-n-adxc-angdisc-mon-einc1.350E+08_elvl3.500E+06_prodN12_Anderson_1996_c0441.002
+#
+# Einc (eV)       :   1.3500E+08
+# Elvl (eV)       :   3.5000E+06
+#
+# npts            : 4           
+# xmin            :    0.2000000
+# xmax            :   19.8300000
+# ymin            :   4.3740E-05
+# ymax            :   1.0480E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.2000000   0.0000000  4.3740E-05  1.0140E-05
+   6.6200000   0.0000000  8.9330E-05  1.1600E-05
+  13.0100000   0.0000000  1.0480E-04  1.5030E-05
+  19.8300000   0.0000000  4.5370E-05  9.0000E-06
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : T0297.009  
+# EXFOR Ver.      : 20040719
+# TRANS #         : T018
+# Author          : J.H.Davies et al.
+# Reference       : Can.J.Phys. 41 (1963) 762
+# DOI             : 10.1139/p63-082
+# Quantity        : natU(p,f)132Cs independent production cross section
+# REACTION        : 92-U-0(P,F)55-CS-132,IND,SIG
+# File ID         : p-U-x-sig-excfun-mon-prodCs132_Davies_1963_t0297.009
+#
+# npts            : 3           
+# xmin            :   6.5000E+07
+# xmax            :   8.0000E+07
+# ymin            :   1.7000E-03
+# ymax            :   3.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.5000E+07  0.0000E+00  1.7000E-03  3.0000E-04
+  7.5000E+07  0.0000E+00  2.7000E-03  3.0000E-04
+  8.0000E+07  0.0000E+00  3.4000E-03  4.0000E-04
+#---------------------------------------------------

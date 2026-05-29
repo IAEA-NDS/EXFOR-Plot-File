@@ -1,0 +1,24 @@
+# EXFOR #         : O1016.005.2
+# EXFOR Ver.      : 20151205
+# TRANS #         : O056
+# Author          : S.Busse et al.
+# Reference       : Radiochim.Acta 90 (2002) 1
+# DOI             : N/A
+# Quantity        : 90Zr(p,2n)89gNb cross section
+# REACTION        : 40-ZR-90(P,2N)41-NB-89-G,,SIG
+# File ID         : p-Zr90-2n-sig-excfun-mon-prodNb89g_Busse_2002_o1016.005.2
+#
+# npts            : 3           
+# xmin            :   1.7800E+07
+# xmax            :   1.9000E+07
+# ymin            :   4.3000E-02
+# ymax            :   9.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9000E+07  3.0000E+05  9.1000E-02  4.0000E-02
+  1.8400E+07  3.0000E+05  6.4000E-02  3.2000E-02
+  1.7800E+07  3.0000E+05  4.3000E-02  2.6000E-02
+#---------------------------------------------------

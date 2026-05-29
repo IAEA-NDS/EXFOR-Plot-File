@@ -1,0 +1,27 @@
+# EXFOR #         : O2052.009  
+# EXFOR Ver.      : 20120926
+# TRANS #         : O049
+# Author          : G.Modolo et al.
+# Reference       : Proceedings of Conf.on Accel.Driven Transmut.Tech.Appl.,Kalmar, 1996 1 page 476
+# DOI             : N/A
+# Quantity        : 127I(p,x)123mTe independent production cross section
+# REACTION        : 53-I-127(P,X)52-TE-123-M,,SIG
+# File ID         : p-I127-x-sig-excfun-mon-prodTe123m_Modolo_1996_o2052.009
+#
+# npts            : 6           
+# xmin            :   1.4500E+08
+# xmax            :   2.6000E+09
+# ymin            :   9.9600E-03
+# ymax            :   1.5390E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+08  0.0000E+00  1.3460E-02  1.7900E-03
+  3.3000E+08  0.0000E+00  1.4440E-02  1.1400E-03
+  4.0000E+08  0.0000E+00  1.5390E-02  1.2200E-03
+  6.0000E+08  0.0000E+00  1.4560E-02  1.4600E-03
+  8.0000E+08  0.0000E+00  9.9600E-03  1.2300E-03
+  2.6000E+09  0.0000E+00  1.0040E-02  1.1800E-03
+#---------------------------------------------------

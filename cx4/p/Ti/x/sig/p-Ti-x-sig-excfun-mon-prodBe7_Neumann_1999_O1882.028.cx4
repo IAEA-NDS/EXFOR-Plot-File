@@ -1,0 +1,24 @@
+# EXFOR #         : O1882.028  
+# EXFOR Ver.      : 20101220
+# TRANS #         : O044
+# Author          : S.Neumann
+# Reference       : Thesis  (1999)
+# DOI             : N/A
+# Quantity        : natTi(p,x)7Be independent production cross section
+# REACTION        : 22-TI-0(P,X)4-BE-7,IND,SIG
+# File ID         : p-Ti-x-sig-excfun-mon-prodBe7_Neumann_1999_o1882.028
+#
+# npts            : 3           
+# xmin            :   9.5300E+08
+# xmax            :   2.6000E+09
+# ymin            :   4.4600E-03
+# ymax            :   7.1900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5300E+08  2.0000E+06  4.4600E-03  7.4000E-04
+  1.3550E+09  2.0000E+06  6.2200E-03  9.0000E-04
+  2.6000E+09  1.0000E+06  7.1900E-03  9.3000E-04
+#---------------------------------------------------

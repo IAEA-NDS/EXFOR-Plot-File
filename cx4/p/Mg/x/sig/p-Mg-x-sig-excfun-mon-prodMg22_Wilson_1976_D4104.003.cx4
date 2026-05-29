@@ -1,0 +1,22 @@
+# EXFOR #         : D4104.003  
+# EXFOR Ver.      : 20210929
+# TRANS #         : D132
+# Author          : R.L.Wilson et al.
+# Reference       : Phys.Rev.C 13 (1976) 976
+# DOI             : 10.1103/PhysRevC.13.976
+# Quantity        : natMg(p,x)22Mg independent production cross section
+# REACTION        : 12-MG-0(P,X)12-MG-22,,SIG
+# File ID         : p-Mg-x-sig-excfun-mon-prodMg22_Wilson_1976_d4104.003
+#
+# npts            : 1           
+# xmin            :   2.6500E+07
+# xmax            :   2.6500E+07
+# ymin            :   2.1000E-04
+# ymax            :   2.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6500E+07  2.0000E+05  2.1000E-04  1.1000E-04
+#---------------------------------------------------

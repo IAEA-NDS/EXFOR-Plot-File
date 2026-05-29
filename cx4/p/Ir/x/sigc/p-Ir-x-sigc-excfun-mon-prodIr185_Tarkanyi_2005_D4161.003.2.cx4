@@ -1,0 +1,23 @@
+# EXFOR #         : D4161.003.2
+# EXFOR Ver.      : 20051123
+# TRANS #         : D044
+# Author          : F.Tarkanyi et al.
+# Reference       : Nucl.Instrum.Meth.B 239 (2005) 293
+# DOI             : 10.1016/j.nimb.2005.04.122
+# Quantity        : natIr(p,x)185Ir cumulative production cross section
+# REACTION        : 77-IR-0(P,X)77-IR-185,CUM,SIG,,,EXP
+# File ID         : p-Ir-x-sigc-excfun-mon-prodIr185_Tarkanyi_2005_d4161.003.2
+#
+# npts            : 2           
+# xmin            :   5.7900E+07
+# xmax            :   6.6400E+07
+# ymin            :   5.5000E-03
+# ymax            :   4.1400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.7900E+07  1.0000E+06  5.5000E-03  2.0000E-03
+  6.6400E+07  4.0000E+05  4.1400E-02  1.2400E-02
+#---------------------------------------------------

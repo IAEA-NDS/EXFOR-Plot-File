@@ -1,0 +1,26 @@
+# EXFOR #         : O0684.002  
+# EXFOR Ver.      : 20000427
+# TRANS #         : 0000
+# Author          : W.A.Lanford
+# Reference       : Phys.Rev.C 16 (1977) 988
+# DOI             : 10.1103/PhysRevC.16.988
+# Quantity        : 208Pb(p,t)206Pb partial angular differential cross section
+# REACTION        : 82-PB-208(P,T)82-PB-206,PAR,DA
+# File ID         : p-Pb208-t-adxl-lvldis-mon-einc3.500E+07_angc9_prodPb206_Lanford_1977_o0684.002
+#
+# Einc (eV)       :   3.5000E+07
+# theta,cm (deg)  :    9.4100000
+# dtheta,cm (deg) :    0.2500000
+#
+# npts            : 1           
+# xmin            :   8.0400E+05
+# xmax            :   8.0400E+05
+# ymin            :   6.3900E-04
+# ymax            :   6.3900E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.0400E+05  0.0000E+00  6.3900E-04  1.4697E-05
+#---------------------------------------------------

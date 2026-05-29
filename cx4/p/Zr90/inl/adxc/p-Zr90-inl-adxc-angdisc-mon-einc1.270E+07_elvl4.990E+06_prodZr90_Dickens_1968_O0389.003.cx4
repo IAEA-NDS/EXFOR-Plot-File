@@ -1,0 +1,26 @@
+# EXFOR #         : O0389.003  
+# EXFOR Ver.      : 20151118
+# TRANS #         : O056
+# Author          : J.K.Dickens et al.
+# Reference       : Phys.Rev. 168 (1968) 1355
+# DOI             : 10.1103/PhysRev.168.1355
+# Quantity        : 90Zr(p,inl)90Zr partial angular differential cross section
+# REACTION        : 40-ZR-90(P,INL)40-ZR-90,PAR,DA
+# File ID         : p-Zr90-inl-adxc-angdisc-mon-einc1.270E+07_elvl4.990E+06_prodZr90_Dickens_1968_o0389.003
+#
+# Einc (eV)       :   1.2700E+07
+# dEinc (eV)      :   1.0000E+04
+# Elvl (eV)       :   4.9900E+06
+#
+# npts            : 1           
+# xmin            :   40.5000000
+# xmax            :   40.5000000
+# ymin            :   6.9000E-05
+# ymax            :   6.9000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.5000000   0.0500000  6.9000E-05  0.0000E+00
+#---------------------------------------------------

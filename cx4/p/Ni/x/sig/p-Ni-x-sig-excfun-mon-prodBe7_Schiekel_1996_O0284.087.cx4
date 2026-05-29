@@ -1,0 +1,25 @@
+# EXFOR #         : O0284.087  
+# EXFOR Ver.      : 20191005
+# TRANS #         : O071
+# Author          : Th.Schiekel et al.
+# Reference       : Nucl.Instrum.Meth.B 114 (1996) 91
+# DOI             : 10.1016/0168-583X(96)00145-0
+# Quantity        : natNi(p,x)7Be independent production cross section
+# REACTION        : 28-NI-0(P,X)4-BE-7,,SIG
+# File ID         : p-Ni-x-sig-excfun-mon-prodBe7_Schiekel_1996_o0284.087
+#
+# npts            : 4           
+# xmin            :   2.7500E+08
+# xmax            :   3.7800E+08
+# ymin            :   5.2800E-04
+# ymax            :   1.3100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7500E+08  1.1100E+06  5.2800E-04  1.9300E-04
+  3.4100E+08  1.5900E+06  9.3000E-04  2.6300E-04
+  3.6300E+08  1.3300E+06  9.0200E-04  2.2100E-04
+  3.7800E+08  1.0900E+06  1.3100E-03  2.7600E-04
+#---------------------------------------------------

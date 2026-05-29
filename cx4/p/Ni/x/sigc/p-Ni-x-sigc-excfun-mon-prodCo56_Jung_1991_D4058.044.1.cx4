@@ -1,0 +1,22 @@
+# EXFOR #         : D4058.044.1
+# EXFOR Ver.      : 20231023
+# TRANS #         : D139
+# Author          : P.Jung
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 352
+# DOI             : N/A
+# Quantity        : natNi(p,x)56Co cumulative production cross section
+# REACTION        : 28-NI-0(P,X)27-CO-56,CUM,SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodCo56_Jung_1991_d4058.044.1
+#
+# npts            : 1           
+# xmin            :   2.3700E+07
+# xmax            :   2.3700E+07
+# ymin            :   7.5200E-03
+# ymax            :   7.5200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3700E+07  3.0000E+05  7.5200E-03  0.0000E+00
+#---------------------------------------------------

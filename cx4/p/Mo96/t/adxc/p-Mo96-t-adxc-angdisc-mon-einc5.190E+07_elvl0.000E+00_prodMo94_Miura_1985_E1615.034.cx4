@@ -1,0 +1,25 @@
+# EXFOR #         : E1615.034  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : K.Miura et al.
+# Reference       : Nucl.Phys.A 436 No.2 (1985) 221
+# DOI             : 10.1016/0375-9474(85)90197-6
+# Quantity        : 96Mo(p,t)94Mo partial angular differential cross section
+# REACTION        : 42-MO-96(P,T)42-MO-94,PAR,DA
+# File ID         : p-Mo96-t-adxc-angdisc-mon-einc5.190E+07_elvl0.000E+00_prodMo94_Miura_1985_e1615.034
+#
+# Einc (eV)       :   5.1900E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   17.3000000
+# xmax            :   17.3000000
+# ymin            :   2.6000E-04
+# ymax            :   2.6000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  17.3000000   0.0000000  2.6000E-04  6.0000E-06
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : O0458.003  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : P.Beuzit et al.
+# Reference       : Nucl.Phys.A 128 (1969) 594
+# DOI             : 10.1016/0375-9474(69)90425-4
+# Quantity        : 62Ni(p,inl)62Ni partial angular differential cross section
+# REACTION        : 28-NI-62(P,INL)28-NI-62,PAR,DA
+# File ID         : p-Ni62-inl-adxc-lvldis-mon-einc1.200E+07_angc87_prodNi62_Beuzit_1969_o0458.003
+#
+# Einc (eV)       :   1.2000E+07
+# dEinc (eV)      :   2.0000E+04
+# theta,cm (deg)  :   86.9000000
+# dtheta,cm (deg) :    0.8000000
+#
+# npts            : 1           
+# xmin            :   1.1700E+06
+# xmax            :   1.1700E+06
+# ymin            :   2.5200E-03
+# ymax            :   2.5200E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1700E+06  0.0000E+00  2.5200E-03  1.0080E-04
+#---------------------------------------------------

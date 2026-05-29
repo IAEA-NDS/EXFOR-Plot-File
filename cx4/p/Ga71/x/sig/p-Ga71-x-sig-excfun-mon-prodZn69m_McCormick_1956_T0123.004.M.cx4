@@ -1,0 +1,22 @@
+# EXFOR #         : T0123.004.M
+# EXFOR Ver.      : 20120318
+# TRANS #         : T022
+# Author          : G.H.McCormick et al.
+# Reference       : J.Inorg.Nucl.Chem. 2 (1956) 269
+# DOI             : 10.1016/0022-1902(56)80079-1
+# Quantity        : 71Ga(p,x)69mZn independent production cross section
+# REACTION        : 31-GA-71(P,X)30-ZN-69-M,,SIG
+# File ID         : p-Ga71-x-sig-excfun-mon-prodZn69m_McCormick_1956_t0123.004.m
+#
+# npts            : 1           
+# xmin            :   2.2400E+07
+# xmax            :   2.2400E+07
+# ymin            :   5.0000E-05
+# ymax            :   5.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2400E+07  0.0000E+00  5.0000E-05  0.0000E+00
+#---------------------------------------------------

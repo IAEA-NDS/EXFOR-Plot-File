@@ -1,0 +1,24 @@
+# EXFOR #         : E2808.005  
+# EXFOR Ver.      : 20250602
+# TRANS #         : E153
+# Author          : M.Imamura et al.
+# Reference       : Nucl.Instrum.Meth.B 123 (1997) 330
+# DOI             : 10.1016/S0168-583X(96)00712-4
+# Quantity        : 40Ca(p,x)36Cl independent production cross section
+# REACTION        : 20-CA-40(P,X)17-CL-36,,SIG
+# File ID         : p-Ca40-x-sig-excfun-mon-prodCl36_Imamura_1997_e2808.005
+#
+# npts            : 3           
+# xmin            :   3.5200E+07
+# xmax            :   3.9700E+07
+# ymin            :   8.0000E-06
+# ymax            :   4.6000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9700E+07  0.0000E+00  4.6000E-05  1.0000E-05
+  3.8400E+07  0.0000E+00  2.3000E-05  1.2000E-05
+  3.5200E+07  0.0000E+00  8.0000E-06  4.0000E-06
+#---------------------------------------------------

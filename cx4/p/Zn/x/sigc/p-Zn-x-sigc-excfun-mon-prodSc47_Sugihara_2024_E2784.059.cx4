@@ -1,0 +1,24 @@
+# EXFOR #         : E2784.059  
+# EXFOR Ver.      : 20241228
+# TRANS #         : E151
+# Author          : K.Sugihara et al.
+# Reference       : Nucl.Instrum.Meth.B 549 (2024) 165299
+# DOI             : 10.1016/j.nimb.2024.165299
+# Quantity        : natZn(p,x)47Sc cumulative production cross section
+# REACTION        : 30-ZN-0(P,X)21-SC-47,CUM,SIG
+# File ID         : p-Zn-x-sigc-excfun-mon-prodSc47_Sugihara_2024_e2784.059
+#
+# npts            : 3           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   1.3100E-03
+# ymax            :   3.1400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  1.3100E-03  8.0000E-05
+  1.3000E+09  0.0000E+00  3.1400E-03  1.1000E-04
+  3.0000E+09  0.0000E+00  2.6500E-03  9.0000E-05
+#---------------------------------------------------

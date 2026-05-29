@@ -1,0 +1,25 @@
+# EXFOR #         : T0079.002  
+# EXFOR Ver.      : 20010226
+# TRANS #         : 0000
+# Author          : Tao Qu et al.
+# Reference       : Can.J.Phys. 70 (1992) 1236
+# DOI             : 10.1139/p92-201
+# Quantity        : 156Dy(p,t)154Dy partial angular differential cross section
+# REACTION        : 66-DY-156(P,T)66-DY-154,PAR,DA
+# File ID         : p-Dy156-t-adxl-angdisl-mon-einc2.000E+07_elvl1.876E+06_prodDy154_Tao%Qu_1992_t0079.002
+#
+# Einc (eV)       :   2.0000E+07
+# Elvl (eV)       :   1.8760E+06
+#
+# npts            : 1           
+# xmin            :   25.0000000
+# xmax            :   25.0000000
+# ymin            :   3.0000E-06
+# ymax            :   3.0000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  25.0000000   0.5000000  3.0000E-06  0.0000E+00
+#---------------------------------------------------

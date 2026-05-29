@@ -1,0 +1,27 @@
+# EXFOR #         : C2873.004  
+# EXFOR Ver.      : 20231107
+# TRANS #         : C237
+# Author          : P.E.Frisbee et al.
+# Reference       : Nucl.Phys.A 191 (1972) 658
+# DOI             : 10.1016/0375-9474(72)90638-0
+# Quantity        : 4He(p,d)3He partial angular differential cross section
+# REACTION        : 2-HE-4(P,D)2-HE-3,PAR,DA
+# File ID         : p-He4-d-adxc-angdisc-mon-einc6.500E+07_elvl2.040E+07_prodHe3_Frisbee_1972_c2873.004
+#
+# Einc (eV)       :   6.5000E+07
+# Elvl (eV)       :   2.0400E+07
+#
+# npts            : 3           
+# xmin            :   16.2000000
+# xmax            :   44.8000000
+# ymin            :   2.0000E-04
+# ymax            :   9.0000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.2000000   0.0000000  6.0000E-04  7.0000E-04
+  19.8000000   0.0000000  9.0000E-04  7.0000E-04
+  44.8000000   0.0000000  2.0000E-04  4.0000E-04
+#---------------------------------------------------

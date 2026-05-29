@@ -1,0 +1,26 @@
+# EXFOR #         : O1099.022  
+# EXFOR Ver.      : 20220120
+# TRANS #         : O087
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : natW(p,x)110mAg independent production cross section
+# REACTION        : 74-W-0(P,X)47-AG-110-M,,SIG
+# File ID         : p-W-x-sig-excfun-mon-prodAg110m_Michel_2002_o1099.022
+#
+# npts            : 5           
+# xmin            :   9.8800E+08
+# xmax            :   2.5900E+09
+# ymin            :   5.7950E-05
+# ymax            :   1.4240E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.8800E+08  1.0100E+06  5.7950E-05  1.6330E-05
+  1.3800E+09  1.0160E+06  8.4450E-05  1.4790E-05
+  1.5700E+09  1.2900E+06  9.3820E-05  1.8010E-05
+  2.5800E+09  1.0020E+06  1.4240E-04  4.2390E-05
+  2.5900E+09  1.0100E+06  1.3890E-04  2.8140E-05
+#---------------------------------------------------

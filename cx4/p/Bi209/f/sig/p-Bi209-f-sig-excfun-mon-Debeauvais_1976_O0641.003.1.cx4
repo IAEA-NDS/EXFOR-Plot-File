@@ -1,0 +1,24 @@
+# EXFOR #         : O0641.003.1
+# EXFOR Ver.      : 20220109
+# TRANS #         : O087
+# Author          : M.Debeauvais et al.
+# Reference       : Proceedings of 9.Conf.Solid State Nucl.Track Detect.,Neuherberg 1976 2 page 1179
+# DOI             : N/A
+# Quantity        : 209Bi(p,f) cross section
+# REACTION        : 83-BI-209(P,F),,SIG
+# File ID         : p-Bi209-f-sig-excfun-mon-Debeauvais_1976_o0641.003.1
+#
+# npts            : 3           
+# xmin            :   6.0000E+08
+# xmax            :   1.8000E+10
+# ymin            :   2.5000E-01
+# ymax            :   3.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  2.5000E-01  0.0000E+00
+  3.0000E+09  0.0000E+00  2.8000E-01  0.0000E+00
+  1.8000E+10  0.0000E+00  3.0000E-01  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : O2134.029  
+# EXFOR Ver.      : 20130615
+# TRANS #         : O051
+# Author          : R.Bimbot et al.
+# Reference       : Compt.Rend.B 273 (1971) 1054
+# DOI             : N/A
+# Quantity        : natSi(p,x)22Na independent production cross section
+# REACTION        : 14-SI-0(P,X)11-NA-22,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodNa22_Bimbot_1971_o2134.029
+#
+# npts            : 2           
+# xmin            :   5.0000E+07
+# xmax            :   1.5300E+08
+# ymin            :   8.0000E-04
+# ymax            :   1.8300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+07  5.0000E+06  8.0000E-04  1.0000E-04
+  1.5300E+08  3.0000E+06  1.8300E-02  4.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : O0277.055  
+# EXFOR Ver.      : 20190830
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natTi(p,x)42K independent production cross section
+# REACTION        : 22-TI-0(P,X)19-K-42,,SIG
+# File ID         : p-Ti-x-sig-excfun-mon-prodK42_Michel_1995_o0277.055
+#
+# npts            : 3           
+# xmin            :   1.2000E+09
+# xmax            :   2.6000E+09
+# ymin            :   9.5400E-03
+# ymax            :   1.1300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  9.5400E-03  7.3000E-04
+  1.6000E+09  0.0000E+00  1.1300E-02  9.0000E-04
+  2.6000E+09  0.0000E+00  9.9000E-03  8.1000E-04
+#---------------------------------------------------

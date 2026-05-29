@@ -1,0 +1,26 @@
+# EXFOR #         : C1743.003  
+# EXFOR Ver.      : 20110420
+# TRANS #         : C105
+# Author          : N.Anantaraman et al.
+# Reference       : Phys.Rev.C 78 (2008) 065803
+# DOI             : 10.1103/PhysRevC.78.065803
+# Quantity        : 62Ni(p,n)62Cu partial angular differential cross section
+# REACTION        : 28-NI-62(P,N)29-CU-62,PAR,DA
+# File ID         : p-Ni62-n-adxl-angdisc-mon-einc1.343E+08_elvl1.860E+07_prodCu62_Anantaraman_2008_c1743.003
+#
+# Einc (eV)       :   1.3430E+08
+# Elvl (eV)       :   1.8600E+07
+#
+# npts            : 2           
+# xmin            :    0.3000000
+# xmax            :    3.9000000
+# ymin            :   8.0000E-05
+# ymax            :   1.7000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.3000000   0.0000000  1.7000E-04  3.0000E-05
+   3.9000000   0.0000000  8.0000E-05  4.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : C1899.003  
+# EXFOR Ver.      : 20120307
+# TRANS #         : C116
+# Author          : M.A.Molecke et al.
+# Reference       : Phys.Rev.C 15 No.2 (1977) 719
+# DOI             : 10.1103/PhysRevC.15.719
+# Quantity        : 133Cs(p,x) independent production cross section
+# REACTION        : 55-CS-133(P,X)ELEM/MASS,,SIG
+# File ID         : p-Cs133-x-sig-nucdis-mon-einc5.500E+08_Molecke_1977_c1899.003
+#
+# Einc (eV)       :   5.5000E+08
+#
+# npts            : 5           
+# xmin            : 56126.9     
+# xmax            : 56133.9     
+# ymin            :   7.7000E-04
+# ymax            :   6.0300E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     56133.9  7.7000E-04  5.0000E-05
+     56131.9  6.0300E-03  2.9000E-04
+     56129.9  4.8900E-03  6.5000E-04
+     56128.9  3.2700E-03  1.1000E-04
+     56126.9  2.7600E-03  4.7000E-04
+#---------------------------------------------------

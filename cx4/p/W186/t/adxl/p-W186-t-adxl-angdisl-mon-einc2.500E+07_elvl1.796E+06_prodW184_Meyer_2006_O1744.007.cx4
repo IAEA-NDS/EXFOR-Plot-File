@@ -1,0 +1,29 @@
+# EXFOR #         : O1744.007  
+# EXFOR Ver.      : 20090505
+# TRANS #         : O040
+# Author          : D.A.Meyer et al.
+# Reference       : Phys.Rev.C 74 (2006) 044309
+# DOI             : 10.1103/PhysRevC.74.044309
+# Quantity        : 186W(p,t)184W partial angular differential cross section
+# REACTION        : 74-W-186(P,T)74-W-184,PAR,DA
+# File ID         : p-W186-t-adxl-angdisl-mon-einc2.500E+07_elvl1.796E+06_prodW184_Meyer_2006_o1744.007
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   3.0000E+03
+# Elvl (eV)       :   1.7958E+06
+# dElvl (eV)      :   5.0000E+02
+#
+# npts            : 3           
+# xmin            :    5.0000000
+# xmax            :   30.0000000
+# ymin            :   2.2000E-06
+# ymax            :   8.1000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0000000   0.0000000  8.1000E-06  4.0000E-07
+  17.5000000   0.0000000  2.2000E-06  2.0000E-07
+  30.0000000   0.0000000  2.8000E-06  2.0000E-07
+#---------------------------------------------------

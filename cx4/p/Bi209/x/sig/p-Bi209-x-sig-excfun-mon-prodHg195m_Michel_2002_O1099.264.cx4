@@ -1,0 +1,23 @@
+# EXFOR #         : O1099.264  
+# EXFOR Ver.      : 20220120
+# TRANS #         : O087
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)195mHg independent production cross section
+# REACTION        : 83-BI-209(P,X)80-HG-195-M,,SIG
+# File ID         : p-Bi209-x-sig-excfun-mon-prodHg195m_Michel_2002_o1099.264
+#
+# npts            : 2           
+# xmin            :   5.5100E+08
+# xmax            :   1.1700E+09
+# ymin            :   8.2880E-03
+# ymax            :   9.7980E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5100E+08  1.6900E+06  8.2880E-03  5.4650E-04
+  1.1700E+09  1.4500E+06  9.7980E-03  1.1960E-03
+#---------------------------------------------------

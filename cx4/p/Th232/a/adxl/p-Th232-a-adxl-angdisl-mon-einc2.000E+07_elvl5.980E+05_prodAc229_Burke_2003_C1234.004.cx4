@@ -1,0 +1,28 @@
+# EXFOR #         : C1234.004  
+# EXFOR Ver.      : 20050527
+# TRANS #         : C074
+# Author          : D.G.Burke et al.
+# Reference       : Nucl.Phys.A 724 (2003) 274
+# DOI             : 10.1016/S0375-9474(03)01542-2
+# Quantity        : 232Th(p,a)229Ac partial angular differential cross section
+# REACTION        : 90-TH-232(P,A)89-AC-229,PAR,DA
+# File ID         : p-Th232-a-adxl-angdisl-mon-einc2.000E+07_elvl5.980E+05_prodAc229_Burke_2003_c1234.004
+#
+# Einc (eV)       :   2.0000E+07
+# Elvl (eV)       :   5.9800E+05
+#
+# npts            : 4           
+# xmin            :    5.0190000
+# xmax            :   35.0100000
+# ymin            :   8.0300E-07
+# ymax            :   3.1100E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0190000   0.0000000  3.0000E-06  5.2200E-07
+  15.0300000   0.0000000  3.1100E-06  5.1500E-07
+  25.0200000   0.0000000  1.8900E-06  4.6300E-07
+  35.0100000   0.0000000  8.0300E-07  3.2800E-07
+#---------------------------------------------------

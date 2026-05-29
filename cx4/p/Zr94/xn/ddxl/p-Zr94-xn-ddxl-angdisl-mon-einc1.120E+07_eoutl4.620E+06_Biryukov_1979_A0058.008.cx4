@@ -1,0 +1,30 @@
+# EXFOR #         : A0058.008  
+# EXFOR Ver.      : 20080618
+# TRANS #         : A063
+# Author          : N.S.Biryukov et al.
+# Reference       : Yad.Fiz. 29 No.6 (1979) 1443
+# DOI             : N/A
+# Quantity        : 94Zr(p,n+x) double differential cross section
+# REACTION        : 40-ZR-94(P,X)0-NN-1,,DA/DE
+# File ID         : p-Zr94-xn-ddxl-angdisl-mon-einc1.120E+07_eoutl4.620E+06_Biryukov_1979_a0058.008
+#
+# Einc (eV)       :   1.1200E+07
+# dEinc (eV)      :   2.0000E+05
+# Eout,lab (eV)   :   4.6200E+06
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  150.0000000
+# ymin            :   2.3200E-09
+# ymax            :   3.7300E-09
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  30.0000000   0.0000000  3.7300E-09  2.9000E-10
+  60.0000000   0.0000000  3.5400E-09  2.6000E-10
+  90.0000000   0.0000000  2.8700E-09  2.1000E-10
+ 120.0000000   0.0000000  2.6900E-09  2.0000E-10
+ 150.0000000   0.0000000  2.3200E-09  1.7000E-10
+#---------------------------------------------------

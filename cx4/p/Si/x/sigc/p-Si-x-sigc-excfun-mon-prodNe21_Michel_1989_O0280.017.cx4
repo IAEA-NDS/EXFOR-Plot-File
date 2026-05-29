@@ -1,0 +1,22 @@
+# EXFOR #         : O0280.017  
+# EXFOR Ver.      : 20131029
+# TRANS #         : O051
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 42 (1989) 76
+# DOI             : 10.1016/0168-583X(89)90013-X
+# Quantity        : natSi(p,x)21Ne cumulative production cross section
+# REACTION        : 14-SI-0(P,X)10-NE-21,CUM,SIG
+# File ID         : p-Si-x-sigc-excfun-mon-prodNe21_Michel_1989_o0280.017
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   2.0400E-02
+# ymax            :   2.0400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  2.0400E-02  1.5100E-03
+#---------------------------------------------------

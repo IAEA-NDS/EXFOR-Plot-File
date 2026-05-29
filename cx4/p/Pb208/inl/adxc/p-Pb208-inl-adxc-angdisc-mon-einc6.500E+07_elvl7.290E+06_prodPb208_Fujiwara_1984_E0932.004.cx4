@@ -1,0 +1,30 @@
+# EXFOR #         : E0932.004  
+# EXFOR Ver.      : 20081121
+# TRANS #         : E055
+# Author          : M.Fujiwara et al.
+# Reference       : J.Phys.Colloq. 45 No.C4 (1984) C4-453
+# DOI             : N/A
+# Quantity        : 208Pb(p,inl)208Pb partial angular differential cross section
+# REACTION        : 82-PB-208(P,INL)82-PB-208,PAR,DA
+# File ID         : p-Pb208-inl-adxc-angdisc-mon-einc6.500E+07_elvl7.290E+06_prodPb208_Fujiwara_1984_e0932.004
+#
+# Einc (eV)       :   6.5000E+07
+# Elvl (eV)       :   7.2900E+06
+#
+# npts            : 6           
+# xmin            :    8.5190000
+# xmax            :   30.6300000
+# ymin            :   2.3350E-05
+# ymax            :   9.4910E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   8.5190000   0.0000000  9.4910E-05  2.1200E-05
+  11.0370000   0.0000000  6.0560E-05  1.7400E-05
+  14.7300000   0.0000000  4.6160E-05  1.7700E-05
+  20.8570000   0.0000000  3.3580E-05  1.2900E-05
+  22.3350000   0.0000000  4.0130E-05  1.1500E-05
+  30.6300000   0.0000000  2.3350E-05  7.4400E-06
+#---------------------------------------------------

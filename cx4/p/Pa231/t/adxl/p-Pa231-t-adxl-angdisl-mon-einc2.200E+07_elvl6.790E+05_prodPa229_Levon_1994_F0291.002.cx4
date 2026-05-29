@@ -1,0 +1,25 @@
+# EXFOR #         : F0291.002  
+# EXFOR Ver.      : 20060403
+# TRANS #         : F024
+# Author          : A.I.Levon et al.
+# Reference       : Nucl.Phys.A 576 (1994) 267
+# DOI             : 10.1016/0375-9474(94)90260-7
+# Quantity        : 231Pa(p,t)229Pa partial angular differential cross section
+# REACTION        : 91-PA-231(P,T)91-PA-229,PAR,DA
+# File ID         : p-Pa231-t-adxl-angdisl-mon-einc2.200E+07_elvl6.790E+05_prodPa229_Levon_1994_f0291.002
+#
+# Einc (eV)       :   2.2000E+07
+# Elvl (eV)       :   6.7900E+05
+#
+# npts            : 1           
+# xmin            :   10.0090000
+# xmax            :   10.0090000
+# ymin            :   2.7279E-07
+# ymax            :   2.7279E-07
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.0090000   0.0000000  2.7279E-07  8.9246E-08
+#---------------------------------------------------

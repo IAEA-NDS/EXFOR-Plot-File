@@ -1,0 +1,26 @@
+# EXFOR #         : C0365.002  
+# EXFOR Ver.      : 19881227
+# TRANS #         : 0000
+# Author          : Y.L.Beyec et al.
+# Reference       : Nucl.Phys.A 99 (1967) 131
+# DOI             : 10.1016/0375-9474(67)90213-8
+# Quantity        : 209Bi(p,x) independent production cross section
+# REACTION        : 83-BI-209(P,X)ELEM/MASS,,SIG
+# File ID         : p-Bi209-x-sig-nucdis-mon-einc1.250E+08_Beyec_1967_c0365.002
+#
+# Einc (eV)       :   1.2500E+08
+#
+# npts            : 3           
+# xmin            : 83199.9     
+# xmax            : 84199.9     
+# ymin            :   3.0000E-03
+# ymax            :   2.3200E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     83199.9  1.2000E-02  4.0000E-03
+     84198.9  3.0000E-03  1.0000E-03
+     84199.9  2.3200E-02  7.5000E-03
+#---------------------------------------------------

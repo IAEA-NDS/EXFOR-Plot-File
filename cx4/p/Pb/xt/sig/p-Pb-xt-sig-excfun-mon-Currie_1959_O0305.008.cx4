@@ -1,0 +1,23 @@
+# EXFOR #         : O0305.008  
+# EXFOR Ver.      : 20221114
+# TRANS #         : O093
+# Author          : L.A.Currie
+# Reference       : Phys.Rev. 114 (1959) 878
+# DOI             : 10.1103/PhysRev.114.878
+# Quantity        : natPb(p,t+x) cross section
+# REACTION        : 82-PB-0(P,X)1-H-3,,SIG
+# File ID         : p-Pb-xt-sig-excfun-mon-Currie_1959_o0305.008
+#
+# npts            : 2           
+# xmin            :   6.2000E+09
+# xmax            :   6.2000E+09
+# ymin            :   4.5000E-01
+# ymax            :   5.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.2000E+09  0.0000E+00  5.1000E-01  1.0200E-01
+  6.2000E+09  0.0000E+00  4.5000E-01  9.0000E-02
+#---------------------------------------------------

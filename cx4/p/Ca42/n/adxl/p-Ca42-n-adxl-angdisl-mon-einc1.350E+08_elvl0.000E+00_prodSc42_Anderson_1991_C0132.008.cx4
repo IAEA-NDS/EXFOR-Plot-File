@@ -1,0 +1,29 @@
+# EXFOR #         : C0132.008  
+# EXFOR Ver.      : 20241031
+# TRANS #         : C243
+# Author          : B.D.Anderson et al.
+# Reference       : Phys.Rev.C 43 (1991) 1630
+# DOI             : 10.1103/PhysRevC.43.1630
+# Quantity        : 42Ca(p,n)42Sc partial angular differential cross section
+# REACTION        : 20-CA-42(P,N)21-SC-42,PAR,DA
+# File ID         : p-Ca42-n-adxl-angdisl-mon-einc1.350E+08_elvl0.000E+00_prodSc42_Anderson_1991_c0132.008
+#
+# Einc (eV)       :   1.3500E+08
+# Elvl (eV)       :   0.0000E+00
+# dElvl (eV)      :   1.0000E+05
+#
+# npts            : 4           
+# xmin            :    0.0000000
+# xmax            :   18.8000000
+# ymin            :   4.7790E-05
+# ymax            :   1.5590E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  1.5590E-03  2.5920E-05
+   6.1700000   0.0000000  8.1940E-04  1.3430E-05
+  12.3300000   0.0000000  1.1090E-04  9.1380E-06
+  18.8000000   0.0000000  4.7790E-05  8.7520E-06
+#---------------------------------------------------

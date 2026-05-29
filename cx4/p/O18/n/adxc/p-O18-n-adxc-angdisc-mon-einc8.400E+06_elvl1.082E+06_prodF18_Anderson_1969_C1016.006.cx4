@@ -1,0 +1,28 @@
+# EXFOR #         : C1016.006  
+# EXFOR Ver.      : 20040407
+# TRANS #         : 0000
+# Author          : J.D.Anderson et al.
+# Reference       : Phys.Rev. 177 (1969) 1416
+# DOI             : 10.1103/PhysRev.177.1416
+# Quantity        : 18O(p,n)18F partial angular differential cross section
+# REACTION        : 8-O-18(P,N)9-F-18,PAR,DA
+# File ID         : p-O18-n-adxc-angdisc-mon-einc8.400E+06_elvl1.082E+06_prodF18_Anderson_1969_c1016.006
+#
+# Einc (eV)       :   8.4000E+06
+# Elvl (eV)       :   1.0817E+06
+#
+# npts            : 4           
+# xmin            :   19.6098100
+# xmax            :   65.9834800
+# ymin            :   5.3000E-04
+# ymax            :   9.7000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  19.6098100   0.0000000  9.7000E-04  2.6000E-04
+  33.5918400   0.0000000  9.7000E-04  2.0000E-04
+  49.4583900   0.0000000  7.2000E-04  2.1000E-04
+  65.9834800   0.0000000  5.3000E-04  1.8000E-04
+#---------------------------------------------------

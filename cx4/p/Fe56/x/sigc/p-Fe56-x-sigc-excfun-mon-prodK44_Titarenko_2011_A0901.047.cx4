@@ -1,0 +1,23 @@
+# EXFOR #         : A0901.047  
+# EXFOR Ver.      : 20111128
+# TRANS #         : A075
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Yad.Fiz. 74 (2011) 548
+# DOI             : N/A
+# Quantity        : 56Fe(p,x)44K cumulative production cross section
+# REACTION        : 26-FE-56(P,X)19-K-44,CUM,SIG
+# File ID         : p-Fe56-x-sigc-excfun-mon-prodK44_Titarenko_2011_a0901.047
+#
+# npts            : 2           
+# xmin            :   4.0000E+08
+# xmax            :   1.1990E+09
+# ymin            :   8.8000E-05
+# ymax            :   1.8500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  2.0000E+06  8.8000E-05  2.7000E-05
+  1.1990E+09  3.0000E+06  1.8500E-04  4.8000E-05
+#---------------------------------------------------

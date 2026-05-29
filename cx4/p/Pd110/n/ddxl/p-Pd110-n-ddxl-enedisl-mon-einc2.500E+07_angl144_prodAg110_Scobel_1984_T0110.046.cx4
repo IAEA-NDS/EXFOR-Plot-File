@@ -1,0 +1,26 @@
+# EXFOR #         : T0110.046  
+# EXFOR Ver.      : 20071109
+# TRANS #         : Y004
+# Author          : W.Scobel et al.
+# Reference       : Phys.Rev.C 30 (1984) 1480
+# DOI             : 10.1103/PhysRevC.30.1480
+# Quantity        : 110Pd(p,n)110Ag double differential cross section
+# REACTION        : 46-PD-110(P,N)47-AG-110,,DA/DE
+# File ID         : p-Pd110-n-ddxl-enedisl-mon-einc2.500E+07_angl144_prodAg110_Scobel_1984_t0110.046
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   8.0000E+04
+# theta,lab (deg) :  143.9000000
+#
+# npts            : 1           
+# xmin            :   4.8800E+06
+# xmax            :   4.8800E+06
+# ymin            :   3.9400E-07
+# ymax            :   3.9400E-07
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  4.8800E+06  0.0000E+00  3.9400E-07  4.5400E-07
+#---------------------------------------------------

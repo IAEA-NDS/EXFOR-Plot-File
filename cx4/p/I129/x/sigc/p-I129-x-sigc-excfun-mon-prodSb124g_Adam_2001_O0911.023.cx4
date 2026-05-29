@@ -1,0 +1,22 @@
+# EXFOR #         : O0911.023  
+# EXFOR Ver.      : 20200114
+# TRANS #         : O073
+# Author          : I.Adam et al.
+# Reference       : Proceedings of Conf.Nucl.Spectrosc.Nucl.Struct.,Sarov, Russia,2001 page 201
+# DOI             : N/A
+# Quantity        : 129I(p,x)124gSb cumulative production cross section
+# REACTION        : 53-I-129(P,X)51-SB-124-G,M+,SIG
+# File ID         : p-I129-x-sigc-excfun-mon-prodSb124g_Adam_2001_o0911.023
+#
+# npts            : 1           
+# xmin            :   6.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   4.7500E-03
+# ymax            :   4.7500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  4.7500E-03  5.0000E-04
+#---------------------------------------------------

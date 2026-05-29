@@ -1,0 +1,22 @@
+# EXFOR #         : F1523.002  
+# EXFOR Ver.      : 20250114
+# TRANS #         : F100
+# Author          : Q.Liu et al.
+# Reference       : Appl.Radiat.Isot. 214 (2024) 111533
+# DOI             : 10.1016/j.apradiso.2024.111533
+# Quantity        : natPb(p,x)102mRh independent production cross section
+# REACTION        : 82-PB-0(P,X)45-RH-102-M,,SIG
+# File ID         : p-Pb-x-sig-excfun-mon-prodRh102m_Liu_2024_f1523.002
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   7.2000E-04
+# ymax            :   7.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  2.0000E+06  7.2000E-04  5.0000E-05
+#---------------------------------------------------

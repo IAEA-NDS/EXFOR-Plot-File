@@ -1,0 +1,22 @@
+# EXFOR #         : O0078.036.2
+# EXFOR Ver.      : 20220201
+# TRANS #         : O088
+# Author          : R.Michel et al.
+# Reference       : Analyst (London) 114 (1989) 287
+# DOI             : N/A
+# Quantity        : 103Rh(p,x)95mTc cumulative production cross section
+# REACTION        : 45-RH-103(P,X)43-TC-95-M,CUM,SIG
+# File ID         : p-Rh103-x-sigc-excfun-mon-prodTc95m_Michel_1989_o0078.036.2
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   3.7500E-03
+# ymax            :   3.7500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  3.7500E-03  1.5000E-04
+#---------------------------------------------------

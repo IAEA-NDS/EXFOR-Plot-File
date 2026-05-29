@@ -1,0 +1,29 @@
+# EXFOR #         : F1143.016  
+# EXFOR Ver.      : 20111114
+# TRANS #         : F044
+# Author          : A.E.Antropov et al.
+# Reference       : Izv.Ross.AN,Fiz. 41 (1977) 2210
+# DOI             : N/A
+# Quantity        : 62Ni(p,inl)62Ni partial angular differential cross section
+# REACTION        : 28-NI-62(P,INL)28-NI-62,PAR,DA
+# File ID         : p-Ni62-inl-adxl-excfun-mon-angl60_elvl2.050E+06_prodNi62_Antropov_1977_f1143.016
+#
+# theta,lab (deg) :   60.0000000
+# Elvl (eV)       :   2.0500E+06
+#
+# npts            : 5           
+# xmin            :   5.7806E+06
+# xmax            :   6.0717E+06
+# ymin            :   2.0815E-04
+# ymax            :   3.0716E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.7806E+06  0.0000E+00  2.5213E-04  0.0000E+00
+  5.8420E+06  0.0000E+00  2.0815E-04  0.0000E+00
+  5.9356E+06  0.0000E+00  2.8353E-04  0.0000E+00
+  6.0226E+06  0.0000E+00  2.9542E-04  0.0000E+00
+  6.0717E+06  0.0000E+00  3.0716E-04  0.0000E+00
+#---------------------------------------------------

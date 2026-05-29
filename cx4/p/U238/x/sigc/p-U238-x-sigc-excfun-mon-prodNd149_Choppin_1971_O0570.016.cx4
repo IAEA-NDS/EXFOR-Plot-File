@@ -1,0 +1,22 @@
+# EXFOR #         : O0570.016  
+# EXFOR Ver.      : 20190307
+# TRANS #         : O068
+# Author          : G.R.Choppin et al.
+# Reference       : J.Inorg.Nucl.Chem. 33 (1971) 897
+# DOI             : 10.1016/0022-1902(71)80155-0
+# Quantity        : 238U(p,f)149Nd cumulative production cross section
+# REACTION        : 92-U-238(P,F)60-ND-149,CUM,SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodNd149_Choppin_1971_o0570.016
+#
+# npts            : 1           
+# xmin            :   1.1200E+07
+# xmax            :   1.1200E+07
+# ymin            :   4.3000E-04
+# ymax            :   4.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1200E+07  0.0000E+00  4.3000E-04  5.0000E-05
+#---------------------------------------------------

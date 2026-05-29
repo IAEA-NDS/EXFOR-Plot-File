@@ -1,0 +1,25 @@
+# EXFOR #         : C1978.007  
+# EXFOR Ver.      : 20130207
+# TRANS #         : C129
+# Author          : B.T.Wright
+# Reference       : Progress report UCRL-2422, 1953
+# DOI             : N/A
+# Quantity        : 27Al(p,el)27Al angular differential cross section
+# REACTION        : 13-AL-27(P,EL)13-AL-27,,DA,,AV
+# File ID         : p-Al27-el-adxc-angdisc-mon-einc3.060E+07_prodAl27_Wright_1953_c1978.007
+#
+# Einc (eV)       :   3.0600E+07
+# dEinc (eV)      :   4.0000E+05
+#
+# npts            : 1           
+# xmin            :  135.0000000
+# xmax            :  135.0000000
+# ymin            :   8.5000E-04
+# ymax            :   8.5000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 135.0000000  15.0000000  8.5000E-04  1.1500E-03
+#---------------------------------------------------

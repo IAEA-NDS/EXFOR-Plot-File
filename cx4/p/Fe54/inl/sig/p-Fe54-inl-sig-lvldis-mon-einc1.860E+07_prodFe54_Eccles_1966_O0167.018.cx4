@@ -1,0 +1,27 @@
+# EXFOR #         : O0167.018  
+# EXFOR Ver.      : 19970128
+# TRANS #         : 0000
+# Author          : S.F.Eccles et al.
+# Reference       : Phys.Rev. 141 (1966) 1067
+# DOI             : 10.1103/PhysRev.141.1067
+# Quantity        : 54Fe(p,inl)54Fe partial cross section
+# REACTION        : 26-FE-54(P,INL)26-FE-54,PAR,SIG,,,EXP
+# File ID         : p-Fe54-inl-sig-lvldis-mon-einc1.860E+07_prodFe54_Eccles_1966_o0167.018
+#
+# Einc (eV)       :   1.8600E+07
+# dEinc (eV)      :   5.0000E+04
+#
+# npts            : 3           
+# xmin            :   1.4100E+06
+# xmax            :   6.4000E+06
+# ymin            :   3.3000E-03
+# ymax            :   1.9000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4100E+06  0.0000E+00  1.9000E-02  1.9000E-03
+  4.8100E+06  0.0000E+00  3.3000E-03  6.6000E-04
+  6.4000E+06  0.0000E+00  8.7000E-03  1.7400E-03
+#---------------------------------------------------

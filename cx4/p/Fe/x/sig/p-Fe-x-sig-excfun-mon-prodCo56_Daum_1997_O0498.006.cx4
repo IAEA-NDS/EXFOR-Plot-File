@@ -1,0 +1,26 @@
+# EXFOR #         : O0498.006  
+# EXFOR Ver.      : 20190708
+# TRANS #         : O071
+# Author          : E.Daum
+# Reference       : Progress report INDC(GER)-043 page 4, 1997
+# DOI             : N/A
+# Quantity        : natFe(p,x)56Co independent production cross section
+# REACTION        : 26-FE-0(P,X)27-CO-56,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodCo56_Daum_1997_o0498.006
+#
+# npts            : 5           
+# xmin            :   1.0600E+07
+# xmax            :   2.9900E+07
+# ymin            :   3.5900E-02
+# ymax            :   3.9700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0600E+07  1.4000E+06  3.9700E-01  6.2000E-02
+  1.5400E+07  1.0000E+06  2.8900E-01  4.2000E-02
+  1.9800E+07  7.0000E+05  1.2100E-01  1.9000E-02
+  2.5000E+07  6.0000E+05  5.0100E-02  8.6000E-03
+  2.9900E+07  4.0000E+05  3.5900E-02  6.2000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : O0440.005  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : J.C.Bane et al.
+# Reference       : Nucl.Phys.A 116 (1968) 580
+# DOI             : 10.1016/0375-9474(68)90393-X
+# Quantity        : 44Ca(p,inl)44Ca partial angular differential cross section
+# REACTION        : 20-CA-44(P,INL)20-CA-44,PAR,DA
+# File ID         : p-Ca44-inl-adxc-lvldis-mon-einc2.285E+07_angc46_prodCa44_Bane_1968_o0440.005
+#
+# Einc (eV)       :   2.2850E+07
+# theta,cm (deg)  :   46.2000000
+# dtheta,cm (deg) :    0.8000000
+#
+# npts            : 1           
+# xmin            :   1.1500E+06
+# xmax            :   1.1500E+06
+# ymin            :   3.6600E-03
+# ymax            :   3.6600E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1500E+06  1.0000E+04  3.6600E-03  2.1960E-04
+#---------------------------------------------------

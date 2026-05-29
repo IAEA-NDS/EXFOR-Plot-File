@@ -1,0 +1,25 @@
+# EXFOR #         : E2771.010  
+# EXFOR Ver.      : 20240314
+# TRANS #         : E141
+# Author          : H.Matsuda et al.
+# Reference       : JPS Conf.Proc. 33 (2021) 011047
+# DOI             : N/A
+# Quantity        : natFe(p,x)56Mn cumulative production cross section
+# REACTION        : 26-FE-0(P,X)25-MN-56,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodMn56_Matsuda_2021_e2771.010
+#
+# npts            : 4           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   7.2898E-04
+# ymax            :   1.3272E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  7.2898E-04  3.0436E-05
+  1.3000E+09  0.0000E+00  1.3272E-03  5.5016E-05
+  2.2000E+09  0.0000E+00  1.2809E-03  5.3564E-05
+  3.0000E+09  0.0000E+00  1.1973E-03  5.1885E-05
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : O0284.023  
+# EXFOR Ver.      : 20191005
+# TRANS #         : O071
+# Author          : Th.Schiekel et al.
+# Reference       : Nucl.Instrum.Meth.B 114 (1996) 91
+# DOI             : 10.1016/0168-583X(96)00145-0
+# Quantity        : natSi(p,x)26gAl independent production cross section
+# REACTION        : 14-SI-0(P,X)13-AL-26-G,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodAl26g_Schiekel_1996_o0284.023
+#
+# npts            : 4           
+# xmin            :   2.3500E+08
+# xmax            :   3.9500E+08
+# ymin            :   2.2600E-02
+# ymax            :   2.3700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3500E+08  1.1000E+06  2.3500E-02  1.0500E-03
+  2.9400E+08  7.7500E+05  2.3700E-02  2.3500E-03
+  3.5900E+08  1.4000E+06  2.2700E-02  1.8500E-03
+  3.9500E+08  7.5700E+05  2.2600E-02  1.8400E-03
+#---------------------------------------------------

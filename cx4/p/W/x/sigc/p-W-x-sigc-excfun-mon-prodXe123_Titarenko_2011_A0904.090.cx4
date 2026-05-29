@@ -1,0 +1,24 @@
+# EXFOR #         : A0904.090  
+# EXFOR Ver.      : 20111209
+# TRANS #         : A075
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 551
+# DOI             : 10.1134/S1063778811040181
+# Quantity        : natW(p,x)123Xe cumulative production cross section
+# REACTION        : 74-W-0(P,X)54-XE-123,CUM,SIG
+# File ID         : p-W-x-sigc-excfun-mon-prodXe123_Titarenko_2011_a0904.090
+#
+# npts            : 3           
+# xmin            :   1.1990E+09
+# xmax            :   2.6050E+09
+# ymin            :   5.2400E-03
+# ymax            :   1.5500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1990E+09  3.0000E+06  5.2400E-03  5.3000E-04
+  1.5990E+09  4.0000E+06  1.0300E-02  1.1000E-03
+  2.6050E+09  8.0000E+06  1.5500E-02  1.5000E-03
+#---------------------------------------------------

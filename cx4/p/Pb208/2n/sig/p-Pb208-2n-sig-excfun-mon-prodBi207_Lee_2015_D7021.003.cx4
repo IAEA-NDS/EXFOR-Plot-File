@@ -1,0 +1,22 @@
+# EXFOR #         : D7021.003  
+# EXFOR Ver.      : 20230829
+# TRANS #         : D139
+# Author          : J.E.Lee et al.
+# Reference       : New Phys. Sae Mulli 65 (2015) 883
+# DOI             : 10.3938/NPSM.65.883
+# Quantity        : 208Pb(p,2n)207Bi cross section
+# REACTION        : 82-PB-208(P,2N)83-BI-207,,SIG
+# File ID         : p-Pb208-2n-sig-excfun-mon-prodBi207_Lee_2015_d7021.003
+#
+# npts            : 1           
+# xmin            :   1.0000E+08
+# xmax            :   1.0000E+08
+# ymin            :   7.0000E-02
+# ymax            :   7.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  7.0000E-02  1.0000E-02
+#---------------------------------------------------

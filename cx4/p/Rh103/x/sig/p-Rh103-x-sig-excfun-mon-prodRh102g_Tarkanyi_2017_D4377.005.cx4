@@ -1,0 +1,26 @@
+# EXFOR #         : D4377.005  
+# EXFOR Ver.      : 20171129
+# TRANS #         : D113
+# Author          : F.Tarkanyi et al.
+# Reference       : Nucl.Instrum.Meth.B 412 (2017) 190
+# DOI             : 10.1016/j.nimb.2017.09.001
+# Quantity        : 103Rh(p,x)102gRh independent production cross section
+# REACTION        : 45-RH-103(P,X)45-RH-102-G,,SIG
+# File ID         : p-Rh103-x-sig-excfun-mon-prodRh102g_Tarkanyi_2017_d4377.005
+#
+# npts            : 5           
+# xmin            :   2.0390E+07
+# xmax            :   5.3740E+07
+# ymin            :   7.7700E-02
+# ymax            :   1.3576E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0390E+07  1.2900E+06  7.7700E-02  8.9300E-03
+  2.7420E+07  1.1300E+06  1.3576E-01  2.6050E-02
+  3.0170E+07  1.0700E+06  1.1207E-01  3.8170E-02
+  4.2990E+07  7.9000E+05  8.9760E-02  1.5520E-02
+  5.3740E+07  5.5000E+05  1.1546E-01  3.9630E-02
+#---------------------------------------------------

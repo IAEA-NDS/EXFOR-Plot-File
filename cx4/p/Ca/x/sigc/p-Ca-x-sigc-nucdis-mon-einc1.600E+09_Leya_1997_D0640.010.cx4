@@ -1,0 +1,28 @@
+# EXFOR #         : D0640.010  
+# EXFOR Ver.      : 20101230
+# TRANS #         : D075
+# Author          : I.Leya
+# Reference       : Thesis  (1997)
+# DOI             : N/A
+# Quantity        : natCa(p,x) cumulative production cross section
+# REACTION        : 20-CA-0(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-Ca-x-sigc-nucdis-mon-einc1.600E+09_Leya_1997_d0640.010
+#
+# Einc (eV)       :   1.6000E+09
+#
+# npts            : 5           
+# xmin            : 11022.9     
+# xmax            : 21044.1     
+# ymin            :   4.7600E-06
+# ymax            :   7.9800E-03
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     11022.9  7.9800E-03  4.6000E-04
+     12028.9  1.6200E-04  1.6000E-05
+     19043.9  7.6200E-04  4.3000E-05
+     20047.9  1.4200E-04  9.0000E-06
+     21044.1  4.7600E-06  5.1000E-07
+#---------------------------------------------------

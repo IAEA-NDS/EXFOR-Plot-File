@@ -1,0 +1,23 @@
+# EXFOR #         : C0401.007  
+# EXFOR Ver.      : 19970425
+# TRANS #         : 0000
+# Author          : M.S.Lafleur et al.
+# Reference       : Can.J.Chem. 44 (1966) 2749
+# DOI             : 10.1139/v66-410
+# Quantity        : 59Co(p,x)7Be independent production cross section
+# REACTION        : 27-CO-59(P,X)4-BE-7,,SIG
+# File ID         : p-Co59-x-sig-excfun-mon-prodBe7_Lafleur_1966_c0401.007
+#
+# npts            : 2           
+# xmin            :   6.5000E+07
+# xmax            :   8.5000E+07
+# ymin            :   3.6000E-05
+# ymax            :   8.9000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.5000E+07  2.0000E+06  3.6000E-05  4.6800E-06
+  8.5000E+07  2.0000E+06  8.9000E-05  1.1570E-05
+#---------------------------------------------------

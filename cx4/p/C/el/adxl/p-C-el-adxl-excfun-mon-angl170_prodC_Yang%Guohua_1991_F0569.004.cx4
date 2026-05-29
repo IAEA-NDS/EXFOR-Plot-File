@@ -1,0 +1,28 @@
+# EXFOR #         : F0569.004  
+# EXFOR Ver.      : 20030429
+# TRANS #         : 0000
+# Author          : Yang Guohua et al.
+# Reference       : Nucl.Instrum.Meth.B 61 (1991) 175
+# DOI             : 10.1016/0168-583X(91)95457-O
+# Quantity        : natC(p,el)natC angular differential cross section
+# REACTION        : 6-C-0(P,EL)6-C-0,,DA,,RTH
+# File ID         : p-C-el-adxl-excfun-mon-angl170_prodC_Yang%Guohua_1991_f0569.004
+#
+# theta,lab (deg) :  170.0000000
+#
+# npts            : 5           
+# xmin            :   2.7000E+06
+# xmax            :   3.1000E+06
+# ymin            :   8.7266E-02
+# ymax            :   9.1151E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.7000E+06  0.0000E+00  9.1151E-02  3.6461E-03
+  2.8000E+06  0.0000E+00  9.0057E-02  3.6023E-03
+  2.9000E+06  0.0000E+00  9.0170E-02  3.6068E-03
+  3.0000E+06  0.0000E+00  8.9809E-02  3.5924E-03
+  3.1000E+06  0.0000E+00  8.7266E-02  3.4906E-03
+#---------------------------------------------------

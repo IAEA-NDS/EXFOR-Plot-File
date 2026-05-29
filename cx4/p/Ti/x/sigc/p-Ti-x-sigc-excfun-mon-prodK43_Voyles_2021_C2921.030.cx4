@@ -1,0 +1,25 @@
+# EXFOR #         : C2921.030  
+# EXFOR Ver.      : 20230211
+# TRANS #         : C230
+# Author          : A.S.Voyles et al.
+# Reference       : Eur.Phys.J.A 57 (2021) 94
+# DOI             : 10.1140/epja/s10050-021-00401-2
+# Quantity        : natTi(p,x)43K cumulative production cross section
+# REACTION        : 22-TI-0(P,X)19-K-43,CUM,SIG
+# File ID         : p-Ti-x-sigc-excfun-mon-prodK43_Voyles_2021_c2921.030
+#
+# npts            : 4           
+# xmin            :   3.4440E+07
+# xmax            :   5.3310E+07
+# ymin            :   4.6200E-05
+# ymax            :   1.5500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.3310E+07  6.1000E+05  1.5500E-03  1.1000E-04
+  4.6480E+07  6.8000E+05  8.8900E-04  6.7000E-05
+  3.8760E+07  7.8000E+05  1.8900E-04  1.7000E-05
+  3.4440E+07  8.6000E+05  4.6200E-05  4.2000E-06
+#---------------------------------------------------

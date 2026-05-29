@@ -1,0 +1,26 @@
+# EXFOR #         : A0906.026  
+# EXFOR Ver.      : 20240110
+# TRANS #         : A107
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 537
+# DOI             : 10.1134/S106377881104017X
+# Quantity        : natNi(p,x)27Mg cumulative production cross section
+# REACTION        : 28-NI-0(P,X)12-MG-27,CUM,SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodMg27_Titarenko_2011_a0906.026
+#
+# npts            : 5           
+# xmin            :   5.9900E+08
+# xmax            :   2.6050E+09
+# ymin            :   1.6400E-04
+# ymax            :   8.9900E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9900E+08  2.0000E+06  1.6400E-04  2.5000E-05
+  7.9900E+08  2.0000E+06  3.3700E-04  3.6000E-05
+  1.1990E+09  3.0000E+06  6.9600E-04  6.7000E-05
+  1.5980E+09  4.0000E+06  8.9900E-04  8.6000E-05
+  2.6050E+09  8.0000E+06  8.8400E-04  8.5000E-05
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : O0759.020.T
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : J.Muto et al.
+# Reference       : Nucl.Phys. 47 (1963) 19
+# DOI             : 10.1016/0029-5582(63)90850-2
+# Quantity        : 181Ta(p,a+x) cross section
+# REACTION        : 73-TA-181(P,X)2-HE-4,,SIG
+# File ID         : p-Ta181-xa-sig-excfun-mon-Muto_1963_o0759.020.t
+#
+# npts            : 1           
+# xmin            :   5.6000E+07
+# xmax            :   5.6000E+07
+# ymin            :   4.0000E-02
+# ymax            :   4.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.6000E+07  0.0000E+00  4.0000E-02  2.0000E-03
+#---------------------------------------------------

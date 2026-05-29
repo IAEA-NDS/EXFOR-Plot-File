@@ -1,0 +1,23 @@
+# EXFOR #         : O0639.003  
+# EXFOR Ver.      : 20000424
+# TRANS #         : 0000
+# Author          : V.P.Shamov
+# Reference       : Dokl.Acad.Nauk 103 (1955) 593
+# DOI             : N/A
+# Quantity        : 209Bi(p,f) cross section
+# REACTION        : 83-BI-209(P,F),,SIG,,,EXP
+# File ID         : p-Bi209-f-sig-excfun-mon-Shamov_1955_o0639.003
+#
+# npts            : 2           
+# xmin            :   4.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   8.8000E-02
+# ymax            :   1.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.6000E+08  0.0000E+00  8.8000E-02  2.0000E-02
+  6.6000E+08  0.0000E+00  1.2000E-01  2.0000E-02
+#---------------------------------------------------

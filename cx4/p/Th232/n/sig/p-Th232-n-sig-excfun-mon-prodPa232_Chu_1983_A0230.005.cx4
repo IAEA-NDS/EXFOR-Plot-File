@@ -1,0 +1,22 @@
+# EXFOR #         : A0230.005  
+# EXFOR Ver.      : 20240820
+# TRANS #         : A116
+# Author          : Y.Y.Chu et al.
+# Reference       : IEEE Trans.Nucl.Sci. 30 (1983) 1153
+# DOI             : 10.1109/TNS.1983.4332477
+# Quantity        : 232Th(p,n)232Pa cross section
+# REACTION        : 90-TH-232(P,N)91-PA-232,,SIG
+# File ID         : p-Th232-n-sig-excfun-mon-prodPa232_Chu_1983_a0230.005
+#
+# npts            : 1           
+# xmin            :   2.0000E+08
+# xmax            :   2.0000E+08
+# ymin            :   5.6000E-04
+# ymax            :   5.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  5.6000E-04  6.0000E-05
+#---------------------------------------------------

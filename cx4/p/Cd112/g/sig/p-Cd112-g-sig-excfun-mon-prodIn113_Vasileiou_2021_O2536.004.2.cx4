@@ -1,0 +1,24 @@
+# EXFOR #         : O2536.004.2
+# EXFOR Ver.      : 20220223
+# TRANS #         : O089
+# Author          : P.Vasileiou et al.
+# Reference       : Nucl.Phys.A 1015 (2021) 122298
+# DOI             : 10.1016/j.nuclphysa.2021.122298
+# Quantity        : 112Cd(p,g)113In cross section
+# REACTION        : 48-CD-112(P,G)49-IN-113,,SIG,,SFC
+# File ID         : p-Cd112-g-sig-excfun-mon-prodIn113_Vasileiou_2021_o2536.004.2
+#
+# npts            : 3           
+# xmin            :   3.4000E+06
+# xmax            :   3.6000E+06
+# ymin            :   4.3114E-04
+# ymax            :   5.8055E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4000E+06  0.0000E+00  4.3114E-04  3.1419E-05
+  3.5000E+06  0.0000E+00  5.8055E-04  4.1819E-05
+  3.6000E+06  0.0000E+00  5.3289E-04  3.4160E-05
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : O0556.012  
+# EXFOR Ver.      : 20201106
+# TRANS #         : O081
+# Author          : D.Bachelier et al.
+# Reference       : Nucl.Phys.A 126 (1969) 60
+# DOI             : 10.1016/0375-9474(69)90400-X
+# Quantity        : 28Si(p,d)27Si partial angular differential cross section
+# REACTION        : 14-SI-28(P,D)14-SI-27,PAR,DA
+# File ID         : p-Si28-d-adxc-angdisc-mon-einc1.550E+08_elvl2.750E+06_prodSi27_Bachelier_1969_o0556.012
+#
+# Einc (eV)       :   1.5500E+08
+# Elvl (eV)       :   2.7500E+06
+#
+# npts            : 2           
+# xmin            :    6.9000000
+# xmax            :   18.5000000
+# ymin            :   1.9000E-04
+# ymax            :   9.5000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.9000000   0.0000000  9.5000E-04  1.3000E-04
+  18.5000000   0.0000000  1.9000E-04  4.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C2368.013  
+# EXFOR Ver.      : 20181207
+# TRANS #         : C183
+# Author          : S.B.Kaufman et al.
+# Reference       : Phys.Rev.C 19 (1979) 962
+# DOI             : 10.1103/PhysRevC.19.962
+# Quantity        : 27Al(p,x)24Na independent production cross section
+# REACTION        : 13-AL-27(P,X)11-NA-24,,SIG
+# File ID         : p-Al27-x-sig-excfun-mon-prodNa24_Kaufman_1979_c2368.013
+#
+# npts            : 1           
+# xmin            :   3.0000E+11
+# xmax            :   3.0000E+11
+# ymin            :   8.0400E-03
+# ymax            :   8.0400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+11  0.0000E+00  8.0400E-03  5.8000E-04
+#---------------------------------------------------

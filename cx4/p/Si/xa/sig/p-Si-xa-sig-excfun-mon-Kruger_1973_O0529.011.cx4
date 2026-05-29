@@ -1,0 +1,23 @@
+# EXFOR #         : O0529.011  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : S.T.Kruger et al.
+# Reference       : Phys.Rev.C 7 (1973) 2179
+# DOI             : 10.1103/PhysRevC.7.2179
+# Quantity        : natSi(p,a+x) cross section
+# REACTION        : 14-SI-0(P,X)2-HE-4,,SIG
+# File ID         : p-Si-xa-sig-excfun-mon-Kruger_1973_o0529.011
+#
+# npts            : 2           
+# xmin            :   6.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   3.3100E-01
+# ymax            :   3.6500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  3.3100E-01  4.0000E-02
+  3.0000E+09  0.0000E+00  3.6500E-01  4.4000E-02
+#---------------------------------------------------

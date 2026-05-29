@@ -1,0 +1,25 @@
+# EXFOR #         : E1852.034  
+# EXFOR Ver.      : 20180223
+# TRANS #         : E111
+# Author          : Z.Qin et al.
+# Reference       : Radiochim.Acta 84 (1999) 115
+# DOI             : 10.1524/ract.1999.84.3.115
+# Quantity        : 248Cm(p,f)99Mo cumulative production cross section
+# REACTION        : 96-CM-248(P,F)42-MO-99,(CUM),SIG
+# File ID         : p-Cm248-x-sigc-excfun-mon-prodMo99_Qin_1999_e1852.034
+#
+# npts            : 4           
+# xmin            :   1.0500E+07
+# xmax            :   1.5900E+07
+# ymin            :   3.8000E-03
+# ymax            :   1.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0500E+07  0.0000E+00  3.8000E-03  5.0000E-04
+  1.2100E+07  0.0000E+00  5.3000E-03  8.0000E-04
+  1.4800E+07  0.0000E+00  6.2000E-03  9.0000E-04
+  1.5900E+07  0.0000E+00  1.5000E-02  6.0000E-03
+#---------------------------------------------------

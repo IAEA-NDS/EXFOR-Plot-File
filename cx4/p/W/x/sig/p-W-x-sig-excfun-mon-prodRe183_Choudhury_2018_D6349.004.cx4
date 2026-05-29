@@ -1,0 +1,26 @@
+# EXFOR #         : D6349.004  
+# EXFOR Ver.      : 20191114
+# TRANS #         : D124
+# Author          : D.Choudhury et al.
+# Reference       : Radiochim.Acta 106 (2018) 743
+# DOI             : 10.1515/ract-2017-2869
+# Quantity        : natW(p,x)183Re independent production cross section
+# REACTION        : 74-W-0(P,X)75-RE-183,,SIG
+# File ID         : p-W-x-sig-excfun-mon-prodRe183_Choudhury_2018_d6349.004
+#
+# npts            : 5           
+# xmin            :   8.8000E+06
+# xmax            :   2.0900E+07
+# ymin            :   8.0000E-03
+# ymax            :   4.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0900E+07  1.2000E+05  2.2800E-01  1.7000E-02
+  1.7900E+07  7.0000E+04  4.2000E-01  3.2000E-02
+  1.4900E+07  1.8000E+05  1.5400E-01  1.2000E-02
+  1.1900E+07  2.2000E+05  5.6000E-02  4.0000E-03
+  8.8000E+06  1.9000E+05  8.0000E-03  6.0000E-04
+#---------------------------------------------------

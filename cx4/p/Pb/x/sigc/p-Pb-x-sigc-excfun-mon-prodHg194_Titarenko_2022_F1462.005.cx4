@@ -1,0 +1,22 @@
+# EXFOR #         : F1462.005  
+# EXFOR Ver.      : 20220324
+# TRANS #         : F088
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Nucl.Instrum.Meth.A 1026 (2022) 166151
+# DOI             : 10.1016/j.nima.2021.166151
+# Quantity        : natPb(p,x)194Hg cumulative production cross section
+# REACTION        : 82-PB-0(P,X)80-HG-194,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodHg194_Titarenko_2022_f1462.005
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   6.1000E-02
+# ymax            :   6.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  2.0000E+06  6.1000E-02  6.8000E-03
+#---------------------------------------------------

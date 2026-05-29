@@ -1,0 +1,27 @@
+# EXFOR #         : O0697.009.1
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : H.Ogawa et al.
+# Reference       : Phys.Rev.C 33 (1986) 834
+# DOI             : 10.1103/PhysRevC.33.834
+# Quantity        : 184W(p,inl)184W partial angular differential cross section
+# REACTION        : 74-W-184(P,INL)74-W-184,PAR,DA
+# File ID         : p-W184-inl-adxl-lvldis-mon-einc6.500E+07_angl64_prodW184_Ogawa_1986_o0697.009.1
+#
+# Einc (eV)       :   6.5000E+07
+# theta,lab (deg) :   64.3000000
+#
+# npts            : 3           
+# xmin            :   1.1100E+05
+# xmax            :   7.4800E+05
+# ymin            :   2.8610E-05
+# ymax            :   9.8210E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.1100E+05  0.0000E+00  9.8210E-04  1.0400E-05
+  3.6400E+05  0.0000E+00  1.7440E-04  4.4000E-06
+  7.4800E+05  0.0000E+00  2.8610E-05  1.6400E-06
+#---------------------------------------------------

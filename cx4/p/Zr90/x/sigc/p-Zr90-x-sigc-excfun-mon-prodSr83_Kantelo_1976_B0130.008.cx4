@@ -1,0 +1,26 @@
+# EXFOR #         : B0130.008  
+# EXFOR Ver.      : 20160824
+# TRANS #         : B025
+# Author          : M.V.Kantelo et al.
+# Reference       : Phys.Rev.C 14 (1976) 64
+# DOI             : 10.1103/PhysRevC.14.64
+# Quantity        : 90Zr(p,x)83Sr cumulative production cross section
+# REACTION        : 40-ZR-90(P,X)38-SR-83,CUM,SIG
+# File ID         : p-Zr90-x-sigc-excfun-mon-prodSr83_Kantelo_1976_b0130.008
+#
+# npts            : 5           
+# xmin            :   6.2000E+07
+# xmax            :   8.6000E+07
+# ymin            :   1.2000E-03
+# ymax            :   4.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.2000E+07  2.0000E+06  1.2000E-03  1.0000E-04
+  6.8000E+07  2.0000E+06  1.3400E-02  8.0000E-04
+  7.4000E+07  2.0000E+06  3.8000E-02  2.0000E-03
+  8.0000E+07  2.0000E+06  4.5000E-02  3.0000E-03
+  8.6000E+07  2.0000E+06  4.8000E-02  3.0000E-03
+#---------------------------------------------------

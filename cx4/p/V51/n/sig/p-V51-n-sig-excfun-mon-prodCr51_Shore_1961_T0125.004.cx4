@@ -1,0 +1,22 @@
+# EXFOR #         : T0125.004  
+# EXFOR Ver.      : 20001127
+# TRANS #         : 0000
+# Author          : B.W.Shore et al.
+# Reference       : Phys.Rev. 123 (1961) 276
+# DOI             : 10.1103/PhysRev.123.276
+# Quantity        : 51V(p,n)51Cr cross section
+# REACTION        : 23-V-51(P,N)24-CR-51,,SIG
+# File ID         : p-V51-n-sig-excfun-mon-prodCr51_Shore_1961_t0125.004
+#
+# npts            : 1           
+# xmin            :   7.5000E+06
+# xmax            :   7.5000E+06
+# ymin            :   5.5500E-01
+# ymax            :   5.5500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.5000E+06  0.0000E+00  5.5500E-01  3.0000E-02
+#---------------------------------------------------

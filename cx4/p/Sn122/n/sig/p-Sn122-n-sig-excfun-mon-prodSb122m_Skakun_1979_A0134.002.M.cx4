@@ -1,0 +1,24 @@
+# EXFOR #         : A0134.002.M
+# EXFOR Ver.      : 20160124
+# TRANS #         : A084
+# Author          : E.A.Skakun et al.
+# Reference       : Proceedings of 29.Conf.on Nucl.Spectr.and Nucl.Struct.,Riga 1979 page 291
+# DOI             : N/A
+# Quantity        : 122Sn(p,n)122mSb cross section
+# REACTION        : 50-SN-122(P,N)51-SB-122-M,,SIG
+# File ID         : p-Sn122-n-sig-excfun-mon-prodSb122m_Skakun_1979_a0134.002.m
+#
+# npts            : 3           
+# xmin            :   6.9000E+06
+# xmax            :   9.1000E+06
+# ymin            :   2.1400E-02
+# ymax            :   1.3500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.1000E+06  0.0000E+00  1.3500E-01  2.0000E-02
+  7.8000E+06  0.0000E+00  6.0000E-02  9.0000E-03
+  6.9000E+06  0.0000E+00  2.1400E-02  3.2000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C1748.011  
+# EXFOR Ver.      : 20180511
+# TRANS #         : C175
+# Author          : B.L.Cohen
+# Reference       : Phys.Rev. 102 (1956) 453
+# DOI             : 10.1103/PhysRev.102.453
+# Quantity        : 29Si(p,x)18F independent production cross section
+# REACTION        : 14-SI-29(P,X)9-F-18,,SIG
+# File ID         : p-Si29-x-sig-excfun-mon-prodF18_Cohen_1956_c1748.011
+#
+# npts            : 1           
+# xmin            :   3.0000E+07
+# xmax            :   3.0000E+07
+# ymin            :   3.0000E-04
+# ymax            :   3.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+07  0.0000E+00  3.0000E-04  2.0000E-04
+#---------------------------------------------------

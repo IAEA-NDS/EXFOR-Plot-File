@@ -1,0 +1,25 @@
+# EXFOR #         : O1099.091  
+# EXFOR Ver.      : 20220120
+# TRANS #         : O087
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 181Ta(p,x)110mAg independent production cross section
+# REACTION        : 73-TA-181(P,X)47-AG-110-M,,SIG
+# File ID         : p-Ta181-x-sig-excfun-mon-prodAg110m_Michel_2002_o1099.091
+#
+# npts            : 4           
+# xmin            :   9.8600E+08
+# xmax            :   2.5800E+09
+# ymin            :   4.7000E-05
+# ymax            :   1.8200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.8600E+08  1.0000E+06  4.7000E-05  9.4000E-06
+  1.3800E+09  1.0000E+06  7.0400E-05  1.7300E-05
+  1.5700E+09  1.0000E+06  1.0200E-04  2.1000E-05
+  2.5800E+09  1.0000E+06  1.8200E-04  4.3000E-05
+#---------------------------------------------------

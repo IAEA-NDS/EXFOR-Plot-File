@@ -1,0 +1,23 @@
+# EXFOR #         : O0569.010  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : J.L.Anderson et al.
+# Reference       : J.Inorg.Nucl.Chem. 30 (1968) 3167
+# DOI             : 10.1016/0022-1902(68)80108-3
+# Quantity        : 238U(p,f)91mY independent production cross section
+# REACTION        : 92-U-238(P,F)39-Y-91-M,IND,SIG
+# File ID         : p-U238-x-sig-excfun-mon-prodY91m_Anderson_1968_o0569.010
+#
+# npts            : 2           
+# xmin            :   9.5000E+06
+# xmax            :   1.1300E+07
+# ymin            :   3.2800E-05
+# ymax            :   4.4500E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5000E+06  0.0000E+00  4.4500E-05  2.5000E-05
+  1.1300E+07  0.0000E+00  3.2800E-05  2.0000E-05
+#---------------------------------------------------

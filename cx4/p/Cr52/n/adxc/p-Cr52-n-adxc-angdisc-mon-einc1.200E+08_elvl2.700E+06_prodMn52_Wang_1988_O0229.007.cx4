@@ -1,0 +1,28 @@
+# EXFOR #         : O0229.007  
+# EXFOR Ver.      : 19961229
+# TRANS #         : 0000
+# Author          : D.Wang et al.
+# Reference       : Nucl.Phys.A 480 (1988) 285
+# DOI             : 10.1016/0375-9474(88)90398-3
+# Quantity        : 52Cr(p,n)52Mn partial angular differential cross section
+# REACTION        : 24-CR-52(P,N)25-MN-52,PAR,DA,,,EXP
+# File ID         : p-Cr52-n-adxc-angdisc-mon-einc1.200E+08_elvl2.700E+06_prodMn52_Wang_1988_o0229.007
+#
+# Einc (eV)       :   1.2000E+08
+# Elvl (eV)       :   2.7000E+06
+#
+# npts            : 4           
+# xmin            :    0.0000000
+# xmax            :   11.1500000
+# ymin            :   2.4900E-04
+# ymax            :   1.8500E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0700000  1.8500E-03  1.2950E-04
+   4.6600000   0.0700000  1.1300E-03  7.9100E-05
+   7.4600000   0.0700000  4.8700E-04  1.9480E-05
+  11.1500000   0.0700000  2.4900E-04  1.2450E-05
+#---------------------------------------------------

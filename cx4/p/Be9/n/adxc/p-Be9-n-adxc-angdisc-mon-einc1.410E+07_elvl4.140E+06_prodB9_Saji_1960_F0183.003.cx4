@@ -1,0 +1,30 @@
+# EXFOR #         : F0183.003  
+# EXFOR Ver.      : 20200625
+# TRANS #         : F079
+# Author          : Y.Saji
+# Reference       : J.Phys.Soc.Jpn. 15 (1960) 367
+# DOI             : 10.1143/JPSJ.15.367
+# Quantity        : 9Be(p,n)9B partial angular differential cross section
+# REACTION        : 4-BE-9(P,N)5-B-9,PAR,DA
+# File ID         : p-Be9-n-adxc-angdisc-mon-einc1.410E+07_elvl4.140E+06_prodB9_Saji_1960_f0183.003
+#
+# Einc (eV)       :   1.4100E+07
+# dEinc (eV)      :   4.2300E+05
+# Elvl (eV)       :   4.1400E+06
+# dElvl (eV)      :   1.0000E+05
+#
+# npts            : 4           
+# xmin            :    1.3000000
+# xmax            :   97.6000000
+# ymin            :   4.6900E-04
+# ymax            :   1.3170E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   1.3000000   0.0000000  1.2560E-03  1.7700E-04
+  29.7000000   0.0000000  1.3170E-03  2.6700E-04
+  67.2000000   0.0000000  7.6200E-04  1.7800E-04
+  97.6000000   0.0000000  4.6900E-04  1.7800E-04
+#---------------------------------------------------

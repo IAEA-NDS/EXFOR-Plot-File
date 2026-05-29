@@ -1,0 +1,22 @@
+# EXFOR #         : A0230.007  
+# EXFOR Ver.      : 20240820
+# TRANS #         : A116
+# Author          : Y.Y.Chu et al.
+# Reference       : IEEE Trans.Nucl.Sci. 30 (1983) 1153
+# DOI             : 10.1109/TNS.1983.4332477
+# Quantity        : 238U(p,4n)235Np cross section
+# REACTION        : 92-U-238(P,4N)93-NP-235,,SIG
+# File ID         : p-U238-4n-sig-excfun-mon-prodNp235_Chu_1983_a0230.007
+#
+# npts            : 1           
+# xmin            :   2.0000E+08
+# xmax            :   2.0000E+08
+# ymin            :   1.0200E-03
+# ymax            :   1.0200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  1.0200E-03  1.4000E-04
+#---------------------------------------------------

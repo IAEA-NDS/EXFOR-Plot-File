@@ -1,0 +1,27 @@
+# EXFOR #         : C1425.002  
+# EXFOR Ver.      : 20060301
+# TRANS #         : C077
+# Author          : J.R.Tinsley et al.
+# Reference       : Phys.Rev.C 28 (1983) 1417
+# DOI             : 10.1103/PhysRevC.28.1417
+# Quantity        : 208Pb(p,inl)208Pb partial angular differential cross section
+# REACTION        : 82-PB-208(P,INL)82-PB-208,PAR,DA
+# File ID         : p-Pb208-inl-adxc-angdisc-mon-einc2.000E+08_elvl1.060E+07_prodPb208_Tinsley_1983_c1425.002
+#
+# Einc (eV)       :   2.0000E+08
+# Elvl (eV)       :   1.0600E+07
+#
+# npts            : 3           
+# xmin            :    6.0300000
+# xmax            :   10.0000000
+# ymin            :   3.4900E-03
+# ymax            :   1.2500E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.0300000   0.0000000  1.2500E-02  2.5000E-03
+   7.9700000   0.0000000  9.5500E-03  1.8400E-03
+  10.0000000   0.0000000  3.4900E-03  6.9900E-04
+#---------------------------------------------------

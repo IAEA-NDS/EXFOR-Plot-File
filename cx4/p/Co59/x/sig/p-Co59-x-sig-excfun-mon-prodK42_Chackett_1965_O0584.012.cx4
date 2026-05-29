@@ -1,0 +1,23 @@
+# EXFOR #         : O0584.012  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : K.F.Chackett
+# Reference       : J.Inorg.Nucl.Chem. 27 (1965) 2493
+# DOI             : 10.1016/0022-1902(65)80148-8
+# Quantity        : 59Co(p,x)42K independent production cross section
+# REACTION        : 27-CO-59(P,X)19-K-42,IND,SIG
+# File ID         : p-Co59-x-sig-excfun-mon-prodK42_Chackett_1965_o0584.012
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   1.8300E+10
+# ymin            :   1.3500E-03
+# ymax            :   1.7400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  1.3500E-03  0.0000E+00
+  1.8300E+10  0.0000E+00  1.7400E-03  0.0000E+00
+#---------------------------------------------------

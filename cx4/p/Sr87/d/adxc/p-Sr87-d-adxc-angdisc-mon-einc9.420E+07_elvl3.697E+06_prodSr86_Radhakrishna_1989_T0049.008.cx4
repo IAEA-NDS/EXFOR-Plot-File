@@ -1,0 +1,29 @@
+# EXFOR #         : T0049.008  
+# EXFOR Ver.      : 20220420
+# TRANS #         : C217
+# Author          : M.C.Radhakrishna et al.
+# Reference       : Phys.Rev.C 40 (1989) 1603
+# DOI             : 10.1103/PhysRevC.40.1603
+# Quantity        : 87Sr(p,d)86Sr partial angular differential cross section
+# REACTION        : 38-SR-87(P,D)38-SR-86,PAR,DA
+# File ID         : p-Sr87-d-adxc-angdisc-mon-einc9.420E+07_elvl3.697E+06_prodSr86_Radhakrishna_1989_t0049.008
+#
+# Einc (eV)       :   9.4200E+07
+# Elvl (eV)       :   3.6970E+06
+#
+# npts            : 5           
+# xmin            :   26.9950000
+# xmax            :   39.0180000
+# ymin            :   8.5520E-06
+# ymax            :   2.6330E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  26.9950000   0.0000000  2.6330E-05  0.0000E+00
+  29.8700000   0.0000000  2.2020E-05  0.0000E+00
+  32.9060000   0.0000000  1.1950E-05  0.0000E+00
+  35.9640000   0.0000000  1.0700E-05  0.0000E+00
+  39.0180000   0.0000000  8.5520E-06  0.0000E+00
+#---------------------------------------------------

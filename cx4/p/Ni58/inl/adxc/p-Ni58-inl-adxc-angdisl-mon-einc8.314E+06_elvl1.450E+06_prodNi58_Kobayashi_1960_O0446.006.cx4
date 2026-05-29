@@ -1,0 +1,26 @@
+# EXFOR #         : O0446.006  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : S.Kobayashi et al.
+# Reference       : J.Phys.Soc.Jpn. 15 (1960) 1151
+# DOI             : 10.1143/JPSJ.15.1151
+# Quantity        : 58Ni(p,inl)58Ni partial angular differential cross section
+# REACTION        : 28-NI-58(P,INL)28-NI-58,PAR,DA
+# File ID         : p-Ni58-inl-adxc-angdisl-mon-einc8.314E+06_elvl1.450E+06_prodNi58_Kobayashi_1960_o0446.006
+#
+# Einc (eV)       :   8.3140E+06
+# dEinc (eV)      :   1.5000E+04
+# Elvl (eV)       :   1.4500E+06
+#
+# npts            : 1           
+# xmin            :   30.0000000
+# xmax            :   30.0000000
+# ymin            :   2.0640E-02
+# ymax            :   2.0640E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  2.0640E-02  1.5000E-04
+#---------------------------------------------------

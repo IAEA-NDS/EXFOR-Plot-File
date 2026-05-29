@@ -1,0 +1,23 @@
+# EXFOR #         : O1882.006  
+# EXFOR Ver.      : 20101220
+# TRANS #         : O044
+# Author          : S.Neumann
+# Reference       : Thesis  (1999)
+# DOI             : N/A
+# Quantity        : natFe(p,x)42K independent production cross section
+# REACTION        : 26-FE-0(P,X)19-K-42,IND,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodK42_Neumann_1999_o1882.006
+#
+# npts            : 2           
+# xmin            :   9.5900E+08
+# xmax            :   1.3610E+09
+# ymin            :   5.0300E-03
+# ymax            :   5.3300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5900E+08  2.0000E+06  5.3300E-03  7.2000E-04
+  1.3610E+09  2.0000E+06  5.0300E-03  7.6000E-04
+#---------------------------------------------------

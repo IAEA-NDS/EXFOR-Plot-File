@@ -1,0 +1,26 @@
+# EXFOR #         : D0193.006  
+# EXFOR Ver.      : 20050507
+# TRANS #         : D044
+# Author          : S.Dahlgren et al.
+# Reference       : Nucl.Phys.A 90 (1967) 673
+# DOI             : 10.1016/0375-9474(67)90073-5
+# Quantity        : 27Al(p,inl)27Al partial angular differential cross section
+# REACTION        : 13-AL-27(P,INL)13-AL-27,PAR,DA
+# File ID         : p-Al27-inl-adxl-angdisl-mon-einc1.850E+08_elvl6.520E+06_prodAl27_Dahlgren_1967_d0193.006
+#
+# Einc (eV)       :   1.8500E+08
+# Elvl (eV)       :   6.5200E+06
+# dElvl (eV)      :   7.0000E+04
+#
+# npts            : 1           
+# xmin            :   18.0000000
+# xmax            :   18.0000000
+# ymin            :   8.6000E-04
+# ymax            :   8.6000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  18.0000000   0.0000000  8.6000E-04  0.0000E+00
+#---------------------------------------------------

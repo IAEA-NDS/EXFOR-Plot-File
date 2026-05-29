@@ -1,0 +1,22 @@
+# EXFOR #         : O2139.040  
+# EXFOR Ver.      : 20131008
+# TRANS #         : O051
+# Author          : S.A.M.Issa et al.
+# Reference       : Nucl.Instrum.Meth.B 298 (2013) 19
+# DOI             : 10.1016/j.nimb.2013.01.001
+# Quantity        : natRe(p,x)106mAg independent production cross section
+# REACTION        : 75-RE-0(P,X)47-AG-106-M,IND,SIG
+# File ID         : p-Re-x-sig-excfun-mon-prodAg106m_Issa_2013_o2139.040
+#
+# npts            : 1           
+# xmin            :   2.5900E+09
+# xmax            :   2.5900E+09
+# ymin            :   9.9000E-03
+# ymax            :   9.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5900E+09  1.0000E+06  9.9000E-03  5.0000E-04
+#---------------------------------------------------

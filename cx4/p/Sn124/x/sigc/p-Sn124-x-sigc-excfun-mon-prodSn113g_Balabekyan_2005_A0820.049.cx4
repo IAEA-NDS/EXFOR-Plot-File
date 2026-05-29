@@ -1,0 +1,22 @@
+# EXFOR #         : A0820.049  
+# EXFOR Ver.      : 20250728
+# TRANS #         : A122
+# Author          : A.R.Balabekyan et al.
+# Reference       : Phys.At.Nucl. 68 (2005) 171
+# DOI             : 10.1134/1.1866372
+# Quantity        : 124Sn(p,x)113gSn cumulative production cross section
+# REACTION        : 50-SN-124(P,X)50-SN-113-G,CUM,SIG
+# File ID         : p-Sn124-x-sigc-excfun-mon-prodSn113g_Balabekyan_2005_a0820.049
+#
+# npts            : 1           
+# xmin            :   3.6500E+09
+# xmax            :   3.6500E+09
+# ymin            :   2.7000E-03
+# ymax            :   2.7000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6500E+09  0.0000E+00  2.7000E-03  1.0000E-04
+#---------------------------------------------------

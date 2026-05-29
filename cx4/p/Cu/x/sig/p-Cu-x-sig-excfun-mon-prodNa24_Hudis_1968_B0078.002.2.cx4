@@ -1,0 +1,24 @@
+# EXFOR #         : B0078.002.2
+# EXFOR Ver.      : 20211221
+# TRANS #         : B032
+# Author          : J.Hudis
+# Reference       : Phys.Rev. 171 (1968) 1301
+# DOI             : 10.1103/PhysRev.171.1301
+# Quantity        : natCu(p,x)24Na independent production cross section
+# REACTION        : 29-CU-0(P,X)11-NA-24,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodNa24_Hudis_1968_b0078.002.2
+#
+# npts            : 3           
+# xmin            :   1.0000E+09
+# xmax            :   3.0000E+09
+# ymin            :   9.4000E-04
+# ymax            :   2.8900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  9.4000E-04  0.0000E+00
+  2.0000E+09  0.0000E+00  2.7700E-03  0.0000E+00
+  3.0000E+09  0.0000E+00  2.8900E-03  0.0000E+00
+#---------------------------------------------------

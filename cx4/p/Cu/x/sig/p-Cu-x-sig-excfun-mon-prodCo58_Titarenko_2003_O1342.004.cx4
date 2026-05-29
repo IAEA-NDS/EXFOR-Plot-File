@@ -1,0 +1,23 @@
+# EXFOR #         : O1342.004  
+# EXFOR Ver.      : 20070516
+# TRANS #         : O028
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Int.Meet.on Nucl.Appl.of Accel.Tech., San Diego 2003 page 59
+# DOI             : N/A
+# Quantity        : natCu(p,x)58Co independent production cross section
+# REACTION        : 29-CU-0(P,X)27-CO-58,IND,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodCo58_Titarenko_2003_o1342.004
+#
+# npts            : 2           
+# xmin            :   2.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   2.1900E-02
+# ymax            :   3.9800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  3.9800E-02  2.1000E-03
+  2.6000E+09  0.0000E+00  2.1900E-02  1.4000E-03
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : O0820.006  
+# EXFOR Ver.      : 20120605
+# TRANS #         : O048
+# Author          : A.S.Danagulyan et al.
+# Reference       : Yad.Fiz. 63 (2000) 204
+# DOI             : N/A
+# Quantity        : 118Sn(p,x)7Be independent production cross section
+# REACTION        : 50-SN-118(P,X)4-BE-7,IND,SIG
+# File ID         : p-Sn118-x-sig-excfun-mon-prodBe7_Danagulyan_2000_o0820.006
+#
+# npts            : 2           
+# xmin            :   6.6000E+08
+# xmax            :   8.1000E+09
+# ymin            :   9.2000E-04
+# ymax            :   2.0900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  9.2000E-04  1.0000E-04
+  8.1000E+09  0.0000E+00  2.0900E-02  2.0000E-03
+#---------------------------------------------------

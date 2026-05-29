@@ -1,0 +1,24 @@
+# EXFOR #         : O0030.007  
+# EXFOR Ver.      : 20200815
+# TRANS #         : O079
+# Author          : J.J.Hogan et al.
+# Reference       : Phys.Rev.C 20 (1979) 1831
+# DOI             : 10.1103/PhysRevC.20.1831
+# Quantity        : 232Th(p,x)224Ra independent production cross section
+# REACTION        : 90-TH-232(P,X)88-RA-224,,SIG
+# File ID         : p-Th232-x-sig-excfun-mon-prodRa224_Hogan_1979_o0030.007
+#
+# npts            : 3           
+# xmin            :   7.5000E+07
+# xmax            :   9.0000E+07
+# ymin            :   2.0000E-04
+# ymax            :   6.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.5000E+07  2.0000E+06  2.0000E-04  1.7000E-04
+  8.5000E+07  2.0000E+06  5.3000E-04  2.5000E-04
+  9.0000E+07  2.0000E+06  6.2000E-04  2.2000E-04
+#---------------------------------------------------

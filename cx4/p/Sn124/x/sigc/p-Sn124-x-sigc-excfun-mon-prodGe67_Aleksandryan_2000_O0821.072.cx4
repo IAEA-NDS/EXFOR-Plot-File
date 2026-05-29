@@ -1,0 +1,22 @@
+# EXFOR #         : O0821.072  
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : V.Aleksandryan et al.
+# Reference       : Nucl.Phys.A 674 (2000) 539
+# DOI             : 10.1016/S0375-9474(00)00167-6
+# Quantity        : 124Sn(p,x)67Ge cumulative production cross section
+# REACTION        : 50-SN-124(P,X)32-GE-67,CUM,SIG
+# File ID         : p-Sn124-x-sigc-excfun-mon-prodGe67_Aleksandryan_2000_o0821.072
+#
+# npts            : 1           
+# xmin            :   8.1000E+09
+# xmax            :   8.1000E+09
+# ymin            :   3.0000E-04
+# ymax            :   3.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.1000E+09  0.0000E+00  3.0000E-04  6.0000E-05
+#---------------------------------------------------

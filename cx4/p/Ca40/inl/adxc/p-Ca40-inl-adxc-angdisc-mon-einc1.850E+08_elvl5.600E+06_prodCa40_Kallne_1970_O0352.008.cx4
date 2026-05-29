@@ -1,0 +1,31 @@
+# EXFOR #         : O0352.008  
+# EXFOR Ver.      : 19970623
+# TRANS #         : 0000
+# Author          : J.Kallne et al.
+# Reference       : Phys.Scr. 2 (1970) 195
+# DOI             : 10.1088/0031-8949/2/4-5/011
+# Quantity        : 40Ca(p,inl)40Ca partial angular differential cross section
+# REACTION        : 20-CA-40(P,INL)20-CA-40,PAR,DA,,,EXP
+# File ID         : p-Ca40-inl-adxc-angdisc-mon-einc1.850E+08_elvl5.600E+06_prodCa40_Kallne_1970_o0352.008
+#
+# Einc (eV)       :   1.8500E+08
+# dEinc (eV)      :   2.5000E+05
+# Elvl (eV)       :   5.6000E+06
+# dElvl (eV)      :   5.0000E+04
+#
+# npts            : 5           
+# xmin            :    7.5200000
+# xmax            :   30.9900000
+# ymin            :   2.5000E-05
+# ymax            :   2.8000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   7.5200000   0.1600000  1.5000E-04  4.5000E-05
+  10.8300000   0.1600000  2.8000E-04  5.0400E-05
+  12.8200000   0.1600000  2.5000E-04  6.0000E-05
+  14.7100000   0.1600000  1.9000E-04  3.0400E-05
+  30.9900000   0.1600000  2.5000E-05  3.0000E-06
+#---------------------------------------------------

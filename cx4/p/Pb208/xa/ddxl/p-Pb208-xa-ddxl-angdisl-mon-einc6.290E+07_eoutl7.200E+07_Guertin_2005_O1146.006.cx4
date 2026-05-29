@@ -1,0 +1,26 @@
+# EXFOR #         : O1146.006  
+# EXFOR Ver.      : 20040411
+# TRANS #         : 0000
+# Author          : A.Guertin et al.
+# Reference       : Eur.Phys.J.A 23 (2005) 49
+# DOI             : 10.1140/epja/i2004-10073-1
+# Quantity        : 208Pb(p,a+x) double differential cross section
+# REACTION        : 82-PB-208(P,X)2-HE-4,,DA/DE
+# File ID         : p-Pb208-xa-ddxl-angdisl-mon-einc6.290E+07_eoutl7.200E+07_Guertin_2005_o1146.006
+#
+# Einc (eV)       :   6.2900E+07
+# Eout,lab (eV)   :   7.2000E+07
+#
+# npts            : 2           
+# xmin            :   25.0000000
+# xmax            :   35.0000000
+# ymin            :   3.2000E-12
+# ymax            :   1.4100E-11
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  25.0000000   0.0000000  1.4100E-11  5.3100E-13
+  35.0000000   0.0000000  3.2000E-12  2.3100E-13
+#---------------------------------------------------

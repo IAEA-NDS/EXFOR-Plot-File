@@ -1,0 +1,23 @@
+# EXFOR #         : O2424.004  
+# EXFOR Ver.      : 20190106
+# TRANS #         : O067
+# Author          : C.Baumer et al.
+# Reference       : Nucl.Instrum.Meth.B 440 (2019) 75
+# DOI             : 10.1016/j.nimb.2018.11.020
+# Quantity        : 27Al(p,x)22Na independent production cross section
+# REACTION        : 13-AL-27(P,X)11-NA-22,,SIG,,AV
+# File ID         : p-Al27-x-sig-excfun-mon-prodNa22_Baumer_2019_o2424.004
+#
+# npts            : 2           
+# xmin            :   1.0010E+08
+# xmax            :   1.8065E+08
+# ymin            :   1.6800E-02
+# ymax            :   1.9900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0010E+08  4.0000E+05  1.9900E-02  3.0000E-04
+  1.8065E+08  1.2500E+06  1.6800E-02  3.0000E-04
+#---------------------------------------------------

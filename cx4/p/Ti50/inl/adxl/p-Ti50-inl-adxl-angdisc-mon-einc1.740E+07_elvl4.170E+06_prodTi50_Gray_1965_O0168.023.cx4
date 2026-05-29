@@ -1,0 +1,27 @@
+# EXFOR #         : O0168.023  
+# EXFOR Ver.      : 19950724
+# TRANS #         : 0000
+# Author          : W.S.Gray et al.
+# Reference       : Nucl.Phys. 67 (1965) 565
+# DOI             : 10.1016/0029-5582(65)90547-X
+# Quantity        : 50Ti(p,inl)50Ti partial angular differential cross section
+# REACTION        : 22-TI-50(P,INL)22-TI-50,PAR,DA,,,EXP
+# File ID         : p-Ti50-inl-adxl-angdisc-mon-einc1.740E+07_elvl4.170E+06_prodTi50_Gray_1965_o0168.023
+#
+# Einc (eV)       :   1.7400E+07
+# Elvl (eV)       :   4.1700E+06
+#
+# npts            : 3           
+# xmin            :   20.6000000
+# xmax            :   36.0000000
+# ymin            :   4.8000E-04
+# ymax            :   7.3000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.6000000   0.4000000  5.4000E-04  2.1600E-04
+  26.7000000   0.4000000  4.8000E-04  1.2960E-04
+  36.0000000   0.4000000  7.3000E-04  1.6060E-04
+#---------------------------------------------------

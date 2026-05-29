@@ -1,0 +1,22 @@
+# EXFOR #         : D0988.005  
+# EXFOR Ver.      : 20201225
+# TRANS #         : D129
+# Author          : E.Cheifetz et al.
+# Reference       : Phys.Rev.Lett. 21 (1968) 36
+# DOI             : 10.1103/PhysRevLett.21.36
+# Quantity        : 238U(p,f) prompt fission neutron multiplicity
+# REACTION        : 92-U-238(P,F),PR,NU
+# File ID         : p-U238-f-nup-excfun-mon-Cheifetz_1968_d0988.005
+#
+# npts            : 1           
+# xmin            :   1.2000E+07
+# xmax            :   1.2000E+07
+# ymin            :   4.4700E+00
+# ymax            :   4.4700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-p        dnu-p       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  1.2000E+07  0.0000E+00  4.4700E+00  1.5000E-01
+#---------------------------------------------------

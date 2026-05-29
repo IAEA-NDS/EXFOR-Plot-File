@@ -1,0 +1,25 @@
+# EXFOR #         : O0073.015  
+# EXFOR Ver.      : 20220103
+# TRANS #         : O086
+# Author          : G.V.S.Rayudu
+# Reference       : Can.J.Chem. 42 (1964) 1149
+# DOI             : 10.1139/v64-178
+# Quantity        : natNi(p,x)7Be independent production cross section
+# REACTION        : 28-NI-0(P,X)4-BE-7,,SIG
+# File ID         : p-Ni-x-sig-excfun-mon-prodBe7_Rayudu_1964_o0073.015
+#
+# npts            : 4           
+# xmin            :   1.3000E+08
+# xmax            :   3.9600E+08
+# ymin            :   2.0600E-04
+# ymax            :   8.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  1.3000E+07  2.0600E-04  4.1000E-05
+  2.0800E+08  2.0800E+07  3.8000E-04  7.0000E-05
+  2.9700E+08  1.4850E+07  5.9400E-04  9.0000E-05
+  3.9600E+08  1.9800E+07  8.1000E-04  1.2200E-04
+#---------------------------------------------------

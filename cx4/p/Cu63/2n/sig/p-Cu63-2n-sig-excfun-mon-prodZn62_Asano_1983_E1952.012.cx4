@@ -1,0 +1,22 @@
+# EXFOR #         : E1952.012  
+# EXFOR Ver.      : 20060906
+# TRANS #         : E038
+# Author          : T.Asano et al.
+# Reference       : Phys.Rev.C 28 No.4 (1983) 1840
+# DOI             : 10.1103/PhysRevC.28.1840
+# Quantity        : 63Cu(p,2n)62Zn cross section
+# REACTION        : 29-CU-63(P,2N)30-ZN-62,,SIG
+# File ID         : p-Cu63-2n-sig-excfun-mon-prodZn62_Asano_1983_e1952.012
+#
+# npts            : 1           
+# xmin            :   1.2000E+10
+# xmax            :   1.2000E+10
+# ymin            :   3.0000E-04
+# ymax            :   3.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+10  0.0000E+00  3.0000E-04  3.0000E-05
+#---------------------------------------------------

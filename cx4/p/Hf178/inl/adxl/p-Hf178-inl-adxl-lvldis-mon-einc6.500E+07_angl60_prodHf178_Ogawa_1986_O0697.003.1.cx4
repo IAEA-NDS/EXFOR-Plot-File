@@ -1,0 +1,27 @@
+# EXFOR #         : O0697.003.1
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : H.Ogawa et al.
+# Reference       : Phys.Rev.C 33 (1986) 834
+# DOI             : 10.1103/PhysRevC.33.834
+# Quantity        : 178Hf(p,inl)178Hf partial angular differential cross section
+# REACTION        : 72-HF-178(P,INL)72-HF-178,PAR,DA
+# File ID         : p-Hf178-inl-adxl-lvldis-mon-einc6.500E+07_angl60_prodHf178_Ogawa_1986_o0697.003.1
+#
+# Einc (eV)       :   6.5000E+07
+# theta,lab (deg) :   60.3000000
+#
+# npts            : 3           
+# xmin            :   9.3000E+04
+# xmax            :   6.3200E+05
+# ymin            :   2.2390E-05
+# ymax            :   2.1210E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.3000E+04  0.0000E+00  2.6260E-03  2.0000E-05
+  3.0700E+05  0.0000E+00  2.1210E-02  5.9000E-04
+  6.3200E+05  0.0000E+00  2.2390E-05  2.1400E-06
+#---------------------------------------------------

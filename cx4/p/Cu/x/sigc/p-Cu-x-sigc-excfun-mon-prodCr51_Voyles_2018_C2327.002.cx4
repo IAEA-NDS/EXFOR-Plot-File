@@ -1,0 +1,25 @@
+# EXFOR #         : C2327.002  
+# EXFOR Ver.      : 20180404
+# TRANS #         : C180
+# Author          : A.S.Voyles et al.
+# Reference       : Nucl.Instrum.Meth.B 429 (2018) 53
+# DOI             : 10.1016/j.nimb.2018.05.028
+# Quantity        : natCu(p,x)51Cr cumulative production cross section
+# REACTION        : 29-CU-0(P,X)24-CR-51,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodCr51_Voyles_2018_c2327.002
+#
+# npts            : 4           
+# xmin            :   6.1580E+07
+# xmax            :   8.9740E+07
+# ymin            :   3.0300E-04
+# ymax            :   9.1900E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.1580E+07  0.0000E+00  3.0300E-04  1.6000E-05
+  7.0170E+07  0.0000E+00  4.5000E-04  2.8000E-05
+  7.9950E+07  0.0000E+00  3.7300E-04  2.3000E-05
+  8.9740E+07  0.0000E+00  9.1900E-04  7.9000E-05
+#---------------------------------------------------

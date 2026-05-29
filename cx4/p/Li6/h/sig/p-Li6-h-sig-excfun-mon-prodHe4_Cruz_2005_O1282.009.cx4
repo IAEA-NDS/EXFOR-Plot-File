@@ -1,0 +1,23 @@
+# EXFOR #         : O1282.009  
+# EXFOR Ver.      : 20060428
+# TRANS #         : O026
+# Author          : J.Cruz et al.
+# Reference       : Phys.Lett.B 624 (2005) 181
+# DOI             : 10.1016/j.physletb.2005.08.036
+# Quantity        : 6Li(p,he3)4He cross section
+# REACTION        : 3-LI-6(P,HE3)2-HE-4,,SIG
+# File ID         : p-Li6-h-sig-excfun-mon-prodHe4_Cruz_2005_o1282.009
+#
+# npts            : 2           
+# xmin            :   8.1600E+04
+# xmax            :   8.1600E+04
+# ymin            :   1.8000E-03
+# ymax            :   2.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.1600E+04  0.0000E+00  1.8000E-03  1.0000E-04
+  8.1600E+04  0.0000E+00  2.5000E-03  2.0000E-04
+#---------------------------------------------------

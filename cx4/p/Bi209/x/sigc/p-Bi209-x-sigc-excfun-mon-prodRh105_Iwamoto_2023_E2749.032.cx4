@@ -1,0 +1,24 @@
+# EXFOR #         : E2749.032  
+# EXFOR Ver.      : 20230613
+# TRANS #         : E138
+# Author          : H.Iwamoto et al.
+# Reference       : EPJ Web Conf. 284 (2023) 01033
+# DOI             : 10.1051/epjconf/202328401033
+# Quantity        : 209Bi(p,x)105Rh cumulative production cross section
+# REACTION        : 83-BI-209(P,X)45-RH-105,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodRh105_Iwamoto_2023_e2749.032
+#
+# npts            : 3           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   5.2800E-03
+# ymax            :   7.7500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  7.7500E-03  3.6000E-04
+  1.5000E+09  0.0000E+00  5.2800E-03  2.4000E-04
+  3.0000E+09  0.0000E+00  5.9200E-03  2.8000E-04
+#---------------------------------------------------

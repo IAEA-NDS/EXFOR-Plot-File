@@ -1,0 +1,22 @@
+# EXFOR #         : C0572.003  
+# EXFOR Ver.      : 20111122
+# TRANS #         : C113
+# Author          : L.Winsberg
+# Reference       : Phys.Rev. 135 (1964) B1105
+# DOI             : 10.1103/PhysRev.135.B1105
+# Quantity        : 181Ta(p,x)149gTb cumulative production cross section
+# REACTION        : 73-TA-181(P,X)65-TB-149-G,M+,SIG
+# File ID         : p-Ta181-x-sigc-excfun-mon-prodTb149g_Winsberg_1964_c0572.003
+#
+# npts            : 1           
+# xmin            :   4.5000E+08
+# xmax            :   4.5000E+08
+# ymin            :   4.1000E-03
+# ymax            :   4.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+08  0.0000E+00  4.1000E-03  0.0000E+00
+#---------------------------------------------------

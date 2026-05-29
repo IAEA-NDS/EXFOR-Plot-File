@@ -1,0 +1,23 @@
+# EXFOR #         : A0904.104  
+# EXFOR Ver.      : 20111209
+# TRANS #         : A075
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 551
+# DOI             : 10.1134/S1063778811040181
+# Quantity        : natW(p,x)99mRh cumulative production cross section
+# REACTION        : 74-W-0(P,X)45-RH-99-M,CUM,SIG
+# File ID         : p-W-x-sigc-excfun-mon-prodRh99m_Titarenko_2011_a0904.104
+#
+# npts            : 2           
+# xmin            :   1.5990E+09
+# xmax            :   2.6050E+09
+# ymin            :   7.9000E-04
+# ymax            :   2.4200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5990E+09  4.0000E+06  7.9000E-04  1.1000E-04
+  2.6050E+09  8.0000E+06  2.4200E-03  2.9000E-04
+#---------------------------------------------------

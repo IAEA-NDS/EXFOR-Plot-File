@@ -1,0 +1,23 @@
+# EXFOR #         : D5006.002  
+# EXFOR Ver.      : 20060609
+# TRANS #         : D047
+# Author          : I.M.Vishnevsky et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 69 (2005) 84
+# DOI             : N/A
+# Quantity        : 115In(p,g)116Sn cross section
+# REACTION        : 49-IN-115(P,G)50-SN-116,,SIG
+# File ID         : p-In115-g-sig-excfun-mon-prodSn116_Vishnevsky_2005_d5006.002
+#
+# npts            : 2           
+# xmin            :   3.5000E+06
+# xmax            :   4.0000E+06
+# ymin            :   5.0000E-07
+# ymax            :   9.0000E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5000E+06  0.0000E+00  5.0000E-07  1.0000E-07
+  4.0000E+06  0.0000E+00  9.0000E-07  1.0000E-07
+#---------------------------------------------------

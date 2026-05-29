@@ -1,0 +1,23 @@
+# EXFOR #         : O0900.003  
+# EXFOR Ver.      : 20160826
+# TRANS #         : O058
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Nucl.Instrum.Meth.A 414 (1998) 73
+# DOI             : 10.1016/S0168-9002(98)00530-0
+# Quantity        : 209Bi(p,4n)206Po cross section
+# REACTION        : 83-BI-209(P,4N)84-PO-206,,SIG
+# File ID         : p-Bi209-4n-sig-excfun-mon-prodPo206_Titarenko_1998_o0900.003
+#
+# npts            : 2           
+# xmin            :   1.3000E+08
+# xmax            :   1.5000E+09
+# ymin            :   4.0000E-03
+# ymax            :   5.3800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  0.0000E+00  5.3800E-02  1.4400E-02
+  1.5000E+09  0.0000E+00  4.0000E-03  6.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C2624.003  
+# EXFOR Ver.      : 20210913
+# TRANS #         : C209
+# Author          : C.A.Goulding et al.
+# Reference       : Nucl.Phys.A 331 (1979) 29
+# DOI             : 10.1016/0375-9474(79)90298-7
+# Quantity        : 7Li(p,n)7Be cross section
+# REACTION        : 3-LI-7(P,N)4-BE-7,,SIG
+# File ID         : p-Li7-n-sig-excfun-mon-prodBe7_Goulding_1979_c2624.003
+#
+# npts            : 1           
+# xmin            :   1.1980E+08
+# xmax            :   1.1980E+08
+# ymin            :   5.4000E-03
+# ymax            :   5.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1980E+08  0.0000E+00  5.4000E-03  1.7000E-04
+#---------------------------------------------------

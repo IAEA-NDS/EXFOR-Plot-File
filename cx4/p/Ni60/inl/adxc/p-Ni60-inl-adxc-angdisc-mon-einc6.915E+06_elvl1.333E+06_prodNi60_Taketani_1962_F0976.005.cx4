@@ -1,0 +1,29 @@
+# EXFOR #         : F0976.005  
+# EXFOR Ver.      : 20090204
+# TRANS #         : F035
+# Author          : H.Taketani et al.
+# Reference       : Nucl.Phys. 32 (1962) 430
+# DOI             : 10.1016/0029-5582(62)90349-8
+# Quantity        : 60Ni(p,inl)60Ni partial angular differential cross section
+# REACTION        : 28-NI-60(P,INL)28-NI-60,PAR,DA
+# File ID         : p-Ni60-inl-adxc-angdisc-mon-einc6.915E+06_elvl1.333E+06_prodNi60_Taketani_1962_f0976.005
+#
+# Einc (eV)       :   6.9148E+06
+# Elvl (eV)       :   1.3330E+06
+#
+# npts            : 5           
+# xmin            :   28.9150000
+# xmax            :   73.7700000
+# ymin            :   8.7359E-03
+# ymax            :   1.3996E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  28.9150000   0.0000000  1.3996E-02  1.1190E-03
+  36.8400000   0.0000000  1.3729E-02  6.8480E-04
+  44.0900000   0.0000000  1.2994E-02  7.5160E-04
+  59.2660000   0.0000000  1.1575E-02  6.3470E-04
+  73.7700000   0.0000000  8.7359E-03  5.8460E-04
+#---------------------------------------------------

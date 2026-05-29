@@ -1,0 +1,22 @@
+# EXFOR #         : O0280.003  
+# EXFOR Ver.      : 20131029
+# TRANS #         : O051
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 42 (1989) 76
+# DOI             : 10.1016/0168-583X(89)90013-X
+# Quantity        : natMg(p,a+x) cross section
+# REACTION        : 12-MG-0(P,X)2-HE-4,,SIG
+# File ID         : p-Mg-xa-sig-excfun-mon-Michel_1989_o0280.003
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   3.0400E-01
+# ymax            :   3.0400E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  3.0400E-01  2.3100E-02
+#---------------------------------------------------

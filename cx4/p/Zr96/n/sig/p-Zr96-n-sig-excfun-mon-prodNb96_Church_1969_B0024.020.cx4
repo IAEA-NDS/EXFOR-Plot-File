@@ -1,0 +1,22 @@
+# EXFOR #         : B0024.020  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : L.B.Church et al.
+# Reference       : Phys.Rev. 178 (1969) 1732
+# DOI             : 10.1103/PhysRev.178.1732
+# Quantity        : 96Zr(p,n)96Nb cross section
+# REACTION        : 40-ZR-96(P,N)41-NB-96,,SIG,,,EXP
+# File ID         : p-Zr96-n-sig-excfun-mon-prodNb96_Church_1969_b0024.020
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   7.6000E-04
+# ymax            :   7.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  7.6000E-04  1.2000E-04
+#---------------------------------------------------

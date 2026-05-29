@@ -1,0 +1,29 @@
+# EXFOR #         : F0920.023  
+# EXFOR Ver.      : 20080829
+# TRANS #         : F034
+# Author          : G.A.Krivonosov et al.
+# Reference       : Yad.Fiz. 24 (1976) 461
+# DOI             : N/A
+# Quantity        : 76Se(p,inl)76Se partial angular differential cross section
+# REACTION        : 34-SE-76(P,INL)34-SE-76,PAR,DA
+# File ID         : p-Se76-inl-adxl-excfun-mon-angl56_elvl5.590E+05_prodSe76_Krivonosov_1976_f0920.023
+#
+# theta,lab (deg) :   56.0000000
+# Elvl (eV)       :   5.5900E+05
+#
+# npts            : 5           
+# xmin            :   1.3861E+06
+# xmax            :   3.0088E+06
+# ymin            :   1.0903E-06
+# ymax            :   2.8253E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.3861E+06  0.0000E+00  1.0903E-06  4.3807E-07
+  1.7813E+06  0.0000E+00  2.7058E-05  7.1041E-06
+  2.1890E+06  0.0000E+00  1.1012E-04  3.0420E-05
+  2.5951E+06  0.0000E+00  2.0540E-04  4.1918E-05
+  3.0088E+06  0.0000E+00  2.8253E-04  6.1877E-05
+#---------------------------------------------------

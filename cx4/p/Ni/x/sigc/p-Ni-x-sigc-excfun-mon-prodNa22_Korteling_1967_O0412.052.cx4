@@ -1,0 +1,22 @@
+# EXFOR #         : O0412.052  
+# EXFOR Ver.      : 20020910
+# TRANS #         : 0000
+# Author          : R.G.Korteling et al.
+# Reference       : J.Inorg.Nucl.Chem. 29 (1967) 2863
+# DOI             : 10.1016/0022-1902(67)80117-9
+# Quantity        : natNi(p,x)22Na cumulative production cross section
+# REACTION        : 28-NI-0(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodNa22_Korteling_1967_o0412.052
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   9.5800E-05
+# ymax            :   9.5800E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  5.0000E+05  9.5800E-05  4.5000E-06
+#---------------------------------------------------

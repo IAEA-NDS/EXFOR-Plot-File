@@ -1,0 +1,28 @@
+# EXFOR #         : E2288.002  
+# EXFOR Ver.      : 20110518
+# TRANS #         : E065
+# Author          : A.Matic et al.
+# Reference       : Phys.Rev.C 82 No.2 (2010) 025807
+# DOI             : 10.1103/PhysRevC.82.025807
+# Quantity        : 28Si(p,t)26Si partial angular differential cross section
+# REACTION        : 14-SI-28(P,T)14-SI-26,PAR,DA
+# File ID         : p-Si28-t-adxc-angdisc-mon-einc9.870E+07_elvl4.138E+06_prodSi26_Matic_2010_e2288.002
+#
+# Einc (eV)       :   9.8700E+07
+# dEinc (eV)      :   1.0000E+05
+# Elvl (eV)       :   4.1380E+06
+#
+# npts            : 3           
+# xmin            :    0.1044000
+# xmax            :   18.5200000
+# ymin            :   2.6090E-06
+# ymax            :   8.4830E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.1044000   0.0000000  8.4830E-06  3.0140E-06
+   8.8530000   0.0000000  4.2820E-06  1.1210E-06
+  18.5200000   0.0000000  2.6090E-06  5.3900E-07
+#---------------------------------------------------

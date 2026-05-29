@@ -1,0 +1,27 @@
+# EXFOR #         : A0375.003  
+# EXFOR Ver.      : 20260127
+# TRANS #         : A130
+# Author          : F.Terrasi et al.
+# Reference       : Nucl.Phys.A 688 (2001) 539
+# DOI             : 10.1016/S0375-9474(01)00781-3
+# Quantity        : 7Be(p,el)7Be angular differential cross section
+# REACTION        : 4-BE-7(P,EL)4-BE-7,,DA,,RTH
+# File ID         : p-Be7-el-adxc-angdisc-mon-einc1.091E+06_prodBe7_Terrasi_2001_a0375.003
+#
+# Einc (eV)       :   1.0911E+06
+# dEinc (eV)      :   5.0007E+02
+#
+# npts            : 3           
+# xmin            :   60.0000000
+# xmax            :  120.0000000
+# ymin            :   5.7507E-02
+# ymax            :   2.9523E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  60.0000000   0.0000000  2.9523E-01  4.3737E-02
+  90.0000000   0.0000000  9.2031E-02  8.2008E-03
+ 120.0000000   0.0000000  5.7507E-02  4.4547E-03
+#---------------------------------------------------

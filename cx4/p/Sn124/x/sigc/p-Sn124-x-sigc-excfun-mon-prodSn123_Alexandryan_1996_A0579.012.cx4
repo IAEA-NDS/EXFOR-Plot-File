@@ -1,0 +1,22 @@
+# EXFOR #         : A0579.012  
+# EXFOR Ver.      : 20231229
+# TRANS #         : A106
+# Author          : V.E.Alexandryan et al.
+# Reference       : Proceedings of Conf.Nucl.Spectrosc.Nucl.Struct., Moscow, June 1996 page 218
+# DOI             : N/A
+# Quantity        : 124Sn(p,x)123Sn cumulative production cross section
+# REACTION        : 50-SN-124(P,X)50-SN-123,(CUM),SIG
+# File ID         : p-Sn124-x-sigc-excfun-mon-prodSn123_Alexandryan_1996_a0579.012
+#
+# npts            : 1           
+# xmin            :   6.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   8.2000E-02
+# ymax            :   8.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  8.2000E-02  6.0000E-03
+#---------------------------------------------------

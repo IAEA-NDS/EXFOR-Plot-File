@@ -1,0 +1,28 @@
+# EXFOR #         : O0028.002  
+# EXFOR Ver.      : 20190208
+# TRANS #         : O068
+# Author          : A.Fazely et al.
+# Reference       : Phys.Rev.C 25 (1982) 1760
+# DOI             : 10.1103/PhysRevC.25.1760
+# Quantity        : 16O(p,n)16F partial angular differential cross section
+# REACTION        : 8-O-16(P,N)9-F-16,PAR,DA
+# File ID         : p-O16-n-adxc-angdisc-mon-einc9.910E+07_elvl5.930E+06_prodF16_Fazely_1982_o0028.002
+#
+# Einc (eV)       :   9.9100E+07
+# Elvl (eV)       :   5.9300E+06
+#
+# npts            : 4           
+# xmin            :   26.1000000
+# xmax            :   38.5000000
+# ymin            :   2.4000E-05
+# ymax            :   4.6000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  26.1000000   0.0000000  2.6000E-05  8.0000E-06
+  26.7000000   0.0000000  2.8000E-05  8.0000E-06
+  32.5000000   0.0000000  4.6000E-05  1.2000E-05
+  38.5000000   0.0000000  2.4000E-05  5.0000E-06
+#---------------------------------------------------

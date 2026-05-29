@@ -1,0 +1,22 @@
+# EXFOR #         : O0284.056  
+# EXFOR Ver.      : 20191005
+# TRANS #         : O071
+# Author          : Th.Schiekel et al.
+# Reference       : Nucl.Instrum.Meth.B 114 (1996) 91
+# DOI             : 10.1016/0168-583X(96)00145-0
+# Quantity        : natFe(p,x)42K independent production cross section
+# REACTION        : 26-FE-0(P,X)19-K-42,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodK42_Schiekel_1996_o0284.056
+#
+# npts            : 1           
+# xmin            :   3.9900E+08
+# xmax            :   3.9900E+08
+# ymin            :   2.6400E-03
+# ymax            :   2.6400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9900E+08  5.6500E+05  2.6400E-03  3.1100E-04
+#---------------------------------------------------

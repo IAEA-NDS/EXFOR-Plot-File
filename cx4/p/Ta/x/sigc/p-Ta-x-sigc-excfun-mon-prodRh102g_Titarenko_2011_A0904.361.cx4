@@ -1,0 +1,22 @@
+# EXFOR #         : A0904.361  
+# EXFOR Ver.      : 20220323
+# TRANS #         : A099
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 551
+# DOI             : 10.1134/S1063778811040181
+# Quantity        : natTa(p,x)102gRh cumulative production cross section
+# REACTION        : 73-TA-0(P,X)45-RH-102-G,(M),SIG
+# File ID         : p-Ta-x-sigc-excfun-mon-prodRh102g_Titarenko_2011_a0904.361
+#
+# npts            : 1           
+# xmin            :   2.6050E+09
+# xmax            :   2.6050E+09
+# ymin            :   5.1200E-04
+# ymax            :   5.1200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6050E+09  8.0000E+06  5.1200E-04  7.9000E-05
+#---------------------------------------------------

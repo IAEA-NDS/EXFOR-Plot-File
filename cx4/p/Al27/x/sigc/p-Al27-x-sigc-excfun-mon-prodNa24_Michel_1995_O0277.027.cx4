@@ -1,0 +1,25 @@
+# EXFOR #         : O0277.027  
+# EXFOR Ver.      : 20190830
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : 27Al(p,x)24Na cumulative production cross section
+# REACTION        : 13-AL-27(P,X)11-NA-24,CUM,SIG
+# File ID         : p-Al27-x-sigc-excfun-mon-prodNa24_Michel_1995_o0277.027
+#
+# npts            : 4           
+# xmin            :   8.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   1.0600E-02
+# ymax            :   1.2300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  1.1200E-02  8.0000E-04
+  1.2000E+09  0.0000E+00  1.0800E-02  8.0000E-04
+  1.6000E+09  0.0000E+00  1.2300E-02  1.0000E-03
+  2.6000E+09  0.0000E+00  1.0600E-02  8.0000E-04
+#---------------------------------------------------

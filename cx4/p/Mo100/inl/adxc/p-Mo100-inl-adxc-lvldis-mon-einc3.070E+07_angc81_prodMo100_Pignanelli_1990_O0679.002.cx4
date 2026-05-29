@@ -1,0 +1,26 @@
+# EXFOR #         : O0679.002  
+# EXFOR Ver.      : 20000427
+# TRANS #         : 0000
+# Author          : M.Pignanelli et al.
+# Reference       : Nucl.Phys.A 519 (1990) 567
+# DOI             : 10.1016/0375-9474(90)90447-T
+# Quantity        : 100Mo(p,inl)100Mo partial angular differential cross section
+# REACTION        : 42-MO-100(P,INL)42-MO-100,PAR,DA
+# File ID         : p-Mo100-inl-adxc-lvldis-mon-einc3.070E+07_angc81_prodMo100_Pignanelli_1990_o0679.002
+#
+# Einc (eV)       :   3.0700E+07
+# theta,cm (deg)  :   81.3800000
+# dtheta,cm (deg) :    0.3000000
+#
+# npts            : 1           
+# xmin            :   2.2000E+06
+# xmax            :   2.2000E+06
+# ymin            :   5.9000E-06
+# ymax            :   5.9000E-06
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.2000E+06  0.0000E+00  5.9000E-06  1.1800E-06
+#---------------------------------------------------

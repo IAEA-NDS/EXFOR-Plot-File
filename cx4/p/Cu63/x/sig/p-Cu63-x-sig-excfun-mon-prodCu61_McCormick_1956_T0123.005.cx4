@@ -1,0 +1,23 @@
+# EXFOR #         : T0123.005  
+# EXFOR Ver.      : 20120318
+# TRANS #         : T022
+# Author          : G.H.McCormick et al.
+# Reference       : J.Inorg.Nucl.Chem. 2 (1956) 269
+# DOI             : 10.1016/0022-1902(56)80079-1
+# Quantity        : 63Cu(p,x)61Cu independent production cross section
+# REACTION        : 29-CU-63(P,X)29-CU-61,,SIG
+# File ID         : p-Cu63-x-sig-excfun-mon-prodCu61_McCormick_1956_t0123.005
+#
+# npts            : 2           
+# xmin            :   2.0000E+07
+# xmax            :   2.2400E+07
+# ymin            :   2.2000E-03
+# ymax            :   3.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+07  0.0000E+00  2.2000E-03  8.0000E-04
+  2.2400E+07  0.0000E+00  3.5000E-03  9.0000E-04
+#---------------------------------------------------

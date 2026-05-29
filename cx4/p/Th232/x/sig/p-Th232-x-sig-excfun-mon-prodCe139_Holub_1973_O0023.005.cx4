@@ -1,0 +1,24 @@
+# EXFOR #         : O0023.005  
+# EXFOR Ver.      : 20190208
+# TRANS #         : O068
+# Author          : R.Holub et al.
+# Reference       : J.Inorg.Nucl.Chem. 35 (1973) 3991
+# DOI             : 10.1016/0022-1902(73)80386-0
+# Quantity        : 232Th(p,f)139Ce independent production cross section
+# REACTION        : 90-TH-232(P,F)58-CE-139,,SIG
+# File ID         : p-Th232-x-sig-excfun-mon-prodCe139_Holub_1973_o0023.005
+#
+# npts            : 3           
+# xmin            :   6.8000E+07
+# xmax            :   8.3000E+07
+# ymin            :   2.0000E-06
+# ymax            :   1.6000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.8000E+07  2.0000E+06  2.0000E-06  7.0000E-07
+  7.5000E+07  2.0000E+06  8.0000E-06  2.0000E-06
+  8.3000E+07  2.0000E+06  1.6000E-05  5.0000E-06
+#---------------------------------------------------

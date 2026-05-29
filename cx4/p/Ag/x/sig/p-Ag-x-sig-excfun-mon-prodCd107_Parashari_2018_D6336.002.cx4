@@ -1,0 +1,26 @@
+# EXFOR #         : D6336.002  
+# EXFOR Ver.      : 20191017
+# TRANS #         : D124
+# Author          : S.Parashari et al.
+# Reference       : Nucl.Phys.A 979 (2018) 102
+# DOI             : 10.1016/j.nuclphysa.2018.09.042
+# Quantity        : natAg(p,x)107Cd independent production cross section
+# REACTION        : 47-AG-0(P,X)48-CD-107,,SIG
+# File ID         : p-Ag-x-sig-excfun-mon-prodCd107_Parashari_2018_d6336.002
+#
+# npts            : 5           
+# xmin            :   1.1130E+07
+# xmax            :   2.1820E+07
+# ymin            :   2.8450E-02
+# ymax            :   2.2252E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1130E+07  2.8000E+05  2.2252E-01  2.0440E-02
+  1.3900E+07  2.3000E+05  1.7559E-01  1.6850E-02
+  1.6770E+07  2.0000E+05  4.7760E-02  4.6300E-03
+  1.9480E+07  1.8000E+05  2.8450E-02  2.2500E-03
+  2.1820E+07  1.7000E+05  1.0418E-01  9.8900E-03
+#---------------------------------------------------

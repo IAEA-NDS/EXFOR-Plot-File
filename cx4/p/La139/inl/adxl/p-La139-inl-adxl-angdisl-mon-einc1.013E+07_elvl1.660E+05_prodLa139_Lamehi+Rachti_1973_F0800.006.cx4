@@ -1,0 +1,28 @@
+# EXFOR #         : F0800.006  
+# EXFOR Ver.      : 20070126
+# TRANS #         : F026
+# Author          : M.Lamehi-Rachti et al.
+# Reference       : Nucl.Phys.A 202 (1973) 609
+# DOI             : 10.1016/0375-9474(73)90647-7
+# Quantity        : 139La(p,inl)139La partial angular differential cross section
+# REACTION        : 57-LA-139(P,INL)57-LA-139,PAR,DA
+# File ID         : p-La139-inl-adxl-angdisl-mon-einc1.013E+07_elvl1.660E+05_prodLa139_Lamehi+Rachti_1973_f0800.006
+#
+# Einc (eV)       :   1.0130E+07
+# dEinc (eV)      :   2.0000E+04
+# Elvl (eV)       :   1.6600E+05
+#
+# npts            : 3           
+# xmin            :  124.9200000
+# xmax            :  159.5800000
+# ymin            :   6.5334E-05
+# ymax            :   8.4714E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 124.9200000   0.0000000  6.5334E-05  6.5334E-06
+ 140.8300000   0.0000000  7.5023E-05  7.5023E-06
+ 159.5800000   0.0000000  8.4714E-05  8.4714E-06
+#---------------------------------------------------

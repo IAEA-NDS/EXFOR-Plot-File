@@ -1,0 +1,25 @@
+# EXFOR #         : A0926.002  
+# EXFOR Ver.      : 20240201
+# TRANS #         : A108
+# Author          : V.N.Rydakov et al.
+# Reference       : Radiokhimiya 7 (1965) 90
+# DOI             : N/A
+# Quantity        : 115In(p,x)115mCd independent production cross section
+# REACTION        : 49-IN-115(P,X)48-CD-115-M,,SIG
+# File ID         : p-In115-x-sig-excfun-mon-prodCd115m_Rydakov_1965_a0926.002
+#
+# npts            : 4           
+# xmin            :   3.0000E+08
+# xmax            :   6.6000E+08
+# ymin            :   4.5000E-05
+# ymax            :   9.3000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+08  0.0000E+00  4.5000E-05  2.2000E-05
+  4.0000E+08  0.0000E+00  7.1000E-05  4.1000E-05
+  5.0000E+08  0.0000E+00  7.4000E-05  3.1000E-05
+  6.6000E+08  0.0000E+00  9.3000E-05  2.0000E-05
+#---------------------------------------------------

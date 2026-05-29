@@ -1,0 +1,22 @@
+# EXFOR #         : O2329.010  
+# EXFOR Ver.      : 20191223
+# TRANS #         : O073
+# Author          : S.M.Polikanov et al.
+# Reference       : Nucl.Phys.A 151 (1970) 656
+# DOI             : 10.1016/0375-9474(70)90403-3
+# Quantity        : 244Pu(p,2n)243lAm cross section
+# REACTION        : 94-PU-244(P,2N)95-AM-243-L,,SIG
+# File ID         : p-Pu244-2n-sig-excfun-mon-prodAm243l_Polikanov_1970_o2329.010
+#
+# npts            : 1           
+# xmin            :   1.3000E+07
+# xmax            :   1.3000E+07
+# ymin            :   2.0000E-05
+# ymax            :   2.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+07  0.0000E+00  2.0000E-05  1.0000E-05
+#---------------------------------------------------

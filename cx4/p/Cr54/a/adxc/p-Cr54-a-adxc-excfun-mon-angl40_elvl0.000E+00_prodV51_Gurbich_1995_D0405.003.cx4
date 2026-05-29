@@ -1,0 +1,29 @@
+# EXFOR #         : D0405.003  
+# EXFOR Ver.      : 20060624
+# TRANS #         : D047
+# Author          : A.F.Gurbich et al.
+# Reference       : Report FEI-2462 page , 1995
+# DOI             : N/A
+# Quantity        : 54Cr(p,a)51V partial angular differential cross section
+# REACTION        : 24-CR-54(P,A)23-V-51,PAR,DA
+# File ID         : p-Cr54-a-adxc-excfun-mon-angl40_elvl0.000E+00_prodV51_Gurbich_1995_d0405.003
+#
+# theta,lab (deg) :   40.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :   6.8800E+06
+# xmax            :   7.0400E+06
+# ymin            :   1.9500E-04
+# ymax            :   3.4900E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.8800E+06  0.0000E+00  3.2300E-04  3.2000E-05
+  6.9200E+06  0.0000E+00  3.1000E-04  3.1000E-05
+  6.9800E+06  0.0000E+00  1.9500E-04  1.9000E-05
+  7.0200E+06  0.0000E+00  3.4900E-04  5.2000E-05
+  7.0400E+06  0.0000E+00  3.3700E-04  3.3000E-05
+#---------------------------------------------------

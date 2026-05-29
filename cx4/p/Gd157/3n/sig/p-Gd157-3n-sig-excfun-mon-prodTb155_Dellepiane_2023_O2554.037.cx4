@@ -1,0 +1,22 @@
+# EXFOR #         : O2554.037  
+# EXFOR Ver.      : 20240327
+# TRANS #         : O100
+# Author          : G.Dellepiane et al.
+# Reference       : Appl.Radiat.Isot. 200 (2023) 110969
+# DOI             : 10.1016/j.apradiso.2023.110969
+# Quantity        : 157Gd(p,3n)155Tb cross section
+# REACTION        : 64-GD-157(P,3N)65-TB-155,,SIG
+# File ID         : p-Gd157-3n-sig-excfun-mon-prodTb155_Dellepiane_2023_o2554.037
+#
+# npts            : 1           
+# xmin            :   1.8200E+07
+# xmax            :   1.8200E+07
+# ymin            :   1.6150E-01
+# ymax            :   1.6150E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8200E+07  4.0000E+05  1.6150E-01  4.0000E-04
+#---------------------------------------------------

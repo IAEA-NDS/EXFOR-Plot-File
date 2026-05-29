@@ -1,0 +1,23 @@
+# EXFOR #         : O0204.002  
+# EXFOR Ver.      : 20190823
+# TRANS #         : O071
+# Author          : S.Regnier et al.
+# Reference       : Phys.Rev.C 26 (1982) 931
+# DOI             : 10.1103/PhysRevC.26.931
+# Quantity        : 89Y(p,x)74As independent production cross section
+# REACTION        : 39-Y-89(P,X)33-AS-74,,SIG
+# File ID         : p-Y89-x-sig-excfun-mon-prodAs74_Regnier_1982_o0204.002
+#
+# npts            : 2           
+# xmin            :   1.0000E+09
+# xmax            :   2.5000E+09
+# ymin            :   5.6000E-03
+# ymax            :   9.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  9.5000E-03  1.9000E-03
+  2.5000E+09  0.0000E+00  5.6000E-03  1.1000E-03
+#---------------------------------------------------

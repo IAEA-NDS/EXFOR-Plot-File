@@ -1,0 +1,23 @@
+# EXFOR #         : C2366.033  
+# EXFOR Ver.      : 20181212
+# TRANS #         : C183
+# Author          : L.Husain et al.
+# Reference       : Phys.Rev.C 7 (1973) 2452
+# DOI             : 10.1103/PhysRevC.7.2452
+# Quantity        : natV(p,x)47Ca cumulative production cross section
+# REACTION        : 23-V-0(P,X)20-CA-47,CUM,SIG
+# File ID         : p-V-x-sigc-excfun-mon-prodCa47_Husain_1973_c2366.033
+#
+# npts            : 2           
+# xmin            :   3.0000E+09
+# xmax            :   2.9000E+10
+# ymin            :   4.5000E-04
+# ymax            :   4.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+09  0.0000E+00  4.5000E-04  6.7500E-05
+  2.9000E+10  0.0000E+00  4.7000E-04  7.0500E-05
+#---------------------------------------------------

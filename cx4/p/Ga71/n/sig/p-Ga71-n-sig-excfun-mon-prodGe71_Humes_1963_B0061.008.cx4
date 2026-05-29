@@ -1,0 +1,22 @@
+# EXFOR #         : B0061.008  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : R.M.Humes et al.
+# Reference       : Phys.Rev. 130 (1963) 1522
+# DOI             : 10.1103/PhysRev.130.1522
+# Quantity        : 71Ga(p,n)71Ge cross section
+# REACTION        : 31-GA-71(P,N)32-GE-71,,SIG,,,EXP
+# File ID         : p-Ga71-n-sig-excfun-mon-prodGe71_Humes_1963_b0061.008
+#
+# npts            : 1           
+# xmin            :   6.7500E+06
+# xmax            :   6.7500E+06
+# ymin            :   6.4900E-01
+# ymax            :   6.4900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.7500E+06  0.0000E+00  6.4900E-01  6.9000E-02
+#---------------------------------------------------

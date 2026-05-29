@@ -1,0 +1,22 @@
+# EXFOR #         : O0277.100  
+# EXFOR Ver.      : 20110313
+# TRANS #         : O045
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natFe(p,x)22Ne independent production cross section
+# REACTION        : 26-FE-0(P,X)10-NE-22,IND,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodNe22_Michel_1995_o0277.100
+#
+# npts            : 1           
+# xmin            :   2.6000E+09
+# xmax            :   2.6000E+09
+# ymin            :   9.3600E-03
+# ymax            :   9.3600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6000E+09  0.0000E+00  9.3600E-03  6.6000E-04
+#---------------------------------------------------

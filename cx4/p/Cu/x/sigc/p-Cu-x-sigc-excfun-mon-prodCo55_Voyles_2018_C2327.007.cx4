@@ -1,0 +1,26 @@
+# EXFOR #         : C2327.007  
+# EXFOR Ver.      : 20180716
+# TRANS #         : C180
+# Author          : A.S.Voyles et al.
+# Reference       : Nucl.Instrum.Meth.B 429 (2018) 53
+# DOI             : 10.1016/j.nimb.2018.05.028
+# Quantity        : natCu(p,x)55Co cumulative production cross section
+# REACTION        : 29-CU-0(P,X)27-CO-55,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodCo55_Voyles_2018_c2327.007
+#
+# npts            : 5           
+# xmin            :   5.2100E+07
+# xmax            :   8.9740E+07
+# ymin            :   2.3500E-06
+# ymax            :   1.7100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2100E+07  0.0000E+00  2.3500E-06  2.2000E-07
+  6.1580E+07  0.0000E+00  2.9900E-05  2.8000E-06
+  7.0170E+07  0.0000E+00  1.9300E-04  1.2000E-05
+  7.9950E+07  0.0000E+00  1.0150E-03  5.8000E-05
+  8.9740E+07  0.0000E+00  1.7100E-03  1.1000E-04
+#---------------------------------------------------

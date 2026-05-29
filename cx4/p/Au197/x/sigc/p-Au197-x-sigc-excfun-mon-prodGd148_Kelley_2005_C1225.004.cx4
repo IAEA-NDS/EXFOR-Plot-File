@@ -1,0 +1,24 @@
+# EXFOR #         : C1225.004  
+# EXFOR Ver.      : 20111127
+# TRANS #         : C119
+# Author          : K.C.Kelley et al.
+# Reference       : Nucl.Phys.A 760 (2005) 225
+# DOI             : 10.1016/j.nuclphysa.2005.06.002
+# Quantity        : 197Au(p,x)148Gd cumulative production cross section
+# REACTION        : 79-AU-197(P,X)64-GD-148,CUM,SIG
+# File ID         : p-Au197-x-sigc-excfun-mon-prodGd148_Kelley_2005_c1225.004
+#
+# npts            : 3           
+# xmin            :   6.0000E+08
+# xmax            :   8.0000E+08
+# ymin            :   5.9100E-04
+# ymax            :   3.8600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  5.9100E-04  1.5500E-04
+  8.0000E+08  0.0000E+00  3.8600E-03  9.8000E-04
+  8.0000E+08  0.0000E+00  3.5200E-03  2.2000E-04
+#---------------------------------------------------

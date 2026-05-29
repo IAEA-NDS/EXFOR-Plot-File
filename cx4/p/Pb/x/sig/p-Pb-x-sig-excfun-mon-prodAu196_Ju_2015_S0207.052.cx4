@@ -1,0 +1,22 @@
+# EXFOR #         : S0207.052  
+# EXFOR Ver.      : 20181214
+# TRANS #         : S025
+# Author          : Y.Q.Ju et al.
+# Reference       : J.Phys.G 42 (2015) 125102
+# DOI             : 10.1088/0954-3899/42/12/125102
+# Quantity        : natPb(p,x)196Au independent production cross section
+# REACTION        : 82-PB-0(P,X)79-AU-196,,SIG
+# File ID         : p-Pb-x-sig-excfun-mon-prodAu196_Ju_2015_s0207.052
+#
+# npts            : 1           
+# xmin            :   2.5000E+08
+# xmax            :   2.5000E+08
+# ymin            :   1.2000E-03
+# ymax            :   1.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+08  0.0000E+00  1.2000E-03  3.0000E-05
+#---------------------------------------------------

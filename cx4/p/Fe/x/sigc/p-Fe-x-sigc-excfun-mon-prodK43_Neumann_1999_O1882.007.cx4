@@ -1,0 +1,25 @@
+# EXFOR #         : O1882.007  
+# EXFOR Ver.      : 20101220
+# TRANS #         : O044
+# Author          : S.Neumann
+# Reference       : Thesis  (1999)
+# DOI             : N/A
+# Quantity        : natFe(p,x)43K cumulative production cross section
+# REACTION        : 26-FE-0(P,X)19-K-43,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodK43_Neumann_1999_o1882.007
+#
+# npts            : 4           
+# xmin            :   2.7800E+08
+# xmax            :   2.6000E+09
+# ymin            :   4.3600E-04
+# ymax            :   1.6500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7800E+08  1.0000E+06  4.3600E-04  6.7000E-05
+  9.5900E+08  2.0000E+06  1.6500E-03  2.1000E-04
+  1.3610E+09  2.0000E+06  1.5800E-03  2.1000E-04
+  2.6000E+09  1.0000E+06  1.2300E-03  1.6000E-04
+#---------------------------------------------------

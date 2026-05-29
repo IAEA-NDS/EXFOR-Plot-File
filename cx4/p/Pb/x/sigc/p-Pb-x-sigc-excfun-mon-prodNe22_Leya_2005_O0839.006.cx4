@@ -1,0 +1,26 @@
+# EXFOR #         : O0839.006  
+# EXFOR Ver.      : 20050523
+# TRANS #         : O023
+# Author          : I.Leya et al.
+# Reference       : Nucl.Instrum.Meth.B 229 (2005) 1
+# DOI             : N/A
+# Quantity        : natPb(p,x)22Ne cumulative production cross section
+# REACTION        : 82-PB-0(P,X)10-NE-22,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodNe22_Leya_2005_o0839.006
+#
+# npts            : 5           
+# xmin            :   7.5900E+08
+# xmax            :   2.5950E+09
+# ymin            :   2.1300E-04
+# ymax            :   6.1490E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.5900E+08  2.0000E+06  2.1300E-04  5.5500E-04
+  9.9300E+08  1.0000E+06  4.1400E-04  3.8000E-04
+  1.3950E+09  1.0000E+06  1.6370E-03  6.0600E-04
+  1.5670E+09  1.0000E+06  2.0040E-03  9.1500E-04
+  2.5950E+09  1.0000E+06  6.1490E-03  2.6060E-03
+#---------------------------------------------------

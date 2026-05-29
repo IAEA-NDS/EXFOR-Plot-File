@@ -1,0 +1,22 @@
+# EXFOR #         : O2382.002  
+# EXFOR Ver.      : 20191215
+# TRANS #         : O073
+# Author          : M.Jung et al.
+# Reference       : Phys.Rev.C 7 (1973) 2209
+# DOI             : 10.1103/PhysRevC.7.2209
+# Quantity        : 4He(p,d)3He cross section
+# REACTION        : 2-HE-4(P,D)2-HE-3,,SIG
+# File ID         : p-He4-d-sig-excfun-mon-prodHe3_Jung_1973_o2382.002
+#
+# npts            : 1           
+# xmin            :   1.4500E+08
+# xmax            :   1.4500E+08
+# ymin            :   3.4900E-02
+# ymax            :   3.4900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4500E+08  1.0000E+07  3.4900E-02  3.8000E-03
+#---------------------------------------------------

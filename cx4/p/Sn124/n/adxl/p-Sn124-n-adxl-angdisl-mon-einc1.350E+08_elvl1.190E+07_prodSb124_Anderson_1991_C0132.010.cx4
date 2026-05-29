@@ -1,0 +1,27 @@
+# EXFOR #         : C0132.010  
+# EXFOR Ver.      : 20241031
+# TRANS #         : C243
+# Author          : B.D.Anderson et al.
+# Reference       : Phys.Rev.C 43 (1991) 1630
+# DOI             : 10.1103/PhysRevC.43.1630
+# Quantity        : 124Sn(p,n)124Sb partial angular differential cross section
+# REACTION        : 50-SN-124(P,N)51-SB-124,PAR,DA
+# File ID         : p-Sn124-n-adxl-angdisl-mon-einc1.350E+08_elvl1.190E+07_prodSb124_Anderson_1991_c0132.010
+#
+# Einc (eV)       :   1.3500E+08
+# Elvl (eV)       :   1.1900E+07
+# dElvl (eV)      :   1.0000E+05
+#
+# npts            : 2           
+# xmin            :    0.3000000
+# xmax            :    5.7000000
+# ymin            :   2.8200E-03
+# ymax            :   8.6400E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.3000000   0.0000000  8.6400E-03  5.7000E-05
+   5.7000000   0.0000000  2.8200E-03  3.0000E-05
+#---------------------------------------------------

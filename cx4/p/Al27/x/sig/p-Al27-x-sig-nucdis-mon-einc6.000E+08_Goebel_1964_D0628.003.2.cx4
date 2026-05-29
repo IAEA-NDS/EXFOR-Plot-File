@@ -1,0 +1,28 @@
+# EXFOR #         : D0628.003.2
+# EXFOR Ver.      : 20100818
+# TRANS #         : D074
+# Author          : K.Goebel et al.
+# Reference       : Report CERN-64-12, 1964
+# DOI             : N/A
+# Quantity        : 27Al(p,x) independent production cross section
+# REACTION        : 13-AL-27(P,X)ELEM/MASS,,SIG
+# File ID         : p-Al27-x-sig-nucdis-mon-einc6.000E+08_Goebel_1964_d0628.003.2
+#
+# Einc (eV)       :   6.0000E+08
+#
+# npts            : 5           
+# xmin            : 2003.9      
+# xmax            : 10022.9     
+# ymin            :   1.1200E-02
+# ymax            :   2.6800E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      2003.9  2.7000E-02  0.0000E+00
+      2004.9  2.6800E-01  0.0000E+00
+     10020.9  2.0600E-02  0.0000E+00
+     10021.9  2.0200E-02  0.0000E+00
+     10022.9  1.1200E-02  0.0000E+00
+#---------------------------------------------------

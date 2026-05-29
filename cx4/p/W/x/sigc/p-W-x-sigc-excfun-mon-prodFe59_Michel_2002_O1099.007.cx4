@@ -1,0 +1,26 @@
+# EXFOR #         : O1099.007  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : natW(p,x)59Fe cumulative production cross section
+# REACTION        : 74-W-0(P,X)26-FE-59,CUM,SIG
+# File ID         : p-W-x-sigc-excfun-mon-prodFe59_Michel_2002_o1099.007
+#
+# npts            : 5           
+# xmin            :   1.1600E+09
+# xmax            :   2.5900E+09
+# ymin            :   3.6420E-04
+# ymax            :   8.3290E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1600E+09  1.3660E+06  3.6420E-04  6.0950E-05
+  1.3800E+09  1.0160E+06  5.0800E-04  5.3750E-05
+  1.5700E+09  1.2900E+06  5.1890E-04  6.8770E-05
+  2.5800E+09  1.0020E+06  8.3290E-04  1.5890E-04
+  2.5900E+09  1.0100E+06  6.9380E-04  8.0580E-05
+#---------------------------------------------------

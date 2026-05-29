@@ -1,0 +1,29 @@
+# EXFOR #         : C2110.004  
+# EXFOR Ver.      : 20140605
+# TRANS #         : C144
+# Author          : S.Katcoff et al.
+# Reference       : Phys.Rev.Lett. 30 (1973) 1221
+# DOI             : 10.1103/PhysRevLett.30.1221
+# Quantity        : 59Co(p,x) independent production cross section
+# REACTION        : 27-CO-59(P,X)ELEM/MASS,,SIG
+# File ID         : p-Co59-x-sig-nucdis-mon-einc1.150E+10_Katcoff_1973_c2110.004
+#
+# Einc (eV)       :   1.1500E+10
+#
+# npts            : 6           
+# xmin            : 4007.9      
+# xmax            : 27058.9     
+# ymin            :   6.0000E-04
+# ymax            :   4.3000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     27058.9  4.3000E-02  3.0000E-03
+     25054.9  1.9000E-02  2.0000E-03
+     21048.9  6.0000E-04  7.0000E-05
+     21046.9  6.7000E-03  5.0000E-04
+     21044.1  4.8000E-03  3.0000E-04
+      4007.9  1.0200E-02  1.1000E-03
+#---------------------------------------------------

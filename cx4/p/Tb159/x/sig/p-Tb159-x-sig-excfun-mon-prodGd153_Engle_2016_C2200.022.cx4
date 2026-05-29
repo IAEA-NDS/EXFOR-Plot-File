@@ -1,0 +1,25 @@
+# EXFOR #         : C2200.022  
+# EXFOR Ver.      : 20160104
+# TRANS #         : C157
+# Author          : J.W.Engle et al.
+# Reference       : Nucl.Instrum.Meth.B 366 (2016) 206
+# DOI             : 10.1016/j.nimb.2015.10.049
+# Quantity        : 159Tb(p,x)153Gd independent production cross section
+# REACTION        : 65-TB-159(P,X)64-GD-153,IND,SIG
+# File ID         : p-Tb159-x-sig-excfun-mon-prodGd153_Engle_2016_c2200.022
+#
+# npts            : 4           
+# xmin            :   1.2130E+08
+# xmax            :   1.7950E+08
+# ymin            :   1.4600E-02
+# ymax            :   2.5600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2130E+08  2.3000E+06  1.4600E-02  1.2000E-03
+  1.4250E+08  2.0000E+06  2.2800E-02  1.7000E-03
+  1.6170E+08  1.5000E+06  2.5600E-02  1.9000E-03
+  1.7950E+08  1.1000E+06  2.4500E-02  1.8000E-03
+#---------------------------------------------------

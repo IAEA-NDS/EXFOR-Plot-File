@@ -1,0 +1,23 @@
+# EXFOR #         : A0137.003  
+# EXFOR Ver.      : 20250702
+# TRANS #         : A121
+# Author          : B.R.Erdal et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 492
+# DOI             : N/A
+# Quantity        : 139La(p,x)127Xe cumulative production cross section
+# REACTION        : 57-LA-139(P,X)54-XE-127,CUM,SIG
+# File ID         : p-La139-x-sigc-excfun-mon-prodXe127_Erdal_1975_a0137.003
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   8.0000E+08
+# ymin            :   5.1000E-02
+# ymax            :   5.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  5.3000E-02  1.1000E-02
+  8.0000E+08  0.0000E+00  5.1000E-02  7.0000E-03
+#---------------------------------------------------

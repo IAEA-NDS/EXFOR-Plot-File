@@ -1,0 +1,24 @@
+# EXFOR #         : C2972.002  
+# EXFOR Ver.      : 20241212
+# TRANS #         : C247
+# Author          : K-U.Kettner et al.
+# Reference       : Phys.Rev.C 108 (2023) 035805
+# DOI             : 10.1103/PhysRevC.108.035805
+# Quantity        : 12C(p,g)13N angular differential cross section
+# REACTION        : 6-C-12(P,G)7-N-13,,DA
+# File ID         : p-C12-g-adxl-angdisl-mon-einc1.721E+06_prodN13_Kettner_2023_c2972.002
+#
+# Einc (eV)       :   1.7210E+06
+#
+# npts            : 1           
+# xmin            :   55.0000000
+# xmax            :   55.0000000
+# ymin            :   1.1000E-06
+# ymax            :   1.1000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  55.0000000   0.0000000  1.1000E-06  2.0900E-08
+#---------------------------------------------------

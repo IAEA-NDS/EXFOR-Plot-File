@@ -1,0 +1,23 @@
+# EXFOR #         : O0284.074  
+# EXFOR Ver.      : 20191005
+# TRANS #         : O071
+# Author          : Th.Schiekel et al.
+# Reference       : Nucl.Instrum.Meth.B 114 (1996) 91
+# DOI             : 10.1016/0168-583X(96)00145-0
+# Quantity        : 59Co(p,x)48Cr cumulative production cross section
+# REACTION        : 27-CO-59(P,X)24-CR-48,CUM,SIG
+# File ID         : p-Co59-x-sigc-excfun-mon-prodCr48_Schiekel_1996_o0284.074
+#
+# npts            : 2           
+# xmin            :   2.7700E+08
+# xmax            :   3.8000E+08
+# ymin            :   3.2100E-04
+# ymax            :   3.8100E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7700E+08  1.2000E+06  3.8100E-04  7.5100E-05
+  3.8000E+08  1.1700E+06  3.2100E-04  7.9800E-05
+#---------------------------------------------------

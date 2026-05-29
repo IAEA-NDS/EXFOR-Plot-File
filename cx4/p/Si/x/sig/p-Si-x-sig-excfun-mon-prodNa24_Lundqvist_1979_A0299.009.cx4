@@ -1,0 +1,26 @@
+# EXFOR #         : A0299.009  
+# EXFOR Ver.      : 20240109
+# TRANS #         : A107
+# Author          : H.Lundqvist et al.
+# Reference       : Appl.Radiat.Isot. 30 (1979) 33
+# DOI             : 10.1016/0020-708X(79)90094-2
+# Quantity        : natSi(p,x)24Na independent production cross section
+# REACTION        : 14-SI-0(P,X)11-NA-24,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodNa24_Lundqvist_1979_a0299.009
+#
+# npts            : 5           
+# xmin            :   4.8000E+07
+# xmax            :   1.5080E+08
+# ymin            :   5.2000E-04
+# ymax            :   3.2900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.8000E+07  0.0000E+00  5.2000E-04  7.8000E-05
+  7.5000E+07  0.0000E+00  1.8200E-03  0.0000E+00
+  1.0000E+08  0.0000E+00  2.9000E-03  4.4000E-04
+  1.2570E+08  0.0000E+00  3.1200E-03  0.0000E+00
+  1.5080E+08  0.0000E+00  3.2900E-03  0.0000E+00
+#---------------------------------------------------

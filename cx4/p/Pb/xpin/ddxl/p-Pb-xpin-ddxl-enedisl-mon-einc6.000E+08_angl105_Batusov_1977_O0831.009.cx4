@@ -1,0 +1,29 @@
+# EXFOR #         : O0831.009  
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : Yu.A.Batusov et al.
+# Reference       : Yad.Fiz. 26 (1977) 966
+# DOI             : N/A
+# Quantity        : natPb(p,pi-+x) double differential cross section
+# REACTION        : 82-PB-0(P,X)1-PN-0,,DA/DE
+# File ID         : p-Pb-xpin-ddxl-enedisl-mon-einc6.000E+08_angl105_Batusov_1977_o0831.009
+#
+# Einc (eV)       :   6.0000E+08
+# theta,lab (deg) :  105.0000000
+#
+# npts            : 5           
+# xmin            :   1.4580E+07
+# xmax            :   4.6460E+07
+# ymin            :   2.3000E-08
+# ymax            :   4.0000E-08
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.4580E+07  0.0000E+00  4.0000E-08  5.0000E-09
+  2.0080E+07  0.0000E+00  3.6000E-08  5.0000E-09
+  2.6420E+07  0.0000E+00  3.2000E-08  4.0000E-09
+  3.5280E+07  0.0000E+00  3.0000E-08  3.0000E-09
+  4.6460E+07  0.0000E+00  2.3000E-08  3.0000E-09
+#---------------------------------------------------

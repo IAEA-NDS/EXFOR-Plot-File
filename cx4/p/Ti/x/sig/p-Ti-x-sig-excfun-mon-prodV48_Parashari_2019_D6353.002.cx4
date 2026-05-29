@@ -1,0 +1,26 @@
+# EXFOR #         : D6353.002  
+# EXFOR Ver.      : 20191114
+# TRANS #         : D124
+# Author          : S.Parashari et al.
+# Reference       : Nucl.Phys.A 987 (2019) 128
+# DOI             : 10.1016/j.nuclphysa.2019.04.009
+# Quantity        : natTi(p,x)48V independent production cross section
+# REACTION        : 22-TI-0(P,X)23-V-48,,SIG
+# File ID         : p-Ti-x-sig-excfun-mon-prodV48_Parashari_2019_d6353.002
+#
+# npts            : 5           
+# xmin            :   1.2940E+07
+# xmax            :   2.1950E+07
+# ymin            :   6.7760E-02
+# ymax            :   4.5792E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1950E+07  5.0000E+04  6.7760E-02  5.8300E-03
+  1.9840E+07  5.0000E+04  9.3460E-02  8.9100E-03
+  1.7560E+07  6.0000E+04  1.5834E-01  1.4230E-02
+  1.5050E+07  7.0000E+04  3.2854E-01  2.8310E-02
+  1.2940E+07  7.0000E+04  4.5792E-01  4.2440E-02
+#---------------------------------------------------

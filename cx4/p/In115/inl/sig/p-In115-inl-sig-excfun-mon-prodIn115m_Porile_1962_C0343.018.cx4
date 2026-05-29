@@ -1,0 +1,23 @@
+# EXFOR #         : C0343.018  
+# EXFOR Ver.      : 20111118
+# TRANS #         : C113
+# Author          : N.T.Porile
+# Reference       : Phys.Rev. 128 (1962) 1916
+# DOI             : 10.1103/PhysRev.128.1916
+# Quantity        : 115In(p,inl)115mIn cross section
+# REACTION        : 49-IN-115(P,INL)49-IN-115-M,,SIG
+# File ID         : p-In115-inl-sig-excfun-mon-prodIn115m_Porile_1962_c0343.018
+#
+# npts            : 2           
+# xmin            :   2.9000E+09
+# xmax            :   3.0000E+10
+# ymin            :   2.2000E-03
+# ymax            :   2.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+10  0.0000E+00  2.2000E-03  0.0000E+00
+  2.9000E+09  0.0000E+00  2.5000E-03  0.0000E+00
+#---------------------------------------------------

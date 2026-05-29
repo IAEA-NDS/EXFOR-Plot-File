@@ -1,0 +1,28 @@
+# EXFOR #         : O0491.004  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : R.R.Johnson et al.
+# Reference       : Nucl.Phys.A 122 (1968) 657
+# DOI             : 10.1016/0375-9474(68)90584-8
+# Quantity        : 64Zn(p,d)63Zn partial angular differential cross section
+# REACTION        : 30-ZN-64(P,D)30-ZN-63,PAR,DA
+# File ID         : p-Zn64-d-adxl-lvldis-mon-einc2.650E+07_angc30_prodZn63_Johnson_1968_o0491.004
+#
+# Einc (eV)       :   2.6500E+07
+# theta,cm (deg)  :   30.5000000
+# dtheta,cm (deg) :    0.4000000
+#
+# npts            : 3           
+# xmin            :   2.0000E+05
+# xmax            :   5.3200E+06
+# ymin            :   6.6700E-05
+# ymax            :   1.0100E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.0000E+05  0.0000E+00  1.0100E-03  4.0400E-05
+  2.8500E+06  0.0000E+00  6.6700E-05  2.6680E-06
+  5.3200E+06  0.0000E+00  8.5000E-05  3.4000E-06
+#---------------------------------------------------

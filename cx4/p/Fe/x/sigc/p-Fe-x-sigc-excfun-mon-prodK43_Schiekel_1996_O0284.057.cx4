@@ -1,0 +1,23 @@
+# EXFOR #         : O0284.057  
+# EXFOR Ver.      : 20191005
+# TRANS #         : O071
+# Author          : Th.Schiekel et al.
+# Reference       : Nucl.Instrum.Meth.B 114 (1996) 91
+# DOI             : 10.1016/0168-583X(96)00145-0
+# Quantity        : natFe(p,x)43K cumulative production cross section
+# REACTION        : 26-FE-0(P,X)19-K-43,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodK43_Schiekel_1996_o0284.057
+#
+# npts            : 2           
+# xmin            :   2.9900E+08
+# xmax            :   3.9900E+08
+# ymin            :   5.0400E-04
+# ymax            :   7.5700E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9900E+08  5.7400E+05  5.0400E-04  4.9800E-05
+  3.9900E+08  5.6500E+05  7.5700E-04  6.7500E-05
+#---------------------------------------------------

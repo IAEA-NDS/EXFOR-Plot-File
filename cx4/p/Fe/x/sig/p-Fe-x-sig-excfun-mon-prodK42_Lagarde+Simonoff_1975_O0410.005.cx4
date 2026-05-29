@@ -1,0 +1,24 @@
+# EXFOR #         : O0410.005  
+# EXFOR Ver.      : 20050914
+# TRANS #         : O024
+# Author          : M.Lagarde-Simonoff et al.
+# Reference       : J.Inorg.Nucl.Chem. 37 (1975) 627
+# DOI             : 10.1016/0022-1902(75)80510-0
+# Quantity        : natFe(p,x)42K independent production cross section
+# REACTION        : 26-FE-0(P,X)19-K-42,IND,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodK42_Lagarde+Simonoff_1975_o0410.005
+#
+# npts            : 3           
+# xmin            :   1.5000E+08
+# xmax            :   6.0000E+08
+# ymin            :   3.9000E-04
+# ymax            :   2.9700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  3.9000E-04  6.0000E-05
+  3.0000E+08  0.0000E+00  1.2300E-03  5.0000E-05
+  6.0000E+08  0.0000E+00  2.9700E-03  1.5000E-04
+#---------------------------------------------------

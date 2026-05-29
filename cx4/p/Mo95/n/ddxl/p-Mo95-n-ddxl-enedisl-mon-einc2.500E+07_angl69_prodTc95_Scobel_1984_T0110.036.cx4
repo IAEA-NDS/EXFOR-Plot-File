@@ -1,0 +1,26 @@
+# EXFOR #         : T0110.036  
+# EXFOR Ver.      : 20071109
+# TRANS #         : Y004
+# Author          : W.Scobel et al.
+# Reference       : Phys.Rev.C 30 (1984) 1480
+# DOI             : 10.1103/PhysRevC.30.1480
+# Quantity        : 95Mo(p,n)95Tc double differential cross section
+# REACTION        : 42-MO-95(P,N)43-TC-95,,DA/DE
+# File ID         : p-Mo95-n-ddxl-enedisl-mon-einc2.500E+07_angl69_prodTc95_Scobel_1984_t0110.036
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   8.0000E+04
+# theta,lab (deg) :   68.7000000
+#
+# npts            : 1           
+# xmin            :   4.4800E+06
+# xmax            :   4.4800E+06
+# ymin            :   6.0600E-07
+# ymax            :   6.0600E-07
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  4.4800E+06  0.0000E+00  6.0600E-07  4.7300E-07
+#---------------------------------------------------

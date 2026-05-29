@@ -1,0 +1,27 @@
+# EXFOR #         : O0458.005  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : P.Beuzit et al.
+# Reference       : Nucl.Phys.A 128 (1969) 594
+# DOI             : 10.1016/0375-9474(69)90425-4
+# Quantity        : 64Ni(p,inl)64Ni partial angular differential cross section
+# REACTION        : 28-NI-64(P,INL)28-NI-64,PAR,DA
+# File ID         : p-Ni64-inl-adxc-lvldis-mon-einc1.200E+07_angc106_prodNi64_Beuzit_1969_o0458.005
+#
+# Einc (eV)       :   1.2000E+07
+# dEinc (eV)      :   2.0000E+04
+# theta,cm (deg)  :  106.5000000
+# dtheta,cm (deg) :    0.8000000
+#
+# npts            : 1           
+# xmin            :   1.3400E+06
+# xmax            :   1.3400E+06
+# ymin            :   1.9000E-03
+# ymax            :   1.9000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.3400E+06  0.0000E+00  1.9000E-03  9.5000E-05
+#---------------------------------------------------

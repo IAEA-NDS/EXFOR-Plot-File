@@ -1,0 +1,22 @@
+# EXFOR #         : D0029.178  
+# EXFOR Ver.      : 20060725
+# TRANS #         : D048
+# Author          : A.Gruetter
+# Reference       : Appl.Radiat.Isot. 33 (1982) 725
+# DOI             : 10.1016/0020-708X(82)90092-8
+# Quantity        : natBr(p,x)51Cr cumulative production cross section
+# REACTION        : 35-BR-0(P,X)24-CR-51,CUM,SIG
+# File ID         : p-Br-x-sigc-excfun-mon-prodCr51_Gruetter_1982_d0029.178
+#
+# npts            : 1           
+# xmin            :   5.9300E+08
+# xmax            :   5.9300E+08
+# ymin            :   2.5800E-03
+# ymax            :   2.5800E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9300E+08  0.0000E+00  2.5800E-03  0.0000E+00
+#---------------------------------------------------

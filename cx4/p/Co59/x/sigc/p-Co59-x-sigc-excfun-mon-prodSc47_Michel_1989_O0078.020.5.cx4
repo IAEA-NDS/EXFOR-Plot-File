@@ -1,0 +1,22 @@
+# EXFOR #         : O0078.020.5
+# EXFOR Ver.      : 20220201
+# TRANS #         : O088
+# Author          : R.Michel et al.
+# Reference       : Analyst (London) 114 (1989) 287
+# DOI             : N/A
+# Quantity        : 59Co(p,x)47Sc cumulative production cross section
+# REACTION        : 27-CO-59(P,X)21-SC-47,CUM,SIG
+# File ID         : p-Co59-x-sigc-excfun-mon-prodSc47_Michel_1989_o0078.020.5
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   3.3400E-03
+# ymax            :   3.3400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  3.3400E-03  1.3000E-04
+#---------------------------------------------------

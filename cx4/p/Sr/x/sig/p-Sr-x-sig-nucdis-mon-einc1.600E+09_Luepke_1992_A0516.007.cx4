@@ -1,0 +1,28 @@
+# EXFOR #         : A0516.007  
+# EXFOR Ver.      : 20150318
+# TRANS #         : A083
+# Author          : M.Luepke et al.
+# Reference       : Progress report INDC(GER)-036 page 51, 1992
+# DOI             : N/A
+# Quantity        : natSr(p,x) independent production cross section
+# REACTION        : 38-SR-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Sr-x-sig-nucdis-mon-einc1.600E+09_Luepke_1992_a0516.007
+#
+# Einc (eV)       :   1.6000E+09
+#
+# npts            : 5           
+# xmin            : 28056.9     
+# xmax            : 39088.9     
+# ymin            :   1.5600E-03
+# ymax            :   2.8700E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     28056.9  1.5600E-03  2.3000E-04
+     29067.9  6.5300E-03  7.2000E-04
+     33072.9  1.9400E-02  2.1000E-03
+     33076.9  2.8700E-02  3.5000E-03
+     39088.9  4.8300E-03  5.1000E-04
+#---------------------------------------------------

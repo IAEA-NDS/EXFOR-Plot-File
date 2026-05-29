@@ -1,0 +1,22 @@
+# EXFOR #         : O0088.008  
+# EXFOR Ver.      : 20151123
+# TRANS #         : O056
+# Author          : H.Weigel et al.
+# Reference       : Radioch.Radioan.Let. 21 (1975) 293
+# DOI             : N/A
+# Quantity        : natFe(p,x)51Cr cumulative production cross section
+# REACTION        : 26-FE-0(P,X)24-CR-51,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodCr51_Weigel_1975_o0088.008
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   2.5700E-02
+# ymax            :   2.5700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  2.5700E-02  5.7000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : O0044.015  
+# EXFOR Ver.      : 20140121
+# TRANS #         : O052
+# Author          : M.Lefort et al.
+# Reference       : Nucl.Phys. 25 (1961) 216
+# DOI             : 10.1016/0029-5582(61)90154-7
+# Quantity        : 232Th(p,x)227Ac independent production cross section
+# REACTION        : 90-TH-232(P,X)89-AC-227,,SIG
+# File ID         : p-Th232-x-sig-excfun-mon-prodAc227_Lefort_1961_o0044.015
+#
+# npts            : 1           
+# xmin            :   1.5000E+08
+# xmax            :   1.5000E+08
+# ymin            :   1.4000E-02
+# ymax            :   1.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  5.0000E+06  1.4000E-02  2.0000E-03
+#---------------------------------------------------

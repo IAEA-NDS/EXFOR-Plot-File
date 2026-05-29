@@ -1,0 +1,25 @@
+# EXFOR #         : C2327.008  
+# EXFOR Ver.      : 20180404
+# TRANS #         : C180
+# Author          : A.S.Voyles et al.
+# Reference       : Nucl.Instrum.Meth.B 429 (2018) 53
+# DOI             : 10.1016/j.nimb.2018.05.028
+# Quantity        : natCu(p,x)56Ni cumulative production cross section
+# REACTION        : 29-CU-0(P,X)28-NI-56,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodNi56_Voyles_2018_c2327.008
+#
+# npts            : 4           
+# xmin            :   6.1580E+07
+# xmax            :   8.9740E+07
+# ymin            :   3.0400E-05
+# ymax            :   1.0050E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.1580E+07  0.0000E+00  3.0400E-05  1.6000E-06
+  7.0170E+07  0.0000E+00  9.0600E-05  4.6000E-06
+  7.9950E+07  0.0000E+00  1.0050E-04  5.5000E-06
+  8.9740E+07  0.0000E+00  8.0600E-05  5.1000E-06
+#---------------------------------------------------

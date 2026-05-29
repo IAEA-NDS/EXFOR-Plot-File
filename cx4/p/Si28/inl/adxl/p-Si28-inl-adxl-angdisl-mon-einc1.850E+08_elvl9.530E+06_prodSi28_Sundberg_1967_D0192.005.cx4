@@ -1,0 +1,30 @@
+# EXFOR #         : D0192.005  
+# EXFOR Ver.      : 20050507
+# TRANS #         : D042
+# Author          : O.Sundberg et al.
+# Reference       : Nucl.Phys.A 101 (1967) 481
+# DOI             : 10.1016/0375-9474(67)90647-1
+# Quantity        : 28Si(p,inl)28Si partial angular differential cross section
+# REACTION        : 14-SI-28(P,INL)14-SI-28,PAR,DA
+# File ID         : p-Si28-inl-adxl-angdisl-mon-einc1.850E+08_elvl9.530E+06_prodSi28_Sundberg_1967_d0192.005
+#
+# Einc (eV)       :   1.8500E+08
+# Elvl (eV)       :   9.5300E+06
+# dElvl (eV)      :   8.0000E+04
+#
+# npts            : 5           
+# xmin            :    4.0707000
+# xmax            :   14.9820000
+# ymin            :   2.6230E-04
+# ymax            :   5.4088E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.0707000   0.0000000  5.4088E-04  1.0142E-04
+   6.9995000   0.0000000  4.9025E-04  5.0711E-05
+   9.9796000   0.0000000  4.2189E-04  5.0709E-05
+  12.5070000   0.0000000  3.2054E-04  3.2962E-05
+  14.9820000   0.0000000  2.6230E-04  4.3104E-05
+#---------------------------------------------------

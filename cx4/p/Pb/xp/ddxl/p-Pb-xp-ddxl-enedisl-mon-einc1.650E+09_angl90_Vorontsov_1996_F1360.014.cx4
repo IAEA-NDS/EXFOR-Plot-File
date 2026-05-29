@@ -1,0 +1,35 @@
+# EXFOR #         : F1360.014  
+# EXFOR Ver.      : 20180911
+# TRANS #         : F070
+# Author          : I.A.Vorontsov et al.
+# Reference       : Proceedings of Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 page 120
+# DOI             : N/A
+# Quantity        : natPb(p,p+x) double differential cross section
+# REACTION        : 82-PB-0(P,X)1-H-1,,DA/DP
+# File ID         : p-Pb-xp-ddxl-enedisl-mon-einc1.650E+09_angl90_Vorontsov_1996_f1360.014
+#
+# Einc (eV)       :   1.6500E+09
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 11          
+# xmin            :   5.0000E+07
+# xmax            :   2.5000E+08
+# ymin            :   3.0050E-10
+# ymax            :   1.3722E-08
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  5.0000E+07  0.0000E+00  1.3722E-08  5.4890E-10
+  7.0000E+07  0.0000E+00  9.7582E-09  3.9030E-10
+  9.0000E+07  0.0000E+00  6.7330E-09  3.3660E-10
+  1.1000E+08  0.0000E+00  5.1434E-09  2.5720E-10
+  1.3000E+08  0.0000E+00  3.3010E-09  1.9810E-10
+  1.5000E+08  0.0000E+00  2.2758E-09  1.5930E-10
+  1.7000E+08  0.0000E+00  1.5340E-09  1.2270E-10
+  1.9000E+08  0.0000E+00  9.8300E-10  9.8300E-11
+  2.1000E+08  0.0000E+00  6.8730E-10  7.5610E-11
+  2.3000E+08  0.0000E+00  4.2980E-10  6.0180E-11
+  2.5000E+08  0.0000E+00  3.0050E-10  5.4090E-11
+#---------------------------------------------------

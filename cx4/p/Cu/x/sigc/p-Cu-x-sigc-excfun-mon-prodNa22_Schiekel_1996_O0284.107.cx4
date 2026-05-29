@@ -1,0 +1,23 @@
+# EXFOR #         : O0284.107  
+# EXFOR Ver.      : 20191005
+# TRANS #         : O071
+# Author          : Th.Schiekel et al.
+# Reference       : Nucl.Instrum.Meth.B 114 (1996) 91
+# DOI             : 10.1016/0168-583X(96)00145-0
+# Quantity        : natCu(p,x)22Na cumulative production cross section
+# REACTION        : 29-CU-0(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodNa22_Schiekel_1996_o0284.107
+#
+# npts            : 2           
+# xmin            :   3.3800E+08
+# xmax            :   3.7500E+08
+# ymin            :   3.2300E-05
+# ymax            :   4.4500E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3800E+08  1.7400E+06  3.2300E-05  8.1900E-06
+  3.7500E+08  1.2600E+06  4.4500E-05  6.1500E-06
+#---------------------------------------------------

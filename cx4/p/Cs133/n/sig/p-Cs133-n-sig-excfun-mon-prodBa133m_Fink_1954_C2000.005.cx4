@@ -1,0 +1,22 @@
+# EXFOR #         : C2000.005  
+# EXFOR Ver.      : 20130416
+# TRANS #         : C131
+# Author          : R.W.Fink et al.
+# Reference       : Phys.Rev. 96 (1954) 185
+# DOI             : 10.1103/PhysRev.96.185
+# Quantity        : 133Cs(p,n)133mBa cross section
+# REACTION        : 55-CS-133(P,N)56-BA-133-M,,SIG
+# File ID         : p-Cs133-n-sig-excfun-mon-prodBa133m_Fink_1954_c2000.005
+#
+# npts            : 1           
+# xmin            :   6.0000E+07
+# xmax            :   6.0000E+07
+# ymin            :   3.1000E-02
+# ymax            :   3.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+07  0.0000E+00  3.1000E-02  0.0000E+00
+#---------------------------------------------------

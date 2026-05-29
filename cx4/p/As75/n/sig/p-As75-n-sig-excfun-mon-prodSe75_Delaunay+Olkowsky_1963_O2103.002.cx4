@@ -1,0 +1,22 @@
+# EXFOR #         : O2103.002  
+# EXFOR Ver.      : 20121028
+# TRANS #         : O050
+# Author          : J.Delaunay-Olkowsky et al.
+# Reference       : Nucl.Phys. 47 (1963) 266
+# DOI             : 10.1016/0029-5582(63)90872-1
+# Quantity        : 75As(p,n)75Se cross section
+# REACTION        : 33-AS-75(P,N)34-SE-75,,SIG
+# File ID         : p-As75-n-sig-excfun-mon-prodSe75_Delaunay+Olkowsky_1963_o2103.002
+#
+# npts            : 1           
+# xmin            :   1.1200E+07
+# xmax            :   1.1200E+07
+# ymin            :   4.0300E-01
+# ymax            :   4.0300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1200E+07  0.0000E+00  4.0300E-01  6.0000E-02
+#---------------------------------------------------

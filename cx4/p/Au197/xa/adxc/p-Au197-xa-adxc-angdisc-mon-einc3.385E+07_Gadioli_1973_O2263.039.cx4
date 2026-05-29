@@ -1,0 +1,25 @@
+# EXFOR #         : O2263.039  
+# EXFOR Ver.      : 20201203
+# TRANS #         : O081
+# Author          : E.Gadioli et al.
+# Reference       : Report INFN/BE-73/5, 1973
+# DOI             : N/A
+# Quantity        : 197Au(p,a+x) angular differential cross section
+# REACTION        : 79-AU-197(P,X)2-HE-4,,DA
+# File ID         : p-Au197-xa-adxc-angdisc-mon-einc3.385E+07_Gadioli_1973_o2263.039
+#
+# Einc (eV)       :   3.3850E+07
+# dEinc (eV)      :   2.0000E+05
+#
+# npts            : 1           
+# xmin            :  150.0000000
+# xmax            :  150.0000000
+# ymin            :   2.6000E-04
+# ymax            :   2.6000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 150.0000000   0.0000000  2.6000E-04  3.0200E-06
+#---------------------------------------------------

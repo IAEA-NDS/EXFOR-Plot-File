@@ -1,0 +1,22 @@
+# EXFOR #         : A0580.006  
+# EXFOR Ver.      : 20231229
+# TRANS #         : A106
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : Proceedings of Conf.Nucl.Spectrosc.Nucl.Struct., Moscow, June 1996 page 219
+# DOI             : N/A
+# Quantity        : natCu(p,x)60Cu cumulative production cross section
+# REACTION        : 29-CU-0(P,X)29-CU-60,(CUM),SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodCu60_Aleksandrov_1996_a0580.006
+#
+# npts            : 1           
+# xmin            :   6.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   3.1900E-03
+# ymax            :   3.1900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  3.1900E-03  1.8000E-04
+#---------------------------------------------------

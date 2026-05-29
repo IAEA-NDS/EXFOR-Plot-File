@@ -1,0 +1,23 @@
+# EXFOR #         : O0204.062  
+# EXFOR Ver.      : 20190823
+# TRANS #         : O071
+# Author          : S.Regnier et al.
+# Reference       : Phys.Rev.C 26 (1982) 931
+# DOI             : 10.1103/PhysRevC.26.931
+# Quantity        : natZr(p,x)42Ar cumulative production cross section
+# REACTION        : 40-ZR-0(P,X)18-AR-42,CUM,SIG
+# File ID         : p-Zr-x-sigc-excfun-mon-prodAr42_Regnier_1982_o0204.062
+#
+# npts            : 2           
+# xmin            :   2.5000E+09
+# xmax            :   2.4000E+10
+# ymin            :   1.7000E-04
+# ymax            :   2.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+09  0.0000E+00  2.0000E-04  6.0000E-05
+  2.4000E+10  0.0000E+00  1.7000E-04  3.0000E-05
+#---------------------------------------------------

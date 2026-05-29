@@ -1,0 +1,26 @@
+# EXFOR #         : O0587.002  
+# EXFOR Ver.      : 20000427
+# TRANS #         : 0000
+# Author          : P.K.Bindal et al.
+# Reference       : Phys.Rev.C 12 (1975) 1826
+# DOI             : 10.1103/PhysRevC.12.1826
+# Quantity        : 100Mo(p,d)99Mo partial angular differential cross section
+# REACTION        : 42-MO-100(P,D)42-MO-99,PAR,DA
+# File ID         : p-Mo100-d-adxc-lvldis-mon-einc3.860E+07_angc41_prodMo99_Bindal_1975_o0587.002
+#
+# Einc (eV)       :   3.8600E+07
+# theta,cm (deg)  :   41.3000000
+# dtheta,cm (deg) :    0.2300000
+#
+# npts            : 1           
+# xmin            :   2.8700E+06
+# xmax            :   2.8700E+06
+# ymin            :   2.1900E-05
+# ymax            :   2.1900E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.8700E+06  0.0000E+00  2.1900E-05  1.0950E-06
+#---------------------------------------------------

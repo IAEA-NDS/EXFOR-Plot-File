@@ -1,0 +1,23 @@
+# EXFOR #         : C2631.003  
+# EXFOR Ver.      : 20210619
+# TRANS #         : C207
+# Author          : M.B.Fox et al.
+# Reference       : Phys.Rev.C 103 (2021) 034601
+# DOI             : 10.1103/PhysRevC.103.034601
+# Quantity        : 93Nb(p,x)73As cumulative production cross section
+# REACTION        : 41-NB-93(P,X)33-AS-73,CUM,SIG
+# File ID         : p-Nb93-x-sigc-excfun-mon-prodAs73_Fox_2021_c2631.003
+#
+# npts            : 2           
+# xmin            :   1.7711E+08
+# xmax            :   1.9238E+08
+# ymin            :   7.7000E-04
+# ymax            :   1.1500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9238E+08  7.3000E+05  1.1500E-03  3.0000E-04
+  1.7711E+08  7.7000E+05  7.7000E-04  1.8000E-04
+#---------------------------------------------------

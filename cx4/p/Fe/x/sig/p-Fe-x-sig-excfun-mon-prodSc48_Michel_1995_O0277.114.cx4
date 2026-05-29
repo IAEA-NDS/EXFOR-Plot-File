@@ -1,0 +1,24 @@
+# EXFOR #         : O0277.114  
+# EXFOR Ver.      : 20220104
+# TRANS #         : O086
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natFe(p,x)48Sc independent production cross section
+# REACTION        : 26-FE-0(P,X)21-SC-48,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodSc48_Michel_1995_o0277.114
+#
+# npts            : 3           
+# xmin            :   1.2000E+09
+# xmax            :   2.6000E+09
+# ymin            :   6.2600E-04
+# ymax            :   6.7300E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  6.7300E-04  5.4000E-05
+  1.6000E+09  0.0000E+00  6.3200E-04  5.2000E-05
+  2.6000E+09  0.0000E+00  6.2600E-04  5.4000E-05
+#---------------------------------------------------

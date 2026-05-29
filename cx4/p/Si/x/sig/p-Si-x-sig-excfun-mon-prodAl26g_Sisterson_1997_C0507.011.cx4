@@ -1,0 +1,26 @@
+# EXFOR #         : C0507.011  
+# EXFOR Ver.      : 20240303
+# TRANS #         : C235
+# Author          : J.M.Sisterson et al.
+# Reference       : Nucl.Instrum.Meth.B 123 (1997) 324
+# DOI             : 10.1016/S0168-583X(96)00409-0
+# Quantity        : natSi(p,x)26gAl independent production cross section
+# REACTION        : 14-SI-0(P,X)13-AL-26-G,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodAl26g_Sisterson_1997_c0507.011
+#
+# npts            : 5           
+# xmin            :   2.9800E+07
+# xmax            :   6.6900E+07
+# ymin            :   5.9900E-03
+# ymax            :   7.0200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9800E+07  0.0000E+00  5.9900E-03  3.8000E-04
+  4.4500E+07  0.0000E+00  6.7000E-02  3.9500E-03
+  5.0200E+07  0.0000E+00  7.0200E-02  4.0500E-03
+  6.5600E+07  0.0000E+00  5.0500E-02  2.8700E-03
+  6.6900E+07  0.0000E+00  4.7000E-02  3.5700E-03
+#---------------------------------------------------

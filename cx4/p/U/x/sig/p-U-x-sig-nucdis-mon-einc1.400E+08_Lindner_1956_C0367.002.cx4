@@ -1,0 +1,26 @@
+# EXFOR #         : C0367.002  
+# EXFOR Ver.      : 20231108
+# TRANS #         : C239
+# Author          : M.Lindner et al.
+# Reference       : Phys.Rev. 103 (1956) 378
+# DOI             : 10.1103/PhysRev.103.378
+# Quantity        : natU(p,x) independent production cross section
+# REACTION        : 92-U-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-U-x-sig-nucdis-mon-einc1.400E+08_Lindner_1956_c0367.002
+#
+# Einc (eV)       :   1.4000E+08
+#
+# npts            : 3           
+# xmin            : 92228.9     
+# xmax            : 92230.9     
+# ymin            :   4.7000E-05
+# ymax            :   6.3000E-04
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     92230.9  6.3000E-04  3.0000E-05
+     92229.9  9.3000E-05  1.0000E-05
+     92228.9  4.7000E-05  1.0000E-05
+#---------------------------------------------------

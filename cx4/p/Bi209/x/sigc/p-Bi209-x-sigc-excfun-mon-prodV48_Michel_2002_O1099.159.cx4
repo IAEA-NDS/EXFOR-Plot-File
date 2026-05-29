@@ -1,0 +1,26 @@
+# EXFOR #         : O1099.159  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)48V cumulative production cross section
+# REACTION        : 83-BI-209(P,X)23-V-48,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodV48_Michel_2002_o1099.159
+#
+# npts            : 5           
+# xmin            :   9.9800E+08
+# xmax            :   2.5980E+09
+# ymin            :   5.7040E-05
+# ymax            :   3.2250E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9800E+08  6.9000E+05  5.7040E-05  1.1520E-05
+  1.1700E+09  1.4500E+06  1.1220E-04  2.6200E-05
+  1.3980E+09  6.8590E+05  1.3510E-04  1.1130E-05
+  1.5700E+09  1.4700E+06  1.8180E-04  3.7580E-05
+  2.5980E+09  7.2510E+05  3.2250E-04  2.9530E-05
+#---------------------------------------------------

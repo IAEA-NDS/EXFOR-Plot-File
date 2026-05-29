@@ -1,0 +1,22 @@
+# EXFOR #         : C0297.007.4
+# EXFOR Ver.      : 20070717
+# TRANS #         : C081
+# Author          : P.Kruger et al.
+# Reference       : Phys.Rev. 99 (1955) 1459
+# DOI             : 10.1103/PhysRev.99.1459
+# Quantity        : 209Bi(p,x)64Cu independent production cross section
+# REACTION        : 83-BI-209(P,X)29-CU-64,,SIG
+# File ID         : p-Bi209-x-sig-excfun-mon-prodCu64_Kruger_1955_c0297.007.4
+#
+# npts            : 1           
+# xmin            :   4.5000E+08
+# xmax            :   4.5000E+08
+# ymin            :   2.9000E-04
+# ymax            :   2.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+08  0.0000E+00  2.9000E-04  8.7000E-05
+#---------------------------------------------------

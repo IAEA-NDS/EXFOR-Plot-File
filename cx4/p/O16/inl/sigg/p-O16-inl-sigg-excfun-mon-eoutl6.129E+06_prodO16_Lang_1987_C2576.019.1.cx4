@@ -1,0 +1,26 @@
+# EXFOR #         : C2576.019.1
+# EXFOR Ver.      : 20200911
+# TRANS #         : C199
+# Author          : F.L.Lang et al.
+# Reference       : Phys.Rev.C 35 (1987) 1214
+# DOI             : 10.1103/PhysRevC.35.1214
+# Quantity        : 16O(p,inl)16O partial gamma production cross section
+# REACTION        : 8-O-16(P,INL)8-O-16,PAR,SIG,G
+# File ID         : p-O16-inl-sigg-excfun-mon-eoutl6.129E+06_prodO16_Lang_1987_c2576.019.1
+#
+# Eout,lab (eV)   :   6.1290E+06
+#
+# npts            : 3           
+# xmin            :   4.0000E+07
+# xmax            :   8.5000E+07
+# ymin            :   9.5000E-03
+# ymax            :   2.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+07  0.0000E+00  2.7000E-02  3.3000E-03
+  6.5000E+07  0.0000E+00  1.0500E-02  1.3000E-03
+  8.5000E+07  0.0000E+00  9.5000E-03  1.3000E-03
+#---------------------------------------------------

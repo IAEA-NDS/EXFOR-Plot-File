@@ -1,0 +1,23 @@
+# EXFOR #         : D6250.003  
+# EXFOR Ver.      : 20170313
+# TRANS #         : D110
+# Author          : I.A.Rizvi et al.
+# Reference       : Indian J.Phys. 86 (2012) 913
+# DOI             : 10.1007/s12648-012-0134-y
+# Quantity        : 93Nb(p,x)92mNb independent production cross section
+# REACTION        : 41-NB-93(P,X)41-NB-92-M,,SIG
+# File ID         : p-Nb93-x-sig-excfun-mon-prodNb92m_Rizvi_2012_d6250.003
+#
+# npts            : 2           
+# xmin            :   1.1900E+07
+# xmax            :   1.2500E+07
+# ymin            :   1.2000E-03
+# ymax            :   1.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1900E+07  0.0000E+00  1.2000E-03  4.0000E-04
+  1.2500E+07  0.0000E+00  1.3000E-03  5.0000E-04
+#---------------------------------------------------

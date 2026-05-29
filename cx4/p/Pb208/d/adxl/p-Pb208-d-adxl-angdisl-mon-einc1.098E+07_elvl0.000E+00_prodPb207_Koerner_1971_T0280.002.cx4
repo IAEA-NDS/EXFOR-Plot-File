@@ -1,0 +1,25 @@
+# EXFOR #         : T0280.002  
+# EXFOR Ver.      : 20040127
+# TRANS #         : 0000
+# Author          : H.J.Koerner et al.
+# Reference       : Phys.Rev.Lett. 27 (1971) 1457
+# DOI             : 10.1103/PhysRevLett.27.1457
+# Quantity        : 208Pb(p,d)207Pb partial angular differential cross section
+# REACTION        : 82-PB-208(P,D)82-PB-207,PAR,DA
+# File ID         : p-Pb208-d-adxl-angdisl-mon-einc1.098E+07_elvl0.000E+00_prodPb207_Koerner_1971_t0280.002
+#
+# Einc (eV)       :   1.0980E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :  150.0000000
+# xmax            :  150.0000000
+# ymin            :   1.8000E-06
+# ymax            :   1.8000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 150.0000000   0.0000000  1.8000E-06  1.8000E-07
+#---------------------------------------------------

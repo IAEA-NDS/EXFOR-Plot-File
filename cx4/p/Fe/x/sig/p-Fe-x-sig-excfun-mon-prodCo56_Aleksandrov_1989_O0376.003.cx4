@@ -1,0 +1,22 @@
+# EXFOR #         : O0376.003  
+# EXFOR Ver.      : 20170417
+# TRANS #         : O061
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : Proceedings of 39.Conf.Nucl.Spectrosc.and Nucl.Struct.,Tashkent 1989 page 536
+# DOI             : N/A
+# Quantity        : natFe(p,x)56Co independent production cross section
+# REACTION        : 26-FE-0(P,X)27-CO-56,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodCo56_Aleksandrov_1989_o0376.003
+#
+# npts            : 1           
+# xmin            :   1.0000E+09
+# xmax            :   1.0000E+09
+# ymin            :   8.9000E-04
+# ymax            :   8.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  8.9000E-04  6.0000E-05
+#---------------------------------------------------

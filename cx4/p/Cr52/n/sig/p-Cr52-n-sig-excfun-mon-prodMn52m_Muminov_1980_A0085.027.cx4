@@ -1,0 +1,24 @@
+# EXFOR #         : A0085.027  
+# EXFOR Ver.      : 20190424
+# TRANS #         : A091
+# Author          : A.V.Muminov et al.
+# Reference       : Sov.At.Energy 49 (1980) 540
+# DOI             : 10.1007/BF01121617
+# Quantity        : 52Cr(p,n)52mMn cross section
+# REACTION        : 24-CR-52(P,N)25-MN-52-M,,SIG
+# File ID         : p-Cr52-n-sig-excfun-mon-prodMn52m_Muminov_1980_a0085.027
+#
+# npts            : 3           
+# xmin            :   6.8500E+06
+# xmax            :   1.0400E+07
+# ymin            :   1.5460E-01
+# ymax            :   3.3260E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.8500E+06  0.0000E+00  1.5460E-01  3.8000E-02
+  8.8500E+06  0.0000E+00  2.7050E-01  3.8000E-02
+  1.0400E+07  0.0000E+00  3.3260E-01  4.3000E-02
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : A0854.002  
+# EXFOR Ver.      : 20100624
+# TRANS #         : A069
+# Author          : O.I.Batenkov et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 2 page 1085
+# DOI             : N/A
+# Quantity        : 232Th(p,f) total fission neutron multiplicity
+# REACTION        : 90-TH-232(P,F),,NU
+# File ID         : p-Th232-f-nut-excfun-mon-Batenkov_2007_a0854.002
+#
+# npts            : 2           
+# xmin            :   5.0000E+07
+# xmax            :   9.6000E+07
+# ymin            :   7.3500E+00
+# ymax            :   9.1700E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       nu-t        dnu-t       
+#  eV          eV         /fis         /fis       
+#---------------------------------------------------
+  5.0000E+07  0.0000E+00  7.3500E+00  7.0000E-02
+  9.6000E+07  0.0000E+00  9.1700E+00  1.0000E-01
+#---------------------------------------------------

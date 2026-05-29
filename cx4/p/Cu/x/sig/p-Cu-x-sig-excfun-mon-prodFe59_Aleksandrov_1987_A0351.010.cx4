@@ -1,0 +1,26 @@
+# EXFOR #         : A0351.010  
+# EXFOR Ver.      : 20231224
+# TRANS #         : A104
+# Author          : V.N.Aleksandrov et al.
+# Reference       : Sov.At.Energy 62 (1987) 478
+# DOI             : 10.1007/BF01124118
+# Quantity        : natCu(p,x)59Fe independent production cross section
+# REACTION        : 29-CU-0(P,X)26-FE-59,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodFe59_Aleksandrov_1987_a0351.010
+#
+# npts            : 5           
+# xmin            :   5.9000E+07
+# xmax            :   9.8000E+07
+# ymin            :   5.2000E-04
+# ymax            :   5.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+07  1.2000E+06  5.2000E-04  9.1000E-05
+  7.0000E+07  9.0000E+05  8.1000E-04  1.4000E-04
+  7.9000E+07  2.2000E+06  5.4000E-03  9.5000E-04
+  8.9000E+07  1.9000E+06  1.9000E-03  3.5000E-04
+  9.8000E+07  1.5000E+06  6.9000E-04  1.1000E-04
+#---------------------------------------------------

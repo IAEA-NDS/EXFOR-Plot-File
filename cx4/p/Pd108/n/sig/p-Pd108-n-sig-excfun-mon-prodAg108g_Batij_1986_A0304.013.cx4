@@ -1,0 +1,27 @@
+# EXFOR #         : A0304.013  
+# EXFOR Ver.      : 20120409
+# TRANS #         : A078
+# Author          : V.G.Batij et al.
+# Reference       : Proceedings of 36.Conf.Nucl.Spectrosc.and Nucl.Struct.,Kharkov 1986 page 280
+# DOI             : N/A
+# Quantity        : 108Pd(p,n)108gAg cross section
+# REACTION        : 46-PD-108(P,N)47-AG-108-G,,SIG
+# File ID         : p-Pd108-n-sig-excfun-mon-prodAg108g_Batij_1986_a0304.013
+#
+# npts            : 6           
+# xmin            :   4.0000E+06
+# xmax            :   9.0000E+06
+# ymin            :   2.7000E-03
+# ymax            :   4.7000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+06  0.0000E+00  2.7000E-03  5.0000E-04
+  5.0000E+06  0.0000E+00  2.6000E-02  2.0000E-03
+  6.0000E+06  0.0000E+00  9.6000E-02  8.0000E-03
+  7.0000E+06  0.0000E+00  2.6000E-01  2.0000E-02
+  8.0000E+06  0.0000E+00  3.4000E-01  3.0000E-02
+  9.0000E+06  0.0000E+00  4.7000E-01  4.0000E-02
+#---------------------------------------------------

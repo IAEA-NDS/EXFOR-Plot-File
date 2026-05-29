@@ -1,0 +1,25 @@
+# EXFOR #         : C0507.010  
+# EXFOR Ver.      : 19981224
+# TRANS #         : 0000
+# Author          : J.M.Sisterson et al.
+# Reference       : Nucl.Instrum.Meth.B 123 (1997) 324
+# DOI             : 10.1016/S0168-583X(96)00409-0
+# Quantity        : natSi(p,x)22Na independent production cross section
+# REACTION        : 14-SI-0(P,X)11-NA-22,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodNa22_Sisterson_1997_c0507.010
+#
+# npts            : 4           
+# xmin            :   2.0000E+08
+# xmax            :   5.0000E+08
+# ymin            :   1.5100E-02
+# ymax            :   1.7700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  1.5100E-02  1.1600E-03
+  3.0000E+08  0.0000E+00  1.7500E-02  1.3100E-03
+  4.0000E+08  0.0000E+00  1.7500E-02  1.2900E-03
+  5.0000E+08  0.0000E+00  1.7700E-02  1.3100E-03
+#---------------------------------------------------

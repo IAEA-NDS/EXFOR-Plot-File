@@ -1,0 +1,26 @@
+# EXFOR #         : C2200.011  
+# EXFOR Ver.      : 20160104
+# TRANS #         : C157
+# Author          : J.W.Engle et al.
+# Reference       : Nucl.Instrum.Meth.B 366 (2016) 206
+# DOI             : 10.1016/j.nimb.2015.10.049
+# Quantity        : 159Tb(p,x)158gTb cumulative production cross section
+# REACTION        : 65-TB-159(P,X)65-TB-158-G,M+,SIG
+# File ID         : p-Tb159-x-sigc-excfun-mon-prodTb158g_Engle_2016_c2200.011
+#
+# npts            : 5           
+# xmin            :   3.8500E+07
+# xmax            :   7.8000E+07
+# ymin            :   1.1970E-01
+# ymax            :   1.6370E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8500E+07  2.9000E+06  1.6370E-01  1.4900E-02
+  4.9900E+07  1.3000E+06  1.4950E-01  1.3600E-02
+  5.9600E+07  1.1000E+06  1.4710E-01  1.3400E-02
+  6.8300E+07  1.5000E+06  1.3410E-01  1.0900E-02
+  7.8000E+07  7.0000E+05  1.1970E-01  9.7000E-03
+#---------------------------------------------------

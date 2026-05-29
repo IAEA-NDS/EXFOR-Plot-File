@@ -1,0 +1,23 @@
+# EXFOR #         : C0337.018  
+# EXFOR Ver.      : 20241014
+# TRANS #         : C241
+# Author          : J.A.Panontin et al.
+# Reference       : Phys.Rev. 165 (1968) 1273
+# DOI             : 10.1103/PhysRev.165.1273
+# Quantity        : natIn(p,x)111Ag independent production cross section
+# REACTION        : 49-IN-0(P,X)47-AG-111,,SIG
+# File ID         : p-In-x-sig-excfun-mon-prodAg111_Panontin_1968_c0337.018
+#
+# npts            : 2           
+# xmin            :   2.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   2.3300E-03
+# ymax            :   3.7100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  2.3300E-03  2.0000E-05
+  4.0000E+08  0.0000E+00  3.7100E-03  6.0000E-05
+#---------------------------------------------------

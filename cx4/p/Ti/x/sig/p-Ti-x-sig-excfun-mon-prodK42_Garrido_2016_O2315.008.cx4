@@ -1,0 +1,24 @@
+# EXFOR #         : O2315.008  
+# EXFOR Ver.      : 20230521
+# TRANS #         : O096
+# Author          : E.Garrido et al.
+# Reference       : Nucl.Instrum.Meth.B 383 (2016) 191
+# DOI             : 10.1016/j.nimb.2016.07.011
+# Quantity        : natTi(p,x)42K independent production cross section
+# REACTION        : 22-TI-0(P,X)19-K-42,,SIG
+# File ID         : p-Ti-x-sig-excfun-mon-prodK42_Garrido_2016_o2315.008
+#
+# npts            : 3           
+# xmin            :   4.5540E+07
+# xmax            :   6.9900E+07
+# ymin            :   6.2000E-04
+# ymax            :   5.9900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.9900E+07  5.6000E+05  5.9900E-03  7.5000E-04
+  5.7440E+07  1.0300E+06  4.1900E-03  6.5000E-04
+  4.5540E+07  5.9000E+05  6.2000E-04  1.6000E-04
+#---------------------------------------------------

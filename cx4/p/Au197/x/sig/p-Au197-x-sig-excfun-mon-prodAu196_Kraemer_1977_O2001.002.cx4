@@ -1,0 +1,24 @@
+# EXFOR #         : O2001.002  
+# EXFOR Ver.      : 20200114
+# TRANS #         : O073
+# Author          : S.Kraemer et al.
+# Reference       : Inorg.Nucl.Chem.Lett 13 (1977) 205
+# DOI             : 10.1016/0020-1650(77)80095-0
+# Quantity        : 197Au(p,x)196Au independent production cross section
+# REACTION        : 79-AU-197(P,X)79-AU-196,,SIG
+# File ID         : p-Au197-x-sig-excfun-mon-prodAu196_Kraemer_1977_o2001.002
+#
+# npts            : 3           
+# xmin            :   3.0000E+08
+# xmax            :   2.4000E+10
+# ymin            :   6.0110E-02
+# ymax            :   1.2014E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+08  0.0000E+00  7.8670E-02  2.4300E-03
+  4.5000E+08  0.0000E+00  1.2014E-01  6.3000E-03
+  2.4000E+10  0.0000E+00  6.0110E-02  5.4100E-03
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : A0904.159  
+# EXFOR Ver.      : 20220323
+# TRANS #         : A099
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 551
+# DOI             : 10.1134/S1063778811040181
+# Quantity        : natW(p,x)152gTb cumulative production cross section
+# REACTION        : 74-W-0(P,X)65-TB-152-G,M+,SIG
+# File ID         : p-W-x-sigc-excfun-mon-prodTb152g_Titarenko_2011_a0904.159
+#
+# npts            : 3           
+# xmin            :   6.0000E+08
+# xmax            :   1.1990E+09
+# ymin            :   4.3000E-04
+# ymax            :   7.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  2.0000E+06  2.1000E-03  1.4000E-03
+  7.9900E+08  2.0000E+06  7.9000E-03  2.5000E-03
+  1.1990E+09  3.0000E+06  4.3000E-04  9.1000E-04
+#---------------------------------------------------

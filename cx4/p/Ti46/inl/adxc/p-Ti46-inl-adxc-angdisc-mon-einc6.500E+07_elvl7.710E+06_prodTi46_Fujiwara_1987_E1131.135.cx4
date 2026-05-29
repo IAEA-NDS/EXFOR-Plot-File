@@ -1,0 +1,30 @@
+# EXFOR #         : E1131.135  
+# EXFOR Ver.      : 20061228
+# TRANS #         : E041
+# Author          : M.Fujiwara et al.
+# Reference       : Phys.Rev.C 35 No.4 (1987) 1257
+# DOI             : 10.1103/PhysRevC.35.1257
+# Quantity        : 46Ti(p,inl)46Ti partial angular differential cross section
+# REACTION        : 22-TI-46(P,INL)22-TI-46,PAR,DA
+# File ID         : p-Ti46-inl-adxc-angdisc-mon-einc6.500E+07_elvl7.710E+06_prodTi46_Fujiwara_1987_e1131.135
+#
+# Einc (eV)       :   6.5000E+07
+# Elvl (eV)       :   7.7100E+06
+# dElvl (eV)      :   5.0000E+03
+#
+# npts            : 5           
+# xmin            :   24.6000000
+# xmax            :   48.0000000
+# ymin            :   6.1170E-06
+# ymax            :   3.2770E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  24.6000000   0.0000000  6.1170E-06  1.9000E-06
+  26.6000000   0.0000000  1.9010E-05  3.8600E-06
+  29.7000000   0.0000000  1.1380E-05  2.4900E-06
+  32.7000000   0.0000000  2.1000E-05  2.1600E-06
+  48.0000000   0.0000000  3.2770E-05  4.4700E-06
+#---------------------------------------------------

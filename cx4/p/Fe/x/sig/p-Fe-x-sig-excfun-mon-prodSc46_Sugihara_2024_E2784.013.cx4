@@ -1,0 +1,25 @@
+# EXFOR #         : E2784.013  
+# EXFOR Ver.      : 20241228
+# TRANS #         : E151
+# Author          : K.Sugihara et al.
+# Reference       : Nucl.Instrum.Meth.B 549 (2024) 165299
+# DOI             : 10.1016/j.nimb.2024.165299
+# Quantity        : natFe(p,x)46Sc independent production cross section
+# REACTION        : 26-FE-0(P,X)21-SC-46,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodSc46_Sugihara_2024_e2784.013
+#
+# npts            : 4           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   7.0200E-03
+# ymax            :   9.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  8.8700E-03  2.8000E-04
+  1.3000E+09  0.0000E+00  9.0200E-03  2.9000E-04
+  2.2000E+09  0.0000E+00  9.2000E-03  3.0000E-04
+  3.0000E+09  0.0000E+00  7.0200E-03  2.2000E-04
+#---------------------------------------------------

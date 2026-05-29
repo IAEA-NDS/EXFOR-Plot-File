@@ -1,0 +1,29 @@
+# EXFOR #         : A0510.169  
+# EXFOR Ver.      : 20231226
+# TRANS #         : A105
+# Author          : V.N.Levkovski
+# Reference       : Levkovskij,Act.Cs.By Protons and Alphas,Moscow 1991 page  (1991)
+# DOI             : N/A
+# Quantity        : 86Sr(p,x)82mRb independent production cross section
+# REACTION        : 38-SR-86(P,X)37-RB-82-M,,SIG
+# File ID         : p-Sr86-x-sig-excfun-mon-prodRb82m_Levkovski_1991_a0510.169
+#
+# npts            : 8           
+# xmin            :   2.3100E+07
+# xmax            :   2.9500E+07
+# ymin            :   7.0000E-03
+# ymax            :   3.9000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3100E+07  0.0000E+00  7.0000E-03  7.0000E-04
+  2.4000E+07  0.0000E+00  1.1000E-02  1.1000E-03
+  2.4800E+07  0.0000E+00  1.6000E-02  1.6000E-03
+  2.5700E+07  0.0000E+00  2.0000E-02  2.0000E-03
+  2.6600E+07  0.0000E+00  2.8000E-02  2.8000E-03
+  2.7600E+07  0.0000E+00  3.2000E-02  3.2000E-03
+  2.8500E+07  0.0000E+00  3.6000E-02  3.6000E-03
+  2.9500E+07  0.0000E+00  3.9000E-02  3.9000E-03
+#---------------------------------------------------

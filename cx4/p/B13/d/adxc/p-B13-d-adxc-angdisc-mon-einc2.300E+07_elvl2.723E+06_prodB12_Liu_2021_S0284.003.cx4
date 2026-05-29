@@ -1,0 +1,28 @@
+# EXFOR #         : S0284.003  
+# EXFOR Ver.      : 20251009
+# TRANS #         : S035
+# Author          : W.Liu et al.
+# Reference       : Phys.Rev.C 104 (2021) 064605
+# DOI             : 10.1103/PhysRevC.104.064605
+# Quantity        : 13B(p,d)12B partial angular differential cross section
+# REACTION        : 5-B-13(P,D)5-B-12,PAR,DA
+# File ID         : p-B13-d-adxc-angdisc-mon-einc2.300E+07_elvl2.723E+06_prodB12_Liu_2021_s0284.003
+#
+# Einc (eV)       :   2.3000E+07
+# dEinc (eV)      :   3.8800E+05
+# Elvl (eV)       :   2.7230E+06
+#
+# npts            : 3           
+# xmin            :   20.9900000
+# xmax            :   34.9500000
+# ymin            :   2.7000E-04
+# ymax            :   5.2000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.9900000   0.0000000  5.0000E-04  1.5000E-04
+  26.5900000   0.0000000  5.2000E-04  1.1000E-04
+  34.9500000   0.0000000  2.7000E-04  6.0000E-05
+#---------------------------------------------------

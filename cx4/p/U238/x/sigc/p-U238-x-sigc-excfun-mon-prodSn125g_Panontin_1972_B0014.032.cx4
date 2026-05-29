@@ -1,0 +1,22 @@
+# EXFOR #         : B0014.032  
+# EXFOR Ver.      : 20220317
+# TRANS #         : B033
+# Author          : J.A.Panontin et al.
+# Reference       : J.Inorg.Nucl.Chem. 34 (1972) 1485
+# DOI             : 10.1016/0022-1902(72)80268-9
+# Quantity        : 238U(p,f)125gSn cumulative production cross section
+# REACTION        : 92-U-238(P,F)50-SN-125-G,CUM,SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodSn125g_Panontin_1972_b0014.032
+#
+# npts            : 1           
+# xmin            :   4.5000E+08
+# xmax            :   4.5000E+08
+# ymin            :   1.0600E-02
+# ymax            :   1.0600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+08  0.0000E+00  1.0600E-02  1.4000E-03
+#---------------------------------------------------

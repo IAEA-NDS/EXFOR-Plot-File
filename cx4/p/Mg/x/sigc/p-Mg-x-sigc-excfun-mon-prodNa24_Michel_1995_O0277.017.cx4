@@ -1,0 +1,24 @@
+# EXFOR #         : O0277.017  
+# EXFOR Ver.      : 19970111
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natMg(p,x)24Na cumulative production cross section
+# REACTION        : 12-MG-0(P,X)11-NA-24,CUM,SIG
+# File ID         : p-Mg-x-sigc-excfun-mon-prodNa24_Michel_1995_o0277.017
+#
+# npts            : 3           
+# xmin            :   1.2000E+09
+# xmax            :   2.6000E+09
+# ymin            :   5.9600E-03
+# ymax            :   7.9400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  6.5100E-03  4.9000E-04
+  1.6000E+09  0.0000E+00  7.9400E-03  6.7000E-04
+  2.6000E+09  0.0000E+00  5.9600E-03  4.9000E-04
+#---------------------------------------------------

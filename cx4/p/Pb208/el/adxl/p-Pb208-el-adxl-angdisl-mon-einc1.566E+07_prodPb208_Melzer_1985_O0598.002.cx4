@@ -1,0 +1,25 @@
+# EXFOR #         : O0598.002  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : R.Melzer et al.
+# Reference       : Nucl.Phys.A 432 (1985) 363
+# DOI             : 10.1016/0375-9474(85)90248-9
+# Quantity        : 208Pb(p,el)208Pb angular differential cross section
+# REACTION        : 82-PB-208(P,EL)82-PB-208,,DA
+# File ID         : p-Pb208-el-adxl-angdisl-mon-einc1.566E+07_prodPb208_Melzer_1985_o0598.002
+#
+# Einc (eV)       :   1.5660E+07
+# dEinc (eV)      :   1.5000E+04
+#
+# npts            : 1           
+# xmin            :  160.0000000
+# xmax            :  160.0000000
+# ymin            :   7.0300E-03
+# ymax            :   7.0300E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 160.0000000   0.0000000  7.0300E-03  1.4060E-04
+#---------------------------------------------------

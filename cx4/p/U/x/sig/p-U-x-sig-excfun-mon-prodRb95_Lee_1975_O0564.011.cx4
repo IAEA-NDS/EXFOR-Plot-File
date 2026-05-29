@@ -1,0 +1,23 @@
+# EXFOR #         : O0564.011  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : J.K.P.Lee et al.
+# Reference       : J.Inorg.Nucl.Chem. 37 (1975) 2035
+# DOI             : 10.1016/0022-1902(75)80825-6
+# Quantity        : natU(p,f)95Rb independent production cross section
+# REACTION        : 92-U-0(P,F)37-RB-95,IND,SIG
+# File ID         : p-U-x-sig-excfun-mon-prodRb95_Lee_1975_o0564.011
+#
+# npts            : 2           
+# xmin            :   8.0000E+07
+# xmax            :   1.0000E+08
+# ymin            :   3.9400E-03
+# ymax            :   4.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+07  0.0000E+00  4.3000E-03  3.0000E-04
+  1.0000E+08  0.0000E+00  3.9400E-03  7.0000E-05
+#---------------------------------------------------

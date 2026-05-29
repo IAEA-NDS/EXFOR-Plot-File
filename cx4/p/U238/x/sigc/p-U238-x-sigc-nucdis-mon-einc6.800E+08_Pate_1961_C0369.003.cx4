@@ -1,0 +1,25 @@
+# EXFOR #         : C0369.003  
+# EXFOR Ver.      : 20241014
+# TRANS #         : C241
+# Author          : B.D.Pate et al.
+# Reference       : Phys.Rev. 123 (1961) 647
+# DOI             : 10.1103/PhysRev.123.647
+# Quantity        : 238U(p,x) cumulative production cross section
+# REACTION        : 92-U-238(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-U238-x-sigc-nucdis-mon-einc6.800E+08_Pate_1961_c0369.003
+#
+# Einc (eV)       :   6.8000E+08
+#
+# npts            : 2           
+# xmin            : 90231.9     
+# xmax            : 91235.9     
+# ymin            :   3.0000E-03
+# ymax            :   1.7000E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     91235.9  1.7000E-02  2.0000E-03
+     90231.9  3.0000E-03  1.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : O1252.006  
+# EXFOR Ver.      : 20050406
+# TRANS #         : O023
+# Author          : N.Marie et al.
+# Reference       : Proceedings of Worksh.Nucl.Data for Transmutation, Darmstadt, 2003
+# DOI             : N/A
+# Quantity        : natU(p,n+x) angular differential cross section
+# REACTION        : 92-U-0(P,X)0-NN-1,,DA
+# File ID         : p-U-xn-adxl-angdisl-mon-einc6.290E+07_Marie_2003_o1252.006
+#
+# Einc (eV)       :   6.2900E+07
+#
+# npts            : 5           
+# xmin            :   24.0000000
+# xmax            :  120.0000000
+# ymin            :   6.3195E-01
+# ymax            :   1.2022E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 120.0000000   0.0000000  6.3195E-01  8.0878E-02
+  80.0000000   0.0000000  6.4754E-01  8.2079E-02
+  55.0000000   0.0000000  7.9287E-01  9.7417E-02
+  35.0000000   0.0000000  1.2022E+00  1.3589E-01
+  24.0000000   0.0000000  1.0000E+00  1.1221E-01
+#---------------------------------------------------

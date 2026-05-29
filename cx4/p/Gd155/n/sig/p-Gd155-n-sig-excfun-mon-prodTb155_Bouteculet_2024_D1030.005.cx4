@@ -1,0 +1,23 @@
+# EXFOR #         : D1030.005  
+# EXFOR Ver.      : 20250311
+# TRANS #         : D149
+# Author          : M.Bouteculet et al.
+# Reference       : Appl.Radiat.Isot. 213 (2024) 111485
+# DOI             : 10.1016/j.apradiso.2024.111485
+# Quantity        : 155Gd(p,n)155Tb cross section
+# REACTION        : 64-GD-155(P,N)65-TB-155,,SIG
+# File ID         : p-Gd155-n-sig-excfun-mon-prodTb155_Bouteculet_2024_d1030.005
+#
+# npts            : 2           
+# xmin            :   2.5600E+07
+# xmax            :   2.6300E+07
+# ymin            :   9.8900E-03
+# ymax            :   1.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6300E+07  2.0000E+05  9.8900E-03  1.7100E-03
+  2.5600E+07  2.0000E+05  1.2000E-02  1.5000E-03
+#---------------------------------------------------

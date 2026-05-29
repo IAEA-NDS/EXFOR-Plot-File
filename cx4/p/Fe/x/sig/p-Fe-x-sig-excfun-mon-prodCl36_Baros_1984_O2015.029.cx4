@@ -1,0 +1,24 @@
+# EXFOR #         : O2015.029  
+# EXFOR Ver.      : 20220317
+# TRANS #         : O088
+# Author          : F.Baros et al.
+# Reference       : J.Phys.(Paris) 45 (1984) 855
+# DOI             : 10.1051/jphys:01984004505085500
+# Quantity        : natFe(p,x)36Cl independent production cross section
+# REACTION        : 26-FE-0(P,X)17-CL-36,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodCl36_Baros_1984_o2015.029
+#
+# npts            : 3           
+# xmin            :   1.5000E+08
+# xmax            :   2.4000E+10
+# ymin            :   2.1000E-04
+# ymax            :   1.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  2.1000E-04  7.0000E-05
+  1.0500E+09  0.0000E+00  1.1000E-02  2.2000E-03
+  2.4000E+10  0.0000E+00  7.1000E-03  1.9000E-03
+#---------------------------------------------------

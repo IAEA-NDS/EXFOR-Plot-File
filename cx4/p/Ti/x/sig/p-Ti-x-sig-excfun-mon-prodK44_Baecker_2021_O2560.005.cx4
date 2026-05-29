@@ -1,0 +1,23 @@
+# EXFOR #         : O2560.005  
+# EXFOR Ver.      : 20230218
+# TRANS #         : O094
+# Author          : C.M.Baecker et al.
+# Reference       : Nucl.Instrum.Meth.B 492 (2021) 56
+# DOI             : 10.1016/j.nimb.2021.02.006
+# Quantity        : natTi(p,x)44K independent production cross section
+# REACTION        : 22-TI-0(P,X)19-K-44,,SIG
+# File ID         : p-Ti-x-sig-excfun-mon-prodK44_Baecker_2021_o2560.005
+#
+# npts            : 2           
+# xmin            :   1.0000E+08
+# xmax            :   1.3000E+08
+# ymin            :   2.2100E-04
+# ymax            :   3.2300E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  2.2100E-04  1.2000E-05
+  1.3000E+08  0.0000E+00  3.2300E-04  1.3000E-05
+#---------------------------------------------------

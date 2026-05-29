@@ -1,0 +1,24 @@
+# EXFOR #         : O2561.021  
+# EXFOR Ver.      : 20230219
+# TRANS #         : O094
+# Author          : C.Duchemin et al.
+# Reference       : Appl.Radiat.Isot. 178 (2021) 109983
+# DOI             : 10.1016/j.apradiso.2021.109983
+# Quantity        : natTa(p,x)136Nd cumulative production cross section
+# REACTION        : 73-TA-0(P,X)60-ND-136,CUM,SIG
+# File ID         : p-Ta-x-sigc-excfun-mon-prodNd136_Duchemin_2021_o2561.021
+#
+# npts            : 3           
+# xmin            :   1.0000E+09
+# xmax            :   1.3000E+09
+# ymin            :   5.9100E-03
+# ymax            :   1.3440E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  5.9100E-03  3.0600E-03
+  1.1000E+09  0.0000E+00  7.4200E-03  1.5700E-03
+  1.3000E+09  0.0000E+00  1.3440E-02  2.1000E-03
+#---------------------------------------------------

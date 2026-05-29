@@ -1,0 +1,29 @@
+# EXFOR #         : C3001.003  
+# EXFOR Ver.      : 20241013
+# TRANS #         : C244
+# Author          : J.H.Barker et al.
+# Reference       : Phys.Rev.C 6 (1972) 1795
+# DOI             : 10.1103/PhysRevC.6.1795
+# Quantity        : 138Ba(p,inl)138Ba partial angular differential cross section
+# REACTION        : 56-BA-138(P,INL)56-BA-138,PAR,DA
+# File ID         : p-Ba138-inl-adxc-angdisc-mon-einc2.930E+07_elvl2.270E+06_prodBa138_Barker_1972_c3001.003
+#
+# Einc (eV)       :   2.9300E+07
+# dEinc (eV)      :   3.0000E+05
+# Elvl (eV)       :   2.2700E+06
+#
+# npts            : 4           
+# xmin            :    9.4320000
+# xmax            :   17.3590000
+# ymin            :   2.4250E-04
+# ymax            :   1.4100E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   9.4320000   0.0000000  1.4100E-03  3.4680E-04
+  12.0650000   0.0000000  9.4850E-04  1.8560E-04
+  14.7480000   0.0000000  7.2200E-04  1.8380E-04
+  17.3590000   0.0000000  2.4250E-04  9.5670E-05
+#---------------------------------------------------

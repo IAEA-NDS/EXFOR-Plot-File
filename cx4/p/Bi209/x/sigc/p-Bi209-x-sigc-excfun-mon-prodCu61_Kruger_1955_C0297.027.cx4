@@ -1,0 +1,22 @@
+# EXFOR #         : C0297.027  
+# EXFOR Ver.      : 20070717
+# TRANS #         : C081
+# Author          : P.Kruger et al.
+# Reference       : Phys.Rev. 99 (1955) 1459
+# DOI             : 10.1103/PhysRev.99.1459
+# Quantity        : 209Bi(p,x)61Cu cumulative production cross section
+# REACTION        : 83-BI-209(P,X)29-CU-61,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodCu61_Kruger_1955_c0297.027
+#
+# npts            : 1           
+# xmin            :   4.5000E+08
+# xmax            :   4.5000E+08
+# ymin            :   9.1000E-05
+# ymax            :   9.1000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+08  0.0000E+00  9.1000E-05  0.0000E+00
+#---------------------------------------------------

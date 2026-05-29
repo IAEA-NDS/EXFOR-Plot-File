@@ -1,0 +1,27 @@
+# EXFOR #         : D0640.015  
+# EXFOR Ver.      : 20211202
+# TRANS #         : D133
+# Author          : I.Leya
+# Reference       : Thesis  (1997)
+# DOI             : N/A
+# Quantity        : natV(p,x) independent production cross section
+# REACTION        : 23-V-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-V-x-sig-nucdis-mon-einc1.600E+09_Leya_1997_d0640.015
+#
+# Einc (eV)       :   1.6000E+09
+#
+# npts            : 4           
+# xmin            : 4007.9      
+# xmax            : 21048.9     
+# ymin            :   5.4600E-03
+# ymax            :   1.9400E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      4007.9  5.9300E-03  3.1000E-04
+     21046.9  1.9400E-02  1.1000E-03
+     21047.9  1.3000E-02  7.0000E-04
+     21048.9  5.4600E-03  3.0000E-04
+#---------------------------------------------------

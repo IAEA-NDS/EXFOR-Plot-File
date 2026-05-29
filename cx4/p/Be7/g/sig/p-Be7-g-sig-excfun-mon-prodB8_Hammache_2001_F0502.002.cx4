@@ -1,0 +1,24 @@
+# EXFOR #         : F0502.002  
+# EXFOR Ver.      : 20200617
+# TRANS #         : F078
+# Author          : F.Hammache et al.
+# Reference       : Phys.Rev.Lett. 86 (2001) 3985
+# DOI             : 10.1103/PhysRevLett.86.3985
+# Quantity        : 7Be(p,g)8B cross section
+# REACTION        : 4-BE-7(P,G)5-B-8,,SIG,,SFC
+# File ID         : p-Be7-g-sig-excfun-mon-prodB8_Hammache_2001_f0502.002
+#
+# npts            : 3           
+# xmin            :   1.2774E+05
+# xmax            :   2.1249E+05
+# ymin            :   2.1008E-09
+# ymax            :   1.6706E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2774E+05  0.0000E+00  2.1008E-09  3.5900E-10
+  1.5405E+05  0.0000E+00  5.8069E-09  9.2310E-10
+  2.1249E+05  0.0000E+00  1.6706E-08  2.0397E-09
+#---------------------------------------------------

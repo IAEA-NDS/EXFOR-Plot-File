@@ -1,0 +1,24 @@
+# EXFOR #         : A1319.003  
+# EXFOR Ver.      : 20250913
+# TRANS #         : A125
+# Author          : K.Sagara et al.
+# Reference       : Phys.Rev.C 50 (1994) 576
+# DOI             : 10.1103/PhysRevC.50.576
+# Quantity        : 2H(p,el)2H angular differential cross section
+# REACTION        : 1-H-2(P,EL)1-H-2,,DA
+# File ID         : p-H2-el-adxc-angdisc-mon-einc1.200E+07_prodH2_Sagara_1994_a1319.003
+#
+# Einc (eV)       :   1.2000E+07
+#
+# npts            : 1           
+# xmin            :  123.1100000
+# xmax            :  123.1100000
+# ymin            :   1.2190E-02
+# ymax            :   1.2190E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 123.1100000   0.1200000  1.2190E-02  7.0000E-05
+#---------------------------------------------------

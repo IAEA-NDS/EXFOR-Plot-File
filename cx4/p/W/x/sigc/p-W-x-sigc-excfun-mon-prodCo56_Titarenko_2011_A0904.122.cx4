@@ -1,0 +1,23 @@
+# EXFOR #         : A0904.122  
+# EXFOR Ver.      : 20111209
+# TRANS #         : A075
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 551
+# DOI             : 10.1134/S1063778811040181
+# Quantity        : natW(p,x)56Co cumulative production cross section
+# REACTION        : 74-W-0(P,X)27-CO-56,CUM,SIG
+# File ID         : p-W-x-sigc-excfun-mon-prodCo56_Titarenko_2011_a0904.122
+#
+# npts            : 2           
+# xmin            :   1.1990E+09
+# xmax            :   2.6050E+09
+# ymin            :   9.4000E-05
+# ymax            :   2.1300E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1990E+09  3.0000E+06  9.4000E-05  1.1000E-05
+  2.6050E+09  8.0000E+06  2.1300E-04  2.1000E-05
+#---------------------------------------------------

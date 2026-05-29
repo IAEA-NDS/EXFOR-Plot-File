@@ -1,0 +1,22 @@
+# EXFOR #         : A0419.003  
+# EXFOR Ver.      : 20220804
+# TRANS #         : A101
+# Author          : P.P.Zarubin et al.
+# Reference       : Proceedings of 39.Conf.Nucl.Spectrosc.and Nucl.Struct.,Tashkent 1989 page 281
+# DOI             : N/A
+# Quantity        : 58Fe(p,n)58Co cross section
+# REACTION        : 26-FE-58(P,N)27-CO-58,,SIG
+# File ID         : p-Fe58-n-sig-excfun-mon-prodCo58_Zarubin_1989_a0419.003
+#
+# npts            : 1           
+# xmin            :   5.2000E+06
+# xmax            :   5.2000E+06
+# ymin            :   2.2500E-01
+# ymax            :   2.2500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.2000E+06  0.0000E+00  2.2500E-01  2.0000E-02
+#---------------------------------------------------

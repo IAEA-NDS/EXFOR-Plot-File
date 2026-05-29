@@ -1,0 +1,23 @@
+# EXFOR #         : D7022.017  
+# EXFOR Ver.      : 20170911
+# TRANS #         : D112
+# Author          : L.Mokhtari Oranj et al.
+# Reference       : Phys.Rev.C 95 (2017) 044609
+# DOI             : 10.1103/PhysRevC.95.044609
+# Quantity        : natPb(p,x)202Bi independent production cross section
+# REACTION        : 82-PB-0(P,X)83-BI-202,,SIG
+# File ID         : p-Pb-x-sig-excfun-mon-prodBi202_Mokhtari%Oranj_2017_d7022.017
+#
+# npts            : 2           
+# xmin            :   7.6000E+07
+# xmax            :   1.0000E+08
+# ymin            :   1.1110E-01
+# ymax            :   2.8120E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.6000E+07  2.0000E+06  2.8120E-01  3.5800E-02
+  1.0000E+08  1.0000E+06  1.1110E-01  1.1700E-02
+#---------------------------------------------------

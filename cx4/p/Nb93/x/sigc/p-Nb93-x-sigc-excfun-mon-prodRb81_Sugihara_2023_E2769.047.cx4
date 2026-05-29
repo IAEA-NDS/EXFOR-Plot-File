@@ -1,0 +1,23 @@
+# EXFOR #         : E2769.047  
+# EXFOR Ver.      : 20240314
+# TRANS #         : E141
+# Author          : K.Sugihara et al.
+# Reference       : Nucl.Instrum.Meth.B 545 (2023) 165153
+# DOI             : 10.1016/j.nimb.2023.165153
+# Quantity        : 93Nb(p,x)81Rb cumulative production cross section
+# REACTION        : 41-NB-93(P,X)37-RB-81,CUM,SIG
+# File ID         : p-Nb93-x-sigc-excfun-mon-prodRb81_Sugihara_2023_e2769.047
+#
+# npts            : 2           
+# xmin            :   8.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   2.3200E-02
+# ymax            :   4.0100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  4.0100E-02  1.9000E-03
+  3.0000E+09  0.0000E+00  2.3200E-02  1.1000E-03
+#---------------------------------------------------

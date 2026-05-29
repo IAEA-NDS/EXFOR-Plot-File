@@ -1,0 +1,26 @@
+# EXFOR #         : O0545.008  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : M.M.Stautberg et al.
+# Reference       : Phys.Rev. 151 (1966) 969
+# DOI             : 10.1103/PhysRev.151.969
+# Quantity        : 94Zr(p,inl)94Zr partial angular differential cross section
+# REACTION        : 40-ZR-94(P,INL)40-ZR-94,PAR,DA
+# File ID         : p-Zr94-inl-adxc-lvldis-mon-einc1.940E+07_angc140_prodZr94_Stautberg_1966_o0545.008
+#
+# Einc (eV)       :   1.9400E+07
+# theta,cm (deg)  :  140.0000000
+#
+# npts            : 2           
+# xmin            :   2.8800E+06
+# xmax            :   3.1800E+06
+# ymin            :   4.9000E-05
+# ymax            :   5.2000E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.8800E+06  4.0000E+04  4.9000E-05  5.8800E-06
+  3.1800E+06  4.0000E+04  5.2000E-05  6.2400E-06
+#---------------------------------------------------

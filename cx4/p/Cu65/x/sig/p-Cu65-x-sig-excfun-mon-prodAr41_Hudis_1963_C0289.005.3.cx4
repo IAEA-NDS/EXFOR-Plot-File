@@ -1,0 +1,24 @@
+# EXFOR #         : C0289.005.3
+# EXFOR Ver.      : 19970225
+# TRANS #         : 0000
+# Author          : J.Hudis et al.
+# Reference       : Phys.Rev. 129 (1963) 434
+# DOI             : 10.1103/PhysRev.129.434
+# Quantity        : 65Cu(p,x)41Ar independent production cross section
+# REACTION        : 29-CU-65(P,X)18-AR-41,,SIG
+# File ID         : p-Cu65-x-sig-excfun-mon-prodAr41_Hudis_1963_c0289.005.3
+#
+# npts            : 3           
+# xmin            :   3.0000E+09
+# xmax            :   3.0000E+10
+# ymin            :   7.1000E-04
+# ymax            :   8.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+09  0.0000E+00  8.7000E-04  0.0000E+00
+  2.0000E+10  0.0000E+00  7.1000E-04  0.0000E+00
+  3.0000E+10  0.0000E+00  7.3000E-04  0.0000E+00
+#---------------------------------------------------

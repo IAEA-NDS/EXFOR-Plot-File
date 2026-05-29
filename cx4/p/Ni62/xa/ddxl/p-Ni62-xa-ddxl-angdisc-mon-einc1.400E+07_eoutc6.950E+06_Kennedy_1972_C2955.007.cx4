@@ -1,0 +1,30 @@
+# EXFOR #         : C2955.007  
+# EXFOR Ver.      : 20240606
+# TRANS #         : C238
+# Author          : A.J.Kennedy et al.
+# Reference       : Phys.Rev.C 5 (1972) 500
+# DOI             : 10.1103/PhysRevC.5.500
+# Quantity        : 62Ni(p,a+x) double differential cross section
+# REACTION        : 28-NI-62(P,X)2-HE-4,,DA/DE
+# File ID         : p-Ni62-xa-ddxl-angdisc-mon-einc1.400E+07_eoutc6.950E+06_Kennedy_1972_c2955.007
+#
+# Einc (eV)       :   1.4000E+07
+# Eout,cm (eV)    :   6.9500E+06
+# dEout,cm (eV)   :   1.1500E+06
+#
+# npts            : 5           
+# xmin            :   30.6000000
+# xmax            :  151.1000000
+# ymin            :   2.7210E-10
+# ymax            :   3.5550E-10
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  30.6000000   0.0000000  3.5550E-10  1.8620E-11
+  62.1000000   0.0000000  2.7210E-10  1.3770E-11
+  91.7000000   0.0000000  2.9470E-10  1.4570E-11
+ 121.5000000   0.0000000  2.7610E-10  1.3770E-11
+ 151.1000000   0.0000000  2.8340E-10  1.5380E-11
+#---------------------------------------------------

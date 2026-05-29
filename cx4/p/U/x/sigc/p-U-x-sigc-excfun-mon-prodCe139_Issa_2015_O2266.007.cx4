@@ -1,0 +1,25 @@
+# EXFOR #         : O2266.007  
+# EXFOR Ver.      : 20151017
+# TRANS #         : O055
+# Author          : S.A.M.Issa et al.
+# Reference       : J.Rad.Nucl.Chem. 305 (2015) 345
+# DOI             : 10.1007/s10967-015-3985-9
+# Quantity        : natU(p,f)139Ce cumulative production cross section
+# REACTION        : 92-U-0(P,F)58-CE-139,CUM,SIG
+# File ID         : p-U-x-sigc-excfun-mon-prodCe139_Issa_2015_o2266.007
+#
+# npts            : 4           
+# xmin            :   2.1100E+08
+# xmax            :   2.5300E+09
+# ymin            :   2.6000E-03
+# ymax            :   6.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1100E+08  2.0000E+06  2.6000E-03  2.0000E-04
+  1.0000E+09  2.0000E+06  6.4000E-03  2.0000E-04
+  1.4000E+09  2.0000E+06  4.3000E-03  1.0000E-04
+  2.5300E+09  2.0000E+06  5.1000E-03  2.0000E-04
+#---------------------------------------------------

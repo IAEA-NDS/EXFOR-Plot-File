@@ -1,0 +1,25 @@
+# EXFOR #         : E1615.060  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : K.Miura et al.
+# Reference       : Nucl.Phys.A 436 No.2 (1985) 221
+# DOI             : 10.1016/0375-9474(85)90197-6
+# Quantity        : 142Ce(p,t)140Ce partial angular differential cross section
+# REACTION        : 58-CE-142(P,T)58-CE-140,PAR,DA
+# File ID         : p-Ce142-t-adxc-angdisc-mon-einc5.190E+07_elvl0.000E+00_prodCe140_Miura_1985_e1615.060
+#
+# Einc (eV)       :   5.1900E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   15.2000000
+# xmax            :   15.2000000
+# ymin            :   7.2000E-05
+# ymax            :   7.2000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.2000000   0.0000000  7.2000E-05  6.0000E-06
+#---------------------------------------------------

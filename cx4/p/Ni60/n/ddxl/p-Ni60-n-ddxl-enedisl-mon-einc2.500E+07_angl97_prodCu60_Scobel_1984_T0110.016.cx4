@@ -1,0 +1,26 @@
+# EXFOR #         : T0110.016  
+# EXFOR Ver.      : 20071109
+# TRANS #         : Y004
+# Author          : W.Scobel et al.
+# Reference       : Phys.Rev.C 30 (1984) 1480
+# DOI             : 10.1103/PhysRevC.30.1480
+# Quantity        : 60Ni(p,n)60Cu double differential cross section
+# REACTION        : 28-NI-60(P,N)29-CU-60,,DA/DE
+# File ID         : p-Ni60-n-ddxl-enedisl-mon-einc2.500E+07_angl97_prodCu60_Scobel_1984_t0110.016
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   8.0000E+04
+# theta,lab (deg) :   96.7000000
+#
+# npts            : 1           
+# xmin            :   5.0000E+06
+# xmax            :   5.0000E+06
+# ymin            :   2.2600E-06
+# ymax            :   2.2600E-06
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  5.0000E+06  0.0000E+00  2.2600E-06  5.6800E-07
+#---------------------------------------------------

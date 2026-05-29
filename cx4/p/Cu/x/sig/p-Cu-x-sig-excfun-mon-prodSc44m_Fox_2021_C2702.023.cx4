@@ -1,0 +1,25 @@
+# EXFOR #         : C2702.023  
+# EXFOR Ver.      : 20220120
+# TRANS #         : C215
+# Author          : M.B.Fox et al.
+# Reference       : Phys.Rev.C 104 (2021) 064615
+# DOI             : 10.1103/PhysRevC.104.064615
+# Quantity        : natCu(p,x)44mSc independent production cross section
+# REACTION        : 29-CU-0(P,X)21-SC-44-M,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodSc44m_Fox_2021_c2702.023
+#
+# npts            : 4           
+# xmin            :   1.4886E+08
+# xmax            :   1.9254E+08
+# ymin            :   4.4400E-05
+# ymax            :   2.8900E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9254E+08  4.9000E+05  2.8900E-04  1.2000E-05
+  1.7728E+08  5.2000E+05  1.3380E-04  6.3000E-06
+  1.6349E+08  5.4000E+05  7.8400E-05  8.5000E-06
+  1.4886E+08  5.8000E+05  4.4400E-05  4.0000E-06
+#---------------------------------------------------

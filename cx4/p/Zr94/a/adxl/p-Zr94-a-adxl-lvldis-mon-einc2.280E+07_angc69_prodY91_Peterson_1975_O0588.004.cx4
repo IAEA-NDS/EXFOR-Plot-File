@@ -1,0 +1,26 @@
+# EXFOR #         : O0588.004  
+# EXFOR Ver.      : 20000427
+# TRANS #         : 0000
+# Author          : R.J.Peterson et al.
+# Reference       : Nucl.Phys.A 241 (1975) 253
+# DOI             : 10.1016/0375-9474(75)90316-4
+# Quantity        : 94Zr(p,a)91Y partial angular differential cross section
+# REACTION        : 40-ZR-94(P,A)39-Y-91,PAR,DA
+# File ID         : p-Zr94-a-adxl-lvldis-mon-einc2.280E+07_angc69_prodY91_Peterson_1975_o0588.004
+#
+# Einc (eV)       :   2.2800E+07
+# theta,cm (deg)  :   68.7000000
+# dtheta,cm (deg) :    0.6000000
+#
+# npts            : 1           
+# xmin            :   1.3050E+06
+# xmax            :   1.3050E+06
+# ymin            :   1.8000E-07
+# ymax            :   1.8000E-07
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.3050E+06  0.0000E+00  1.8000E-07  3.0600E-08
+#---------------------------------------------------

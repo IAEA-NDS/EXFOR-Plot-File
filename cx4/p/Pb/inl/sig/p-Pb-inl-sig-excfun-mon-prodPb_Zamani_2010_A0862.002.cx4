@@ -1,0 +1,24 @@
+# EXFOR #         : A0862.002  
+# EXFOR Ver.      : 20110316
+# TRANS #         : A071
+# Author          : M.Zamani et al.
+# Reference       : Ann.Nucl.Energy 37 (2010) 923
+# DOI             : 10.1016/j.anucene.2010.03.015
+# Quantity        : natPb(p,inl)natPb cross section
+# REACTION        : 82-PB-0(P,INL)82-PB-0,,SIG
+# File ID         : p-Pb-inl-sig-excfun-mon-prodPb_Zamani_2010_a0862.002
+#
+# npts            : 3           
+# xmin            :   1.0000E+09
+# xmax            :   2.0000E+09
+# ymin            :   1.6100E+00
+# ymax            :   1.7900E+00
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  1.7900E+00  1.8000E-01
+  1.5000E+09  0.0000E+00  1.6100E+00  1.2000E-01
+  2.0000E+09  0.0000E+00  1.6500E+00  1.0000E-01
+#---------------------------------------------------

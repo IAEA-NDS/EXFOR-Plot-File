@@ -1,0 +1,22 @@
+# EXFOR #         : T0125.007  
+# EXFOR Ver.      : 20001127
+# TRANS #         : 0000
+# Author          : B.W.Shore et al.
+# Reference       : Phys.Rev. 123 (1961) 276
+# DOI             : 10.1103/PhysRev.123.276
+# Quantity        : 65Cu(p,n)65Zn cross section
+# REACTION        : 29-CU-65(P,N)30-ZN-65,,SIG
+# File ID         : p-Cu65-n-sig-excfun-mon-prodZn65_Shore_1961_t0125.007
+#
+# npts            : 1           
+# xmin            :   7.5000E+06
+# xmax            :   7.5000E+06
+# ymin            :   5.3700E-01
+# ymax            :   5.3700E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.5000E+06  0.0000E+00  5.3700E-01  2.1000E-02
+#---------------------------------------------------

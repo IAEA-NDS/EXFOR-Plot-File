@@ -1,0 +1,22 @@
+# EXFOR #         : C0269.012  
+# EXFOR Ver.      : 20211005
+# TRANS #         : C206
+# Author          : L.P.Remsberg et al.
+# Reference       : Phys.Rev. 130 (1963) 2069
+# DOI             : 10.1103/PhysRev.130.2069
+# Quantity        : 52Cr(p,n)52Mn cross section
+# REACTION        : 24-CR-52(P,N)25-MN-52,,SIG
+# File ID         : p-Cr52-n-sig-excfun-mon-prodMn52_Remsberg_1963_c0269.012
+#
+# npts            : 1           
+# xmin            :   3.7000E+08
+# xmax            :   3.7000E+08
+# ymin            :   1.4500E-03
+# ymax            :   1.4500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+08  0.0000E+00  1.4500E-03  1.0000E-04
+#---------------------------------------------------

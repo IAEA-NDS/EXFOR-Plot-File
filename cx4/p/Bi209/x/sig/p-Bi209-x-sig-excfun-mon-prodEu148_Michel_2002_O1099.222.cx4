@@ -1,0 +1,25 @@
+# EXFOR #         : O1099.222  
+# EXFOR Ver.      : 20220120
+# TRANS #         : O087
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)148Eu independent production cross section
+# REACTION        : 83-BI-209(P,X)63-EU-148,,SIG
+# File ID         : p-Bi209-x-sig-excfun-mon-prodEu148_Michel_2002_o1099.222
+#
+# npts            : 4           
+# xmin            :   1.3980E+09
+# xmax            :   2.5980E+09
+# ymin            :   2.1780E-04
+# ymax            :   6.1020E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3980E+09  6.8590E+05  2.1780E-04  4.3360E-05
+  1.5700E+09  1.4700E+06  6.1020E-04  5.6160E-05
+  2.5980E+09  7.2350E+05  5.4140E-04  6.1060E-05
+  2.5980E+09  7.2510E+05  4.4720E-04  1.0910E-04
+#---------------------------------------------------

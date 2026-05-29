@@ -1,0 +1,30 @@
+# EXFOR #         : O0394.032  
+# EXFOR Ver.      : 19970728
+# TRANS #         : 0000
+# Author          : J.B.Ball et al.
+# Reference       : Phys.Rev.C 4 (1971) 196
+# DOI             : 10.1103/PhysRevC.4.196
+# Quantity        : 94Zr(p,t)92Zr partial angular differential cross section
+# REACTION        : 40-ZR-94(P,T)40-ZR-92,PAR,DA,,,EXP
+# File ID         : p-Zr94-t-adxl-angdisc-mon-einc3.800E+07_elvl2.485E+06_prodZr92_Ball_1971_o0394.032
+#
+# Einc (eV)       :   3.8000E+07
+# dEinc (eV)      :   2.5000E+04
+# Elvl (eV)       :   2.4850E+06
+#
+# npts            : 5           
+# xmin            :    5.2800000
+# xmax            :   27.5800000
+# ymin            :   5.0000E-06
+# ymax            :   8.1000E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.2800000   0.3000000  8.1000E-06  1.2960E-06
+  10.7000000   0.3000000  5.0000E-06  1.4000E-06
+  15.4200000   0.3000000  5.9000E-06  8.8500E-07
+  20.1100000   0.3000000  7.6000E-06  9.1200E-07
+  27.5800000   0.3000000  6.3000E-06  6.3000E-07
+#---------------------------------------------------

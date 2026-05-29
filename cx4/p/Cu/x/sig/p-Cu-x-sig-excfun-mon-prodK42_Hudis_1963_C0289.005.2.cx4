@@ -1,0 +1,24 @@
+# EXFOR #         : C0289.005.2
+# EXFOR Ver.      : 19970225
+# TRANS #         : 0000
+# Author          : J.Hudis et al.
+# Reference       : Phys.Rev. 129 (1963) 434
+# DOI             : 10.1103/PhysRev.129.434
+# Quantity        : natCu(p,x)42K independent production cross section
+# REACTION        : 29-CU-0(P,X)19-K-42,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodK42_Hudis_1963_c0289.005.2
+#
+# npts            : 3           
+# xmin            :   3.0000E+09
+# xmax            :   3.0000E+10
+# ymin            :   2.8300E-03
+# ymax            :   3.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+09  0.0000E+00  2.9000E-03  0.0000E+00
+  2.0000E+10  0.0000E+00  3.0000E-03  0.0000E+00
+  3.0000E+10  0.0000E+00  2.8300E-03  0.0000E+00
+#---------------------------------------------------

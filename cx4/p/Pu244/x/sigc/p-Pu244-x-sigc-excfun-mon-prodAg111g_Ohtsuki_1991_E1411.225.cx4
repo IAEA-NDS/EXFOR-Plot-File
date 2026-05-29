@@ -1,0 +1,23 @@
+# EXFOR #         : E1411.225  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : T.Ohtsuki et al.
+# Reference       : Phys.Rev.C 44 (1991) 1405
+# DOI             : 10.1103/PhysRevC.44.1405
+# Quantity        : 244Pu(p,f)111gAg cumulative production cross section
+# REACTION        : 94-PU-244(P,F)47-AG-111-G,(CUM),SIG
+# File ID         : p-Pu244-x-sigc-excfun-mon-prodAg111g_Ohtsuki_1991_e1411.225
+#
+# npts            : 2           
+# xmin            :   1.2000E+07
+# xmax            :   1.4400E+07
+# ymin            :   7.1400E-03
+# ymax            :   1.4400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+07  0.0000E+00  7.1400E-03  6.5000E-04
+  1.4400E+07  0.0000E+00  1.4400E-02  2.4000E-03
+#---------------------------------------------------

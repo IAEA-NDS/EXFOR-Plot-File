@@ -1,0 +1,26 @@
+# EXFOR #         : E1867.009  
+# EXFOR Ver.      : 20240504
+# TRANS #         : E144
+# Author          : K.Sakamoto et al.
+# Reference       : Appl.Radiat.Isot. 36 (1985) 481
+# DOI             : 10.1016/0020-708X(85)90213-3
+# Quantity        : natRb(p,x)85mSr independent production cross section
+# REACTION        : 37-RB-0(P,X)38-SR-85-M,,SIG
+# File ID         : p-Rb-x-sig-excfun-mon-prodSr85m_Sakamoto_1985_e1867.009
+#
+# npts            : 5           
+# xmin            :   1.8560E+07
+# xmax            :   5.0740E+07
+# ymin            :   4.0890E-02
+# ymax            :   9.0810E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8560E+07  1.4250E+06  4.0890E-02  0.0000E+00
+  3.2850E+07  1.2570E+06  9.0810E-02  0.0000E+00
+  3.8890E+07  1.0900E+06  8.7930E-02  0.0000E+00
+  4.4380E+07  1.0060E+06  4.2210E-02  0.0000E+00
+  5.0740E+07  1.1740E+06  4.8560E-02  0.0000E+00
+#---------------------------------------------------

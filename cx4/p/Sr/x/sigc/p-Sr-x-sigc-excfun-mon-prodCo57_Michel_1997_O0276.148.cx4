@@ -1,0 +1,26 @@
+# EXFOR #         : O0276.148  
+# EXFOR Ver.      : 20190827
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 129 (1997) 153
+# DOI             : 10.1016/S0168-583X(97)00213-9
+# Quantity        : natSr(p,x)57Co cumulative production cross section
+# REACTION        : 38-SR-0(P,X)27-CO-57,CUM,SIG
+# File ID         : p-Sr-x-sigc-excfun-mon-prodCo57_Michel_1997_o0276.148
+#
+# npts            : 5           
+# xmin            :   2.8900E+08
+# xmax            :   1.6000E+09
+# ymin            :   8.1600E-05
+# ymax            :   7.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8900E+08  1.7100E+06  8.1600E-05  1.7800E-05
+  5.7400E+08  1.4100E+06  1.4900E-03  1.2000E-04
+  7.7600E+08  1.3800E+06  3.3600E-03  2.4500E-04
+  1.2000E+09  2.0000E+07  6.6400E-03  8.0000E-04
+  1.6000E+09  2.0000E+07  7.8000E-03  9.4000E-04
+#---------------------------------------------------

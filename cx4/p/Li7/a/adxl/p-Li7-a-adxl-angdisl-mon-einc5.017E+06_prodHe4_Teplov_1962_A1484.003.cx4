@@ -1,0 +1,24 @@
+# EXFOR #         : A1484.003  
+# EXFOR Ver.      : 20140302
+# TRANS #         : A081
+# Author          : I.B.Teplov et al.
+# Reference       : Zh.Eksp.Teor.Fiz. 42 No.2 (1962) 353
+# DOI             : N/A
+# Quantity        : 7Li(p,a)4He angular differential cross section
+# REACTION        : 3-LI-7(P,A)2-HE-4,,DA
+# File ID         : p-Li7-a-adxl-angdisl-mon-einc5.017E+06_prodHe4_Teplov_1962_a1484.003
+#
+# Einc (eV)       :   5.0170E+06
+#
+# npts            : 1           
+# xmin            :   80.0000000
+# xmax            :   80.0000000
+# ymin            :   2.2380E-03
+# ymax            :   2.2380E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  80.0000000   0.0000000  2.2380E-03  2.0100E-04
+#---------------------------------------------------

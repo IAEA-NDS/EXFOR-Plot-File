@@ -1,0 +1,24 @@
+# EXFOR #         : C0253.023  
+# EXFOR Ver.      : 20250611
+# TRANS #         : C250
+# Author          : R.G.Korteling et al.
+# Reference       : Phys.Rev.C 1 (1970) 1960
+# DOI             : 10.1103/PhysRevC.1.1960
+# Quantity        : natV(p,x)24Na cumulative production cross section
+# REACTION        : 23-V-0(P,X)11-NA-24,CUM,SIG
+# File ID         : p-V-x-sigc-excfun-mon-prodNa24_Korteling_1970_c0253.023
+#
+# npts            : 3           
+# xmin            :   1.0000E+08
+# xmax            :   3.0000E+08
+# ymin            :   5.9600E-06
+# ymax            :   1.2500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  1.0000E+07  5.9600E-06  5.9000E-07
+  2.0000E+08  1.0000E+07  3.7800E-05  4.0000E-07
+  3.0000E+08  1.0000E+07  1.2500E-04  1.0000E-05
+#---------------------------------------------------

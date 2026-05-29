@@ -1,0 +1,23 @@
+# EXFOR #         : E1829.049  
+# EXFOR Ver.      : 20240608
+# TRANS #         : E149
+# Author          : H.Yashima et al.
+# Reference       : Radiochim.Acta 91 (2003) 689
+# DOI             : 10.1524/ract.91.12.689.23423
+# Quantity        : natCu(p,x)48Cr cumulative production cross section
+# REACTION        : 29-CU-0(P,X)24-CR-48,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodCr48_Yashima_2003_e1829.049
+#
+# npts            : 2           
+# xmin            :   1.7300E+08
+# xmax            :   2.0200E+08
+# ymin            :   5.7000E-05
+# ymax            :   9.3000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7300E+08  0.0000E+00  5.7000E-05  4.0000E-06
+  2.0200E+08  0.0000E+00  9.3000E-05  4.0000E-06
+#---------------------------------------------------

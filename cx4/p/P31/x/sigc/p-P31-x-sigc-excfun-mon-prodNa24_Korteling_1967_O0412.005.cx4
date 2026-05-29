@@ -1,0 +1,22 @@
+# EXFOR #         : O0412.005  
+# EXFOR Ver.      : 20020910
+# TRANS #         : 0000
+# Author          : R.G.Korteling et al.
+# Reference       : J.Inorg.Nucl.Chem. 29 (1967) 2863
+# DOI             : 10.1016/0022-1902(67)80117-9
+# Quantity        : 31P(p,x)24Na cumulative production cross section
+# REACTION        : 15-P-31(P,X)11-NA-24,CUM,SIG
+# File ID         : p-P31-x-sigc-excfun-mon-prodNa24_Korteling_1967_o0412.005
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   6.4400E-03
+# ymax            :   6.4400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  5.0000E+05  6.4400E-03  3.5000E-04
+#---------------------------------------------------

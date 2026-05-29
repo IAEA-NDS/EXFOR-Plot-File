@@ -1,0 +1,24 @@
+# EXFOR #         : O0277.082  
+# EXFOR Ver.      : 19970111
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : 55Mn(p,x)26gAl independent production cross section
+# REACTION        : 25-MN-55(P,X)13-AL-26-G,,SIG
+# File ID         : p-Mn55-x-sig-excfun-mon-prodAl26g_Michel_1995_o0277.082
+#
+# npts            : 3           
+# xmin            :   8.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   9.3000E-04
+# ymax            :   2.4400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  9.3000E-04  1.3000E-04
+  1.2000E+09  0.0000E+00  1.7800E-03  1.9000E-04
+  2.6000E+09  0.0000E+00  2.4400E-03  3.2000E-04
+#---------------------------------------------------

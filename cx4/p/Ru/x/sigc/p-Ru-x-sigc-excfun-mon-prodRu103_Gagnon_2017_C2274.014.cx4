@@ -1,0 +1,27 @@
+# EXFOR #         : C2274.014  
+# EXFOR Ver.      : 20170919
+# TRANS #         : C170
+# Author          : K.Gagnon et al.
+# Reference       : J.Lab.Comp.Radioph. 60 (2017) S324
+# DOI             : N/A
+# Quantity        : natRu(p,x)103Ru cumulative production cross section
+# REACTION        : 44-RU-0(P,X)44-RU-103,(CUM),SIG
+# File ID         : p-Ru-x-sigc-excfun-mon-prodRu103_Gagnon_2017_c2274.014
+#
+# npts            : 6           
+# xmin            :   1.2700E+07
+# xmax            :   1.7400E+07
+# ymin            :   6.0000E-04
+# ymax            :   1.0730E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2700E+07  2.0000E+05  6.0000E-04  4.0000E-04
+  1.3400E+07  3.0000E+05  1.7100E-03  3.7000E-04
+  1.4700E+07  2.0000E+05  2.9700E-03  5.0000E-04
+  1.5500E+07  2.0000E+05  5.3900E-03  5.8000E-04
+  1.6600E+07  2.0000E+05  7.7500E-03  7.6000E-04
+  1.7400E+07  2.0000E+05  1.0730E-02  9.1000E-04
+#---------------------------------------------------

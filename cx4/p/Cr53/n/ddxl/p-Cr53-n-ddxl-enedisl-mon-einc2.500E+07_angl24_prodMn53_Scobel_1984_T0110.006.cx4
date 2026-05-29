@@ -1,0 +1,26 @@
+# EXFOR #         : T0110.006  
+# EXFOR Ver.      : 20071109
+# TRANS #         : Y004
+# Author          : W.Scobel et al.
+# Reference       : Phys.Rev.C 30 (1984) 1480
+# DOI             : 10.1103/PhysRevC.30.1480
+# Quantity        : 53Cr(p,n)53Mn double differential cross section
+# REACTION        : 24-CR-53(P,N)25-MN-53,,DA/DE
+# File ID         : p-Cr53-n-ddxl-enedisl-mon-einc2.500E+07_angl24_prodMn53_Scobel_1984_t0110.006
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   8.0000E+04
+# theta,lab (deg) :   23.8000000
+#
+# npts            : 1           
+# xmin            :   4.8900E+06
+# xmax            :   4.8900E+06
+# ymin            :   6.9600E-06
+# ymax            :   6.9600E-06
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  4.8900E+06  0.0000E+00  6.9600E-06  4.6200E-07
+#---------------------------------------------------

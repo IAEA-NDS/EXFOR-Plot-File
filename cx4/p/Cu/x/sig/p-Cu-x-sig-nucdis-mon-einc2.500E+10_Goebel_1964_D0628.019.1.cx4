@@ -1,0 +1,26 @@
+# EXFOR #         : D0628.019.1
+# EXFOR Ver.      : 20100818
+# TRANS #         : D074
+# Author          : K.Goebel et al.
+# Reference       : Report CERN-64-12, 1964
+# DOI             : N/A
+# Quantity        : natCu(p,x) independent production cross section
+# REACTION        : 29-CU-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Cu-x-sig-nucdis-mon-einc2.500E+10_Goebel_1964_d0628.019.1
+#
+# Einc (eV)       :   2.5000E+10
+#
+# npts            : 3           
+# xmin            : 1003.9      
+# xmax            : 18039.9     
+# ymin            :   4.8000E-03
+# ymax            :   1.4400E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      1003.9  1.4400E-01  2.0000E-02
+     18037.9  4.8000E-03  4.0000E-04
+     18039.9  5.5000E-03  1.0000E-03
+#---------------------------------------------------

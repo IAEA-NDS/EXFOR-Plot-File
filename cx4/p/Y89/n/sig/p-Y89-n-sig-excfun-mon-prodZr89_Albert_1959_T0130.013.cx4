@@ -1,0 +1,23 @@
+# EXFOR #         : T0130.013  
+# EXFOR Ver.      : 20011129
+# TRANS #         : 0000
+# Author          : R.D.Albert
+# Reference       : Phys.Rev. 115 (1959) 925
+# DOI             : 10.1103/PhysRev.115.925
+# Quantity        : 89Y(p,n)89Zr cross section
+# REACTION        : 39-Y-89(P,N)40-ZR-89,,SIG
+# File ID         : p-Y89-n-sig-excfun-mon-prodZr89_Albert_1959_t0130.013
+#
+# npts            : 2           
+# xmin            :   7.0000E+06
+# xmax            :   8.1000E+06
+# ymin            :   2.5400E-01
+# ymax            :   3.2300E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0000E+06  0.0000E+00  2.5400E-01  3.8100E-02
+  8.1000E+06  0.0000E+00  3.2300E-01  4.8450E-02
+#---------------------------------------------------

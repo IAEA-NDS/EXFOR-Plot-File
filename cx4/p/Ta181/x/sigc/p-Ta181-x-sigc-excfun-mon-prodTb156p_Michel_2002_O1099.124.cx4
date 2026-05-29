@@ -1,0 +1,22 @@
+# EXFOR #         : O1099.124  
+# EXFOR Ver.      : 20220120
+# TRANS #         : O087
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 181Ta(p,x)156g+m1Tb cumulative production cross section
+# REACTION        : 73-TA-181(P,X)65-TB-156-G+M1,M+,SIG
+# File ID         : p-Ta181-x-sigc-excfun-mon-prodTb156p_Michel_2002_o1099.124
+#
+# npts            : 1           
+# xmin            :   5.6100E+08
+# xmax            :   5.6100E+08
+# ymin            :   3.3100E-04
+# ymax            :   3.3100E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.6100E+08  1.0000E+06  3.3100E-04  1.0100E-04
+#---------------------------------------------------

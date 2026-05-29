@@ -1,0 +1,22 @@
+# EXFOR #         : A0513.014  
+# EXFOR Ver.      : 20220814
+# TRANS #         : A102
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : Proceedings of 41.Conf.Nucl.Spectroscopy Nucl.Struct.,Minsk 1991 page 488
+# DOI             : N/A
+# Quantity        : natZr(p,x)73gSe cumulative production cross section
+# REACTION        : 40-ZR-0(P,X)34-SE-73-G,CUM,SIG
+# File ID         : p-Zr-x-sigc-excfun-mon-prodSe73g_Aleksandrov_1991_a0513.014
+#
+# npts            : 1           
+# xmin            :   6.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   1.1200E-02
+# ymax            :   1.1200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  1.1200E-02  4.0000E-04
+#---------------------------------------------------

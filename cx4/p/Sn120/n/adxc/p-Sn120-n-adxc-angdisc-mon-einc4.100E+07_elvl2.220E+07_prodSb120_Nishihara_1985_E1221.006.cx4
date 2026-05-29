@@ -1,0 +1,28 @@
+# EXFOR #         : E1221.006  
+# EXFOR Ver.      : 20190718
+# TRANS #         : E123
+# Author          : S.Nishihara et al.
+# Reference       : Phys.Lett.B 160 (1985) 369
+# DOI             : 10.1016/0370-2693(85)90003-6
+# Quantity        : 120Sn(p,n)120Sb partial angular differential cross section
+# REACTION        : 50-SN-120(P,N)51-SB-120,PAR,DA
+# File ID         : p-Sn120-n-adxc-angdisc-mon-einc4.100E+07_elvl2.220E+07_prodSb120_Nishihara_1985_e1221.006
+#
+# Einc (eV)       :   4.1000E+07
+# Elvl (eV)       :   2.2200E+07
+#
+# npts            : 4           
+# xmin            :    3.3300000
+# xmax            :   20.6610000
+# ymin            :   2.4810E-03
+# ymax            :   3.7890E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   3.3300000   0.0000000  3.7890E-03  4.7590E-04
+  10.3170000   0.0000000  3.1140E-03  4.4730E-04
+  15.6300000   0.0000000  2.4810E-03  3.9940E-04
+  20.6610000   0.0000000  2.8080E-03  4.5210E-04
+#---------------------------------------------------

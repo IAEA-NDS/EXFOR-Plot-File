@@ -1,0 +1,29 @@
+# EXFOR #         : O1744.005  
+# EXFOR Ver.      : 20090505
+# TRANS #         : O040
+# Author          : D.A.Meyer et al.
+# Reference       : Phys.Rev.C 74 (2006) 044309
+# DOI             : 10.1103/PhysRevC.74.044309
+# Quantity        : 178Hf(p,t)176Hf partial angular differential cross section
+# REACTION        : 72-HF-178(P,T)72-HF-176,PAR,DA
+# File ID         : p-Hf178-t-adxl-angdisl-mon-einc2.500E+07_elvl2.490E+06_prodHf176_Meyer_2006_o1744.005
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   3.0000E+03
+# Elvl (eV)       :   2.4898E+06
+# dElvl (eV)      :   7.0000E+02
+#
+# npts            : 3           
+# xmin            :    5.0000000
+# xmax            :   30.0000000
+# ymin            :   1.4000E-06
+# ymax            :   6.2000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.0000000   0.0000000  6.2000E-06  3.0000E-07
+  17.5000000   0.0000000  1.4000E-06  2.0000E-07
+  30.0000000   0.0000000  1.8000E-06  1.0000E-07
+#---------------------------------------------------

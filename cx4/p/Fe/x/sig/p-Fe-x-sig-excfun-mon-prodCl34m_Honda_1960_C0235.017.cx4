@@ -1,0 +1,23 @@
+# EXFOR #         : C0235.017  
+# EXFOR Ver.      : 19871103
+# TRANS #         : 0000
+# Author          : M.Honda et al.
+# Reference       : Phys.Rev. 118 (1960) 1618
+# DOI             : 10.1103/PhysRev.118.1618
+# Quantity        : natFe(p,x)34mCl independent production cross section
+# REACTION        : 26-FE-0(P,X)17-CL-34-M,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodCl34m_Honda_1960_c0235.017
+#
+# npts            : 2           
+# xmin            :   5.0000E+08
+# xmax            :   7.3000E+08
+# ymin            :   3.8000E-04
+# ymax            :   5.9000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+08  0.0000E+00  3.8000E-04  0.0000E+00
+  7.3000E+08  0.0000E+00  5.9000E-04  0.0000E+00
+#---------------------------------------------------

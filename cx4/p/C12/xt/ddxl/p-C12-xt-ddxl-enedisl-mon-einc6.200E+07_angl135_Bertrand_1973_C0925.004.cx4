@@ -1,0 +1,30 @@
+# EXFOR #         : C0925.004  
+# EXFOR Ver.      : 20040511
+# TRANS #         : 0000
+# Author          : F.E.Bertrand et al.
+# Reference       : Phys.Rev.C 8 (1973) 1045
+# DOI             : 10.1103/PhysRevC.8.1045
+# Quantity        : 12C(p,t+x) double differential cross section
+# REACTION        : 6-C-12(P,X)1-H-3,,DA/DE
+# File ID         : p-C12-xt-ddxl-enedisl-mon-einc6.200E+07_angl135_Bertrand_1973_c0925.004
+#
+# Einc (eV)       :   6.2000E+07
+# theta,lab (deg) :  135.0000000
+#
+# npts            : 6           
+# xmin            :   6.5000E+06
+# xmax            :   1.6450E+07
+# ymin            :   0.0000E+00
+# ymax            :   2.2000E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  6.5000E+06  0.0000E+00  2.2000E-11  2.0000E-12
+  8.4900E+06  0.0000E+00  1.4000E-11  1.0000E-12
+  1.0480E+07  0.0000E+00  7.0000E-12  1.0000E-12
+  1.2470E+07  0.0000E+00  5.0000E-12  1.0000E-12
+  1.4860E+07  0.0000E+00  3.0000E-12  1.0000E-12
+  1.6450E+07  0.0000E+00  0.0000E+00  6.0000E-12
+#---------------------------------------------------

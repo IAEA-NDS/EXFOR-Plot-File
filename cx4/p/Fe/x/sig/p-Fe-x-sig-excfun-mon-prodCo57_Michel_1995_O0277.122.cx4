@@ -1,0 +1,25 @@
+# EXFOR #         : O0277.122  
+# EXFOR Ver.      : 20190830
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natFe(p,x)57Co independent production cross section
+# REACTION        : 26-FE-0(P,X)27-CO-57,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodCo57_Michel_1995_o0277.122
+#
+# npts            : 4           
+# xmin            :   8.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   3.4400E-04
+# ymax            :   5.6500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  3.4400E-04  2.6000E-05
+  1.2000E+09  0.0000E+00  4.5800E-04  3.5000E-05
+  1.6000E+09  0.0000E+00  5.6500E-04  4.7000E-05
+  2.6000E+09  0.0000E+00  5.5500E-04  4.8000E-05
+#---------------------------------------------------

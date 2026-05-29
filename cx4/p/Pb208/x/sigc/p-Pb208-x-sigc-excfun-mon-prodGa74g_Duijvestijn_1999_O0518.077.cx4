@@ -1,0 +1,22 @@
+# EXFOR #         : O0518.077  
+# EXFOR Ver.      : 20010115
+# TRANS #         : 0000
+# Author          : M.C.Duijvestijn et al.
+# Reference       : Phys.Rev.C 59 (1999) 776
+# DOI             : 10.1103/PhysRevC.59.776
+# Quantity        : 208Pb(p,f)74gGa cumulative production cross section
+# REACTION        : 82-PB-208(P,F)31-GA-74-G,CUM,SIG
+# File ID         : p-Pb208-x-sigc-excfun-mon-prodGa74g_Duijvestijn_1999_o0518.077
+#
+# npts            : 1           
+# xmin            :   1.9000E+08
+# xmax            :   1.9000E+08
+# ymin            :   4.3000E-04
+# ymax            :   4.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9000E+08  0.0000E+00  4.3000E-04  1.1000E-04
+#---------------------------------------------------

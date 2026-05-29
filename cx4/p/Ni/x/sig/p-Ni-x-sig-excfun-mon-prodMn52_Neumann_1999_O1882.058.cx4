@@ -1,0 +1,23 @@
+# EXFOR #         : O1882.058  
+# EXFOR Ver.      : 20101220
+# TRANS #         : O044
+# Author          : S.Neumann
+# Reference       : Thesis  (1999)
+# DOI             : N/A
+# Quantity        : natNi(p,x)52Mn independent production cross section
+# REACTION        : 28-NI-0(P,X)25-MN-52,IND,SIG
+# File ID         : p-Ni-x-sig-excfun-mon-prodMn52_Neumann_1999_o1882.058
+#
+# npts            : 2           
+# xmin            :   9.5700E+08
+# xmax            :   2.6000E+09
+# ymin            :   9.4000E-03
+# ymax            :   1.4100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5700E+08  2.0000E+06  1.4100E-02  1.8000E-03
+  2.6000E+09  1.0000E+06  9.4000E-03  1.1900E-03
+#---------------------------------------------------

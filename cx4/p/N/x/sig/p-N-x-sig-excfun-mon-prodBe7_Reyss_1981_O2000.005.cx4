@@ -1,0 +1,23 @@
+# EXFOR #         : O2000.005  
+# EXFOR Ver.      : 20120808
+# TRANS #         : O049
+# Author          : J.-L.Reyss et al.
+# Reference       : Earth Plan.Sci.Lett. 53 (1981) 203
+# DOI             : 10.1016/0012-821X(81)90154-0
+# Quantity        : natN(p,x)7Be independent production cross section
+# REACTION        : 7-N-0(P,X)4-BE-7,,SIG
+# File ID         : p-N-x-sig-excfun-mon-prodBe7_Reyss_1981_o2000.005
+#
+# npts            : 2           
+# xmin            :   4.5000E+08
+# xmax            :   2.9800E+09
+# ymin            :   9.0000E-03
+# ymax            :   9.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+08  0.0000E+00  9.0000E-03  2.1000E-03
+  2.9800E+09  0.0000E+00  9.3000E-03  2.1000E-03
+#---------------------------------------------------

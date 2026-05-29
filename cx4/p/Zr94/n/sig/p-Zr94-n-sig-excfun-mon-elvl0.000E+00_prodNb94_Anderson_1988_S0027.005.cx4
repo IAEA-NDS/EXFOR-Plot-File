@@ -1,0 +1,25 @@
+# EXFOR #         : S0027.005  
+# EXFOR Ver.      : 20080311
+# TRANS #         : Y006
+# Author          : J.D.Anderson et al.
+# Reference       : Phys.Rev.C 38 (1988) 1601
+# DOI             : 10.1103/PhysRevC.38.1601
+# Quantity        : 94Zr(p,n)94Nb partial cross section
+# REACTION        : 40-ZR-94(P,N)41-NB-94,PAR,SIG
+# File ID         : p-Zr94-n-sig-excfun-mon-elvl0.000E+00_prodNb94_Anderson_1988_s0027.005
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :   1.8000E+07
+# xmax            :   2.5000E+07
+# ymin            :   6.1000E-03
+# ymax            :   9.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8000E+07  0.0000E+00  9.4000E-03  5.0000E-04
+  2.5000E+07  0.0000E+00  6.1000E-03  3.0000E-04
+#---------------------------------------------------

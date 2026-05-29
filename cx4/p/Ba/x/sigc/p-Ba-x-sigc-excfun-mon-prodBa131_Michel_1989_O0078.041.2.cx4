@@ -1,0 +1,22 @@
+# EXFOR #         : O0078.041.2
+# EXFOR Ver.      : 20220201
+# TRANS #         : O088
+# Author          : R.Michel et al.
+# Reference       : Analyst (London) 114 (1989) 287
+# DOI             : N/A
+# Quantity        : natBa(p,x)131Ba cumulative production cross section
+# REACTION        : 56-BA-0(P,X)56-BA-131,CUM,SIG
+# File ID         : p-Ba-x-sigc-excfun-mon-prodBa131_Michel_1989_o0078.041.2
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   3.0100E-02
+# ymax            :   3.0100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  3.0100E-02  1.2000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : O0204.034  
+# EXFOR Ver.      : 20190823
+# TRANS #         : O071
+# Author          : S.Regnier et al.
+# Reference       : Phys.Rev.C 26 (1982) 931
+# DOI             : 10.1103/PhysRevC.26.931
+# Quantity        : 90Zr(p,x)86Kr cumulative production cross section
+# REACTION        : 40-ZR-90(P,X)36-KR-86,CUM,SIG
+# File ID         : p-Zr90-x-sigc-excfun-mon-prodKr86_Regnier_1982_o0204.034
+#
+# npts            : 5           
+# xmin            :   1.6800E+08
+# xmax            :   2.4000E+10
+# ymin            :   1.2400E-05
+# ymax            :   1.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6800E+08  0.0000E+00  1.2400E-05  1.6000E-06
+  2.0000E+08  0.0000E+00  3.8000E-05  6.0000E-06
+  1.0050E+09  0.0000E+00  7.4000E-05  1.9000E-05
+  2.5000E+09  0.0000E+00  7.0000E-05  7.0000E-06
+  2.4000E+10  0.0000E+00  1.1000E-04  1.0000E-05
+#---------------------------------------------------

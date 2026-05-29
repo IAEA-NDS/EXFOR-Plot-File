@@ -1,0 +1,29 @@
+# EXFOR #         : E2007.010  
+# EXFOR Ver.      : 20190125
+# TRANS #         : E122
+# Author          : Y.Uozumi et al.
+# Reference       : Nucl.Instrum.Meth.A 571 (2007) 743
+# DOI             : 10.1016/j.nima.2006.11.022
+# Quantity        : 9Be(p,p+x) double differential cross section
+# REACTION        : 4-BE-9(P,X)1-H-1,,DA/DE
+# File ID         : p-Be9-xp-ddxl-enedisl-mon-einc3.920E+08_angl60_Uozumi_2007_e2007.010
+#
+# Einc (eV)       :   3.9200E+08
+# theta,lab (deg) :   60.0000000
+#
+# npts            : 5           
+# xmin            :   4.5000E+06
+# xmax            :   8.5000E+06
+# ymin            :   1.6270E-10
+# ymax            :   2.2780E-10
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  4.5000E+06  0.0000E+00  2.2780E-10  3.1650E-12
+  5.5000E+06  0.0000E+00  1.9150E-10  2.9020E-12
+  6.5000E+06  0.0000E+00  1.8400E-10  2.8450E-12
+  7.5000E+06  0.0000E+00  1.7260E-10  2.7560E-12
+  8.5000E+06  0.0000E+00  1.6270E-10  2.6750E-12
+#---------------------------------------------------

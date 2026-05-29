@@ -1,0 +1,22 @@
+# EXFOR #         : E1866.004  
+# EXFOR Ver.      : 20061121
+# TRANS #         : E040
+# Author          : Y.Yoshizawa et al.
+# Reference       : Nucl.Intrum.Meth. 134 No.1 (1976) 93
+# DOI             : 10.1016/0029-554X(76)90128-2
+# Quantity        : natCu(p,x)60Zn independent production cross section
+# REACTION        : 29-CU-0(P,X)30-ZN-60,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodZn60_Yoshizawa_1976_e1866.004
+#
+# npts            : 1           
+# xmin            :   4.7380E+07
+# xmax            :   4.7380E+07
+# ymin            :   2.3500E-04
+# ymax            :   2.3500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.7380E+07  0.0000E+00  2.3500E-04  2.4390E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C0253.025  
+# EXFOR Ver.      : 20250611
+# TRANS #         : C250
+# Author          : R.G.Korteling et al.
+# Reference       : Phys.Rev.C 1 (1970) 1960
+# DOI             : 10.1103/PhysRevC.1.1960
+# Quantity        : 55Mn(p,x)24Na cumulative production cross section
+# REACTION        : 25-MN-55(P,X)11-NA-24,CUM,SIG
+# File ID         : p-Mn55-x-sigc-excfun-mon-prodNa24_Korteling_1970_c0253.025
+#
+# npts            : 1           
+# xmin            :   1.0000E+08
+# xmax            :   1.0000E+08
+# ymin            :   5.8400E-06
+# ymax            :   5.8400E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  1.0000E+07  5.8400E-06  4.6000E-06
+#---------------------------------------------------

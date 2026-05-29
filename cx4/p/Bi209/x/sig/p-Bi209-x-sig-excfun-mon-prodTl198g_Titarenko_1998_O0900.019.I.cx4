@@ -1,0 +1,22 @@
+# EXFOR #         : O0900.019.I
+# EXFOR Ver.      : 20160826
+# TRANS #         : O058
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Nucl.Instrum.Meth.A 414 (1998) 73
+# DOI             : 10.1016/S0168-9002(98)00530-0
+# Quantity        : 209Bi(p,x)198gTl independent production cross section
+# REACTION        : 83-BI-209(P,X)81-TL-198-G,IND,SIG
+# File ID         : p-Bi209-x-sig-excfun-mon-prodTl198g_Titarenko_1998_o0900.019.i
+#
+# npts            : 1           
+# xmin            :   1.3000E+08
+# xmax            :   1.3000E+08
+# ymin            :   4.8000E-03
+# ymax            :   4.8000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  0.0000E+00  4.8000E-03  3.6000E-03
+#---------------------------------------------------

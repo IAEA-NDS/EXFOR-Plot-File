@@ -1,0 +1,23 @@
+# EXFOR #         : D4212.007  
+# EXFOR Ver.      : 20090324
+# TRANS #         : D066
+# Author          : F.Ditroi et al.
+# Reference       : Nucl.Instrum.Meth.B 266 (2008) 5087
+# DOI             : 10.1016/j.nimb.2008.09.023
+# Quantity        : 93Nb(p,x)86Zr independent production cross section
+# REACTION        : 41-NB-93(P,X)40-ZR-86,,SIG
+# File ID         : p-Nb93-x-sig-excfun-mon-prodZr86_Ditroi_2008_d4212.007
+#
+# npts            : 2           
+# xmin            :   5.8690E+07
+# xmax            :   6.7110E+07
+# ymin            :   7.4000E-04
+# ymax            :   8.9700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.7110E+07  4.0000E+05  8.9700E-03  9.9000E-04
+  5.8690E+07  7.0000E+05  7.4000E-04  1.8000E-04
+#---------------------------------------------------

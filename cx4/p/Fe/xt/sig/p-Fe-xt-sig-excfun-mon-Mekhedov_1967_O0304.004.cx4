@@ -1,0 +1,23 @@
+# EXFOR #         : O0304.004  
+# EXFOR Ver.      : 20120523
+# TRANS #         : O048
+# Author          : V.N.Mekhedov
+# Reference       : Yad.Fiz. 5 (1967) 34
+# DOI             : N/A
+# Quantity        : natFe(p,t+x) cross section
+# REACTION        : 26-FE-0(P,X)1-H-3,,SIG
+# File ID         : p-Fe-xt-sig-excfun-mon-Mekhedov_1967_o0304.004
+#
+# npts            : 2           
+# xmin            :   1.3000E+08
+# xmax            :   4.5000E+08
+# ymin            :   6.4000E-03
+# ymax            :   3.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  0.0000E+00  6.4000E-03  1.5000E-03
+  4.5000E+08  0.0000E+00  3.4000E-02  8.0000E-03
+#---------------------------------------------------

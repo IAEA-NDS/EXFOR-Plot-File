@@ -1,0 +1,22 @@
+# EXFOR #         : E2791.005  
+# EXFOR Ver.      : 20241228
+# TRANS #         : E151
+# Author          : T.Koiwai et al.
+# Reference       : Phys.Lett.B 827 (2022) 136953
+# DOI             : 10.1016/j.physletb.2022.136953
+# Quantity        : 56Ca(p,n+p)55Ca cross section
+# REACTION        : 20-CA-56(P,N+P)20-CA-55,,SIG
+# File ID         : p-Ca56-np-sig-excfun-mon-prodCa55_Koiwai_2022_e2791.005
+#
+# npts            : 1           
+# xmin            :   2.5000E+08
+# xmax            :   2.5000E+08
+# ymin            :   2.7900E-02
+# ymax            :   2.7900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+08  0.0000E+00  2.7900E-02  2.3000E-03
+#---------------------------------------------------

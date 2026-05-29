@@ -1,0 +1,22 @@
+# EXFOR #         : O0088.007  
+# EXFOR Ver.      : 20151123
+# TRANS #         : O056
+# Author          : H.Weigel et al.
+# Reference       : Radioch.Radioan.Let. 21 (1975) 293
+# DOI             : N/A
+# Quantity        : natFe(p,x)52gMn cumulative production cross section
+# REACTION        : 26-FE-0(P,X)25-MN-52-G,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodMn52g_Weigel_1975_o0088.007
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   6.3000E-03
+# ymax            :   6.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  6.3000E-03  1.5000E-03
+#---------------------------------------------------

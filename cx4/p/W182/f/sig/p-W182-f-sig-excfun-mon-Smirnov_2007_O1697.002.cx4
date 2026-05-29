@@ -1,0 +1,27 @@
+# EXFOR #         : O1697.002  
+# EXFOR Ver.      : 20081115
+# TRANS #         : O037
+# Author          : A.N.Smirnov et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 2 page 1095
+# DOI             : N/A
+# Quantity        : 182W(p,f) cross section
+# REACTION        : 74-W-182(P,F),,SIG
+# File ID         : p-W182-f-sig-excfun-mon-Smirnov_2007_o1697.002
+#
+# npts            : 6           
+# xmin            :   4.0400E+07
+# xmax            :   1.6960E+08
+# ymin            :   4.8000E-06
+# ymax            :   4.8500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0400E+07  2.0000E+05  4.8000E-06  7.0000E-07
+  4.3500E+07  9.0000E+05  1.1000E-05  2.0000E-06
+  5.9200E+07  1.0000E+06  9.0000E-05  2.0000E-05
+  9.3200E+07  1.0000E+06  1.2400E-03  1.7000E-04
+  1.3050E+08  1.0000E+06  2.9300E-03  3.5000E-04
+  1.6960E+08  1.0000E+06  4.8500E-03  5.8000E-04
+#---------------------------------------------------

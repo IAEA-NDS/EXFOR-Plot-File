@@ -1,0 +1,25 @@
+# EXFOR #         : D4104.016  
+# EXFOR Ver.      : 20210929
+# TRANS #         : D132
+# Author          : R.L.Wilson et al.
+# Reference       : Phys.Rev.C 13 (1976) 976
+# DOI             : 10.1103/PhysRevC.13.976
+# Quantity        : natSi(p,x)29P independent production cross section
+# REACTION        : 14-SI-0(P,X)15-P-29,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodP29_Wilson_1976_d4104.016
+#
+# npts            : 4           
+# xmin            :   1.3450E+07
+# xmax            :   2.6250E+07
+# ymin            :   1.8000E-05
+# ymax            :   7.8000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3450E+07  5.5000E+05  1.8000E-05  2.0000E-06
+  1.7900E+07  5.0000E+05  1.8000E-04  5.0000E-05
+  2.1950E+07  5.5000E+05  3.6000E-04  7.0000E-05
+  2.6250E+07  4.5000E+05  7.8000E-04  3.3000E-04
+#---------------------------------------------------

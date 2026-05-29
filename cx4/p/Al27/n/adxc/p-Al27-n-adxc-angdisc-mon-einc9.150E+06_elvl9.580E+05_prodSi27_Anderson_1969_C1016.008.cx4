@@ -1,0 +1,28 @@
+# EXFOR #         : C1016.008  
+# EXFOR Ver.      : 20040407
+# TRANS #         : 0000
+# Author          : J.D.Anderson et al.
+# Reference       : Phys.Rev. 177 (1969) 1416
+# DOI             : 10.1103/PhysRev.177.1416
+# Quantity        : 27Al(p,n)27Si partial angular differential cross section
+# REACTION        : 13-AL-27(P,N)14-SI-27,PAR,DA
+# File ID         : p-Al27-n-adxc-angdisc-mon-einc9.150E+06_elvl9.580E+05_prodSi27_Anderson_1969_c1016.008
+#
+# Einc (eV)       :   9.1500E+06
+# Elvl (eV)       :   9.5800E+05
+#
+# npts            : 4           
+# xmin            :   16.6645700
+# xmax            :   63.4486300
+# ymin            :   5.4000E-04
+# ymax            :   8.6000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.6645700   0.0000000  8.6000E-04  9.0000E-05
+  32.4350400   0.0000000  6.9000E-04  6.0000E-05
+  47.6234500   0.0000000  6.3000E-04  7.0000E-05
+  63.4486300   0.0000000  5.4000E-04  6.0000E-05
+#---------------------------------------------------

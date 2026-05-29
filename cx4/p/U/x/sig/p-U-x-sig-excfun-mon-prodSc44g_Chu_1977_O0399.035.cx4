@@ -1,0 +1,25 @@
+# EXFOR #         : O0399.035  
+# EXFOR Ver.      : 20020909
+# TRANS #         : 0000
+# Author          : Y.Y.Chu et al.
+# Reference       : Phys.Rev.C 15 (1977) 352
+# DOI             : 10.1103/PhysRevC.15.352
+# Quantity        : natU(p,x)44gSc independent production cross section
+# REACTION        : 92-U-0(P,X)21-SC-44-G,IND,SIG
+# File ID         : p-U-x-sig-excfun-mon-prodSc44g_Chu_1977_o0399.035
+#
+# npts            : 4           
+# xmin            :   1.0000E+09
+# xmax            :   2.8500E+10
+# ymin            :   5.6000E-06
+# ymax            :   3.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  5.6000E-06  2.0000E-06
+  2.0000E+09  0.0000E+00  7.9000E-05  2.0000E-05
+  3.0000E+09  0.0000E+00  2.1000E-04  7.0000E-05
+  2.8500E+10  0.0000E+00  3.2000E-04  3.0000E-05
+#---------------------------------------------------

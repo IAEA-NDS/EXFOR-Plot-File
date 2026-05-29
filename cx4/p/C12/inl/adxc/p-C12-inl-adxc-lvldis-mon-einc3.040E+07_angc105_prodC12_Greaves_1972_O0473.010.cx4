@@ -1,0 +1,26 @@
+# EXFOR #         : O0473.010  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : P.D.Greaves et al.
+# Reference       : Nucl.Phys.A 179 (1972) 1
+# DOI             : N/A
+# Quantity        : 12C(p,inl)12C partial angular differential cross section
+# REACTION        : 6-C-12(P,INL)6-C-12,PAR,DA
+# File ID         : p-C12-inl-adxc-lvldis-mon-einc3.040E+07_angc105_prodC12_Greaves_1972_o0473.010
+#
+# Einc (eV)       :   3.0400E+07
+# theta,cm (deg)  :  105.1000000
+# dtheta,cm (deg) :    0.7000000
+#
+# npts            : 1           
+# xmin            :   7.6500E+06
+# xmax            :   7.6500E+06
+# ymin            :   1.0100E-04
+# ymax            :   1.0100E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.6500E+06  0.0000E+00  1.0100E-04  5.0500E-06
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : D0628.013.1
+# EXFOR Ver.      : 20100818
+# TRANS #         : D074
+# Author          : K.Goebel et al.
+# Reference       : Report CERN-64-12, 1964
+# DOI             : N/A
+# Quantity        : natFe(p,x) independent production cross section
+# REACTION        : 26-FE-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Fe-x-sig-nucdis-mon-einc2.500E+10_Goebel_1964_d0628.013.1
+#
+# Einc (eV)       :   2.5000E+10
+#
+# npts            : 3           
+# xmin            : 1003.9      
+# xmax            : 18039.9     
+# ymin            :   6.1000E-03
+# ymax            :   1.0400E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      1003.9  1.0400E-01  1.0000E-02
+     18037.9  6.1000E-03  3.0000E-04
+     18039.9  1.0900E-02  1.0000E-03
+#---------------------------------------------------

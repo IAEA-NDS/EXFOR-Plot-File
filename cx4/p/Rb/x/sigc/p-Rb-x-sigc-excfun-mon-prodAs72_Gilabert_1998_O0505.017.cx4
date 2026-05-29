@@ -1,0 +1,25 @@
+# EXFOR #         : O0505.017  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : E.Gilabert et al.
+# Reference       : Nucl.Instrum.Meth.B 145 (1998) 293
+# DOI             : 10.1016/S0168-583X(98)00411-X
+# Quantity        : natRb(p,x)72As cumulative production cross section
+# REACTION        : 37-RB-0(P,X)33-AS-72,CUM,SIG
+# File ID         : p-Rb-x-sigc-excfun-mon-prodAs72_Gilabert_1998_o0505.017
+#
+# npts            : 4           
+# xmin            :   1.4200E+08
+# xmax            :   1.3600E+09
+# ymin            :   2.8600E-03
+# ymax            :   2.5700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4200E+08  2.0000E+06  2.8600E-03  4.3000E-04
+  1.6800E+08  1.0000E+06  5.3400E-03  7.8000E-04
+  9.6200E+08  2.0000E+06  2.5700E-02  2.8000E-03
+  1.3600E+09  2.0000E+06  2.0600E-02  2.5000E-03
+#---------------------------------------------------

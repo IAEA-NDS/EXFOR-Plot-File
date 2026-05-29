@@ -1,0 +1,25 @@
+# EXFOR #         : E2771.003  
+# EXFOR Ver.      : 20240314
+# TRANS #         : E141
+# Author          : H.Matsuda et al.
+# Reference       : JPS Conf.Proc. 33 (2021) 011047
+# DOI             : N/A
+# Quantity        : natFe(p,x)22Na cumulative production cross section
+# REACTION        : 26-FE-0(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodNa22_Matsuda_2021_e2771.003
+#
+# npts            : 4           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   2.4203E-04
+# ymax            :   3.2843E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  2.4203E-04  4.7339E-05
+  1.3000E+09  0.0000E+00  2.1728E-03  9.3146E-05
+  2.2000E+09  0.0000E+00  3.0904E-03  1.1467E-04
+  3.0000E+09  0.0000E+00  3.2843E-03  1.2415E-04
+#---------------------------------------------------

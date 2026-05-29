@@ -1,0 +1,25 @@
+# EXFOR #         : O1882.002  
+# EXFOR Ver.      : 20101220
+# TRANS #         : O044
+# Author          : S.Neumann
+# Reference       : Thesis  (1999)
+# DOI             : N/A
+# Quantity        : natFe(p,x)7Be independent production cross section
+# REACTION        : 26-FE-0(P,X)4-BE-7,IND,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodBe7_Neumann_1999_o1882.002
+#
+# npts            : 4           
+# xmin            :   2.7800E+08
+# xmax            :   2.6000E+09
+# ymin            :   6.7800E-04
+# ymax            :   9.4400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7800E+08  1.0000E+06  6.7800E-04  1.1400E-04
+  9.5900E+08  2.0000E+06  4.4900E-03  6.2000E-04
+  1.3610E+09  2.0000E+06  6.7600E-03  8.8000E-04
+  2.6000E+09  1.0000E+06  9.4400E-03  1.2000E-03
+#---------------------------------------------------

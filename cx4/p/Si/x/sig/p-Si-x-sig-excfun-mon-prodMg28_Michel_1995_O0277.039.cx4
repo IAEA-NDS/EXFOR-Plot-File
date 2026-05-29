@@ -1,0 +1,24 @@
+# EXFOR #         : O0277.039  
+# EXFOR Ver.      : 20190830
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natSi(p,x)28Mg independent production cross section
+# REACTION        : 14-SI-0(P,X)12-MG-28,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodMg28_Michel_1995_o0277.039
+#
+# npts            : 3           
+# xmin            :   1.2000E+09
+# xmax            :   2.6000E+09
+# ymin            :   7.6300E-05
+# ymax            :   9.7000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  8.8300E-05  7.6000E-06
+  1.6000E+09  0.0000E+00  9.7000E-05  1.4000E-05
+  2.6000E+09  0.0000E+00  7.6300E-05  7.7000E-06
+#---------------------------------------------------

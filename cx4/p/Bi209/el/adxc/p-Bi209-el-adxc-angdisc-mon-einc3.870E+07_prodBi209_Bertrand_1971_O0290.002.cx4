@@ -1,0 +1,28 @@
+# EXFOR #         : O0290.002  
+# EXFOR Ver.      : 20151028
+# TRANS #         : O056
+# Author          : F.E.Bertrand et al.
+# Reference       : Report ORNL-4638, 1971
+# DOI             : N/A
+# Quantity        : 209Bi(p,el)209Bi angular differential cross section
+# REACTION        : 83-BI-209(P,EL)83-BI-209,,DA
+# File ID         : p-Bi209-el-adxc-angdisc-mon-einc3.870E+07_prodBi209_Bertrand_1971_o0290.002
+#
+# Einc (eV)       :   3.8700E+07
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 4           
+# xmin            :   20.1000000
+# xmax            :   90.3000000
+# ymin            :   3.1000E-03
+# ymax            :   4.0780E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.1000000   0.0000000  4.0780E+00  4.0780E-03
+  30.1000000   0.0000000  5.1400E-01  5.1400E-04
+  45.1000000   0.0000000  1.2350E-01  2.4700E-04
+  90.3000000   0.0000000  3.1000E-03  3.4100E-05
+#---------------------------------------------------

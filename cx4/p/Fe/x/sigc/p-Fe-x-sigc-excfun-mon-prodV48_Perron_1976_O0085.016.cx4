@@ -1,0 +1,22 @@
+# EXFOR #         : O0085.016  
+# EXFOR Ver.      : 20230404
+# TRANS #         : O095
+# Author          : C.Perron
+# Reference       : Phys.Rev.C 14 (1976) 1108
+# DOI             : 10.1103/PhysRevC.14.1108
+# Quantity        : natFe(p,x)48V cumulative production cross section
+# REACTION        : 26-FE-0(P,X)23-V-48,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodV48_Perron_1976_o0085.016
+#
+# npts            : 1           
+# xmin            :   2.1000E+10
+# xmax            :   2.1000E+10
+# ymin            :   1.2100E-02
+# ymax            :   1.2100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1000E+10  0.0000E+00  1.2100E-02  1.3000E-03
+#---------------------------------------------------

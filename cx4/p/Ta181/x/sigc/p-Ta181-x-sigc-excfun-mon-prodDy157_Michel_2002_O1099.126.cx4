@@ -1,0 +1,26 @@
+# EXFOR #         : O1099.126  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 181Ta(p,x)157Dy cumulative production cross section
+# REACTION        : 73-TA-181(P,X)66-DY-157,CUM,SIG
+# File ID         : p-Ta181-x-sigc-excfun-mon-prodDy157_Michel_2002_o1099.126
+#
+# npts            : 5           
+# xmin            :   5.6100E+08
+# xmax            :   2.5800E+09
+# ymin            :   2.0700E-02
+# ymax            :   5.1100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.6100E+08  1.0000E+06  3.7400E-02  4.7000E-03
+  7.6500E+08  1.0000E+06  4.8900E-02  6.6000E-03
+  9.8600E+08  1.0000E+06  5.1100E-02  6.5000E-03
+  1.3800E+09  1.0000E+06  4.5500E-02  7.6000E-03
+  2.5800E+09  1.0000E+06  2.0700E-02  2.8000E-03
+#---------------------------------------------------

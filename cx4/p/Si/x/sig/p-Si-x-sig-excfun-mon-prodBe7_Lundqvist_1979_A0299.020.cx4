@@ -1,0 +1,22 @@
+# EXFOR #         : A0299.020  
+# EXFOR Ver.      : 20240109
+# TRANS #         : A107
+# Author          : H.Lundqvist et al.
+# Reference       : Appl.Radiat.Isot. 30 (1979) 33
+# DOI             : 10.1016/0020-708X(79)90094-2
+# Quantity        : natSi(p,x)7Be independent production cross section
+# REACTION        : 14-SI-0(P,X)4-BE-7,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodBe7_Lundqvist_1979_a0299.020
+#
+# npts            : 1           
+# xmin            :   4.8000E+07
+# xmax            :   4.8000E+07
+# ymin            :   2.4500E-04
+# ymax            :   2.4500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.8000E+07  0.0000E+00  2.4500E-04  3.7000E-05
+#---------------------------------------------------

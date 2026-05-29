@@ -1,0 +1,27 @@
+# EXFOR #         : O1631.025  
+# EXFOR Ver.      : 20220507
+# TRANS #         : O088
+# Author          : A.Belhout et al.
+# Reference       : Phys.Rev.C 76 (2007) 034607
+# DOI             : 10.1103/PhysRevC.76.034607
+# Quantity        : 24Mg(p,inl)24Mg partial gamma production cross section
+# REACTION        : 12-MG-24(P,INL)12-MG-24,PAR,SIG,G
+# File ID         : p-Mg24-inl-sigg-excfun-mon-eoutl3.866E+06_prodMg24_Belhout_2007_o1631.025
+#
+# Eout,lab (eV)   :   3.8662E+06
+#
+# npts            : 4           
+# xmin            :   9.9700E+06
+# xmax            :   2.4990E+07
+# ymin            :   1.8300E-02
+# ymax            :   7.4600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9700E+06  3.0000E+04  7.4600E-02  0.0000E+00
+  1.4980E+07  2.0000E+04  5.6100E-02  0.0000E+00
+  1.9980E+07  2.0000E+04  1.8300E-02  0.0000E+00
+  2.4990E+07  1.0000E+04  1.8600E-02  0.0000E+00
+#---------------------------------------------------

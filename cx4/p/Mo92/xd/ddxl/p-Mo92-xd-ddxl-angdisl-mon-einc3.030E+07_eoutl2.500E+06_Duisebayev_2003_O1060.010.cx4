@@ -1,0 +1,30 @@
+# EXFOR #         : O1060.010  
+# EXFOR Ver.      : 20140205
+# TRANS #         : O052
+# Author          : A.Duisebayev et al.
+# Reference       : Phys.Rev.C 67 (2003) 044608
+# DOI             : 10.1103/PhysRevC.67.044608
+# Quantity        : 92Mo(p,d+x) double differential cross section
+# REACTION        : 42-MO-92(P,X)1-H-2,,DA/DE
+# File ID         : p-Mo92-xd-ddxl-angdisl-mon-einc3.030E+07_eoutl2.500E+06_Duisebayev_2003_o1060.010
+#
+# Einc (eV)       :   3.0300E+07
+# dEinc (eV)      :   9.0900E+04
+# Eout,lab (eV)   :   2.5000E+06
+#
+# npts            : 5           
+# xmin            :   15.0000000
+# xmax            :  105.0000000
+# ymin            :   6.1990E-11
+# ymax            :   1.4410E-10
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  15.0000000   0.0000000  1.4410E-10  8.4260E-11
+  60.0000000   0.0000000  6.1990E-11  2.9500E-11
+  75.0000000   0.0000000  1.0210E-10  3.1250E-11
+  90.0000000   0.0000000  1.3260E-10  2.9820E-11
+ 105.0000000   0.0000000  1.1360E-10  2.7460E-11
+#---------------------------------------------------

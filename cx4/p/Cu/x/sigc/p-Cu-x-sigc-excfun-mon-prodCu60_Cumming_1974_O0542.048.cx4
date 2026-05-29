@@ -1,0 +1,22 @@
+# EXFOR #         : O0542.048  
+# EXFOR Ver.      : 20201204
+# TRANS #         : O081
+# Author          : J.B.Cumming et al.
+# Reference       : Phys.Rev.C 10 (1974) 739
+# DOI             : 10.1103/PhysRevC.10.739
+# Quantity        : natCu(p,x)60Cu cumulative production cross section
+# REACTION        : 29-CU-0(P,X)29-CU-60,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodCu60_Cumming_1974_o0542.048
+#
+# npts            : 1           
+# xmin            :   3.9000E+09
+# xmax            :   3.9000E+09
+# ymin            :   1.9200E-03
+# ymax            :   1.9200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9000E+09  0.0000E+00  1.9200E-03  6.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C0237.011.1
+# EXFOR Ver.      : 20040823
+# TRANS #         : 0000
+# Author          : I.Dostrovsky et al.
+# Reference       : Phys.Rev. 169 (1968) 836
+# DOI             : 10.1103/PhysRev.169.836
+# Quantity        : 27Al(p,x)9Li independent production cross section
+# REACTION        : 13-AL-27(P,X)3-LI-9,,SIG
+# File ID         : p-Al27-x-sig-excfun-mon-prodLi9_Dostrovsky_1968_c0237.011.1
+#
+# npts            : 1           
+# xmin            :   1.5600E+08
+# xmax            :   1.5600E+08
+# ymin            :   5.0000E-06
+# ymax            :   5.0000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5600E+08  0.0000E+00  5.0000E-06  0.0000E+00
+#---------------------------------------------------

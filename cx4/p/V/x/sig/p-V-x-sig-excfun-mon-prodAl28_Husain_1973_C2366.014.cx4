@@ -1,0 +1,23 @@
+# EXFOR #         : C2366.014  
+# EXFOR Ver.      : 20181207
+# TRANS #         : C183
+# Author          : L.Husain et al.
+# Reference       : Phys.Rev.C 7 (1973) 2452
+# DOI             : 10.1103/PhysRevC.7.2452
+# Quantity        : natV(p,x)28Al independent production cross section
+# REACTION        : 23-V-0(P,X)13-AL-28,,SIG
+# File ID         : p-V-x-sig-excfun-mon-prodAl28_Husain_1973_c2366.014
+#
+# npts            : 2           
+# xmin            :   3.0000E+09
+# xmax            :   2.9000E+10
+# ymin            :   5.3000E-03
+# ymax            :   6.0100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+09  0.0000E+00  5.3000E-03  5.3000E-04
+  2.9000E+10  0.0000E+00  6.0100E-03  6.0100E-04
+#---------------------------------------------------

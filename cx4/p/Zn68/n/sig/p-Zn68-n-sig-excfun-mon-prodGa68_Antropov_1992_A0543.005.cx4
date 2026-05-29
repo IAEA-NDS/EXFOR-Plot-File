@@ -1,0 +1,23 @@
+# EXFOR #         : A0543.005  
+# EXFOR Ver.      : 20160226
+# TRANS #         : A084
+# Author          : A.E.Antropov et al.
+# Reference       : Izv.Ross.AN,Fiz. 56 No.11 (1992) 198
+# DOI             : N/A
+# Quantity        : 68Zn(p,n)68Ga cross section
+# REACTION        : 30-ZN-68(P,N)31-GA-68,,SIG
+# File ID         : p-Zn68-n-sig-excfun-mon-prodGa68_Antropov_1992_a0543.005
+#
+# npts            : 2           
+# xmin            :   5.7200E+06
+# xmax            :   6.0200E+06
+# ymin            :   2.6000E-01
+# ymax            :   5.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.7200E+06  0.0000E+00  2.6000E-01  4.0000E-02
+  6.0200E+06  0.0000E+00  5.2000E-01  8.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : O0399.034  
+# EXFOR Ver.      : 20020909
+# TRANS #         : 0000
+# Author          : Y.Y.Chu et al.
+# Reference       : Phys.Rev.C 15 (1977) 352
+# DOI             : 10.1103/PhysRevC.15.352
+# Quantity        : natU(p,x)43Sc cumulative production cross section
+# REACTION        : 92-U-0(P,X)21-SC-43,CUM,SIG
+# File ID         : p-U-x-sigc-excfun-mon-prodSc43_Chu_1977_o0399.034
+#
+# npts            : 4           
+# xmin            :   1.0000E+09
+# xmax            :   2.8500E+10
+# ymin            :   1.2000E-04
+# ymax            :   9.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  1.2000E-04  3.0000E-05
+  2.0000E+09  0.0000E+00  2.6000E-04  7.0000E-05
+  3.0000E+09  0.0000E+00  5.1000E-04  1.3000E-04
+  2.8500E+10  0.0000E+00  9.6000E-04  1.0000E-04
+#---------------------------------------------------

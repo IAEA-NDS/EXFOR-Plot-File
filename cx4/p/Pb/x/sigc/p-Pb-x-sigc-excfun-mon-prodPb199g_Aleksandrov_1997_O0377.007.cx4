@@ -1,0 +1,22 @@
+# EXFOR #         : O0377.007  
+# EXFOR Ver.      : 20220107
+# TRANS #         : O086
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : Proceedings of Conf.Nucl.Spectrosc.Nucl.Struct., Obninsk 1997 page 153
+# DOI             : N/A
+# Quantity        : natPb(p,x)199gPb cumulative production cross section
+# REACTION        : 82-PB-0(P,X)82-PB-199-G,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodPb199g_Aleksandrov_1997_o0377.007
+#
+# npts            : 1           
+# xmin            :   6.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   2.1000E-02
+# ymax            :   2.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  2.1000E-02  0.0000E+00
+#---------------------------------------------------

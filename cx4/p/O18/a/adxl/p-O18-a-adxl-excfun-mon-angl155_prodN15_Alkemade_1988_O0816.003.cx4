@@ -1,0 +1,27 @@
+# EXFOR #         : O0816.003  
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : P.F.A.Alkemade et al.
+# Reference       : Nucl.Instrum.Meth.B 35 (1988) 135
+# DOI             : 10.1016/0168-583X(88)90484-3
+# Quantity        : 18O(p,a)15N angular differential cross section
+# REACTION        : 8-O-18(P,A)7-N-15,,DA
+# File ID         : p-O18-a-adxl-excfun-mon-angl155_prodN15_Alkemade_1988_o0816.003
+#
+# theta,lab (deg) :  155.0000000
+# dtheta,lab (deg):    0.2500000
+#
+# npts            : 3           
+# xmin            :   1.7460E+06
+# xmax            :   1.7560E+06
+# ymin            :   4.3000E-02
+# ymax            :   4.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.7460E+06  0.0000E+00  4.3000E-02  1.5000E-03
+  1.7560E+06  0.0000E+00  4.8000E-02  1.5000E-03
+  1.7560E+06  0.0000E+00  4.6000E-02  1.8000E-03
+#---------------------------------------------------

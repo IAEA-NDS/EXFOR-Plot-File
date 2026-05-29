@@ -1,0 +1,29 @@
+# EXFOR #         : A1507.002  
+# EXFOR Ver.      : 20260317
+# TRANS #         : A133
+# Author          : W.E.Sweeney Jr et al.
+# Reference       : Phys.Rev. 182 (1969) 1007
+# DOI             : 10.1103/PhysRev.182.1007
+# Quantity        : 7Li(p,a)4He angular differential cross section
+# REACTION        : 3-LI-7(P,A)2-HE-4,,DA
+# File ID         : p-Li7-a-adxl-excfun-mon-angl90_prodHe4_Sweeney%Jr_1969_a1507.002
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 6           
+# xmin            :   1.4000E+06
+# xmax            :   1.9500E+06
+# ymin            :   6.0100E-04
+# ymax            :   1.4400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4000E+06  0.0000E+00  6.0100E-04  3.3000E-05
+  1.6500E+06  0.0000E+00  8.8700E-04  4.8000E-05
+  1.8000E+06  0.0000E+00  1.1150E-03  6.1000E-05
+  1.8500E+06  0.0000E+00  1.2200E-03  7.0000E-05
+  1.9000E+06  0.0000E+00  1.3300E-03  7.0000E-05
+  1.9500E+06  0.0000E+00  1.4400E-03  8.0000E-05
+#---------------------------------------------------

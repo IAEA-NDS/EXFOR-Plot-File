@@ -1,0 +1,27 @@
+# EXFOR #         : F0789.007  
+# EXFOR Ver.      : 20130530
+# TRANS #         : F053
+# Author          : A.S.Clough et al.
+# Reference       : Nucl.Phys.A 143 (1970) 385
+# DOI             : 10.1016/0375-9474(70)90572-5
+# Quantity        : 13C(p,n)13N partial angular differential cross section
+# REACTION        : 6-C-13(P,N)7-N-13,PAR,DA
+# File ID         : p-C13-n-adxc-angdisc-mon-einc5.000E+07_elvl2.300E+06_prodN13_Clough_1970_f0789.007
+#
+# Einc (eV)       :   5.0000E+07
+# Elvl (eV)       :   2.3000E+06
+#
+# npts            : 3           
+# xmin            :    2.6830000
+# xmax            :   32.8600000
+# ymin            :   2.2650E-04
+# ymax            :   7.8160E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.6830000   0.0000000  3.8550E-04  8.0930E-05
+  11.5240000   0.0000000  7.8160E-04  1.0160E-04
+  32.8600000   0.0000000  2.2650E-04  2.7310E-05
+#---------------------------------------------------

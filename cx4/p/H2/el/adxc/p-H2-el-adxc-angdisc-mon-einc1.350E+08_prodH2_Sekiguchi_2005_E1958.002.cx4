@@ -1,0 +1,27 @@
+# EXFOR #         : E1958.002  
+# EXFOR Ver.      : 20060906
+# TRANS #         : E038
+# Author          : K.Sekiguchi et al.
+# Reference       : Phys.Rev.Lett. 95 No.16 (2005) 162301
+# DOI             : 10.1103/PhysRevLett.95.162301
+# Quantity        : 2H(p,el)2H angular differential cross section
+# REACTION        : 1-H-2(P,EL)1-H-2,,DA
+# File ID         : p-H2-el-adxc-angdisc-mon-einc1.350E+08_prodH2_Sekiguchi_2005_e1958.002
+#
+# Einc (eV)       :   1.3500E+08
+#
+# npts            : 4           
+# xmin            :   16.3000000
+# xmax            :   20.4900000
+# ymin            :   1.2410E-02
+# ymax            :   1.5780E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.3000000   0.0000000  1.5780E-02  0.0000E+00
+  17.7800000   0.0000000  1.3990E-02  0.0000E+00
+  19.5100000   0.0000000  1.3230E-02  0.0000E+00
+  20.4900000   0.0000000  1.2410E-02  0.0000E+00
+#---------------------------------------------------

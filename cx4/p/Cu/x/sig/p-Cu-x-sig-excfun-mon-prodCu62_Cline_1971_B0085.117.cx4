@@ -1,0 +1,22 @@
+# EXFOR #         : B0085.117  
+# EXFOR Ver.      : 20240425
+# TRANS #         : B036
+# Author          : J.E.Cline et al.
+# Reference       : Nucl.Phys.A 169 (1971) 437
+# DOI             : 10.1016/0375-9474(71)90897-9
+# Quantity        : natCu(p,x)62Cu independent production cross section
+# REACTION        : 29-CU-0(P,X)29-CU-62,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodCu62_Cline_1971_b0085.117
+#
+# npts            : 1           
+# xmin            :   5.9000E+08
+# xmax            :   5.9000E+08
+# ymin            :   4.0000E-02
+# ymax            :   4.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  4.0000E-02  4.0000E-03
+#---------------------------------------------------

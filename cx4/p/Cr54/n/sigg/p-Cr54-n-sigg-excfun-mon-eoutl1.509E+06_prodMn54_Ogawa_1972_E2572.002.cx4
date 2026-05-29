@@ -1,0 +1,27 @@
+# EXFOR #         : E2572.002  
+# EXFOR Ver.      : 20191216
+# TRANS #         : E124
+# Author          : M.Ogawa et al.
+# Reference       : Nucl.Phys.A 194 (1972) 259
+# DOI             : 10.1016/0375-9474(72)91040-8
+# Quantity        : 54Cr(p,n)54Mn partial gamma production cross section
+# REACTION        : 24-CR-54(P,N)25-MN-54,PAR,SIG,G
+# File ID         : p-Cr54-n-sigg-excfun-mon-eoutl1.509E+06_prodMn54_Ogawa_1972_e2572.002
+#
+# Eout,lab (eV)   :   1.5090E+06
+#
+# npts            : 4           
+# xmin            :   3.7740E+06
+# xmax            :   3.9020E+06
+# ymin            :   1.2940E-03
+# ymax            :   3.0060E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7740E+06  0.0000E+00  1.2940E-03  0.0000E+00
+  3.7910E+06  0.0000E+00  2.0490E-03  0.0000E+00
+  3.8120E+06  0.0000E+00  2.0670E-03  0.0000E+00
+  3.9020E+06  0.0000E+00  3.0060E-03  0.0000E+00
+#---------------------------------------------------

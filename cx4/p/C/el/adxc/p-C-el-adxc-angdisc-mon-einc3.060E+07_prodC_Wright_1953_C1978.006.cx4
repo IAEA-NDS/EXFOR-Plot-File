@@ -1,0 +1,25 @@
+# EXFOR #         : C1978.006  
+# EXFOR Ver.      : 20130207
+# TRANS #         : C129
+# Author          : B.T.Wright
+# Reference       : Progress report UCRL-2422, 1953
+# DOI             : N/A
+# Quantity        : natC(p,el)natC angular differential cross section
+# REACTION        : 6-C-0(P,EL)6-C-0,,DA,,AV
+# File ID         : p-C-el-adxc-angdisc-mon-einc3.060E+07_prodC_Wright_1953_c1978.006
+#
+# Einc (eV)       :   3.0600E+07
+# dEinc (eV)      :   4.0000E+05
+#
+# npts            : 1           
+# xmin            :  135.0000000
+# xmax            :  135.0000000
+# ymin            :   9.5000E-04
+# ymax            :   9.5000E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 135.0000000  15.0000000  9.5000E-04  1.5000E-04
+#---------------------------------------------------

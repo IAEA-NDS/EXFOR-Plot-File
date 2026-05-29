@@ -1,0 +1,23 @@
+# EXFOR #         : A0612.047  
+# EXFOR Ver.      : 20160227
+# TRANS #         : A084
+# Author          : A.S.Danagulyan et al.
+# Reference       : Proceedings of Conf.Nucl.Spectrosc.Nucl.Struct., Moscow, June 1998 page 219
+# DOI             : N/A
+# Quantity        : 118Sn(p,x)85Y cumulative production cross section
+# REACTION        : 50-SN-118(P,X)39-Y-85,CUM,SIG
+# File ID         : p-Sn118-x-sigc-excfun-mon-prodY85_Danagulyan_1998_a0612.047
+#
+# npts            : 2           
+# xmin            :   1.0000E+09
+# xmax            :   8.1100E+09
+# ymin            :   5.1000E-03
+# ymax            :   7.7500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  5.1000E-03  5.0000E-04
+  8.1100E+09  0.0000E+00  7.7500E-03  1.2000E-03
+#---------------------------------------------------

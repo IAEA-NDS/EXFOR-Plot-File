@@ -1,0 +1,24 @@
+# EXFOR #         : C2274.004  
+# EXFOR Ver.      : 20170919
+# TRANS #         : C170
+# Author          : K.Gagnon et al.
+# Reference       : J.Lab.Comp.Radioph. 60 (2017) S324
+# DOI             : N/A
+# Quantity        : natRu(p,x)97mRh independent production cross section
+# REACTION        : 44-RU-0(P,X)45-RH-97-M,,SIG
+# File ID         : p-Ru-x-sig-excfun-mon-prodRh97m_Gagnon_2017_c2274.004
+#
+# npts            : 3           
+# xmin            :   1.5500E+07
+# xmax            :   1.7400E+07
+# ymin            :   8.8000E-04
+# ymax            :   1.5300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5500E+07  2.0000E+05  8.8000E-04  5.8000E-04
+  1.6600E+07  2.0000E+05  1.2300E-03  3.3000E-04
+  1.7400E+07  2.0000E+05  1.5300E-03  3.2000E-04
+#---------------------------------------------------

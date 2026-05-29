@@ -1,0 +1,23 @@
+# EXFOR #         : E2768.008  
+# EXFOR Ver.      : 20231202
+# TRANS #         : E141
+# Author          : K.Nakano et al.
+# Reference       : Report JAEA-R-2021-014 page 1, 2021
+# DOI             : N/A
+# Quantity        : 45Sc(p,x)22Na cumulative production cross section
+# REACTION        : 21-SC-45(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Sc45-x-sigc-excfun-mon-prodNa22_Nakano_2021_e2768.008
+#
+# npts            : 2           
+# xmin            :   2.2000E+09
+# xmax            :   3.0000E+09
+# ymin            :   5.1300E-03
+# ymax            :   5.3200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2000E+09  0.0000E+00  5.3200E-03  3.8000E-04
+  3.0000E+09  0.0000E+00  5.1300E-03  3.1000E-04
+#---------------------------------------------------

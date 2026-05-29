@@ -1,0 +1,22 @@
+# EXFOR #         : O0006.015  
+# EXFOR Ver.      : 20151116
+# TRANS #         : O056
+# Author          : Y.Y.Chu et al.
+# Reference       : Phys.Rev.C 14 (1976) 1068
+# DOI             : 10.1103/PhysRevC.14.1068
+# Quantity        : 232Th(p,f)143Pm cumulative production cross section
+# REACTION        : 90-TH-232(P,F)61-PM-143,CUM,SIG
+# File ID         : p-Th232-x-sigc-excfun-mon-prodPm143_Chu_1976_o0006.015
+#
+# npts            : 1           
+# xmin            :   2.8000E+10
+# xmax            :   2.8000E+10
+# ymin            :   3.2000E-03
+# ymax            :   3.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8000E+10  0.0000E+00  3.2000E-03  4.8000E-04
+#---------------------------------------------------

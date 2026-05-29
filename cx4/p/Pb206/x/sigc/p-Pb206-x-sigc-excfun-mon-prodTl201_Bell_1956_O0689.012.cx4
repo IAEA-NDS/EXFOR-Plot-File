@@ -1,0 +1,25 @@
+# EXFOR #         : O0689.012  
+# EXFOR Ver.      : 20100727
+# TRANS #         : O042
+# Author          : R.E.Bell et al.
+# Reference       : Can.J.Phys. 34 (1956) 745
+# DOI             : 10.1139/p56-086
+# Quantity        : 206Pb(p,x)201Tl cumulative production cross section
+# REACTION        : 82-PB-206(P,X)81-TL-201,CUM,SIG
+# File ID         : p-Pb206-x-sigc-excfun-mon-prodTl201_Bell_1956_o0689.012
+#
+# npts            : 4           
+# xmin            :   4.9000E+07
+# xmax            :   6.3800E+07
+# ymin            :   5.0000E-02
+# ymax            :   5.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9000E+07  0.0000E+00  5.0000E-02  7.5000E-03
+  5.2500E+07  0.0000E+00  2.6000E-01  3.9000E-02
+  5.6300E+07  0.0000E+00  4.0000E-01  6.0000E-02
+  6.3800E+07  0.0000E+00  5.5000E-01  8.2500E-02
+#---------------------------------------------------

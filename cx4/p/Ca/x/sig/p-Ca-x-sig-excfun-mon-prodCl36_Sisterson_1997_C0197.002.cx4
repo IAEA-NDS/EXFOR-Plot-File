@@ -1,0 +1,27 @@
+# EXFOR #         : C0197.002  
+# EXFOR Ver.      : 19981204
+# TRANS #         : 0000
+# Author          : J.M.Sisterson et al.
+# Reference       : Lun.Planet.Sci.Conf 23 (1997) 1329
+# DOI             : N/A
+# Quantity        : natCa(p,x)36Cl independent production cross section
+# REACTION        : 20-CA-0(P,X)17-CL-36,,SIG
+# File ID         : p-Ca-x-sig-excfun-mon-prodCl36_Sisterson_1997_c0197.002
+#
+# npts            : 6           
+# xmin            :   4.9300E+07
+# xmax            :   1.5860E+08
+# ymin            :   2.1400E-03
+# ymax            :   1.9100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5860E+08  1.0000E+06  1.5900E-02  9.0000E-04
+  1.1900E+08  2.0000E+06  1.7700E-02  1.0000E-03
+  1.0070E+08  3.0000E+06  1.6600E-02  9.0000E-04
+  8.0400E+07  3.0000E+06  1.9100E-02  1.1000E-03
+  7.0300E+07  3.0000E+06  1.7100E-02  9.0000E-04
+  4.9300E+07  3.7000E+06  2.1400E-03  1.2000E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : E2769.016  
+# EXFOR Ver.      : 20240314
+# TRANS #         : E141
+# Author          : K.Sugihara et al.
+# Reference       : Nucl.Instrum.Meth.B 545 (2023) 165153
+# DOI             : 10.1016/j.nimb.2023.165153
+# Quantity        : 93Nb(p,x)7Be independent production cross section
+# REACTION        : 41-NB-93(P,X)4-BE-7,,SIG
+# File ID         : p-Nb93-x-sig-excfun-mon-prodBe7_Sugihara_2023_e2769.016
+#
+# npts            : 2           
+# xmin            :   8.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   2.4600E-03
+# ymax            :   1.1300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  2.4600E-03  9.0000E-05
+  3.0000E+09  0.0000E+00  1.1300E-02  4.0000E-04
+#---------------------------------------------------

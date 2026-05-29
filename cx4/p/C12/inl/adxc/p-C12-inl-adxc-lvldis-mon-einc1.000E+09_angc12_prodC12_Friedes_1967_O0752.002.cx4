@@ -1,0 +1,25 @@
+# EXFOR #         : O0752.002  
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : J.L.Friedes et al.
+# Reference       : Nucl.Phys.A 104 (1967) 294
+# DOI             : 10.1016/0375-9474(67)90558-1
+# Quantity        : 12C(p,inl)12C partial angular differential cross section
+# REACTION        : 6-C-12(P,INL)6-C-12,PAR,DA
+# File ID         : p-C12-inl-adxc-lvldis-mon-einc1.000E+09_angc12_prodC12_Friedes_1967_o0752.002
+#
+# Einc (eV)       :   1.0000E+09
+# theta,cm (deg)  :   12.2400000
+#
+# npts            : 1           
+# xmin            :   4.4000E+06
+# xmax            :   4.4000E+06
+# ymin            :   9.6000E-03
+# ymax            :   9.6000E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.4000E+06  0.0000E+00  9.6000E-03  8.6400E-04
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : A0914.002  
+# EXFOR Ver.      : 20210629
+# TRANS #         : A098
+# Author          : B.I.Belyaev et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 27 (1963) 907
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)210Po independent production cross section
+# REACTION        : 83-BI-209(P,X)84-PO-210,,SIG
+# File ID         : p-Bi209-x-sig-excfun-mon-prodPo210_Belyaev_1963_a0914.002
+#
+# npts            : 2           
+# xmin            :   2.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   3.1000E-06
+# ymax            :   1.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6000E+08  0.0000E+00  3.1000E-06  1.1000E-06
+  6.6000E+08  0.0000E+00  1.1000E-04  3.0000E-05
+#---------------------------------------------------

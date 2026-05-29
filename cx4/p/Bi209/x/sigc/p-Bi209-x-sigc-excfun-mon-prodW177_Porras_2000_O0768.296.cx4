@@ -1,0 +1,22 @@
+# EXFOR #         : O0768.296  
+# EXFOR Ver.      : 20040211
+# TRANS #         : 0000
+# Author          : E.Porras et al.
+# Reference       : Nucl.Instrum.Meth.B 160 (2000) 73
+# DOI             : 10.1016/S0168-583X(99)00556-X
+# Quantity        : 209Bi(p,x)177W cumulative production cross section
+# REACTION        : 83-BI-209(P,X)74-W-177,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodW177_Porras_2000_o0768.296
+#
+# npts            : 1           
+# xmin            :   1.2000E+09
+# xmax            :   1.2000E+09
+# ymin            :   8.0000E-04
+# ymax            :   8.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  8.0000E-04  1.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : O1030.003  
+# EXFOR Ver.      : 20030227
+# TRANS #         : 0000
+# Author          : W.N.Wang et al.
+# Reference       : Chin.J.Phys. 10 (1972) 1
+# DOI             : N/A
+# Quantity        : 24Mg(p,el)24Mg angular differential cross section
+# REACTION        : 12-MG-24(P,EL)12-MG-24,,DA
+# File ID         : p-Mg24-el-adxl-angdisc-mon-einc2.829E+06_prodMg24_Wang_1972_o1030.003
+#
+# Einc (eV)       :   2.8290E+06
+#
+# npts            : 1           
+# xmin            :  151.2000000
+# xmax            :  151.2000000
+# ymin            :   3.7800E-02
+# ymax            :   3.7800E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 151.2000000   0.0000000  3.7800E-02  0.0000E+00
+#---------------------------------------------------

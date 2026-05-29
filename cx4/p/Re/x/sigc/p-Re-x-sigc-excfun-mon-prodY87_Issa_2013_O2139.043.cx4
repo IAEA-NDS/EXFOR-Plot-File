@@ -1,0 +1,26 @@
+# EXFOR #         : O2139.043  
+# EXFOR Ver.      : 20131008
+# TRANS #         : O051
+# Author          : S.A.M.Issa et al.
+# Reference       : Nucl.Instrum.Meth.B 298 (2013) 19
+# DOI             : 10.1016/j.nimb.2013.01.001
+# Quantity        : natRe(p,f)87Y cumulative production cross section
+# REACTION        : 75-RE-0(P,F)39-Y-87,CUM,SIG
+# File ID         : p-Re-x-sigc-excfun-mon-prodY87_Issa_2013_o2139.043
+#
+# npts            : 5           
+# xmin            :   5.5800E+08
+# xmax            :   2.5900E+09
+# ymin            :   6.6000E-04
+# ymax            :   4.1900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5800E+08  1.6000E+06  6.6000E-04  2.0000E-04
+  7.6300E+08  1.5000E+06  1.0700E-03  4.0000E-04
+  1.1650E+09  1.5000E+06  1.7900E-03  4.0000E-05
+  1.5700E+09  1.5000E+06  2.6900E-03  3.0000E-04
+  2.5900E+09  1.0000E+06  4.1900E-03  3.0000E-04
+#---------------------------------------------------

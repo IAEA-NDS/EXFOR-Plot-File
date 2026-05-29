@@ -1,0 +1,22 @@
+# EXFOR #         : O0768.180  
+# EXFOR Ver.      : 20221115
+# TRANS #         : O091
+# Author          : E.Porras et al.
+# Reference       : Nucl.Instrum.Meth.B 160 (2000) 73
+# DOI             : 10.1016/S0168-583X(99)00556-X
+# Quantity        : natNi(p,x)34mCl independent production cross section
+# REACTION        : 28-NI-0(P,X)17-CL-34-M,,SIG
+# File ID         : p-Ni-x-sig-excfun-mon-prodCl34m_Porras_2000_o0768.180
+#
+# npts            : 1           
+# xmin            :   8.5000E+08
+# xmax            :   8.5000E+08
+# ymin            :   6.7000E-04
+# ymax            :   6.7000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.5000E+08  0.0000E+00  6.7000E-04  1.2000E-04
+#---------------------------------------------------

@@ -1,0 +1,30 @@
+# EXFOR #         : O0156.002.1
+# EXFOR Ver.      : 20100708
+# TRANS #         : O042
+# Author          : J.F.Crawford et al.
+# Reference       : Phys.Rev.C 22 (1980) 1184
+# DOI             : 10.1103/PhysRevC.22.1184
+# Quantity        : 12C(p,pi++x) double differential cross section
+# REACTION        : 6-C-12(P,X)1-PP-0,,DA/DE
+# File ID         : p-C12-xpip-ddxl-enedisl-mon-einc5.850E+08_angl22_Crawford_1980_o0156.002.1
+#
+# Einc (eV)       :   5.8500E+08
+# dEinc (eV)      :   2.0000E+06
+# theta,lab (deg) :   22.5000000
+#
+# npts            : 5           
+# xmin            :   2.4000E+07
+# xmax            :   2.5400E+08
+# ymin            :   6.3000E-12
+# ymax            :   2.9700E-11
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.4000E+07  0.0000E+00  6.3000E-12  1.0000E-12
+  3.5000E+07  0.0000E+00  8.3700E-12  8.0000E-13
+  8.8000E+07  0.0000E+00  1.9200E-11  1.4000E-12
+  1.5100E+08  0.0000E+00  2.9700E-11  1.4000E-12
+  2.5400E+08  0.0000E+00  2.4130E-11  9.0000E-13
+#---------------------------------------------------

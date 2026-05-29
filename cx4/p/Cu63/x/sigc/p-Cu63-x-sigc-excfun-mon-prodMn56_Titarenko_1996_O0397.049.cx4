@@ -1,0 +1,23 @@
+# EXFOR #         : O0397.049  
+# EXFOR Ver.      : 20080512
+# TRANS #         : O035
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 page 184
+# DOI             : N/A
+# Quantity        : 63Cu(p,x)56Mn cumulative production cross section
+# REACTION        : 29-CU-63(P,X)25-MN-56,CUM,SIG
+# File ID         : p-Cu63-x-sigc-excfun-mon-prodMn56_Titarenko_1996_o0397.049
+#
+# npts            : 2           
+# xmin            :   1.3000E+08
+# xmax            :   1.5000E+09
+# ymin            :   1.1000E-03
+# ymax            :   2.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  0.0000E+00  1.1000E-03  2.0000E-04
+  1.5000E+09  0.0000E+00  2.2000E-03  3.0000E-04
+#---------------------------------------------------

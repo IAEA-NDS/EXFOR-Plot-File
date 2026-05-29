@@ -1,0 +1,25 @@
+# EXFOR #         : C0335.009.1
+# EXFOR Ver.      : 20160709
+# TRANS #         : C159
+# Author          : R.G.Korteling et al.
+# Reference       : Phys.Rev. 136 (1964) B425
+# DOI             : 10.1103/PhysRev.136.B425
+# Quantity        : 93Nb(p,x)61Cu independent production cross section
+# REACTION        : 41-NB-93(P,X)29-CU-61,,SIG
+# File ID         : p-Nb93-x-sig-excfun-mon-prodCu61_Korteling_1964_c0335.009.1
+#
+# npts            : 4           
+# xmin            :   2.4000E+08
+# xmax            :   7.2000E+08
+# ymin            :   5.1800E-06
+# ymax            :   1.7300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+08  1.0000E+07  5.1800E-06  1.0360E-06
+  3.2000E+08  1.0000E+07  3.4200E-05  6.8400E-06
+  5.0000E+08  1.0000E+07  4.1600E-04  8.3200E-05
+  7.2000E+08  1.0000E+07  1.7300E-03  3.4600E-04
+#---------------------------------------------------

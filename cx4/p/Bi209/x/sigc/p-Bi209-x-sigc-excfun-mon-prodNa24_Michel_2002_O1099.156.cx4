@@ -1,0 +1,22 @@
+# EXFOR #         : O1099.156  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)24Na cumulative production cross section
+# REACTION        : 83-BI-209(P,X)11-NA-24,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodNa24_Michel_2002_o1099.156
+#
+# npts            : 1           
+# xmin            :   2.5980E+09
+# xmax            :   2.5980E+09
+# ymin            :   3.6780E-03
+# ymax            :   3.6780E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5980E+09  7.2510E+05  3.6780E-03  3.7920E-04
+#---------------------------------------------------

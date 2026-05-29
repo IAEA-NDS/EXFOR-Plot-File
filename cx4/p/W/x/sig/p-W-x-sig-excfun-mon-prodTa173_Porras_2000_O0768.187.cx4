@@ -1,0 +1,22 @@
+# EXFOR #         : O0768.187  
+# EXFOR Ver.      : 20221115
+# TRANS #         : O091
+# Author          : E.Porras et al.
+# Reference       : Nucl.Instrum.Meth.B 160 (2000) 73
+# DOI             : 10.1016/S0168-583X(99)00556-X
+# Quantity        : natW(p,x)173Ta independent production cross section
+# REACTION        : 74-W-0(P,X)73-TA-173,,SIG
+# File ID         : p-W-x-sig-excfun-mon-prodTa173_Porras_2000_o0768.187
+#
+# npts            : 1           
+# xmin            :   8.5000E+08
+# xmax            :   8.5000E+08
+# ymin            :   2.3000E-02
+# ymax            :   2.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.5000E+08  0.0000E+00  2.3000E-02  6.0000E-03
+#---------------------------------------------------

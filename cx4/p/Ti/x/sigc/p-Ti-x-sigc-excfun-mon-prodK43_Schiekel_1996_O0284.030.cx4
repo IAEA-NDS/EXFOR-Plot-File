@@ -1,0 +1,25 @@
+# EXFOR #         : O0284.030  
+# EXFOR Ver.      : 20191005
+# TRANS #         : O071
+# Author          : Th.Schiekel et al.
+# Reference       : Nucl.Instrum.Meth.B 114 (1996) 91
+# DOI             : 10.1016/0168-583X(96)00145-0
+# Quantity        : natTi(p,x)43K cumulative production cross section
+# REACTION        : 22-TI-0(P,X)19-K-43,CUM,SIG
+# File ID         : p-Ti-x-sigc-excfun-mon-prodK43_Schiekel_1996_o0284.030
+#
+# npts            : 4           
+# xmin            :   2.4100E+08
+# xmax            :   3.8600E+08
+# ymin            :   2.9700E-03
+# ymax            :   3.6200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4100E+08  1.5200E+06  2.9700E-03  2.7800E-04
+  2.8400E+08  9.5500E+05  3.1200E-03  2.1200E-04
+  3.5000E+08  1.4900E+06  3.4200E-03  2.5900E-04
+  3.8600E+08  9.3700E+05  3.6200E-03  2.6500E-04
+#---------------------------------------------------

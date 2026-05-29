@@ -1,0 +1,29 @@
+# EXFOR #         : C1513.007  
+# EXFOR Ver.      : 20070221
+# TRANS #         : C080
+# Author          : M.L.West et al.
+# Reference       : Phys.Rev. 179 (1969) 1047
+# DOI             : 10.1103/PhysRev.179.1047
+# Quantity        : 14N(p,a)11C partial angular differential cross section
+# REACTION        : 7-N-14(P,A)6-C-11,PAR,DA
+# File ID         : p-N14-a-adxc-angdisc-mon-einc5.021E+06_elvl0.000E+00_prodC11_West_1969_c1513.007
+#
+# Einc (eV)       :   5.0210E+06
+# dEinc (eV)      :   1.5000E+04
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :   38.2900000
+# xmax            :   74.2100000
+# ymin            :   8.0440E-04
+# ymax            :   8.7760E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  38.2900000   0.0000000  8.7760E-04  3.5104E-05
+  50.4200000   0.0000000  8.0440E-04  3.2176E-05
+  62.0700000   0.0000000  8.7760E-04  3.5104E-05
+  74.2100000   0.0000000  8.0440E-04  3.2176E-05
+#---------------------------------------------------

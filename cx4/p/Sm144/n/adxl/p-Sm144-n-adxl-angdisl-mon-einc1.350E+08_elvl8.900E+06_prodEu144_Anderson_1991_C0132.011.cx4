@@ -1,0 +1,29 @@
+# EXFOR #         : C0132.011  
+# EXFOR Ver.      : 20241031
+# TRANS #         : C243
+# Author          : B.D.Anderson et al.
+# Reference       : Phys.Rev.C 43 (1991) 1630
+# DOI             : 10.1103/PhysRevC.43.1630
+# Quantity        : 144Sm(p,n)144Eu partial angular differential cross section
+# REACTION        : 62-SM-144(P,N)63-EU-144,PAR,DA
+# File ID         : p-Sm144-n-adxl-angdisl-mon-einc1.350E+08_elvl8.900E+06_prodEu144_Anderson_1991_c0132.011
+#
+# Einc (eV)       :   1.3500E+08
+# Elvl (eV)       :   8.9000E+06
+# dElvl (eV)      :   1.0000E+05
+#
+# npts            : 4           
+# xmin            :    0.1000000
+# xmax            :   13.6100000
+# ymin            :   2.7750E-04
+# ymax            :   5.6110E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.1000000   0.0000000  5.6110E-03  7.5250E-05
+   4.0300000   0.0000000  3.7000E-03  5.0510E-05
+   8.0700000   0.0000000  9.6800E-04  3.1500E-05
+  13.6100000   0.0000000  2.7750E-04  2.4570E-05
+#---------------------------------------------------

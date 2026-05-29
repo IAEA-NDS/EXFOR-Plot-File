@@ -1,0 +1,23 @@
+# EXFOR #         : O2134.028  
+# EXFOR Ver.      : 20130615
+# TRANS #         : O051
+# Author          : R.Bimbot et al.
+# Reference       : Compt.Rend.B 273 (1971) 1054
+# DOI             : N/A
+# Quantity        : natMg(p,x)22Na independent production cross section
+# REACTION        : 12-MG-0(P,X)11-NA-22,,SIG
+# File ID         : p-Mg-x-sig-excfun-mon-prodNa22_Bimbot_1971_o2134.028
+#
+# npts            : 2           
+# xmin            :   5.0000E+07
+# xmax            :   1.0000E+08
+# ymin            :   4.4000E-02
+# ymax            :   1.5000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+07  5.0000E+06  1.5000E-01  2.0000E-02
+  1.0000E+08  5.0000E+06  4.4000E-02  6.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : D8095.019  
+# EXFOR Ver.      : 20240626
+# TRANS #         : D143
+# Author          : M.Apollonio et al.
+# Reference       : Phys.Rev.C 82 (2010) 045208
+# DOI             : 10.1103/PhysRevC.82.045208
+# Quantity        : 181Ta(p,p+x) double differential cross section
+# REACTION        : 73-TA-181(P,X)1-H-1,,DA/DP
+# File ID         : p-Ta181-xp-ddxl-enedisl-mon-einc2.205E+09_angl13_Apollonio_2010_d8095.019
+#
+# Einc (eV)       :   2.2047E+09
+# theta,lab (deg) :   12.8916000
+# dtheta,lab (deg):    1.4324000
+#
+# npts            : 4           
+# xmin            :   2.1274E+09
+# xmax            :   3.3667E+09
+# ymin            :   1.4110E-10
+# ymax            :   1.8797E-09
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.1274E+09  8.8136E+07  1.8797E-09  6.0370E-10
+  2.4904E+09  1.2548E+08  4.7680E-10  1.8540E-10
+  2.9140E+09  1.5014E+08  1.4110E-10  6.4120E-11
+  3.3667E+09  1.6708E+08  2.7460E-10  9.9850E-11
+#---------------------------------------------------

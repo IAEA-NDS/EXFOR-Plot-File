@@ -1,0 +1,29 @@
+# EXFOR #         : C2014.006  
+# EXFOR Ver.      : 20130701
+# TRANS #         : C133
+# Author          : D.A.Miller et al.
+# Reference       : J.Rad.Nucl.Chem. 123 (1988) 643
+# DOI             : 10.1007/BF02034924
+# Quantity        : natV(p,x) cumulative production cross section
+# REACTION        : 23-V-0(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-V-x-sigc-nucdis-mon-einc8.000E+08_Miller_1988_c2014.006
+#
+# Einc (eV)       :   8.0000E+08
+#
+# npts            : 6           
+# xmin            : 19042.9     
+# xmax            : 21048.9     
+# ymin            :   5.6000E-04
+# ymax            :   2.5000E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     19042.9  1.2000E-02  4.0000E-04
+     19043.9  5.3000E-03  3.0000E-04
+     20047.9  5.6000E-04  2.0000E-05
+     21046.9  2.5000E-02  9.0000E-04
+     21047.9  1.6000E-02  7.0000E-04
+     21048.9  6.9000E-03  1.0000E-04
+#---------------------------------------------------

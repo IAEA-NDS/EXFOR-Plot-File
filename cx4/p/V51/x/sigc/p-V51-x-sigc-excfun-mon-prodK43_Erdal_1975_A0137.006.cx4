@@ -1,0 +1,23 @@
+# EXFOR #         : A0137.006  
+# EXFOR Ver.      : 20250702
+# TRANS #         : A121
+# Author          : B.R.Erdal et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 492
+# DOI             : N/A
+# Quantity        : 51V(p,x)43K cumulative production cross section
+# REACTION        : 23-V-51(P,X)19-K-43,CUM,SIG
+# File ID         : p-V51-x-sigc-excfun-mon-prodK43_Erdal_1975_a0137.006
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   8.0000E+08
+# ymin            :   3.8000E-03
+# ymax            :   5.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  3.8000E-03  8.0000E-04
+  8.0000E+08  0.0000E+00  5.4000E-03  3.0000E-04
+#---------------------------------------------------

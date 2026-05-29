@@ -1,0 +1,22 @@
+# EXFOR #         : F1108.019  
+# EXFOR Ver.      : 20240209
+# TRANS #         : F097
+# Author          : R.L.Bramblett et al.
+# Reference       : Nucl.Phys. 20 (1960) 395
+# DOI             : 10.1016/0029-5582(60)90182-6
+# Quantity        : 59Co(p,n)59Ni cross section
+# REACTION        : 27-CO-59(P,N)28-NI-59,,SIG
+# File ID         : p-Co59-n-sig-excfun-mon-prodNi59_Bramblett_1960_f1108.019
+#
+# npts            : 1           
+# xmin            :   5.3000E+06
+# xmax            :   5.3000E+06
+# ymin            :   2.4600E-01
+# ymax            :   2.4600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.3000E+06  0.0000E+00  2.4600E-01  2.4600E-02
+#---------------------------------------------------

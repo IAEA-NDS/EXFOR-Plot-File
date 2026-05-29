@@ -1,0 +1,23 @@
+# EXFOR #         : D0028.003  
+# EXFOR Ver.      : 20060725
+# TRANS #         : D048
+# Author          : A.Gruetter
+# Reference       : Appl.Radiat.Isot. 33 (1982) 725
+# DOI             : 10.1016/0020-708X(82)90092-8
+# Quantity        : 27Al(p,x)22Na independent production cross section
+# REACTION        : 13-AL-27(P,X)11-NA-22,,SIG
+# File ID         : p-Al27-x-sig-excfun-mon-prodNa22_Gruetter_1982_d0028.003
+#
+# npts            : 2           
+# xmin            :   5.4000E+08
+# xmax            :   5.9300E+08
+# ymin            :   1.4000E-02
+# ymax            :   1.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9300E+08  0.0000E+00  1.4000E-02  5.0000E-04
+  5.4000E+08  0.0000E+00  1.4000E-02  5.0000E-04
+#---------------------------------------------------

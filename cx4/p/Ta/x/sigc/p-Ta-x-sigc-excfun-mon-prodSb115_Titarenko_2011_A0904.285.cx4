@@ -1,0 +1,24 @@
+# EXFOR #         : A0904.285  
+# EXFOR Ver.      : 20111209
+# TRANS #         : A075
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 551
+# DOI             : 10.1134/S1063778811040181
+# Quantity        : natTa(p,x)115Sb cumulative production cross section
+# REACTION        : 73-TA-0(P,X)51-SB-115,CUM,SIG
+# File ID         : p-Ta-x-sigc-excfun-mon-prodSb115_Titarenko_2011_a0904.285
+#
+# npts            : 3           
+# xmin            :   1.1990E+09
+# xmax            :   2.6050E+09
+# ymin            :   4.9000E-04
+# ymax            :   5.0900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1990E+09  3.0000E+06  4.9000E-04  5.6000E-04
+  1.5980E+09  4.0000E+06  3.8400E-03  3.9000E-04
+  2.6050E+09  8.0000E+06  5.0900E-03  8.9000E-04
+#---------------------------------------------------

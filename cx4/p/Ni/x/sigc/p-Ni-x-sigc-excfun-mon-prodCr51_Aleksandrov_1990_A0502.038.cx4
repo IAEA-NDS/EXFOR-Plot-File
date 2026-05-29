@@ -1,0 +1,22 @@
+# EXFOR #         : A0502.038  
+# EXFOR Ver.      : 20160228
+# TRANS #         : A084
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : Proceedings of 40.Conf.Nucl.Spectroscopy Nucl.Struct.,Leningrad 1990 page 498
+# DOI             : N/A
+# Quantity        : natNi(p,x)51Cr cumulative production cross section
+# REACTION        : 28-NI-0(P,X)24-CR-51,CUM,SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodCr51_Aleksandrov_1990_a0502.038
+#
+# npts            : 1           
+# xmin            :   6.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   3.3600E-02
+# ymax            :   3.3600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  3.3600E-02  1.2000E-03
+#---------------------------------------------------

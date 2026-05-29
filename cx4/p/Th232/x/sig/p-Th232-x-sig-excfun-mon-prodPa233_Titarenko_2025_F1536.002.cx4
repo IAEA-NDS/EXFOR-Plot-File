@@ -1,0 +1,22 @@
+# EXFOR #         : F1536.002  
+# EXFOR Ver.      : 20251205
+# TRANS #         : F106
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 88 (2025) 578
+# DOI             : 10.1134/S1063778825601027
+# Quantity        : 232Th(p,x)233Pa independent production cross section
+# REACTION        : 90-TH-232(P,X)91-PA-233,,SIG
+# File ID         : p-Th232-x-sig-excfun-mon-prodPa233_Titarenko_2025_f1536.002
+#
+# npts            : 1           
+# xmin            :   2.0900E+07
+# xmax            :   2.0900E+07
+# ymin            :   5.4800E-04
+# ymax            :   5.4800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0900E+07  0.0000E+00  5.4800E-04  3.6000E-05
+#---------------------------------------------------

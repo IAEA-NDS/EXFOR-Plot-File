@@ -1,0 +1,22 @@
+# EXFOR #         : O0277.004  
+# EXFOR Ver.      : 20190830
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natN(p,x)7Be independent production cross section
+# REACTION        : 7-N-0(P,X)4-BE-7,,SIG
+# File ID         : p-N-x-sig-excfun-mon-prodBe7_Michel_1995_o0277.004
+#
+# npts            : 1           
+# xmin            :   1.6000E+09
+# xmax            :   1.6000E+09
+# ymin            :   1.3300E-02
+# ymax            :   1.3300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+09  0.0000E+00  1.3300E-02  1.3200E-03
+#---------------------------------------------------

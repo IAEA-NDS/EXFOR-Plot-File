@@ -1,0 +1,24 @@
+# EXFOR #         : O1099.070  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 181Ta(p,x)57Co cumulative production cross section
+# REACTION        : 73-TA-181(P,X)27-CO-57,CUM,SIG
+# File ID         : p-Ta181-x-sigc-excfun-mon-prodCo57_Michel_2002_o1099.070
+#
+# npts            : 3           
+# xmin            :   1.3800E+09
+# xmax            :   2.5800E+09
+# ymin            :   2.6800E-04
+# ymax            :   6.9200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3800E+09  1.0000E+06  2.6800E-04  3.4000E-05
+  1.5700E+09  1.0000E+06  3.0400E-04  4.1000E-05
+  2.5800E+09  1.0000E+06  6.9200E-04  9.6000E-05
+#---------------------------------------------------

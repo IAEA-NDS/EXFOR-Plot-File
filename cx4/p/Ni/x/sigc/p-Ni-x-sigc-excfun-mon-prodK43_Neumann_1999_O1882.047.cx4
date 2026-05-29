@@ -1,0 +1,24 @@
+# EXFOR #         : O1882.047  
+# EXFOR Ver.      : 20101220
+# TRANS #         : O044
+# Author          : S.Neumann
+# Reference       : Thesis  (1999)
+# DOI             : N/A
+# Quantity        : natNi(p,x)43K cumulative production cross section
+# REACTION        : 28-NI-0(P,X)19-K-43,CUM,SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodK43_Neumann_1999_o1882.047
+#
+# npts            : 3           
+# xmin            :   9.5700E+08
+# xmax            :   2.6000E+09
+# ymin            :   5.9500E-04
+# ymax            :   7.5300E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5700E+08  2.0000E+06  7.4600E-04  1.0000E-04
+  1.3590E+09  2.0000E+06  7.5300E-04  1.1200E-04
+  2.6000E+09  1.0000E+06  5.9500E-04  7.7000E-05
+#---------------------------------------------------

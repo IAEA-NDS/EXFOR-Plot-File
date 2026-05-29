@@ -1,0 +1,25 @@
+# EXFOR #         : O0277.012  
+# EXFOR Ver.      : 20110313
+# TRANS #         : O045
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 103 (1995) 183
+# DOI             : 10.1016/0168-583X(95)00566-8
+# Quantity        : natMg(p,x)20Ne cumulative production cross section
+# REACTION        : 12-MG-0(P,X)10-NE-20,CUM,SIG
+# File ID         : p-Mg-x-sigc-excfun-mon-prodNe20_Michel_1995_o0277.012
+#
+# npts            : 4           
+# xmin            :   8.0000E+08
+# xmax            :   2.6000E+09
+# ymin            :   2.0700E-02
+# ymax            :   3.3000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  2.9800E-02  1.9000E-03
+  1.2000E+09  0.0000E+00  3.2100E-02  2.0000E-03
+  1.6000E+09  0.0000E+00  3.3000E-02  2.5000E-03
+  2.6000E+09  0.0000E+00  2.0700E-02  1.4000E-03
+#---------------------------------------------------

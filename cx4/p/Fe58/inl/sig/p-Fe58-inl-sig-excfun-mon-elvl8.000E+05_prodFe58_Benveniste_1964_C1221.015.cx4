@@ -1,0 +1,25 @@
+# EXFOR #         : C1221.015  
+# EXFOR Ver.      : 20050408
+# TRANS #         : C073
+# Author          : J.Benveniste et al.
+# Reference       : Phys.Rev. 133 No.2 (1964) B323
+# DOI             : N/A
+# Quantity        : 58Fe(p,inl)58Fe partial cross section
+# REACTION        : 26-FE-58(P,INL)26-FE-58,PAR,SIG
+# File ID         : p-Fe58-inl-sig-excfun-mon-elvl8.000E+05_prodFe58_Benveniste_1964_c1221.015
+#
+# Elvl (eV)       :   8.0000E+05
+#
+# npts            : 2           
+# xmin            :   1.0930E+07
+# xmax            :   1.1660E+07
+# ymin            :   4.1400E-02
+# ymax            :   4.1400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0930E+07  0.0000E+00  4.1400E-02  0.0000E+00
+  1.1660E+07  0.0000E+00  4.1400E-02  0.0000E+00
+#---------------------------------------------------

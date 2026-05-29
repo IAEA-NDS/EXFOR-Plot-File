@@ -1,0 +1,22 @@
+# EXFOR #         : O0397.030  
+# EXFOR Ver.      : 20191007
+# TRANS #         : O071
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 page 184
+# DOI             : N/A
+# Quantity        : 59Co(p,x)57Co independent production cross section
+# REACTION        : 27-CO-59(P,X)27-CO-57,,SIG
+# File ID         : p-Co59-x-sig-excfun-mon-prodCo57_Titarenko_1996_o0397.030
+#
+# npts            : 1           
+# xmin            :   1.2000E+09
+# xmax            :   1.2000E+09
+# ymin            :   3.0100E-02
+# ymax            :   3.0100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  3.0100E-02  3.1000E-03
+#---------------------------------------------------

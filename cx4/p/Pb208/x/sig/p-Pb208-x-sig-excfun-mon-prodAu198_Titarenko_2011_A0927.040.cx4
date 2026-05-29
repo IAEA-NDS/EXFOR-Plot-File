@@ -1,0 +1,22 @@
+# EXFOR #         : A0927.040  
+# EXFOR Ver.      : 20250729
+# TRANS #         : A122
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.Rev.C 84 (2011) 064612
+# DOI             : 10.1103/PhysRevC.84.064612
+# Quantity        : 208Pb(p,x)198Au independent production cross section
+# REACTION        : 82-PB-208(P,X)79-AU-198,,SIG
+# File ID         : p-Pb208-x-sig-excfun-mon-prodAu198_Titarenko_2011_a0927.040
+#
+# npts            : 1           
+# xmin            :   5.0000E+08
+# xmax            :   5.0000E+08
+# ymin            :   2.0100E-03
+# ymax            :   2.0100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+08  0.0000E+00  2.0100E-03  1.5000E-03
+#---------------------------------------------------

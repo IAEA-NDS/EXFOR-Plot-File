@@ -1,0 +1,27 @@
+# EXFOR #         : A1126.002  
+# EXFOR Ver.      : 20240708
+# TRANS #         : A114
+# Author          : D.C.Dodder et al.
+# Reference       : Phys.Rev.C 15 (1977) 518
+# DOI             : 10.1103/PhysRevC.15.518
+# Quantity        : 4He(p,el)4He angular differential cross section
+# REACTION        : 2-HE-4(P,EL)2-HE-4,,DA
+# File ID         : p-He4-el-adxc-angdisc-mon-einc1.360E+07_prodHe4_Dodder_1977_a1126.002
+#
+# Einc (eV)       :   1.3600E+07
+#
+# npts            : 4           
+# xmin            :   25.5000000
+# xmax            :   83.8000000
+# ymin            :   4.9900E-02
+# ymax            :   2.7170E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  25.5000000   0.0000000  2.7170E-01  0.0000E+00
+  49.3500000   0.0000000  1.8190E-01  0.0000E+00
+  61.2200000   0.0000000  1.2850E-01  0.0000E+00
+  83.8000000   0.0000000  4.9900E-02  0.0000E+00
+#---------------------------------------------------

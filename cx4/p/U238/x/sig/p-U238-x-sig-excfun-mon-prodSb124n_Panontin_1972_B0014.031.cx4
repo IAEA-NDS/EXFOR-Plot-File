@@ -1,0 +1,22 @@
+# EXFOR #         : B0014.031  
+# EXFOR Ver.      : 20220317
+# TRANS #         : B033
+# Author          : J.A.Panontin et al.
+# Reference       : J.Inorg.Nucl.Chem. 34 (1972) 1485
+# DOI             : 10.1016/0022-1902(72)80268-9
+# Quantity        : 238U(p,f)124m2Sb independent production cross section
+# REACTION        : 92-U-238(P,F)51-SB-124-M2,,SIG
+# File ID         : p-U238-x-sig-excfun-mon-prodSb124n_Panontin_1972_b0014.031
+#
+# npts            : 1           
+# xmin            :   4.5000E+08
+# xmax            :   4.5000E+08
+# ymin            :   1.3000E-03
+# ymax            :   1.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+08  0.0000E+00  1.3000E-03  3.0000E-04
+#---------------------------------------------------

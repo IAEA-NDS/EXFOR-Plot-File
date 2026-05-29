@@ -1,0 +1,25 @@
+# EXFOR #         : O0889.003  
+# EXFOR Ver.      : 20030501
+# TRANS #         : 0000
+# Author          : J.Cohen-Ganouna et al.
+# Reference       : Nucl.Phys. 40 (1963) 82
+# DOI             : 10.1016/0029-5582(63)90254-2
+# Quantity        : 40Ar(p,el)40Ar angular differential cross section
+# REACTION        : 18-AR-40(P,EL)18-AR-40,,DA
+# File ID         : p-Ar40-el-adxc-angdisc-mon-einc1.852E+06_prodAr40_Cohen+Ganouna_1963_o0889.003
+#
+# Einc (eV)       :   1.8520E+06
+# dEinc (eV)      :   4.0000E+02
+#
+# npts            : 1           
+# xmin            :  141.8300000
+# xmax            :  141.8300000
+# ymin            :   1.6970E-01
+# ymax            :   1.6970E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 141.8300000   0.0000000  1.6970E-01  0.0000E+00
+#---------------------------------------------------

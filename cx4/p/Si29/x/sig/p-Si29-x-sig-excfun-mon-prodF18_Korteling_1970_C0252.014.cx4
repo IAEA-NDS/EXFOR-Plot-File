@@ -1,0 +1,23 @@
+# EXFOR #         : C0252.014  
+# EXFOR Ver.      : 19881005
+# TRANS #         : 0000
+# Author          : R.R.Korteling et al.
+# Reference       : Phys.Rev.C 1 (1970) 193
+# DOI             : 10.1103/PhysRevC.1.193
+# Quantity        : 29Si(p,x)18F independent production cross section
+# REACTION        : 14-SI-29(P,X)9-F-18,,SIG
+# File ID         : p-Si29-x-sig-excfun-mon-prodF18_Korteling_1970_c0252.014
+#
+# npts            : 2           
+# xmin            :   3.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   5.6600E-03
+# ymax            :   7.3100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+08  0.0000E+00  5.6600E-03  4.2000E-05
+  4.0000E+08  0.0000E+00  7.3100E-03  2.8000E-04
+#---------------------------------------------------

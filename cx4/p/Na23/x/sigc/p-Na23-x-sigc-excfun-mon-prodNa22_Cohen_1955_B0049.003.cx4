@@ -1,0 +1,22 @@
+# EXFOR #         : B0049.003  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : B.L.Cohen et al.
+# Reference       : Phys.Rev. 99 (1955) 723
+# DOI             : 10.1103/PhysRev.99.723
+# Quantity        : 23Na(p,x)22Na cumulative production cross section
+# REACTION        : 11-NA-23(P,X)11-NA-22,CUM,SIG,,,EXP
+# File ID         : p-Na23-x-sigc-excfun-mon-prodNa22_Cohen_1955_b0049.003
+#
+# npts            : 1           
+# xmin            :   2.1500E+07
+# xmax            :   2.1500E+07
+# ymin            :   2.2500E-01
+# ymax            :   2.2500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1500E+07  0.0000E+00  2.2500E-01  0.0000E+00
+#---------------------------------------------------

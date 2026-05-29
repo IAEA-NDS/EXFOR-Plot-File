@@ -1,0 +1,24 @@
+# EXFOR #         : C0272.012.1
+# EXFOR Ver.      : 20160809
+# TRANS #         : C161
+# Author          : R.L.Brodzinski et al.
+# Reference       : Phys.Rev.C 4 (1971) 1257
+# DOI             : 10.1103/PhysRevC.4.1257
+# Quantity        : natFe(p,x)46Sc independent production cross section
+# REACTION        : 26-FE-0(P,X)21-SC-46,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodSc46_Brodzinski_1971_c0272.012.1
+#
+# npts            : 3           
+# xmin            :   3.2000E+08
+# xmax            :   5.8500E+08
+# ymin            :   3.7400E-03
+# ymax            :   5.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2000E+08  0.0000E+00  3.7400E-03  8.8000E-04
+  4.3400E+08  0.0000E+00  5.4000E-03  1.4000E-03
+  5.8500E+08  0.0000E+00  5.4000E-03  1.8000E-03
+#---------------------------------------------------

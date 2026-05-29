@@ -1,0 +1,22 @@
+# EXFOR #         : C0346.008.2
+# EXFOR Ver.      : 20230918
+# TRANS #         : C233
+# Author          : R.F.Schall et al.
+# Reference       : Phys.Rev.C 2 (1970) 1924
+# DOI             : 10.1103/PhysRevC.2.1924
+# Quantity        : 128Te(p,x)127gTe independent production cross section
+# REACTION        : 52-TE-128(P,X)52-TE-127-G,,SIG
+# File ID         : p-Te128-x-sig-excfun-mon-prodTe127g_Schall_1970_c0346.008.2
+#
+# npts            : 1           
+# xmin            :   3.0000E+08
+# xmax            :   3.0000E+08
+# ymin            :   2.7500E-02
+# ymax            :   2.7500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+08  0.0000E+00  2.7500E-02  4.2000E-03
+#---------------------------------------------------

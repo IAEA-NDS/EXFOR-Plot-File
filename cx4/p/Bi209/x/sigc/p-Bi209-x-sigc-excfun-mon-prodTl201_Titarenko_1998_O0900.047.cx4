@@ -1,0 +1,23 @@
+# EXFOR #         : O0900.047  
+# EXFOR Ver.      : 20160826
+# TRANS #         : O058
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Nucl.Instrum.Meth.A 414 (1998) 73
+# DOI             : 10.1016/S0168-9002(98)00530-0
+# Quantity        : 209Bi(p,x)201Tl cumulative production cross section
+# REACTION        : 83-BI-209(P,X)81-TL-201,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodTl201_Titarenko_1998_o0900.047
+#
+# npts            : 2           
+# xmin            :   1.3000E+08
+# xmax            :   1.5000E+09
+# ymin            :   4.6500E-02
+# ymax            :   2.0000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  0.0000E+00  2.0000E-01  3.3000E-02
+  1.5000E+09  0.0000E+00  4.6500E-02  5.6000E-03
+#---------------------------------------------------

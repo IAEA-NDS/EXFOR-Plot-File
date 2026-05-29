@@ -1,0 +1,22 @@
+# EXFOR #         : O2001.045  
+# EXFOR Ver.      : 20120808
+# TRANS #         : O049
+# Author          : S.Kraemer et al.
+# Reference       : Inorg.Nucl.Chem.Lett 13 (1977) 205
+# DOI             : 10.1016/0020-1650(77)80095-0
+# Quantity        : 197Au(p,x)127Xe cumulative production cross section
+# REACTION        : 79-AU-197(P,X)54-XE-127,CUM,SIG
+# File ID         : p-Au197-x-sigc-excfun-mon-prodXe127_Kraemer_1977_o2001.045
+#
+# npts            : 1           
+# xmin            :   2.4000E+10
+# xmax            :   2.4000E+10
+# ymin            :   7.3700E-03
+# ymax            :   7.3700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+10  0.0000E+00  7.3700E-03  1.8400E-03
+#---------------------------------------------------

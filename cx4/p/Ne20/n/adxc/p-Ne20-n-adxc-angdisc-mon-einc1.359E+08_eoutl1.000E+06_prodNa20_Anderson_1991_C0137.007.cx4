@@ -1,0 +1,31 @@
+# EXFOR #         : C0137.007  
+# EXFOR Ver.      : 19970331
+# TRANS #         : 0000
+# Author          : B.D.Anderson et al.
+# Reference       : Phys.Rev.C 43 (1991) 50
+# DOI             : 10.1103/PhysRevC.43.50
+# Quantity        : 20Ne(p,n)20Na partial angular differential cross section
+# REACTION        : 10-NE-20(P,N)11-NA-20,PAR,DA
+# File ID         : p-Ne20-n-adxc-angdisc-mon-einc1.359E+08_eoutl1.000E+06_prodNa20_Anderson_1991_c0137.007
+#
+# Einc (eV)       :   1.3590E+08
+# Eout,lab (eV)   :   1.0000E+06
+# dEout,lab (eV)  :   1.0000E+05
+#
+# npts            : 6           
+# xmin            :    0.0000000
+# xmax            :   55.3100000
+# ymin            :   1.4730E-07
+# ymax            :   1.0760E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  1.0760E-03  4.7460E-06
+   8.4000000   0.0000000  5.5920E-04  7.3930E-06
+  25.1800000   0.0000000  2.8470E-05  3.4070E-05
+  33.5300000   0.0000000  2.5640E-05  3.1320E-05
+  47.4500000   0.0000000  1.6870E-06  7.3130E-06
+  55.3100000   0.0000000  1.4730E-07  5.7770E-07
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : O0505.024  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : E.Gilabert et al.
+# Reference       : Nucl.Instrum.Meth.B 145 (1998) 293
+# DOI             : 10.1016/S0168-583X(98)00411-X
+# Quantity        : natRb(p,x)57Co cumulative production cross section
+# REACTION        : 37-RB-0(P,X)27-CO-57,CUM,SIG
+# File ID         : p-Rb-x-sigc-excfun-mon-prodCo57_Gilabert_1998_o0505.024
+#
+# npts            : 5           
+# xmin            :   5.7500E+08
+# xmax            :   2.5700E+09
+# ymin            :   2.1400E-03
+# ymax            :   1.1600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.7500E+08  1.0000E+06  2.1400E-03  2.4000E-04
+  7.7700E+08  1.0000E+06  4.9900E-03  5.2000E-04
+  9.6200E+08  2.0000E+06  7.0300E-03  7.2000E-04
+  1.3600E+09  2.0000E+06  8.9400E-03  9.3000E-04
+  2.5700E+09  2.0000E+06  1.1600E-02  1.3000E-03
+#---------------------------------------------------

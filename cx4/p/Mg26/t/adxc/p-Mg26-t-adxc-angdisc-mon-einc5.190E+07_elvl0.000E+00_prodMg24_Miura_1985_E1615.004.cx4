@@ -1,0 +1,25 @@
+# EXFOR #         : E1615.004  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : K.Miura et al.
+# Reference       : Nucl.Phys.A 436 No.2 (1985) 221
+# DOI             : 10.1016/0375-9474(85)90197-6
+# Quantity        : 26Mg(p,t)24Mg partial angular differential cross section
+# REACTION        : 12-MG-26(P,T)12-MG-24,PAR,DA
+# File ID         : p-Mg26-t-adxc-angdisc-mon-einc5.190E+07_elvl0.000E+00_prodMg24_Miura_1985_e1615.004
+#
+# Einc (eV)       :   5.1900E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   25.8000000
+# xmax            :   25.8000000
+# ymin            :   2.0400E-04
+# ymax            :   2.0400E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  25.8000000   0.0000000  2.0400E-04  1.2000E-05
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C0293.006.2
+# EXFOR Ver.      : 19871120
+# TRANS #         : 0000
+# Author          : R.Korteling et al.
+# Reference       : Phys.Rev.C 2 (1970) 957
+# DOI             : 10.1103/PhysRevC.2.957
+# Quantity        : natNi(p,x)33P cumulative production cross section
+# REACTION        : 28-NI-0(P,X)15-P-33,CUM,SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodP33_Korteling_1970_c0293.006.2
+#
+# npts            : 1           
+# xmin            :   5.5000E+08
+# xmax            :   5.5000E+08
+# ymin            :   7.5800E-04
+# ymax            :   7.5800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5000E+08  0.0000E+00  7.5800E-04  2.2000E-05
+#---------------------------------------------------

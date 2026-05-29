@@ -1,0 +1,23 @@
+# EXFOR #         : D1067.006  
+# EXFOR Ver.      : 20250409
+# TRANS #         : D149
+# Author          : N.Muhammad et al.
+# Reference       : Radiochim.Acta 113 (2025) 9
+# DOI             : 10.1515/ract-2024-0310
+# Quantity        : natCu(p,x)63Zn independent production cross section
+# REACTION        : 29-CU-0(P,X)30-ZN-63,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodZn63_Muhammad_2025_d1067.006
+#
+# npts            : 2           
+# xmin            :   5.0700E+06
+# xmax            :   5.4600E+06
+# ymin            :   5.4700E-02
+# ymax            :   8.9900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.4600E+06  1.9000E+05  8.9900E-02  5.5000E-03
+  5.0700E+06  2.0000E+05  5.4700E-02  4.3000E-03
+#---------------------------------------------------

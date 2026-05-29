@@ -1,0 +1,25 @@
+# EXFOR #         : C0899.012  
+# EXFOR Ver.      : 20170619
+# TRANS #         : C167
+# Author          : W.F.Hornyak et al.
+# Reference       : Phys.Rev. 100 (1955) 1409
+# DOI             : 10.1103/PhysRev.100.1409
+# Quantity        : 16O(p,inl)16O partial cross section
+# REACTION        : 8-O-16(P,INL)8-O-16,PAR,SIG
+# File ID         : p-O16-inl-sig-lvldis-mon-einc1.900E+07_prodO16_Hornyak_1955_c0899.012
+#
+# Einc (eV)       :   1.9000E+07
+# dEinc (eV)      :   1.0000E+04
+#
+# npts            : 1           
+# xmin            :   6.1400E+06
+# xmax            :   6.1400E+06
+# ymin            :   5.9000E-02
+# ymax            :   5.9000E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.1400E+06  0.0000E+00  5.9000E-02  7.0000E-03
+#---------------------------------------------------

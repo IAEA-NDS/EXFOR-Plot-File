@@ -1,0 +1,22 @@
+# EXFOR #         : A0927.010  
+# EXFOR Ver.      : 20120126
+# TRANS #         : A076
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.Rev.C 84 (2011) 064612
+# DOI             : 10.1103/PhysRevC.84.064612
+# Quantity        : 208Pb(p,x)203Pb cumulative production cross section
+# REACTION        : 82-PB-208(P,X)82-PB-203,CUM,SIG
+# File ID         : p-Pb208-x-sigc-excfun-mon-prodPb203_Titarenko_2011_a0927.010
+#
+# npts            : 1           
+# xmin            :   5.0000E+08
+# xmax            :   5.0000E+08
+# ymin            :   4.5500E-02
+# ymax            :   4.5500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+08  0.0000E+00  4.5500E-02  3.8000E-03
+#---------------------------------------------------

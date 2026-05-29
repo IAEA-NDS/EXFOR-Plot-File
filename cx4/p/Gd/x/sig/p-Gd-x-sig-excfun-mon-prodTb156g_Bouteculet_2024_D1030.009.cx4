@@ -1,0 +1,22 @@
+# EXFOR #         : D1030.009  
+# EXFOR Ver.      : 20250311
+# TRANS #         : D149
+# Author          : M.Bouteculet et al.
+# Reference       : Appl.Radiat.Isot. 213 (2024) 111485
+# DOI             : 10.1016/j.apradiso.2024.111485
+# Quantity        : natGd(p,x)156gTb independent production cross section
+# REACTION        : 64-GD-0(P,X)65-TB-156-G,,SIG
+# File ID         : p-Gd-x-sig-excfun-mon-prodTb156g_Bouteculet_2024_d1030.009
+#
+# npts            : 1           
+# xmin            :   2.6800E+07
+# xmax            :   2.6800E+07
+# ymin            :   2.2000E-01
+# ymax            :   2.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6800E+07  2.0000E+05  2.2000E-01  1.2000E-02
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : A1464.007  
+# EXFOR Ver.      : 20240925
+# TRANS #         : A119
+# Author          : G.M.Lerner et al.
+# Reference       : Nucl.Intrum.Meth. 69 (1969) 115
+# DOI             : 10.1016/0029-554X(69)90581-3
+# Quantity        : 19F(p,a)16O angular differential cross section
+# REACTION        : 9-F-19(P,A)8-O-16,,DA
+# File ID         : p-F19-a-adxl-angdisl-mon-einc1.360E+06_prodO16_Lerner_1969_a1464.007
+#
+# Einc (eV)       :   1.3600E+06
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   1.0200E-03
+# ymax            :   1.0200E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  1.0200E-03  1.0000E-04
+#---------------------------------------------------

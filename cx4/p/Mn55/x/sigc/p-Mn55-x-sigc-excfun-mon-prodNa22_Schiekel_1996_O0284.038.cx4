@@ -1,0 +1,25 @@
+# EXFOR #         : O0284.038  
+# EXFOR Ver.      : 20191005
+# TRANS #         : O071
+# Author          : Th.Schiekel et al.
+# Reference       : Nucl.Instrum.Meth.B 114 (1996) 91
+# DOI             : 10.1016/0168-583X(96)00145-0
+# Quantity        : 55Mn(p,x)22Na cumulative production cross section
+# REACTION        : 25-MN-55(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Mn55-x-sigc-excfun-mon-prodNa22_Schiekel_1996_o0284.038
+#
+# npts            : 4           
+# xmin            :   2.3900E+08
+# xmax            :   3.8400E+08
+# ymin            :   3.7300E-05
+# ymax            :   1.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3900E+08  1.6300E+06  3.7300E-05  6.7500E-06
+  2.8200E+08  1.0600E+06  6.6500E-05  1.3300E-05
+  3.4800E+08  1.5900E+06  1.0300E-04  1.2200E-05
+  3.8400E+08  1.0400E+06  1.3000E-04  1.3900E-05
+#---------------------------------------------------

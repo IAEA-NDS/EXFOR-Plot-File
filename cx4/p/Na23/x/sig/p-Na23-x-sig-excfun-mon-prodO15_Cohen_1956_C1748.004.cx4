@@ -1,0 +1,24 @@
+# EXFOR #         : C1748.004  
+# EXFOR Ver.      : 20180511
+# TRANS #         : C175
+# Author          : B.L.Cohen
+# Reference       : Phys.Rev. 102 (1956) 453
+# DOI             : 10.1103/PhysRev.102.453
+# Quantity        : 23Na(p,x)15O independent production cross section
+# REACTION        : 11-NA-23(P,X)8-O-15,,SIG
+# File ID         : p-Na23-x-sig-excfun-mon-prodO15_Cohen_1956_c1748.004
+#
+# npts            : 3           
+# xmin            :   2.6974E+07
+# xmax            :   3.1161E+07
+# ymin            :   5.1790E-03
+# ymax            :   3.9030E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6974E+07  0.0000E+00  5.1790E-03  0.0000E+00
+  3.0194E+07  0.0000E+00  2.6670E-02  0.0000E+00
+  3.1161E+07  0.0000E+00  3.9030E-02  0.0000E+00
+#---------------------------------------------------

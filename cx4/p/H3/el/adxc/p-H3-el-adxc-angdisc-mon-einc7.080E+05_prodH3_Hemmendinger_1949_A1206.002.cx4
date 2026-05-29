@@ -1,0 +1,26 @@
+# EXFOR #         : A1206.002  
+# EXFOR Ver.      : 20250816
+# TRANS #         : A123
+# Author          : A.Hemmendinger et al.
+# Reference       : Phys.Rev. 76 (1949) 1137
+# DOI             : 10.1103/PhysRev.76.1137
+# Quantity        : 3H(p,el)3H angular differential cross section
+# REACTION        : 1-H-3(P,EL)1-H-3,,DA
+# File ID         : p-H3-el-adxc-angdisc-mon-einc7.080E+05_prodH3_Hemmendinger_1949_a1206.002
+#
+# Einc (eV)       :   7.0800E+05
+#
+# npts            : 3           
+# xmin            :   58.8000000
+# xmax            :   77.5000000
+# ymin            :   2.5600E-01
+# ymax            :   3.8100E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  58.8000000   0.0000000  3.8100E-01  0.0000E+00
+  65.7000000   0.0000000  3.3000E-01  0.0000E+00
+  77.5000000   0.0000000  2.5600E-01  0.0000E+00
+#---------------------------------------------------

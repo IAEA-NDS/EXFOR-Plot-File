@@ -1,0 +1,22 @@
+# EXFOR #         : O0088.027  
+# EXFOR Ver.      : 20151123
+# TRANS #         : O056
+# Author          : H.Weigel et al.
+# Reference       : Radioch.Radioan.Let. 21 (1975) 293
+# DOI             : N/A
+# Quantity        : natNi(p,x)51Cr cumulative production cross section
+# REACTION        : 28-NI-0(P,X)24-CR-51,CUM,SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodCr51_Weigel_1975_o0088.027
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   4.3900E-02
+# ymax            :   4.3900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  4.3900E-02  9.3000E-03
+#---------------------------------------------------

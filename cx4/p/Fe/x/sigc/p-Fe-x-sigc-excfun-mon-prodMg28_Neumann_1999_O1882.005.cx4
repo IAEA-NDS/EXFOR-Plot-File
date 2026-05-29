@@ -1,0 +1,24 @@
+# EXFOR #         : O1882.005  
+# EXFOR Ver.      : 20101220
+# TRANS #         : O044
+# Author          : S.Neumann
+# Reference       : Thesis  (1999)
+# DOI             : N/A
+# Quantity        : natFe(p,x)28Mg cumulative production cross section
+# REACTION        : 26-FE-0(P,X)12-MG-28,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodMg28_Neumann_1999_o1882.005
+#
+# npts            : 3           
+# xmin            :   9.5900E+08
+# xmax            :   2.6000E+09
+# ymin            :   2.1800E-04
+# ymax            :   3.6800E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5900E+08  2.0000E+06  2.1800E-04  3.3000E-05
+  1.3610E+09  2.0000E+06  3.3500E-04  5.1000E-05
+  2.6000E+09  1.0000E+06  3.6800E-04  5.4000E-05
+#---------------------------------------------------

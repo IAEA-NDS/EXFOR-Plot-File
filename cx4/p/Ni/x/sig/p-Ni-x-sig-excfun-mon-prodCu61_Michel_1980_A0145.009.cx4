@@ -1,0 +1,26 @@
+# EXFOR #         : A0145.009  
+# EXFOR Ver.      : 20240818
+# TRANS #         : A116
+# Author          : R.Michel et al.
+# Reference       : J.Radioanal.Chem. 59 (1980) 467
+# DOI             : 10.1007/BF02517298
+# Quantity        : natNi(p,x)61Cu independent production cross section
+# REACTION        : 28-NI-0(P,X)29-CU-61,,SIG
+# File ID         : p-Ni-x-sig-excfun-mon-prodCu61_Michel_1980_a0145.009
+#
+# npts            : 5           
+# xmin            :   7.7500E+06
+# xmax            :   1.6260E+07
+# ymin            :   2.3700E-03
+# ymax            :   5.0400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6260E+07  2.4000E+05  4.4800E-03  7.6000E-04
+  1.4590E+07  3.0000E+05  2.3700E-03  3.2000E-04
+  1.2780E+07  3.9000E+05  3.8900E-03  6.5000E-04
+  1.0710E+07  4.3000E+05  5.0400E-03  6.0000E-04
+  7.7500E+06  5.4000E+05  3.2700E-03  3.8000E-04
+#---------------------------------------------------

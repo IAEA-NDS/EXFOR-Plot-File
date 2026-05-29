@@ -1,0 +1,22 @@
+# EXFOR #         : E2659.009  
+# EXFOR Ver.      : 20220818
+# TRANS #         : E135
+# Author          : A.Frotscher et al.
+# Reference       : Phys.Rev.Lett. 125 (2020) 012501
+# DOI             : 10.1103/PhysRevLett.125.012501
+# Quantity        : 70Ni(p,3p)68Fe cross section
+# REACTION        : 28-NI-70(P,3P)26-FE-68,,SIG
+# File ID         : p-Ni70-3p-sig-excfun-mon-prodFe68_Frotscher_2020_e2659.009
+#
+# npts            : 1           
+# xmin            :   2.9500E+08
+# xmax            :   2.9500E+08
+# ymin            :   2.0700E-04
+# ymax            :   2.0700E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9500E+08  0.0000E+00  2.0700E-04  1.2000E-05
+#---------------------------------------------------

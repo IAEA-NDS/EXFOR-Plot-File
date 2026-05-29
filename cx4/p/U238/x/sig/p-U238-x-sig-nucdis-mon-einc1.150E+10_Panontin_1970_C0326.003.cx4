@@ -1,0 +1,27 @@
+# EXFOR #         : C0326.003  
+# EXFOR Ver.      : 19961010
+# TRANS #         : 0000
+# Author          : J.A.Panontin et al.
+# Reference       : J.Inorg.Nucl.Chem. 32 (1970) 1775
+# DOI             : 10.1016/0022-1902(70)80582-6
+# Quantity        : 238U(p,f) independent production cross section
+# REACTION        : 92-U-238(P,F)ELEM/MASS,IND,SIG
+# File ID         : p-U238-x-sig-nucdis-mon-einc1.150E+10_Panontin_1970_c0326.003
+#
+# Einc (eV)       :   1.1500E+10
+#
+# npts            : 4           
+# xmin            : 46111.1     
+# xmax            : 48115.1     
+# ymin            :   5.6000E-03
+# ymax            :   1.3800E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     46111.1  5.6000E-03  8.0000E-04
+     47112.9  9.3500E-03  9.0000E-05
+     47113.0  1.3800E-02  1.0000E-04
+     48115.1  6.4000E-03  3.0000E-04
+#---------------------------------------------------

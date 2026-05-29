@@ -1,0 +1,23 @@
+# EXFOR #         : E2581.003  
+# EXFOR Ver.      : 20181127
+# TRANS #         : E117
+# Author          : S.Meigo et al.
+# Reference       : Proceedings of 13th Int.Meeting on Nucl.Appl.of Accel., Quebec, 2017 page 396
+# DOI             : N/A
+# Quantity        : 27Al(p,x)22Na cumulative production cross section
+# REACTION        : 13-AL-27(P,X)11-NA-22,(CUM),SIG
+# File ID         : p-Al27-x-sigc-excfun-mon-prodNa22_Meigo_2017_e2581.003
+#
+# npts            : 2           
+# xmin            :   4.0000E+08
+# xmax            :   2.9840E+09
+# ymin            :   1.0570E-02
+# ymax            :   1.5420E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  1.1000E+06  1.5420E-02  5.6000E-04
+  2.9840E+09  8.1000E+06  1.0570E-02  3.8000E-04
+#---------------------------------------------------

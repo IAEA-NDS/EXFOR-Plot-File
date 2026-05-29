@@ -1,0 +1,22 @@
+# EXFOR #         : O0346.011  
+# EXFOR Ver.      : 20220106
+# TRANS #         : O087
+# Author          : O.V.Shvedov et al.
+# Reference       : Progress report ITEF-81-93, 1993
+# DOI             : N/A
+# Quantity        : 59Co(p,x)47Sc cumulative production cross section
+# REACTION        : 27-CO-59(P,X)21-SC-47,(CUM),SIG
+# File ID         : p-Co59-x-sigc-excfun-mon-prodSc47_Shvedov_1993_o0346.011
+#
+# npts            : 1           
+# xmin            :   1.2000E+09
+# xmax            :   1.2000E+09
+# ymin            :   3.6600E-03
+# ymax            :   3.6600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  3.6600E-03  2.5000E-04
+#---------------------------------------------------

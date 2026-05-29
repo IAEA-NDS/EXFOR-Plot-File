@@ -1,0 +1,31 @@
+# EXFOR #         : D0735.002  
+# EXFOR Ver.      : 20140610
+# TRANS #         : D094
+# Author          : S.S.Dimitrova et al.
+# Reference       : Phys.Rev.C 89 (2014) 034616
+# DOI             : 10.1103/PhysRevC.89.034616
+# Quantity        : 93Nb(p,a+x) double differential cross section
+# REACTION        : 41-NB-93(P,X)2-HE-4,,DA/DE
+# File ID         : p-Nb93-xa-ddxl-angdisl-mon-einc1.600E+08_eoutl1.580E+08_Dimitrova_2014_d0735.002
+#
+# Einc (eV)       :   1.6000E+08
+# dEinc (eV)      :   5.0000E+05
+# Eout,lab (eV)   :   1.5800E+08
+# dEout,lab (eV)  :   6.3200E+06
+#
+# npts            : 5           
+# xmin            :   15.0000000
+# xmax            :   40.0000000
+# ymin            :   2.0000E-15
+# ymax            :   1.0800E-13
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  15.0000000   0.0000000  8.8700E-14  9.6700E-15
+  20.0000000   0.0000000  1.0800E-13  1.3000E-14
+  25.0000000   0.0000000  2.2400E-14  5.2700E-15
+  35.0000000   0.0000000  1.0800E-14  3.8100E-15
+  40.0000000   0.0000000  2.0000E-15  7.0600E-16
+#---------------------------------------------------

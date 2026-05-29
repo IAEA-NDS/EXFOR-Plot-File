@@ -1,0 +1,25 @@
+# EXFOR #         : O0276.080  
+# EXFOR Ver.      : 20190827
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 129 (1997) 153
+# DOI             : 10.1016/S0168-583X(97)00213-9
+# Quantity        : 59Co(p,x)26gAl independent production cross section
+# REACTION        : 27-CO-59(P,X)13-AL-26-G,,SIG
+# File ID         : p-Co59-x-sig-excfun-mon-prodAl26g_Michel_1997_o0276.080
+#
+# npts            : 4           
+# xmin            :   2.3400E+08
+# xmax            :   1.6000E+09
+# ymin            :   9.0000E-06
+# ymax            :   3.2100E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3400E+08  1.7000E+06  9.0000E-06  3.0000E-06
+  2.7800E+08  1.2000E+06  2.0000E-05  8.0000E-06
+  3.4400E+08  1.7000E+06  3.6000E-05  8.0000E-06
+  1.6000E+09  1.0000E+06  3.2100E-04  2.4000E-05
+#---------------------------------------------------

@@ -1,0 +1,23 @@
+# EXFOR #         : O0608.002  
+# EXFOR Ver.      : 20230406
+# TRANS #         : O095
+# Author          : H.G.de Carvalho et al.
+# Reference       : Nuovo Cim. 27 (1963) 468
+# DOI             : 10.1007/BF02785555
+# Quantity        : natU(p,f) cross section
+# REACTION        : 92-U-0(P,F),,SIG
+# File ID         : p-U-f-sig-excfun-mon-de%Carvalho_1963_o0608.002
+#
+# npts            : 2           
+# xmin            :   2.0000E+10
+# xmax            :   2.1800E+10
+# ymin            :   3.5000E-01
+# ymax            :   3.7000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+10  0.0000E+00  3.7000E-01  1.3000E-01
+  2.1800E+10  0.0000E+00  3.5000E-01  9.0000E-02
+#---------------------------------------------------

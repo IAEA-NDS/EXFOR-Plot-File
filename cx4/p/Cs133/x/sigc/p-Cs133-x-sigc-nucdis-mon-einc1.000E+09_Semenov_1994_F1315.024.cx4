@@ -1,0 +1,31 @@
+# EXFOR #         : F1315.024  
+# EXFOR Ver.      : 20210627
+# TRANS #         : F085
+# Author          : V.G.Semenov et al.
+# Reference       : Proceedings of Specialists' Meet.Intermed.Ene.Nucl.Data, Paris, 1994 page 389
+# DOI             : N/A
+# Quantity        : 133Cs(p,x) cumulative production cross section
+# REACTION        : 55-CS-133(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-Cs133-x-sigc-nucdis-mon-einc1.000E+09_Semenov_1994_f1315.024
+#
+# Einc (eV)       :   1.0000E+09
+#
+# npts            : 8           
+# xmin            : 34075.9     
+# xmax            : 51115.9     
+# ymin            :   2.4000E-04
+# ymax            :   2.8000E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     34075.9  4.6000E-04  9.0000E-05
+     37083.9  6.8000E-04  1.2000E-04
+     39087.9  3.9000E-03  7.0000E-04
+     40089.9  4.4000E-03  7.0000E-04
+     44103.9  2.4000E-04  4.2000E-04
+     49111.9  2.0000E-02  3.6000E-03
+     50113.9  2.8000E-02  8.5000E-03
+     51115.9  2.3000E-02  4.1000E-03
+#---------------------------------------------------

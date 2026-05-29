@@ -1,0 +1,27 @@
+# EXFOR #         : C2014.005  
+# EXFOR Ver.      : 20130701
+# TRANS #         : C133
+# Author          : D.A.Miller et al.
+# Reference       : J.Rad.Nucl.Chem. 123 (1988) 643
+# DOI             : 10.1007/BF02034924
+# Quantity        : natMo(p,x) independent production cross section
+# REACTION        : 42-MO-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Mo-x-sig-nucdis-mon-einc8.000E+08_Miller_1988_c2014.005
+#
+# Einc (eV)       :   8.0000E+08
+#
+# npts            : 4           
+# xmin            : 33074.9     
+# xmax            : 41092.9     
+# ymin            :   1.4000E-03
+# ymax            :   9.7000E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     33074.9  4.6000E-03  0.0000E+00
+     37084.9  5.7000E-03  1.0000E-04
+     37086.9  1.4000E-03  0.0000E+00
+     41092.9  9.7000E-03  1.0000E-04
+#---------------------------------------------------

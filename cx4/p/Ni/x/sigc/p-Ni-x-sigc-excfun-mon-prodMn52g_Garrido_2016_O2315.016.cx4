@@ -1,0 +1,25 @@
+# EXFOR #         : O2315.016  
+# EXFOR Ver.      : 20230521
+# TRANS #         : O096
+# Author          : E.Garrido et al.
+# Reference       : Nucl.Instrum.Meth.B 383 (2016) 191
+# DOI             : 10.1016/j.nimb.2016.07.011
+# Quantity        : natNi(p,x)52gMn cumulative production cross section
+# REACTION        : 28-NI-0(P,X)25-MN-52-G,M+,SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodMn52g_Garrido_2016_o2315.016
+#
+# npts            : 4           
+# xmin            :   4.0780E+07
+# xmax            :   6.9810E+07
+# ymin            :   4.2000E-04
+# ymax            :   2.3340E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.9810E+07  5.7000E+05  1.7590E-02  1.3200E-03
+  5.7340E+07  1.0700E+06  2.3340E-02  2.1700E-03
+  4.5660E+07  5.8000E+05  2.9900E-03  2.7000E-04
+  4.0780E+07  8.0000E+05  4.2000E-04  5.0000E-05
+#---------------------------------------------------

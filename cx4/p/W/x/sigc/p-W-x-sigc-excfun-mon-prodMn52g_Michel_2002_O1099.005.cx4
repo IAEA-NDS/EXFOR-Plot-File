@@ -1,0 +1,23 @@
+# EXFOR #         : O1099.005  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : natW(p,x)52gMn cumulative production cross section
+# REACTION        : 74-W-0(P,X)25-MN-52-G,CUM,SIG
+# File ID         : p-W-x-sigc-excfun-mon-prodMn52g_Michel_2002_o1099.005
+#
+# npts            : 2           
+# xmin            :   2.5800E+09
+# xmax            :   2.5900E+09
+# ymin            :   2.5400E-04
+# ymax            :   3.6580E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5800E+09  1.0020E+06  3.6580E-04  7.2840E-05
+  2.5900E+09  1.0100E+06  2.5400E-04  3.4730E-05
+#---------------------------------------------------

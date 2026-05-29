@@ -1,0 +1,23 @@
+# EXFOR #         : C0337.020  
+# EXFOR Ver.      : 20241014
+# TRANS #         : C241
+# Author          : J.A.Panontin et al.
+# Reference       : Phys.Rev. 165 (1968) 1273
+# DOI             : 10.1103/PhysRev.165.1273
+# Quantity        : natIn(p,x)113gAg cumulative production cross section
+# REACTION        : 49-IN-0(P,X)47-AG-113-G,(M),SIG
+# File ID         : p-In-x-sigc-excfun-mon-prodAg113g_Panontin_1968_c0337.020
+#
+# npts            : 2           
+# xmin            :   2.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   7.6000E-05
+# ymax            :   2.8600E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  7.6000E-05  3.1000E-05
+  4.0000E+08  0.0000E+00  2.8600E-04  1.4000E-05
+#---------------------------------------------------

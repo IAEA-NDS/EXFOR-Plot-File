@@ -1,0 +1,22 @@
+# EXFOR #         : O0280.010  
+# EXFOR Ver.      : 20131029
+# TRANS #         : O051
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 42 (1989) 76
+# DOI             : 10.1016/0168-583X(89)90013-X
+# Quantity        : 27Al(p,x)20Ne cumulative production cross section
+# REACTION        : 13-AL-27(P,X)10-NE-20,CUM,SIG
+# File ID         : p-Al27-x-sigc-excfun-mon-prodNe20_Michel_1989_o0280.010
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   2.2800E-02
+# ymax            :   2.2800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  2.2800E-02  2.0600E-03
+#---------------------------------------------------

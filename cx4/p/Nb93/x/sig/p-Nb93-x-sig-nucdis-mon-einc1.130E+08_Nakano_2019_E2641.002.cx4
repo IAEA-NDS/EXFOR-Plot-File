@@ -1,0 +1,26 @@
+# EXFOR #         : E2641.002  
+# EXFOR Ver.      : 20200702
+# TRANS #         : E126
+# Author          : K.Nakano et al.
+# Reference       : Phys.Rev.C 100 (2019) 044605
+# DOI             : 10.1103/PhysRevC.100.044605
+# Quantity        : 93Nb(p,x) independent production cross section
+# REACTION        : 41-NB-93(P,X)ELEM/MASS,,SIG
+# File ID         : p-Nb93-x-sig-nucdis-mon-einc1.130E+08_Nakano_2019_e2641.002
+#
+# Einc (eV)       :   1.1300E+08
+#
+# npts            : 3           
+# xmin            : 42090.9     
+# xmax            : 42092.9     
+# ymin            :   8.4000E-03
+# ymax            :   1.3500E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     42092.9  1.3500E-02  2.1600E-03
+     42091.9  1.2000E-02  1.6000E-03
+     42090.9  8.4000E-03  1.1600E-03
+#---------------------------------------------------

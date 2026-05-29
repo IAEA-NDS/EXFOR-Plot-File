@@ -1,0 +1,23 @@
+# EXFOR #         : E2768.032  
+# EXFOR Ver.      : 20231202
+# TRANS #         : E141
+# Author          : K.Nakano et al.
+# Reference       : Report JAEA-R-2021-014 page 1, 2021
+# DOI             : N/A
+# Quantity        : natV(p,x)48V cumulative production cross section
+# REACTION        : 23-V-0(P,X)23-V-48,CUM,SIG
+# File ID         : p-V-x-sigc-excfun-mon-prodV48_Nakano_2021_e2768.032
+#
+# npts            : 2           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   9.0600E-03
+# ymax            :   1.7400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  1.7400E-02  1.0000E-03
+  3.0000E+09  0.0000E+00  9.0600E-03  5.3000E-04
+#---------------------------------------------------

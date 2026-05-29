@@ -1,0 +1,23 @@
+# EXFOR #         : E2769.012  
+# EXFOR Ver.      : 20240314
+# TRANS #         : E141
+# Author          : K.Sugihara et al.
+# Reference       : Nucl.Instrum.Meth.B 545 (2023) 165153
+# DOI             : 10.1016/j.nimb.2023.165153
+# Quantity        : natTi(p,x)46Sc independent production cross section
+# REACTION        : 22-TI-0(P,X)21-SC-46,,SIG
+# File ID         : p-Ti-x-sig-excfun-mon-prodSc46_Sugihara_2023_e2769.012
+#
+# npts            : 2           
+# xmin            :   8.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   3.0100E-02
+# ymax            :   3.2200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  3.2200E-02  1.0000E-03
+  3.0000E+09  0.0000E+00  3.0100E-02  1.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : C0399.002  
+# EXFOR Ver.      : 19881011
+# TRANS #         : 0000
+# Author          : R.S.Tilbury et al.
+# Reference       : Can.J.Chem. 41 (1963) 2634
+# DOI             : 10.1139/v63-384
+# Quantity        : 197Au(p,x) independent production cross section
+# REACTION        : 79-AU-197(P,X)ELEM/MASS,,SIG
+# File ID         : p-Au197-x-sig-nucdis-mon-einc4.600E+07_Tilbury_1963_c0399.002
+#
+# Einc (eV)       :   4.6000E+07
+#
+# npts            : 2           
+# xmin            : 79196.0     
+# xmax            : 79196.1     
+# ymin            :   4.0000E-02
+# ymax            :   1.4000E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     79196.0  1.4000E-01  3.5000E-02
+     79196.1  4.0000E-02  7.2000E-03
+#---------------------------------------------------

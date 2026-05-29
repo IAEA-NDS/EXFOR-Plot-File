@@ -1,0 +1,24 @@
+# EXFOR #         : O0204.051  
+# EXFOR Ver.      : 20190823
+# TRANS #         : O071
+# Author          : S.Regnier et al.
+# Reference       : Phys.Rev.C 26 (1982) 931
+# DOI             : 10.1103/PhysRevC.26.931
+# Quantity        : 89Y(p,x)58gCo cumulative production cross section
+# REACTION        : 39-Y-89(P,X)27-CO-58-G,M+,SIG
+# File ID         : p-Y89-x-sigc-excfun-mon-prodCo58g_Regnier_1982_o0204.051
+#
+# npts            : 3           
+# xmin            :   1.0050E+09
+# xmax            :   2.4000E+10
+# ymin            :   1.0300E-02
+# ymax            :   1.4300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0050E+09  0.0000E+00  1.4300E-02  3.6000E-03
+  2.5000E+09  0.0000E+00  1.4200E-02  2.3000E-03
+  2.4000E+10  0.0000E+00  1.0300E-02  2.0000E-03
+#---------------------------------------------------

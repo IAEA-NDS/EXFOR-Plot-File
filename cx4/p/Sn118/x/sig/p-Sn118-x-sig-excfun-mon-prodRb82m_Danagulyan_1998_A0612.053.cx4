@@ -1,0 +1,23 @@
+# EXFOR #         : A0612.053  
+# EXFOR Ver.      : 20160227
+# TRANS #         : A084
+# Author          : A.S.Danagulyan et al.
+# Reference       : Proceedings of Conf.Nucl.Spectrosc.Nucl.Struct., Moscow, June 1998 page 219
+# DOI             : N/A
+# Quantity        : 118Sn(p,x)82mRb independent production cross section
+# REACTION        : 50-SN-118(P,X)37-RB-82-M,,SIG
+# File ID         : p-Sn118-x-sig-excfun-mon-prodRb82m_Danagulyan_1998_a0612.053
+#
+# npts            : 2           
+# xmin            :   1.0000E+09
+# xmax            :   8.1100E+09
+# ymin            :   2.7000E-03
+# ymax            :   5.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  2.7000E-03  3.0000E-04
+  8.1100E+09  0.0000E+00  5.1000E-03  5.0000E-04
+#---------------------------------------------------

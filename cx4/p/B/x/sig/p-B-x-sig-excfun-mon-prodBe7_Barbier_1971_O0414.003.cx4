@@ -1,0 +1,23 @@
+# EXFOR #         : O0414.003  
+# EXFOR Ver.      : 20170417
+# TRANS #         : O061
+# Author          : M.Barbier et al.
+# Reference       : J.Inorg.Nucl.Chem. 33 (1971) 2720
+# DOI             : 10.1016/0022-1902(71)80262-2
+# Quantity        : natB(p,x)7Be independent production cross section
+# REACTION        : 5-B-0(P,X)4-BE-7,,SIG
+# File ID         : p-B-x-sig-excfun-mon-prodBe7_Barbier_1971_o0414.003
+#
+# npts            : 2           
+# xmin            :   3.0500E+08
+# xmax            :   6.0200E+08
+# ymin            :   4.3000E-03
+# ymax            :   5.4000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0500E+08  0.0000E+00  4.3000E-03  1.2900E-03
+  6.0200E+08  0.0000E+00  5.4000E-03  1.6200E-03
+#---------------------------------------------------

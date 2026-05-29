@@ -1,0 +1,25 @@
+# EXFOR #         : O1837.012  
+# EXFOR Ver.      : 20100114
+# TRANS #         : O041
+# Author          : A.N.Smirnov et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Santa Fe 2004 page 637
+# DOI             : N/A
+# Quantity        : 205Tl(p,f) cross section
+# REACTION        : 81-TL-205(P,F),,SIG
+# File ID         : p-Tl205-f-sig-excfun-mon-Smirnov_2004_o1837.012
+#
+# npts            : 4           
+# xmin            :   4.7500E+07
+# xmax            :   1.7730E+08
+# ymin            :   8.6000E-04
+# ymax            :   5.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.7500E+07  5.0000E+05  8.6000E-04  8.6000E-05
+  4.9200E+07  5.0000E+05  1.1400E-03  1.1400E-04
+  9.7500E+07  2.0000E+06  1.8000E-02  1.8000E-03
+  1.7730E+08  1.2000E+06  5.0000E-02  5.0000E-03
+#---------------------------------------------------

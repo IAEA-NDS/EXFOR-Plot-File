@@ -1,0 +1,24 @@
+# EXFOR #         : O1882.031  
+# EXFOR Ver.      : 20101220
+# TRANS #         : O044
+# Author          : S.Neumann
+# Reference       : Thesis  (1999)
+# DOI             : N/A
+# Quantity        : natTi(p,x)28Mg cumulative production cross section
+# REACTION        : 22-TI-0(P,X)12-MG-28,CUM,SIG
+# File ID         : p-Ti-x-sigc-excfun-mon-prodMg28_Neumann_1999_o1882.031
+#
+# npts            : 3           
+# xmin            :   9.5300E+08
+# xmax            :   2.6000E+09
+# ymin            :   5.7800E-04
+# ymax            :   6.8200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5300E+08  2.0000E+06  5.8200E-04  8.2000E-05
+  1.3550E+09  2.0000E+06  6.8200E-04  9.9000E-05
+  2.6000E+09  1.0000E+06  5.7800E-04  8.6000E-05
+#---------------------------------------------------

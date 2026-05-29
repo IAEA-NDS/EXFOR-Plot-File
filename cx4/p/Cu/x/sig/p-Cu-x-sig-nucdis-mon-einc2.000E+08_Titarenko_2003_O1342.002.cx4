@@ -1,0 +1,33 @@
+# EXFOR #         : O1342.002  
+# EXFOR Ver.      : 20070516
+# TRANS #         : O028
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Int.Meet.on Nucl.Appl.of Accel.Tech., San Diego 2003 page 59
+# DOI             : N/A
+# Quantity        : natCu(p,x) independent production cross section
+# REACTION        : 29-CU-0(P,X)ELEM/MASS,IND,SIG
+# File ID         : p-Cu-x-sig-nucdis-mon-einc2.000E+08_Titarenko_2003_o1342.002
+#
+# Einc (eV)       :   2.0000E+08
+#
+# npts            : 10          
+# xmin            : 21044.0     
+# xmax            : 30065.9     
+# ymin            :   2.1000E-04
+# ymax            :   2.6100E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     30065.9  8.8800E-04  6.8000E-05
+     30063.9  2.8300E-03  2.5000E-04
+     30062.9  1.7300E-03  1.2000E-04
+     29064.9  2.1000E-02  1.5000E-03
+     27058.1  2.6100E-02  1.5000E-03
+     27058.0  1.3700E-02  1.0000E-03
+     25054.9  1.6100E-02  9.0000E-04
+     25052.1  1.8100E-03  1.2000E-04
+     21044.1  2.4400E-04  1.6000E-05
+     21044.0  2.1000E-04  1.3000E-05
+#---------------------------------------------------

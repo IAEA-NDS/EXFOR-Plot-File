@@ -1,0 +1,23 @@
+# EXFOR #         : O0577.028  
+# EXFOR Ver.      : 20140205
+# TRANS #         : O052
+# Author          : E.Hagebo
+# Reference       : J.Inorg.Nucl.Chem. 29 (1967) 2515
+# DOI             : 10.1016/0022-1902(67)80177-5
+# Quantity        : natU(p,f)116gSb independent production cross section
+# REACTION        : 92-U-0(P,F)51-SB-116-G,IND,SIG
+# File ID         : p-U-x-sig-excfun-mon-prodSb116g_Hagebo_1967_o0577.028
+#
+# npts            : 2           
+# xmin            :   5.7000E+08
+# xmax            :   1.8200E+10
+# ymin            :   1.0900E-04
+# ymax            :   1.7300E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.7000E+08  0.0000E+00  1.0900E-04  3.7000E-05
+  1.8200E+10  0.0000E+00  1.7300E-04  1.6000E-04
+#---------------------------------------------------

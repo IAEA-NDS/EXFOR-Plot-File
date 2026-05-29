@@ -1,0 +1,22 @@
+# EXFOR #         : O0397.116  
+# EXFOR Ver.      : 20191007
+# TRANS #         : O071
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 page 184
+# DOI             : N/A
+# Quantity        : 207Pb(p,x)198gAu cumulative production cross section
+# REACTION        : 82-PB-207(P,X)79-AU-198-G,(M),SIG
+# File ID         : p-Pb207-x-sigc-excfun-mon-prodAu198g_Titarenko_1996_o0397.116
+#
+# npts            : 1           
+# xmin            :   1.5000E+09
+# xmax            :   1.5000E+09
+# ymin            :   1.7000E-03
+# ymax            :   1.7000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+09  0.0000E+00  1.7000E-03  2.0000E-04
+#---------------------------------------------------

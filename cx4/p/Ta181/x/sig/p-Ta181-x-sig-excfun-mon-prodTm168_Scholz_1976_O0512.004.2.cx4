@@ -1,0 +1,23 @@
+# EXFOR #         : O0512.004.2
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : K.L.Scholz et al.
+# Reference       : Appl.Radiat.Isot. 27 (1976) 263
+# DOI             : 10.1016/0020-708X(76)90142-3
+# Quantity        : 181Ta(p,x)168Tm independent production cross section
+# REACTION        : 73-TA-181(P,X)69-TM-168,IND,SIG
+# File ID         : p-Ta181-x-sig-excfun-mon-prodTm168_Scholz_1976_o0512.004.2
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   5.9000E+08
+# ymin            :   7.8000E-04
+# ymax            :   8.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  7.8000E-04  3.9000E-04
+  5.9000E+08  0.0000E+00  8.0000E-04  2.5000E-04
+#---------------------------------------------------

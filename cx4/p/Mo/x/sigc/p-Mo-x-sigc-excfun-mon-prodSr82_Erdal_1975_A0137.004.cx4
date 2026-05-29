@@ -1,0 +1,23 @@
+# EXFOR #         : A0137.004  
+# EXFOR Ver.      : 20250702
+# TRANS #         : A121
+# Author          : B.R.Erdal et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 492
+# DOI             : N/A
+# Quantity        : natMo(p,x)82Sr cumulative production cross section
+# REACTION        : 42-MO-0(P,X)38-SR-82,CUM,SIG
+# File ID         : p-Mo-x-sigc-excfun-mon-prodSr82_Erdal_1975_a0137.004
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   8.0000E+08
+# ymin            :   1.5000E-02
+# ymax            :   2.4500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  1.5000E-02  3.0000E-03
+  8.0000E+08  0.0000E+00  2.4500E-02  8.0000E-04
+#---------------------------------------------------

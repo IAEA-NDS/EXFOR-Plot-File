@@ -1,0 +1,26 @@
+# EXFOR #         : O0928.002  
+# EXFOR Ver.      : 20030503
+# TRANS #         : 0000
+# Author          : R.Bonetti et al.
+# Reference       : J.Phys.G 4 (1978) 1903
+# DOI             : 10.1088/0305-4616/4/12/010
+# Quantity        : 208Pb(p,a)205Tl partial angular differential cross section
+# REACTION        : 82-PB-208(P,A)81-TL-205,PAR,DA
+# File ID         : p-Pb208-a-adxl-lvldis-mon-einc2.000E+07_angc22_prodTl205_Bonetti_1978_o0928.002
+#
+# Einc (eV)       :   2.0000E+07
+# dEinc (eV)      :   1.0000E+05
+# theta,cm (deg)  :   21.9000000
+#
+# npts            : 1           
+# xmin            :   2.0000E+05
+# xmax            :   2.0000E+05
+# ymin            :   1.5100E-03
+# ymax            :   1.5100E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.0000E+05  0.0000E+00  1.5100E-03  1.9630E-04
+#---------------------------------------------------

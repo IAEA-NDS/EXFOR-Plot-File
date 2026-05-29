@@ -1,0 +1,25 @@
+# EXFOR #         : O2067.024  
+# EXFOR Ver.      : 20121028
+# TRANS #         : O050
+# Author          : A.B.Clegg et al.
+# Reference       : Proc.Phys.Soc.(UK) 78 (1961) 681
+# DOI             : 10.1088/0370-1328/78/5/305
+# Quantity        : 14N(p,inl)14N partial cross section
+# REACTION        : 7-N-14(P,INL)7-N-14,PAR,SIG
+# File ID         : p-N14-inl-sig-lvldis-mon-einc1.200E+08_prodN14_Clegg_1961_o2067.024
+#
+# Einc (eV)       :   1.2000E+08
+#
+# npts            : 2           
+# xmin            :   2.3100E+06
+# xmax            :   3.9500E+06
+# ymin            :   2.0000E-04
+# ymax            :   4.0000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.3100E+06  0.0000E+00  2.0000E-04  2.2000E-04
+  3.9500E+06  0.0000E+00  4.0000E-04  1.0000E-04
+#---------------------------------------------------

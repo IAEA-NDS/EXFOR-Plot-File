@@ -1,0 +1,24 @@
+# EXFOR #         : A0145.018  
+# EXFOR Ver.      : 20240818
+# TRANS #         : A116
+# Author          : R.Michel et al.
+# Reference       : J.Radioanal.Chem. 59 (1980) 467
+# DOI             : 10.1007/BF02517298
+# Quantity        : natFe(p,x)51Cr cumulative production cross section
+# REACTION        : 26-FE-0(P,X)24-CR-51,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodCr51_Michel_1980_a0145.018
+#
+# npts            : 3           
+# xmin            :   1.2550E+07
+# xmax            :   1.6060E+07
+# ymin            :   8.6000E-04
+# ymax            :   2.1300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6060E+07  2.5000E+05  2.1300E-03  2.6000E-04
+  1.4380E+07  3.0000E+05  1.4200E-03  1.7000E-04
+  1.2550E+07  3.9000E+05  8.6000E-04  1.5000E-04
+#---------------------------------------------------

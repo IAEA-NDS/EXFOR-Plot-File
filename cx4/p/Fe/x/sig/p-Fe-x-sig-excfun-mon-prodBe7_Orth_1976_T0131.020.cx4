@@ -1,0 +1,22 @@
+# EXFOR #         : T0131.020  
+# EXFOR Ver.      : 20001127
+# TRANS #         : 0000
+# Author          : C.J.Orth et al.
+# Reference       : J.Inorg.Nucl.Chem. 38 (1976) 13
+# DOI             : 10.1016/0022-1902(76)80040-1
+# Quantity        : natFe(p,x)7Be independent production cross section
+# REACTION        : 26-FE-0(P,X)4-BE-7,IND,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodBe7_Orth_1976_t0131.020
+#
+# npts            : 1           
+# xmin            :   5.9000E+08
+# xmax            :   5.9000E+08
+# ymin            :   2.0100E-03
+# ymax            :   2.0100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  2.0100E-03  1.3000E-04
+#---------------------------------------------------

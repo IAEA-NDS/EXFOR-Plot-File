@@ -1,0 +1,26 @@
+# EXFOR #         : O0666.002  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : P.A.Smith et al.
+# Reference       : Phys.Rev.C 18 (1978) 2486
+# DOI             : 10.1103/PhysRevC.18.2486
+# Quantity        : 208Pb(p,a)205Tl partial angular differential cross section
+# REACTION        : 82-PB-208(P,A)81-TL-205,PAR,DA
+# File ID         : p-Pb208-a-adxl-lvldis-mon-einc3.500E+07_angc11_prodTl205_Smith_1978_o0666.002
+#
+# Einc (eV)       :   3.5000E+07
+# theta,cm (deg)  :   10.8400000
+# dtheta,cm (deg) :    0.2600000
+#
+# npts            : 1           
+# xmin            :   1.4840E+06
+# xmax            :   1.4840E+06
+# ymin            :   5.4200E-05
+# ymax            :   5.4200E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4840E+06  0.0000E+00  5.4200E-05  1.6260E-06
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : C1034.007  
+# EXFOR Ver.      : 20220629
+# TRANS #         : C223
+# Author          : J.B.Ball et al.
+# Reference       : Phys.Rev. 130 (1963) 2342
+# DOI             : 10.1103/PhysRev.130.2342
+# Quantity        : 58Fe(p,t)56Fe partial cross section
+# REACTION        : 26-FE-58(P,T)26-FE-56,PAR,SIG
+# File ID         : p-Fe58-t-sig-lvldis-mon-einc2.230E+07_prodFe56_Ball_1963_c1034.007
+#
+# Einc (eV)       :   2.2300E+07
+#
+# npts            : 3           
+# xmin            :   0.0000E+00
+# xmax            :   2.1000E+06
+# ymin            :   6.0000E-05
+# ymax            :   2.1100E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  2.1100E-03  3.0000E-04
+  8.5000E+05  0.0000E+00  2.6000E-04  3.0000E-05
+  2.1000E+06  0.0000E+00  6.0000E-05  2.0000E-05
+#---------------------------------------------------

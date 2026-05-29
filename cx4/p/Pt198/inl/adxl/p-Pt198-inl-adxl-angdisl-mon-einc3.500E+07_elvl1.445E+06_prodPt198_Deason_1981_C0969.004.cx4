@@ -1,0 +1,26 @@
+# EXFOR #         : C0969.004  
+# EXFOR Ver.      : 20040211
+# TRANS #         : 0000
+# Author          : P.T.Deason et al.
+# Reference       : Phys.Rev.C 23 (1981) 1414
+# DOI             : 10.1103/PhysRevC.23.1414
+# Quantity        : 198Pt(p,inl)198Pt partial angular differential cross section
+# REACTION        : 78-PT-198(P,INL)78-PT-198,PAR,DA
+# File ID         : p-Pt198-inl-adxl-angdisl-mon-einc3.500E+07_elvl1.445E+06_prodPt198_Deason_1981_c0969.004
+#
+# Einc (eV)       :   3.5000E+07
+# Elvl (eV)       :   1.4450E+06
+# dElvl (eV)      :   3.0000E+03
+#
+# npts            : 1           
+# xmin            :   30.0000000
+# xmax            :   30.0000000
+# ymin            :   5.6600E-05
+# ymax            :   5.6600E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  5.6600E-05  0.0000E+00
+#---------------------------------------------------

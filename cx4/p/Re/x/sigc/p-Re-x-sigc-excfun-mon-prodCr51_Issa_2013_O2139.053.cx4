@@ -1,0 +1,22 @@
+# EXFOR #         : O2139.053  
+# EXFOR Ver.      : 20131008
+# TRANS #         : O051
+# Author          : S.A.M.Issa et al.
+# Reference       : Nucl.Instrum.Meth.B 298 (2013) 19
+# DOI             : 10.1016/j.nimb.2013.01.001
+# Quantity        : natRe(p,f)51Cr cumulative production cross section
+# REACTION        : 75-RE-0(P,F)24-CR-51,CUM,SIG
+# File ID         : p-Re-x-sigc-excfun-mon-prodCr51_Issa_2013_o2139.053
+#
+# npts            : 1           
+# xmin            :   2.5900E+09
+# xmax            :   2.5900E+09
+# ymin            :   2.6200E-03
+# ymax            :   2.6200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5900E+09  1.0000E+06  2.6200E-03  3.0000E-04
+#---------------------------------------------------

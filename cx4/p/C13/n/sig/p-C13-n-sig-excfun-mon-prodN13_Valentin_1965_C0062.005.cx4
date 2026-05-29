@@ -1,0 +1,22 @@
+# EXFOR #         : C0062.005  
+# EXFOR Ver.      : 20211005
+# TRANS #         : C206
+# Author          : L.Valentin
+# Reference       : Nucl.Phys. 62 (1965) 81
+# DOI             : 10.1016/0029-5582(65)90072-6
+# Quantity        : 13C(p,n)13N cross section
+# REACTION        : 6-C-13(P,N)7-N-13,,SIG
+# File ID         : p-C13-n-sig-excfun-mon-prodN13_Valentin_1965_c0062.005
+#
+# npts            : 1           
+# xmin            :   1.5500E+08
+# xmax            :   1.5500E+08
+# ymin            :   1.9000E-03
+# ymax            :   1.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5500E+08  1.0000E+06  1.9000E-03  2.0000E-04
+#---------------------------------------------------

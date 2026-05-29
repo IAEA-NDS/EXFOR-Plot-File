@@ -1,0 +1,24 @@
+# EXFOR #         : A0598.003  
+# EXFOR Ver.      : 20160228
+# TRANS #         : A084
+# Author          : B.L.Zhuikov et al.
+# Reference       : Phys.Rev.C 68 (2003) 054611
+# DOI             : 10.1103/PhysRevC.68.054611
+# Quantity        : 181Ta(p,x)177m2Hf independent production cross section
+# REACTION        : 73-TA-181(P,X)72-HF-177-M2,,SIG
+# File ID         : p-Ta181-x-sig-excfun-mon-prodHf177n_Zhuikov_2003_a0598.003
+#
+# npts            : 3           
+# xmin            :   1.0000E+08
+# xmax            :   5.0000E+08
+# ymin            :   3.6000E-05
+# ymax            :   5.0000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  3.8000E-05  1.0000E-05
+  3.5000E+08  0.0000E+00  3.6000E-05  4.0000E-06
+  5.0000E+08  0.0000E+00  5.0000E-05  1.0000E-05
+#---------------------------------------------------

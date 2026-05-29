@@ -1,0 +1,25 @@
+# EXFOR #         : O2126.011  
+# EXFOR Ver.      : 20130613
+# TRANS #         : O051
+# Author          : B.Lavielle et al.
+# Reference       : J.Phys.(Paris) 45 (1984) 981
+# DOI             : 10.1051/jphys:01984004506098100
+# Quantity        : natAg(p,x)80Kr independent production cross section
+# REACTION        : 47-AG-0(P,X)36-KR-80,,SIG
+# File ID         : p-Ag-x-sig-excfun-mon-prodKr80_Lavielle_1984_o2126.011
+#
+# npts            : 4           
+# xmin            :   1.5000E+08
+# xmax            :   2.4000E+10
+# ymin            :   3.1000E-06
+# ymax            :   2.0500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  3.1000E-06  1.1000E-06
+  6.0000E+08  0.0000E+00  8.6000E-03  9.0000E-04
+  1.0500E+09  0.0000E+00  2.0500E-02  2.1000E-03
+  2.4000E+10  0.0000E+00  1.2300E-02  3.4000E-03
+#---------------------------------------------------

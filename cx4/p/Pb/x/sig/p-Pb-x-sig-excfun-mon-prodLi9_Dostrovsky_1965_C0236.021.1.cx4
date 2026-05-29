@@ -1,0 +1,22 @@
+# EXFOR #         : C0236.021.1
+# EXFOR Ver.      : 20211005
+# TRANS #         : C206
+# Author          : I.Dostrovsky et al.
+# Reference       : Phys.Rev. 139 (1965) B1513
+# DOI             : 10.1103/PhysRev.139.B1513
+# Quantity        : natPb(p,x)9Li independent production cross section
+# REACTION        : 82-PB-0(P,X)3-LI-9,,SIG
+# File ID         : p-Pb-x-sig-excfun-mon-prodLi9_Dostrovsky_1965_c0236.021.1
+#
+# npts            : 1           
+# xmin            :   2.8000E+09
+# xmax            :   2.8000E+09
+# ymin            :   6.0000E-03
+# ymax            :   6.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.8000E+09  0.0000E+00  6.0000E-03  0.0000E+00
+#---------------------------------------------------

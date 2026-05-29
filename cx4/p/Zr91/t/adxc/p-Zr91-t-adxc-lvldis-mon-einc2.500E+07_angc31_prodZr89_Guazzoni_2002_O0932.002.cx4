@@ -1,0 +1,27 @@
+# EXFOR #         : O0932.002  
+# EXFOR Ver.      : 20030503
+# TRANS #         : 0000
+# Author          : P.Guazzoni et al.
+# Reference       : Nucl.Phys.A 697 (2002) 611
+# DOI             : 10.1016/S0375-9474(01)01271-4
+# Quantity        : 91Zr(p,t)89Zr partial angular differential cross section
+# REACTION        : 40-ZR-91(P,T)40-ZR-89,PAR,DA
+# File ID         : p-Zr91-t-adxc-lvldis-mon-einc2.500E+07_angc31_prodZr89_Guazzoni_2002_o0932.002
+#
+# Einc (eV)       :   2.5000E+07
+# theta,cm (deg)  :   30.8600000
+#
+# npts            : 3           
+# xmin            :   3.5970E+06
+# xmax            :   3.6470E+06
+# ymin            :   6.3100E-07
+# ymax            :   3.0690E-06
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.5970E+06  0.0000E+00  6.3100E-07  1.0900E-07
+  3.6250E+06  0.0000E+00  7.0200E-07  1.1500E-07
+  3.6470E+06  0.0000E+00  3.0690E-06  2.4000E-07
+#---------------------------------------------------

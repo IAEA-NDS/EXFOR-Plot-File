@@ -1,0 +1,25 @@
+# EXFOR #         : O0073.005  
+# EXFOR Ver.      : 20201202
+# TRANS #         : O081
+# Author          : G.V.S.Rayudu
+# Reference       : Can.J.Chem. 42 (1964) 1149
+# DOI             : 10.1139/v64-178
+# Quantity        : natFe(p,x)51Cr cumulative production cross section
+# REACTION        : 26-FE-0(P,X)24-CR-51,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodCr51_Rayudu_1964_o0073.005
+#
+# npts            : 4           
+# xmin            :   1.3000E+08
+# xmax            :   3.9600E+08
+# ymin            :   2.2000E-02
+# ymax            :   3.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  1.3000E+07  3.0000E-02  6.0000E-03
+  2.0800E+08  2.0800E+07  2.2000E-02  3.0000E-03
+  2.9700E+08  1.4850E+07  2.5000E-02  3.7500E-03
+  3.9600E+08  1.9800E+07  2.5000E-02  3.7500E-03
+#---------------------------------------------------

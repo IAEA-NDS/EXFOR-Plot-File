@@ -1,0 +1,23 @@
+# EXFOR #         : C0273.020  
+# EXFOR Ver.      : 19871120
+# TRANS #         : 0000
+# Author          : C.G.Heininger et al.
+# Reference       : Phys.Rev. 101 (1956) 1074
+# DOI             : 10.1103/PhysRev.101.1074
+# Quantity        : natV(p,x)28Mg independent production cross section
+# REACTION        : 23-V-0(P,X)12-MG-28,,SIG
+# File ID         : p-V-x-sig-excfun-mon-prodMg28_Heininger_1956_c0273.020
+#
+# npts            : 2           
+# xmin            :   1.7500E+08
+# xmax            :   2.4000E+08
+# ymin            :   2.0000E-06
+# ymax            :   9.0000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.7500E+08  0.0000E+00  2.0000E-06  0.0000E+00
+  2.4000E+08  0.0000E+00  9.0000E-06  0.0000E+00
+#---------------------------------------------------

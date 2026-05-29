@@ -1,0 +1,22 @@
+# EXFOR #         : O0768.253  
+# EXFOR Ver.      : 20221115
+# TRANS #         : O091
+# Author          : E.Porras et al.
+# Reference       : Nucl.Instrum.Meth.B 160 (2000) 73
+# DOI             : 10.1016/S0168-583X(99)00556-X
+# Quantity        : natTi(p,x)34mCl independent production cross section
+# REACTION        : 22-TI-0(P,X)17-CL-34-M,,SIG
+# File ID         : p-Ti-x-sig-excfun-mon-prodCl34m_Porras_2000_o0768.253
+#
+# npts            : 1           
+# xmin            :   1.2000E+09
+# xmax            :   1.2000E+09
+# ymin            :   2.3100E-03
+# ymax            :   2.3100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  2.3100E-03  7.0000E-05
+#---------------------------------------------------

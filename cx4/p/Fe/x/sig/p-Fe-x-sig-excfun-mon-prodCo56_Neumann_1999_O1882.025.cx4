@@ -1,0 +1,25 @@
+# EXFOR #         : O1882.025  
+# EXFOR Ver.      : 20101220
+# TRANS #         : O044
+# Author          : S.Neumann
+# Reference       : Thesis  (1999)
+# DOI             : N/A
+# Quantity        : natFe(p,x)56Co independent production cross section
+# REACTION        : 26-FE-0(P,X)27-CO-56,IND,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodCo56_Neumann_1999_o1882.025
+#
+# npts            : 4           
+# xmin            :   2.7800E+08
+# xmax            :   2.6000E+09
+# ymin            :   8.9400E-04
+# ymax            :   1.3700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7800E+08  1.0000E+06  1.3700E-03  1.8000E-04
+  9.5900E+08  2.0000E+06  1.0300E-03  1.4000E-04
+  1.3610E+09  2.0000E+06  1.1400E-03  1.5000E-04
+  2.6000E+09  1.0000E+06  8.9400E-04  1.1700E-04
+#---------------------------------------------------

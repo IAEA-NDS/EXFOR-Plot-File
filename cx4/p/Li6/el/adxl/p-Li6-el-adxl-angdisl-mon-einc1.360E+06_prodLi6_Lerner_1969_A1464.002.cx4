@@ -1,0 +1,24 @@
+# EXFOR #         : A1464.002  
+# EXFOR Ver.      : 20240925
+# TRANS #         : A119
+# Author          : G.M.Lerner et al.
+# Reference       : Nucl.Intrum.Meth. 69 (1969) 115
+# DOI             : 10.1016/0029-554X(69)90581-3
+# Quantity        : 6Li(p,el)6Li angular differential cross section
+# REACTION        : 3-LI-6(P,EL)3-LI-6,,DA
+# File ID         : p-Li6-el-adxl-angdisl-mon-einc1.360E+06_prodLi6_Lerner_1969_a1464.002
+#
+# Einc (eV)       :   1.3600E+06
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   6.1000E-02
+# ymax            :   6.1000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  6.1000E-02  9.0000E-03
+#---------------------------------------------------

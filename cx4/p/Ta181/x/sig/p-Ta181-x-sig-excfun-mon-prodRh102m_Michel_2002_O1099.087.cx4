@@ -1,0 +1,23 @@
+# EXFOR #         : O1099.087  
+# EXFOR Ver.      : 20220120
+# TRANS #         : O087
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 181Ta(p,x)102mRh independent production cross section
+# REACTION        : 73-TA-181(P,X)45-RH-102-M,,SIG
+# File ID         : p-Ta181-x-sig-excfun-mon-prodRh102m_Michel_2002_o1099.087
+#
+# npts            : 2           
+# xmin            :   1.5700E+09
+# xmax            :   2.5800E+09
+# ymin            :   3.9500E-04
+# ymax            :   9.8100E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5700E+09  1.0000E+06  3.9500E-04  9.0000E-05
+  2.5800E+09  1.0000E+06  9.8100E-04  2.4500E-04
+#---------------------------------------------------

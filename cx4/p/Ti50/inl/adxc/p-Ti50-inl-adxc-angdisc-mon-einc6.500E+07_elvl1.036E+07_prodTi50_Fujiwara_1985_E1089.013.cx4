@@ -1,0 +1,30 @@
+# EXFOR #         : E1089.013  
+# EXFOR Ver.      : 20110518
+# TRANS #         : E065
+# Author          : M.Fujiwara et al.
+# Reference       : Phys.Rev.C 32 No.3 (1985) 830
+# DOI             : 10.1103/PhysRevC.32.830
+# Quantity        : 50Ti(p,inl)50Ti partial angular differential cross section
+# REACTION        : 22-TI-50(P,INL)22-TI-50,PAR,DA
+# File ID         : p-Ti50-inl-adxc-angdisc-mon-einc6.500E+07_elvl1.036E+07_prodTi50_Fujiwara_1985_e1089.013
+#
+# Einc (eV)       :   6.5000E+07
+# Elvl (eV)       :   1.0364E+07
+#
+# npts            : 6           
+# xmin            :    6.9030000
+# xmax            :   35.7900000
+# ymin            :   6.1100E-06
+# ymax            :   2.9610E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.9030000   0.0000000  2.9610E-05  0.0000E+00
+  11.8000000   0.0000000  2.7850E-05  0.0000E+00
+  15.9100000   0.0000000  2.5240E-05  0.0000E+00
+  24.3700000   0.0000000  1.9710E-05  0.0000E+00
+  28.2100000   0.0000000  9.9650E-06  0.0000E+00
+  35.7900000   0.0000000  6.1100E-06  0.0000E+00
+#---------------------------------------------------

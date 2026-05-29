@@ -1,0 +1,22 @@
+# EXFOR #         : O0978.011  
+# EXFOR Ver.      : 20030514
+# TRANS #         : 0000
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.Rev.C 65 (2002) 064610
+# DOI             : 10.1103/PhysRevC.65.064610
+# Quantity        : 208Pb(p,x)95gNb cumulative production cross section
+# REACTION        : 82-PB-208(P,X)41-NB-95-G,M+,SIG
+# File ID         : p-Pb208-x-sigc-excfun-mon-prodNb95g_Titarenko_2002_o0978.011
+#
+# npts            : 1           
+# xmin            :   9.9500E+08
+# xmax            :   9.9500E+08
+# ymin            :   3.0300E-03
+# ymax            :   3.0300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9500E+08  0.0000E+00  3.0300E-03  2.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : O0500.107  
+# EXFOR Ver.      : 20220107
+# TRANS #         : O087
+# Author          : M.Gloris et al.
+# Reference       : Nucl.Instrum.Meth.A 463 (2001) 593
+# DOI             : 10.1016/S0168-9002(01)00174-7
+# Quantity        : natPb(p,x)198gAu independent production cross section
+# REACTION        : 82-PB-0(P,X)79-AU-198-G,,SIG
+# File ID         : p-Pb-x-sig-excfun-mon-prodAu198g_Gloris_2001_o0500.107
+#
+# npts            : 3           
+# xmin            :   3.2200E+08
+# xmax            :   7.5900E+08
+# ymin            :   9.8600E-04
+# ymax            :   1.7200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.2200E+08  2.0000E+06  9.8600E-04  1.9900E-04
+  5.5300E+08  2.0000E+06  1.3600E-03  2.4000E-04
+  7.5900E+08  1.0000E+06  1.7200E-03  2.9000E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : O0320.002  
+# EXFOR Ver.      : 19990712
+# TRANS #         : 0000
+# Author          : M.Gloris et al.
+# Reference       : Nucl.Instrum.Meth.B 113 (1996) 429
+# DOI             : 10.1016/0168-583X(95)01325-3
+# Quantity        : natPb(p,x)46gSc cumulative production cross section
+# REACTION        : 82-PB-0(P,X)21-SC-46-G,M+,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodSc46g_Gloris_1996_o0320.002
+#
+# npts            : 1           
+# xmin            :   1.6000E+09
+# xmax            :   1.6000E+09
+# ymin            :   8.3400E-04
+# ymax            :   8.3400E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+09  0.0000E+00  8.3400E-04  1.0300E-04
+#---------------------------------------------------

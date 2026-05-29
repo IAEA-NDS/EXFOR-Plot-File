@@ -1,0 +1,26 @@
+# EXFOR #         : T0110.020  
+# EXFOR Ver.      : 20071109
+# TRANS #         : Y004
+# Author          : W.Scobel et al.
+# Reference       : Phys.Rev.C 30 (1984) 1480
+# DOI             : 10.1103/PhysRevC.30.1480
+# Quantity        : 89Y(p,n)89Zr double differential cross section
+# REACTION        : 39-Y-89(P,N)40-ZR-89,,DA/DE
+# File ID         : p-Y89-n-ddxl-enedisl-mon-einc2.500E+07_angl17_prodZr89_Scobel_1984_t0110.020
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   8.0000E+04
+# theta,lab (deg) :   16.7000000
+#
+# npts            : 1           
+# xmin            :   4.8600E+06
+# xmax            :   4.8600E+06
+# ymin            :   5.5600E-06
+# ymax            :   5.5600E-06
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  4.8600E+06  0.0000E+00  5.5600E-06  1.3800E-06
+#---------------------------------------------------

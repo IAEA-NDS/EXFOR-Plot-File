@@ -1,0 +1,23 @@
+# EXFOR #         : D0029.004  
+# EXFOR Ver.      : 20060725
+# TRANS #         : D048
+# Author          : A.Gruetter
+# Reference       : Appl.Radiat.Isot. 33 (1982) 725
+# DOI             : 10.1016/0020-708X(82)90092-8
+# Quantity        : 89Y(p,4n)86Zr cross section
+# REACTION        : 39-Y-89(P,4N)40-ZR-86,,SIG
+# File ID         : p-Y89-4n-sig-excfun-mon-prodZr86_Gruetter_1982_d0029.004
+#
+# npts            : 2           
+# xmin            :   5.4000E+08
+# xmax            :   5.9300E+08
+# ymin            :   1.9700E-03
+# ymax            :   2.0100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9300E+08  0.0000E+00  1.9700E-03  0.0000E+00
+  5.4000E+08  0.0000E+00  2.0100E-03  0.0000E+00
+#---------------------------------------------------

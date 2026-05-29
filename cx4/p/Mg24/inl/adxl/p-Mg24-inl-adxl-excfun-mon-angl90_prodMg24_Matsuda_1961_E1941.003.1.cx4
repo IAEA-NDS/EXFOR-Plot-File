@@ -1,0 +1,26 @@
+# EXFOR #         : E1941.003.1
+# EXFOR Ver.      : 20060906
+# TRANS #         : E038
+# Author          : K.Matsuda et al.
+# Reference       : Nucl.Phys. 27 No.1 (1961) 1
+# DOI             : N/A
+# Quantity        : 24Mg(p,inl)24Mg angular differential cross section
+# REACTION        : 12-MG-24(P,INL)12-MG-24,,DA
+# File ID         : p-Mg24-inl-adxl-excfun-mon-angl90_prodMg24_Matsuda_1961_e1941.003.1
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 3           
+# xmin            :   9.6000E+06
+# xmax            :   1.5700E+07
+# ymin            :   5.2500E-02
+# ymax            :   5.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.6000E+06  1.0000E+05  5.2500E-02  1.5750E-03
+  1.2600E+07  1.0000E+05  5.8000E-02  1.7400E-03
+  1.5700E+07  1.0000E+05  5.6100E-02  1.6830E-03
+#---------------------------------------------------

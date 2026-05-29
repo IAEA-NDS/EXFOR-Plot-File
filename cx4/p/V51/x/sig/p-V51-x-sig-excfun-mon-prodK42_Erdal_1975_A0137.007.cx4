@@ -1,0 +1,23 @@
+# EXFOR #         : A0137.007  
+# EXFOR Ver.      : 20250702
+# TRANS #         : A121
+# Author          : B.R.Erdal et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 492
+# DOI             : N/A
+# Quantity        : 51V(p,x)42K independent production cross section
+# REACTION        : 23-V-51(P,X)19-K-42,,SIG
+# File ID         : p-V51-x-sig-excfun-mon-prodK42_Erdal_1975_a0137.007
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   8.0000E+08
+# ymin            :   8.9000E-03
+# ymax            :   1.1800E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  8.9000E-03  3.6000E-03
+  8.0000E+08  0.0000E+00  1.1800E-02  5.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : E2667.003  
+# EXFOR Ver.      : 20231006
+# TRANS #         : E140
+# Author          : H.Matsuda et al.
+# Reference       : Prog.Nucl.Sci.Techn. 6 (2019) 171
+# DOI             : 10.15669/pnst.6.171
+# Quantity        : 27Al(p,x)22Na cumulative production cross section
+# REACTION        : 13-AL-27(P,X)11-NA-22,(CUM),SIG
+# File ID         : p-Al27-x-sigc-excfun-mon-prodNa22_Matsuda_2019_e2667.003
+#
+# npts            : 4           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   1.1000E-02
+# ymax            :   1.6200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  1.6200E-02  1.0000E-03
+  1.3000E+09  0.0000E+00  1.1900E-02  9.0000E-04
+  2.2000E+09  0.0000E+00  1.1700E-02  8.0000E-04
+  3.0000E+09  0.0000E+00  1.1000E-02  8.0000E-04
+#---------------------------------------------------

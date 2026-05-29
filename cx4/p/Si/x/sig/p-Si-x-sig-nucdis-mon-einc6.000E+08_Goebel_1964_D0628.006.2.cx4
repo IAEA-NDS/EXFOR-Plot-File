@@ -1,0 +1,28 @@
+# EXFOR #         : D0628.006.2
+# EXFOR Ver.      : 20100818
+# TRANS #         : D074
+# Author          : K.Goebel et al.
+# Reference       : Report CERN-64-12, 1964
+# DOI             : N/A
+# Quantity        : natSi(p,x) independent production cross section
+# REACTION        : 14-SI-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Si-x-sig-nucdis-mon-einc6.000E+08_Goebel_1964_d0628.006.2
+#
+# Einc (eV)       :   6.0000E+08
+#
+# npts            : 5           
+# xmin            : 2003.9      
+# xmax            : 10022.9     
+# ymin            :   7.6000E-03
+# ymax            :   3.0200E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      2003.9  3.4000E-02  0.0000E+00
+      2004.9  3.0200E-01  0.0000E+00
+     10020.9  2.2300E-02  0.0000E+00
+     10021.9  1.9400E-02  0.0000E+00
+     10022.9  7.6000E-03  0.0000E+00
+#---------------------------------------------------

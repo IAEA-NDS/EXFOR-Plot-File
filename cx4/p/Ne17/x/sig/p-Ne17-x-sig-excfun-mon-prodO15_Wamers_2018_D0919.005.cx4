@@ -1,0 +1,22 @@
+# EXFOR #         : D0919.005  
+# EXFOR Ver.      : 20181114
+# TRANS #         : D119
+# Author          : F.Wamers et al.
+# Reference       : Phys.Rev.C 97 (2018) 034612
+# DOI             : 10.1103/PhysRevC.97.034612
+# Quantity        : 17Ne(p,x)15O independent production cross section
+# REACTION        : 10-NE-17(P,X)8-O-15,,SIG
+# File ID         : p-Ne17-x-sig-excfun-mon-prodO15_Wamers_2018_d0919.005
+#
+# npts            : 1           
+# xmin            :   5.0000E+08
+# xmax            :   5.0000E+08
+# ymin            :   5.2000E-02
+# ymax            :   5.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.0000E+08  0.0000E+00  5.2000E-02  3.0000E-03
+#---------------------------------------------------

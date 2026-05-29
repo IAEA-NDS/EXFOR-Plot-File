@@ -1,0 +1,23 @@
+# EXFOR #         : C0150.007  
+# EXFOR Ver.      : 20210828
+# TRANS #         : C203
+# Author          : M.T.F.da Cruz et al.
+# Reference       : Phys.Rev.C 48 (1993) 3106
+# DOI             : 10.1103/PhysRevC.48.3106
+# Quantity        : natTe(p,x)128I independent production cross section
+# REACTION        : 52-TE-0(P,X)53-I-128,,SIG
+# File ID         : p-Te-x-sig-excfun-mon-prodI128_da%Cruz_1993_c0150.007
+#
+# npts            : 2           
+# xmin            :   1.8500E+09
+# xmax            :   5.0000E+09
+# ymin            :   5.7000E-03
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8500E+09  0.0000E+00  5.7000E-03  4.0000E-04
+  5.0000E+09  0.0000E+00  1.0000E-02  2.0000E-03
+#---------------------------------------------------

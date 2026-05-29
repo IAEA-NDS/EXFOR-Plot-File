@@ -1,0 +1,25 @@
+# EXFOR #         : O0501.002.1
+# EXFOR Ver.      : 20110313
+# TRANS #         : O045
+# Author          : H.R.Heydegger et al.
+# Reference       : Phys.Rev.C 14 (1976) 1506
+# DOI             : 10.1103/PhysRevC.14.1506
+# Quantity        : natMg(p,x)22Na cumulative production cross section
+# REACTION        : 12-MG-0(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Mg-x-sigc-excfun-mon-prodNa22_Heydegger_1976_o0501.002.1
+#
+# npts            : 4           
+# xmin            :   1.1900E+08
+# xmax            :   4.3500E+08
+# ymin            :   3.1000E-02
+# ymax            :   4.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1900E+08  1.0000E+07  4.6000E-02  4.6000E-03
+  2.1900E+08  1.4000E+07  3.2000E-02  3.2000E-03
+  2.9000E+08  1.7000E+07  3.2000E-02  3.2000E-03
+  4.3500E+08  2.4000E+07  3.1000E-02  3.1000E-03
+#---------------------------------------------------

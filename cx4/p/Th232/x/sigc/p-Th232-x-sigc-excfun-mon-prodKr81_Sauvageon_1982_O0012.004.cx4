@@ -1,0 +1,25 @@
+# EXFOR #         : O0012.004  
+# EXFOR Ver.      : 20160706
+# TRANS #         : O058
+# Author          : H.Sauvageon et al.
+# Reference       : Phys.Rev.C 25 (1982) 466
+# DOI             : 10.1103/PhysRevC.25.466
+# Quantity        : 232Th(p,x)81Kr cumulative production cross section
+# REACTION        : 90-TH-232(P,X)36-KR-81,CUM,SIG
+# File ID         : p-Th232-x-sigc-excfun-mon-prodKr81_Sauvageon_1982_o0012.004
+#
+# npts            : 4           
+# xmin            :   1.5000E+08
+# xmax            :   2.4000E+10
+# ymin            :   5.0000E-05
+# ymax            :   9.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+08  0.0000E+00  5.0000E-05  6.0000E-06
+  1.0000E+09  0.0000E+00  4.4400E-03  7.6000E-04
+  2.5000E+09  0.0000E+00  7.1000E-03  1.3000E-03
+  2.4000E+10  0.0000E+00  9.3000E-03  1.2000E-03
+#---------------------------------------------------

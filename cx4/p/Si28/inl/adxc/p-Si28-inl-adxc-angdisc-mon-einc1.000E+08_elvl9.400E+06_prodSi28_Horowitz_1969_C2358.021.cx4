@@ -1,0 +1,29 @@
+# EXFOR #         : C2358.021  
+# EXFOR Ver.      : 20190208
+# TRANS #         : C184
+# Author          : Y.S.Horowitz et al.
+# Reference       : Nucl.Phys.A 134 (1969) 577
+# DOI             : 10.1016/0375-9474(69)90023-2
+# Quantity        : 28Si(p,inl)28Si partial angular differential cross section
+# REACTION        : 14-SI-28(P,INL)14-SI-28,PAR,DA
+# File ID         : p-Si28-inl-adxc-angdisc-mon-einc1.000E+08_elvl9.400E+06_prodSi28_Horowitz_1969_c2358.021
+#
+# Einc (eV)       :   1.0000E+08
+# dEinc (eV)      :   3.5000E+05
+# Elvl (eV)       :   9.4000E+06
+#
+# npts            : 4           
+# xmin            :   11.3680000
+# xmax            :   21.8160000
+# ymin            :   3.8070E-04
+# ymax            :   8.9410E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  11.3680000   0.0000000  8.9410E-04  3.6880E-04
+  15.5970000   0.0000000  7.7730E-04  1.8980E-04
+  19.7010000   0.0000000  6.5710E-04  1.5340E-04
+  21.8160000   0.0000000  3.8070E-04  7.6380E-05
+#---------------------------------------------------

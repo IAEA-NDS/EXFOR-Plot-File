@@ -1,0 +1,28 @@
+# EXFOR #         : C2675.002  
+# EXFOR Ver.      : 20211021
+# TRANS #         : C210
+# Author          : L.G.Mann et al.
+# Reference       : Phys.Rev.C 39 (1989) 2180
+# DOI             : 10.1103/PhysRevC.39.2180
+# Quantity        : 148Gd(p,t)146Gd partial angular differential cross section
+# REACTION        : 64-GD-148(P,T)64-GD-146,PAR,DA
+# File ID         : p-Gd148-t-adxl-angdisl-mon-einc2.490E+07_elvl3.642E+06_prodGd146_Mann_1989_c2675.002
+#
+# Einc (eV)       :   2.4900E+07
+# Elvl (eV)       :   3.6420E+06
+#
+# npts            : 4           
+# xmin            :   24.2750000
+# xmax            :   39.7750000
+# ymin            :   3.2990E-05
+# ymax            :   2.4880E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  24.2750000   0.0000000  2.4880E-04  7.4290E-05
+  29.3210000   0.0000000  1.8820E-04  3.0620E-05
+  34.4120000   0.0000000  9.2710E-05  2.9580E-05
+  39.7750000   0.0000000  3.2990E-05  2.3470E-05
+#---------------------------------------------------

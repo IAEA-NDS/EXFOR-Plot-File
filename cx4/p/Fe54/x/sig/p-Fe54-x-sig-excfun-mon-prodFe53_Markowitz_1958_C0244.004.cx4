@@ -1,0 +1,25 @@
+# EXFOR #         : C0244.004  
+# EXFOR Ver.      : 20160809
+# TRANS #         : C161
+# Author          : S.S.Markowitz et al.
+# Reference       : Phys.Rev. 112 (1958) 1295
+# DOI             : 10.1103/PhysRev.112.1295
+# Quantity        : 54Fe(p,x)53Fe independent production cross section
+# REACTION        : 26-FE-54(P,X)26-FE-53,,SIG
+# File ID         : p-Fe54-x-sig-excfun-mon-prodFe53_Markowitz_1958_c0244.004
+#
+# npts            : 4           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   4.2000E-02
+# ymax            :   4.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  4.5000E-02  4.5000E-03
+  4.0000E+08  0.0000E+00  4.8000E-02  4.8000E-03
+  3.0000E+09  0.0000E+00  4.2000E-02  4.2000E-03
+  3.0000E+09  0.0000E+00  4.7000E-02  4.7000E-03
+#---------------------------------------------------

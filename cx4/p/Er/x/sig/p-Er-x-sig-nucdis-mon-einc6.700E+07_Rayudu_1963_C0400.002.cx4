@@ -1,0 +1,26 @@
+# EXFOR #         : C0400.002  
+# EXFOR Ver.      : 20171029
+# TRANS #         : C169
+# Author          : G.V.S.Rayudu et al.
+# Reference       : Can.J.Chem. 41 (1963) 2544
+# DOI             : 10.1139/v63-374
+# Quantity        : natEr(p,x) independent production cross section
+# REACTION        : 68-ER-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Er-x-sig-nucdis-mon-einc6.700E+07_Rayudu_1963_c0400.002
+#
+# Einc (eV)       :   6.7000E+07
+#
+# npts            : 3           
+# xmin            : 66157.9     
+# xmax            : 68161.9     
+# ymin            :   1.7000E-03
+# ymax            :   4.0000E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     66157.9  1.7000E-03  3.4000E-04
+     66159.9  5.2000E-03  1.0400E-03
+     68161.9  4.0000E-01  6.0000E-02
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : C2006.002  
+# EXFOR Ver.      : 20130524
+# TRANS #         : C132
+# Author          : R.D.Albert et al.
+# Reference       : Phys.Rev.Lett. 6 (1961) 13
+# DOI             : 10.1103/PhysRevLett.6.13
+# Quantity        : 63Cu(p,n)63Zn cross section
+# REACTION        : 29-CU-63(P,N)30-ZN-63,,SIG
+# File ID         : p-Cu63-n-sig-excfun-mon-prodZn63_Albert_1961_c2006.002
+#
+# npts            : 1           
+# xmin            :   9.8500E+06
+# xmax            :   9.8500E+06
+# ymin            :   5.1000E-01
+# ymax            :   5.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.8500E+06  0.0000E+00  5.1000E-01  3.5700E-02
+#---------------------------------------------------

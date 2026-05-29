@@ -1,0 +1,24 @@
+# EXFOR #         : A1464.006  
+# EXFOR Ver.      : 20240925
+# TRANS #         : A119
+# Author          : G.M.Lerner et al.
+# Reference       : Nucl.Intrum.Meth. 69 (1969) 115
+# DOI             : 10.1016/0029-554X(69)90581-3
+# Quantity        : 7Li(p,a)4He angular differential cross section
+# REACTION        : 3-LI-7(P,A)2-HE-4,,DA
+# File ID         : p-Li7-a-adxl-angdisl-mon-einc1.360E+06_prodHe4_Lerner_1969_a1464.006
+#
+# Einc (eV)       :   1.3600E+06
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   4.2000E-04
+# ymax            :   4.2000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  4.2000E-04  6.0000E-05
+#---------------------------------------------------

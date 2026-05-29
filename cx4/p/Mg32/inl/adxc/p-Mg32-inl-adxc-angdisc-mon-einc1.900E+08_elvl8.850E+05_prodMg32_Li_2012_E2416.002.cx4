@@ -1,0 +1,28 @@
+# EXFOR #         : E2416.002  
+# EXFOR Ver.      : 20130906
+# TRANS #         : E077
+# Author          : K.A.Li et al.
+# Reference       : Chin.Phys.Lett. 29 (2012) 102301
+# DOI             : 10.1088/0256-307X/29/10/102301
+# Quantity        : 32Mg(p,inl)32Mg partial angular differential cross section
+# REACTION        : 12-MG-32(P,INL)12-MG-32,PAR,DA
+# File ID         : p-Mg32-inl-adxc-angdisc-mon-einc1.900E+08_elvl8.850E+05_prodMg32_Li_2012_e2416.002
+#
+# Einc (eV)       :   1.9000E+08
+# Elvl (eV)       :   8.8500E+05
+#
+# npts            : 4           
+# xmin            :    5.6600000
+# xmax            :   39.6000000
+# ymin            :   4.7000E-04
+# ymax            :   1.5300E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   5.6600000   0.0000000  1.5300E-02  2.3000E-04
+  17.0000000   0.0000000  8.3000E-03  1.2000E-04
+  28.3000000   0.0000000  3.1300E-03  5.3000E-04
+  39.6000000   0.0000000  4.7000E-04  1.6000E-04
+#---------------------------------------------------

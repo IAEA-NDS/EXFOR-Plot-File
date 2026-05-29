@@ -1,0 +1,24 @@
+# EXFOR #         : O1099.225  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)147Gd cumulative production cross section
+# REACTION        : 83-BI-209(P,X)64-GD-147,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodGd147_Michel_2002_o1099.225
+#
+# npts            : 3           
+# xmin            :   1.3980E+09
+# xmax            :   2.5980E+09
+# ymin            :   5.7450E-03
+# ymax            :   1.1140E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3980E+09  6.8590E+05  5.7450E-03  5.9460E-04
+  1.5700E+09  1.4700E+06  7.3080E-03  6.9050E-04
+  2.5980E+09  7.2510E+05  1.1140E-02  8.0570E-04
+#---------------------------------------------------

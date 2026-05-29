@@ -1,0 +1,25 @@
+# EXFOR #         : E2784.073  
+# EXFOR Ver.      : 20241228
+# TRANS #         : E151
+# Author          : K.Sugihara et al.
+# Reference       : Nucl.Instrum.Meth.B 549 (2024) 165299
+# DOI             : 10.1016/j.nimb.2024.165299
+# Quantity        : natZn(p,x)57Ni cumulative production cross section
+# REACTION        : 30-ZN-0(P,X)28-NI-57,CUM,SIG
+# File ID         : p-Zn-x-sigc-excfun-mon-prodNi57_Sugihara_2024_e2784.073
+#
+# npts            : 4           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   9.7800E-04
+# ymax            :   2.1400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  2.1400E-03  1.0000E-04
+  1.3000E+09  0.0000E+00  1.3900E-03  6.0000E-05
+  2.2000E+09  0.0000E+00  1.2600E-03  6.0000E-05
+  3.0000E+09  0.0000E+00  9.7800E-04  4.0000E-05
+#---------------------------------------------------

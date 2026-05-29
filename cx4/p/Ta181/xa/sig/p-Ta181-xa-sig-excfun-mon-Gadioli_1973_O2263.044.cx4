@@ -1,0 +1,24 @@
+# EXFOR #         : O2263.044  
+# EXFOR Ver.      : 20201203
+# TRANS #         : O081
+# Author          : E.Gadioli et al.
+# Reference       : Report INFN/BE-73/5, 1973
+# DOI             : N/A
+# Quantity        : 181Ta(p,a+x) cross section
+# REACTION        : 73-TA-181(P,X)2-HE-4,,SIG
+# File ID         : p-Ta181-xa-sig-excfun-mon-Gadioli_1973_o2263.044
+#
+# npts            : 3           
+# xmin            :   1.9600E+07
+# xmax            :   2.9700E+07
+# ymin            :   2.2220E-03
+# ymax            :   8.4500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9600E+07  2.0000E+05  2.2220E-03  2.6664E-04
+  2.4800E+07  2.0000E+05  6.0500E-03  7.2600E-04
+  2.9700E+07  2.0000E+05  8.4500E-03  1.0140E-03
+#---------------------------------------------------

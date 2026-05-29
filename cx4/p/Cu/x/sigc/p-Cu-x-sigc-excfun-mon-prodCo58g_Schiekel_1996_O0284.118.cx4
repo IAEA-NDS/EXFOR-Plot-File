@@ -1,0 +1,25 @@
+# EXFOR #         : O0284.118  
+# EXFOR Ver.      : 20191005
+# TRANS #         : O071
+# Author          : Th.Schiekel et al.
+# Reference       : Nucl.Instrum.Meth.B 114 (1996) 91
+# DOI             : 10.1016/0168-583X(96)00145-0
+# Quantity        : natCu(p,x)58gCo cumulative production cross section
+# REACTION        : 29-CU-0(P,X)27-CO-58-G,M+,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodCo58g_Schiekel_1996_o0284.118
+#
+# npts            : 4           
+# xmin            :   2.2600E+08
+# xmax            :   3.7500E+08
+# ymin            :   3.8000E-02
+# ymax            :   4.0300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2600E+08  1.8000E+06  3.9400E-02  3.1000E-03
+  2.7100E+08  1.2800E+06  4.0300E-02  3.2100E-03
+  3.3800E+08  1.7400E+06  3.8500E-02  3.0200E-03
+  3.7500E+08  1.2600E+06  3.8000E-02  2.9700E-03
+#---------------------------------------------------

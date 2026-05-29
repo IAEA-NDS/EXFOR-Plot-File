@@ -1,0 +1,26 @@
+# EXFOR #         : E2210.012  
+# EXFOR Ver.      : 20151115
+# TRANS #         : E100
+# Author          : S.Yamabe et al.
+# Reference       : J.Phys.Soc.Jpn. 13 (1958) 777
+# DOI             : 10.1143/JPSJ.13.777
+# Quantity        : 28Si(p,inl)28Si partial cross section
+# REACTION        : 14-SI-28(P,INL)14-SI-28,PAR,SIG
+# File ID         : p-Si28-inl-sig-excfun-mon-elvl1.780E+06_prodSi28_Yamabe_1958_e2210.012
+#
+# Elvl (eV)       :   1.7800E+06
+#
+# npts            : 3           
+# xmin            :   5.3000E+06
+# xmax            :   5.5000E+06
+# ymin            :   2.1100E-01
+# ymax            :   4.5600E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.3000E+06  0.0000E+00  2.1100E-01  0.0000E+00
+  5.4000E+06  0.0000E+00  4.5600E-01  0.0000E+00
+  5.5000E+06  0.0000E+00  4.4300E-01  0.0000E+00
+#---------------------------------------------------

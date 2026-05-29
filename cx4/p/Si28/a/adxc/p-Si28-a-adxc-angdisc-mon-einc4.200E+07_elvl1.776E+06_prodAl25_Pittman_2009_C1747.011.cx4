@@ -1,0 +1,27 @@
+# EXFOR #         : C1747.011  
+# EXFOR Ver.      : 20091022
+# TRANS #         : C094
+# Author          : S.T.Pittman et al.
+# Reference       : Phys.Rev.C 80 (2009) 038801
+# DOI             : 10.1103/PhysRevC.80.038801
+# Quantity        : 28Si(p,a)25Al partial angular differential cross section
+# REACTION        : 14-SI-28(P,A)13-AL-25,PAR,DA
+# File ID         : p-Si28-a-adxc-angdisc-mon-einc4.200E+07_elvl1.776E+06_prodAl25_Pittman_2009_c1747.011
+#
+# Einc (eV)       :   4.2000E+07
+# Elvl (eV)       :   1.7760E+06
+#
+# npts            : 3           
+# xmin            :   33.3000000
+# xmax            :   39.8000000
+# ymin            :   2.0800E-05
+# ymax            :   2.2300E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  33.3000000   0.0000000  2.2000E-05  8.0000E-07
+  36.5000000   0.0000000  2.2300E-05  9.0000E-07
+  39.8000000   0.0000000  2.0800E-05  7.0000E-07
+#---------------------------------------------------

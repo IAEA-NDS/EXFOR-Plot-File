@@ -1,0 +1,25 @@
+# EXFOR #         : F1072.008  
+# EXFOR Ver.      : 20251230
+# TRANS #         : F107
+# Author          : J.C.Armstrong et al.
+# Reference       : Phys.Rev. 144 (1966) 823
+# DOI             : 10.1103/PhysRev.144.823
+# Quantity        : 12C(p,el)12C angular differential cross section
+# REACTION        : 6-C-12(P,EL)6-C-12,,DA
+# File ID         : p-C12-el-adxc-angdisc-mon-einc1.585E+06_prodC12_Armstrong_1966_f1072.008
+#
+# Einc (eV)       :   1.5850E+06
+# dEinc (eV)      :   6.0000E+03
+#
+# npts            : 1           
+# xmin            :  125.2000000
+# xmax            :  125.2000000
+# ymin            :   1.6000E-01
+# ymax            :   1.6000E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 125.2000000   0.0000000  1.6000E-01  1.0000E-02
+#---------------------------------------------------

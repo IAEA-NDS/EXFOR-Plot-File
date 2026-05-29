@@ -1,0 +1,22 @@
+# EXFOR #         : C0247.006.1
+# EXFOR Ver.      : 19881011
+# TRANS #         : 0000
+# Author          : R.Bernas et al.
+# Reference       : Phys.Lett. 15 (1965) 147
+# DOI             : 10.1016/0031-9163(65)91317-X
+# Quantity        : 16O(p,x)7Li independent production cross section
+# REACTION        : 8-O-16(P,X)3-LI-7,,SIG
+# File ID         : p-O16-x-sig-excfun-mon-prodLi7_Bernas_1965_c0247.006.1
+#
+# npts            : 1           
+# xmin            :   1.5500E+08
+# xmax            :   1.5500E+08
+# ymin            :   1.4000E-02
+# ymax            :   1.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5500E+08  0.0000E+00  1.4000E-02  2.0000E-03
+#---------------------------------------------------

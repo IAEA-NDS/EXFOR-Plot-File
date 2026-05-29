@@ -1,0 +1,22 @@
+# EXFOR #         : O0412.022  
+# EXFOR Ver.      : 20220107
+# TRANS #         : O086
+# Author          : R.G.Korteling et al.
+# Reference       : J.Inorg.Nucl.Chem. 29 (1967) 2863
+# DOI             : 10.1016/0022-1902(67)80117-9
+# Quantity        : 75As(p,x)24Na cumulative production cross section
+# REACTION        : 33-AS-75(P,X)11-NA-24,CUM,SIG
+# File ID         : p-As75-x-sigc-excfun-mon-prodNa24_Korteling_1967_o0412.022
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   3.9500E-05
+# ymax            :   3.9500E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  5.0000E+05  3.9500E-05  1.3000E-06
+#---------------------------------------------------

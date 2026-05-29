@@ -1,0 +1,30 @@
+# EXFOR #         : O0831.007  
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : Yu.A.Batusov et al.
+# Reference       : Yad.Fiz. 26 (1977) 966
+# DOI             : N/A
+# Quantity        : natCu(p,pi-+x) double differential cross section
+# REACTION        : 29-CU-0(P,X)1-PN-0,,DA/DE
+# File ID         : p-Cu-xpin-ddxl-enedisl-mon-einc6.000E+08_angl105_Batusov_1977_o0831.007
+#
+# Einc (eV)       :   6.0000E+08
+# theta,lab (deg) :  105.0000000
+#
+# npts            : 6           
+# xmin            :   1.4370E+07
+# xmax            :   5.7290E+07
+# ymin            :   9.4000E-09
+# ymax            :   1.6000E-08
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  1.4370E+07  0.0000E+00  1.3700E-08  1.2000E-09
+  2.1550E+07  0.0000E+00  1.6000E-08  1.7000E-09
+  2.8230E+07  0.0000E+00  1.5300E-08  1.4000E-09
+  3.7760E+07  0.0000E+00  1.4500E-08  1.4000E-09
+  4.7100E+07  0.0000E+00  9.4000E-09  1.2000E-09
+  5.7290E+07  0.0000E+00  9.8000E-09  1.3000E-09
+#---------------------------------------------------

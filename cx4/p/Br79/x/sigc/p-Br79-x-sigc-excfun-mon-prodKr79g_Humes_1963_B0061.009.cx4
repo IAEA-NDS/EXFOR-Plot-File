@@ -1,0 +1,22 @@
+# EXFOR #         : B0061.009  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : R.M.Humes et al.
+# Reference       : Phys.Rev. 130 (1963) 1522
+# DOI             : 10.1103/PhysRev.130.1522
+# Quantity        : 79Br(p,n)79gKr cumulative production cross section
+# REACTION        : 35-BR-79(P,N)36-KR-79-G,M+,SIG,,,EXP
+# File ID         : p-Br79-x-sigc-excfun-mon-prodKr79g_Humes_1963_b0061.009
+#
+# npts            : 1           
+# xmin            :   6.7500E+06
+# xmax            :   6.7500E+06
+# ymin            :   8.5600E-02
+# ymax            :   8.5600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.7500E+06  0.0000E+00  8.5600E-02  4.8000E-03
+#---------------------------------------------------

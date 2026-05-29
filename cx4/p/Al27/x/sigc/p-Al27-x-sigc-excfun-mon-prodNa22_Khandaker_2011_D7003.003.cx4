@@ -1,0 +1,26 @@
+# EXFOR #         : D7003.003  
+# EXFOR Ver.      : 20110627
+# TRANS #         : D079
+# Author          : M.U.Khandaker et al.
+# Reference       : J.Korean.Phys.Soc. 59 (2011) 1821
+# DOI             : 10.3938/jkps.59.1821
+# Quantity        : 27Al(p,x)22Na cumulative production cross section
+# REACTION        : 13-AL-27(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Al27-x-sigc-excfun-mon-prodNa22_Khandaker_2011_d7003.003
+#
+# npts            : 5           
+# xmin            :   3.3400E+07
+# xmax            :   3.8300E+07
+# ymin            :   1.4500E-02
+# ymax            :   3.8470E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.3400E+07  4.0000E+05  1.4500E-02  5.9000E-03
+  3.4100E+07  4.0000E+05  1.7400E-02  8.7900E-03
+  3.4500E+07  4.0000E+05  2.3200E-02  8.9600E-03
+  3.6500E+07  3.0000E+05  3.1910E-02  9.0100E-03
+  3.8300E+07  3.0000E+05  3.8470E-02  6.3600E-03
+#---------------------------------------------------

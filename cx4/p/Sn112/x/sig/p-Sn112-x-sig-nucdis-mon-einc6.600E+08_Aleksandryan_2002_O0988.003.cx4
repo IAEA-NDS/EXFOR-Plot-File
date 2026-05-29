@@ -1,0 +1,29 @@
+# EXFOR #         : O0988.003  
+# EXFOR Ver.      : 20230123
+# TRANS #         : O093
+# Author          : V.E.Aleksandryan et al.
+# Reference       : Phys.At.Nucl. 65 (2002) 776
+# DOI             : 10.1134/1.1481468
+# Quantity        : 112Sn(p,x) independent production cross section
+# REACTION        : 50-SN-112(P,X)ELEM/MASS,,SIG
+# File ID         : p-Sn112-x-sig-nucdis-mon-einc6.600E+08_Aleksandryan_2002_o0988.003
+#
+# Einc (eV)       :   6.6000E+08
+#
+# npts            : 6           
+# xmin            : 41095.1     
+# xmax            : 45102.1     
+# ymin            :   2.0000E-04
+# ymax            :   1.9200E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     41095.1  2.0000E-04  2.0000E-05
+     45100.0  1.9200E-02  2.0000E-03
+     45101.0  4.5000E-03  5.0000E-04
+     45101.1  1.3400E-02  1.0000E-03
+     45102.0  1.0000E-03  1.0000E-04
+     45102.1  2.6100E-03  3.9000E-04
+#---------------------------------------------------

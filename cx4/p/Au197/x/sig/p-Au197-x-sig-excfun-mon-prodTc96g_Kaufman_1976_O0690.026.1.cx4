@@ -1,0 +1,22 @@
+# EXFOR #         : O0690.026.1
+# EXFOR Ver.      : 20230111
+# TRANS #         : O091
+# Author          : S.B.Kaufman et al.
+# Reference       : Phys.Rev.C 14 (1976) 1121
+# DOI             : 10.1103/PhysRevC.14.1121
+# Quantity        : 197Au(p,x)96gTc independent production cross section
+# REACTION        : 79-AU-197(P,X)43-TC-96-G,,SIG
+# File ID         : p-Au197-x-sig-excfun-mon-prodTc96g_Kaufman_1976_o0690.026.1
+#
+# npts            : 1           
+# xmin            :   1.1500E+10
+# xmax            :   1.1500E+10
+# ymin            :   2.5800E-03
+# ymax            :   2.5800E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+10  0.0000E+00  2.5800E-03  1.7000E-04
+#---------------------------------------------------

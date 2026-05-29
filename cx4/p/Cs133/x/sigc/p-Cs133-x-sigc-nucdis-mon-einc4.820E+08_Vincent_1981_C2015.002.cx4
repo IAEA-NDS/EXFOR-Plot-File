@@ -1,0 +1,27 @@
+# EXFOR #         : C2015.002  
+# EXFOR Ver.      : 20130702
+# TRANS #         : C133
+# Author          : J.S.Vincent et al.
+# Reference       : J.Radioanal.Chem. 65 (1981) 17
+# DOI             : 10.1007/BF02516084
+# Quantity        : 133Cs(p,x) cumulative production cross section
+# REACTION        : 55-CS-133(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-Cs133-x-sigc-nucdis-mon-einc4.820E+08_Vincent_1981_c2015.002
+#
+# Einc (eV)       :   4.8200E+08
+#
+# npts            : 4           
+# xmin            : 54122.9     
+# xmax            : 54127.9     
+# ymin            :   2.3500E-02
+# ymax            :   6.1500E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     54122.9  2.3500E-02  1.9000E-03
+     54123.9  3.6200E-02  2.8000E-03
+     54125.9  4.8100E-02  3.9000E-03
+     54127.9  6.1500E-02  5.0000E-03
+#---------------------------------------------------

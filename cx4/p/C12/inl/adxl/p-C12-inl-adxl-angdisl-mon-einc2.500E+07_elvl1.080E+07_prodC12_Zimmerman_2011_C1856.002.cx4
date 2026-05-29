@@ -1,0 +1,27 @@
+# EXFOR #         : C1856.002  
+# EXFOR Ver.      : 20110925
+# TRANS #         : C111
+# Author          : W.R.Zimmerman et al.
+# Reference       : Phys.Rev.C 84 (2011) 027304
+# DOI             : 10.1103/PhysRevC.84.027304
+# Quantity        : 12C(p,inl)12C partial angular differential cross section
+# REACTION        : 6-C-12(P,INL)6-C-12,PAR,DA
+# File ID         : p-C12-inl-adxl-angdisl-mon-einc2.500E+07_elvl1.080E+07_prodC12_Zimmerman_2011_c1856.002
+#
+# Einc (eV)       :   2.5000E+07
+# Elvl (eV)       :   1.0800E+07
+#
+# npts            : 3           
+# xmin            :   22.0000000
+# xmax            :   50.2000000
+# ymin            :   2.1000E-04
+# ymax            :   2.9000E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  22.0000000   0.0000000  2.1000E-04  0.0000E+00
+  39.1000000   0.0000000  2.9000E-04  3.0000E-05
+  50.2000000   0.0000000  2.8000E-04  3.0000E-05
+#---------------------------------------------------

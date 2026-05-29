@@ -1,0 +1,22 @@
+# EXFOR #         : D0029.127  
+# EXFOR Ver.      : 20060725
+# TRANS #         : D048
+# Author          : A.Gruetter
+# Reference       : Appl.Radiat.Isot. 33 (1982) 725
+# DOI             : 10.1016/0020-708X(82)90092-8
+# Quantity        : natRb(p,x)56Co cumulative production cross section
+# REACTION        : 37-RB-0(P,X)27-CO-56,CUM,SIG
+# File ID         : p-Rb-x-sigc-excfun-mon-prodCo56_Gruetter_1982_d0029.127
+#
+# npts            : 1           
+# xmin            :   5.9300E+08
+# xmax            :   5.9300E+08
+# ymin            :   5.1000E-04
+# ymax            :   5.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9300E+08  0.0000E+00  5.1000E-04  0.0000E+00
+#---------------------------------------------------

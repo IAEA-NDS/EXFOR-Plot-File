@@ -1,0 +1,22 @@
+# EXFOR #         : A0408.013  
+# EXFOR Ver.      : 20220804
+# TRANS #         : A101
+# Author          : B.Dittrich et al.
+# Reference       : Report INDC(GER)-32 page 33, 1988
+# DOI             : N/A
+# Quantity        : natNi(p,x)60Co independent production cross section
+# REACTION        : 28-NI-0(P,X)27-CO-60,,SIG
+# File ID         : p-Ni-x-sig-excfun-mon-prodCo60_Dittrich_1988_a0408.013
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   1.8300E-03
+# ymax            :   1.8300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  1.8300E-03  7.0000E-05
+#---------------------------------------------------

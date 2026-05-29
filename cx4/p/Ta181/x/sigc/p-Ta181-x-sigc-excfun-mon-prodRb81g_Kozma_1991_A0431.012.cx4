@@ -1,0 +1,22 @@
+# EXFOR #         : A0431.012  
+# EXFOR Ver.      : 20190626
+# TRANS #         : A091
+# Author          : P.Kozma et al.
+# Reference       : J.Phys.G 17 (1991) 675
+# DOI             : 10.1088/0954-3899/17/5/014
+# Quantity        : 181Ta(p,x)81gRb cumulative production cross section
+# REACTION        : 73-TA-181(P,X)37-RB-81-G,CUM,SIG
+# File ID         : p-Ta181-x-sigc-excfun-mon-prodRb81g_Kozma_1991_a0431.012
+#
+# npts            : 1           
+# xmin            :   3.6500E+09
+# xmax            :   3.6500E+09
+# ymin            :   3.6000E-03
+# ymax            :   3.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.6500E+09  0.0000E+00  3.6000E-03  3.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : A0408.002  
+# EXFOR Ver.      : 20220804
+# TRANS #         : A101
+# Author          : B.Dittrich et al.
+# Reference       : Report INDC(GER)-32 page 33, 1988
+# DOI             : N/A
+# Quantity        : natTi(p,x)10Be independent production cross section
+# REACTION        : 22-TI-0(P,X)4-BE-10,,SIG
+# File ID         : p-Ti-x-sig-excfun-mon-prodBe10_Dittrich_1988_a0408.002
+#
+# npts            : 4           
+# xmin            :   1.1800E+08
+# xmax            :   6.0000E+08
+# ymin            :   5.7000E-05
+# ymax            :   8.4500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1800E+08  0.0000E+00  5.7000E-05  4.0000E-06
+  1.6800E+08  0.0000E+00  9.2000E-05  6.0000E-06
+  1.9600E+08  0.0000E+00  1.1600E-04  7.0000E-06
+  6.0000E+08  0.0000E+00  8.4500E-04  4.8000E-05
+#---------------------------------------------------

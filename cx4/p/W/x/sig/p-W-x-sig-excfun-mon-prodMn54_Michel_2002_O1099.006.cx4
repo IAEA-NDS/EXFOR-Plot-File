@@ -1,0 +1,26 @@
+# EXFOR #         : O1099.006  
+# EXFOR Ver.      : 20220120
+# TRANS #         : O087
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : natW(p,x)54Mn independent production cross section
+# REACTION        : 74-W-0(P,X)25-MN-54,,SIG
+# File ID         : p-W-x-sig-excfun-mon-prodMn54_Michel_2002_o1099.006
+#
+# npts            : 5           
+# xmin            :   1.1600E+09
+# xmax            :   2.5900E+09
+# ymin            :   4.7430E-04
+# ymax            :   1.8040E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1600E+09  1.3660E+06  4.7430E-04  5.7650E-05
+  1.3800E+09  1.0160E+06  6.7460E-04  7.2660E-05
+  1.5700E+09  1.2900E+06  7.8000E-04  8.7750E-05
+  2.5800E+09  1.0020E+06  1.8040E-03  3.4220E-04
+  2.5900E+09  1.0100E+06  1.3470E-03  1.5100E-04
+#---------------------------------------------------

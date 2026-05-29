@@ -1,0 +1,22 @@
+# EXFOR #         : D0452.028  
+# EXFOR Ver.      : 20230112
+# TRANS #         : D138
+# Author          : L.Milazzo-Colli et al.
+# Reference       : Nuovo Cim.A 30 (1975) 632
+# DOI             : 10.1007/BF02730490
+# Quantity        : 206Pb(p,a+x) cross section
+# REACTION        : 82-PB-206(P,X)2-HE-4,,SIG
+# File ID         : p-Pb206-xa-sig-excfun-mon-Milazzo+Colli_1975_d0452.028
+#
+# npts            : 1           
+# xmin            :   2.0000E+07
+# xmax            :   2.0000E+07
+# ymin            :   3.0000E-03
+# ymax            :   3.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+07  1.5000E+05  3.0000E-03  6.0000E-04
+#---------------------------------------------------

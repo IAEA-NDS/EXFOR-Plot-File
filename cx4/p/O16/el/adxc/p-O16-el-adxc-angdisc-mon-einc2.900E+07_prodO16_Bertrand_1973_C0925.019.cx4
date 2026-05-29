@@ -1,0 +1,24 @@
+# EXFOR #         : C0925.019  
+# EXFOR Ver.      : 20110125
+# TRANS #         : C105
+# Author          : F.E.Bertrand et al.
+# Reference       : Phys.Rev.C 8 (1973) 1045
+# DOI             : 10.1103/PhysRevC.8.1045
+# Quantity        : 16O(p,el)16O angular differential cross section
+# REACTION        : 8-O-16(P,EL)8-O-16,,DA
+# File ID         : p-O16-el-adxc-angdisc-mon-einc2.900E+07_prodO16_Bertrand_1973_c0925.019
+#
+# Einc (eV)       :   2.9000E+07
+#
+# npts            : 1           
+# xmin            :   31.8000000
+# xmax            :   31.8000000
+# ymin            :   2.7800E-01
+# ymax            :   2.7800E-01
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  31.8000000   0.0000000  2.7800E-01  2.7800E-04
+#---------------------------------------------------

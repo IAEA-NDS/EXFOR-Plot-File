@@ -1,0 +1,23 @@
+# EXFOR #         : O0305.005  
+# EXFOR Ver.      : 20221114
+# TRANS #         : O093
+# Author          : L.A.Currie
+# Reference       : Phys.Rev. 114 (1959) 878
+# DOI             : 10.1103/PhysRev.114.878
+# Quantity        : 27Al(p,t+x) cross section
+# REACTION        : 13-AL-27(P,X)1-H-3,,SIG
+# File ID         : p-Al27-xt-sig-excfun-mon-Currie_1959_o0305.005
+#
+# npts            : 2           
+# xmin            :   1.2000E+08
+# xmax            :   5.7000E+09
+# ymin            :   8.0000E-03
+# ymax            :   5.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+08  0.0000E+00  8.0000E-03  1.6000E-03
+  5.7000E+09  0.0000E+00  5.0000E-02  1.0000E-02
+#---------------------------------------------------

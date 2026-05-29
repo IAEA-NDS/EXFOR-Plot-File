@@ -1,0 +1,29 @@
+# EXFOR #         : C0375.013  
+# EXFOR Ver.      : 20220824
+# TRANS #         : C218
+# Author          : G.Friedlander et al.
+# Reference       : Phys.Rev. 129 (1963) 1809
+# DOI             : 10.1103/PhysRev.129.1809
+# Quantity        : natU(p,x) independent production cross section
+# REACTION        : 92-U-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-U-x-sig-nucdis-mon-einc6.800E+08_Friedlander_1963_c0375.013
+#
+# Einc (eV)       :   6.8000E+08
+#
+# npts            : 6           
+# xmin            : 37084.9     
+# xmax            : 55136.9     
+# ymin            :   3.6000E-03
+# ymax            :   8.3000E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     55136.9  4.8000E-03  5.0000E-04
+     55134.9  5.5000E-03  3.0000E-04
+     55132.9  5.9000E-03  3.0000E-04
+     55131.9  5.8000E-03  3.0000E-04
+     37086.9  8.3000E-03  5.0000E-04
+     37084.9  3.6000E-03  1.2000E-03
+#---------------------------------------------------

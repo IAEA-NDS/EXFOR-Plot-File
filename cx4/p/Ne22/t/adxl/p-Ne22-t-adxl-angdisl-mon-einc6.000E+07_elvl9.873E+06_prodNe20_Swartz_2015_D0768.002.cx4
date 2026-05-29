@@ -1,0 +1,25 @@
+# EXFOR #         : D0768.002  
+# EXFOR Ver.      : 20150513
+# TRANS #         : D099
+# Author          : J.A.Swartz et al.
+# Reference       : Phys.Rev.C 91 (2015) 034317
+# DOI             : 10.1103/PhysRevC.91.034317
+# Quantity        : 22Ne(p,t)20Ne partial angular differential cross section
+# REACTION        : 10-NE-22(P,T)10-NE-20,PAR,DA
+# File ID         : p-Ne22-t-adxl-angdisl-mon-einc6.000E+07_elvl9.873E+06_prodNe20_Swartz_2015_d0768.002
+#
+# Einc (eV)       :   6.0000E+07
+# Elvl (eV)       :   9.8730E+06
+#
+# npts            : 1           
+# xmin            :   16.0000000
+# xmax            :   16.0000000
+# ymin            :   3.3000E-06
+# ymax            :   3.3000E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  16.0000000   0.0000000  3.3000E-06  7.0000E-07
+#---------------------------------------------------

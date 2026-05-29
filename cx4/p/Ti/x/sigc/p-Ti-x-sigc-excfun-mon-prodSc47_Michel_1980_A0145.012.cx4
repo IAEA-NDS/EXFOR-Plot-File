@@ -1,0 +1,25 @@
+# EXFOR #         : A0145.012  
+# EXFOR Ver.      : 20240818
+# TRANS #         : A116
+# Author          : R.Michel et al.
+# Reference       : J.Radioanal.Chem. 59 (1980) 467
+# DOI             : 10.1007/BF02517298
+# Quantity        : natTi(p,x)47Sc cumulative production cross section
+# REACTION        : 22-TI-0(P,X)21-SC-47,CUM,SIG
+# File ID         : p-Ti-x-sigc-excfun-mon-prodSc47_Michel_1980_a0145.012
+#
+# npts            : 4           
+# xmin            :   1.0930E+07
+# xmax            :   1.6420E+07
+# ymin            :   2.2000E-04
+# ymax            :   1.2600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6420E+07  1.9000E+05  1.2600E-03  1.8000E-04
+  1.4770E+07  2.6000E+05  7.6000E-04  1.0000E-04
+  1.2970E+07  3.5000E+05  4.9000E-04  5.0000E-05
+  1.0930E+07  3.8000E+05  2.2000E-04  4.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : S0207.041  
+# EXFOR Ver.      : 20181214
+# TRANS #         : S025
+# Author          : Y.Q.Ju et al.
+# Reference       : J.Phys.G 42 (2015) 125102
+# DOI             : 10.1088/0954-3899/42/12/125102
+# Quantity        : natPb(p,x)202Tl cumulative production cross section
+# REACTION        : 82-PB-0(P,X)81-TL-202,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodTl202_Ju_2015_s0207.041
+#
+# npts            : 1           
+# xmin            :   2.5000E+08
+# xmax            :   2.5000E+08
+# ymin            :   2.1400E-02
+# ymax            :   2.1400E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+08  0.0000E+00  2.1400E-02  3.9000E-04
+#---------------------------------------------------

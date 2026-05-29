@@ -1,0 +1,22 @@
+# EXFOR #         : C0269.009  
+# EXFOR Ver.      : 20211005
+# TRANS #         : C206
+# Author          : L.P.Remsberg et al.
+# Reference       : Phys.Rev. 130 (1963) 2069
+# DOI             : 10.1103/PhysRev.130.2069
+# Quantity        : 65Cu(p,x)64Cu independent production cross section
+# REACTION        : 29-CU-65(P,X)29-CU-64,,SIG
+# File ID         : p-Cu65-x-sig-excfun-mon-prodCu64_Remsberg_1963_c0269.009
+#
+# npts            : 1           
+# xmin            :   3.7000E+08
+# xmax            :   3.7000E+08
+# ymin            :   5.8600E-02
+# ymax            :   5.8600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+08  0.0000E+00  5.8600E-02  3.3000E-03
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : O1739.003  
+# EXFOR Ver.      : 20090415
+# TRANS #         : O039
+# Author          : H.E.Hassan et al.
+# Reference       : Proceedings of 6th Int.Nat.Conf.Nucl.& Part.Phys.,Luxor,Egypt 2007 page 209
+# DOI             : N/A
+# Quantity        : 139La(p,n)139Ce cross section
+# REACTION        : 57-LA-139(P,N)58-CE-139,,SIG
+# File ID         : p-La139-n-sig-excfun-mon-prodCe139_Hassan_2007_o1739.003
+#
+# npts            : 5           
+# xmin            :   5.8000E+06
+# xmax            :   1.4400E+07
+# ymin            :   1.7000E-03
+# ymax            :   2.5360E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4400E+07  3.0000E+05  8.2500E-02  9.3000E-03
+  1.2700E+07  1.0000E+05  1.6670E-01  1.8800E-02
+  1.0800E+07  1.0000E+05  2.5360E-01  2.8600E-02
+  8.6000E+06  1.0000E+05  7.9600E-02  8.0000E-03
+  5.8000E+06  1.0000E+05  1.7000E-03  2.0000E-04
+#---------------------------------------------------

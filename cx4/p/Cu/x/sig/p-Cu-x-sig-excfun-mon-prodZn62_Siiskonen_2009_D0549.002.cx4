@@ -1,0 +1,23 @@
+# EXFOR #         : D0549.002  
+# EXFOR Ver.      : 20081207
+# TRANS #         : D065
+# Author          : T.Siiskonen et al.
+# Reference       : Appl.Radiat.Isot. 67 (2009) 2037
+# DOI             : 10.1016/j.apradiso.2008.11.005
+# Quantity        : natCu(p,x)62Zn independent production cross section
+# REACTION        : 29-CU-0(P,X)30-ZN-62,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodZn62_Siiskonen_2009_d0549.002
+#
+# npts            : 2           
+# xmin            :   1.4840E+07
+# xmax            :   1.6450E+07
+# ymin            :   8.0000E-03
+# ymax            :   2.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4840E+07  3.5000E+05  8.0000E-03  6.0000E-04
+  1.6450E+07  3.0000E+05  2.7000E-02  2.0000E-03
+#---------------------------------------------------

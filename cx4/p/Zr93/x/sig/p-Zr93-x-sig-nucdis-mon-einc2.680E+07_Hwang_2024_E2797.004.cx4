@@ -1,0 +1,25 @@
+# EXFOR #         : E2797.004  
+# EXFOR Ver.      : 20250512
+# TRANS #         : E152
+# Author          : J.Hwang et al.
+# Reference       : Prog.Theor.Exp.Phys. 2024 (2024) 093D03
+# DOI             : 10.1093/ptep/ptae139
+# Quantity        : 93Zr(p,x) independent production cross section
+# REACTION        : 40-ZR-93(P,X)ELEM/MASS,,SIG
+# File ID         : p-Zr93-x-sig-nucdis-mon-einc2.680E+07_Hwang_2024_e2797.004
+#
+# Einc (eV)       :   2.6800E+07
+#
+# npts            : 2           
+# xmin            : 39088.9     
+# xmax            : 39089.9     
+# ymin            :   2.1000E-02
+# ymax            :   3.3000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     39089.9  3.3000E-02  7.0000E-03
+     39088.9  2.1000E-02  5.0000E-03
+#---------------------------------------------------

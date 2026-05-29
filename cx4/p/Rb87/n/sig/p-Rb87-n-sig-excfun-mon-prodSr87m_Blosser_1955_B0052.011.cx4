@@ -1,0 +1,22 @@
+# EXFOR #         : B0052.011  
+# EXFOR Ver.      : 20190120
+# TRANS #         : B029
+# Author          : H.G.Blosser et al.
+# Reference       : Phys.Rev. 100 (1955) 1340
+# DOI             : 10.1103/PhysRev.100.1340
+# Quantity        : 87Rb(p,n)87mSr cross section
+# REACTION        : 37-RB-87(P,N)38-SR-87-M,,SIG
+# File ID         : p-Rb87-n-sig-excfun-mon-prodSr87m_Blosser_1955_b0052.011
+#
+# npts            : 1           
+# xmin            :   1.2000E+07
+# xmax            :   1.2000E+07
+# ymin            :   2.2000E-01
+# ymax            :   2.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+07  0.0000E+00  2.2000E-01  7.0000E-02
+#---------------------------------------------------

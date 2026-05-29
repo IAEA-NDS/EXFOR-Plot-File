@@ -1,0 +1,23 @@
+# EXFOR #         : O1099.213  
+# EXFOR Ver.      : 20220120
+# TRANS #         : O087
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)132Cs independent production cross section
+# REACTION        : 83-BI-209(P,X)55-CS-132,,SIG
+# File ID         : p-Bi209-x-sig-excfun-mon-prodCs132_Michel_2002_o1099.213
+#
+# npts            : 2           
+# xmin            :   9.9800E+08
+# xmax            :   1.3980E+09
+# ymin            :   2.0950E-04
+# ymax            :   3.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.9800E+08  6.9000E+05  3.0000E-03  3.7420E-04
+  1.3980E+09  6.8590E+05  2.0950E-04  1.7820E-04
+#---------------------------------------------------

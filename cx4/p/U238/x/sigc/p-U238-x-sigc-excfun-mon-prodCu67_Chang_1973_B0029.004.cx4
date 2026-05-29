@@ -1,0 +1,22 @@
+# EXFOR #         : B0029.004  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : S.K.Chang et al.
+# Reference       : Phys.Rev.C 8 (1973) 775
+# DOI             : 10.1103/PhysRevC.8.775
+# Quantity        : 238U(p,x)67Cu cumulative production cross section
+# REACTION        : 92-U-238(P,X)29-CU-67,CUM,SIG,,,EXP
+# File ID         : p-U238-x-sigc-excfun-mon-prodCu67_Chang_1973_b0029.004
+#
+# npts            : 1           
+# xmin            :   1.1500E+10
+# xmax            :   1.1500E+10
+# ymin            :   2.9000E-03
+# ymax            :   2.9000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+10  0.0000E+00  2.9000E-03  2.0000E-04
+#---------------------------------------------------

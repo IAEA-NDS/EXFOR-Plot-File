@@ -1,0 +1,27 @@
+# EXFOR #         : D4343.019  
+# EXFOR Ver.      : 20230914
+# TRANS #         : D139
+# Author          : A.Hermanne et al.
+# Reference       : Nucl.Instrum.Meth.B 359 (2015) 145
+# DOI             : 10.1016/j.nimb.2015.07.008
+# Quantity        : natNi(p,x)51Cr cumulative production cross section
+# REACTION        : 28-NI-0(P,X)24-CR-51,(CUM),SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodCr51_Hermanne_2015_d4343.019
+#
+# npts            : 6           
+# xmin            :   5.7100E+07
+# xmax            :   6.4300E+07
+# ymin            :   4.7000E-03
+# ymax            :   1.5700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.4300E+07  2.0000E+05  1.5700E-02  1.9000E-03
+  6.2900E+07  2.0000E+05  1.4000E-02  1.7000E-03
+  6.1500E+07  3.0000E+05  1.0800E-02  1.3000E-03
+  6.0100E+07  4.0000E+05  9.8000E-03  1.2000E-03
+  5.8600E+07  4.0000E+05  6.9000E-03  8.0000E-04
+  5.7100E+07  5.0000E+05  4.7000E-03  6.0000E-04
+#---------------------------------------------------

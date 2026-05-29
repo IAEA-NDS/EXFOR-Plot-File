@@ -1,0 +1,26 @@
+# EXFOR #         : E1864.003  
+# EXFOR Ver.      : 20061121
+# TRANS #         : E040
+# Author          : M.Furukawa et al.
+# Reference       : Progress report A-INS-1989 page 32, 1990
+# DOI             : N/A
+# Quantity        : natNi(p,x)63Ni independent production cross section
+# REACTION        : 28-NI-0(P,X)28-NI-63,,SIG
+# File ID         : p-Ni-x-sig-excfun-mon-prodNi63_Furukawa_1990_e1864.003
+#
+# npts            : 5           
+# xmin            :   1.5900E+07
+# xmax            :   2.9750E+07
+# ymin            :   8.8530E-04
+# ymax            :   2.0070E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5900E+07  0.0000E+00  8.8530E-04  0.0000E+00
+  1.9510E+07  0.0000E+00  1.5220E-03  0.0000E+00
+  2.2990E+07  0.0000E+00  2.0070E-03  0.0000E+00
+  2.6380E+07  0.0000E+00  1.6010E-03  0.0000E+00
+  2.9750E+07  0.0000E+00  1.4880E-03  0.0000E+00
+#---------------------------------------------------

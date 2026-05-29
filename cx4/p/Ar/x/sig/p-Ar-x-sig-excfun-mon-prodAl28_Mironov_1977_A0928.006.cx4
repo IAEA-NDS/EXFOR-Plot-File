@@ -1,0 +1,22 @@
+# EXFOR #         : A0928.006  
+# EXFOR Ver.      : 20120320
+# TRANS #         : A077
+# Author          : Yu.T.Mironov et al.
+# Reference       : Prikl.Yad.Spekt. 7 (1977) 211
+# DOI             : N/A
+# Quantity        : natAr(p,x)28Al independent production cross section
+# REACTION        : 18-AR-0(P,X)13-AL-28,,SIG
+# File ID         : p-Ar-x-sig-excfun-mon-prodAl28_Mironov_1977_a0928.006
+#
+# npts            : 1           
+# xmin            :   1.0000E+09
+# xmax            :   1.0000E+09
+# ymin            :   5.0000E-03
+# ymax            :   5.0000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  5.0000E-03  6.0000E-04
+#---------------------------------------------------

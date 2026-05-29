@@ -1,0 +1,29 @@
+# EXFOR #         : T0401.004  
+# EXFOR Ver.      : 20050314
+# TRANS #         : T020
+# Author          : G.L.Moake et al.
+# Reference       : Phys.Rev.C 21 (1980) 2211
+# DOI             : 10.1103/PhysRevC.21.2211
+# Quantity        : 14N(p,n)14O partial angular differential cross section
+# REACTION        : 7-N-14(P,N)8-O-14,PAR,DA
+# File ID         : p-N14-n-adxc-angdisc-mon-einc1.440E+08_elvl0.000E+00_prodO14_Moake_1980_t0401.004
+#
+# Einc (eV)       :   1.4400E+08
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :    0.5620000
+# xmax            :   18.2020000
+# ymin            :   3.1620E-05
+# ymax            :   1.2060E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.5620000   0.0000000  1.2060E-04  0.0000E+00
+   5.0560000   0.0000000  1.1740E-04  0.0000E+00
+   9.1010000   0.0000000  8.5160E-05  0.0000E+00
+  13.5960000   0.0000000  7.4490E-05  0.0000E+00
+  18.2020000   0.0000000  3.1620E-05  0.0000E+00
+#---------------------------------------------------

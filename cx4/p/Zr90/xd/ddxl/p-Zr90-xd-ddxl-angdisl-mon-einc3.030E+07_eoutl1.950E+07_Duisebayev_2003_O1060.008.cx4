@@ -1,0 +1,30 @@
+# EXFOR #         : O1060.008  
+# EXFOR Ver.      : 20140205
+# TRANS #         : O052
+# Author          : A.Duisebayev et al.
+# Reference       : Phys.Rev.C 67 (2003) 044608
+# DOI             : 10.1103/PhysRevC.67.044608
+# Quantity        : 90Zr(p,d+x) double differential cross section
+# REACTION        : 40-ZR-90(P,X)1-H-2,,DA/DE
+# File ID         : p-Zr90-xd-ddxl-angdisl-mon-einc3.030E+07_eoutl1.950E+07_Duisebayev_2003_o1060.008
+#
+# Einc (eV)       :   3.0300E+07
+# dEinc (eV)      :   9.0900E+04
+# Eout,lab (eV)   :   1.9500E+07
+#
+# npts            : 5           
+# xmin            :   30.0000000
+# xmax            :  105.0000000
+# ymin            :   2.5680E-10
+# ymax            :   4.6415E-09
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  ddx,lab     dddx,lab    
+#  deg         deg         b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  30.0000000   0.0000000  4.6415E-09  5.3520E-10
+  60.0000000   0.0000000  1.5002E-09  1.6350E-10
+  75.0000000   0.0000000  6.3330E-10  6.7100E-11
+  90.0000000   0.0000000  4.3290E-10  5.9510E-11
+ 105.0000000   0.0000000  2.5680E-10  3.3570E-11
+#---------------------------------------------------

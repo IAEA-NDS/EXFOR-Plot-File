@@ -1,0 +1,24 @@
+# EXFOR #         : E1852.036  
+# EXFOR Ver.      : 20180223
+# TRANS #         : E111
+# Author          : Z.Qin et al.
+# Reference       : Radiochim.Acta 84 (1999) 115
+# DOI             : 10.1524/ract.1999.84.3.115
+# Quantity        : 248Cm(p,f)95Zr cumulative production cross section
+# REACTION        : 96-CM-248(P,F)40-ZR-95,(CUM),SIG
+# File ID         : p-Cm248-x-sigc-excfun-mon-prodZr95_Qin_1999_e1852.036
+#
+# npts            : 3           
+# xmin            :   1.5900E+07
+# xmax            :   2.0000E+07
+# ymin            :   1.4000E-02
+# ymax            :   2.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5900E+07  0.0000E+00  1.4000E-02  2.0000E-03
+  1.8100E+07  0.0000E+00  1.8000E-02  2.0000E-03
+  2.0000E+07  0.0000E+00  2.0000E-02  3.0000E-03
+#---------------------------------------------------

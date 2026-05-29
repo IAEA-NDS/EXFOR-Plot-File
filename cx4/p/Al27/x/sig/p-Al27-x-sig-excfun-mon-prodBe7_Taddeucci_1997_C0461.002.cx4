@@ -1,0 +1,23 @@
+# EXFOR #         : C0461.002  
+# EXFOR Ver.      : 20160809
+# TRANS #         : C161
+# Author          : T.N.Taddeucci et al.
+# Reference       : Phys.Rev.C 55 (1997) 1551
+# DOI             : 10.1103/PhysRevC.55.1551
+# Quantity        : 27Al(p,x)7Be independent production cross section
+# REACTION        : 13-AL-27(P,X)4-BE-7,,SIG
+# File ID         : p-Al27-x-sig-excfun-mon-prodBe7_Taddeucci_1997_c0461.002
+#
+# npts            : 2           
+# xmin            :   4.9500E+08
+# xmax            :   7.9500E+08
+# ymin            :   3.6000E-03
+# ymax            :   5.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.9500E+08  0.0000E+00  3.6000E-03  1.0000E-04
+  7.9500E+08  0.0000E+00  5.3000E-03  2.0000E-04
+#---------------------------------------------------

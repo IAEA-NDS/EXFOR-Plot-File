@@ -1,0 +1,26 @@
+# EXFOR #         : C1582.002  
+# EXFOR Ver.      : 20071127
+# TRANS #         : C083
+# Author          : Z.Ma et al.
+# Reference       : Phys.Rev.C 76 (2007) 015803
+# DOI             : 10.1103/PhysRevC.76.015803
+# Quantity        : 32S(p,d)31S partial angular differential cross section
+# REACTION        : 16-S-32(P,D)16-S-31,PAR,DA
+# File ID         : p-S32-d-adxl-angdisl-mon-einc3.200E+07_elvl4.085E+06_prodS31_Ma_2007_c1582.002
+#
+# Einc (eV)       :   3.2000E+07
+# Elvl (eV)       :   4.0850E+06
+#
+# npts            : 2           
+# xmin            :   18.5700000
+# xmax            :   21.9600000
+# ymin            :   5.6160E-04
+# ymax            :   6.4270E-04
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  18.5700000   0.0000000  6.4270E-04  8.9780E-05
+  21.9600000   0.0000000  5.6160E-04  8.5670E-05
+#---------------------------------------------------

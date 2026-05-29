@@ -1,0 +1,26 @@
+# EXFOR #         : O0365.004  
+# EXFOR Ver.      : 20200113
+# TRANS #         : O073
+# Author          : A.Johansson et al.
+# Reference       : Arkiv foer Fysik 19 (1961) 541
+# DOI             : N/A
+# Quantity        : 9Be(p,el)9Be angular differential cross section
+# REACTION        : 4-BE-9(P,EL)4-BE-9,,DA
+# File ID         : p-Be9-el-adxl-angdisl-mon-einc1.815E+08_prodBe9_Johansson_1961_o0365.004
+#
+# Einc (eV)       :   1.8150E+08
+#
+# npts            : 3           
+# xmin            :   60.3100000
+# xmax            :   70.3100000
+# ymin            :   1.0500E-06
+# ymax            :   5.1900E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  60.3100000   0.5100000  5.1900E-06  4.0000E-07
+  65.3100000   0.5100000  2.7600E-06  3.0000E-07
+  70.3100000   0.5100000  1.0500E-06  1.6000E-07
+#---------------------------------------------------

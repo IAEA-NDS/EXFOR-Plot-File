@@ -1,0 +1,22 @@
+# EXFOR #         : A0915.006  
+# EXFOR Ver.      : 20250729
+# TRANS #         : A122
+# Author          : E.G.Alekseev et al.
+# Reference       : Sov.Radiochem. 26 (1984) 632
+# DOI             : N/A
+# Quantity        : natRb(p,x)74As independent production cross section
+# REACTION        : 37-RB-0(P,X)33-AS-74,,SIG
+# File ID         : p-Rb-x-sig-excfun-mon-prodAs74_Alekseev_1984_a0915.006
+#
+# npts            : 1           
+# xmin            :   1.0000E+09
+# xmax            :   1.0000E+09
+# ymin            :   1.0600E-02
+# ymax            :   1.0600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  1.0600E-02  6.0000E-04
+#---------------------------------------------------

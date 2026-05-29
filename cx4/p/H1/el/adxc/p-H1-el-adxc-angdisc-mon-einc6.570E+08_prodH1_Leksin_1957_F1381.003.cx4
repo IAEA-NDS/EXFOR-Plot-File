@@ -1,0 +1,28 @@
+# EXFOR #         : F1381.003  
+# EXFOR Ver.      : 20190220
+# TRANS #         : F071
+# Author          : G.A.Leksin
+# Reference       : Zh.Eksp.Teor.Fiz. 32 (1957) 440
+# DOI             : N/A
+# Quantity        : 1H(p,el)1H angular differential cross section
+# REACTION        : 1-H-1(P,EL)1-H-1,,DA
+# File ID         : p-H1-el-adxc-angdisc-mon-einc6.570E+08_prodH1_Leksin_1957_f1381.003
+#
+# Einc (eV)       :   6.5700E+08
+# dEinc (eV)      :   2.0000E+06
+#
+# npts            : 4           
+# xmin            :   54.5000000
+# xmax            :   90.0000000
+# ymin            :   2.0900E-03
+# ymax            :   3.0500E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  54.5000000   0.0000000  3.0500E-03  5.5000E-04
+  67.5000000   0.0000000  2.5100E-03  5.8000E-04
+  80.5000000   0.0000000  2.1900E-03  3.5000E-04
+  90.0000000   0.0000000  2.0900E-03  1.7000E-04
+#---------------------------------------------------

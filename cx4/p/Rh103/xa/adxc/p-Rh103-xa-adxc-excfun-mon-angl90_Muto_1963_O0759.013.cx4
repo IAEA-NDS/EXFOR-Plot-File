@@ -1,0 +1,26 @@
+# EXFOR #         : O0759.013  
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : J.Muto et al.
+# Reference       : Nucl.Phys. 47 (1963) 19
+# DOI             : 10.1016/0029-5582(63)90850-2
+# Quantity        : 103Rh(p,a+x) angular differential cross section
+# REACTION        : 45-RH-103(P,X)2-HE-4,,DA
+# File ID         : p-Rh103-xa-adxc-excfun-mon-angl90_Muto_1963_o0759.013
+#
+# theta,lab (deg) :   90.0000000
+#
+# npts            : 3           
+# xmin            :   3.0000E+07
+# xmax            :   5.6300E+07
+# ymin            :   3.5600E-03
+# ymax            :   1.1240E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.0000E+07  2.1000E+05  3.5600E-03  0.0000E+00
+  4.3000E+07  2.1000E+05  6.6900E-03  0.0000E+00
+  5.6300E+07  2.1000E+05  1.1240E-02  0.0000E+00
+#---------------------------------------------------

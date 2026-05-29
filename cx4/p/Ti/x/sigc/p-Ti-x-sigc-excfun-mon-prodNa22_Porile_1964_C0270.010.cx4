@@ -1,0 +1,22 @@
+# EXFOR #         : C0270.010  
+# EXFOR Ver.      : 19961009
+# TRANS #         : 0000
+# Author          : N.T.Porile et al.
+# Reference       : Phys.Rev. 135 (1964) B122
+# DOI             : 10.1103/PhysRev.135.B122
+# Quantity        : natTi(p,x)22Na cumulative production cross section
+# REACTION        : 22-TI-0(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Ti-x-sigc-excfun-mon-prodNa22_Porile_1964_c0270.010
+#
+# npts            : 1           
+# xmin            :   2.9000E+10
+# xmax            :   2.9000E+10
+# ymin            :   3.7000E-03
+# ymax            :   3.7000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9000E+10  0.0000E+00  3.7000E-03  2.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : O0637.005  
+# EXFOR Ver.      : 20160801
+# TRANS #         : O058
+# Author          : P.Polak et al.
+# Reference       : J.Inorg.Nucl.Chem. 42 (1980) 641
+# DOI             : 10.1016/0022-1902(80)80209-0
+# Quantity        : 237Np(p,x) independent production cross section
+# REACTION        : 93-NP-237(P,X)ELEM/MASS,,SIG
+# File ID         : p-Np237-x-sig-nucdis-mon-einc2.580E+07_Polak_1980_o0637.005
+#
+# Einc (eV)       :   2.5800E+07
+#
+# npts            : 4           
+# xmin            : 51122.9     
+# xmax            : 55136.9     
+# ymin            :   3.4000E-03
+# ymax            :   4.0000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     51122.9  3.4000E-03  0.0000E+00
+     51124.9  2.6500E-02  0.0000E+00
+     53130.9  1.4000E-02  0.0000E+00
+     55136.9  4.0000E-02  0.0000E+00
+#---------------------------------------------------

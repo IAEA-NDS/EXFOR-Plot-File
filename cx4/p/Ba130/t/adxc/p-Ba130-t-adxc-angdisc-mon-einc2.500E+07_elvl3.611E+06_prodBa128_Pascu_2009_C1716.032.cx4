@@ -1,0 +1,26 @@
+# EXFOR #         : C1716.032  
+# EXFOR Ver.      : 20090825
+# TRANS #         : C094
+# Author          : S.Pascu et al.
+# Reference       : Phys.Rev.C 79 (2009) 064323
+# DOI             : 10.1103/PhysRevC.79.064323
+# Quantity        : 130Ba(p,t)128Ba partial angular differential cross section
+# REACTION        : 56-BA-130(P,T)56-BA-128,PAR,DA
+# File ID         : p-Ba130-t-adxc-angdisc-mon-einc2.500E+07_elvl3.611E+06_prodBa128_Pascu_2009_c1716.032
+#
+# Einc (eV)       :   2.5000E+07
+# Elvl (eV)       :   3.6110E+06
+#
+# npts            : 2           
+# xmin            :    6.1000000
+# xmax            :   15.2000000
+# ymin            :   8.3000E-06
+# ymax            :   1.2100E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   6.1000000   0.0000000  8.3000E-06  8.0000E-07
+  15.2000000   0.0000000  1.2100E-05  4.0000E-07
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : A0494.010  
+# EXFOR Ver.      : 20231226
+# TRANS #         : A105
+# Author          : A.Hermanne et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 616
+# DOI             : N/A
+# Quantity        : 205Tl(p,5n)201Pb cross section
+# REACTION        : 81-TL-205(P,5N)82-PB-201,,SIG
+# File ID         : p-Tl205-5n-sig-excfun-mon-prodPb201_Hermanne_1991_a0494.010
+#
+# npts            : 4           
+# xmin            :   3.8000E+07
+# xmax            :   4.2000E+07
+# ymin            :   1.9100E-01
+# ymax            :   5.5900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.8000E+07  0.0000E+00  1.9100E-01  1.6235E-02
+  3.9000E+07  0.0000E+00  2.4800E-01  2.1080E-02
+  4.0000E+07  0.0000E+00  3.2800E-01  2.7880E-02
+  4.2000E+07  0.0000E+00  5.5900E-01  4.7515E-02
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : O0589.002  
+# EXFOR Ver.      : 20010212
+# TRANS #         : 0000
+# Author          : F.M.Edwards et al.
+# Reference       : Nucl.Phys.A 199 (1973) 463
+# DOI             : 10.1016/0375-9474(73)90591-5
+# Quantity        : 58Ni(p,d)57Ni partial angular differential cross section
+# REACTION        : 28-NI-58(P,D)28-NI-57,PAR,DA
+# File ID         : p-Ni58-d-adxc-lvldis-mon-einc2.750E+07_angc21_prodNi57_Edwards_1973_o0589.002
+#
+# Einc (eV)       :   2.7500E+07
+# dEinc (eV)      :   1.0000E+05
+# theta,cm (deg)  :   21.0000000
+# dtheta,cm (deg) :    0.4000000
+#
+# npts            : 2           
+# xmin            :   7.7000E+05
+# xmax            :   1.1100E+06
+# ymin            :   2.7700E-04
+# ymax            :   3.2000E-04
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.7000E+05  0.0000E+00  2.7700E-04  5.5400E-06
+  1.1100E+06  0.0000E+00  3.2000E-04  6.4000E-06
+#---------------------------------------------------

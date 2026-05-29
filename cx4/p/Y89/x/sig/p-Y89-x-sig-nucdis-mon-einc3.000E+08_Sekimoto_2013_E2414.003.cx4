@@ -1,0 +1,25 @@
+# EXFOR #         : E2414.003  
+# EXFOR Ver.      : 20240503
+# TRANS #         : E143
+# Author          : S.Sekimoto et al.
+# Reference       : Nucl.Instrum.Meth.B 294 (2013) 475
+# DOI             : 10.1016/j.nimb.2012.03.005
+# Quantity        : 89Y(p,x) independent production cross section
+# REACTION        : 39-Y-89(P,X)ELEM/MASS,,SIG
+# File ID         : p-Y89-x-sig-nucdis-mon-einc3.000E+08_Sekimoto_2013_e2414.003
+#
+# Einc (eV)       :   3.0000E+08
+#
+# npts            : 2           
+# xmin            : 4010.9      
+# xmax            : 13026.0     
+# ymin            :   9.0000E-06
+# ymax            :   7.8000E-05
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      4010.9  7.8000E-05  2.0000E-06
+     13026.0  9.0000E-06  2.0000E-06
+#---------------------------------------------------

@@ -1,0 +1,26 @@
+# EXFOR #         : O0550.003  
+# EXFOR Ver.      : 20010212
+# TRANS #         : 0000
+# Author          : R.W.Peelle
+# Reference       : Phys.Rev. 105 (1957) 1311
+# DOI             : 10.1103/PhysRev.105.1311
+# Quantity        : 12C(p,inl)12C partial angular differential cross section
+# REACTION        : 6-C-12(P,INL)6-C-12,PAR,DA
+# File ID         : p-C12-inl-adxc-lvldis-mon-einc1.668E+07_angc27_prodC12_Peelle_1957_o0550.003
+#
+# Einc (eV)       :   1.6680E+07
+# theta,cm (deg)  :   26.9000000
+# dtheta,cm (deg) :    0.5000000
+#
+# npts            : 1           
+# xmin            :   4.4000E+06
+# xmax            :   4.4000E+06
+# ymin            :   3.1500E-02
+# ymax            :   3.1500E-02
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  4.4000E+06  0.0000E+00  3.1500E-02  1.4000E-03
+#---------------------------------------------------

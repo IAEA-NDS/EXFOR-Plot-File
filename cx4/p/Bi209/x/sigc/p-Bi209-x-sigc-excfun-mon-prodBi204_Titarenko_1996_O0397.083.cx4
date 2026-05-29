@@ -1,0 +1,22 @@
+# EXFOR #         : O0397.083  
+# EXFOR Ver.      : 20080512
+# TRANS #         : O035
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 page 184
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)204Bi cumulative production cross section
+# REACTION        : 83-BI-209(P,X)83-BI-204,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodBi204_Titarenko_1996_o0397.083
+#
+# npts            : 1           
+# xmin            :   1.5000E+09
+# xmax            :   1.5000E+09
+# ymin            :   2.8000E-02
+# ymax            :   2.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+09  0.0000E+00  2.8000E-02  4.0000E-03
+#---------------------------------------------------

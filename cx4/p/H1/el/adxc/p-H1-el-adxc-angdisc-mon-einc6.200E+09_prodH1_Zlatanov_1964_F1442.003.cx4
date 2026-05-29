@@ -1,0 +1,25 @@
+# EXFOR #         : F1442.003  
+# EXFOR Ver.      : 20210706
+# TRANS #         : F087
+# Author          : Z.M.Zlatanov et al.
+# Reference       : Zh.Eksp.Teor.Fiz. 46 (1964) 1964
+# DOI             : N/A
+# Quantity        : 1H(p,el)1H angular differential cross section
+# REACTION        : 1-H-1(P,EL)1-H-1,,DA
+# File ID         : p-H1-el-adxc-angdisc-mon-einc6.200E+09_prodH1_Zlatanov_1964_f1442.003
+#
+# Einc (eV)       :   6.2000E+09
+#
+# npts            : 2           
+# xmin            :    4.5000000
+# xmax            :    8.5000000
+# ymin            :   3.0100E-02
+# ymax            :   5.8500E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.5000000   2.0000000  5.8500E-02  1.5000E-02
+   8.5000000   2.0000000  3.0100E-02  9.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : O0411.010.4
+# EXFOR Ver.      : 20220107
+# TRANS #         : O086
+# Author          : I.B.Haller et al.
+# Reference       : J.Inorg.Nucl.Chem. 19 (1961) 1
+# DOI             : N/A
+# Quantity        : natGa(p,x)52Fe cumulative production cross section
+# REACTION        : 31-GA-0(P,X)26-FE-52,CUM,SIG
+# File ID         : p-Ga-x-sigc-excfun-mon-prodFe52_Haller_1961_o0411.010.4
+#
+# npts            : 1           
+# xmin            :   1.5300E+08
+# xmax            :   1.5300E+08
+# ymin            :   3.9000E-05
+# ymax            :   3.9000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5300E+08  8.0000E+06  3.9000E-05  5.0000E-06
+#---------------------------------------------------

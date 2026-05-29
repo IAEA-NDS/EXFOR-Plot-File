@@ -1,0 +1,27 @@
+# EXFOR #         : S0228.004  
+# EXFOR Ver.      : 20201225
+# TRANS #         : S029
+# Author          : Y.Jiang et al.
+# Reference       : Phys.Rev.C 101 (2020) 024601
+# DOI             : 10.1103/PhysRevC.101.024601
+# Quantity        : 16C(p,inl)16C partial angular differential cross section
+# REACTION        : 6-C-16(P,INL)6-C-16,PAR,DA
+# File ID         : p-C16-inl-adxc-angdisc-mon-einc2.400E+07_elvl1.766E+06_prodC16_Jiang_2020_s0228.004
+#
+# Einc (eV)       :   2.4000E+07
+# Elvl (eV)       :   1.7660E+06
+#
+# npts            : 3           
+# xmin            :   27.1400000
+# xmax            :   43.4600000
+# ymin            :   3.5900E-03
+# ymax            :   9.2500E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  43.4600000   0.0000000  3.5900E-03  1.0700E-03
+  35.2600000   0.0000000  8.1400E-03  1.8000E-03
+  27.1400000   0.0000000  9.2500E-03  1.9400E-03
+#---------------------------------------------------

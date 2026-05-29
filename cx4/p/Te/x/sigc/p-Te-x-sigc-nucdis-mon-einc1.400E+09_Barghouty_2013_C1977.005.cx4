@@ -1,0 +1,29 @@
+# EXFOR #         : C1977.005  
+# EXFOR Ver.      : 20130201
+# TRANS #         : C137
+# Author          : A.F.Barghouty et al.
+# Reference       : Nucl.Instrum.Meth.B 295 (2013) 16
+# DOI             : 10.1016/j.nimb.2012.10.008
+# Quantity        : natTe(p,x) cumulative production cross section
+# REACTION        : 52-TE-0(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-Te-x-sigc-nucdis-mon-einc1.400E+09_Barghouty_2013_c1977.005
+#
+# Einc (eV)       :   1.4000E+09
+#
+# npts            : 6           
+# xmin            : 26059.9     
+# xmax            : 50113.9     
+# ymin            :   1.5000E-04
+# ymax            :   2.7000E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     26059.9  3.0000E-04  1.0000E-04
+     27057.9  1.5000E-04  5.0000E-05
+     30065.9  1.2000E-03  3.0000E-04
+     34075.9  3.2000E-03  3.0000E-04
+     39088.9  4.6000E-03  8.0000E-04
+     50113.9  2.7000E-02  5.0000E-03
+#---------------------------------------------------

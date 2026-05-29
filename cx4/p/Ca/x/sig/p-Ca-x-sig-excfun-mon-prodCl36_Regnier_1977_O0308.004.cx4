@@ -1,0 +1,22 @@
+# EXFOR #         : O0308.004  
+# EXFOR Ver.      : 20220105
+# TRANS #         : O086
+# Author          : S.Regnier et al.
+# Reference       : Phys.Lett.B 68 (1977) 202
+# DOI             : 10.1016/0370-2693(77)90201-5
+# Quantity        : natCa(p,x)36Cl independent production cross section
+# REACTION        : 20-CA-0(P,X)17-CL-36,,SIG
+# File ID         : p-Ca-x-sig-excfun-mon-prodCl36_Regnier_1977_o0308.004
+#
+# npts            : 1           
+# xmin            :   2.4000E+10
+# xmax            :   2.4000E+10
+# ymin            :   1.6000E-02
+# ymax            :   1.6000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4000E+10  0.0000E+00  1.6000E-02  3.2000E-03
+#---------------------------------------------------

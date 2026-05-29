@@ -1,0 +1,24 @@
+# EXFOR #         : T0073.002  
+# EXFOR Ver.      : 20011119
+# TRANS #         : 0000
+# Author          : B.D.Kern et al.
+# Reference       : Nucl.Phys.A 430 (1984) 301
+# DOI             : 10.1016/0375-9474(84)90042-3
+# Quantity        : 96Zr(p,n)96Nb partial gamma production cross section
+# REACTION        : 40-ZR-96(P,N)41-NB-96,PAR,SIG,G
+# File ID         : p-Zr96-n-sigg-excfun-mon-eoutl5.760E+05_prodNb96_Kern_1984_t0073.002
+#
+# Eout,lab (eV)   :   5.7600E+05
+#
+# npts            : 1           
+# xmin            :   3.0200E+06
+# xmax            :   3.0200E+06
+# ymin            :   2.3800E-05
+# ymax            :   2.3800E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0200E+06  0.0000E+00  2.3800E-05  4.6000E-06
+#---------------------------------------------------

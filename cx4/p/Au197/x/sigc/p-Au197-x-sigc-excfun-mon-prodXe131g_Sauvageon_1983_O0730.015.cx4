@@ -1,0 +1,25 @@
+# EXFOR #         : O0730.015  
+# EXFOR Ver.      : 20000427
+# TRANS #         : 0000
+# Author          : H.Sauvageon et al.
+# Reference       : Z.Phys.A 314 (1983) 181
+# DOI             : 10.1007/BF01879876
+# Quantity        : 197Au(p,x)131gXe cumulative production cross section
+# REACTION        : 79-AU-197(P,X)54-XE-131-G,CUM,SIG
+# File ID         : p-Au197-x-sigc-excfun-mon-prodXe131g_Sauvageon_1983_o0730.015
+#
+# npts            : 4           
+# xmin            :   6.0000E+08
+# xmax            :   2.4000E+10
+# ymin            :   1.6000E-04
+# ymax            :   7.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  1.6000E-04  3.0000E-05
+  1.0500E+09  0.0000E+00  1.1300E-03  1.2000E-04
+  2.5000E+09  0.0000E+00  7.5000E-03  1.4000E-03
+  2.4000E+10  0.0000E+00  5.5000E-03  1.0000E-03
+#---------------------------------------------------

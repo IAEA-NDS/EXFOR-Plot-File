@@ -1,0 +1,25 @@
+# EXFOR #         : E1615.086  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : K.Miura et al.
+# Reference       : Nucl.Phys.A 436 No.2 (1985) 221
+# DOI             : 10.1016/0375-9474(85)90197-6
+# Quantity        : 204Hg(p,t)202Hg partial angular differential cross section
+# REACTION        : 80-HG-204(P,T)80-HG-202,PAR,DA
+# File ID         : p-Hg204-t-adxc-angdisc-mon-einc5.190E+07_elvl0.000E+00_prodHg202_Miura_1985_e1615.086
+#
+# Einc (eV)       :   5.1900E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   12.6000000
+# xmax            :   12.6000000
+# ymin            :   1.4300E-04
+# ymax            :   1.4300E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.6000000   0.0000000  1.4300E-04  2.7000E-05
+#---------------------------------------------------

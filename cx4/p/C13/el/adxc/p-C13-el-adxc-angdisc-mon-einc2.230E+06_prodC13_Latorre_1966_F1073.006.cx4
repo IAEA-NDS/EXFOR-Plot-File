@@ -1,0 +1,28 @@
+# EXFOR #         : F1073.006  
+# EXFOR Ver.      : 20100628
+# TRANS #         : F039
+# Author          : V.A.Latorre et al.
+# Reference       : Phys.Rev. 144 (1966) 891
+# DOI             : 10.1103/PhysRev.144.891
+# Quantity        : 13C(p,el)13C angular differential cross section
+# REACTION        : 6-C-13(P,EL)6-C-13,,DA
+# File ID         : p-C13-el-adxc-angdisc-mon-einc2.230E+06_prodC13_Latorre_1966_f1073.006
+#
+# Einc (eV)       :   2.2300E+06
+# dEinc (eV)      :   5.0000E+03
+#
+# npts            : 4           
+# xmin            :   39.2000000
+# xmax            :  125.3000000
+# ymin            :   1.1400E-01
+# ymax            :   1.0900E+00
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  39.2000000   0.0000000  1.0900E+00  3.2700E-02
+  54.7000000   0.0000000  3.1100E-01  9.3300E-03
+  90.0000000   0.0000000  1.4900E-01  4.4700E-03
+ 125.3000000   0.0000000  1.1400E-01  3.4200E-03
+#---------------------------------------------------

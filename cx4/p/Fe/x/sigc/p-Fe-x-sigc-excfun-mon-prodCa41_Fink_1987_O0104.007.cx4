@@ -1,0 +1,22 @@
+# EXFOR #         : O0104.007  
+# EXFOR Ver.      : 19950426
+# TRANS #         : 0000
+# Author          : D.Fink et al.
+# Reference       : Nucl.Instrum.Meth.B 29 (1987) 275
+# DOI             : 10.1016/0168-583X(87)90249-7
+# Quantity        : natFe(p,x)41Ca cumulative production cross section
+# REACTION        : 26-FE-0(P,X)20-CA-41,CUM,SIG,,,EXP
+# File ID         : p-Fe-x-sigc-excfun-mon-prodCa41_Fink_1987_o0104.007
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  1.0000E-02  4.0000E-04
+#---------------------------------------------------

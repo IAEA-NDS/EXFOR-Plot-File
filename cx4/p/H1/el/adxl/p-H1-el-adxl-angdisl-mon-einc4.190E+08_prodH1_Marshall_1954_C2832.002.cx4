@@ -1,0 +1,27 @@
+# EXFOR #         : C2832.002  
+# EXFOR Ver.      : 20221004
+# TRANS #         : C224
+# Author          : J.Marshall et al.
+# Reference       : Phys.Rev. 93 (1954) 927(M2)
+# DOI             : N/A
+# Quantity        : 1H(p,el)1H angular differential cross section
+# REACTION        : 1-H-1(P,EL)1-H-1,,DA
+# File ID         : p-H1-el-adxl-angdisl-mon-einc4.190E+08_prodH1_Marshall_1954_c2832.002
+#
+# Einc (eV)       :   4.1900E+08
+#
+# npts            : 4           
+# xmin            :   54.0000000
+# xmax            :   90.0000000
+# ymin            :   2.8400E-03
+# ymax            :   3.5100E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  54.0000000   0.0000000  2.8400E-03  1.2000E-04
+  65.0000000   0.0000000  3.1100E-03  1.9000E-04
+  80.0000000   0.0000000  3.5100E-03  2.3000E-04
+  90.0000000   0.0000000  3.4200E-03  1.3000E-04
+#---------------------------------------------------

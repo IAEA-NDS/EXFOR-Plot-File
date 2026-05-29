@@ -1,0 +1,23 @@
+# EXFOR #         : A0137.002  
+# EXFOR Ver.      : 20250702
+# TRANS #         : A121
+# Author          : B.R.Erdal et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 492
+# DOI             : N/A
+# Quantity        : 139La(p,x)123I independent production cross section
+# REACTION        : 57-LA-139(P,X)53-I-123,,SIG
+# File ID         : p-La139-x-sig-excfun-mon-prodI123_Erdal_1975_a0137.002
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   8.0000E+08
+# ymin            :   5.1000E-02
+# ymax            :   5.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  5.7000E-02  9.0000E-03
+  8.0000E+08  0.0000E+00  5.1000E-02  3.0000E-03
+#---------------------------------------------------

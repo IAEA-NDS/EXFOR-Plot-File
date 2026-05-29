@@ -1,0 +1,22 @@
+# EXFOR #         : A0299.019  
+# EXFOR Ver.      : 20240109
+# TRANS #         : A107
+# Author          : H.Lundqvist et al.
+# Reference       : Appl.Radiat.Isot. 30 (1979) 33
+# DOI             : 10.1016/0020-708X(79)90094-2
+# Quantity        : 30Si(p,3p)28Mg cross section
+# REACTION        : 14-SI-30(P,3P)12-MG-28,,SIG
+# File ID         : p-Si30-3p-sig-excfun-mon-prodMg28_Lundqvist_1979_a0299.019
+#
+# npts            : 1           
+# xmin            :   1.3000E+08
+# xmax            :   1.3000E+08
+# ymin            :   8.6000E-04
+# ymax            :   8.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  0.0000E+00  8.6000E-04  1.0000E-04
+#---------------------------------------------------

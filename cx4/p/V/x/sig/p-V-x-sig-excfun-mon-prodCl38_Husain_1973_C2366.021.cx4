@@ -1,0 +1,23 @@
+# EXFOR #         : C2366.021  
+# EXFOR Ver.      : 20181212
+# TRANS #         : C183
+# Author          : L.Husain et al.
+# Reference       : Phys.Rev.C 7 (1973) 2452
+# DOI             : 10.1103/PhysRevC.7.2452
+# Quantity        : natV(p,x)38Cl independent production cross section
+# REACTION        : 23-V-0(P,X)17-CL-38,,SIG
+# File ID         : p-V-x-sig-excfun-mon-prodCl38_Husain_1973_c2366.021
+#
+# npts            : 2           
+# xmin            :   3.0000E+09
+# xmax            :   2.9000E+10
+# ymin            :   2.7600E-03
+# ymax            :   3.0900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+09  0.0000E+00  3.0900E-03  3.0900E-04
+  2.9000E+10  0.0000E+00  2.7600E-03  2.7600E-04
+#---------------------------------------------------

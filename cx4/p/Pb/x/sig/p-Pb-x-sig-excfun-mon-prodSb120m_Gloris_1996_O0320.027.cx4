@@ -1,0 +1,22 @@
+# EXFOR #         : O0320.027  
+# EXFOR Ver.      : 19990712
+# TRANS #         : 0000
+# Author          : M.Gloris et al.
+# Reference       : Nucl.Instrum.Meth.B 113 (1996) 429
+# DOI             : 10.1016/0168-583X(95)01325-3
+# Quantity        : natPb(p,x)120m1Sb independent production cross section
+# REACTION        : 82-PB-0(P,X)51-SB-120-M1,IND,SIG
+# File ID         : p-Pb-x-sig-excfun-mon-prodSb120m_Gloris_1996_o0320.027
+#
+# npts            : 1           
+# xmin            :   1.6000E+09
+# xmax            :   1.6000E+09
+# ymin            :   4.3000E-04
+# ymax            :   4.3000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+09  0.0000E+00  4.3000E-04  7.5000E-05
+#---------------------------------------------------

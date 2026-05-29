@@ -1,0 +1,25 @@
+# EXFOR #         : O1099.008  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : natW(p,x)56Co cumulative production cross section
+# REACTION        : 74-W-0(P,X)27-CO-56,CUM,SIG
+# File ID         : p-W-x-sigc-excfun-mon-prodCo56_Michel_2002_o1099.008
+#
+# npts            : 4           
+# xmin            :   1.3800E+09
+# xmax            :   2.5900E+09
+# ymin            :   4.1460E-05
+# ymax            :   1.4840E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3800E+09  1.0160E+06  4.1460E-05  1.1040E-05
+  1.5700E+09  1.2900E+06  6.1460E-05  1.6530E-05
+  2.5800E+09  1.0020E+06  1.4840E-04  2.9170E-05
+  2.5900E+09  1.0100E+06  1.1100E-04  1.8470E-05
+#---------------------------------------------------

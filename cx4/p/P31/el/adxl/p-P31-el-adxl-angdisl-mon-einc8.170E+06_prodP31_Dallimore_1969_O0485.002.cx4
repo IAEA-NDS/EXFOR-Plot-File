@@ -1,0 +1,25 @@
+# EXFOR #         : O0485.002  
+# EXFOR Ver.      : 20001124
+# TRANS #         : 0000
+# Author          : P.J.Dallimore et al.
+# Reference       : Nucl.Phys.A 132 (1969) 287
+# DOI             : 10.1016/0375-9474(69)90485-0
+# Quantity        : 31P(p,el)31P angular differential cross section
+# REACTION        : 15-P-31(P,EL)15-P-31,,DA
+# File ID         : p-P31-el-adxl-angdisl-mon-einc8.170E+06_prodP31_Dallimore_1969_o0485.002
+#
+# Einc (eV)       :   8.1700E+06
+# dEinc (eV)      :   9.0000E+02
+#
+# npts            : 1           
+# xmin            :  160.0000000
+# xmax            :  160.0000000
+# ymin            :   3.8400E-02
+# ymax            :   3.8400E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 160.0000000   0.0000000  3.8400E-02  7.0000E-03
+#---------------------------------------------------

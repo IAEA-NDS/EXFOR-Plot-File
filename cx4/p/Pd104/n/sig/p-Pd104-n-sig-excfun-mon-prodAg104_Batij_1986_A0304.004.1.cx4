@@ -1,0 +1,25 @@
+# EXFOR #         : A0304.004.1
+# EXFOR Ver.      : 20240113
+# TRANS #         : A107
+# Author          : V.G.Batij et al.
+# Reference       : Proceedings of 36.Conf.Nucl.Spectrosc.and Nucl.Struct.,Kharkov 1986 page 280
+# DOI             : N/A
+# Quantity        : 104Pd(p,n)104Ag cross section
+# REACTION        : 46-PD-104(P,N)47-AG-104,,SIG
+# File ID         : p-Pd104-n-sig-excfun-mon-prodAg104_Batij_1986_a0304.004.1
+#
+# npts            : 4           
+# xmin            :   6.0000E+06
+# xmax            :   9.0000E+06
+# ymin            :   9.2000E-02
+# ymax            :   5.3000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+06  0.0000E+00  9.2000E-02  1.0000E-02
+  7.0000E+06  0.0000E+00  2.1000E-01  2.0000E-02
+  8.0000E+06  0.0000E+00  3.4000E-01  4.0000E-02
+  9.0000E+06  0.0000E+00  5.3000E-01  5.0000E-02
+#---------------------------------------------------

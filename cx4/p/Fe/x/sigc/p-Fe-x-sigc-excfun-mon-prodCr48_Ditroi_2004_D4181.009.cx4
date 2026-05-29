@@ -1,0 +1,27 @@
+# EXFOR #         : D4181.009  
+# EXFOR Ver.      : 20070507
+# TRANS #         : D053
+# Author          : F.Ditroi et al.
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Techn., Santa Fe 2004 769 page 1011
+# DOI             : N/A
+# Quantity        : natFe(p,x)48Cr cumulative production cross section
+# REACTION        : 26-FE-0(P,X)24-CR-48,(CUM),SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodCr48_Ditroi_2004_d4181.009
+#
+# npts            : 6           
+# xmin            :   5.2800E+07
+# xmax            :   6.7200E+07
+# ymin            :   9.0000E-05
+# ymax            :   3.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.7200E+07  0.0000E+00  3.6000E-04  6.0000E-05
+  6.4500E+07  0.0000E+00  3.6000E-04  6.0000E-05
+  6.1700E+07  0.0000E+00  3.3000E-04  6.0000E-05
+  5.8900E+07  0.0000E+00  2.7000E-04  2.0000E-05
+  5.5900E+07  0.0000E+00  1.3000E-04  3.0000E-05
+  5.2800E+07  0.0000E+00  9.0000E-05  1.0000E-05
+#---------------------------------------------------

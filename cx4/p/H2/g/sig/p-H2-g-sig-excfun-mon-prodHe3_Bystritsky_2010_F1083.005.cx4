@@ -1,0 +1,24 @@
+# EXFOR #         : F1083.005  
+# EXFOR Ver.      : 20111212
+# TRANS #         : F044
+# Author          : V.M.Bystritsky et al.
+# Reference       : Izv.Ross.AN,Fiz. 74 (2010) 563
+# DOI             : N/A
+# Quantity        : 2H(p,g)3He cross section
+# REACTION        : 1-H-2(P,G)2-HE-3,,SIG
+# File ID         : p-H2-g-sig-excfun-mon-prodHe3_Bystritsky_2010_f1083.005
+#
+# npts            : 3           
+# xmin            :   8.2722E+03
+# xmax            :   1.0102E+04
+# ymin            :   5.3730E-10
+# ymax            :   1.5774E-09
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.2722E+03  0.0000E+00  5.3730E-10  1.5680E-10
+  9.4922E+03  0.0000E+00  1.1016E-09  2.8950E-10
+  1.0102E+04  0.0000E+00  1.5774E-09  4.2380E-10
+#---------------------------------------------------

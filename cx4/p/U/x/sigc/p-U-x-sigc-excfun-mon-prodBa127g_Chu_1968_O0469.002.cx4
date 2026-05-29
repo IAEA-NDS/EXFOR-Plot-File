@@ -1,0 +1,24 @@
+# EXFOR #         : O0469.002  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : Y.Y.Chu et al.
+# Reference       : J.Inorg.Nucl.Chem. 30 (1968) 2561
+# DOI             : 10.1016/0022-1902(68)80380-X
+# Quantity        : natU(p,f)127gBa cumulative production cross section
+# REACTION        : 92-U-0(P,F)56-BA-127-G,CUM,SIG
+# File ID         : p-U-x-sigc-excfun-mon-prodBa127g_Chu_1968_o0469.002
+#
+# npts            : 3           
+# xmin            :   1.0000E+09
+# xmax            :   2.9000E+09
+# ymin            :   1.3300E-03
+# ymax            :   4.7200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  1.3300E-03  1.0000E-04
+  2.0000E+09  0.0000E+00  3.5300E-03  2.6000E-04
+  2.9000E+09  0.0000E+00  4.7200E-03  3.6000E-04
+#---------------------------------------------------

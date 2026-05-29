@@ -1,0 +1,27 @@
+# EXFOR #         : A0380.002  
+# EXFOR Ver.      : 20220802
+# TRANS #         : A101
+# Author          : Yu.V.Aleksandrov et al.
+# Reference       : Proceedings of 38.Conf.Nucl.Spectrosc.and Nucl.Struct., Baku 1988 page 544
+# DOI             : N/A
+# Quantity        : 197Au(p,x) independent production cross section
+# REACTION        : 79-AU-197(P,X)ELEM/MASS,,SIG
+# File ID         : p-Au197-x-sig-nucdis-mon-einc1.000E+09_Aleksandrov_1988_a0380.002
+#
+# Einc (eV)       :   1.0000E+09
+#
+# npts            : 4           
+# xmin            : 63147.9     
+# xmax            : 77192.9     
+# ymin            :   6.8000E-04
+# ymax            :   7.1000E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     63147.9  7.1000E-03  4.0000E-04
+     75184.9  6.8000E-04  8.0000E-05
+     77190.9  4.0900E-03  3.2000E-04
+     77192.9  2.7500E-03  1.3000E-04
+#---------------------------------------------------

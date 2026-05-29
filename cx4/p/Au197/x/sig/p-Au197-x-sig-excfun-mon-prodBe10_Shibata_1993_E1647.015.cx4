@@ -1,0 +1,22 @@
+# EXFOR #         : E1647.015  
+# EXFOR Ver.      : 20060411
+# TRANS #         : E036
+# Author          : S.Shibata et al.
+# Reference       : Phys.Rev.C 48 (1993) 2617
+# DOI             : 10.1103/PhysRevC.48.2617
+# Quantity        : 197Au(p,x)10Be independent production cross section
+# REACTION        : 79-AU-197(P,X)4-BE-10,,SIG
+# File ID         : p-Au197-x-sig-excfun-mon-prodBe10_Shibata_1993_e1647.015
+#
+# npts            : 1           
+# xmin            :   1.2000E+10
+# xmax            :   1.2000E+10
+# ymin            :   4.1300E-02
+# ymax            :   4.1300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+10  0.0000E+00  4.1300E-02  2.0000E-03
+#---------------------------------------------------

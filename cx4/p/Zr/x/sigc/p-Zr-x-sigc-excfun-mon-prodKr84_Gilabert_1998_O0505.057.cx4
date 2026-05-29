@@ -1,0 +1,24 @@
+# EXFOR #         : O0505.057  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : E.Gilabert et al.
+# Reference       : Nucl.Instrum.Meth.B 145 (1998) 293
+# DOI             : 10.1016/S0168-583X(98)00411-X
+# Quantity        : natZr(p,x)84Kr cumulative production cross section
+# REACTION        : 40-ZR-0(P,X)36-KR-84,CUM,SIG
+# File ID         : p-Zr-x-sigc-excfun-mon-prodKr84_Gilabert_1998_o0505.057
+#
+# npts            : 3           
+# xmin            :   1.5600E+08
+# xmax            :   1.2000E+09
+# ymin            :   5.9000E-03
+# ymax            :   1.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5600E+08  1.0000E+06  5.9000E-03  3.0000E-04
+  5.6900E+08  1.0000E+06  1.2000E-02  7.0000E-04
+  1.2000E+09  2.0000E+07  1.0100E-02  6.0000E-04
+#---------------------------------------------------

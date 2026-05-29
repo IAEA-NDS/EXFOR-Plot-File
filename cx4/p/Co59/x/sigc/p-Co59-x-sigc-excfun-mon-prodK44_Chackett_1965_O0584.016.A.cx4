@@ -1,0 +1,23 @@
+# EXFOR #         : O0584.016.A
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : K.F.Chackett
+# Reference       : J.Inorg.Nucl.Chem. 27 (1965) 2493
+# DOI             : 10.1016/0022-1902(65)80148-8
+# Quantity        : 59Co(p,x)44K cumulative production cross section
+# REACTION        : 27-CO-59(P,X)19-K-44,(CUM),SIG
+# File ID         : p-Co59-x-sigc-excfun-mon-prodK44_Chackett_1965_o0584.016.a
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   1.8300E+10
+# ymin            :   9.7000E-05
+# ymax            :   1.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  9.7000E-05  0.0000E+00
+  1.8300E+10  0.0000E+00  1.4000E-04  0.0000E+00
+#---------------------------------------------------

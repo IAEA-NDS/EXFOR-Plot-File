@@ -1,0 +1,25 @@
+# EXFOR #         : E1761.079  
+# EXFOR Ver.      : 20030606
+# TRANS #         : 0000
+# Author          : M.Harada et al.
+# Reference       : J.Nucl.Sci.Technol. 36 No.4 (1999) 313
+# DOI             : 10.1080/18811248.1999.9726214
+# Quantity        : 12C(p,a)9B partial cross section
+# REACTION        : 6-C-12(P,A)5-B-9,PAR,SIG
+# File ID         : p-C12-a-sig-excfun-mon-elvl0.000E+00_prodB9_Harada_1999_e1761.079
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :   1.4000E+07
+# xmax            :   1.8000E+07
+# ymin            :   4.0800E-02
+# ymax            :   4.3100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4000E+07  1.3000E+05  4.0800E-02  2.0400E-03
+  1.8000E+07  1.3000E+05  4.3100E-02  2.1550E-03
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : C1299.013  
+# EXFOR Ver.      : 20050808
+# TRANS #         : C075
+# Author          : A.A.Caretto et al.
+# Reference       : Phys.Rev. 115 (1959) 1238
+# DOI             : 10.1103/PhysRev.115.1238
+# Quantity        : 89Y(p,x)82Sr independent production cross section
+# REACTION        : 39-Y-89(P,X)38-SR-82,,SIG
+# File ID         : p-Y89-x-sig-excfun-mon-prodSr82_Caretto_1959_c1299.013
+#
+# npts            : 4           
+# xmin            :   1.0000E+08
+# xmax            :   2.4000E+08
+# ymin            :   2.0000E-03
+# ymax            :   1.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  0.0000E+00  2.0000E-03  5.0000E-04
+  1.5000E+08  0.0000E+00  7.0000E-03  1.0000E-03
+  1.8000E+08  0.0000E+00  1.1000E-02  3.0000E-03
+  2.4000E+08  0.0000E+00  9.3000E-03  5.0000E-03
+#---------------------------------------------------

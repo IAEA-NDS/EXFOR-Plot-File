@@ -1,0 +1,28 @@
+# EXFOR #         : C2040.002  
+# EXFOR Ver.      : 20130724
+# TRANS #         : C134
+# Author          : K.Setoodehnia et al.
+# Reference       : Phys.Rev.C 87 (2013) 065801
+# DOI             : 10.1103/PhysRevC.87.065801
+# Quantity        : 32S(p,t)30S partial angular differential cross section
+# REACTION        : 16-S-32(P,T)16-S-30,PAR,DA
+# File ID         : p-S32-t-adxc-angdisc-mon-einc3.450E+07_elvl6.055E+06_prodS30_Setoodehnia_2013_c2040.002
+#
+# Einc (eV)       :   3.4500E+07
+# Elvl (eV)       :   6.0550E+06
+#
+# npts            : 4           
+# xmin            :   11.1800000
+# xmax            :   30.6300000
+# ymin            :   6.6000E-07
+# ymax            :   1.6100E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  11.1800000   0.0000000  1.4800E-06  2.2000E-07
+  22.3200000   0.0000000  1.5800E-06  2.0000E-07
+  24.5400000   0.0000000  1.6100E-06  2.0000E-07
+  30.6300000   0.0000000  6.6000E-07  2.0000E-08
+#---------------------------------------------------

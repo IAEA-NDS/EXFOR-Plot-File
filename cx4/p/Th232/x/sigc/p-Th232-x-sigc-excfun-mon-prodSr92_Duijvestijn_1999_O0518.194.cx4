@@ -1,0 +1,22 @@
+# EXFOR #         : O0518.194  
+# EXFOR Ver.      : 20010115
+# TRANS #         : 0000
+# Author          : M.C.Duijvestijn et al.
+# Reference       : Phys.Rev.C 59 (1999) 776
+# DOI             : 10.1103/PhysRevC.59.776
+# Quantity        : 232Th(p,f)92Sr cumulative production cross section
+# REACTION        : 90-TH-232(P,F)38-SR-92,CUM,SIG
+# File ID         : p-Th232-x-sigc-excfun-mon-prodSr92_Duijvestijn_1999_o0518.194
+#
+# npts            : 1           
+# xmin            :   1.9000E+08
+# xmax            :   1.9000E+08
+# ymin            :   3.8000E-02
+# ymax            :   3.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9000E+08  0.0000E+00  3.8000E-02  8.0000E-03
+#---------------------------------------------------

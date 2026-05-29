@@ -1,0 +1,22 @@
+# EXFOR #         : C0250.002  
+# EXFOR Ver.      : 20250611
+# TRANS #         : C250
+# Author          : L.Marquez
+# Reference       : Phys.Rev. 86 (1952) 405
+# DOI             : 10.1103/PhysRev.86.405
+# Quantity        : natO(p,x)18F independent production cross section
+# REACTION        : 8-O-0(P,X)9-F-18,,SIG
+# File ID         : p-O-x-sig-excfun-mon-prodF18_Marquez_1952_c0250.002
+#
+# npts            : 1           
+# xmin            :   4.2000E+08
+# xmax            :   4.2000E+08
+# ymin            :   8.3000E-05
+# ymax            :   8.3000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.2000E+08  0.0000E+00  8.3000E-05  2.0750E-05
+#---------------------------------------------------

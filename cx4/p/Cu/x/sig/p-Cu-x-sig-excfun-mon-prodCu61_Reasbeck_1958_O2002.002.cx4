@@ -1,0 +1,22 @@
+# EXFOR #         : O2002.002  
+# EXFOR Ver.      : 20120809
+# TRANS #         : O049
+# Author          : P.Reasbeck et al.
+# Reference       : J.Inorg.Nucl.Chem. 7 (1958) 343
+# DOI             : 10.1016/0022-1902(58)80243-2
+# Quantity        : natCu(p,x)61Cu independent production cross section
+# REACTION        : 29-CU-0(P,X)29-CU-61,,SIG
+# File ID         : p-Cu-x-sig-excfun-mon-prodCu61_Reasbeck_1958_o2002.002
+#
+# npts            : 1           
+# xmin            :   9.8000E+08
+# xmax            :   9.8000E+08
+# ymin            :   1.0200E-02
+# ymax            :   1.0200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.8000E+08  0.0000E+00  1.0200E-02  1.4000E-03
+#---------------------------------------------------

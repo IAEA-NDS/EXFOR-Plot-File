@@ -1,0 +1,22 @@
+# EXFOR #         : O1099.253  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 209Bi(p,x)187Ir cumulative production cross section
+# REACTION        : 83-BI-209(P,X)77-IR-187,CUM,SIG
+# File ID         : p-Bi209-x-sigc-excfun-mon-prodIr187_Michel_2002_o1099.253
+#
+# npts            : 1           
+# xmin            :   5.5100E+08
+# xmax            :   5.5100E+08
+# ymin            :   5.2880E-02
+# ymax            :   5.2880E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.5100E+08  1.6900E+06  5.2880E-02  7.0930E-03
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : A1123.006  
+# EXFOR Ver.      : 20260216
+# TRANS #         : A132
+# Author          : G.F.Bogdanov et al.
+# Reference       : J.Exp.Theor.Phys. 9 (1959) 440
+# DOI             : N/A
+# Quantity        : 3H(p,n)3He cross section
+# REACTION        : 1-H-3(P,N)2-HE-3,,SIG
+# File ID         : p-H3-n-sig-excfun-mon-prodHe3_Bogdanov_1959_a1123.006
+#
+# npts            : 3           
+# xmin            :   6.8000E+06
+# xmax            :   1.2000E+07
+# ymin            :   1.7600E-01
+# ymax            :   3.0500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.8000E+06  0.0000E+00  3.0500E-01  3.0500E-02
+  8.9000E+06  0.0000E+00  2.4100E-01  2.4100E-02
+  1.2000E+07  0.0000E+00  1.7600E-01  1.7600E-02
+#---------------------------------------------------

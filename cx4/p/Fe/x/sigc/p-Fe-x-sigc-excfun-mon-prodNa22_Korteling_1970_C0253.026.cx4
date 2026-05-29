@@ -1,0 +1,24 @@
+# EXFOR #         : C0253.026  
+# EXFOR Ver.      : 20250611
+# TRANS #         : C250
+# Author          : R.G.Korteling et al.
+# Reference       : Phys.Rev.C 1 (1970) 1960
+# DOI             : 10.1103/PhysRevC.1.1960
+# Quantity        : natFe(p,x)22Na cumulative production cross section
+# REACTION        : 26-FE-0(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodNa22_Korteling_1970_c0253.026
+#
+# npts            : 3           
+# xmin            :   1.0000E+08
+# xmax            :   3.0000E+08
+# ymin            :   3.2100E-06
+# ymax            :   4.5000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  1.0000E+07  3.2100E-06  1.2000E-07
+  2.0000E+08  1.0000E+07  1.6400E-05  7.0000E-07
+  3.0000E+08  1.0000E+07  4.5000E-05  2.3000E-06
+#---------------------------------------------------

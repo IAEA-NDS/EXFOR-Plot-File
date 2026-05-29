@@ -1,0 +1,31 @@
+# EXFOR #         : F0923.003  
+# EXFOR Ver.      : 20080415
+# TRANS #         : F031
+# Author          : A.E.Antropov et al.
+# Reference       : Izv.Ross.AN,Fiz. 40 (1976) 807
+# DOI             : N/A
+# Quantity        : 46Ti(p,inl)46Ti partial angular differential cross section
+# REACTION        : 22-TI-46(P,INL)22-TI-46,PAR,DA
+# File ID         : p-Ti46-inl-adxl-excfun-mon-angl96_elvl2.610E+06_prodTi46_Antropov_1976_f0923.003
+#
+# theta,lab (deg) :   96.0000000
+# Elvl (eV)       :   2.6100E+06
+#
+# npts            : 7           
+# xmin            :   5.5608E+06
+# xmax            :   6.0074E+06
+# ymin            :   6.5857E-04
+# ymax            :   1.5746E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  5.5608E+06  0.0000E+00  6.5857E-04  1.7641E-04
+  5.6578E+06  0.0000E+00  1.1079E-03  1.5686E-04
+  5.7470E+06  0.0000E+00  9.4943E-04  1.1771E-04
+  5.7991E+06  0.0000E+00  1.0662E-03  1.1758E-04
+  5.8776E+06  0.0000E+00  1.5746E-03  1.1765E-04
+  5.9667E+06  0.0000E+00  1.2985E-03  1.3719E-04
+  6.0074E+06  0.0000E+00  1.0429E-03  1.3725E-04
+#---------------------------------------------------

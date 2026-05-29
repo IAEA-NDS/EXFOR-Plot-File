@@ -1,0 +1,25 @@
+# EXFOR #         : E2773.005  
+# EXFOR Ver.      : 20240503
+# TRANS #         : E142
+# Author          : K.Sugihara et al.
+# Reference       : Report (proceedings) JAEA-C-2023-001 page 80, 2023
+# DOI             : N/A
+# Quantity        : natPb(p,x)203Pb cumulative production cross section
+# REACTION        : 82-PB-0(P,X)82-PB-203,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodPb203_Sugihara_2023_e2773.005
+#
+# npts            : 4           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   1.9080E-02
+# ymax            :   5.5870E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  5.5870E-02  1.8900E-03
+  1.3000E+09  0.0000E+00  3.2480E-02  1.5100E-03
+  1.5000E+09  0.0000E+00  3.1780E-02  1.3500E-03
+  3.0000E+09  0.0000E+00  1.9080E-02  1.1800E-03
+#---------------------------------------------------

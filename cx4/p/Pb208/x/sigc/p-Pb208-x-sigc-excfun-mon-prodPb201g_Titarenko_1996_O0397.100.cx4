@@ -1,0 +1,23 @@
+# EXFOR #         : O0397.100  
+# EXFOR Ver.      : 20080512
+# TRANS #         : O035
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 page 184
+# DOI             : N/A
+# Quantity        : 208Pb(p,x)201gPb cumulative production cross section
+# REACTION        : 82-PB-208(P,X)82-PB-201-G,CUM,SIG
+# File ID         : p-Pb208-x-sigc-excfun-mon-prodPb201g_Titarenko_1996_o0397.100
+#
+# npts            : 2           
+# xmin            :   1.3000E+08
+# xmax            :   1.5000E+09
+# ymin            :   1.8000E-02
+# ymax            :   1.6900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  0.0000E+00  1.6900E-01  1.9000E-02
+  1.5000E+09  0.0000E+00  1.8000E-02  2.0000E-03
+#---------------------------------------------------

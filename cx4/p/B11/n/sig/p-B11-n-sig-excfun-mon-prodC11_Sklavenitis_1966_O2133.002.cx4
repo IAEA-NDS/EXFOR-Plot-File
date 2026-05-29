@@ -1,0 +1,24 @@
+# EXFOR #         : O2133.002  
+# EXFOR Ver.      : 20130615
+# TRANS #         : O051
+# Author          : M.L.Sklavenitis
+# Reference       : Compt.Rend.B 263 (1966) 833
+# DOI             : N/A
+# Quantity        : 11B(p,n)11C cross section
+# REACTION        : 5-B-11(P,N)6-C-11,,SIG
+# File ID         : p-B11-n-sig-excfun-mon-prodC11_Sklavenitis_1966_o2133.002
+#
+# npts            : 3           
+# xmin            :   1.5500E+08
+# xmax            :   3.0000E+09
+# ymin            :   1.5100E-03
+# ymax            :   3.5100E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5500E+08  0.0000E+00  3.5100E-03  5.0000E-05
+  6.0000E+08  0.0000E+00  1.5100E-03  3.0000E-05
+  3.0000E+09  0.0000E+00  1.5300E-03  3.5000E-05
+#---------------------------------------------------

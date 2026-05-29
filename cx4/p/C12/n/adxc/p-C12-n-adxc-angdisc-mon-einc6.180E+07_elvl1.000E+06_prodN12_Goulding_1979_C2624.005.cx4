@@ -1,0 +1,28 @@
+# EXFOR #         : C2624.005  
+# EXFOR Ver.      : 20210913
+# TRANS #         : C209
+# Author          : C.A.Goulding et al.
+# Reference       : Nucl.Phys.A 331 (1979) 29
+# DOI             : 10.1016/0375-9474(79)90298-7
+# Quantity        : 12C(p,n)12N partial angular differential cross section
+# REACTION        : 6-C-12(P,N)7-N-12,PAR,DA
+# File ID         : p-C12-n-adxc-angdisc-mon-einc6.180E+07_elvl1.000E+06_prodN12_Goulding_1979_c2624.005
+#
+# Einc (eV)       :   6.1800E+07
+# Elvl (eV)       :   1.0000E+06
+#
+# npts            : 4           
+# xmin            :    0.7820000
+# xmax            :   22.9960000
+# ymin            :   3.1170E-04
+# ymax            :   5.7370E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.7820000   0.0000000  3.1170E-04  3.3310E-05
+   5.9870000   0.0000000  3.3650E-04  3.5960E-05
+  11.4500000   0.0000000  3.4650E-04  4.9640E-05
+  22.9960000   0.0000000  5.7370E-04  7.6310E-05
+#---------------------------------------------------

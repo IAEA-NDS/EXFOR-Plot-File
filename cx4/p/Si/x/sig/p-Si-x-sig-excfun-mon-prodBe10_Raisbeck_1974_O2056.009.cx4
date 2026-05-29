@@ -1,0 +1,22 @@
+# EXFOR #         : O2056.009  
+# EXFOR Ver.      : 20191227
+# TRANS #         : O073
+# Author          : G.M.Raisbeck et al.
+# Reference       : Phys.Rev.C 9 (1974) 1385
+# DOI             : 10.1103/PhysRevC.9.1385
+# Quantity        : natSi(p,x)10Be independent production cross section
+# REACTION        : 14-SI-0(P,X)4-BE-10,,SIG
+# File ID         : p-Si-x-sig-excfun-mon-prodBe10_Raisbeck_1974_o2056.009
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   7.0000E-04
+# ymax            :   7.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  7.0000E-04  3.0000E-04
+#---------------------------------------------------

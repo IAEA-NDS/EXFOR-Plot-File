@@ -1,0 +1,28 @@
+# EXFOR #         : O0356.002.1
+# EXFOR Ver.      : 19970616
+# TRANS #         : 0000
+# Author          : D.J.Rowe et al.
+# Reference       : Nucl.Phys. 54 (1964) 193
+# DOI             : 10.1016/0029-5582(64)90405-5
+# Quantity        : 12C(p,inl)12C partial angular differential cross section
+# REACTION        : 6-C-12(P,INL)6-C-12,PAR,DA,,,EXP
+# File ID         : p-C12-inl-adxl-angdisl-mon-einc1.470E+08_elvl4.430E+06_prodC12_Rowe_1964_o0356.002.1
+#
+# Einc (eV)       :   1.4700E+08
+# Elvl (eV)       :   4.4300E+06
+#
+# npts            : 4           
+# xmin            :   15.0000000
+# xmax            :   45.0000000
+# ymin            :   5.7000E-04
+# ymax            :   4.2300E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.0000000   0.0000000  4.2300E-03  2.7000E-04
+  25.0000000   0.0000000  3.7100E-03  1.1000E-04
+  35.0000000   0.0000000  1.5100E-03  5.0000E-05
+  45.0000000   0.0000000  5.7000E-04  3.0000E-05
+#---------------------------------------------------

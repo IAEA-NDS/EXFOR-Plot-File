@@ -1,0 +1,25 @@
+# EXFOR #         : O1104.018  
+# EXFOR Ver.      : 20040328
+# TRANS #         : 0000
+# Author          : R.M.A.L.Petit et al.
+# Reference       : J.Phys.G 20 (1994) 1955
+# DOI             : 10.1088/0954-3899/20/12/011
+# Quantity        : 110Cd(p,inl)110Cd partial angular differential cross section
+# REACTION        : 48-CD-110(P,INL)48-CD-110,PAR,DA
+# File ID         : p-Cd110-inl-adxl-lvldis-mon-einc2.230E+07_angc111_prodCd110_Petit_1994_o1104.018
+#
+# Einc (eV)       :   2.2300E+07
+# theta,cm (deg)  :  111.4000000
+#
+# npts            : 1           
+# xmin            :   1.4760E+06
+# xmax            :   1.4760E+06
+# ymin            :   6.3100E-05
+# ymax            :   6.3100E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4760E+06  0.0000E+00  6.3100E-05  2.5240E-06
+#---------------------------------------------------

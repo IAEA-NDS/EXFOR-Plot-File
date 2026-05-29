@@ -1,0 +1,24 @@
+# EXFOR #         : B0105.009  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : M.V.Kantelo et al.
+# Reference       : Phys.Rev.C 13 (1976) 1095
+# DOI             : 10.1103/PhysRevC.13.1095
+# Quantity        : 202Hg(p,x)192Au independent production cross section
+# REACTION        : 80-HG-202(P,X)79-AU-192,,SIG,,,EXP
+# File ID         : p-Hg202-x-sig-excfun-mon-prodAu192_Kantelo_1976_b0105.009
+#
+# npts            : 3           
+# xmin            :   7.4000E+07
+# xmax            :   8.6000E+07
+# ymin            :   5.4000E-04
+# ymax            :   5.5000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.4000E+07  2.0000E+06  5.4000E-04  7.0000E-05
+  8.0000E+07  2.0000E+06  1.9200E-03  3.4000E-04
+  8.6000E+07  2.0000E+06  5.5000E-03  6.0000E-04
+#---------------------------------------------------

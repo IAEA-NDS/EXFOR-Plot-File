@@ -1,0 +1,22 @@
+# EXFOR #         : O0397.075  
+# EXFOR Ver.      : 20080512
+# TRANS #         : O035
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 page 184
+# DOI             : N/A
+# Quantity        : 65Cu(p,x)55Co cumulative production cross section
+# REACTION        : 29-CU-65(P,X)27-CO-55,CUM,SIG
+# File ID         : p-Cu65-x-sigc-excfun-mon-prodCo55_Titarenko_1996_o0397.075
+#
+# npts            : 1           
+# xmin            :   1.5000E+09
+# xmax            :   1.5000E+09
+# ymin            :   5.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+09  0.0000E+00  5.0000E-04  6.0000E-05
+#---------------------------------------------------

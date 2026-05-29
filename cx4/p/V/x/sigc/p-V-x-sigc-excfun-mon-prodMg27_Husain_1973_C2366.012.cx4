@@ -1,0 +1,23 @@
+# EXFOR #         : C2366.012  
+# EXFOR Ver.      : 20181207
+# TRANS #         : C183
+# Author          : L.Husain et al.
+# Reference       : Phys.Rev.C 7 (1973) 2452
+# DOI             : 10.1103/PhysRevC.7.2452
+# Quantity        : natV(p,x)27Mg cumulative production cross section
+# REACTION        : 23-V-0(P,X)12-MG-27,CUM,SIG
+# File ID         : p-V-x-sigc-excfun-mon-prodMg27_Husain_1973_c2366.012
+#
+# npts            : 2           
+# xmin            :   3.0000E+09
+# xmax            :   2.9000E+10
+# ymin            :   2.1400E-03
+# ymax            :   2.2600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+09  0.0000E+00  2.1400E-03  2.1400E-04
+  2.9000E+10  0.0000E+00  2.2600E-03  2.2600E-04
+#---------------------------------------------------

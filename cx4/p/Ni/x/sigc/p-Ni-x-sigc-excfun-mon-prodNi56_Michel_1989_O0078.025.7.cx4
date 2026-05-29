@@ -1,0 +1,22 @@
+# EXFOR #         : O0078.025.7
+# EXFOR Ver.      : 20220201
+# TRANS #         : O088
+# Author          : R.Michel et al.
+# Reference       : Analyst (London) 114 (1989) 287
+# DOI             : N/A
+# Quantity        : natNi(p,x)56Ni cumulative production cross section
+# REACTION        : 28-NI-0(P,X)28-NI-56,CUM,SIG
+# File ID         : p-Ni-x-sigc-excfun-mon-prodNi56_Michel_1989_o0078.025.7
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   2.2500E-03
+# ymax            :   2.2500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  2.2500E-03  1.9000E-04
+#---------------------------------------------------

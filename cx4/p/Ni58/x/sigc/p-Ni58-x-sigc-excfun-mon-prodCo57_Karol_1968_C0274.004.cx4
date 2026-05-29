@@ -1,0 +1,22 @@
+# EXFOR #         : C0274.004  
+# EXFOR Ver.      : 20160809
+# TRANS #         : C161
+# Author          : P.J.Karol et al.
+# Reference       : Phys.Rev. 166 (1968) 1089
+# DOI             : 10.1103/PhysRev.166.1089
+# Quantity        : 58Ni(p,x)57Co cumulative production cross section
+# REACTION        : 28-NI-58(P,X)27-CO-57,(CUM),SIG
+# File ID         : p-Ni58-x-sigc-excfun-mon-prodCo57_Karol_1968_c0274.004
+#
+# npts            : 1           
+# xmin            :   3.7000E+08
+# xmax            :   3.7000E+08
+# ymin            :   2.7000E-02
+# ymax            :   2.7000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.7000E+08  0.0000E+00  2.7000E-02  2.0000E-03
+#---------------------------------------------------

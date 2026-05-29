@@ -1,0 +1,28 @@
+# EXFOR #         : C0375.012  
+# EXFOR Ver.      : 20220824
+# TRANS #         : C218
+# Author          : G.Friedlander et al.
+# Reference       : Phys.Rev. 129 (1963) 1809
+# DOI             : 10.1103/PhysRev.129.1809
+# Quantity        : natU(p,x) cumulative production cross section
+# REACTION        : 92-U-0(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-U-x-sigc-nucdis-mon-einc6.800E+08_Friedlander_1963_c0375.012
+#
+# Einc (eV)       :   6.8000E+08
+#
+# npts            : 5           
+# xmin            : 37083.9     
+# xmax            : 56131.9     
+# ymin            :   3.6000E-03
+# ymax            :   1.8300E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     56131.9  6.2000E-03  3.0000E-04
+     55137.9  1.1900E-02  9.0000E-04
+     55135.9  1.8300E-02  1.0000E-03
+     55129.9  6.4000E-03  4.0000E-04
+     37083.9  3.6000E-03  1.2000E-03
+#---------------------------------------------------

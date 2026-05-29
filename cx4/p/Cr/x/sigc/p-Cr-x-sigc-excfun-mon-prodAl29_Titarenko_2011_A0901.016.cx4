@@ -1,0 +1,27 @@
+# EXFOR #         : A0901.016  
+# EXFOR Ver.      : 20111128
+# TRANS #         : A075
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Yad.Fiz. 74 (2011) 548
+# DOI             : N/A
+# Quantity        : natCr(p,x)29Al cumulative production cross section
+# REACTION        : 24-CR-0(P,X)13-AL-29,CUM,SIG
+# File ID         : p-Cr-x-sigc-excfun-mon-prodAl29_Titarenko_2011_a0901.016
+#
+# npts            : 6           
+# xmin            :   3.9900E+08
+# xmax            :   2.6050E+09
+# ymin            :   3.8900E-04
+# ymax            :   3.1500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9900E+08  2.0000E+06  3.8900E-04  3.9000E-05
+  5.9900E+08  2.0000E+06  1.2100E-03  1.0000E-04
+  7.9900E+08  2.0000E+06  1.8600E-03  1.9000E-04
+  1.1980E+09  3.0000E+06  2.6100E-03  2.4000E-04
+  1.5980E+09  4.0000E+06  3.1500E-03  2.9000E-04
+  2.6050E+09  8.0000E+06  2.5700E-03  2.4000E-04
+#---------------------------------------------------

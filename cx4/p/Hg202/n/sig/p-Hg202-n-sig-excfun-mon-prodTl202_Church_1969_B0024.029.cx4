@@ -1,0 +1,22 @@
+# EXFOR #         : B0024.029  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : L.B.Church et al.
+# Reference       : Phys.Rev. 178 (1969) 1732
+# DOI             : 10.1103/PhysRev.178.1732
+# Quantity        : 202Hg(p,n)202Tl cross section
+# REACTION        : 80-HG-202(P,N)81-TL-202,,SIG,,,EXP
+# File ID         : p-Hg202-n-sig-excfun-mon-prodTl202_Church_1969_b0024.029
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   1.1000E-03
+# ymax            :   1.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  1.1000E-03  1.6000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : A0135.003  
+# EXFOR Ver.      : 20231222
+# TRANS #         : A104
+# Author          : E.A.Skakun et al.
+# Reference       : Proceedings of 29.Conf.on Nucl.Spectr.and Nucl.Struct.,Riga 1979 page 290
+# DOI             : N/A
+# Quantity        : 113Cd(p,n)113mIn cross section
+# REACTION        : 48-CD-113(P,N)49-IN-113-M,,SIG
+# File ID         : p-Cd113-n-sig-excfun-mon-prodIn113m_Skakun_1979_a0135.003
+#
+# npts            : 3           
+# xmin            :   6.1000E+06
+# xmax            :   9.1000E+06
+# ymin            :   7.2000E-02
+# ymax            :   2.4900E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.1000E+06  0.0000E+00  2.4900E-01  3.0000E-02
+  7.7000E+06  0.0000E+00  1.6700E-01  2.0000E-02
+  6.1000E+06  0.0000E+00  7.2000E-02  9.0000E-03
+#---------------------------------------------------

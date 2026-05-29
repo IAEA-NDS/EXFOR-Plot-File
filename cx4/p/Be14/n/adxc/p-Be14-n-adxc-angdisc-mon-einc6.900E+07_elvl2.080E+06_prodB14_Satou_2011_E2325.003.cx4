@@ -1,0 +1,28 @@
+# EXFOR #         : E2325.003  
+# EXFOR Ver.      : 20111008
+# TRANS #         : E066
+# Author          : Y.Satou et al.
+# Reference       : Phys.Lett.B 697 No.5 (2011) 459
+# DOI             : 10.1016/j.physletb.2011.02.045
+# Quantity        : 14Be(p,n)14B partial angular differential cross section
+# REACTION        : 4-BE-14(P,N)5-B-14,PAR,DA
+# File ID         : p-Be14-n-adxc-angdisc-mon-einc6.900E+07_elvl2.080E+06_prodB14_Satou_2011_e2325.003
+#
+# Einc (eV)       :   6.9000E+07
+# Elvl (eV)       :   2.0800E+06
+#
+# npts            : 4           
+# xmin            :   20.0000000
+# xmax            :   44.0000000
+# ymin            :   2.7160E-05
+# ymax            :   7.6720E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  20.0000000   0.0000000  2.7160E-05  2.3660E-05
+  28.0000000   0.0000000  7.6720E-05  1.7720E-05
+  36.0000000   0.0000000  7.4200E-05  1.4140E-05
+  44.0000000   0.0000000  4.5050E-05  1.1160E-05
+#---------------------------------------------------

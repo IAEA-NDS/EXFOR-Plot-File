@@ -1,0 +1,23 @@
+# EXFOR #         : O0564.016  
+# EXFOR Ver.      : 19991117
+# TRANS #         : 0000
+# Author          : J.K.P.Lee et al.
+# Reference       : J.Inorg.Nucl.Chem. 37 (1975) 2035
+# DOI             : 10.1016/0022-1902(75)80825-6
+# Quantity        : natU(p,f)131Cs independent production cross section
+# REACTION        : 92-U-0(P,F)55-CS-131,IND,SIG
+# File ID         : p-U-x-sig-excfun-mon-prodCs131_Lee_1975_o0564.016
+#
+# npts            : 2           
+# xmin            :   8.0000E+07
+# xmax            :   1.0000E+08
+# ymin            :   6.1000E-04
+# ymax            :   1.5400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+07  0.0000E+00  6.1000E-04  8.0000E-05
+  1.0000E+08  0.0000E+00  1.5400E-03  8.0000E-05
+#---------------------------------------------------

@@ -1,0 +1,29 @@
+# EXFOR #         : T0062.005  
+# EXFOR Ver.      : 20001115
+# TRANS #         : 0000
+# Author          : A.C.Rester et al.
+# Reference       : Nucl.Phys.A 346 (1980) 371
+# DOI             : 10.1016/0375-9474(80)90475-3
+# Quantity        : 76Ge(p,t)74Ge partial angular differential cross section
+# REACTION        : 32-GE-76(P,T)32-GE-74,PAR,DA
+# File ID         : p-Ge76-t-adxl-angdisc-mon-einc3.540E+07_elvl4.195E+06_prodGe74_Rester_1980_t0062.005
+#
+# Einc (eV)       :   3.5400E+07
+# dEinc (eV)      :   1.4000E+04
+# Elvl (eV)       :   4.1950E+06
+#
+# npts            : 4           
+# xmin            :   10.0000000
+# xmax            :   41.0000000
+# ymin            :   2.9000E-06
+# ymax            :   1.9000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  10.0000000   0.5000000  1.9000E-05  0.0000E+00
+  15.0000000   0.5000000  1.2000E-05  0.0000E+00
+  21.0000000   0.5000000  3.3000E-06  0.0000E+00
+  41.0000000   0.5000000  2.9000E-06  0.0000E+00
+#---------------------------------------------------

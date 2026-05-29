@@ -1,0 +1,25 @@
+# EXFOR #         : C2702.027  
+# EXFOR Ver.      : 20220120
+# TRANS #         : C215
+# Author          : M.B.Fox et al.
+# Reference       : Phys.Rev.C 104 (2021) 064615
+# DOI             : 10.1103/PhysRevC.104.064615
+# Quantity        : natCu(p,x)48Cr cumulative production cross section
+# REACTION        : 29-CU-0(P,X)24-CR-48,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodCr48_Fox_2021_c2702.027
+#
+# npts            : 4           
+# xmin            :   1.4886E+08
+# xmax            :   1.9254E+08
+# ymin            :   2.0700E-05
+# ymax            :   7.0700E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9254E+08  4.9000E+05  7.0700E-05  3.5000E-04
+  1.7728E+08  5.2000E+05  4.3700E-05  1.9000E-04
+  1.6349E+08  5.4000E+05  2.6300E-05  2.7000E-04
+  1.4886E+08  5.8000E+05  2.0700E-05  1.1000E-04
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : D0743.014  
+# EXFOR Ver.      : 20141017
+# TRANS #         : D095
+# Author          : O.Lebeda et al.
+# Reference       : Nucl.Phys.A 929 (2014) 129
+# DOI             : 10.1016/j.nuclphysa.2014.06.010
+# Quantity        : natNd(p,x)149Nd independent production cross section
+# REACTION        : 60-ND-0(P,X)60-ND-149,,SIG
+# File ID         : p-Nd-x-sig-excfun-mon-prodNd149_Lebeda_2014_d0743.014
+#
+# npts            : 4           
+# xmin            :   3.0550E+07
+# xmax            :   3.5410E+07
+# ymin            :   6.6400E-03
+# ymax            :   6.8700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5410E+07  2.0000E+05  6.8700E-03  8.1000E-04
+  3.3670E+07  2.1000E+05  6.6400E-03  7.8000E-04
+  3.1860E+07  2.1000E+05  6.8200E-03  8.0000E-04
+  3.0550E+07  2.2000E+05  6.6500E-03  7.8000E-04
+#---------------------------------------------------

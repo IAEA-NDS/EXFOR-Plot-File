@@ -1,0 +1,24 @@
+# EXFOR #         : O0469.005  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : Y.Y.Chu et al.
+# Reference       : J.Inorg.Nucl.Chem. 30 (1968) 2561
+# DOI             : 10.1016/0022-1902(68)80380-X
+# Quantity        : natU(p,f)129Cs independent production cross section
+# REACTION        : 92-U-0(P,F)55-CS-129,IND,SIG
+# File ID         : p-U-x-sig-excfun-mon-prodCs129_Chu_1968_o0469.005
+#
+# npts            : 3           
+# xmin            :   1.0000E+09
+# xmax            :   2.9000E+09
+# ymin            :   3.1300E-03
+# ymax            :   5.7900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+09  0.0000E+00  5.7900E-03  4.3000E-04
+  2.0000E+09  0.0000E+00  3.9000E-03  2.9000E-04
+  2.9000E+09  0.0000E+00  3.1300E-03  2.4000E-04
+#---------------------------------------------------

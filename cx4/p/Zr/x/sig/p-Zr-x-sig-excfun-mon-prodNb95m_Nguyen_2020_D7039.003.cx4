@@ -1,0 +1,25 @@
+# EXFOR #         : D7039.003  
+# EXFOR Ver.      : 20220921
+# TRANS #         : D138
+# Author          : V.D.Nguyen et al.
+# Reference       : Eur.Phys.J.A 56 (2020) 194
+# DOI             : 10.1140/epja/s10050-020-00199-5
+# Quantity        : natZr(p,x)95mNb independent production cross section
+# REACTION        : 40-ZR-0(P,X)41-NB-95-M,,SIG
+# File ID         : p-Zr-x-sig-excfun-mon-prodNb95m_Nguyen_2020_d7039.003
+#
+# npts            : 4           
+# xmin            :   1.0600E+07
+# xmax            :   2.6900E+07
+# ymin            :   6.5000E-04
+# ymax            :   5.0400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6900E+07  6.0000E+05  6.5000E-04  6.0000E-05
+  2.2500E+07  7.0000E+05  1.0600E-03  1.2000E-04
+  1.7300E+07  9.0000E+05  3.7500E-03  3.8000E-04
+  1.0600E+07  1.3000E+06  5.0400E-03  5.2000E-04
+#---------------------------------------------------

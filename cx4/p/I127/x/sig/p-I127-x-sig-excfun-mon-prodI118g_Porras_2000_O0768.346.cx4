@@ -1,0 +1,22 @@
+# EXFOR #         : O0768.346  
+# EXFOR Ver.      : 20221115
+# TRANS #         : O091
+# Author          : E.Porras et al.
+# Reference       : Nucl.Instrum.Meth.B 160 (2000) 73
+# DOI             : 10.1016/S0168-583X(99)00556-X
+# Quantity        : 127I(p,x)118gI independent production cross section
+# REACTION        : 53-I-127(P,X)53-I-118-G,,SIG
+# File ID         : p-I127-x-sig-excfun-mon-prodI118g_Porras_2000_o0768.346
+#
+# npts            : 1           
+# xmin            :   1.2000E+09
+# xmax            :   1.2000E+09
+# ymin            :   9.0000E-04
+# ymax            :   9.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+09  0.0000E+00  9.0000E-04  2.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : O0085.019  
+# EXFOR Ver.      : 20230404
+# TRANS #         : O095
+# Author          : C.Perron
+# Reference       : Phys.Rev.C 14 (1976) 1108
+# DOI             : 10.1103/PhysRevC.14.1108
+# Quantity        : natFe(p,x)56Co independent production cross section
+# REACTION        : 26-FE-0(P,X)27-CO-56,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodCo56_Perron_1976_o0085.019
+#
+# npts            : 1           
+# xmin            :   2.1000E+10
+# xmax            :   2.1000E+10
+# ymin            :   7.8000E-04
+# ymax            :   7.8000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1000E+10  0.0000E+00  7.8000E-04  8.0000E-05
+#---------------------------------------------------

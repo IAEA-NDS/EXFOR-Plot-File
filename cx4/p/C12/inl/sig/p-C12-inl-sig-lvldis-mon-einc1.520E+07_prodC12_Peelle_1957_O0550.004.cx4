@@ -1,0 +1,24 @@
+# EXFOR #         : O0550.004  
+# EXFOR Ver.      : 20010212
+# TRANS #         : 0000
+# Author          : R.W.Peelle
+# Reference       : Phys.Rev. 105 (1957) 1311
+# DOI             : 10.1103/PhysRev.105.1311
+# Quantity        : 12C(p,inl)12C partial cross section
+# REACTION        : 6-C-12(P,INL)6-C-12,PAR,SIG
+# File ID         : p-C12-inl-sig-lvldis-mon-einc1.520E+07_prodC12_Peelle_1957_o0550.004
+#
+# Einc (eV)       :   1.5200E+07
+#
+# npts            : 1           
+# xmin            :   4.4000E+06
+# xmax            :   4.4000E+06
+# ymin            :   2.1000E-01
+# ymax            :   2.1000E-01
+#
+#---------------------------------------------------
+# Elvl        dElvl       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.4000E+06  0.0000E+00  2.1000E-01  7.0000E-03
+#---------------------------------------------------

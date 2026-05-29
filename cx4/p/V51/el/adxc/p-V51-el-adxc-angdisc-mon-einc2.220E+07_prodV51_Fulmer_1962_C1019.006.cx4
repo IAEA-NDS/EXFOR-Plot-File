@@ -1,0 +1,24 @@
+# EXFOR #         : C1019.006  
+# EXFOR Ver.      : 20140930
+# TRANS #         : C145
+# Author          : C.B.Fulmer
+# Reference       : Phys.Rev. 125 (1962) 631
+# DOI             : 10.1103/PhysRev.125.631
+# Quantity        : 51V(p,el)51V angular differential cross section
+# REACTION        : 23-V-51(P,EL)23-V-51,,DA
+# File ID         : p-V51-el-adxc-angdisc-mon-einc2.220E+07_prodV51_Fulmer_1962_c1019.006
+#
+# Einc (eV)       :   2.2200E+07
+#
+# npts            : 1           
+# xmin            :   91.1000000
+# xmax            :   91.1000000
+# ymin            :   1.1800E-02
+# ymax            :   1.1800E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  91.1000000   0.0000000  1.1800E-02  5.9000E-04
+#---------------------------------------------------

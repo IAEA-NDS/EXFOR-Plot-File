@@ -1,0 +1,22 @@
+# EXFOR #         : O0085.018  
+# EXFOR Ver.      : 20230404
+# TRANS #         : O095
+# Author          : C.Perron
+# Reference       : Phys.Rev.C 14 (1976) 1108
+# DOI             : 10.1103/PhysRevC.14.1108
+# Quantity        : natFe(p,x)54Mn independent production cross section
+# REACTION        : 26-FE-0(P,X)25-MN-54,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodMn54_Perron_1976_o0085.018
+#
+# npts            : 1           
+# xmin            :   2.1000E+10
+# xmax            :   2.1000E+10
+# ymin            :   2.9200E-02
+# ymax            :   2.9200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1000E+10  0.0000E+00  2.9200E-02  2.7000E-03
+#---------------------------------------------------

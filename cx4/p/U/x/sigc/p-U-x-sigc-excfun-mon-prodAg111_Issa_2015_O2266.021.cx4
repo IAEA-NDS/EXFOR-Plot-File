@@ -1,0 +1,25 @@
+# EXFOR #         : O2266.021  
+# EXFOR Ver.      : 20151017
+# TRANS #         : O055
+# Author          : S.A.M.Issa et al.
+# Reference       : J.Rad.Nucl.Chem. 305 (2015) 345
+# DOI             : 10.1007/s10967-015-3985-9
+# Quantity        : natU(p,f)111Ag cumulative production cross section
+# REACTION        : 92-U-0(P,F)47-AG-111,CUM,SIG
+# File ID         : p-U-x-sigc-excfun-mon-prodAg111_Issa_2015_o2266.021
+#
+# npts            : 4           
+# xmin            :   2.1100E+08
+# xmax            :   2.5300E+09
+# ymin            :   3.1600E-02
+# ymax            :   5.5500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1100E+08  2.0000E+06  4.3700E-02  2.5000E-03
+  1.0000E+09  2.0000E+06  5.5500E-02  2.7000E-03
+  1.4000E+09  2.0000E+06  4.1000E-02  5.0000E-03
+  2.5300E+09  2.0000E+06  3.1600E-02  1.3000E-03
+#---------------------------------------------------

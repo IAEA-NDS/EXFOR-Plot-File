@@ -1,0 +1,29 @@
+# EXFOR #         : E1950.021  
+# EXFOR Ver.      : 20060906
+# TRANS #         : E038
+# Author          : M.Koike
+# Reference       : Nucl.Phys.A 98 No.2 (1967) 209
+# DOI             : 10.1016/0375-9474(67)90135-2
+# Quantity        : 112Cd(p,inl)112Cd partial angular differential cross section
+# REACTION        : 48-CD-112(P,INL)48-CD-112,PAR,DA
+# File ID         : p-Cd112-inl-adxl-angdisl-mon-einc1.470E+07_elvl3.686E+06_prodCd112_Koike_1967_e1950.021
+#
+# Einc (eV)       :   1.4702E+07
+# dEinc (eV)      :   2.0000E+04
+# Elvl (eV)       :   3.6860E+06
+#
+# npts            : 4           
+# xmin            :   30.0000000
+# xmax            :  110.0000000
+# ymin            :   4.2400E-05
+# ymax            :   1.1400E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.0000000   0.0000000  1.1400E-03  8.0000E-05
+  50.0000000   0.0000000  7.8000E-05  1.5000E-05
+  90.0000000   0.0000000  7.2000E-05  1.0000E-05
+ 110.0000000   0.0000000  4.2400E-05  6.8000E-06
+#---------------------------------------------------

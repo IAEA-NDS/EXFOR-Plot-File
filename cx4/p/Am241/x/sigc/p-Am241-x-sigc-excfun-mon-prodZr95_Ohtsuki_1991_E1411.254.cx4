@@ -1,0 +1,22 @@
+# EXFOR #         : E1411.254  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : T.Ohtsuki et al.
+# Reference       : Phys.Rev.C 44 (1991) 1405
+# DOI             : 10.1103/PhysRevC.44.1405
+# Quantity        : 241Am(p,f)95Zr cumulative production cross section
+# REACTION        : 95-AM-241(P,F)40-ZR-95,(CUM),SIG
+# File ID         : p-Am241-x-sigc-excfun-mon-prodZr95_Ohtsuki_1991_e1411.254
+#
+# npts            : 1           
+# xmin            :   1.3700E+07
+# xmax            :   1.3700E+07
+# ymin            :   1.2060E-02
+# ymax            :   1.2060E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3700E+07  0.0000E+00  1.2060E-02  9.6000E-04
+#---------------------------------------------------

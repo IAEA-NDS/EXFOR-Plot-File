@@ -1,0 +1,22 @@
+# EXFOR #         : P0066.011  
+# EXFOR Ver.      : 20000817
+# TRANS #         : 0000
+# Author          : S.C.Wright
+# Reference       : Phys.Rev. 79 (1950) 838
+# DOI             : 10.1103/PhysRev.79.838
+# Quantity        : natAr(p,x)8Li independent production cross section
+# REACTION        : 18-AR-0(P,X)3-LI-8,,SIG
+# File ID         : p-Ar-x-sig-excfun-mon-prodLi8_Wright_1950_p0066.011
+#
+# npts            : 1           
+# xmin            :   3.4000E+08
+# xmax            :   3.4000E+08
+# ymin            :   2.2000E-04
+# ymax            :   2.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4000E+08  0.0000E+00  2.2000E-04  7.0000E-05
+#---------------------------------------------------

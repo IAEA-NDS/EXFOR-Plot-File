@@ -1,0 +1,22 @@
+# EXFOR #         : B0052.014  
+# EXFOR Ver.      : 20190120
+# TRANS #         : B029
+# Author          : H.G.Blosser et al.
+# Reference       : Phys.Rev. 100 (1955) 1340
+# DOI             : 10.1103/PhysRev.100.1340
+# Quantity        : 99Ru(p,n)99mRh cross section
+# REACTION        : 44-RU-99(P,N)45-RH-99-M,,SIG
+# File ID         : p-Ru99-n-sig-excfun-mon-prodRh99m_Blosser_1955_b0052.014
+#
+# npts            : 1           
+# xmin            :   1.2000E+07
+# xmax            :   1.2000E+07
+# ymin            :   4.2000E-01
+# ymax            :   4.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+07  0.0000E+00  4.2000E-01  1.2000E-01
+#---------------------------------------------------

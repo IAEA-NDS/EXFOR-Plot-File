@@ -1,0 +1,22 @@
+# EXFOR #         : B0085.130  
+# EXFOR Ver.      : 20240425
+# TRANS #         : B036
+# Author          : J.E.Cline et al.
+# Reference       : Nucl.Phys.A 169 (1971) 437
+# DOI             : 10.1016/0375-9474(71)90897-9
+# Quantity        : natCu(p,x)43Sc cumulative production cross section
+# REACTION        : 29-CU-0(P,X)21-SC-43,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodSc43_Cline_1971_b0085.130
+#
+# npts            : 1           
+# xmin            :   5.9000E+08
+# xmax            :   5.9000E+08
+# ymin            :   9.5000E-04
+# ymax            :   9.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  9.5000E-04  2.0000E-04
+#---------------------------------------------------

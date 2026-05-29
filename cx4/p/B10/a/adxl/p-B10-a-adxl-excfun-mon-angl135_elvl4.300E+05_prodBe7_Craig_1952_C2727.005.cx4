@@ -1,0 +1,25 @@
+# EXFOR #         : C2727.005  
+# EXFOR Ver.      : 20220314
+# TRANS #         : C215
+# Author          : D.S.Craig et al.
+# Reference       : Phys.Rev. 87 (1952) 206(L10)
+# DOI             : N/A
+# Quantity        : 10B(p,a)7Be partial angular differential cross section
+# REACTION        : 5-B-10(P,A)4-BE-7,PAR,DA
+# File ID         : p-B10-a-adxl-excfun-mon-angl135_elvl4.300E+05_prodBe7_Craig_1952_c2727.005
+#
+# theta,lab (deg) :  135.0000000
+# Elvl (eV)       :   4.3000E+05
+#
+# npts            : 1           
+# xmin            :   3.3330E+06
+# xmax            :   3.3330E+06
+# ymin            :   1.0000E-02
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.3330E+06  0.0000E+00  1.0000E-02  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : O0412.065  
+# EXFOR Ver.      : 20020910
+# TRANS #         : 0000
+# Author          : R.G.Korteling et al.
+# Reference       : J.Inorg.Nucl.Chem. 29 (1967) 2863
+# DOI             : 10.1016/0022-1902(67)80117-9
+# Quantity        : natAg(p,x)22Na cumulative production cross section
+# REACTION        : 47-AG-0(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Ag-x-sigc-excfun-mon-prodNa22_Korteling_1967_o0412.065
+#
+# npts            : 1           
+# xmin            :   4.0000E+08
+# xmax            :   4.0000E+08
+# ymin            :   1.0400E-05
+# ymax            :   1.0400E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  5.0000E+05  1.0400E-05  3.0000E-07
+#---------------------------------------------------

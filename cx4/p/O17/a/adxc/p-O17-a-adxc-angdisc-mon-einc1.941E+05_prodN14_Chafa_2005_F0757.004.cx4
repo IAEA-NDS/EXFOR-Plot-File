@@ -1,0 +1,27 @@
+# EXFOR #         : F0757.004  
+# EXFOR Ver.      : 20070730
+# TRANS #         : F028
+# Author          : A.Chafa et al.
+# Reference       : Phys.Rev.Lett. 95 (2005) 031101
+# DOI             : 10.1103/PhysRevLett.95.031101
+# Quantity        : 17O(p,a)14N angular differential cross section
+# REACTION        : 8-O-17(P,A)7-N-14,,DA
+# File ID         : p-O17-a-adxc-angdisc-mon-einc1.941E+05_prodN14_Chafa_2005_f0757.004
+#
+# Einc (eV)       :   1.9410E+05
+#
+# npts            : 4           
+# xmin            :  107.9300000
+# xmax            :  151.2500000
+# ymin            :   9.2208E-04
+# ymax            :   1.0798E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 107.9300000   0.0000000  9.2208E-04  2.0955E-05
+ 122.0800000   0.0000000  9.6131E-04  1.7123E-05
+ 136.7600000   0.0000000  1.0482E-03  2.0902E-05
+ 151.2500000   0.0000000  1.0798E-03  2.8566E-05
+#---------------------------------------------------

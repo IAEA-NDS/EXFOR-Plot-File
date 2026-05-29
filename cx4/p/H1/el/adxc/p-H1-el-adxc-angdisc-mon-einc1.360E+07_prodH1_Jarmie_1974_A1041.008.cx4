@@ -1,0 +1,26 @@
+# EXFOR #         : A1041.008  
+# EXFOR Ver.      : 20240423
+# TRANS #         : A111
+# Author          : N.Jarmie et al.
+# Reference       : Phys.Rev.C 10 (1974) 54
+# DOI             : 10.1103/PhysRevC.10.54
+# Quantity        : 1H(p,el)1H angular differential cross section
+# REACTION        : 1-H-1(P,EL)1-H-1,,DA
+# File ID         : p-H1-el-adxc-angdisc-mon-einc1.360E+07_prodH1_Jarmie_1974_a1041.008
+#
+# Einc (eV)       :   1.3600E+07
+# dEinc (eV)      :   1.5000E+04
+#
+# npts            : 2           
+# xmin            :   40.1100000
+# xmax            :   60.1800000
+# ymin            :   3.5930E-02
+# ymax            :   3.7640E-02
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.1100000   0.0300000  3.5930E-02  0.0000E+00
+  60.1800000   0.0300000  3.7640E-02  0.0000E+00
+#---------------------------------------------------

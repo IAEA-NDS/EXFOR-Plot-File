@@ -1,0 +1,25 @@
+# EXFOR #         : O1728.012  
+# EXFOR Ver.      : 20151207
+# TRANS #         : O056
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Report INDC(CCP)-0447, 2009
+# DOI             : N/A
+# Quantity        : 208Pb(p,x) cumulative production cross section
+# REACTION        : 82-PB-208(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-Pb208-x-sigc-nucdis-mon-einc4.000E+07_Titarenko_2009_o1728.012
+#
+# Einc (eV)       :   4.0000E+07
+#
+# npts            : 2           
+# xmin            : 81202.9     
+# xmax            : 82203.9     
+# ymin            :   4.7400E-04
+# ymax            :   9.7200E-03
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     82203.9  9.7200E-03  7.9000E-04
+     81202.9  4.7400E-04  5.6000E-05
+#---------------------------------------------------

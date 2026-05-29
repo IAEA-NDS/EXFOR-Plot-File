@@ -1,0 +1,28 @@
+# EXFOR #         : D0512.002  
+# EXFOR Ver.      : 20090717
+# TRANS #         : D068
+# Author          : A.Budzanowski et al.
+# Reference       : Phys.Rev.C 78 (2008) 024603
+# DOI             : 10.1103/PhysRevC.78.024603
+# Quantity        : 197Au(p,p+x) double differential cross section
+# REACTION        : 79-AU-197(P,X)1-H-1,,DA/DE
+# File ID         : p-Au197-xp-ddxl-enedisl-mon-einc1.900E+09_angl80_Budzanowski_2008_d0512.002
+#
+# Einc (eV)       :   1.9000E+09
+# theta,lab (deg) :   80.0000000
+#
+# npts            : 4           
+# xmin            :   2.5000E+06
+# xmax            :   5.5000E+06
+# ymin            :   1.1240E-09
+# ymax            :   6.3500E-09
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.5000E+06  0.0000E+00  1.1240E-09  6.9000E-11
+  3.5000E+06  0.0000E+00  1.5350E-09  8.1000E-11
+  4.5000E+06  0.0000E+00  1.9830E-09  9.2000E-11
+  5.5000E+06  0.0000E+00  6.3500E-09  1.6000E-10
+#---------------------------------------------------

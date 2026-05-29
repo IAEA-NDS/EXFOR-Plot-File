@@ -1,0 +1,25 @@
+# EXFOR #         : C0925.012  
+# EXFOR Ver.      : 20110125
+# TRANS #         : C105
+# Author          : F.E.Bertrand et al.
+# Reference       : Phys.Rev.C 8 (1973) 1045
+# DOI             : 10.1103/PhysRevC.8.1045
+# Quantity        : 12C(p,el)12C angular differential cross section
+# REACTION        : 6-C-12(P,EL)6-C-12,,DA
+# File ID         : p-C12-el-adxl-angdisl-mon-einc2.900E+07_prodC12_Bertrand_1973_c0925.012
+#
+# Einc (eV)       :   2.9000E+07
+#
+# npts            : 2           
+# xmin            :   12.1000000
+# xmax            :   32.4000000
+# ymin            :   2.6800E-01
+# ymax            :   9.3500E-01
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  12.1000000   0.0000000  9.3500E-01  1.8700E-03
+  32.4000000   0.0000000  2.6800E-01  5.3600E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : A0507.021  
+# EXFOR Ver.      : 20240910
+# TRANS #         : A117
+# Author          : G.F.Steyn
+# Reference       : Private communication  (1991)
+# DOI             : N/A
+# Quantity        : natCu(p,x)49Cr cumulative production cross section
+# REACTION        : 29-CU-0(P,X)24-CR-49,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodCr49_Steyn_1991_a0507.021
+#
+# npts            : 3           
+# xmin            :   1.8380E+08
+# xmax            :   1.9660E+08
+# ymin            :   6.9000E-04
+# ymax            :   7.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9660E+08  0.0000E+00  7.0000E-04  2.3000E-04
+  1.9020E+08  0.0000E+00  6.9000E-04  1.7000E-04
+  1.8380E+08  0.0000E+00  7.2000E-04  1.9000E-04
+#---------------------------------------------------

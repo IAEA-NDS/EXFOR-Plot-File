@@ -1,0 +1,26 @@
+# EXFOR #         : C0480.002  
+# EXFOR Ver.      : 20010329
+# TRANS #         : 0000
+# Author          : S.B.Kaufman et al.
+# Reference       : Phys.Rev.C 22 (1980) 167
+# DOI             : 10.1103/PhysRevC.22.167
+# Quantity        : 197Au(p,x) cumulative production cross section
+# REACTION        : 79-AU-197(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-Au197-x-sigc-excfun-mon-prodOs185_Kaufman_1980_c0480.002
+#
+# npts            : 5           
+# xmin            :   2.0000E+08
+# xmax            :   6.0000E+09
+# ymin            :   2.2100E-02
+# ymax            :   7.1000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  7.1000E-02  6.0000E-03
+  4.9000E+08  0.0000E+00  7.0000E-02  6.0000E-03
+  1.0000E+09  0.0000E+00  4.2200E-02  3.3000E-03
+  3.0000E+09  0.0000E+00  2.6100E-02  2.2000E-03
+  6.0000E+09  0.0000E+00  2.2100E-02  2.3000E-03
+#---------------------------------------------------

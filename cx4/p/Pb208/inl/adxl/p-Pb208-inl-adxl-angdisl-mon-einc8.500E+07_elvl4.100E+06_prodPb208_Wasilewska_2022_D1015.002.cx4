@@ -1,0 +1,28 @@
+# EXFOR #         : D1015.002  
+# EXFOR Ver.      : 20220218
+# TRANS #         : D136
+# Author          : B.Wasilewska et al.
+# Reference       : Phys.Rev.C 105 (2022) 014310
+# DOI             : 10.1103/PhysRevC.105.014310
+# Quantity        : 208Pb(p,inl)208Pb partial angular differential cross section
+# REACTION        : 82-PB-208(P,INL)82-PB-208,PAR,DA
+# File ID         : p-Pb208-inl-adxl-angdisl-mon-einc8.500E+07_elvl4.100E+06_prodPb208_Wasilewska_2022_d1015.002
+#
+# Einc (eV)       :   8.5000E+07
+# Elvl (eV)       :   4.1000E+06
+#
+# npts            : 4           
+# xmin            :    8.9000000
+# xmax            :   14.3000000
+# ymin            :   4.7329E-03
+# ymax            :   6.7427E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   8.9000000   0.9000000  4.7966E-03  2.1580E-03
+  10.7000000   0.9000000  4.7329E-03  2.1293E-03
+  12.5000000   0.9000000  6.5061E-03  2.9270E-03
+  14.3000000   0.9000000  6.7427E-03  3.0335E-03
+#---------------------------------------------------

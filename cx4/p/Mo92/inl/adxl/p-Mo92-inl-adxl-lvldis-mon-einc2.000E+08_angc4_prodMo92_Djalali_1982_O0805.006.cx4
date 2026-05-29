@@ -1,0 +1,25 @@
+# EXFOR #         : O0805.006  
+# EXFOR Ver.      : 20040401
+# TRANS #         : 0000
+# Author          : C.Djalali et al.
+# Reference       : Nucl.Phys.A 388 (1982) 1
+# DOI             : N/A
+# Quantity        : 92Mo(p,inl)92Mo partial angular differential cross section
+# REACTION        : 42-MO-92(P,INL)42-MO-92,PAR,DA
+# File ID         : p-Mo92-inl-adxl-lvldis-mon-einc2.000E+08_angc4_prodMo92_Djalali_1982_o0805.006
+#
+# Einc (eV)       :   2.0000E+08
+# theta,cm (deg)  :    4.0170000
+#
+# npts            : 1           
+# xmin            :   9.0000E+06
+# xmax            :   9.0000E+06
+# ymin            :   1.5500E-03
+# ymax            :   1.5500E-03
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.0000E+06  0.0000E+00  1.5500E-03  2.3250E-04
+#---------------------------------------------------

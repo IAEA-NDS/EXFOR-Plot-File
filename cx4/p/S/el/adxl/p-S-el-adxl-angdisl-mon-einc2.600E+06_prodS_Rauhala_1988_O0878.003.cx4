@@ -1,0 +1,26 @@
+# EXFOR #         : O0878.003  
+# EXFOR Ver.      : 20051125
+# TRANS #         : O025
+# Author          : E.Rauhala et al.
+# Reference       : Nucl.Instrum.Meth.B 33 (1988) 628
+# DOI             : 10.1016/0168-583X(88)90646-5
+# Quantity        : natS(p,el)natS angular differential cross section
+# REACTION        : 16-S-0(P,EL)16-S-0,,DA
+# File ID         : p-S-el-adxl-angdisl-mon-einc2.600E+06_prodS_Rauhala_1988_o0878.003
+#
+# Einc (eV)       :   2.6000E+06
+# dEinc (eV)      :   3.0000E+03
+#
+# npts            : 2           
+# xmin            :  155.0000000
+# xmax            :  170.0000000
+# ymin            :   7.4000E-02
+# ymax            :   8.0000E-02
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 155.0000000   0.0000000  7.4000E-02  0.0000E+00
+ 170.0000000   0.0000000  8.0000E-02  0.0000E+00
+#---------------------------------------------------

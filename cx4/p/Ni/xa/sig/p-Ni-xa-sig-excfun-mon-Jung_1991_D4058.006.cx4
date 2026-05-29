@@ -1,0 +1,24 @@
+# EXFOR #         : D4058.006  
+# EXFOR Ver.      : 20150504
+# TRANS #         : D099
+# Author          : P.Jung
+# Reference       : Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 352
+# DOI             : N/A
+# Quantity        : natNi(p,a+x) cross section
+# REACTION        : 28-NI-0(P,X)2-HE-4,,SIG
+# File ID         : p-Ni-xa-sig-excfun-mon-Jung_1991_d4058.006
+#
+# npts            : 3           
+# xmin            :   7.6000E+06
+# xmax            :   2.3700E+07
+# ymin            :   2.0000E-03
+# ymax            :   8.4000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.6000E+06  4.0000E+05  2.0000E-03  0.0000E+00
+  1.5700E+07  3.0000E+05  4.1000E-02  5.0000E-03
+  2.3700E+07  3.0000E+05  8.4000E-02  0.0000E+00
+#---------------------------------------------------

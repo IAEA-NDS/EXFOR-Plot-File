@@ -1,0 +1,24 @@
+# EXFOR #         : O1099.102  
+# EXFOR Ver.      : 20040106
+# TRANS #         : 0000
+# Author          : R.Michel et al.
+# Reference       : Nucl.Sci.Techn.Supp. 2 (2002) 242
+# DOI             : N/A
+# Quantity        : 181Ta(p,x)134Ce cumulative production cross section
+# REACTION        : 73-TA-181(P,X)58-CE-134,CUM,SIG
+# File ID         : p-Ta181-x-sigc-excfun-mon-prodCe134_Michel_2002_o1099.102
+#
+# npts            : 3           
+# xmin            :   1.1800E+09
+# xmax            :   2.5800E+09
+# ymin            :   1.2500E-02
+# ymax            :   1.8100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1800E+09  1.0000E+06  1.2500E-02  3.3000E-03
+  1.5700E+09  1.0000E+06  1.8100E-02  3.2000E-03
+  2.5800E+09  1.0000E+06  1.4500E-02  2.8000E-03
+#---------------------------------------------------

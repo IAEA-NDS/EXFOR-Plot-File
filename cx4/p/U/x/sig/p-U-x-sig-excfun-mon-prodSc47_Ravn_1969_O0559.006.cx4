@@ -1,0 +1,23 @@
+# EXFOR #         : O0559.006  
+# EXFOR Ver.      : 20120531
+# TRANS #         : O048
+# Author          : H.Ravn
+# Reference       : J.Inorg.Nucl.Chem. 31 (1969) 1883
+# DOI             : 10.1016/0022-1902(69)90002-5
+# Quantity        : natU(p,f)47Sc independent production cross section
+# REACTION        : 92-U-0(P,F)21-SC-47,IND,SIG
+# File ID         : p-U-x-sig-excfun-mon-prodSc47_Ravn_1969_o0559.006
+#
+# npts            : 2           
+# xmin            :   5.9000E+08
+# xmax            :   1.8000E+10
+# ymin            :   3.5900E-04
+# ymax            :   6.1600E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  3.5900E-04  1.1000E-05
+  1.8000E+10  0.0000E+00  6.1600E-03  1.9000E-04
+#---------------------------------------------------

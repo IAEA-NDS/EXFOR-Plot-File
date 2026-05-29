@@ -1,0 +1,22 @@
+# EXFOR #         : T0145.083  
+# EXFOR Ver.      : 20010213
+# TRANS #         : 0000
+# Author          : M.J.Tobin et al.
+# Reference       : Phys.Rev.C 39 (1989) 2330
+# DOI             : 10.1103/PhysRevC.39.2330
+# Quantity        : 130Te(p,x)75Ge cumulative production cross section
+# REACTION        : 52-TE-130(P,X)32-GE-75,CUM,SIG
+# File ID         : p-Te130-x-sigc-excfun-mon-prodGe75_Tobin_1989_t0145.083
+#
+# npts            : 1           
+# xmin            :   8.0000E+08
+# xmax            :   8.0000E+08
+# ymin            :   1.5000E-04
+# ymax            :   1.5000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.0000E+08  0.0000E+00  1.5000E-04  3.0000E-05
+#---------------------------------------------------

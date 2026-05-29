@@ -1,0 +1,24 @@
+# EXFOR #         : C0253.038  
+# EXFOR Ver.      : 20250611
+# TRANS #         : C250
+# Author          : R.G.Korteling et al.
+# Reference       : Phys.Rev.C 1 (1970) 1960
+# DOI             : 10.1103/PhysRevC.1.1960
+# Quantity        : natGe(p,x)22Na cumulative production cross section
+# REACTION        : 32-GE-0(P,X)11-NA-22,CUM,SIG
+# File ID         : p-Ge-x-sigc-excfun-mon-prodNa22_Korteling_1970_c0253.038
+#
+# npts            : 3           
+# xmin            :   1.0000E+08
+# xmax            :   3.0000E+08
+# ymin            :   3.0000E-06
+# ymax            :   6.9800E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  1.0000E+07  3.0000E-06  3.0000E-06
+  2.0000E+08  1.0000E+07  4.9000E-05  1.5000E-05
+  3.0000E+08  1.0000E+07  6.9800E-05  2.8000E-05
+#---------------------------------------------------

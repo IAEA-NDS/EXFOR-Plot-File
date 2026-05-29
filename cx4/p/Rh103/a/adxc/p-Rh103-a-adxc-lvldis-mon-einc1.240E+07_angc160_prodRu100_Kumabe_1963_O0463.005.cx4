@@ -1,0 +1,26 @@
+# EXFOR #         : O0463.005  
+# EXFOR Ver.      : 20000426
+# TRANS #         : 0000
+# Author          : I.Kumabe et al.
+# Reference       : Nucl.Phys. 46 (1963) 454
+# DOI             : 10.1016/0029-5582(63)90617-5
+# Quantity        : 103Rh(p,a)100Ru partial angular differential cross section
+# REACTION        : 45-RH-103(P,A)44-RU-100,PAR,DA
+# File ID         : p-Rh103-a-adxc-lvldis-mon-einc1.240E+07_angc160_prodRu100_Kumabe_1963_o0463.005
+#
+# Einc (eV)       :   1.2400E+07
+# theta,cm (deg)  :  159.7000000
+# dtheta,cm (deg) :    0.8000000
+#
+# npts            : 1           
+# xmin            :   0.0000E+00
+# xmax            :   0.0000E+00
+# ymin            :   2.5000E-07
+# ymax            :   2.5000E-07
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  0.0000E+00  0.0000E+00  2.5000E-07  8.0000E-08
+#---------------------------------------------------

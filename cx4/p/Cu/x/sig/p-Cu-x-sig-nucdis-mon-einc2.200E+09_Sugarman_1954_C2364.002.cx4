@@ -1,0 +1,29 @@
+# EXFOR #         : C2364.002  
+# EXFOR Ver.      : 20181206
+# TRANS #         : C183
+# Author          : N.Sugarman et al.
+# Reference       : Phys.Rev. 94 (1954) 775(PB5)
+# DOI             : N/A
+# Quantity        : natCu(p,x) independent production cross section
+# REACTION        : 29-CU-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Cu-x-sig-nucdis-mon-einc2.200E+09_Sugarman_1954_c2364.002
+#
+# Einc (eV)       :   2.2000E+09
+#
+# npts            : 6           
+# xmin            : 31066.9     
+# xmax            : 33072.9     
+# ymin            :   2.0000E-07
+# ymax            :   6.0000E-05
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     31066.9  4.0000E-05  0.0000E+00
+     31067.9  6.0000E-05  0.0000E+00
+     31068.9  4.0000E-05  0.0000E+00
+     32069.9  1.0000E-05  0.0000E+00
+     33071.9  2.0000E-07  0.0000E+00
+     33072.9  2.0000E-07  0.0000E+00
+#---------------------------------------------------

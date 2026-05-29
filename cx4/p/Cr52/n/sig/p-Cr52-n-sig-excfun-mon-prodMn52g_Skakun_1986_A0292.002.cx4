@@ -1,0 +1,25 @@
+# EXFOR #         : A0292.002  
+# EXFOR Ver.      : 20110826
+# TRANS #         : A073
+# Author          : E.A.Skakun et al.
+# Reference       : Proceedings of 36.Conf.Nucl.Spectrosc.and Nucl.Struct.,Kharkov 1986 page 277
+# DOI             : N/A
+# Quantity        : 52Cr(p,n)52gMn cross section
+# REACTION        : 24-CR-52(P,N)25-MN-52-G,,SIG
+# File ID         : p-Cr52-n-sig-excfun-mon-prodMn52g_Skakun_1986_a0292.002
+#
+# npts            : 4           
+# xmin            :   6.0000E+06
+# xmax            :   9.0000E+06
+# ymin            :   7.0000E-04
+# ymax            :   5.8000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+06  0.0000E+00  7.0000E-04  5.0000E-05
+  7.0000E+06  0.0000E+00  1.5000E-02  1.0000E-03
+  8.0000E+06  0.0000E+00  4.1000E-02  3.0000E-03
+  9.0000E+06  0.0000E+00  5.8000E-02  4.0000E-03
+#---------------------------------------------------

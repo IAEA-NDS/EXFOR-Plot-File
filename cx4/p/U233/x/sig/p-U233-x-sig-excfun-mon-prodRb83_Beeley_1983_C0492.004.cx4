@@ -1,0 +1,22 @@
+# EXFOR #         : C0492.004  
+# EXFOR Ver.      : 20220805
+# TRANS #         : C216
+# Author          : P.A.Beeley et al.
+# Reference       : Phys.Rev.C 28 (1983) 1188
+# DOI             : 10.1103/PhysRevC.28.1188
+# Quantity        : 233U(p,f) independent production cross section
+# REACTION        : 92-U-233(P,F)ELEM/MASS,,SIG
+# File ID         : p-U233-x-sig-excfun-mon-prodRb83_Beeley_1983_c0492.004
+#
+# npts            : 1           
+# xmin            :   1.0000E+08
+# xmax            :   1.0000E+08
+# ymin            :   2.6000E-04
+# ymax            :   2.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.0000E+08  2.0000E+06  2.6000E-04  4.0000E-05
+#---------------------------------------------------

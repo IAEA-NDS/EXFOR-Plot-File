@@ -1,0 +1,26 @@
+# EXFOR #         : O0276.053  
+# EXFOR Ver.      : 20190827
+# TRANS #         : O071
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 129 (1997) 153
+# DOI             : 10.1016/S0168-583X(97)00213-9
+# Quantity        : 55Mn(p,x)47Sc cumulative production cross section
+# REACTION        : 25-MN-55(P,X)21-SC-47,CUM,SIG
+# File ID         : p-Mn55-x-sigc-excfun-mon-prodSc47_Michel_1997_o0276.053
+#
+# npts            : 5           
+# xmin            :   4.7700E+07
+# xmax            :   2.3900E+08
+# ymin            :   3.0000E-04
+# ymax            :   5.3700E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.7700E+07  1.6900E+06  3.2100E-04  6.1100E-05
+  6.6000E+07  1.1900E+06  3.0000E-04  4.0600E-05
+  8.1200E+07  8.6600E+05  6.7700E-04  7.5600E-05
+  9.4600E+07  5.9800E+05  1.8200E-03  1.9300E-04
+  2.3900E+08  1.6000E+06  5.3700E-03  4.3000E-04
+#---------------------------------------------------

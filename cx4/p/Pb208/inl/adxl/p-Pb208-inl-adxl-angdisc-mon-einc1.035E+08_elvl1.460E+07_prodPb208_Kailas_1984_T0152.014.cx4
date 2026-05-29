@@ -1,0 +1,30 @@
+# EXFOR #         : T0152.014  
+# EXFOR Ver.      : 20010430
+# TRANS #         : 0000
+# Author          : S.Kailas et al.
+# Reference       : Phys.Rev.C 29 (1984) 2075
+# DOI             : 10.1103/PhysRevC.29.2075
+# Quantity        : 208Pb(p,inl)208Pb partial angular differential cross section
+# REACTION        : 82-PB-208(P,INL)82-PB-208,PAR,DA
+# File ID         : p-Pb208-inl-adxl-angdisc-mon-einc1.035E+08_elvl1.460E+07_prodPb208_Kailas_1984_t0152.014
+#
+# Einc (eV)       :   1.0350E+08
+# Elvl (eV)       :   1.4600E+07
+# dElvl (eV)      :   3.0000E+05
+#
+# npts            : 5           
+# xmin            :   13.7000000
+# xmax            :   21.6000000
+# ymin            :   3.9000E-03
+# ymax            :   5.9600E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  13.7000000   0.0000000  5.9600E-03  0.0000E+00
+  15.6000000   0.0000000  5.2000E-03  9.8800E-04
+  17.7000000   0.0000000  5.3600E-03  0.0000E+00
+  19.6000000   0.0000000  3.9000E-03  8.1900E-04
+  21.6000000   0.0000000  4.5900E-03  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : O0397.097  
+# EXFOR Ver.      : 20191007
+# TRANS #         : O071
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Proceedings of Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 page 184
+# DOI             : N/A
+# Quantity        : 208Pb(p,5n)204Bi cross section
+# REACTION        : 82-PB-208(P,5N)83-BI-204,,SIG
+# File ID         : p-Pb208-5n-sig-excfun-mon-prodBi204_Titarenko_1996_o0397.097
+#
+# npts            : 1           
+# xmin            :   1.5000E+09
+# xmax            :   1.5000E+09
+# ymin            :   3.3000E-03
+# ymax            :   3.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+09  0.0000E+00  3.3000E-03  4.0000E-04
+#---------------------------------------------------

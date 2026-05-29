@@ -1,0 +1,22 @@
+# EXFOR #         : D0029.169  
+# EXFOR Ver.      : 20060725
+# TRANS #         : D048
+# Author          : A.Gruetter
+# Reference       : Appl.Radiat.Isot. 33 (1982) 725
+# DOI             : 10.1016/0020-708X(82)90092-8
+# Quantity        : natBr(p,x)57Ni cumulative production cross section
+# REACTION        : 35-BR-0(P,X)28-NI-57,CUM,SIG
+# File ID         : p-Br-x-sigc-excfun-mon-prodNi57_Gruetter_1982_d0029.169
+#
+# npts            : 1           
+# xmin            :   5.9300E+08
+# xmax            :   5.9300E+08
+# ymin            :   1.4500E-04
+# ymax            :   1.4500E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9300E+08  0.0000E+00  1.4500E-04  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : O2067.005  
+# EXFOR Ver.      : 20121028
+# TRANS #         : O050
+# Author          : A.B.Clegg et al.
+# Reference       : Proc.Phys.Soc.(UK) 78 (1961) 681
+# DOI             : 10.1088/0370-1328/78/5/305
+# Quantity        : 10B(p,inl)10B partial gamma production cross section
+# REACTION        : 5-B-10(P,INL)5-B-10,PAR,SIG,G
+# File ID         : p-B10-inl-sigg-enedisl-mon-einc1.480E+08_prodB10_Clegg_1961_o2067.005
+#
+# Einc (eV)       :   1.4800E+08
+#
+# npts            : 4           
+# xmin            :   7.2000E+05
+# xmax            :   2.1500E+06
+# ymin            :   7.0000E-04
+# ymax            :   1.8000E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.2000E+05  0.0000E+00  1.8000E-03  9.0000E-04
+  1.0200E+06  0.0000E+00  1.0000E-03  3.0000E-04
+  1.4300E+06  0.0000E+00  7.0000E-04  3.0000E-04
+  2.1500E+06  0.0000E+00  1.0000E-03  4.0000E-04
+#---------------------------------------------------

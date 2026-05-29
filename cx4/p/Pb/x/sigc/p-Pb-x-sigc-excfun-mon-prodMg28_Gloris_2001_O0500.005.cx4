@@ -1,0 +1,22 @@
+# EXFOR #         : O0500.005  
+# EXFOR Ver.      : 20030414
+# TRANS #         : 0000
+# Author          : M.Gloris et al.
+# Reference       : Nucl.Instrum.Meth.A 463 (2001) 593
+# DOI             : 10.1016/S0168-9002(01)00174-7
+# Quantity        : natPb(p,x)28Mg cumulative production cross section
+# REACTION        : 82-PB-0(P,X)12-MG-28,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodMg28_Gloris_2001_o0500.005
+#
+# npts            : 1           
+# xmin            :   2.5900E+09
+# xmax            :   2.5900E+09
+# ymin            :   9.2000E-04
+# ymax            :   9.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5900E+09  1.0000E+06  9.2000E-04  2.2500E-04
+#---------------------------------------------------

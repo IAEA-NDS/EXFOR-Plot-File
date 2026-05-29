@@ -1,0 +1,25 @@
+# EXFOR #         : O0350.003  
+# EXFOR Ver.      : 20201019
+# TRANS #         : O081
+# Author          : J.R.Walton et al.
+# Reference       : J.Geophys.Res. 81 (1976) 5689
+# DOI             : 10.1029/JB081i032p05689
+# Quantity        : natCa(p,x)42Ar cumulative production cross section
+# REACTION        : 20-CA-0(P,X)18-AR-42,CUM,SIG
+# File ID         : p-Ca-x-sigc-excfun-mon-prodAr42_Walton_1976_o0350.003
+#
+# npts            : 4           
+# xmin            :   1.9100E+07
+# xmax            :   4.3600E+07
+# ymin            :   2.4000E-05
+# ymax            :   1.6000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.9100E+07  8.0000E+05  2.4000E-05  7.0000E-06
+  3.5300E+07  1.4000E+06  3.2000E-05  1.3000E-05
+  3.8100E+07  1.5000E+06  1.1000E-04  4.0000E-05
+  4.3600E+07  1.7000E+06  1.6000E-03  7.0000E-04
+#---------------------------------------------------

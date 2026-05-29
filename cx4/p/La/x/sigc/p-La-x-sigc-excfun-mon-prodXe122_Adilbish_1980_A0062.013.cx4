@@ -1,0 +1,22 @@
+# EXFOR #         : A0062.013  
+# EXFOR Ver.      : 20231221
+# TRANS #         : A104
+# Author          : M.Adilbish et al.
+# Reference       : Appl.Radiat.Isot. 31 (1980) 163
+# DOI             : 10.1016/0020-708X(80)90142-8
+# Quantity        : natLa(p,x)122Xe cumulative production cross section
+# REACTION        : 57-LA-0(P,X)54-XE-122,CUM,SIG
+# File ID         : p-La-x-sigc-excfun-mon-prodXe122_Adilbish_1980_a0062.013
+#
+# npts            : 1           
+# xmin            :   6.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   2.5000E-02
+# ymax            :   2.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  2.5000E-02  3.2000E-03
+#---------------------------------------------------

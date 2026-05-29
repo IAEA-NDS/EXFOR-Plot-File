@@ -1,0 +1,22 @@
+# EXFOR #         : O0574.021  
+# EXFOR Ver.      : 20080708
+# TRANS #         : O036
+# Author          : R.W.Eaker et al.
+# Reference       : J.Inorg.Nucl.Chem. 38 (1976) 969
+# DOI             : 10.1016/0022-1902(76)80008-5
+# Quantity        : 238U(p,f)130gI cumulative production cross section
+# REACTION        : 92-U-238(P,F)53-I-130-G,M+,SIG
+# File ID         : p-U238-x-sigc-excfun-mon-prodI130g_Eaker_1976_o0574.021
+#
+# npts            : 1           
+# xmin            :   1.5600E+07
+# xmax            :   1.5600E+07
+# ymin            :   5.8830E-03
+# ymax            :   5.8830E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5600E+07  0.0000E+00  5.8830E-03  1.7000E-05
+#---------------------------------------------------

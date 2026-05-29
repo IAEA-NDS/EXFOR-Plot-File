@@ -1,0 +1,24 @@
+# EXFOR #         : P0019.005  
+# EXFOR Ver.      : 20241025
+# TRANS #         : C242
+# Author          : K.Otozai et al.
+# Reference       : Nucl.Phys. 80 (1966) 335
+# DOI             : 10.1016/0029-5582(66)90093-9
+# Quantity        : 110Cd(p,x)109Cd independent production cross section
+# REACTION        : 48-CD-110(P,X)48-CD-109,,SIG
+# File ID         : p-Cd110-x-sig-excfun-mon-prodCd109_Otozai_1966_p0019.005
+#
+# npts            : 3           
+# xmin            :   1.2600E+07
+# xmax            :   1.4700E+07
+# ymin            :   1.0000E-03
+# ymax            :   3.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2600E+07  0.0000E+00  1.0000E-03  2.0000E-03
+  1.3500E+07  0.0000E+00  5.0000E-03  5.0000E-03
+  1.4700E+07  0.0000E+00  3.0000E-02  2.0000E-02
+#---------------------------------------------------

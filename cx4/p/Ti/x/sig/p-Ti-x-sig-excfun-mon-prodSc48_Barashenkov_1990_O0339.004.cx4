@@ -1,0 +1,22 @@
+# EXFOR #         : O0339.004  
+# EXFOR Ver.      : 19970516
+# TRANS #         : 0000
+# Author          : V.S.Barashenkov et al.
+# Reference       : Nucl.Instrum.Meth.A 292 (1990) 169
+# DOI             : 10.1016/0168-9002(90)91745-W
+# Quantity        : natTi(p,x)48Sc independent production cross section
+# REACTION        : 22-TI-0(P,X)21-SC-48,,SIG,,,EXP
+# File ID         : p-Ti-x-sig-excfun-mon-prodSc48_Barashenkov_1990_o0339.004
+#
+# npts            : 1           
+# xmin            :   1.1000E+09
+# xmax            :   1.1000E+09
+# ymin            :   7.4000E-04
+# ymax            :   7.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1000E+09  0.0000E+00  7.4000E-04  2.1000E-04
+#---------------------------------------------------

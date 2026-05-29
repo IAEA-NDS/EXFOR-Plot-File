@@ -1,0 +1,22 @@
+# EXFOR #         : O0280.008  
+# EXFOR Ver.      : 20131029
+# TRANS #         : O051
+# Author          : R.Michel et al.
+# Reference       : Nucl.Instrum.Meth.B 42 (1989) 76
+# DOI             : 10.1016/0168-583X(89)90013-X
+# Quantity        : 27Al(p,h+x) cross section
+# REACTION        : 13-AL-27(P,X)2-HE-3,,SIG
+# File ID         : p-Al27-xh-sig-excfun-mon-Michel_1989_o0280.008
+#
+# npts            : 1           
+# xmin            :   6.0000E+08
+# xmax            :   6.0000E+08
+# ymin            :   3.0100E-02
+# ymax            :   3.0100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  0.0000E+00  3.0100E-02  5.5200E-03
+#---------------------------------------------------

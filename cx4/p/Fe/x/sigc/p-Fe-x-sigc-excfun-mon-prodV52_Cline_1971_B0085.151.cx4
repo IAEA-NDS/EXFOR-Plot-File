@@ -1,0 +1,22 @@
+# EXFOR #         : B0085.151  
+# EXFOR Ver.      : 20240425
+# TRANS #         : B036
+# Author          : J.E.Cline et al.
+# Reference       : Nucl.Phys.A 169 (1971) 437
+# DOI             : 10.1016/0375-9474(71)90897-9
+# Quantity        : natFe(p,x)52V cumulative production cross section
+# REACTION        : 26-FE-0(P,X)23-V-52,(CUM),SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodV52_Cline_1971_b0085.151
+#
+# npts            : 1           
+# xmin            :   5.9000E+08
+# xmax            :   5.9000E+08
+# ymin            :   2.4000E-04
+# ymax            :   2.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  2.4000E-04  2.0000E-04
+#---------------------------------------------------

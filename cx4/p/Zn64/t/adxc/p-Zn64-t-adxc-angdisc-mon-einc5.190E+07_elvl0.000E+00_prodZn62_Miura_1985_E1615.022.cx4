@@ -1,0 +1,25 @@
+# EXFOR #         : E1615.022  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : K.Miura et al.
+# Reference       : Nucl.Phys.A 436 No.2 (1985) 221
+# DOI             : 10.1016/0375-9474(85)90197-6
+# Quantity        : 64Zn(p,t)62Zn partial angular differential cross section
+# REACTION        : 30-ZN-64(P,T)30-ZN-62,PAR,DA
+# File ID         : p-Zn64-t-adxc-angdisc-mon-einc5.190E+07_elvl0.000E+00_prodZn62_Miura_1985_e1615.022
+#
+# Einc (eV)       :   5.1900E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   19.0000000
+# xmax            :   19.0000000
+# ymin            :   4.4200E-04
+# ymax            :   4.4200E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  19.0000000   0.0000000  4.4200E-04  1.2000E-05
+#---------------------------------------------------

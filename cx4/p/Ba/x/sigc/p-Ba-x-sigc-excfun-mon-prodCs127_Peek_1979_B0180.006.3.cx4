@@ -1,0 +1,22 @@
+# EXFOR #         : B0180.006.3
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : N.F.Peek et al.
+# Reference       : Appl.Radiat.Isot. 30 (1979) 631
+# DOI             : 10.1016/0020-708X(79)90079-6
+# Quantity        : natBa(p,x)127Cs cumulative production cross section
+# REACTION        : 56-BA-0(P,X)55-CS-127,CUM,SIG,,,EXP
+# File ID         : p-Ba-x-sigc-excfun-mon-prodCs127_Peek_1979_b0180.006.3
+#
+# npts            : 1           
+# xmin            :   5.4000E+08
+# xmax            :   5.4000E+08
+# ymin            :   3.3100E-02
+# ymax            :   3.3100E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.4000E+08  0.0000E+00  3.3100E-02  4.2000E-03
+#---------------------------------------------------

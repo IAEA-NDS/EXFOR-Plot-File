@@ -1,0 +1,22 @@
+# EXFOR #         : B0052.005  
+# EXFOR Ver.      : 20190120
+# TRANS #         : B029
+# Author          : H.G.Blosser et al.
+# Reference       : Phys.Rev. 100 (1955) 1340
+# DOI             : 10.1103/PhysRev.100.1340
+# Quantity        : 61Ni(p,n)61Cu cross section
+# REACTION        : 28-NI-61(P,N)29-CU-61,,SIG
+# File ID         : p-Ni61-n-sig-excfun-mon-prodCu61_Blosser_1955_b0052.005
+#
+# npts            : 1           
+# xmin            :   1.2000E+07
+# xmax            :   1.2000E+07
+# ymin            :   5.9000E-01
+# ymax            :   5.9000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+07  0.0000E+00  5.9000E-01  1.6000E-01
+#---------------------------------------------------

@@ -1,0 +1,27 @@
+# EXFOR #         : D0640.017  
+# EXFOR Ver.      : 20211202
+# TRANS #         : D133
+# Author          : I.Leya
+# Reference       : Thesis  (1997)
+# DOI             : N/A
+# Quantity        : 55Mn(p,x) independent production cross section
+# REACTION        : 25-MN-55(P,X)ELEM/MASS,,SIG
+# File ID         : p-Mn55-x-sig-nucdis-mon-einc1.600E+09_Leya_1997_d0640.017
+#
+# Einc (eV)       :   1.6000E+09
+#
+# npts            : 4           
+# xmin            : 4007.9      
+# xmax            : 25054.9     
+# ymin            :   7.0200E-03
+# ymax            :   4.6000E-02
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      4007.9  7.0200E-03  4.5000E-04
+     21046.9  1.2500E-02  7.0000E-04
+     23048.9  1.3600E-02  8.0000E-04
+     25054.9  4.6000E-02  2.7000E-03
+#---------------------------------------------------

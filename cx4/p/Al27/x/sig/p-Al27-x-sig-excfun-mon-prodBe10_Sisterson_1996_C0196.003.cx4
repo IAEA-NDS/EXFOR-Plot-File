@@ -1,0 +1,24 @@
+# EXFOR #         : C0196.003  
+# EXFOR Ver.      : 20220530
+# TRANS #         : C213
+# Author          : J.M.Sisterson et al.
+# Reference       : Proceedings of Conf.on Appl.of Accel.in Res.and Ind.,Denton,USA,1996 page 811
+# DOI             : N/A
+# Quantity        : 27Al(p,x)10Be independent production cross section
+# REACTION        : 13-AL-27(P,X)4-BE-10,,SIG
+# File ID         : p-Al27-x-sig-excfun-mon-prodBe10_Sisterson_1996_c0196.003
+#
+# npts            : 3           
+# xmin            :   4.0200E+07
+# xmax            :   6.7500E+07
+# ymin            :   3.0000E-06
+# ymax            :   2.3000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0200E+07  0.0000E+00  3.0000E-06  1.0000E-06
+  6.0000E+07  0.0000E+00  2.2000E-05  2.0000E-06
+  6.7500E+07  0.0000E+00  2.3000E-05  3.0000E-06
+#---------------------------------------------------

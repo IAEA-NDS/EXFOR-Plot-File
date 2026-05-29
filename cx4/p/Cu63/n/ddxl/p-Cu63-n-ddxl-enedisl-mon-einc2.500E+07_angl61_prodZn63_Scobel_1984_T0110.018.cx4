@@ -1,0 +1,26 @@
+# EXFOR #         : T0110.018  
+# EXFOR Ver.      : 20071109
+# TRANS #         : Y004
+# Author          : W.Scobel et al.
+# Reference       : Phys.Rev.C 30 (1984) 1480
+# DOI             : 10.1103/PhysRevC.30.1480
+# Quantity        : 63Cu(p,n)63Zn double differential cross section
+# REACTION        : 29-CU-63(P,N)30-ZN-63,,DA/DE
+# File ID         : p-Cu63-n-ddxl-enedisl-mon-einc2.500E+07_angl61_prodZn63_Scobel_1984_t0110.018
+#
+# Einc (eV)       :   2.5000E+07
+# dEinc (eV)      :   8.0000E+04
+# theta,lab (deg) :   61.4000000
+#
+# npts            : 1           
+# xmin            :   5.0900E+06
+# xmax            :   5.0900E+06
+# ymin            :   3.0600E-06
+# ymax            :   3.0600E-06
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  5.0900E+06  0.0000E+00  3.0600E-06  2.8000E-07
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : A0904.174  
+# EXFOR Ver.      : 20220323
+# TRANS #         : A099
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 551
+# DOI             : 10.1134/S1063778811040181
+# Quantity        : natW(p,x)119mTe independent production cross section
+# REACTION        : 74-W-0(P,X)52-TE-119-M,,SIG
+# File ID         : p-W-x-sig-excfun-mon-prodTe119m_Titarenko_2011_a0904.174
+#
+# npts            : 3           
+# xmin            :   1.1990E+09
+# xmax            :   2.6050E+09
+# ymin            :   4.7500E-04
+# ymax            :   2.0300E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1990E+09  3.0000E+06  4.7500E-04  4.5000E-05
+  1.5990E+09  4.0000E+06  1.1000E-03  1.0000E-04
+  2.6050E+09  8.0000E+06  2.0300E-03  2.0000E-04
+#---------------------------------------------------

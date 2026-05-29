@@ -1,0 +1,22 @@
+# EXFOR #         : B0049.002  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : B.L.Cohen et al.
+# Reference       : Phys.Rev. 99 (1955) 723
+# DOI             : 10.1103/PhysRev.99.723
+# Quantity        : 19F(p,x)18F cumulative production cross section
+# REACTION        : 9-F-19(P,X)9-F-18,CUM,SIG,,,EXP
+# File ID         : p-F19-x-sigc-excfun-mon-prodF18_Cohen_1955_b0049.002
+#
+# npts            : 1           
+# xmin            :   2.1500E+07
+# xmax            :   2.1500E+07
+# ymin            :   1.7500E-01
+# ymax            :   1.7500E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1500E+07  0.0000E+00  1.7500E-01  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : O0500.115  
+# EXFOR Ver.      : 20220107
+# TRANS #         : O087
+# Author          : M.Gloris et al.
+# Reference       : Nucl.Instrum.Meth.A 463 (2001) 593
+# DOI             : 10.1016/S0168-9002(01)00174-7
+# Quantity        : natPb(p,x)198gTl cumulative production cross section
+# REACTION        : 82-PB-0(P,X)81-TL-198-G,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodTl198g_Gloris_2001_o0500.115
+#
+# npts            : 1           
+# xmin            :   2.5900E+09
+# xmax            :   2.5900E+09
+# ymin            :   7.8900E-02
+# ymax            :   7.8900E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5900E+09  1.0000E+06  7.8900E-02  1.7200E-02
+#---------------------------------------------------

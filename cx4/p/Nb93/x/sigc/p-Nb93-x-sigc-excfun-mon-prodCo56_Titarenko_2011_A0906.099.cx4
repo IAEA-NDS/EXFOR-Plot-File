@@ -1,0 +1,26 @@
+# EXFOR #         : A0906.099  
+# EXFOR Ver.      : 20240110
+# TRANS #         : A107
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 537
+# DOI             : 10.1134/S106377881104017X
+# Quantity        : 93Nb(p,x)56Co cumulative production cross section
+# REACTION        : 41-NB-93(P,X)27-CO-56,CUM,SIG
+# File ID         : p-Nb93-x-sigc-excfun-mon-prodCo56_Titarenko_2011_a0906.099
+#
+# npts            : 5           
+# xmin            :   6.0000E+08
+# xmax            :   2.6050E+09
+# ymin            :   2.1000E-04
+# ymax            :   2.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+08  2.0000E+06  2.1000E-04  1.1000E-04
+  7.9900E+08  2.0000E+06  5.5000E-04  1.2000E-04
+  1.1990E+09  3.0000E+06  1.4700E-03  1.7000E-04
+  1.5980E+09  4.0000E+06  2.0700E-03  2.1000E-04
+  2.6050E+09  8.0000E+06  2.2000E-03  2.4000E-04
+#---------------------------------------------------

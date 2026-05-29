@@ -1,0 +1,24 @@
+# EXFOR #         : A0085.029  
+# EXFOR Ver.      : 20231221
+# TRANS #         : A104
+# Author          : A.V.Muminov et al.
+# Reference       : Sov.At.Energy 49 (1980) 540
+# DOI             : 10.1007/BF01121617
+# Quantity        : 112Cd(p,n)112gIn cumulative production cross section
+# REACTION        : 48-CD-112(P,N)49-IN-112-G,(M),SIG
+# File ID         : p-Cd112-x-sigc-excfun-mon-prodIn112g_Muminov_1980_a0085.029
+#
+# npts            : 3           
+# xmin            :   5.6500E+06
+# xmax            :   9.1400E+06
+# ymin            :   9.2400E-02
+# ymax            :   6.0450E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.6500E+06  0.0000E+00  9.2400E-02  3.9600E-02
+  6.8500E+06  0.0000E+00  2.4460E-01  4.6000E-02
+  9.1400E+06  0.0000E+00  6.0450E-01  7.0000E-02
+#---------------------------------------------------

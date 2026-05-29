@@ -1,0 +1,22 @@
+# EXFOR #         : E1647.005  
+# EXFOR Ver.      : 20240503
+# TRANS #         : E143
+# Author          : S.Shibata et al.
+# Reference       : Phys.Rev.C 48 (1993) 2617
+# DOI             : 10.1103/PhysRevC.48.2617
+# Quantity        : natFe(p,x)26gAl independent production cross section
+# REACTION        : 26-FE-0(P,X)13-AL-26-G,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodAl26g_Shibata_1993_e1647.005
+#
+# npts            : 1           
+# xmin            :   1.2000E+10
+# xmax            :   1.2000E+10
+# ymin            :   2.0200E-03
+# ymax            :   2.0200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+10  0.0000E+00  2.0200E-03  2.2000E-04
+#---------------------------------------------------

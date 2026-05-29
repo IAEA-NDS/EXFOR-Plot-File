@@ -1,0 +1,27 @@
+# EXFOR #         : D0153.005  
+# EXFOR Ver.      : 20040406
+# TRANS #         : 0000
+# Author          : E.Hagebo et al.
+# Reference       : J.Inorg.Nucl.Chem. 26 (1964) 1639
+# DOI             : 10.1016/0022-1902(64)80091-9
+# Quantity        : natU(p,f) cumulative production cross section
+# REACTION        : 92-U-0(P,F)ELEM/MASS,CUM,SIG
+# File ID         : p-U-x-sigc-nucdis-mon-einc1.700E+08_Hagebo_1964_d0153.005
+#
+# Einc (eV)       :   1.7000E+08
+#
+# npts            : 4           
+# xmin            : 35080.0     
+# xmax            : 35084.9     
+# ymin            :   6.7000E-05
+# ymax            :   4.8000E-03
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     35080.0  6.7000E-05  0.0000E+00
+     35080.1  2.8000E-04  5.0000E-05
+     35083.9  4.8000E-03  1.6000E-03
+     35084.9  2.7000E-03  5.0000E-04
+#---------------------------------------------------

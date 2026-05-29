@@ -1,0 +1,23 @@
+# EXFOR #         : O0639.004  
+# EXFOR Ver.      : 20000424
+# TRANS #         : 0000
+# Author          : V.P.Shamov
+# Reference       : Dokl.Acad.Nauk 103 (1955) 593
+# DOI             : N/A
+# Quantity        : natW(p,f) cross section
+# REACTION        : 74-W-0(P,F),,SIG,,,EXP
+# File ID         : p-W-f-sig-excfun-mon-Shamov_1955_o0639.004
+#
+# npts            : 2           
+# xmin            :   4.6000E+08
+# xmax            :   6.6000E+08
+# ymin            :   4.0000E-03
+# ymax            :   1.0000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.6000E+08  0.0000E+00  4.0000E-03  1.6000E-03
+  6.6000E+08  0.0000E+00  1.0000E-02  3.0000E-03
+#---------------------------------------------------

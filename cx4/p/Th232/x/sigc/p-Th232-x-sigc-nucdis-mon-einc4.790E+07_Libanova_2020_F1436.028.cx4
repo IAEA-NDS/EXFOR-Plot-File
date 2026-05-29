@@ -1,0 +1,29 @@
+# EXFOR #         : F1436.028  
+# EXFOR Ver.      : 20210820
+# TRANS #         : F087
+# Author          : O.N.Libanova et al.
+# Reference       : J.Rad.Nucl.Chem. 324 (2020) 1435
+# DOI             : 10.1007/s10967-020-07185-7
+# Quantity        : 232Th(p,f) cumulative production cross section
+# REACTION        : 90-TH-232(P,F)ELEM/MASS,(CUM),SIG
+# File ID         : p-Th232-x-sigc-nucdis-mon-einc4.790E+07_Libanova_2020_f1436.028
+#
+# Einc (eV)       :   4.7900E+07
+# dEinc (eV)      :   3.5000E+06
+#
+# npts            : 5           
+# xmin            : 48115.0     
+# xmax            : 54133.1     
+# ymin            :   7.2500E-03
+# ymax            :   3.8900E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+     48115.0  3.8900E-02  6.3000E-03
+     50125.0  1.5100E-02  2.3000E-03
+     52129.1  2.4100E-02  3.8000E-03
+     52131.1  1.3620E-02  2.1100E-03
+     54133.1  7.2500E-03  1.6600E-03
+#---------------------------------------------------

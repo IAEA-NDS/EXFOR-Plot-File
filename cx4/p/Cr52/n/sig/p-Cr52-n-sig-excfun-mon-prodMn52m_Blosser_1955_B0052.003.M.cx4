@@ -1,0 +1,22 @@
+# EXFOR #         : B0052.003.M
+# EXFOR Ver.      : 20190120
+# TRANS #         : B029
+# Author          : H.G.Blosser et al.
+# Reference       : Phys.Rev. 100 (1955) 1340
+# DOI             : 10.1103/PhysRev.100.1340
+# Quantity        : 52Cr(p,n)52mMn cross section
+# REACTION        : 24-CR-52(P,N)25-MN-52-M,,SIG
+# File ID         : p-Cr52-n-sig-excfun-mon-prodMn52m_Blosser_1955_b0052.003.m
+#
+# npts            : 1           
+# xmin            :   1.2000E+07
+# xmax            :   1.2000E+07
+# ymin            :   2.1000E-01
+# ymax            :   2.1000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+07  0.0000E+00  2.1000E-01  4.0000E-02
+#---------------------------------------------------

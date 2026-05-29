@@ -1,0 +1,22 @@
+# EXFOR #         : O0768.002  
+# EXFOR Ver.      : 20040211
+# TRANS #         : 0000
+# Author          : E.Porras et al.
+# Reference       : Nucl.Instrum.Meth.B 160 (2000) 73
+# DOI             : 10.1016/S0168-583X(99)00556-X
+# Quantity        : 133Cs(p,3n)131Ba cross section
+# REACTION        : 55-CS-133(P,3N)56-BA-131,,SIG
+# File ID         : p-Cs133-3n-sig-excfun-mon-prodBa131_Porras_2000_o0768.002
+#
+# npts            : 1           
+# xmin            :   2.0000E+08
+# xmax            :   2.0000E+08
+# ymin            :   3.1000E-03
+# ymax            :   3.1000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0000E+08  0.0000E+00  3.1000E-03  3.0000E-04
+#---------------------------------------------------

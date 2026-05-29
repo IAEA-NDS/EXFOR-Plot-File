@@ -1,0 +1,23 @@
+# EXFOR #         : O0821.006  
+# EXFOR Ver.      : 20010323
+# TRANS #         : 0000
+# Author          : V.Aleksandryan et al.
+# Reference       : Nucl.Phys.A 674 (2000) 539
+# DOI             : 10.1016/S0375-9474(00)00167-6
+# Quantity        : 112Sn(p,x)76Kr cumulative production cross section
+# REACTION        : 50-SN-112(P,X)36-KR-76,CUM,SIG
+# File ID         : p-Sn112-x-sigc-excfun-mon-prodKr76_Aleksandryan_2000_o0821.006
+#
+# npts            : 2           
+# xmin            :   6.6000E+08
+# xmax            :   8.1000E+09
+# ymin            :   3.6000E-04
+# ymax            :   1.6400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.6000E+08  0.0000E+00  3.6000E-04  4.0000E-05
+  8.1000E+09  0.0000E+00  1.6400E-03  2.0000E-04
+#---------------------------------------------------

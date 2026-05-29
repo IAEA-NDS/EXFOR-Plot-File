@@ -1,0 +1,29 @@
+# EXFOR #         : E0841.004  
+# EXFOR Ver.      : 19881021
+# TRANS #         : 0000
+# Author          : H.Orihara et al.
+# Reference       : Phys.Rev.Lett. 51 (1983) 1328
+# DOI             : 10.1103/PhysRevLett.51.1328
+# Quantity        : 71Ga(p,n)71Ge partial angular differential cross section
+# REACTION        : 31-GA-71(P,N)32-GE-71,PAR,DA
+# File ID         : p-Ga71-n-adxl-angdisc-mon-einc3.500E+07_elvl1.750E+05_prodGe71_Orihara_1983_e0841.004
+#
+# Einc (eV)       :   3.5000E+07
+# Elvl (eV)       :   1.7500E+05
+#
+# npts            : 5           
+# xmin            :    2.8540000
+# xmax            :   39.4950000
+# ymin            :   6.8150E-05
+# ymax            :   1.4200E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.8540000   0.0000000  1.4200E-04  0.0000E+00
+  10.0300000   0.0000000  1.2350E-04  0.0000E+00
+  20.3360000   0.0000000  7.4950E-05  0.0000E+00
+  24.8260000   0.0000000  7.7060E-05  0.0000E+00
+  39.4950000   0.0000000  6.8150E-05  0.0000E+00
+#---------------------------------------------------

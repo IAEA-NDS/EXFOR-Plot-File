@@ -1,0 +1,26 @@
+# EXFOR #         : D4277.016  
+# EXFOR Ver.      : 20130221
+# TRANS #         : D088
+# Author          : F.Tarkanyi et al.
+# Reference       : Appl.Radiat.Isot. 74 (2013) 109
+# DOI             : 10.1016/j.apradiso.2013.01.015
+# Quantity        : natTl(p,x)203Hg independent production cross section
+# REACTION        : 81-TL-0(P,X)80-HG-203,,SIG
+# File ID         : p-Tl-x-sig-excfun-mon-prodHg203_Tarkanyi_2013_d4277.016
+#
+# npts            : 5           
+# xmin            :   3.1500E+07
+# xmax            :   3.6400E+07
+# ymin            :   7.0000E-05
+# ymax            :   3.6000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.1500E+07  4.0000E+05  7.0000E-05  1.4000E-06
+  3.2800E+07  3.0000E+05  1.3000E-04  2.6000E-06
+  3.4000E+07  3.0000E+05  2.5000E-04  5.0000E-06
+  3.5200E+07  3.0000E+05  2.6000E-04  5.2000E-06
+  3.6400E+07  3.0000E+05  3.6000E-04  7.2000E-06
+#---------------------------------------------------

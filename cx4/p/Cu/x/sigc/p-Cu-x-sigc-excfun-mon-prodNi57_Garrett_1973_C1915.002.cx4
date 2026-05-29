@@ -1,0 +1,22 @@
+# EXFOR #         : C1915.002  
+# EXFOR Ver.      : 20120420
+# TRANS #         : C183
+# Author          : C.K.Garrett et al.
+# Reference       : Phys.Rev.C 8 (1973) 594
+# DOI             : 10.1103/PhysRevC.8.594
+# Quantity        : natCu(p,x)57Ni cumulative production cross section
+# REACTION        : 29-CU-0(P,X)28-NI-57,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodNi57_Garrett_1973_c1915.002
+#
+# npts            : 1           
+# xmin            :   2.0500E+08
+# xmax            :   2.0500E+08
+# ymin            :   2.0500E-03
+# ymax            :   2.0500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.0500E+08  0.0000E+00  2.0500E-03  2.0000E-04
+#---------------------------------------------------

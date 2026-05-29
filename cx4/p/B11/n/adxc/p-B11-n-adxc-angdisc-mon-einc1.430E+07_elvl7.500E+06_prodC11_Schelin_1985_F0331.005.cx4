@@ -1,0 +1,29 @@
+# EXFOR #         : F0331.005  
+# EXFOR Ver.      : 20210629
+# TRANS #         : F086
+# Author          : H.R.Schelin et al.
+# Reference       : Nucl.Sci.Eng. 89 (1985) 87
+# DOI             : 10.13182/NSE85-A17886
+# Quantity        : 11B(p,n)11C partial angular differential cross section
+# REACTION        : 5-B-11(P,N)6-C-11,PAR,DA
+# File ID         : p-B11-n-adxc-angdisc-mon-einc1.430E+07_elvl7.500E+06_prodC11_Schelin_1985_f0331.005
+#
+# Einc (eV)       :   1.4300E+07
+# Elvl (eV)       :   7.5000E+06
+#
+# npts            : 5           
+# xmin            :   40.8000000
+# xmax            :   83.9000000
+# ymin            :   2.5700E-04
+# ymax            :   3.4900E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.8000000   0.0000000  3.1200E-04  3.6700E-05
+  51.2000000   0.0000000  3.4900E-04  0.0000E+00
+  61.5000000   0.0000000  3.2100E-04  0.0000E+00
+  73.6000000   0.0000000  2.6500E-04  0.0000E+00
+  83.9000000   0.0000000  2.5700E-04  4.6600E-05
+#---------------------------------------------------

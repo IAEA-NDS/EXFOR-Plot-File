@@ -1,0 +1,22 @@
+# EXFOR #         : D4104.009  
+# EXFOR Ver.      : 20210929
+# TRANS #         : D132
+# Author          : R.L.Wilson et al.
+# Reference       : Phys.Rev.C 13 (1976) 976
+# DOI             : 10.1103/PhysRevC.13.976
+# Quantity        : 27Al(p,2n)26Si cross section
+# REACTION        : 13-AL-27(P,2N)14-SI-26,,SIG
+# File ID         : p-Al27-2n-sig-excfun-mon-prodSi26_Wilson_1976_d4104.009
+#
+# npts            : 1           
+# xmin            :   2.6350E+07
+# xmax            :   2.6350E+07
+# ymin            :   5.0000E-04
+# ymax            :   5.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6350E+07  3.5000E+05  5.0000E-04  1.0000E-04
+#---------------------------------------------------

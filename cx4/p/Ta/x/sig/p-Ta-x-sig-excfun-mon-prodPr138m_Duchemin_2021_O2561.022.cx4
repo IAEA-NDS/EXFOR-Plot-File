@@ -1,0 +1,26 @@
+# EXFOR #         : O2561.022  
+# EXFOR Ver.      : 20230219
+# TRANS #         : O094
+# Author          : C.Duchemin et al.
+# Reference       : Appl.Radiat.Isot. 178 (2021) 109983
+# DOI             : 10.1016/j.apradiso.2021.109983
+# Quantity        : natTa(p,x)138mPr independent production cross section
+# REACTION        : 73-TA-0(P,X)59-PR-138-M,,SIG
+# File ID         : p-Ta-x-sig-excfun-mon-prodPr138m_Duchemin_2021_o2561.022
+#
+# npts            : 5           
+# xmin            :   7.0000E+08
+# xmax            :   1.7000E+09
+# ymin            :   4.7000E-04
+# ymax            :   2.1200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.0000E+08  0.0000E+00  4.7000E-04  1.8000E-04
+  1.0000E+09  0.0000E+00  1.3000E-03  3.1000E-04
+  1.1000E+09  0.0000E+00  1.0400E-03  2.9000E-04
+  1.3000E+09  0.0000E+00  1.7100E-03  2.9000E-04
+  1.7000E+09  0.0000E+00  2.1200E-03  3.3000E-04
+#---------------------------------------------------

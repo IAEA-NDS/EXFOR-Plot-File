@@ -1,0 +1,25 @@
+# EXFOR #         : C0273.010  
+# EXFOR Ver.      : 19871120
+# TRANS #         : 0000
+# Author          : C.G.Heininger et al.
+# Reference       : Phys.Rev. 101 (1956) 1074
+# DOI             : 10.1103/PhysRev.101.1074
+# Quantity        : natV(p,x)47Ca independent production cross section
+# REACTION        : 23-V-0(P,X)20-CA-47,,SIG
+# File ID         : p-V-x-sig-excfun-mon-prodCa47_Heininger_1956_c0273.010
+#
+# npts            : 4           
+# xmin            :   6.0000E+07
+# xmax            :   2.4000E+08
+# ymin            :   1.1000E-05
+# ymax            :   1.4000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+07  0.0000E+00  1.1000E-05  0.0000E+00
+  1.0000E+08  0.0000E+00  9.0000E-05  2.0000E-05
+  1.7500E+08  0.0000E+00  7.0000E-05  4.0000E-05
+  2.4000E+08  0.0000E+00  1.4000E-04  5.0000E-05
+#---------------------------------------------------

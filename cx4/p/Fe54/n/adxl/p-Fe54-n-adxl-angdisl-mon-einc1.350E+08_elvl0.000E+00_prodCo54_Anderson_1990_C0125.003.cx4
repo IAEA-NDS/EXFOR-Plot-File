@@ -1,0 +1,30 @@
+# EXFOR #         : C0125.003  
+# EXFOR Ver.      : 19970317
+# TRANS #         : 0000
+# Author          : B.D.Anderson et al.
+# Reference       : Phys.Rev.C 41 (1990) 1474
+# DOI             : 10.1103/PhysRevC.41.1474
+# Quantity        : 54Fe(p,n)54Co partial angular differential cross section
+# REACTION        : 26-FE-54(P,N)27-CO-54,PAR,DA
+# File ID         : p-Fe54-n-adxl-angdisl-mon-einc1.350E+08_elvl0.000E+00_prodCo54_Anderson_1990_c0125.003
+#
+# Einc (eV)       :   1.3500E+08
+# Elvl (eV)       :   0.0000E+00
+# dElvl (eV)      :   2.4500E+05
+#
+# npts            : 5           
+# xmin            :    0.2000000
+# xmax            :   24.3100000
+# ymin            :   6.3170E-06
+# ymax            :   1.5150E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.2000000   0.0000000  1.5150E-03  1.6540E-05
+   5.7700000   0.0000000  7.4770E-04  9.3440E-06
+  11.8500000   0.0000000  1.4830E-04  9.8600E-06
+  17.3700000   0.0000000  6.5860E-05  5.2240E-06
+  24.3100000   0.0000000  6.3170E-06  6.2550E-06
+#---------------------------------------------------

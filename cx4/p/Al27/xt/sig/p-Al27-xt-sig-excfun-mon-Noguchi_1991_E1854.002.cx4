@@ -1,0 +1,22 @@
+# EXFOR #         : E1854.002  
+# EXFOR Ver.      : 20040311
+# TRANS #         : 0000
+# Author          : M.Noguchi et al.
+# Reference       : Appl.Radiat.Isot. 42 No.6 (1991) 577
+# DOI             : 10.1016/0883-2889(91)90165-W
+# Quantity        : 27Al(p,t+x) cross section
+# REACTION        : 13-AL-27(P,X)1-H-3,,SIG
+# File ID         : p-Al27-xt-sig-excfun-mon-Noguchi_1991_e1854.002
+#
+# npts            : 1           
+# xmin            :   1.2000E+10
+# xmax            :   1.2000E+10
+# ymin            :   5.5000E-02
+# ymax            :   5.5000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.2000E+10  0.0000E+00  5.5000E-02  8.0000E-03
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : B0012.010  
+# EXFOR Ver.      : 20011220
+# TRANS #         : 0000
+# Author          : Y.W.Yu et al.
+# Reference       : Phys.Rev.C 8 (1973) 1091
+# DOI             : 10.1103/PhysRevC.8.1091
+# Quantity        : 238U(p,f)131Xe cumulative production cross section
+# REACTION        : 92-U-238(P,F)54-XE-131,CUM,SIG,,,EXP
+# File ID         : p-U238-x-sigc-excfun-mon-prodXe131_Yu_1973_b0012.010
+#
+# npts            : 1           
+# xmin            :   1.1500E+10
+# xmax            :   1.1500E+10
+# ymin            :   2.3300E-02
+# ymax            :   2.3300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1500E+10  0.0000E+00  2.3300E-02  2.3000E-03
+#---------------------------------------------------

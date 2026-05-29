@@ -1,0 +1,23 @@
+# EXFOR #         : E2770.007  
+# EXFOR Ver.      : 20231202
+# TRANS #         : E141
+# Author          : H.Matsuda et al.
+# Reference       : EPJ Web Conf. 239 (2020) 06004
+# DOI             : 10.1051/epjconf/202023906004
+# Quantity        : natPb(p,x)169Yb cumulative production cross section
+# REACTION        : 82-PB-0(P,X)70-YB-169,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodYb169_Matsuda_2020_e2770.007
+#
+# npts            : 2           
+# xmin            :   2.2000E+09
+# xmax            :   3.0000E+09
+# ymin            :   1.8087E-02
+# ymax            :   2.2797E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.2000E+09  0.0000E+00  2.2797E-02  8.5391E-04
+  3.0000E+09  0.0000E+00  1.8087E-02  6.7823E-04
+#---------------------------------------------------

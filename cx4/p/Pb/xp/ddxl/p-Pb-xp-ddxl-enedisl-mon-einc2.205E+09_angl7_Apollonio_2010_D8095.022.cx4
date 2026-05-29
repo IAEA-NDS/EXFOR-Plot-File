@@ -1,0 +1,29 @@
+# EXFOR #         : D8095.022  
+# EXFOR Ver.      : 20240626
+# TRANS #         : D143
+# Author          : M.Apollonio et al.
+# Reference       : Phys.Rev.C 82 (2010) 045208
+# DOI             : 10.1103/PhysRevC.82.045208
+# Quantity        : natPb(p,p+x) double differential cross section
+# REACTION        : 82-PB-0(P,X)1-H-1,,DA/DP
+# File ID         : p-Pb-xp-ddxl-enedisl-mon-einc2.205E+09_angl7_Apollonio_2010_d8095.022
+#
+# Einc (eV)       :   2.2047E+09
+# theta,lab (deg) :    7.1620000
+# dtheta,lab (deg):    1.4324000
+#
+# npts            : 4           
+# xmin            :   2.1274E+09
+# xmax            :   3.3667E+09
+# ymin            :   4.8670E-10
+# ymax            :   1.1522E-09
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   ddx,lab     dddx,lab    
+#  eV          eV          b/sr/eV     b/sr/eV    
+#---------------------------------------------------
+  2.1274E+09  8.8136E+07  8.0950E-10  2.7440E-10
+  2.4904E+09  1.2548E+08  1.1522E-09  2.6490E-10
+  2.9140E+09  1.5014E+08  5.7700E-10  1.9230E-10
+  3.3667E+09  1.6708E+08  4.8670E-10  1.2480E-10
+#---------------------------------------------------

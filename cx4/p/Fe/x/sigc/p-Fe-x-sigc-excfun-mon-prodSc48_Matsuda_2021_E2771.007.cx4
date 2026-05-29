@@ -1,0 +1,25 @@
+# EXFOR #         : E2771.007  
+# EXFOR Ver.      : 20240314
+# TRANS #         : E141
+# Author          : H.Matsuda et al.
+# Reference       : JPS Conf.Proc. 33 (2021) 011047
+# DOI             : N/A
+# Quantity        : natFe(p,x)48Sc cumulative production cross section
+# REACTION        : 26-FE-0(P,X)21-SC-48,CUM,SIG
+# File ID         : p-Fe-x-sigc-excfun-mon-prodSc48_Matsuda_2021_e2771.007
+#
+# npts            : 4           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   3.1651E-04
+# ymax            :   5.1185E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  3.1651E-04  1.0782E-05
+  1.3000E+09  0.0000E+00  5.1185E-04  1.7047E-05
+  2.2000E+09  0.0000E+00  4.4925E-04  1.4990E-05
+  3.0000E+09  0.0000E+00  4.6087E-04  1.5285E-05
+#---------------------------------------------------

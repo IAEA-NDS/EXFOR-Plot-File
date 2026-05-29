@@ -1,0 +1,25 @@
+# EXFOR #         : C0244.005  
+# EXFOR Ver.      : 20250611
+# TRANS #         : C250
+# Author          : S.S.Markowitz et al.
+# Reference       : Phys.Rev. 112 (1958) 1295
+# DOI             : 10.1103/PhysRev.112.1295
+# Quantity        : 58Ni(p,x)57Ni independent production cross section
+# REACTION        : 28-NI-58(P,X)28-NI-57,,SIG
+# File ID         : p-Ni58-x-sig-excfun-mon-prodNi57_Markowitz_1958_c0244.005
+#
+# npts            : 4           
+# xmin            :   4.0000E+08
+# xmax            :   3.0000E+09
+# ymin            :   3.6000E-02
+# ymax            :   5.2000E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0000E+08  0.0000E+00  5.2000E-02  5.2000E-03
+  4.0000E+08  0.0000E+00  4.7000E-02  4.7000E-03
+  3.0000E+09  0.0000E+00  3.9000E-02  3.9000E-03
+  3.0000E+09  0.0000E+00  3.6000E-02  3.6000E-03
+#---------------------------------------------------

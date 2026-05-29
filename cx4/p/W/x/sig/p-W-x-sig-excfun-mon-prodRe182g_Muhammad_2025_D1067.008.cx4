@@ -1,0 +1,24 @@
+# EXFOR #         : D1067.008  
+# EXFOR Ver.      : 20250409
+# TRANS #         : D149
+# Author          : N.Muhammad et al.
+# Reference       : Radiochim.Acta 113 (2025) 9
+# DOI             : 10.1515/ract-2024-0310
+# Quantity        : natW(p,x)182gRe independent production cross section
+# REACTION        : 74-W-0(P,X)75-RE-182-G,,SIG
+# File ID         : p-W-x-sig-excfun-mon-prodRe182g_Muhammad_2025_d1067.008
+#
+# npts            : 3           
+# xmin            :   6.2500E+06
+# xmax            :   7.4400E+06
+# ymin            :   1.3000E-04
+# ymax            :   1.0400E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.4400E+06  5.6000E+05  1.0400E-03  7.0000E-04
+  6.8100E+06  5.9000E+05  7.8000E-04  1.0200E-03
+  6.2500E+06  6.3000E+05  1.3000E-04  3.0000E-05
+#---------------------------------------------------

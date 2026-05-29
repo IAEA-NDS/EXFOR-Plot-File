@@ -1,0 +1,27 @@
+# EXFOR #         : F0812.004  
+# EXFOR Ver.      : 20220427
+# TRANS #         : F090
+# Author          : E.Warde et al.
+# Reference       : Phys.Rev.C 27 (1983) 98
+# DOI             : 10.1103/PhysRevC.27.98
+# Quantity        : 181Ta(p,d)180Ta partial angular differential cross section
+# REACTION        : 73-TA-181(P,D)73-TA-180,PAR,DA
+# File ID         : p-Ta181-d-adxl-angdisl-mon-einc1.900E+07_elvl1.730E+05_prodTa180_Warde_1983_f0812.004
+#
+# Einc (eV)       :   1.9000E+07
+# Elvl (eV)       :   1.7300E+05
+#
+# npts            : 3           
+# xmin            :   15.0000000
+# xmax            :   65.0000000
+# ymin            :   1.4000E-05
+# ymax            :   4.3000E-05
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  15.0000000   0.0000000  1.4000E-05  0.0000E+00
+  45.0000000   0.0000000  3.4000E-05  0.0000E+00
+  65.0000000   0.0000000  4.3000E-05  0.0000E+00
+#---------------------------------------------------

@@ -1,0 +1,22 @@
+# EXFOR #         : B0085.127  
+# EXFOR Ver.      : 20240425
+# TRANS #         : B036
+# Author          : J.E.Cline et al.
+# Reference       : Nucl.Phys.A 169 (1971) 437
+# DOI             : 10.1016/0375-9474(71)90897-9
+# Quantity        : natCu(p,x)48Cr cumulative production cross section
+# REACTION        : 29-CU-0(P,X)24-CR-48,CUM,SIG
+# File ID         : p-Cu-x-sigc-excfun-mon-prodCr48_Cline_1971_b0085.127
+#
+# npts            : 1           
+# xmin            :   5.9000E+08
+# xmax            :   5.9000E+08
+# ymin            :   5.1000E-04
+# ymax            :   5.1000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.9000E+08  0.0000E+00  5.1000E-04  8.0000E-05
+#---------------------------------------------------

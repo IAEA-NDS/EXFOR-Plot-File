@@ -1,0 +1,30 @@
+# EXFOR #         : C2823.003  
+# EXFOR Ver.      : 20221003
+# TRANS #         : C229
+# Author          : S.M.Grimes et al.
+# Reference       : Phys.Rev.C 3 (1971) 645
+# DOI             : 10.1103/PhysRevC.3.645
+# Quantity        : 59Co(p,n)59Ni partial angular differential cross section
+# REACTION        : 27-CO-59(P,N)28-NI-59,PAR,DA
+# File ID         : p-Co59-n-adxc-angdisc-mon-einc1.470E+07_elvl1.825E+06_prodNi59_Grimes_1971_c2823.003
+#
+# Einc (eV)       :   1.4700E+07
+# Elvl (eV)       :   1.8250E+06
+# dElvl (eV)      :   1.3500E+05
+#
+# npts            : 5           
+# xmin            :   12.5781100
+# xmax            :  133.0001000
+# ymin            :   2.7440E-05
+# ymax            :   6.6580E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+ 133.0001000   0.0000000  2.7440E-05  6.3610E-06
+ 104.7735000   0.0000000  3.5000E-05  7.6990E-06
+  74.8705900   0.0000000  4.5750E-05  8.1320E-06
+  44.3568000   0.0000000  5.0330E-05  9.8980E-06
+  12.5781100   0.0000000  6.6580E-05  1.2330E-05
+#---------------------------------------------------

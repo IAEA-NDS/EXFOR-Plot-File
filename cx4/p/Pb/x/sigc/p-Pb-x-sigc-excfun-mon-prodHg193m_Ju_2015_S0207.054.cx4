@@ -1,0 +1,22 @@
+# EXFOR #         : S0207.054  
+# EXFOR Ver.      : 20181214
+# TRANS #         : S025
+# Author          : Y.Q.Ju et al.
+# Reference       : J.Phys.G 42 (2015) 125102
+# DOI             : 10.1088/0954-3899/42/12/125102
+# Quantity        : natPb(p,x)193mHg cumulative production cross section
+# REACTION        : 82-PB-0(P,X)80-HG-193-M,CUM,SIG
+# File ID         : p-Pb-x-sigc-excfun-mon-prodHg193m_Ju_2015_s0207.054
+#
+# npts            : 1           
+# xmin            :   2.5000E+08
+# xmax            :   2.5000E+08
+# ymin            :   1.7910E-02
+# ymax            :   1.7910E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+08  0.0000E+00  1.7910E-02  6.4000E-04
+#---------------------------------------------------

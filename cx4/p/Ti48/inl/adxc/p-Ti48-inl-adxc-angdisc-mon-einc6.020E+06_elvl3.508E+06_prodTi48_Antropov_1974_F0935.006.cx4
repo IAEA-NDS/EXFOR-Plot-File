@@ -1,0 +1,25 @@
+# EXFOR #         : F0935.006  
+# EXFOR Ver.      : 20080520
+# TRANS #         : F032
+# Author          : A.E.Antropov et al.
+# Reference       : Izv.Ross.AN,Fiz. 38 (1974) 2167
+# DOI             : N/A
+# Quantity        : 48Ti(p,inl)48Ti partial angular differential cross section
+# REACTION        : 22-TI-48(P,INL)22-TI-48,PAR,DA
+# File ID         : p-Ti48-inl-adxc-angdisc-mon-einc6.020E+06_elvl3.508E+06_prodTi48_Antropov_1974_f0935.006
+#
+# Einc (eV)       :   6.0200E+06
+# Elvl (eV)       :   3.5080E+06
+#
+# npts            : 1           
+# xmin            :   60.0000000
+# xmax            :   60.0000000
+# ymin            :   4.0000E-05
+# ymax            :   4.0000E-05
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  60.0000000   0.0000000  4.0000E-05  1.0000E-05
+#---------------------------------------------------

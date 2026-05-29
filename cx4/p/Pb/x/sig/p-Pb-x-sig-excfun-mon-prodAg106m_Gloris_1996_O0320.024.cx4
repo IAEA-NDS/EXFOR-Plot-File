@@ -1,0 +1,22 @@
+# EXFOR #         : O0320.024  
+# EXFOR Ver.      : 19990712
+# TRANS #         : 0000
+# Author          : M.Gloris et al.
+# Reference       : Nucl.Instrum.Meth.B 113 (1996) 429
+# DOI             : 10.1016/0168-583X(95)01325-3
+# Quantity        : natPb(p,x)106mAg independent production cross section
+# REACTION        : 82-PB-0(P,X)47-AG-106-M,,SIG
+# File ID         : p-Pb-x-sig-excfun-mon-prodAg106m_Gloris_1996_o0320.024
+#
+# npts            : 1           
+# xmin            :   1.6000E+09
+# xmax            :   1.6000E+09
+# ymin            :   1.0200E-03
+# ymax            :   1.0200E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6000E+09  0.0000E+00  1.0200E-03  1.6000E-04
+#---------------------------------------------------

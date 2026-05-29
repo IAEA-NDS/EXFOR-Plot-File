@@ -1,0 +1,26 @@
+# EXFOR #         : C0289.003  
+# EXFOR Ver.      : 19961010
+# TRANS #         : 0000
+# Author          : J.Hudis et al.
+# Reference       : Phys.Rev. 129 (1963) 434
+# DOI             : 10.1103/PhysRev.129.434
+# Quantity        : natCu(p,x) independent production cross section
+# REACTION        : 29-CU-0(P,X)ELEM/MASS,,SIG
+# File ID         : p-Cu-x-sig-nucdis-mon-einc6.000E+09_Hudis_1963_c0289.003
+#
+# Einc (eV)       :   6.0000E+09
+#
+# npts            : 3           
+# xmin            : 4007.9      
+# xmax            : 11024.9     
+# ymin            :   2.3000E-03
+# ymax            :   9.3000E-03
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+     11024.9  3.4000E-03  0.0000E+00
+     11022.9  2.3000E-03  0.0000E+00
+      4007.9  9.3000E-03  0.0000E+00
+#---------------------------------------------------

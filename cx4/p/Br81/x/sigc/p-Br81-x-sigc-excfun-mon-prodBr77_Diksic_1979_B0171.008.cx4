@@ -1,0 +1,26 @@
+# EXFOR #         : B0171.008  
+# EXFOR Ver.      : 20180518
+# TRANS #         : B027
+# Author          : M.Diksic et al.
+# Reference       : Phys.Rev.C 19 (1979) 1753
+# DOI             : 10.1103/PhysRevC.19.1753
+# Quantity        : 81Br(p,x)77Br cumulative production cross section
+# REACTION        : 35-BR-81(P,X)35-BR-77,(CUM),SIG
+# File ID         : p-Br81-x-sigc-excfun-mon-prodBr77_Diksic_1979_b0171.008
+#
+# npts            : 5           
+# xmin            :   4.5000E+07
+# xmax            :   8.5000E+07
+# ymin            :   4.5000E-03
+# ymax            :   1.2000E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.5000E+07  2.0000E+06  4.5000E-03  2.2000E-03
+  5.5000E+07  2.0000E+06  9.6000E-02  1.2000E-02
+  6.5000E+07  2.0000E+06  1.1000E-01  1.4000E-02
+  7.5000E+07  2.0000E+06  1.2000E-01  1.3000E-02
+  8.5000E+07  2.0000E+06  1.0000E-01  9.0000E-03
+#---------------------------------------------------

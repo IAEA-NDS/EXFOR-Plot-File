@@ -1,0 +1,30 @@
+# EXFOR #         : F1396.004  
+# EXFOR Ver.      : 20190822
+# TRANS #         : F073
+# Author          : S.S.Vasil'ev et al.
+# Reference       : Zh.Eksp.Teor.Fiz. 42 (1962) 395
+# DOI             : N/A
+# Quantity        : 55Mn(p,inl)55Mn partial angular differential cross section
+# REACTION        : 25-MN-55(P,INL)25-MN-55,PAR,DA
+# File ID         : p-Mn55-inl-adxc-angdisc-mon-einc6.600E+06_elvl1.523E+06_prodMn55_Vasilev_1962_f1396.004
+#
+# Einc (eV)       :   6.6000E+06
+# Elvl (eV)       :   1.5230E+06
+# dElvl (eV)      :   7.0000E+03
+#
+# npts            : 5           
+# xmin            :   47.3310000
+# xmax            :  136.6200000
+# ymin            :   7.0710E-04
+# ymax            :   9.8180E-04
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  47.3310000   0.0000000  9.2610E-04  1.8390E-04
+  64.9870000   0.0000000  9.4200E-04  2.1150E-04
+  79.4950000   0.0000000  7.5070E-04  1.8390E-04
+  89.7460000   0.0000000  9.8180E-04  2.0690E-04
+ 136.6200000   0.0000000  7.0710E-04  1.9310E-04
+#---------------------------------------------------

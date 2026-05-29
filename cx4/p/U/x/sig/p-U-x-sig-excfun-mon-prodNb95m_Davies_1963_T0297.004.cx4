@@ -1,0 +1,23 @@
+# EXFOR #         : T0297.004  
+# EXFOR Ver.      : 20040719
+# TRANS #         : T018
+# Author          : J.H.Davies et al.
+# Reference       : Can.J.Phys. 41 (1963) 762
+# DOI             : 10.1139/p63-082
+# Quantity        : natU(p,f)95mNb independent production cross section
+# REACTION        : 92-U-0(P,F)41-NB-95-M,IND,SIG
+# File ID         : p-U-x-sig-excfun-mon-prodNb95m_Davies_1963_t0297.004
+#
+# npts            : 2           
+# xmin            :   6.5000E+07
+# xmax            :   8.0000E+07
+# ymin            :   2.0000E-04
+# ymax            :   8.0000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.5000E+07  0.0000E+00  2.0000E-04  5.0000E-05
+  8.0000E+07  0.0000E+00  8.0000E-04  2.0000E-04
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : A0904.164  
+# EXFOR Ver.      : 20220323
+# TRANS #         : A099
+# Author          : Yu.E.Titarenko et al.
+# Reference       : Phys.At.Nucl. 74 (2011) 551
+# DOI             : 10.1134/S1063778811040181
+# Quantity        : natW(p,x)144Pm independent production cross section
+# REACTION        : 74-W-0(P,X)61-PM-144,,SIG
+# File ID         : p-W-x-sig-excfun-mon-prodPm144_Titarenko_2011_a0904.164
+#
+# npts            : 3           
+# xmin            :   1.1990E+09
+# xmax            :   2.6050E+09
+# ymin            :   4.6400E-04
+# ymax            :   5.5200E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1990E+09  3.0000E+06  4.6400E-04  4.9000E-05
+  1.5990E+09  4.0000E+06  5.5200E-04  5.5000E-05
+  2.6050E+09  8.0000E+06  5.4200E-04  5.3000E-05
+#---------------------------------------------------

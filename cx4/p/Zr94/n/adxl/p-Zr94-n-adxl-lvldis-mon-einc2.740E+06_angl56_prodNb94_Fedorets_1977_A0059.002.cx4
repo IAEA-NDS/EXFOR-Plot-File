@@ -1,0 +1,31 @@
+# EXFOR #         : A0059.002  
+# EXFOR Ver.      : 20140310
+# TRANS #         : A081
+# Author          : I.D.Fedorets et al.
+# Reference       : B.Russ.Ac.Sci.Phys. 41 No.8 (1977) 110
+# DOI             : N/A
+# Quantity        : 94Zr(p,n)94Nb partial angular differential cross section
+# REACTION        : 40-ZR-94(P,N)41-NB-94,PAR,DA,,4PI
+# File ID         : p-Zr94-n-adxl-lvldis-mon-einc2.740E+06_angl56_prodNb94_Fedorets_1977_a0059.002
+#
+# Einc (eV)       :   2.7400E+06
+# theta,lab (deg) :   56.0000000
+#
+# npts            : 7           
+# xmin            :   1.4040E+05
+# xmax            :   7.9270E+05
+# ymin            :   1.6154E-07
+# ymax            :   1.5120E-05
+#
+#---------------------------------------------------
+# Elvl        dElvl       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.4040E+05  0.0000E+00  1.5120E-05  1.9894E-06
+  3.3420E+05  0.0000E+00  5.0930E-06  7.9577E-07
+  3.9630E+05  0.0000E+00  1.4563E-06  3.5810E-07
+  4.5020E+05  0.0000E+00  6.0479E-06  8.7535E-07
+  6.6600E+05  0.0000E+00  3.4218E-06  7.1620E-07
+  7.8500E+05  0.0000E+00  1.6154E-07  4.3768E-07
+  7.9270E+05  0.0000E+00  3.2627E-07  7.9577E-08
+#---------------------------------------------------

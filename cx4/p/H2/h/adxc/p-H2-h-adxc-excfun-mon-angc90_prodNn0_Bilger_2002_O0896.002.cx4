@@ -1,0 +1,27 @@
+# EXFOR #         : O0896.002  
+# EXFOR Ver.      : 20040326
+# TRANS #         : 0000
+# Author          : R.Bilger et al.
+# Reference       : Phys.Rev.C 65 (2002) 044608
+# DOI             : 10.1103/PhysRevC.65.044608
+# Quantity        : 2H(p,he3)natEt angular differential cross section
+# REACTION        : 1-H-2(P,HE3)0-ET-0,,DA
+# File ID         : p-H2-h-adxc-excfun-mon-angc90_prodNn0_Bilger_2002_o0896.002
+#
+# theta,cm (deg)  :   90.0000000
+#
+# npts            : 4           
+# xmin            :   9.3000E+08
+# xmax            :   1.1000E+09
+# ymin            :   2.8600E-08
+# ymax            :   4.1900E-08
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.3000E+08  0.0000E+00  2.8600E-08  7.0000E-10
+  9.6500E+08  0.0000E+00  4.1900E-08  7.0000E-10
+  1.0370E+09  0.0000E+00  3.9100E-08  8.0000E-10
+  1.1000E+09  0.0000E+00  3.8600E-08  1.1000E-09
+#---------------------------------------------------

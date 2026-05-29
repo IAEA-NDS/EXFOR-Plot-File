@@ -1,0 +1,27 @@
+# EXFOR #         : O1296.012  
+# EXFOR Ver.      : 20060529
+# TRANS #         : O026
+# Author          : P.Demetriou et al.
+# Reference       : Phys.Rev.C 72 (2005) 034607
+# DOI             : 10.1103/PhysRevC.72.034607
+# Quantity        : natSi(p,t+x) energy differential cross section
+# REACTION        : 14-SI-0(P,X)1-H-3,,DE
+# File ID         : p-Si-xt-edxl-enedisl-mon-einc2.650E+07_Demetriou_2005_o1296.012
+#
+# Einc (eV)       :   2.6500E+07
+#
+# npts            : 4           
+# xmin            :   3.4500E+06
+# xmax            :   4.3500E+06
+# ymin            :   5.6000E-11
+# ymax            :   2.0400E-10
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   edx,lab     dedx,lab    
+#  eV          eV          b/eV        b/eV       
+#---------------------------------------------------
+  3.4500E+06  0.0000E+00  5.6000E-11  1.8000E-11
+  3.7500E+06  0.0000E+00  2.0400E-10  4.1000E-11
+  4.0500E+06  0.0000E+00  1.5300E-10  6.7000E-11
+  4.3500E+06  0.0000E+00  1.4200E-10  2.6000E-11
+#---------------------------------------------------

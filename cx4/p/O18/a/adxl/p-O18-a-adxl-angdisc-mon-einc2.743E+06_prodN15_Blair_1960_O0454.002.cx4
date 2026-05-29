@@ -1,0 +1,25 @@
+# EXFOR #         : O0454.002  
+# EXFOR Ver.      : 20010208
+# TRANS #         : 0000
+# Author          : J.M.Blair et al.
+# Reference       : Phys.Rev. 118 (1960) 495
+# DOI             : 10.1103/PhysRev.118.495
+# Quantity        : 18O(p,a)15N angular differential cross section
+# REACTION        : 8-O-18(P,A)7-N-15,,DA
+# File ID         : p-O18-a-adxl-angdisc-mon-einc2.743E+06_prodN15_Blair_1960_o0454.002
+#
+# Einc (eV)       :   2.7430E+06
+# dEinc (eV)      :   1.1000E+03
+#
+# npts            : 1           
+# xmin            :   94.0000000
+# xmax            :   94.0000000
+# ymin            :   6.6400E-03
+# ymax            :   6.6400E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  94.0000000   0.0000000  6.6400E-03  2.0000E-04
+#---------------------------------------------------

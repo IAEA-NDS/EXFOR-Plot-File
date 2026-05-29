@@ -1,0 +1,27 @@
+# EXFOR #         : D0628.023.2
+# EXFOR Ver.      : 20130602
+# TRANS #         : D089
+# Author          : K.Goebel et al.
+# Reference       : Report CERN-64-12, 1964
+# DOI             : N/A
+# Quantity        : 209Bi(p,x) independent production cross section
+# REACTION        : 83-BI-209(P,X)ELEM/MASS,,SIG
+# File ID         : p-Bi209-x-sig-nucdis-mon-einc6.000E+08_Goebel_1964_d0628.023.2
+#
+# Einc (eV)       :   6.0000E+08
+#
+# npts            : 4           
+# xmin            : 2003.9      
+# xmax            : 18038.9     
+# ymin            :   5.0000E-05
+# ymax            :   3.5000E-01
+#
+#---------------------------------------------------
+# Product     sig         dsig        
+#              b           b          
+#---------------------------------------------------
+      2003.9  2.2000E-02  0.0000E+00
+      2004.9  3.5000E-01  0.0000E+00
+     10021.9  5.0000E-05  0.0000E+00
+     18038.9  5.0000E-05  0.0000E+00
+#---------------------------------------------------

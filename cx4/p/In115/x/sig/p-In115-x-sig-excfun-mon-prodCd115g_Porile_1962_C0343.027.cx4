@@ -1,0 +1,23 @@
+# EXFOR #         : C0343.027  
+# EXFOR Ver.      : 20111118
+# TRANS #         : C113
+# Author          : N.T.Porile
+# Reference       : Phys.Rev. 128 (1962) 1916
+# DOI             : 10.1103/PhysRev.128.1916
+# Quantity        : 115In(p,x)115gCd independent production cross section
+# REACTION        : 49-IN-115(P,X)48-CD-115-G,,SIG
+# File ID         : p-In115-x-sig-excfun-mon-prodCd115g_Porile_1962_c0343.027
+#
+# npts            : 2           
+# xmin            :   2.9000E+09
+# xmax            :   3.0000E+10
+# ymin            :   2.3000E-05
+# ymax            :   4.8000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+10  0.0000E+00  2.3000E-05  0.0000E+00
+  2.9000E+09  0.0000E+00  4.8000E-05  0.0000E+00
+#---------------------------------------------------

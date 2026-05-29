@@ -1,0 +1,25 @@
+# EXFOR #         : C0395.005  
+# EXFOR Ver.      : 20181010
+# TRANS #         : C179
+# Author          : F.Yiou et al.
+# Reference       : J.Geophys.Res. 74 (1969) 2447
+# DOI             : 10.1029/JA074i009p02447
+# Quantity        : 16O(p,x) cumulative production cross section
+# REACTION        : 8-O-16(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-O16-x-sigc-nucdis-mon-einc1.350E+08_Yiou_1969_c0395.005
+#
+# Einc (eV)       :   1.3500E+08
+#
+# npts            : 2           
+# xmin            : 5010.9      
+# xmax            : 5011.9      
+# ymin            :   1.1000E-02
+# ymax            :   2.5000E-02
+#
+#---------------------------------------------------
+# Product     sig,cum     dsig,cum    
+#              b           b          
+#---------------------------------------------------
+      5010.9  1.1000E-02  3.0000E-03
+      5011.9  2.5000E-02  8.0000E-03
+#---------------------------------------------------

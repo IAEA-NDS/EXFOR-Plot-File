@@ -1,0 +1,26 @@
+# EXFOR #         : O1897.002.2
+# EXFOR Ver.      : 20160720
+# TRANS #         : O058
+# Author          : A.Sauerwein et al.
+# Reference       : Report (proceedings) AIP-1377 page 423, 2011
+# DOI             : N/A
+# Quantity        : 92Mo(p,g)93gTc cumulative production cross section
+# REACTION        : 42-MO-92(P,G)43-TC-93-G,(M),SIG
+# File ID         : p-Mo92-x-sigc-excfun-mon-prodTc93g_Sauerwein_2011_o1897.002.2
+#
+# npts            : 5           
+# xmin            :   2.4246E+06
+# xmax            :   3.4652E+06
+# ymin            :   1.0100E-05
+# ymax            :   8.9600E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.4246E+06  2.4500E+04  1.5910E-05  1.5900E-06
+  2.5720E+06  2.4500E+04  1.0100E-05  1.9300E-06
+  2.8697E+06  2.4500E+04  1.8470E-05  2.0100E-06
+  3.2653E+06  2.4500E+04  7.2360E-05  7.8800E-06
+  3.4652E+06  2.4500E+04  8.9600E-05  8.1500E-06
+#---------------------------------------------------

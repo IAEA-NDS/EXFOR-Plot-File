@@ -1,0 +1,27 @@
+# EXFOR #         : O0292.002  
+# EXFOR Ver.      : 20191228
+# TRANS #         : O073
+# Author          : F.E.Bertrand et al.
+# Reference       : Report ORNL-4455, 1969
+# DOI             : N/A
+# Quantity        : 27Al(p,el)27Al angular differential cross section
+# REACTION        : 13-AL-27(P,EL)13-AL-27,,DA
+# File ID         : p-Al27-el-adxl-angdisl-mon-einc2.880E+07_prodAl27_Bertrand_1969_o0292.002
+#
+# Einc (eV)       :   2.8800E+07
+# dEinc (eV)      :   1.0000E+05
+#
+# npts            : 3           
+# xmin            :   11.0000000
+# xmax            :   60.0000000
+# ymin            :   3.8000E-02
+# ymax            :   3.2400E+00
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  11.0000000   0.0000000  3.2400E+00  6.9700E-03
+  30.0000000   0.0000000  1.6900E-01  6.1000E-04
+  60.0000000   0.0000000  3.8000E-02  1.9000E-04
+#---------------------------------------------------

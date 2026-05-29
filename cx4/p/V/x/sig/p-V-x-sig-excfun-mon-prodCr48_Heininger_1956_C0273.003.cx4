@@ -1,0 +1,25 @@
+# EXFOR #         : C0273.003  
+# EXFOR Ver.      : 19871120
+# TRANS #         : 0000
+# Author          : C.G.Heininger et al.
+# Reference       : Phys.Rev. 101 (1956) 1074
+# DOI             : 10.1103/PhysRev.101.1074
+# Quantity        : natV(p,x)48Cr independent production cross section
+# REACTION        : 23-V-0(P,X)24-CR-48,,SIG
+# File ID         : p-V-x-sig-excfun-mon-prodCr48_Heininger_1956_c0273.003
+#
+# npts            : 4           
+# xmin            :   6.0000E+07
+# xmax            :   2.4000E+08
+# ymin            :   2.6000E-04
+# ymax            :   3.2000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.0000E+07  0.0000E+00  3.2000E-03  9.0000E-04
+  1.0000E+08  0.0000E+00  2.1000E-03  8.0000E-04
+  1.7500E+08  0.0000E+00  2.6000E-04  0.0000E+00
+  2.4000E+08  0.0000E+00  2.9000E-04  5.0000E-05
+#---------------------------------------------------

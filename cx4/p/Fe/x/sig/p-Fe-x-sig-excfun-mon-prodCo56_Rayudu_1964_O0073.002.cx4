@@ -1,0 +1,25 @@
+# EXFOR #         : O0073.002  
+# EXFOR Ver.      : 20201202
+# TRANS #         : O081
+# Author          : G.V.S.Rayudu
+# Reference       : Can.J.Chem. 42 (1964) 1149
+# DOI             : 10.1139/v64-178
+# Quantity        : natFe(p,x)56Co independent production cross section
+# REACTION        : 26-FE-0(P,X)27-CO-56,,SIG
+# File ID         : p-Fe-x-sig-excfun-mon-prodCo56_Rayudu_1964_o0073.002
+#
+# npts            : 4           
+# xmin            :   1.3000E+08
+# xmax            :   3.9600E+08
+# ymin            :   8.9000E-04
+# ymax            :   4.2500E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.3000E+08  1.3000E+07  4.2500E-03  8.5000E-04
+  2.0800E+08  2.0800E+07  2.2600E-03  3.4000E-04
+  2.9700E+08  1.4850E+07  1.5000E-03  2.2000E-04
+  3.9600E+08  1.9800E+07  8.9000E-04  1.3000E-04
+#---------------------------------------------------
