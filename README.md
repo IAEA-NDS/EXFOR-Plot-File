@@ -1,5 +1,5 @@
 # EXFOR Plot File (CX4)
-The EXFOR Plot File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to the CX4 (Compact EXFOR) format via the <a href="../j4">EXFOR JSON File (J4)</a> by the ForEXy package [1]. The CX4 format has (x,$\Delta$ x, y, $\Delta$ y) structure, and its table structure is suitable for plotting. Each CX4 file is provided with a sample plot pdf file. See [2] for the original EXFOR Library.
+The EXFOR Plot File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to the CX4 (Compact EXFOR) format via the <a href="../j4">EXFOR JSON File (J4)</a> by the ForEXy package [1]. The CX4 format has (x, $\Delta$ x, y, $\Delta$ y) structure, and its table structure is suitable for plotting. Each CX4 file is provided with a sample plot pdf file. See [2] for the original EXFOR Library.
 
 **Download**
 
