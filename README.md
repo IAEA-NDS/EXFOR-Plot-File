@@ -1,5 +1,5 @@
 # EXFOR Plot File (CX4)
-The EXFOR Plot File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to CX4 (Compact EXFOR Format) by ForEXy [1]. See [2] for the original EXFOR Library.
+The EXFOR Plot File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to the CX4 (Compact EXFOR) format via the <a href="../j4">EXFOR JSON File (J4)</a> by the ForEXy package [1]. The CX4 format has (x,$\Delta x$, y, $\Delta y$) structure, and its table structure is suitable for plotting. Each CX4 file is provided with a sample plot pdf file. See [2] for the original EXFOR Library.
 
 **Download**
 
@@ -7,6 +7,40 @@ The EXFOR Plot File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-ma
 - download the full repository of the current version by using the terminal command:
 ```
 git clone https://github.com/iaea-nrdcnetwork/exfor-plot-file.git
+```
+
+**Directory structure**
+```
+    +--+--x4_makcxl.log   # update log file
+       +--x4_makcxl.txt   # index file
+       |
+       +--cx4
+          |
+          +--0            # spantaneous fissoin
+          |  |
+          |  +--Bk249       # Bk249(sf)
+          |  ...
+          |
+          +--Ac215        # Ac-215 induced reaction
+          ...
+          +--a            # alpha-particle induced reactoin
+          |  |
+          |  +--Ag          # Ag+a
+          |     |
+          |     +--el         # Ag(a,a0)
+          |        |
+          |        +--adxc      # Ag(a,a0) dsigma/dOmega(cm)
+          |        |  +--a-Ag-..._F0700.004.1.cx4 # EXFOR F0700.004.1 (CX4)
+          |        |  +--a-Ag-..._F0700.004.1.pdf # EXFOR F0700.004.1 (PDF)
+          |        |  +--a-Ag-..._F0700.004.2.cx4 # EXFOR F0700.004.2 (CX4)
+          |        |  +--a-Ag-..._F0700.004.2.pdf # EXFOR F0700.004.2 (PDF)
+          |        |  ...
+          |        |
+          |        +--adxl      # Ag(a,a0) dsigma/dOmega(lab)
+          |           +--a-Ag-..._F1116.002.cx4 # EXFOR F1116.002 (CX4)
+          |           +--a-Ag-..._F1116.002.pdf # EXFOR F1116.002 (PDF)
+          ...
+         
 ```
 
 **Contents**
