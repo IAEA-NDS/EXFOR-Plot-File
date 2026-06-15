@@ -151,5 +151,5 @@ A blank and "-" in author's name are replaced by "%" and "+" in the file name (e
 
 
 ## References
-1. N.Otuka, V.Devi, O.Iwamoto, [Appl.Radiat.Isot.225(2025)111903](https://doi.org/10.1016/j.apradiso.2025.111903) [[pdf](https://doi.org/10.48550/arXiv.2505.03758)].
-2. N.Otuka et al., [Nucl. Data Sheets 120(2014)272](http://dx.doi.org/10.1016/j.nds.2014.07.065) [[pdf](https://doi.org/10.48550/arXiv.2002.07114)].
+1. N. Otuka, V. Devi, O. Iwamoto, [Appl. Radiat. Isot. 225 (2025) 111903](https://doi.org/10.1016/j.apradiso.2025.111903) [[pdf](https://doi.org/10.48550/arXiv.2505.03758)].
+2. N. Otuka et al., [Nucl. Data Sheets 120 (2014) 272](http://dx.doi.org/10.1016/j.nds.2014.07.065) [[pdf](https://doi.org/10.48550/arXiv.2002.07114)].
