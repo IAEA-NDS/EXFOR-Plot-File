@@ -1,0 +1,28 @@
+# EXFOR #         : 10439.008  
+# EXFOR Ver.      : 20260412
+# TRANS #         : 1529
+# Author          : G.Tessler et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 page 934
+# DOI             : N/A
+# Quantity        : 60Ni(n,inl)60Ni partial gamma angular differential cross section
+# REACTION        : 28-NI-60(N,INL)28-NI-60,PAR,DA,G,4PI
+# File ID         : n-Ni60-inl-adxgl-excfun-mon-angl55_eoutl1.791E+06_prodNi60_Tessler_1975_10439.008
+#
+# theta,lab (deg) :   55.0000000
+# Eout,lab (eV)   :   1.7909E+06
+#
+# npts            : 4           
+# xmin            :   3.4300E+06
+# xmax            :   5.4230E+06
+# ymin            :   6.5254E-04
+# ymax            :   5.3715E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.4300E+06  0.0000E+00  6.5254E-04  3.1035E-04
+  4.2160E+06  0.0000E+00  5.3715E-03  1.0425E-03
+  4.8450E+06  0.0000E+00  4.9338E-03  8.7535E-04
+  5.4230E+06  0.0000E+00  3.7242E-03  6.2866E-04
+#---------------------------------------------------

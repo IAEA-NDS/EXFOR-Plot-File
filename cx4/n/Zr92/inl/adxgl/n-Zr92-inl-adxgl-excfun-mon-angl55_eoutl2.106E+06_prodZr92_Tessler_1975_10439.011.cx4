@@ -1,0 +1,28 @@
+# EXFOR #         : 10439.011  
+# EXFOR Ver.      : 20260412
+# TRANS #         : 1529
+# Author          : G.Tessler et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 page 934
+# DOI             : N/A
+# Quantity        : 92Zr(n,inl)92Zr partial gamma angular differential cross section
+# REACTION        : 40-ZR-92(N,INL)40-ZR-92,PAR,DA,G,4PI
+# File ID         : n-Zr92-inl-adxgl-excfun-mon-angl55_eoutl2.106E+06_prodZr92_Tessler_1975_10439.011
+#
+# theta,lab (deg) :   55.0000000
+# Eout,lab (eV)   :   2.1056E+06
+#
+# npts            : 4           
+# xmin            :   3.4300E+06
+# xmax            :   5.4230E+06
+# ymin            :   1.8223E-03
+# ymax            :   2.1168E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.4300E+06  0.0000E+00  1.8939E-03  3.9789E-04
+  4.2160E+06  0.0000E+00  1.8223E-03  3.6606E-04
+  4.8450E+06  0.0000E+00  1.9019E-03  3.3423E-04
+  5.4230E+06  0.0000E+00  2.1168E-03  3.5810E-04
+#---------------------------------------------------

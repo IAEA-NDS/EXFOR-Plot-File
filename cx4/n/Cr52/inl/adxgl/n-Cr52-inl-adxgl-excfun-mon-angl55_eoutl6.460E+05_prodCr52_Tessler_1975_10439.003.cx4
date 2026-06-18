@@ -1,0 +1,29 @@
+# EXFOR #         : 10439.003  
+# EXFOR Ver.      : 20260412
+# TRANS #         : 1529
+# Author          : G.Tessler et al.
+# Reference       : Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 page 934
+# DOI             : N/A
+# Quantity        : 52Cr(n,inl)52Cr partial gamma angular differential cross section
+# REACTION        : 24-CR-52(N,INL)24-CR-52,PAR,DA,G,4PI
+# File ID         : n-Cr52-inl-adxgl-excfun-mon-angl55_eoutl6.460E+05_prodCr52_Tessler_1975_10439.003
+#
+# theta,lab (deg) :   55.0000000
+# Eout,lab (eV)   :   6.4600E+05
+#
+# npts            : 5           
+# xmin            :   3.4300E+06
+# xmax            :   5.9700E+06
+# ymin            :   4.8542E-04
+# ymax            :   3.9630E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  3.4300E+06  0.0000E+00  4.8542E-04  1.0345E-04
+  4.2160E+06  0.0000E+00  2.0531E-03  3.4218E-04
+  4.8450E+06  0.0000E+00  3.1115E-03  5.0134E-04
+  5.4230E+06  0.0000E+00  3.9630E-03  6.3662E-04
+  5.9700E+06  0.0000E+00  3.7163E-03  5.9683E-04
+#---------------------------------------------------
