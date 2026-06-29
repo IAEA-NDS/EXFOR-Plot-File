@@ -6,7 +6,7 @@ The EXFOR Plot File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-ma
 - download individual files of the current version from the [EXFOR Plot File](https://nds.iaea.org/nrdc/exfor-master/cx4/) website, or
 - download the full repository of the current version by using the terminal command:
 ```
-git clone https://github.com/iaea-nrdcnetwork/exfor-plot-file.git
+git clone https://github.com/iaea-nds/exfor-plot-file.git
 ```
 
 **Directory structure**
