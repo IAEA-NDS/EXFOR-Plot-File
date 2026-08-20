@@ -1,0 +1,26 @@
+# EXFOR #         : C3132.003  
+# EXFOR Ver.      : 20260521
+# TRANS #         : C258
+# Author          : P.N.Peplowski et al.
+# Reference       : Nucl.Phys.A 1072 (2026) 123408
+# DOI             : 10.1016/j.nuclphysa.2026.123408
+# Quantity        : 59Co(p,x)57Co independent production cross section
+# REACTION        : 27-CO-59(P,X)27-CO-57,,SIG
+# File ID         : p-Co59-x-sig-excfun-mon-prodCo57_Peplowski_2026_c3132.003
+#
+# npts            : 5           
+# xmin            :   2.5000E+08
+# xmax            :   2.0000E+09
+# ymin            :   2.4000E-02
+# ymax            :   3.8200E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+08  0.0000E+00  3.8200E-02  4.1000E-03
+  5.0000E+08  0.0000E+00  2.6200E-02  2.7000E-03
+  7.5000E+08  0.0000E+00  2.4500E-02  2.8000E-03
+  1.2000E+09  0.0000E+00  2.4000E-02  2.4000E-03
+  2.0000E+09  0.0000E+00  2.4200E-02  2.9000E-03
+#---------------------------------------------------

@@ -1,0 +1,25 @@
+# EXFOR #         : C3133.007  
+# EXFOR Ver.      : 20260521
+# TRANS #         : C258
+# Author          : E.M.Martinsen et al.
+# Reference       : Radiochim.Acta 114 (2026) 265
+# DOI             : 10.1515/ract-2025-0057
+# Quantity        : natNi(d,x) independent production cross section
+# REACTION        : 28-NI-0(D,X)ELEM/MASS,,SIG
+# File ID         : d-Ni-x-sig-excfun-mon-prodNi65_Martinsen_2026_c3133.007
+#
+# npts            : 4           
+# xmin            :   8.8000E+06
+# xmax            :   2.7350E+07
+# ymin            :   4.6600E-04
+# ymax            :   2.2900E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.7350E+07  6.4000E+05  4.6600E-04  5.8000E-05
+  2.0450E+07  7.6000E+05  9.0000E-04  8.9000E-05
+  1.4100E+07  1.0000E+06  1.3320E-03  6.2000E-05
+  8.8000E+06  1.4000E+06  2.2900E-03  1.2000E-04
+#---------------------------------------------------

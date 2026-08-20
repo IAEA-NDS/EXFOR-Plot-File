@@ -1,0 +1,25 @@
+# EXFOR #         : C3133.004  
+# EXFOR Ver.      : 20260521
+# TRANS #         : C258
+# Author          : E.M.Martinsen et al.
+# Reference       : Radiochim.Acta 114 (2026) 265
+# DOI             : 10.1515/ract-2025-0057
+# Quantity        : natZr(d,x) cumulative production cross section
+# REACTION        : 40-ZR-0(D,X)ELEM/MASS,CUM,SIG
+# File ID         : d-Zr-x-sigc-excfun-mon-prodY88_Martinsen_2026_c3133.004
+#
+# npts            : 4           
+# xmin            :   6.3000E+06
+# xmax            :   2.6400E+07
+# ymin            :   4.3000E-04
+# ymax            :   1.5600E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.3000E+06  1.8000E+06  4.3000E-04  8.8000E-05
+  1.2400E+07  1.1000E+06  6.1200E-03  3.3000E-04
+  1.9240E+07  7.9000E+05  9.1400E-03  4.7000E-04
+  2.6400E+07  6.3000E+05  1.5600E-02  2.5000E-03
+#---------------------------------------------------

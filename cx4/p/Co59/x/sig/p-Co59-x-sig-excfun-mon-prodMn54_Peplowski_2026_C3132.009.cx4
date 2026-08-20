@@ -1,0 +1,26 @@
+# EXFOR #         : C3132.009  
+# EXFOR Ver.      : 20260521
+# TRANS #         : C258
+# Author          : P.N.Peplowski et al.
+# Reference       : Nucl.Phys.A 1072 (2026) 123408
+# DOI             : 10.1016/j.nuclphysa.2026.123408
+# Quantity        : 59Co(p,x)54Mn independent production cross section
+# REACTION        : 27-CO-59(P,X)25-MN-54,,SIG
+# File ID         : p-Co59-x-sig-excfun-mon-prodMn54_Peplowski_2026_c3132.009
+#
+# npts            : 5           
+# xmin            :   2.5000E+08
+# xmax            :   2.0000E+09
+# ymin            :   2.7200E-02
+# ymax            :   3.7700E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5000E+08  0.0000E+00  3.7700E-02  3.8000E-03
+  5.0000E+08  0.0000E+00  3.4800E-02  3.5000E-03
+  7.5000E+08  0.0000E+00  3.2600E-02  3.6000E-03
+  1.2000E+09  0.0000E+00  2.8900E-02  3.4000E-03
+  2.0000E+09  0.0000E+00  2.7200E-02  2.9000E-03
+#---------------------------------------------------

@@ -1,0 +1,24 @@
+# EXFOR #         : C3133.009  
+# EXFOR Ver.      : 20260521
+# TRANS #         : C258
+# Author          : E.M.Martinsen et al.
+# Reference       : Radiochim.Acta 114 (2026) 265
+# DOI             : 10.1515/ract-2025-0057
+# Quantity        : natTi(d,x) cumulative production cross section
+# REACTION        : 22-TI-0(D,X)ELEM/MASS,CUM,SIG
+# File ID         : d-Ti-x-sigc-excfun-mon-prodSc47_Martinsen_2026_c3133.009
+#
+# npts            : 3           
+# xmin            :   1.0900E+07
+# xmax            :   2.5540E+07
+# ymin            :   2.0200E-03
+# ymax            :   1.4640E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.5540E+07  6.5000E+05  1.4640E-02  3.3000E-04
+  1.8130E+07  8.0000E+05  5.8600E-03  8.3000E-04
+  1.0900E+07  1.2000E+06  2.0200E-03  7.9000E-04
+#---------------------------------------------------

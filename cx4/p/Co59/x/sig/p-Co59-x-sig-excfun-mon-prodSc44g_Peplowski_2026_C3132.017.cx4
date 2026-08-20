@@ -1,0 +1,24 @@
+# EXFOR #         : C3132.017  
+# EXFOR Ver.      : 20260521
+# TRANS #         : C258
+# Author          : P.N.Peplowski et al.
+# Reference       : Nucl.Phys.A 1072 (2026) 123408
+# DOI             : 10.1016/j.nuclphysa.2026.123408
+# Quantity        : 59Co(p,x)44gSc independent production cross section
+# REACTION        : 27-CO-59(P,X)21-SC-44-G,,SIG
+# File ID         : p-Co59-x-sig-excfun-mon-prodSc44g_Peplowski_2026_c3132.017
+#
+# npts            : 3           
+# xmin            :   7.5000E+08
+# xmax            :   2.0000E+09
+# ymin            :   5.6000E-03
+# ymax            :   7.3000E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.5000E+08  0.0000E+00  7.3000E-03  6.0000E-04
+  1.2000E+09  0.0000E+00  7.0000E-03  6.0000E-04
+  2.0000E+09  0.0000E+00  5.6000E-03  4.0000E-04
+#---------------------------------------------------
