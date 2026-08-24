@@ -40,7 +40,6 @@ git clone https://github.com/iaea-nds/exfor-plot-file.git
           |           +--a-Ag-..._F1116.002.cx4 # EXFOR F1116.002 (CX4)
           |           +--a-Ag-..._F1116.002.pdf # EXFOR F1116.002 (PDF)
           ...
-         
 ```
 
 **Contents**
