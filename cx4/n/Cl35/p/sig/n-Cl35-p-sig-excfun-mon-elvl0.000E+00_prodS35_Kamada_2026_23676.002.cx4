@@ -1,0 +1,26 @@
+# EXFOR #         : 23676.002  
+# EXFOR Ver.      : 20251216
+# TRANS #         : 2323
+# Author          : S.Kamada et al.
+# Reference       : Ann.Nucl.Energy 228 (2026) 112065
+# DOI             : 10.1016/j.anucene.2025.112065
+# Quantity        : 35Cl(n,p)35S partial cross section
+# REACTION        : 17-CL-35(N,P)16-S-35,PAR,SIG
+# File ID         : n-Cl35-p-sig-excfun-mon-elvl0.000E+00_prodS35_Kamada_2026_23676.002
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :   5.6500E+05
+# xmax            :   5.0000E+06
+# ymin            :   6.8300E-03
+# ymax            :   4.4300E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  5.6500E+05  7.5000E+03  6.8300E-03  1.2362E-03
+  1.2000E+06  3.6000E+04  4.3600E-02  2.9648E-03
+  5.0000E+06  8.8500E+04  4.4300E-02  2.6137E-03
+#---------------------------------------------------

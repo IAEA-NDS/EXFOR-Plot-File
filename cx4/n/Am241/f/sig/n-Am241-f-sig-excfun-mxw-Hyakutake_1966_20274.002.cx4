@@ -1,16 +1,16 @@
 # EXFOR #         : 20274.002  
-# EXFOR Ver.      : 19860822
-# TRANS #         : 0000
+# EXFOR Ver.      : 20251214
+# TRANS #         : 2323
 # Author          : M.Hyakutake
-# Reference       : Private communication  (1966)
+# Reference       : Tech.Rep.Kyushu Uni. 39 (1966) 170
 # DOI             : N/A
 # Quantity        : 241Am(n,f) cross section
 # REACTION        : 95-AM-241(N,F),,SIG,,MXW
 # File ID         : n-Am241-f-sig-excfun-mxw-Hyakutake_1966_20274.002
 #
 # npts            : 1           
-# xmin            :   2.5000E-02
-# xmax            :   2.5000E-02
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
 # ymin            :   3.8000E+00
 # ymax            :   3.8000E+00
 #
@@ -18,5 +18,5 @@
 # Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  2.5000E-02  0.0000E+00  3.8000E+00  2.0000E-01
+  2.5300E-02  0.0000E+00  3.8000E+00  2.0000E-01
 #---------------------------------------------------
