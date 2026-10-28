@@ -180666,13 +180666,21 @@
  M0816.008   M112  g      Sm152  xn     -       sig     brs excfun    8.50E+06  2.25E+07    57         -         - -   - -         - 1969 Vasilyev
  M0816.010   M112  g      Sm154  xn     -       sig     brs excfun    8.00E+06  2.28E+07    60         -         - -   - -         - 1969 Vasilyev
  M0817.002   M091  g      Nd146  xn     -       sig     brs excfun    7.75E+06  2.20E+07    57         -         - -   - -         - 1971 Vasilyev
+ M0817.002   M148  g      Nd146  xn     -       sig     brs excfun    7.75E+06  2.20E+07    57         -         - -   - -         - 1971 Vasilyev
  M0817.004   M091  g      Sm148  xn     -       sig     brs excfun    7.75E+06  2.22E+07    59         -         - -   - -         - 1971 Vasilyev
+ M0817.004   M148  g      Sm148  xn     -       sig     brs excfun    7.75E+06  2.22E+07    59         -         - -   - -         - 1971 Vasilyev
  M0817.006   M091  g      Gd152  xn     -       sig     brs excfun    7.50E+06  2.12E+07    56         -         - -   - -         - 1971 Vasilyev
+ M0817.006   M148  g      Gd152  xn     -       sig     brs excfun    7.50E+06  2.12E+07    56         -         - -   - -         - 1971 Vasilyev
  M0817.008   M091  g      Gd154  xn     -       sig     brs excfun    7.75E+06  2.20E+07    58         -         - -   - -         - 1971 Vasilyev
+ M0817.008   M148  g      Gd154  xn     -       sig     brs excfun    7.75E+06  2.20E+07    58         -         - -   - -         - 1971 Vasilyev
  M0817.010   M091  g      Gd156  xn     -       sig     brs excfun    7.75E+06  2.15E+07    56         -         - -   - -         - 1971 Vasilyev
+ M0817.010   M148  g      Gd156  xn     -       sig     brs excfun    7.75E+06  2.15E+07    56         -         - -   - -         - 1971 Vasilyev
  M0817.012   M091  g      Gd158  xn     -       sig     brs excfun    7.75E+06  2.22E+07    59         -         - -   - -         - 1971 Vasilyev
+ M0817.012   M148  g      Gd158  xn     -       sig     brs excfun    7.75E+06  2.22E+07    59         -         - -   - -         - 1971 Vasilyev
  M0817.014   M091  g      Eu151  xn     -       sig     brs excfun    7.75E+06  2.18E+07    57         -         - -   - -         - 1971 Vasilyev
+ M0817.014   M148  g      Eu151  xn     -       sig     brs excfun    7.75E+06  2.18E+07    57         -         - -   - -         - 1971 Vasilyev
  M0817.016   M091  g      Eu153  xn     -       sig     brs excfun    8.25E+06  2.22E+07    57         -         - -   - -         - 1971 Vasilyev
+ M0817.016   M148  g      Eu153  xn     -       sig     brs excfun    8.25E+06  2.22E+07    57         -         - -   - -         - 1971 Vasilyev
  M0819.002   M059  g      Au197  el     Au197   adxl    mon excfun    1.15E+07  1.77E+07    21         -         - L 135 -         - 1962 OConnell
  M0820.002   M059  g      U238   el     U238    adxl    mon angdisl    20.0000  150.0000     7 1.083E+07         - -   - -         - 1972 Jackson
  M0823.002   M095  g      He4    np     H2      sig     mon excfun    2.89E+07  1.12E+08    13         -         - -   - -         - 1969 Arkatov
@@ -180781,7 +180789,9 @@
  M0882.005   M075  g      C12    p      B11     adxl    mon excfun    5.86E+07  8.03E+07     8         - 7.015E+06 L  90 -         - 1994 Nilsson
  M0886.002   M135  g      Ta181  abs    -       sig     mon excfun    2.40E+06  7.50E+06    52         -         - -   - -         - 2014 Makinaga
  M0888.002   M076  g      Ti48   xn     -       sig     brs excfun    1.20E+07  2.40E+07    49         -         - -   - -         - 1967 Costa
+ M0888.002   M148  g      Ti     xn     -       sig     brs excfun    1.20E+07  2.40E+07    49         -         - -   - -         - 1967 Costa
  M0888.004   M076  g      Zn     xn     -       sig     brs excfun    1.20E+07  2.40E+07    49         -         - -   - -         - 1967 Costa
+ M0888.004   M148  g      Zn     xn     -       sig     brs excfun    1.20E+07  2.40E+07    49         -         - -   - -         - 1967 Costa
  M0892.008   M137  g      Cu65   n      Cu64    sig     brs excfun    1.47E+07  2.46E+07    32         -         - -   - -         - 1990 Antonov
  M0892.009   M137  g      V51    a      Sc47    sig     brs excfun    1.76E+07  2.46E+07    19         -         - -   - -         - 1990 Antonov
  M0892.010   M137  g      Ge76   a      Zn72    sig     brs excfun    1.91E+07  2.41E+07    13         -         - -   - -         - 1990 Antonov
@@ -180812,12 +180822,19 @@
  M0929.004   M087  g      Zr90   xn     -       sig     brs excfun    1.25E+07  2.25E+07    11         -         - -   - -         - 1955 Nathans
  M0929.005   M087  g      Zr91   xn     -       sig     brs excfun    7.70E+06  2.36E+07    16         -         - -   - -         - 1955 Nathans
  M0930.002   M087  g      Y89    xn     -       sig     brs excfun    1.25E+07  2.25E+07    11         -         - -   - -         - 1956 Yergin
+ M0930.002   M148  g      Y89    xn     -       sig     brs excfun    1.25E+07  2.25E+07    11         -         - -   - -         - 1956 Yergin
  M0930.003   M087  g      Sr86   xn     -       sig     brs excfun    1.20E+07  2.30E+07    12         -         - -   - -         - 1956 Yergin
+ M0930.003   M148  g      Sr86   xn     -       sig     brs excfun    1.20E+07  2.30E+07    12         -         - -   - -         - 1956 Yergin
  M0930.004   M087  g      Sr87   xn     -       sig     brs excfun    1.00E+07  2.30E+07    14         -         - -   - -         - 1956 Yergin
+ M0930.004   M148  g      Sr87   xn     -       sig     brs excfun    1.00E+07  2.30E+07    14         -         - -   - -         - 1956 Yergin
  M0930.005   M087  g      Sr88   xn     -       sig     brs excfun    1.20E+07  2.30E+07    12         -         - -   - -         - 1956 Yergin
+ M0930.005   M148  g      Sr88   xn     -       sig     brs excfun    1.20E+07  2.30E+07    12         -         - -   - -         - 1956 Yergin
  M0930.006   M087  g      Zr90   xn     -       sig     brs excfun    1.30E+07  2.30E+07    11         -         - -   - -         - 1956 Yergin
+ M0930.006   M148  g      Zr90   xn     -       sig     brs excfun    1.30E+07  2.30E+07    11         -         - -   - -         - 1956 Yergin
  M0930.007   M087  g      Zr91   xn     -       sig     brs excfun    8.00E+06  2.35E+07    17         -         - -   - -         - 1956 Yergin
+ M0930.007   M148  g      Zr91   xn     -       sig     brs excfun    8.00E+06  2.35E+07    17         -         - -   - -         - 1956 Yergin
  M0930.008   M087  g      Zr92   xn     -       sig     brs excfun    9.00E+06  2.30E+07    15         -         - -   - -         - 1956 Yergin
+ M0930.008   M148  g      Zr92   xn     -       sig     brs excfun    9.00E+06  2.30E+07    15         -         - -   - -         - 1956 Yergin
  M0932.002   M088  g      Y89    p      Sr88    sig     mon excfun    1.38E+07  2.38E+07    11         - 0.000E+00 -   - -         - 1981 Van Camp
  M0932.003   M088  g      Y89    p      Sr88    sig     mon excfun    1.48E+07  2.38E+07    10         - 1.836E+06 -   - -         - 1981 Van Camp
  M0932.004   M088  g      Y89    p      Sr88    sig     mon excfun    1.58E+07  2.38E+07     9         - 3.441E+06 -   - -         - 1981 Van Camp
