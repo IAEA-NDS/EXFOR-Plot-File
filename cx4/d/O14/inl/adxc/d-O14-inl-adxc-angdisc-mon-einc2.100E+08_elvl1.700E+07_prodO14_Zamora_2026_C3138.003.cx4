@@ -1,0 +1,29 @@
+# EXFOR #         : C3138.003  
+# EXFOR Ver.      : 20260807
+# TRANS #         : C259
+# Author          : J.C.Zamora et al.
+# Reference       : Phys.Lett.B 879 (2026) 140593
+# DOI             : 10.1016/j.physletb.2026.140593
+# Quantity        : 14O(d,inl)14O partial angular differential cross section
+# REACTION        : 8-O-14(D,INL)8-O-14,PAR,DA
+# File ID         : d-O14-inl-adxc-angdisc-mon-einc2.100E+08_elvl1.700E+07_prodO14_Zamora_2026_c3138.003
+#
+# Einc (eV)       :   2.1000E+08
+# Elvl (eV)       :   1.7000E+07
+#
+# npts            : 5           
+# xmin            :    4.2000000
+# xmax            :    5.4000000
+# ymin            :   9.0593E-04
+# ymax            :   1.3456E-03
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   4.2000000   0.0000000  1.3456E-03  1.5967E-04
+   4.6000000   0.0000000  1.2602E-03  1.5553E-04
+   5.0000000   0.0000000  9.9532E-04  1.2988E-04
+   5.2000000   0.0000000  9.7683E-04  1.2799E-04
+   5.4000000   0.0000000  9.0593E-04  1.2144E-04
+#---------------------------------------------------
