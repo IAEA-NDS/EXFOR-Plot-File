@@ -1,22 +1,22 @@
-# EXFOR #         : 21415.005  
-# EXFOR Ver.      : 19800318
+# EXFOR #         : 11528.037  
+# EXFOR Ver.      : 19830412
 # TRANS #         : 0000
-# Author          : J.Ailloud et al.
-# Reference       : J.Phys.(Paris) 13 (1952) 171
+# Author          : S.P.Harris et al.
+# Reference       : Phys.Rev. 80 (1950) 342
 # DOI             : N/A
 # Quantity        : natNd(n,g) cross section
-# REACTION        : 60-ND-0(N,G),,SIG,,MXW
-# File ID         : n-Nd-g-sig-excfun-mxw-prodNd1_Ailloud_1952_21415.005
+# REACTION        : 60-ND-0(N,G),,SIG,,SPA
+# File ID         : n-Nd-g-sig-excfun-spa-Harris_1950_11528.037
 #
 # npts            : 1           
 # xmin            :   2.5300E-02
 # xmax            :   2.5300E-02
-# ymin            :   4.3200E+01
-# ymax            :   4.3200E+01
+# ymin            :   5.2000E+01
+# ymax            :   5.2000E+01
 #
 #---------------------------------------------------
 # Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  2.5300E-02  0.0000E+00  4.3200E+01  1.0000E+00
+  2.5300E-02  0.0000E+00  5.2000E+01  2.6000E+00
 #---------------------------------------------------
