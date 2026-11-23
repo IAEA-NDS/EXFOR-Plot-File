@@ -1,24 +1,29 @@
-# EXFOR #         : 41679.002  
+# EXFOR #         : 41678.002  
 # EXFOR Ver.      : 20190819
 # TRANS #         : 4183
-# Author          : B.A.Benetskii et al.
-# Reference       : J.Exp.Theor.Phys. 18 (1964) 640
+# Author          : B.M.Golovin et al.
+# Reference       : J.Exp.Theor.Phys. 4 (1957) 303
 # DOI             : N/A
-# Quantity        : 24Mg(n,inl)24Mg partial cross section
-# REACTION        : 12-MG-24(N,INL)12-MG-24,PAR,SIG
-# File ID         : n-Mg24-inl-sig-lvldis-mon-einc1.400E+07_prodMg24_Benetskii_1964_41679.002
+# Quantity        : 1Nn(n,el)1Nn angular differential cross section
+# REACTION        : 0-NN-1(N,EL)0-NN-1,,DA,,SPA
+# File ID         : n-Nn1-el-adxc-angdisc-spa-einc5.900E+08_prodNn1_Golovin_1957_41678.002
 #
-# Einc (eV)       :   1.4000E+07
+# Einc (eV)       :   5.9000E+08
 #
-# npts            : 1           
-# xmin            :   1.3700E+06
-# xmax            :   1.3700E+06
-# ymin            :   5.9000E-01
-# ymax            :   5.9000E-01
+# npts            : 6           
+# xmin            :   30.0000000
+# xmax            :   89.0000000
+# ymin            :   2.3000E-03
+# ymax            :   5.8000E-03
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
-#  eV          eV          b           b          
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
 #---------------------------------------------------
-  1.3700E+06  0.0000E+00  5.9000E-01  9.5000E-02
+  30.0000000   0.0000000  5.8000E-03  8.0000E-04
+  49.0000000   0.0000000  4.7000E-03  5.0000E-04
+  55.0000000   0.0000000  3.8000E-03  4.0000E-04
+  67.0000000   0.0000000  2.9000E-03  3.5000E-04
+  78.0000000   0.0000000  2.3000E-03  3.0000E-04
+  89.0000000   0.0000000  2.5000E-03  2.5000E-04
 #---------------------------------------------------

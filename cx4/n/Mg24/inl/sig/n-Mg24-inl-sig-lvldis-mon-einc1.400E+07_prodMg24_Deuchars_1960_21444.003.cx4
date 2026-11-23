@@ -1,25 +1,26 @@
-# EXFOR #         : 21444.003  
-# EXFOR Ver.      : 20120917
-# TRANS #         : 2234
-# Author          : W.M.Deuchars et al.
-# Reference       : Proc.Phys.Soc.(UK) 75 (1960) 855
-# DOI             : 10.1088/0370-1328/75/6/305
-# Quantity        : 24Mg(n,inl)24Mg partial cross section
-# REACTION        : 12-MG-24(N,INL)12-MG-24,PAR,SIG
-# File ID         : n-Mg24-inl-sig-lvldis-mon-einc1.400E+07_prodMg24_Deuchars_1960_21444.003
+# EXFOR #         : 21441.008  
+# EXFOR Ver.      : 20200930
+# TRANS #         : 2291
+# Author          : J.F.Barry et al.
+# Reference       : Proc.Phys.Soc.(UK) 74 (1959) 632
+# DOI             : N/A
+# Quantity        : 186W(n,p)186Ta cross section
+# REACTION        : 74-W-186(N,P)73-TA-186,,SIG
+# File ID         : n-W186-p-sig-excfun-mon-prodTa186_Barry_1959_21441.008
 #
-# Einc (eV)       :   1.4000E+07
-# dEinc (eV)      :   5.0000E+05
-#
-# npts            : 1           
-# xmin            :   1.3700E+06
-# xmax            :   1.3700E+06
-# ymin            :   5.5000E-01
-# ymax            :   5.5000E-01
+# npts            : 5           
+# xmin            :   1.3700E+07
+# xmax            :   2.1200E+07
+# ymin            :   1.0000E-03
+# ymax            :   1.4500E-02
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  1.3700E+06  0.0000E+00  5.5000E-01  1.0000E-01
+  1.3700E+07  2.5000E+05  1.0000E-03  2.0000E-05
+  1.4500E+07  3.0000E+05  1.4000E-03  3.0000E-04
+  1.8000E+07  1.0000E+06  9.6000E-03  2.0000E-03
+  1.9700E+07  1.3000E+06  1.4500E-02  3.0000E-03
+  2.1200E+07  1.0000E+06  1.3600E-02  2.7000E-03
 #---------------------------------------------------
