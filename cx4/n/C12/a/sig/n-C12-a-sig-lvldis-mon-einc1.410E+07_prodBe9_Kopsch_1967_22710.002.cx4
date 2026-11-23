@@ -1,24 +1,22 @@
-# EXFOR #         : 22710.002  
-# EXFOR Ver.      : 20011018
-# TRANS #         : 0000
-# Author          : D.Kopsch et al.
-# Reference       : Nucl.Intrum.Meth. 54 (1967) 277
-# DOI             : 10.1016/0029-554X(67)90631-3
-# Quantity        : 12C(n,a)9Be partial cross section
-# REACTION        : 6-C-12(N,A)4-BE-9,PAR,SIG
-# File ID         : n-C12-a-sig-lvldis-mon-einc1.410E+07_prodBe9_Kopsch_1967_22710.002
-#
-# Einc (eV)       :   1.4100E+07
+# EXFOR #         : 22708.010  
+# EXFOR Ver.      : 20151009
+# TRANS #         : 2245
+# Author          : B.Scholten et al.
+# Reference       : Radiochim.Acta 62 (1993) 107
+# DOI             : N/A
+# Quantity        : 209Bi(n,x)7Be independent production cross section
+# REACTION        : 83-BI-209(N,X)4-BE-7,,SIG,,SPA
+# File ID         : n-Bi209-x-sig-excfun-spa-prodBe7_Scholten_1993_22708.010
 #
 # npts            : 1           
-# xmin            :   7.4100E+06
-# xmax            :   7.4100E+06
-# ymin            :   2.0700E-02
-# ymax            :   2.0700E-02
+# xmin            :   2.2500E+07
+# xmax            :   2.2500E+07
+# ymin            :   4.5000E-06
+# ymax            :   4.5000E-06
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  7.4100E+06  5.9000E+05  2.0700E-02  5.1000E-03
+  2.2500E+07  0.0000E+00  4.5000E-06  7.0000E-07
 #---------------------------------------------------
