@@ -1,22 +1,22 @@
-# EXFOR #         : 13845.009  
-# EXFOR Ver.      : 20021119
+# EXFOR #         : 11528.038  
+# EXFOR Ver.      : 19830412
 # TRANS #         : 0000
-# Author          : G.A.Fink
-# Reference       : Phys.Rev. 50 (1936) 738
-# DOI             : 10.1103/PhysRev.50.738
+# Author          : S.P.Harris et al.
+# Reference       : Phys.Rev. 80 (1950) 342
+# DOI             : N/A
 # Quantity        : natSm(n,g) cross section
-# REACTION        : 62-SM-0(N,G),,SIG
-# File ID         : n-Sm-g-sig-excfun-mon-prodSm1_Fink_1936_13845.009
+# REACTION        : 62-SM-0(N,G),,SIG,,SPA
+# File ID         : n-Sm-g-sig-excfun-spa-Harris_1950_11528.038
 #
 # npts            : 1           
 # xmin            :   2.5300E-02
 # xmax            :   2.5300E-02
-# ymin            :   4.6000E+03
-# ymax            :   4.6000E+03
+# ymin            :   8.2000E+03
+# ymax            :   8.2000E+03
 #
 #---------------------------------------------------
 # Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  2.5300E-02  0.0000E+00  4.6000E+03  1.0000E+02
+  2.5300E-02  0.0000E+00  8.2000E+03  0.0000E+00
 #---------------------------------------------------
