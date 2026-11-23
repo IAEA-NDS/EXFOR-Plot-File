@@ -1,0 +1,28 @@
+# EXFOR #         : A1248.002  
+# EXFOR Ver.      : 20250903
+# TRANS #         : A124
+# Author          : S.Burzynski et al.
+# Reference       : Nucl.Phys.A 473 (1987) 179
+# DOI             : N/A
+# Quantity        : 3H(a,g)7Li partial angular differential cross section
+# REACTION        : 1-H-3(A,G)3-LI-7,PAR,DA
+# File ID         : a-H3-g-adxc-excfun-mon-angc0_elvl0.000E+00_Burzynski_1987_a1248.002
+#
+# theta,cm (deg)  :    0.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :   6.9116E+05
+# xmax            :   1.9921E+06
+# ymin            :   9.4000E-08
+# ymax            :   2.2400E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  6.9116E+05  0.0000E+00  9.4000E-08  5.0000E-09
+  9.9370E+05  0.0000E+00  1.4100E-07  5.0000E-09
+  1.4917E+06  0.0000E+00  1.9000E-07  7.0000E-09
+  1.9921E+06  0.0000E+00  2.2400E-07  7.0000E-09
+#---------------------------------------------------
