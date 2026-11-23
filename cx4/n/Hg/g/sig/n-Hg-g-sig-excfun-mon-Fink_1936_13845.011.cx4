@@ -1,22 +1,22 @@
-# EXFOR #         : 11028.025  
-# EXFOR Ver.      : 19820106
+# EXFOR #         : 13845.011  
+# EXFOR Ver.      : 20021119
 # TRANS #         : 0000
-# Author          : J.W.Meadows et al.
-# Reference       : Nucl.Sci.Eng. 9 (1961) 132
-# DOI             : 10.13182/NSE61-A15597
+# Author          : G.A.Fink
+# Reference       : Phys.Rev. 50 (1936) 738
+# DOI             : N/A
 # Quantity        : natHg(n,g) cross section
 # REACTION        : 80-HG-0(N,G),,SIG
-# File ID         : n-Hg-g-sig-excfun-mon-prodHg1_Meadows_1961_11028.025
+# File ID         : n-Hg-g-sig-excfun-mon-Fink_1936_13845.011
 #
 # npts            : 1           
 # xmin            :   2.5300E-02
 # xmax            :   2.5300E-02
-# ymin            :   3.7400E+02
-# ymax            :   3.7400E+02
+# ymin            :   4.4500E+02
+# ymax            :   4.4500E+02
 #
 #---------------------------------------------------
 # Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  2.5300E-02  0.0000E+00  3.7400E+02  5.0000E+00
+  2.5300E-02  0.0000E+00  4.4500E+02  2.5000E+01
 #---------------------------------------------------
