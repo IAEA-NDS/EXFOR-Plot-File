@@ -1,0 +1,29 @@
+# EXFOR #         : C2888.002  
+# EXFOR Ver.      : 20260717
+# TRANS #         : C259
+# Author          : A.Gula et al.
+# Reference       : Phys.Rev.C 106 (2022) 065801
+# DOI             : N/A
+# Quantity        : 6Li(a,g)10B partial angular differential cross section
+# REACTION        : 3-LI-6(A,G)5-B-10,PAR,DA
+# File ID         : a-Li6-g-adxl-excfun-mon-angl55_elvl7.180E+05_Gula_2022_c2888.002
+#
+# theta,lab (deg) :   55.0000000
+# Elvl (eV)       :   7.1800E+05
+#
+# npts            : 5           
+# xmin            :   8.0049E+05
+# xmax            :   1.3979E+06
+# ymin            :   5.0615E-07
+# ymax            :   1.9463E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.0049E+05  0.0000E+00  5.0615E-07  7.7421E-08
+  8.4999E+05  0.0000E+00  1.1684E-06  1.3235E-07
+  8.9995E+05  0.0000E+00  1.0765E-06  1.2763E-07
+  1.3678E+06  0.0000E+00  1.9463E-05  2.1205E-06
+  1.3979E+06  0.0000E+00  1.4429E-05  2.6782E-06
+#---------------------------------------------------
