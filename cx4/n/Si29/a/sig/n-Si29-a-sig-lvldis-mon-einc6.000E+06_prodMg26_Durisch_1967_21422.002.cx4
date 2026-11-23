@@ -1,24 +1,22 @@
-# EXFOR #         : 21422.002  
-# EXFOR Ver.      : 19801107
+# EXFOR #         : 21421.005  
+# EXFOR Ver.      : 19800318
 # TRANS #         : 0000
-# Author          : J.E.Durisch et al.
-# Reference       : Nucl.Intrum.Meth. 52 (1967) 222
-# DOI             : 10.1016/0029-554X(67)90224-8
-# Quantity        : 29Si(n,a)26Mg partial cross section
-# REACTION        : 14-SI-29(N,A)12-MG-26,PAR,SIG
-# File ID         : n-Si29-a-sig-lvldis-mon-einc6.000E+06_prodMg26_Durisch_1967_21422.002
-#
-# Einc (eV)       :   6.0000E+06
+# Author          : P.A.Egelstaff et al.
+# Reference       : Nature 167 (1951) 896
+# DOI             : N/A
+# Quantity        : natHf(n,el)natHf cross section
+# REACTION        : 72-HF-0(N,EL)72-HF-0,,SIG
+# File ID         : n-Hf-el-sig-excfun-mon-prodHf_Egelstaff_1951_21421.005
 #
 # npts            : 1           
-# xmin            :   0.0000E+00
-# xmax            :   0.0000E+00
-# ymin            :   3.0000E-02
-# ymax            :   3.0000E-02
+# xmin            :   5.0015E+00
+# xmax            :   5.0015E+00
+# ymin            :   1.4200E+01
+# ymax            :   1.4200E+01
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  0.0000E+00  0.0000E+00  3.0000E-02  4.0000E-03
+  5.0015E+00  4.9985E+00  1.4200E+01  0.0000E+00
 #---------------------------------------------------

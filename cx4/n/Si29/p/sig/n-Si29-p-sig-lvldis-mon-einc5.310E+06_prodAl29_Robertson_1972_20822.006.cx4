@@ -1,25 +1,22 @@
-# EXFOR #         : 20822.006  
-# EXFOR Ver.      : 20060807
-# TRANS #         : 2178
-# Author          : J.C.Robertson et al.
-# Reference       : J.Nucl.Energy 26 No.1 (1972) 1
-# DOI             : 10.1016/0022-3107(72)90041-X
-# Quantity        : 29Si(n,p)29Al partial cross section
-# REACTION        : 14-SI-29(N,P)13-AL-29,PAR,SIG
-# File ID         : n-Si29-p-sig-lvldis-mon-einc5.310E+06_prodAl29_Robertson_1972_20822.006
-#
-# Einc (eV)       :   5.3100E+06
-# dEinc (eV)      :   6.0000E+04
+# EXFOR #         : 20820.003  
+# EXFOR Ver.      : 20201218
+# TRANS #         : 2296
+# Author          : R.F.Casten et al.
+# Reference       : Phys.Lett.B 76 (1978) 280
+# DOI             : N/A
+# Quantity        : 193Os(n,g)194Os cross section
+# REACTION        : 76-OS-193(N,G)76-OS-194,,SIG,,MXW
+# File ID         : n-Os193-g-sig-excfun-mxw-prodOs194_Casten_1978_20820.003
 #
 # npts            : 1           
-# xmin            :   0.0000E+00
-# xmax            :   0.0000E+00
-# ymin            :   5.2000E-02
-# ymax            :   5.2000E-02
+# xmin            :   2.5000E-02
+# xmax            :   2.5000E-02
+# ymin            :   3.8000E+01
+# ymax            :   3.8000E+01
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  0.0000E+00  0.0000E+00  5.2000E-02  8.0000E-03
+  2.5000E-02  0.0000E+00  3.8000E+01  1.0000E+01
 #---------------------------------------------------
