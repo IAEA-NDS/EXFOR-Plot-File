@@ -1,25 +1,27 @@
-# EXFOR #         : 21385.002  
-# EXFOR Ver.      : 20170805
-# TRANS #         : 2263
-# Author          : E.A.Eliot et al.
-# Reference       : Phys.Rev. 94 (1954) 144
-# DOI             : 10.1103/PhysRev.94.144
-# Quantity        : natCr(n,inl)natCr partial cross section
-# REACTION        : 24-CR-0(N,INL)24-CR-0,PAR,SIG
-# File ID         : n-Cr-inl-sig-lvldis-mon-einc2.500E+06_prodCr_Eliot_1954_21385.002
+# EXFOR #         : 21383.002  
+# EXFOR Ver.      : 19800222
+# TRANS #         : 0000
+# Author          : P.R.Tunnicliffe
+# Reference       : Phys.Rev. 89 (1953) 1247
+# DOI             : N/A
+# Quantity        : 2H(n,el)2H cross section
+# REACTION        : 1-H-2(N,EL)1-H-2,,SIG
+# File ID         : n-H2-el-sig-excfun-mon-prodH2_Tunnicliffe_1953_21383.002
 #
-# Einc (eV)       :   2.5000E+06
-# dEinc (eV)      :   2.0000E+05
-#
-# npts            : 1           
-# xmin            :   1.3000E+06
-# xmax            :   1.3000E+06
-# ymin            :   1.0000E+00
-# ymax            :   1.0000E+00
+# npts            : 6           
+# xmin            :   1.3500E+05
+# xmax            :   9.1400E+05
+# ymin            :   3.1000E+00
+# ymax            :   4.8000E+00
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  1.3000E+06  1.0000E+05  1.0000E+00  2.0000E-01
+  1.3500E+05  0.0000E+00  4.8000E+00  3.4000E-01
+  2.8000E+05  0.0000E+00  3.7900E+00  2.2000E-01
+  4.4600E+05  0.0000E+00  3.1000E+00  2.9000E-01
+  5.8800E+05  0.0000E+00  3.1400E+00  2.0000E-01
+  7.8000E+05  0.0000E+00  3.1800E+00  1.7000E-01
+  9.1400E+05  0.0000E+00  3.2900E+00  2.0000E-01
 #---------------------------------------------------

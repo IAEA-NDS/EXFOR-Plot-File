@@ -1,26 +1,22 @@
-# EXFOR #         : 22075.219  
+# EXFOR #         : 22075.218  
 # EXFOR Ver.      : 20090611
 # TRANS #         : 2213
 # Author          : A.Takahashi et al.
 # Reference       : Report OKTAV-A-87-03, 1987
 # DOI             : N/A
-# Quantity        : natCr(n,inl)natCr partial cross section
-# REACTION        : 24-CR-0(N,INL)24-CR-0,PAR,SIG
-# File ID         : n-Cr-inl-sig-lvldis-mon-einc1.410E+07_prodCr_Takahashi_1987_22075.219
+# Quantity        : natCr(n,el)natCr cross section
+# REACTION        : 24-CR-0(N,EL)24-CR-0,,SIG
+# File ID         : n-Cr-el-sig-excfun-mon-prodCr_Takahashi_1987_22075.218
 #
-# Einc (eV)       :   1.4100E+07
-# dEinc (eV)      :   2.0000E+05
-#
-# npts            : 2           
-# xmin            :   1.4340E+06
-# xmax            :   4.5630E+06
-# ymin            :   2.5000E-02
-# ymax            :   4.9100E-02
+# npts            : 1           
+# xmin            :   1.4100E+07
+# xmax            :   1.4100E+07
+# ymin            :   8.9500E-01
+# ymax            :   8.9500E-01
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  4.5630E+06  0.0000E+00  2.5000E-02  7.1000E-04
-  1.4340E+06  0.0000E+00  4.9100E-02  1.5000E-03
+  1.4100E+07  2.0000E+05  8.9500E-01  2.7000E-02
 #---------------------------------------------------
