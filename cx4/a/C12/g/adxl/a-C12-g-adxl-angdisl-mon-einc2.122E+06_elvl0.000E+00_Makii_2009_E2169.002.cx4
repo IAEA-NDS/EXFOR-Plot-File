@@ -1,0 +1,28 @@
+# EXFOR #         : E2169.002  
+# EXFOR Ver.      : 20100514
+# TRANS #         : E062
+# Author          : H.Makii et al.
+# Reference       : Phys.Rev.C 80 No.6 (2009) 065802
+# DOI             : N/A
+# Quantity        : 12C(a,g)16O partial angular differential cross section
+# REACTION        : 6-C-12(A,G)8-O-16,PAR,DA
+# File ID         : a-C12-g-adxl-angdisl-mon-einc2.122E+06_elvl0.000E+00_Makii_2009_e2169.002
+#
+# Einc (eV)       :   2.1218E+06
+# dEinc (eV)      :   3.0004E+03
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :   40.0000000
+# xmax            :  130.0000000
+# ymin            :   3.7400E-11
+# ymax            :   1.0600E-10
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.0000000   0.0000000  1.0600E-10  6.6000E-12
+  90.0000000   0.0000000  8.5800E-11  5.5000E-12
+ 130.0000000   0.0000000  3.7400E-11  3.9000E-12
+#---------------------------------------------------

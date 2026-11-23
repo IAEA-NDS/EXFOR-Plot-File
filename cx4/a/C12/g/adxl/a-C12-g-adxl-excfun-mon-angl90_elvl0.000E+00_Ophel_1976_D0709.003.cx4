@@ -1,0 +1,26 @@
+# EXFOR #         : D0709.003  
+# EXFOR Ver.      : 20130325
+# TRANS #         : D088
+# Author          : T.R.Ophel et al.
+# Reference       : Nucl.Phys.A 273 (1976) 397
+# DOI             : N/A
+# Quantity        : 12C(a,g)16O partial angular differential cross section
+# REACTION        : 6-C-12(A,G)8-O-16,PAR,DA
+# File ID         : a-C12-g-adxl-excfun-mon-angl90_elvl0.000E+00_Ophel_1976_d0709.003
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :   7.0500E+06
+# xmax            :   7.9000E+06
+# ymin            :   1.7000E-06
+# ymax            :   2.1000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  7.0500E+06  0.0000E+00  2.1000E-06  5.0000E-07
+  7.9000E+06  0.0000E+00  1.7000E-06  5.0000E-07
+#---------------------------------------------------
