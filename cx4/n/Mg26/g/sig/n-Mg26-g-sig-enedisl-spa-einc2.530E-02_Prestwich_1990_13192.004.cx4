@@ -1,0 +1,25 @@
+# EXFOR #         : 13192.004  
+# EXFOR Ver.      : 19961009
+# TRANS #         : 0000
+# Author          : W.V.Prestwich et al.
+# Reference       : Can.J.Phys. 68 (1990) 261
+# DOI             : N/A
+# Quantity        : 26Mg(n,g)27Mg partial cross section
+# REACTION        : 12-MG-26(N,G)12-MG-27,PAR,SIG,,SPA
+# File ID         : n-Mg26-g-sig-enedisl-spa-einc2.530E-02_Prestwich_1990_13192.004
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            :   1.6151E+06
+# xmax            :   2.8819E+06
+# ymin            :   4.0000E-03
+# ymax            :   2.4000E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.6151E+06  0.0000E+00  4.0000E-03  3.0000E-04
+  2.8819E+06  0.0000E+00  2.4000E-02  1.5000E-03
+#---------------------------------------------------
