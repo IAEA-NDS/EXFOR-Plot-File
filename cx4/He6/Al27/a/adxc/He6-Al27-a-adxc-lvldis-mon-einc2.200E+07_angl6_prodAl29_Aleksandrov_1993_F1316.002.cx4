@@ -1,29 +1,31 @@
-# EXFOR #         : F1316.002  
-# EXFOR Ver.      : 20170717
-# TRANS #         : F065
-# Author          : D.V.Aleksandrov et al.
-# Reference       : Proceedings of 43.Int.Conf.Nucl.Spectrosc.Nucl.Struct.,Dubna 1993 page 276
+# EXFOR #         : F1315.024  
+# EXFOR Ver.      : 20210627
+# TRANS #         : F085
+# Author          : V.G.Semenov et al.
+# Reference       : Proceedings of Specialists' Meet.Intermed.Ene.Nucl.Data, Paris, 1994 page 389
 # DOI             : N/A
-# Quantity        : 27Al(6He,a)29Al partial angular differential cross section
-# REACTION        : 13-AL-27(2-HE-6,A)13-AL-29,PAR,DA
-# File ID         : He6-Al27-a-adxc-lvldis-mon-einc2.200E+07_angl6_prodAl29_Aleksandrov_1993_f1316.002
+# Quantity        : 133Cs(p,x) cumulative production cross section
+# REACTION        : 55-CS-133(P,X)ELEM/MASS,CUM,SIG
+# File ID         : p-Cs133-x-sigc-nucdis-mon-einc1.000E+09_Semenov_1994_f1315.024
 #
-# Einc (eV)       :   2.2000E+07
-# theta,lab (deg) :    6.0000000
+# Einc (eV)       :   1.0000E+09
 #
-# npts            : 5           
-# xmin            :   1.1500E+07
-# xmax            :   1.8000E+07
-# ymin            :   1.5700E-02
-# ymax            :   5.5000E-02
+# npts            : 8           
+# xmin            : 34075.9     
+# xmax            : 51115.9     
+# ymin            :   2.4000E-04
+# ymax            :   2.8000E-02
 #
 #---------------------------------------------------
-# Elvl        dElvl       adx,cm      dadx,cm     
-#  eV          eV          b/sr        b/sr       
+# Product     sig,cum     dsig,cum    
+#              b           b          
 #---------------------------------------------------
-  1.1500E+07  0.0000E+00  1.5700E-02  0.0000E+00
-  1.2800E+07  0.0000E+00  3.4500E-02  0.0000E+00
-  1.3500E+07  0.0000E+00  3.0700E-02  0.0000E+00
-  1.5200E+07  0.0000E+00  4.7600E-02  0.0000E+00
-  1.8000E+07  0.0000E+00  5.5000E-02  0.0000E+00
+     34075.9  4.6000E-04  9.0000E-05
+     37083.9  6.8000E-04  1.2000E-04
+     39087.9  3.9000E-03  7.0000E-04
+     40089.9  4.4000E-03  7.0000E-04
+     44103.9  2.4000E-04  4.2000E-04
+     49111.9  2.0000E-02  3.6000E-03
+     50113.9  2.8000E-02  8.5000E-03
+     51115.9  2.3000E-02  4.1000E-03
 #---------------------------------------------------
