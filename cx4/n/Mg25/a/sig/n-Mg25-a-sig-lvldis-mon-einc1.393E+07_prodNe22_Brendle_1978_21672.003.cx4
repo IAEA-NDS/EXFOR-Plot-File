@@ -1,25 +1,28 @@
-# EXFOR #         : 21672.003  
-# EXFOR Ver.      : 20220218
-# TRANS #         : 2310
-# Author          : M.Brendle et al.
-# Reference       : Z.Phys.A 285 (1978) 293
-# DOI             : 10.1007/BF01408243
-# Quantity        : 25Mg(n,a)22Ne partial cross section
-# REACTION        : 12-MG-25(N,A)10-NE-22,PAR,SIG
-# File ID         : n-Mg25-a-sig-lvldis-mon-einc1.393E+07_prodNe22_Brendle_1978_21672.003
+# EXFOR #         : 21671.002  
+# EXFOR Ver.      : 19801104
+# TRANS #         : 0000
+# Author          : G.Mack et al.
+# Reference       : Z.Phys. 207 No.4 (1967) 359
+# DOI             : N/A
+# Quantity        : natXe(n,a) cross section
+# REACTION        : 54-XE-0(N,A),,SIG
+# File ID         : n-Xe-a-sig-excfun-mon-Mack_1967_21671.002
 #
-# Einc (eV)       :   1.3930E+07
-# dEinc (eV)      :   7.5000E+04
-#
-# npts            : 1           
-# xmin            :   0.0000E+00
-# xmax            :   0.0000E+00
-# ymin            :   1.4000E-03
-# ymax            :   1.4000E-03
+# npts            : 7           
+# xmin            :   1.2500E+07
+# xmax            :   1.8000E+07
+# ymin            :   6.7000E-04
+# ymax            :   4.1000E-03
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  0.0000E+00  0.0000E+00  1.4000E-03  3.0000E-04
+  1.2500E+07  1.0000E+05  6.7000E-04  8.0000E-05
+  1.3000E+07  1.0000E+05  9.2000E-04  1.0000E-04
+  1.4100E+07  1.0000E+05  1.3300E-03  1.5000E-04
+  1.5200E+07  1.0000E+05  1.8700E-03  2.3000E-04
+  1.6000E+07  1.0000E+05  2.3700E-03  2.9000E-04
+  1.7000E+07  1.0000E+05  3.0100E-03  4.0000E-04
+  1.8000E+07  1.0000E+05  4.1000E-03  7.0000E-04
 #---------------------------------------------------
