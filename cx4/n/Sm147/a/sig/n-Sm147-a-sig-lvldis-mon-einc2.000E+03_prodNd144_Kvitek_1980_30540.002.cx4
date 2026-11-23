@@ -1,25 +1,28 @@
-# EXFOR #         : 30540.002  
+# EXFOR #         : 30539.003  
 # EXFOR Ver.      : 20090503
 # TRANS #         : 3137
-# Author          : J.Kvitek et al.
-# Reference       : Z.Phys.A 294 (1980) 197
-# DOI             : 10.1007/BF01435056
-# Quantity        : 147Sm(n,a)144Nd partial cross section
-# REACTION        : 62-SM-147(N,A)60-ND-144,PAR,SIG
-# File ID         : n-Sm147-a-sig-lvldis-mon-einc2.000E+03_prodNd144_Kvitek_1980_30540.002
+# Author          : D.Miljanic et al.
+# Reference       : Nucl.Phys.A 334 (1980) 189
+# DOI             : N/A
+# Quantity        : 6Li(n,p)6He partial angular differential cross section
+# REACTION        : 3-LI-6(N,P)2-HE-6,PAR,DA
+# File ID         : n-Li6-p-adxc-angdisc-mon-einc1.460E+07_elvl0.000E+00_prodHe6_Miljanic_1980_30539.003
 #
-# Einc (eV)       :   2.0000E+03
+# Einc (eV)       :   1.4600E+07
+# Elvl (eV)       :   0.0000E+00
 #
-# npts            : 2           
-# xmin            :   0.0000E+00
-# xmax            :   6.9500E+05
-# ymin            :   7.8000E-05
-# ymax            :   1.1850E-04
+# npts            : 4           
+# xmin            :  124.0000000
+# xmax            :  171.0000000
+# ymin            :   3.5000E-04
+# ymax            :   6.0000E-04
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
-#  eV          eV          b           b          
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
 #---------------------------------------------------
-  0.0000E+00  0.0000E+00  1.1850E-04  2.2000E-05
-  6.9500E+05  0.0000E+00  7.8000E-05  1.7000E-05
+ 124.0000000   0.0000000  5.0000E-04  2.0000E-04
+ 135.0000000   0.0000000  6.0000E-04  2.0000E-04
+ 146.0000000   0.0000000  4.0000E-04  2.0000E-04
+ 171.0000000   0.0000000  3.5000E-04  1.5000E-04
 #---------------------------------------------------
