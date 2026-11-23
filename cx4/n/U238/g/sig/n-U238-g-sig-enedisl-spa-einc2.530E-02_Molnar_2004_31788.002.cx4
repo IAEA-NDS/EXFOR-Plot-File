@@ -1,0 +1,24 @@
+# EXFOR #         : 31788.002  
+# EXFOR Ver.      : 20190107
+# TRANS #         : 3188
+# Author          : G.L.Molnar et al.
+# Reference       : Nucl.Instrum.Meth.B 213 (2004) 389
+# DOI             : N/A
+# Quantity        : 238U(n,g)239U partial cross section
+# REACTION        : 92-U-238(N,G)92-U-239,PAR,SIG,,SPA
+# File ID         : n-U238-g-sig-enedisl-spa-einc2.530E-02_Molnar_2004_31788.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 1           
+# xmin            :   4.0600E+06
+# xmax            :   4.0600E+06
+# ymin            :   1.9100E-01
+# ymax            :   1.9100E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.0600E+06  0.0000E+00  1.9100E-01  2.0000E-03
+#---------------------------------------------------
