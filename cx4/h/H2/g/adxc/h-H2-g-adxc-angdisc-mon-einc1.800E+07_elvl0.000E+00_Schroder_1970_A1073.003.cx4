@@ -1,0 +1,30 @@
+# EXFOR #         : A1073.003  
+# EXFOR Ver.      : 20240703
+# TRANS #         : A112
+# Author          : H.Schroder et al.
+# Reference       : Z.Phys. 235 (1970) 234
+# DOI             : N/A
+# Quantity        : 2H(he3,g)5Li partial angular differential cross section
+# REACTION        : 1-H-2(HE3,G)3-LI-5,PAR,DA
+# File ID         : h-H2-g-adxc-angdisc-mon-einc1.800E+07_elvl0.000E+00_Schroder_1970_a1073.003
+#
+# Einc (eV)       :   1.8000E+07
+# dEinc (eV)      :   2.0000E+04
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :    2.1000000
+# xmax            :  139.9000000
+# ymin            :   2.5000E-06
+# ymax            :   3.0000E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   2.1000000   0.0000000  2.7000E-06  2.0000E-07
+  31.0000000   0.0000000  2.8000E-06  2.0000E-07
+  59.5000000   0.0000000  3.0000E-06  7.0000E-08
+  98.7000000   0.0000000  2.8000E-06  2.0000E-07
+ 139.9000000   0.0000000  2.5000E-06  4.0000E-07
+#---------------------------------------------------
