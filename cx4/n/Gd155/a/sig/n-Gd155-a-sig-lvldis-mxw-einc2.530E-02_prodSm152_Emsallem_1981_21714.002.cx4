@@ -1,26 +1,22 @@
-# EXFOR #         : 21714.002  
-# EXFOR Ver.      : 20191115
-# TRANS #         : 2283
-# Author          : A.Emsallem et al.
-# Reference       : Proceedings of 4.Symp.Neutr.Capt.Gamma-Ray Spectrosc.,Grenoble 1981 page 460
+# EXFOR #         : 21711.004.3
+# EXFOR Ver.      : 20230319
+# TRANS #         : 2316
+# Author          : D.T.Jost et al.
+# Reference       : J.Inorg.Nucl.Chem. 43 (1981) 2629
 # DOI             : N/A
-# Quantity        : 155Gd(n,a)152Sm partial cross section
-# REACTION        : 64-GD-155(N,A)62-SM-152,PAR,SIG,,MXW
-# File ID         : n-Gd155-a-sig-lvldis-mxw-einc2.530E-02_prodSm152_Emsallem_1981_21714.002
+# Quantity        : 239Pu(n,f)92gNb independent fission product yield
+# REACTION        : 94-PU-239(N,F)41-NB-92-G,IND,FY,,MXW
+# File ID         : n-Pu239-f-fyi-excfun-mxw-prodNb92g_Jost_1981_21711.004.3
 #
-# Einc (eV)       :   2.5300E-02
-#
-# npts            : 3           
-# xmin            :   1.2200E+05
-# xmax            :   8.1100E+05
-# ymin            :   4.0000E-06
-# ymax            :   6.7000E-05
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.6000E-09
+# ymax            :   2.6000E-09
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
-#  eV          eV          b           b          
+# Einc        dEinc       FY,ind      dFY,ind     
+#  eV          eV          /fis         /fis      
 #---------------------------------------------------
-  1.2200E+05  0.0000E+00  6.7000E-05  9.0000E-06
-  3.6600E+05  0.0000E+00  1.4500E-05  2.0000E-06
-  8.1100E+05  0.0000E+00  4.0000E-06  1.0000E-06
+  2.5300E-02  0.0000E+00  2.6000E-09  1.9000E-09
 #---------------------------------------------------
