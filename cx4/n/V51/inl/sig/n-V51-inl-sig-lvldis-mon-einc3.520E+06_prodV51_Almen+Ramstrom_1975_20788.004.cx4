@@ -1,29 +1,24 @@
-# EXFOR #         : 20788.004  
-# EXFOR Ver.      : 20120731
-# TRANS #         : 2232
-# Author          : E.Almen-Ramstrom
-# Reference       : Report AE-503, 1975
+# EXFOR #         : 20787.009  
+# EXFOR Ver.      : 20170724
+# TRANS #         : 2263
+# Author          : S.Joly et al.
+# Reference       : Nucl.Sci.Eng. 70 (1979) 53
 # DOI             : N/A
-# Quantity        : 51V(n,inl)51V partial cross section
-# REACTION        : 23-V-51(N,INL)23-V-51,PAR,SIG
-# File ID         : n-V51-inl-sig-lvldis-mon-einc3.520E+06_prodV51_Almen+Ramstrom_1975_20788.004
+# Quantity        : 205Tl(n,g)206Tl cross section
+# REACTION        : 81-TL-205(N,G)81-TL-206,,SIG
+# File ID         : n-Tl205-g-sig-excfun-mon-prodTl206_Joly_1979_20787.009
 #
-# Einc (eV)       :   3.5200E+06
-#
-# npts            : 6           
-# xmin            :   3.2000E+05
-# xmax            :   2.5450E+06
-# ymin            :   2.3000E-02
-# ymax            :   2.3300E-01
+# npts            : 3           
+# xmin            :   5.0000E+05
+# xmax            :   2.5000E+06
+# ymin            :   4.0000E-03
+# ymax            :   1.2000E-02
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  3.2000E+05  0.0000E+00  2.3300E-01  3.5000E-02
-  9.3000E+05  0.0000E+00  9.8000E-02  1.5000E-02
-  1.6090E+06  0.0000E+00  2.1600E-01  3.2000E-02
-  1.8130E+06  0.0000E+00  2.0100E-01  3.0000E-02
-  2.4100E+06  0.0000E+00  3.4000E-02  7.0000E-03
-  2.5450E+06  0.0000E+00  2.3000E-02  6.0000E-03
+  5.0000E+05  8.0000E+04  1.2000E-02  4.0000E-03
+  1.0000E+06  7.0000E+04  1.0000E-02  5.0000E-03
+  2.5000E+06  6.0000E+04  4.0000E-03  3.0000E-03
 #---------------------------------------------------
