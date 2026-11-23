@@ -1,24 +1,32 @@
-# EXFOR #         : F0280.002  
-# EXFOR Ver.      : 20210524
-# TRANS #         : F083
-# Author          : R.W.Kavanagh et al.
-# Reference       : Phys.Rev. 112 (1958) 503
-# DOI             : 10.1103/PhysRev.112.503
-# Quantity        : 11B(d,n)12C partial cross section
-# REACTION        : 5-B-11(D,N)6-C-12,PAR,SIG
-# File ID         : d-B11-n-sig-lvldis-mon-einc2.200E+06_prodC12_Kavanagh_1958_f0280.002
+# EXFOR #         : F0279.005  
+# EXFOR Ver.      : 20180616
+# TRANS #         : F069
+# Author          : A.A.Jaffe et al.
+# Reference       : Proc.Phys.Soc.(UK) 76 (1960) 914
+# DOI             : N/A
+# Quantity        : 27Al(t,p)29Al partial angular differential cross section
+# REACTION        : 13-AL-27(T,P)13-AL-29,PAR,DA
+# File ID         : t-Al27-p-adxc-angdisc-mon-einc5.500E+06_elvl3.577E+06_prodAl29_Jaffe_1960_f0279.005
 #
-# Einc (eV)       :   2.2000E+06
+# Einc (eV)       :   5.5000E+06
+# Elvl (eV)       :   3.5770E+06
 #
-# npts            : 1           
-# xmin            :   1.5100E+07
-# xmax            :   1.5100E+07
-# ymin            :   2.9000E-02
-# ymax            :   2.9000E-02
+# npts            : 8           
+# xmin            :   16.9900000
+# xmax            :   92.9500000
+# ymin            :   7.7900E-05
+# ymax            :   4.5400E-04
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
-#  eV          eV          b           b          
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
 #---------------------------------------------------
-  1.5100E+07  0.0000E+00  2.9000E-02  7.0000E-03
+  16.9900000   0.0000000  1.8480E-04  2.0100E-05
+  22.9700000   0.0000000  3.2280E-04  1.6300E-05
+  31.8300000   0.0000000  4.5400E-04  1.8200E-05
+  41.7400000   0.0000000  4.1270E-04  1.6300E-05
+  53.0000000   0.0000000  2.7550E-04  1.6300E-05
+  63.9400000   0.0000000  7.7900E-05  6.7140E-06
+  78.6600000   0.0000000  1.2760E-04  6.7100E-06
+  92.9500000   0.0000000  1.8790E-04  7.6730E-06
 #---------------------------------------------------

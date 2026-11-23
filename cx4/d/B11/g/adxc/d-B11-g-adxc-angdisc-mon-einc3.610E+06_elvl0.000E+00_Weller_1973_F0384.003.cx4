@@ -1,0 +1,28 @@
+# EXFOR #         : F0384.003  
+# EXFOR Ver.      : 20220601
+# TRANS #         : F091
+# Author          : H.R.Weller et al.
+# Reference       : Nucl.Phys.A 211 (1973) 221
+# DOI             : N/A
+# Quantity        : 11B(d,g)13C partial angular differential cross section
+# REACTION        : 5-B-11(D,G)6-C-13,PAR,DA
+# File ID         : d-B11-g-adxc-angdisc-mon-einc3.610E+06_elvl0.000E+00_Weller_1973_f0384.003
+#
+# Einc (eV)       :   3.6100E+06
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :    0.8000000
+# xmax            :   88.9000000
+# ymin            :   6.2380E-07
+# ymax            :   7.1620E-07
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.8000000   0.0000000  6.2380E-07  3.1190E-07
+  29.1000000   0.0000000  7.1620E-07  3.5810E-07
+  60.4000000   0.0000000  6.9230E-07  3.4615E-07
+  88.9000000   0.0000000  6.6840E-07  3.3420E-07
+#---------------------------------------------------
