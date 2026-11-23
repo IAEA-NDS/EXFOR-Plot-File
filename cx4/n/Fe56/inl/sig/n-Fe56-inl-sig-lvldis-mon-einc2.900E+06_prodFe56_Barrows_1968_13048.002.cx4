@@ -1,26 +1,22 @@
-# EXFOR #         : 13048.002  
-# EXFOR Ver.      : 19870303
+# EXFOR #         : 13045.013  
+# EXFOR Ver.      : 19870220
 # TRANS #         : 0000
-# Author          : A.W.Barrows et al.
-# Reference       : Nucl.Phys.A 107 (1968) 153
-# DOI             : 10.1016/0375-9474(68)90732-X
-# Quantity        : 56Fe(n,inl)56Fe partial cross section
-# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,SIG
-# File ID         : n-Fe56-inl-sig-lvldis-mon-einc2.900E+06_prodFe56_Barrows_1968_13048.002
+# Author          : H.R.Child et al.
+# Reference       : Phys.Rev. 174 (1968) 1553
+# DOI             : N/A
+# Quantity        : natDy(n,tot) cross section
+# REACTION        : 66-DY-0(N,TOT),,SIG
+# File ID         : n-Dy-tot-sig-excfun-mon-Child_1968_13045.013
 #
-# Einc (eV)       :   2.9000E+06
-#
-# npts            : 3           
-# xmin            :   8.4500E+05
-# xmax            :   2.6600E+06
-# ymin            :   9.2000E-02
-# ymax            :   9.6400E-01
+# npts            : 1           
+# xmin            :   1.0800E-10
+# xmax            :   1.0800E-10
+# ymin            :   6.5000E+02
+# ymax            :   6.5000E+02
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  8.4500E+05  0.0000E+00  9.6400E-01  0.0000E+00
-  2.0800E+06  0.0000E+00  9.2000E-02  0.0000E+00
-  2.6600E+06  0.0000E+00  1.2900E-01  0.0000E+00
+  1.0800E-10  0.0000E+00  6.5000E+02  6.0000E+00
 #---------------------------------------------------
