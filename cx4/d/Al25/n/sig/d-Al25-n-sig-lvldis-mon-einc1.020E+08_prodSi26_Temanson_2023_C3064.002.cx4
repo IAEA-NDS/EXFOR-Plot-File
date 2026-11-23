@@ -1,26 +1,22 @@
-# EXFOR #         : C3064.002  
+# EXFOR #         : C3063.004  
 # EXFOR Ver.      : 20250506
 # TRANS #         : C251
-# Author          : E.Temanson et al.
-# Reference       : Phys.Rev.C 108 (2023) 065804
-# DOI             : 10.1103/PhysRevC.108.065804
-# Quantity        : 25Al(d,n)26Si partial cross section
-# REACTION        : 13-AL-25(D,N)14-SI-26,PAR,SIG
-# File ID         : d-Al25-n-sig-lvldis-mon-einc1.020E+08_prodSi26_Temanson_2023_c3064.002
+# Author          : T.Beck et al.
+# Reference       : Phys.Rev.C 108 (2023) L061301
+# DOI             : N/A
+# Quantity        : 9Be(38Ca,x)36Ca independent production cross section
+# REACTION        : 4-BE-9(20-CA-38,X)20-CA-36,,SIG
+# File ID         : Ca38-Be9-x-sig-excfun-mon-prodCa36_Beck_2023_c3063.004
 #
-# Einc (eV)       :   1.0200E+08
-#
-# npts            : 3           
-# xmin            :   5.9294E+06
-# xmax            :   6.7870E+06
-# ymin            :   5.8300E-03
-# ymax            :   3.0120E-02
+# npts            : 1           
+# xmin            :   2.3142E+09
+# xmax            :   2.3142E+09
+# ymin            :   4.0800E-04
+# ymax            :   4.0800E-04
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  5.9294E+06  0.0000E+00  5.8300E-03  9.0000E-05
-  6.2953E+06  0.0000E+00  1.0020E-02  9.0000E-05
-  6.7870E+06  0.0000E+00  3.0120E-02  6.0000E-05
+  2.3142E+09  0.0000E+00  4.0800E-04  9.0000E-06
 #---------------------------------------------------
