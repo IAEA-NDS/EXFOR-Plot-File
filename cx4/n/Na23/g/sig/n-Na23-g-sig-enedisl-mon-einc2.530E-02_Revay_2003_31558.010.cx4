@@ -1,0 +1,25 @@
+# EXFOR #         : 31558.010  
+# EXFOR Ver.      : 20051206
+# TRANS #         : 3118
+# Author          : Zs.Revay et al.
+# Reference       : Radiochim.Acta 91 (2003) 361
+# DOI             : N/A
+# Quantity        : 23Na(n,g)24Na partial cross section
+# REACTION        : 11-NA-23(N,G)11-NA-24,PAR,SIG
+# File ID         : n-Na23-g-sig-enedisl-mon-einc2.530E-02_Revay_2003_31558.010
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            :   4.7200E+05
+# xmax            :   4.7200E+05
+# ymin            :   4.8800E-01
+# ymax            :   4.9700E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.7200E+05  0.0000E+00  4.9700E-01  5.0000E-03
+  4.7200E+05  0.0000E+00  4.8800E-01  5.0000E-03
+#---------------------------------------------------

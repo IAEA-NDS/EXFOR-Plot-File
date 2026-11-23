@@ -1,0 +1,26 @@
+# EXFOR #         : 30187.002  
+# EXFOR Ver.      : 20080208
+# TRANS #         : 3126
+# Author          : D.Plostinaru et al.
+# Reference       : Progress report INDC(RUM)-3 page 19, 1972
+# DOI             : N/A
+# Quantity        : 23Na(n,g)24Na partial cross section
+# REACTION        : 11-NA-23(N,G)11-NA-24,PAR,SIG
+# File ID         : n-Na23-g-sig-excfun-mon-elvl4.720E+05_Plostinaru_1972_30187.002
+#
+# Elvl (eV)       :   4.7200E+05
+#
+# npts            : 3           
+# xmin            :   9.2000E+05
+# xmax            :   3.9500E+06
+# ymin            :   1.0000E-04
+# ymax            :   1.2000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.2000E+05  0.0000E+00  1.0000E-04  4.0000E-05
+  2.2800E+06  0.0000E+00  1.0000E-04  4.0000E-05
+  3.9500E+06  0.0000E+00  1.2000E-04  4.0000E-05
+#---------------------------------------------------
