@@ -1,24 +1,23 @@
-# EXFOR #         : 40680.059  
+# EXFOR #         : 40680.049  
 # EXFOR Ver.      : 20211203
 # TRANS #         : 4201
 # Author          : N.P.Glazkov
 # Reference       : At.En. 15 (1963) 416
 # DOI             : N/A
-# Quantity        : natSb(n,inl)natSb partial cross section
-# REACTION        : 51-SB-0(N,INL)51-SB-0,PAR,SIG
-# File ID         : n-Sb-inl-sig-lvldis-mon-einc6.000E+05_prodSb_Glazkov_1963_40680.059
+# Quantity        : natBa(n,inl)natBa cross section
+# REACTION        : 56-BA-0(N,INL)56-BA-0,,SIG
+# File ID         : n-Ba-inl-sig-excfun-mon-prodBa_Glazkov_1963_40680.049
 #
-# Einc (eV)       :   6.0000E+05
-#
-# npts            : 1           
-# xmin            :   1.5000E+05
-# xmax            :   1.5000E+05
-# ymin            :   1.9000E-01
-# ymax            :   1.9000E-01
+# npts            : 2           
+# xmin            :   8.0000E+05
+# xmax            :   1.0000E+06
+# ymin            :   4.0000E-01
+# ymax            :   5.0000E-01
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  1.5000E+05  0.0000E+00  1.9000E-01  5.0000E-02
+  8.0000E+05  0.0000E+00  4.0000E-01  2.0000E-01
+  1.0000E+06  0.0000E+00  5.0000E-01  2.5000E-01
 #---------------------------------------------------
