@@ -1,0 +1,26 @@
+# EXFOR #         : 31768.016  
+# EXFOR Ver.      : 20160617
+# TRANS #         : 3174
+# Author          : R.B.Firestone et al.
+# Reference       : Phys.Rev.C 93 (2016) 054306
+# DOI             : N/A
+# Quantity        : 11B(n,g)12B partial cross section
+# REACTION        : 5-B-11(N,G)5-B-12,PAR,SIG
+# File ID         : n-B11-g-sig-enedisl-mon-einc2.530E-02_Firestone_2016_31768.016
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 3           
+# xmin            :   9.5310E+05
+# xmax            :   3.3684E+06
+# ymin            :   2.6500E-03
+# ymax            :   6.4300E-03
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.5310E+05  6.0000E+02  2.6600E-03  1.9000E-04
+  2.4156E+06  1.2000E+02  2.6500E-03  8.0000E-04
+  3.3684E+06  1.7000E+02  6.4300E-03  8.0000E-04
+#---------------------------------------------------

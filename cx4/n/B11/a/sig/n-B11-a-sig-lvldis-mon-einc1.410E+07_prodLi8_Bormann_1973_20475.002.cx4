@@ -1,26 +1,34 @@
-# EXFOR #         : 20475.002  
+# EXFOR #         : 20474.006  
 # EXFOR Ver.      : 19840120
 # TRANS #         : 0000
-# Author          : M.Bormann et al.
-# Reference       : Z.Phys. 258 (1973) 285
+# Author          : J.Lachkar et al.
+# Reference       : Nucl.Sci.Eng. 55 (1974) 168
 # DOI             : N/A
-# Quantity        : 11B(n,a)8Li partial cross section
-# REACTION        : 5-B-11(N,A)3-LI-8,PAR,SIG
-# File ID         : n-B11-a-sig-lvldis-mon-einc1.410E+07_prodLi8_Bormann_1973_20475.002
+# Quantity        : 56Fe(n,inl)56Fe partial gamma angular differential cross section
+# REACTION        : 26-FE-56(N,INL)26-FE-56,PAR,DA,G
+# File ID         : n-Fe56-inl-adxgl-angdisl-mon-einc1.410E+07_eoutl8.468E+05_prodFe56_Lachkar_1974_20474.006
 #
 # Einc (eV)       :   1.4100E+07
-# dEinc (eV)      :   1.5000E+05
+# dEinc (eV)      :   2.0000E+04
+# Eout,lab (eV)   :   8.4680E+05
 #
-# npts            : 2           
-# xmin            :   0.0000E+00
-# xmax            :   9.8000E+05
-# ymin            :   9.2000E-03
-# ymax            :   1.7700E-02
+# npts            : 9           
+# xmin            :   30.0006100
+# xmax            :  149.9993000
+# ymin            :   6.5500E-02
+# ymax            :   7.9200E-02
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
-#  eV          eV          b           b          
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
 #---------------------------------------------------
-  0.0000E+00  0.0000E+00  1.7700E-02  5.3100E-03
-  9.8000E+05  0.0000E+00  9.2000E-03  2.7600E-03
+ 149.9993000   0.0000000  7.7200E-02  4.2000E-03
+  99.9995200   0.0000000  6.6100E-02  6.0000E-03
+  90.0000000   0.0000000  6.5500E-02  6.6000E-03
+  80.0004700   0.0000000  6.7000E-02  6.0000E-03
+  70.0000000   0.0000000  6.7500E-02  3.6000E-03
+  60.0000000   0.0000000  7.3800E-02  7.7000E-03
+  50.0005600   0.0000000  7.1400E-02  6.5000E-03
+  40.0003900   0.0000000  7.9200E-02  5.7000E-03
+  30.0006100   0.0000000  7.0800E-02  5.1000E-03
 #---------------------------------------------------
