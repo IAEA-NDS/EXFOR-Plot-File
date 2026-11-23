@@ -1,0 +1,27 @@
+# EXFOR #         : 23110.003  
+# EXFOR Ver.      : 20100929
+# TRANS #         : 2223
+# Author          : M.Segawa et al.
+# Reference       : Nucl.Instrum.Meth.A 618 (2010) 153
+# DOI             : N/A
+# Quantity        : 206Pb(n,g)207Pb partial cross section
+# REACTION        : 82-PB-206(N,G)82-PB-207,PAR,SIG,,A/AV
+# File ID         : n-Pb206-g-sig-enedisl-mon-einc4.100E+04_Segawa_2010_23110.003
+#
+# Einc (eV)       :   4.1000E+04
+# dEinc (eV)      :   1.0000E+04
+#
+# npts            : 3           
+# xmin            :   5.8800E+06
+# xmax            :   6.7800E+06
+# ymin            :   5.3942E-03
+# ymax            :   2.0747E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.7800E+06  0.0000E+00  2.0747E-02  1.2448E-03
+  6.2100E+06  0.0000E+00  5.3942E-03  8.2988E-04
+  5.8800E+06  0.0000E+00  1.2448E-02  8.2988E-04
+#---------------------------------------------------

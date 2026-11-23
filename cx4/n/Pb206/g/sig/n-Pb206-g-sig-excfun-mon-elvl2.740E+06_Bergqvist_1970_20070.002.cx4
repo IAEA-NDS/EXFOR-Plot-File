@@ -1,0 +1,26 @@
+# EXFOR #         : 20070.002  
+# EXFOR Ver.      : 20230515
+# TRANS #         : 2317
+# Author          : I.Bergqvist et al.
+# Reference       : Nucl.Phys.A 153 (1970) 553
+# DOI             : N/A
+# Quantity        : 206Pb(n,g)207Pb partial cross section
+# REACTION        : 82-PB-206(N,G)82-PB-207,PAR,SIG
+# File ID         : n-Pb206-g-sig-excfun-mon-elvl2.740E+06_Bergqvist_1970_20070.002
+#
+# Elvl (eV)       :   2.7400E+06
+#
+# npts            : 3           
+# xmin            :   6.4600E+06
+# xmax            :   8.4300E+06
+# ymin            :   2.3200E-04
+# ymax            :   5.8000E-04
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.4600E+06  0.0000E+00  2.3200E-04  4.7000E-05
+  7.4600E+06  0.0000E+00  3.8500E-04  7.7000E-05
+  8.4300E+06  0.0000E+00  5.8000E-04  1.1600E-04
+#---------------------------------------------------
