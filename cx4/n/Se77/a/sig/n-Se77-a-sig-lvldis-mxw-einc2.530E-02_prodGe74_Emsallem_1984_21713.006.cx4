@@ -1,25 +1,22 @@
-# EXFOR #         : 21713.006  
-# EXFOR Ver.      : 20121109
-# TRANS #         : 2234
-# Author          : A.Emsallem et al.
-# Reference       : Z.Phys.A 315 (1984) 201
-# DOI             : 10.1007/BF01419380
-# Quantity        : 77Se(n,a)74Ge partial cross section
-# REACTION        : 34-SE-77(N,A)32-GE-74,PAR,SIG,,MXW
-# File ID         : n-Se77-a-sig-lvldis-mxw-einc2.530E-02_prodGe74_Emsallem_1984_21713.006
+# EXFOR #         : 21711.004.3
+# EXFOR Ver.      : 20230319
+# TRANS #         : 2316
+# Author          : D.T.Jost et al.
+# Reference       : J.Inorg.Nucl.Chem. 43 (1981) 2629
+# DOI             : N/A
+# Quantity        : 239Pu(n,f)92gNb independent fission product yield
+# REACTION        : 94-PU-239(N,F)41-NB-92-G,IND,FY,,MXW
+# File ID         : n-Pu239-f-fyi-excfun-mxw-prodNb92g_Jost_1981_21711.004.3
 #
-# Einc (eV)       :   2.5300E-02
-#
-# npts            : 2           
-# xmin            :   0.0000E+00
-# xmax            :   5.9600E+05
-# ymin            :   3.0000E-05
-# ymax            :   9.4000E-04
+# npts            : 1           
+# xmin            :   2.5300E-02
+# xmax            :   2.5300E-02
+# ymin            :   2.6000E-09
+# ymax            :   2.6000E-09
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
-#  eV          eV          b           b          
+# Einc        dEinc       FY,ind      dFY,ind     
+#  eV          eV          /fis         /fis      
 #---------------------------------------------------
-  0.0000E+00  0.0000E+00  9.4000E-04  2.0000E-05
-  5.9600E+05  0.0000E+00  3.0000E-05  5.0000E-06
+  2.5300E-02  0.0000E+00  2.6000E-09  1.9000E-09
 #---------------------------------------------------
