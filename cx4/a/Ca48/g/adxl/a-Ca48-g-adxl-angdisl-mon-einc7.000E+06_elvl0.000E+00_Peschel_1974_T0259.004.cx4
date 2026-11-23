@@ -1,0 +1,25 @@
+# EXFOR #         : T0259.004  
+# EXFOR Ver.      : 20040603
+# TRANS #         : 0000
+# Author          : R.E.Peschel et al.
+# Reference       : Nucl.Phys.A 232 (1974) 269
+# DOI             : N/A
+# Quantity        : 48Ca(a,g)52Ti partial angular differential cross section
+# REACTION        : 20-CA-48(A,G)22-TI-52,PAR,DA
+# File ID         : a-Ca48-g-adxl-angdisl-mon-einc7.000E+06_elvl0.000E+00_Peschel_1974_t0259.004
+#
+# Einc (eV)       :   7.0000E+06
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   90.0000000
+# xmax            :   90.0000000
+# ymin            :   4.5000E-08
+# ymax            :   4.5000E-08
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  90.0000000   0.0000000  4.5000E-08  8.0000E-09
+#---------------------------------------------------
