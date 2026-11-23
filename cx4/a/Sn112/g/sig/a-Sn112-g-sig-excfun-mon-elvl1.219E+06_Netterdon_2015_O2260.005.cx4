@@ -1,0 +1,25 @@
+# EXFOR #         : O2260.005  
+# EXFOR Ver.      : 20150325
+# TRANS #         : O054
+# Author          : L.Netterdon et al.
+# Reference       : Phys.Rev.C 91 (2015) 035801
+# DOI             : N/A
+# Quantity        : 112Sn(a,g)116Te partial cross section
+# REACTION        : 50-SN-112(A,G)52-TE-116,PAR,SIG
+# File ID         : a-Sn112-g-sig-excfun-mon-elvl1.219E+06_Netterdon_2015_o2260.005
+#
+# Elvl (eV)       :   1.2191E+06
+#
+# npts            : 2           
+# xmin            :   1.1446E+07
+# xmax            :   1.1943E+07
+# ymin            :   5.6900E-06
+# ymax            :   7.7400E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.1446E+07  1.4001E+04  5.6900E-06  8.2000E-07
+  1.1943E+07  1.4002E+04  7.7400E-06  9.1000E-07
+#---------------------------------------------------
