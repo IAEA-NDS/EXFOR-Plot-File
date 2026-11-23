@@ -1,12 +1,12 @@
-# EXFOR #         : 30412.006  
-# EXFOR Ver.      : 20090310
-# TRANS #         : 3135
-# Author          : J.Bouzyk et al.
-# Reference       : Proceedings of Research Reactors Conf., Bucuresti,1961
+# EXFOR #         : 11047.024  
+# EXFOR Ver.      : 20190830
+# TRANS #         : 1459
+# Author          : H.Pomerance
+# Reference       : Phys.Rev. 83 (1951) 641
 # DOI             : N/A
 # Quantity        : natZn(n,g) cross section
 # REACTION        : 30-ZN-0(N,G),,SIG,,MXW
-# File ID         : n-Zn-g-sig-excfun-mxw-prodZn1_Bouzyk_1961_30412.006
+# File ID         : n-Zn-g-sig-excfun-mxw-Pomerance_1951_11047.024
 #
 # npts            : 1           
 # xmin            :   2.5300E-02
@@ -18,5 +18,5 @@
 # Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  2.5300E-02  0.0000E+00  1.0000E+00  0.0000E+00
+  2.5300E-02  0.0000E+00  1.0000E+00  5.0000E-02
 #---------------------------------------------------

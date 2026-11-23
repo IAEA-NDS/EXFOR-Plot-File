@@ -1,12 +1,12 @@
-# EXFOR #         : 11528.016  
-# EXFOR Ver.      : 19830412
-# TRANS #         : 0000
-# Author          : S.P.Harris et al.
-# Reference       : Phys.Rev. 80 (1950) 342
-# DOI             : 10.1103/PhysRev.80.342
+# EXFOR #         : 20638.017  
+# EXFOR Ver.      : 20060330
+# TRANS #         : 2177
+# Author          : R.B.Tattersall et al.
+# Reference       : J.Nucl.Energy A 12 (1960) 32
+# DOI             : N/A
 # Quantity        : natZn(n,g) cross section
-# REACTION        : 30-ZN-0(N,G),,SIG,,SPA
-# File ID         : n-Zn-g-sig-excfun-spa-prodZn1_Harris_1950_11528.016
+# REACTION        : 30-ZN-0(N,G),,SIG
+# File ID         : n-Zn-g-sig-excfun-mon-Tattersall_1960_20638.017
 #
 # npts            : 1           
 # xmin            :   2.5300E-02
@@ -18,5 +18,5 @@
 # Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  2.5300E-02  0.0000E+00  1.0900E+00  5.4500E-02
+  2.5300E-02  0.0000E+00  1.0900E+00  2.0000E-02
 #---------------------------------------------------
