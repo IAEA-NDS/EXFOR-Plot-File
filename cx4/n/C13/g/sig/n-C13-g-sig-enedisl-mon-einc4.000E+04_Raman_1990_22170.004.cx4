@@ -1,0 +1,26 @@
+# EXFOR #         : 22170.004  
+# EXFOR Ver.      : 20160725
+# TRANS #         : 2252
+# Author          : S.Raman et al.
+# Reference       : Phys.Rev.C 41 (1990) 458
+# DOI             : N/A
+# Quantity        : 13C(n,g)14C partial cross section
+# REACTION        : 6-C-13(N,G)6-C-14,PAR,SIG
+# File ID         : n-C13-g-sig-enedisl-mon-einc4.000E+04_Raman_1990_22170.004
+#
+# Einc (eV)       :   4.0000E+04
+#
+# npts            : 3           
+# xmin            :   6.0900E+06
+# xmax            :   8.3200E+06
+# ymin            :   3.7000E-06
+# ymax            :   1.3600E-05
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.3200E+06  0.0000E+00  3.7000E-06  4.0000E-06
+  6.7300E+06  0.0000E+00  1.1000E-05  5.1000E-06
+  6.0900E+06  0.0000E+00  1.3600E-05  5.9000E-06
+#---------------------------------------------------
