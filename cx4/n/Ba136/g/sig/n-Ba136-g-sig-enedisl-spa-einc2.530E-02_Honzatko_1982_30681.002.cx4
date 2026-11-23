@@ -1,0 +1,30 @@
+# EXFOR #         : 30681.002  
+# EXFOR Ver.      : 20090914
+# TRANS #         : 3140
+# Author          : J.Honzatko et al.
+# Reference       : Proceedings of Conf.on Neutron Induced Reactions,Smolenice 1982 page 249
+# DOI             : N/A
+# Quantity        : 136Ba(n,g)137Ba partial cross section
+# REACTION        : 56-BA-136(N,G)56-BA-137,PAR,SIG,,SPA
+# File ID         : n-Ba136-g-sig-enedisl-spa-einc2.530E-02_Honzatko_1982_30681.002
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 7           
+# xmin            :   3.1060E+06
+# xmax            :   4.7233E+06
+# ymin            :   4.3000E-03
+# ymax            :   2.9140E-01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  4.7233E+06  0.0000E+00  2.9140E-01  0.0000E+00
+  4.2427E+06  0.0000E+00  9.1400E-02  0.0000E+00
+  3.5896E+06  0.0000E+00  1.2400E-02  0.0000E+00
+  3.5027E+06  0.0000E+00  9.8000E-03  0.0000E+00
+  3.2258E+06  0.0000E+00  9.3000E-03  0.0000E+00
+  3.1274E+06  0.0000E+00  9.5000E-03  0.0000E+00
+  3.1060E+06  0.0000E+00  4.3000E-03  0.0000E+00
+#---------------------------------------------------
