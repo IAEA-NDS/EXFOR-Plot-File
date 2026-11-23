@@ -1,0 +1,29 @@
+# EXFOR #         : A1081.002  
+# EXFOR Ver.      : 20260216
+# TRANS #         : A132
+# Author          : E.Ventura et al.
+# Reference       : Nucl.Phys.A 173 (1971) 1
+# DOI             : N/A
+# Quantity        : 3H(he3,g)6Li partial angular differential cross section
+# REACTION        : 1-H-3(HE3,G)3-LI-6,PAR,DA
+# File ID         : h-H3-g-adxc-angdisc-mon-einc2.170E+07_elvl4.570E+06_Ventura_1971_a1081.002
+#
+# Einc (eV)       :   2.1700E+07
+# Elvl (eV)       :   4.5700E+06
+#
+# npts            : 5           
+# xmin            :   78.4000000
+# xmax            :  138.4000000
+# ymin            :   3.1550E-06
+# ymax            :   4.3750E-06
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  78.4000000   0.0000000  3.9920E-06  0.0000E+00
+  93.3000000   0.0000000  4.3750E-06  0.0000E+00
+ 108.7000000   0.0000000  3.7760E-06  0.0000E+00
+ 123.3000000   0.0000000  3.6270E-06  0.0000E+00
+ 138.4000000   0.0000000  3.1550E-06  0.0000E+00
+#---------------------------------------------------
