@@ -1,0 +1,25 @@
+# EXFOR #         : 31558.074  
+# EXFOR Ver.      : 20051206
+# TRANS #         : 3118
+# Author          : Zs.Revay et al.
+# Reference       : Radiochim.Acta 91 (2003) 361
+# DOI             : N/A
+# Quantity        : 197Au(n,g)198Au partial cross section
+# REACTION        : 79-AU-197(N,G)79-AU-198,PAR,SIG
+# File ID         : n-Au197-g-sig-enedisl-mon-einc2.530E-02_Revay_2003_31558.074
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            :   2.1400E+05
+# xmax            :   4.1200E+05
+# ymin            :   7.7700E+00
+# ymax            :   9.4600E+01
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.1400E+05  0.0000E+00  7.7700E+00  5.0000E-02
+  4.1200E+05  0.0000E+00  9.4600E+01  6.0000E-01
+#---------------------------------------------------
