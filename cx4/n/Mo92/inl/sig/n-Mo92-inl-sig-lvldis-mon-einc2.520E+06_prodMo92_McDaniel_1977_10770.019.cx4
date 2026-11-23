@@ -1,24 +1,22 @@
-# EXFOR #         : 10770.019  
+# EXFOR #         : 10770.018  
 # EXFOR Ver.      : 20100525
 # TRANS #         : 1364
 # Author          : F.D.McDaniel et al.
 # Reference       : Progress report A-KTY-74/77 page 3, 1977
 # DOI             : N/A
-# Quantity        : 92Mo(n,inl)92Mo partial cross section
-# REACTION        : 42-MO-92(N,INL)42-MO-92,PAR,SIG
-# File ID         : n-Mo92-inl-sig-lvldis-mon-einc2.520E+06_prodMo92_McDaniel_1977_10770.019
-#
-# Einc (eV)       :   2.5200E+06
+# Quantity        : 92Mo(n,el)92Mo cross section
+# REACTION        : 42-MO-92(N,EL)42-MO-92,,SIG
+# File ID         : n-Mo92-el-sig-excfun-mon-prodMo92_McDaniel_1977_10770.018
 #
 # npts            : 1           
-# xmin            :   1.5090E+06
-# xmax            :   1.5090E+06
-# ymin            :   9.2910E-01
-# ymax            :   9.2910E-01
+# xmin            :   2.5200E+06
+# xmax            :   2.5200E+06
+# ymin            :   3.1730E+00
+# ymax            :   3.1730E+00
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  1.5090E+06  0.0000E+00  9.2910E-01  0.0000E+00
+  2.5200E+06  0.0000E+00  3.1730E+00  0.0000E+00
 #---------------------------------------------------
