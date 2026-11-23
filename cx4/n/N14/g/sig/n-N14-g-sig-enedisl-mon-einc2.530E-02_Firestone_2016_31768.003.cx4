@@ -1,0 +1,25 @@
+# EXFOR #         : 31768.003  
+# EXFOR Ver.      : 20160610
+# TRANS #         : 3174
+# Author          : R.B.Firestone et al.
+# Reference       : Phys.Rev.C 93 (2016) 054306
+# DOI             : N/A
+# Quantity        : 14N(n,g)15N partial cross section
+# REACTION        : 7-N-14(N,G)7-N-15,PAR,SIG
+# File ID         : n-N14-g-sig-enedisl-mon-einc2.530E-02_Firestone_2016_31768.003
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 2           
+# xmin            :   1.8848E+06
+# xmax            :   1.0829E+07
+# ymin            :   1.0700E-02
+# ymax            :   1.4570E-02
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.8848E+06  3.0000E+01  1.4570E-02  9.0000E-05
+  1.0829E+07  2.1000E+02  1.0700E-02  4.0000E-04
+#---------------------------------------------------
