@@ -1,0 +1,26 @@
+# EXFOR #         : 23024.003  
+# EXFOR Ver.      : 20080622
+# TRANS #         : 2199
+# Author          : T.Ohsaki et al.
+# Reference       : Phys.Rev.C 77 (2008) 051303
+# DOI             : N/A
+# Quantity        : 18O(n,g)19O partial gamma production cross section
+# REACTION        : 8-O-18(N,G)8-O-19,PAR,SIG,G,SPA
+# File ID         : n-O18-g-sigg-enedisl-spa-einc6.500E+04_Ohsaki_2008_23024.003
+#
+# Einc (eV)       :   6.5000E+04
+#
+# npts            : 3           
+# xmin            :   2.4920E+06
+# xmax            :   3.9640E+06
+# ymin            :   2.0000E-06
+# ymax            :   6.6000E-06
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.9640E+06  0.0000E+00  2.0000E-06  8.0000E-07
+  3.8680E+06  0.0000E+00  3.3000E-06  9.0000E-07
+  2.4920E+06  0.0000E+00  6.6000E-06  1.3000E-06
+#---------------------------------------------------

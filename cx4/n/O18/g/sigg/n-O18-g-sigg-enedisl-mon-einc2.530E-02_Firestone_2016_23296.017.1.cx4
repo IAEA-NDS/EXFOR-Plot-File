@@ -1,0 +1,27 @@
+# EXFOR #         : 23296.017.1
+# EXFOR Ver.      : 20160421
+# TRANS #         : 2249
+# Author          : R.B.Firestone et al.
+# Reference       : Phys.Rev.C 93 (2016) 044311
+# DOI             : N/A
+# Quantity        : 18O(n,g)19O partial gamma production cross section
+# REACTION        : 8-O-18(N,G)8-O-19,PAR,SIG,G
+# File ID         : n-O18-g-sigg-enedisl-mon-einc2.530E-02_Firestone_2016_23296.017.1
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 4           
+# xmin            :   9.4940E+04
+# xmax            :   3.8495E+06
+# ymin            :   2.7000E-05
+# ymax            :   1.3800E-04
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  9.4940E+04  0.0000E+00  1.3800E-04  6.0000E-06
+  1.3758E+06  0.0000E+00  5.1000E-05  3.0000E-06
+  2.4740E+06  0.0000E+00  2.7000E-05  2.0000E-06
+  3.8495E+06  0.0000E+00  5.2000E-05  2.0000E-06
+#---------------------------------------------------
