@@ -1,28 +1,22 @@
-# EXFOR #         : 20932.002  
-# EXFOR Ver.      : 19791010
-# TRANS #         : 0000
-# Author          : Von G.Andersson-Lindstrom et al.
-# Reference       : Ann.Phys.(Berl.) 15 (1965) 287
+# EXFOR #         : 20931.007  
+# EXFOR Ver.      : 20090109
+# TRANS #         : 2207
+# Author          : D.Crumpton
+# Reference       : J.Inorg.Nucl.Chem. 31 (1969) 3727
 # DOI             : N/A
-# Quantity        : 28Si(n,a)25Mg partial cross section
-# REACTION        : 14-SI-28(N,A)12-MG-25,PAR,SIG
-# File ID         : n-Si28-a-sig-lvldis-mon-einc1.437E+07_prodMg25_Andersson+Lindstrom_1965_20932.002
+# Quantity        : 51V(n,a)48Sc cross section
+# REACTION        : 23-V-51(N,A)21-SC-48,,SIG
+# File ID         : n-V51-a-sig-excfun-mon-prodSc48_Crumpton_1969_20931.007
 #
-# Einc (eV)       :   1.4370E+07
-#
-# npts            : 5           
-# xmin            :   0.0000E+00
-# xmax            :   1.9620E+06
-# ymin            :   3.2000E-03
-# ymax            :   1.4800E-02
+# npts            : 1           
+# xmin            :   1.4700E+07
+# xmax            :   1.4700E+07
+# ymin            :   2.1000E-02
+# ymax            :   2.1000E-02
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  0.0000E+00  0.0000E+00  1.4800E-02  0.0000E+00
-  5.8400E+05  0.0000E+00  3.2000E-03  0.0000E+00
-  9.7600E+05  0.0000E+00  7.8000E-03  0.0000E+00
-  1.6110E+06  0.0000E+00  1.2400E-02  0.0000E+00
-  1.9620E+06  0.0000E+00  1.0100E-02  0.0000E+00
+  1.4700E+07  2.0000E+05  2.1000E-02  1.0000E-03
 #---------------------------------------------------
