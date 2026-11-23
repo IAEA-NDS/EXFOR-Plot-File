@@ -1,25 +1,26 @@
-# EXFOR #         : 20788.024  
+# EXFOR #         : 20788.019  
 # EXFOR Ver.      : 20120731
 # TRANS #         : 2232
 # Author          : E.Almen-Ramstrom
 # Reference       : Report AE-503, 1975
 # DOI             : N/A
-# Quantity        : 207Pb(n,inl)207Pb partial cross section
-# REACTION        : 82-PB-207(N,INL)82-PB-207,PAR,SIG
-# File ID         : n-Pb207-inl-sig-lvldis-mon-einc4.020E+06_prodPb207_Almen+Ramstrom_1975_20788.024
+# Quantity        : 141Pr(n,inl)141Pr partial cross section
+# REACTION        : 59-PR-141(N,INL)59-PR-141,PAR,SIG
+# File ID         : n-Pr141-inl-sig-excfun-mon-elvl1.450E+05_prodPr141_Almen+Ramstrom_1975_20788.019
 #
-# Einc (eV)       :   4.0200E+06
+# Elvl (eV)       :   1.4500E+05
 #
-# npts            : 2           
-# xmin            :   5.7000E+05
-# xmax            :   8.9400E+05
-# ymin            :   2.7900E-01
-# ymax            :   4.9900E-01
+# npts            : 3           
+# xmin            :   2.0200E+06
+# xmax            :   2.5000E+06
+# ymin            :   1.3500E-01
+# ymax            :   3.3200E-01
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  5.7000E+05  0.0000E+00  4.9900E-01  7.5000E-02
-  8.9400E+05  0.0000E+00  2.7900E-01  4.2000E-02
+  2.0200E+06  0.0000E+00  3.3200E-01  6.6000E-02
+  2.2700E+06  0.0000E+00  2.5100E-01  5.0000E-02
+  2.5000E+06  0.0000E+00  1.3500E-01  2.7000E-02
 #---------------------------------------------------
