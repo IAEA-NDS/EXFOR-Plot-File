@@ -1,0 +1,27 @@
+# EXFOR #         : T0207.011  
+# EXFOR Ver.      : 20020805
+# TRANS #         : 0000
+# Author          : H.J.Hausman et al.
+# Reference       : Phys.Rev.C 37 (1988) 503
+# DOI             : N/A
+# Quantity        : 16O(p,g)17F partial angular differential cross section
+# REACTION        : 8-O-16(P,G)9-F-17,PAR,DA
+# File ID         : p-O16-g-adxl-excfun-mon-angl60_elvl0.000E+00_Hausman_1988_t0207.011
+#
+# theta,lab (deg) :   60.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :   2.0890E+07
+# xmax            :   4.4510E+07
+# ymin            :   2.2000E-06
+# ymax            :   8.7000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.0890E+07  0.0000E+00  8.7000E-06  1.7400E-06
+  2.8240E+07  0.0000E+00  5.1000E-06  1.0200E-06
+  4.4510E+07  0.0000E+00  2.2000E-06  4.4000E-07
+#---------------------------------------------------
