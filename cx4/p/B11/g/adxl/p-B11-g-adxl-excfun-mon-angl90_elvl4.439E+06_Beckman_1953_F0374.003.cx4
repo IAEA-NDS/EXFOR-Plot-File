@@ -1,0 +1,27 @@
+# EXFOR #         : F0374.003  
+# EXFOR Ver.      : 20220421
+# TRANS #         : F089
+# Author          : O.Beckman et al.
+# Reference       : Phys.Rev. 91 (1953) 606
+# DOI             : N/A
+# Quantity        : 11B(p,g)12C partial angular differential cross section
+# REACTION        : 5-B-11(P,G)6-C-12,PAR,DA,,4PI
+# File ID         : p-B11-g-adxl-excfun-mon-angl90_elvl4.439E+06_Beckman_1953_f0374.003
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   4.4390E+06
+#
+# npts            : 3           
+# xmin            :   1.6300E+05
+# xmax            :   1.4000E+06
+# ymin            :   1.4324E-06
+# ymax            :   1.1937E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.6300E+05  0.0000E+00  1.1937E-05  0.0000E+00
+  6.7000E+05  0.0000E+00  3.8197E-06  0.0000E+00
+  1.4000E+06  0.0000E+00  1.4324E-06  0.0000E+00
+#---------------------------------------------------

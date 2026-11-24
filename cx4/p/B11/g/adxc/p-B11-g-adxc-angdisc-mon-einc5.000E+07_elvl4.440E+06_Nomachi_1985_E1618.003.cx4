@@ -1,0 +1,28 @@
+# EXFOR #         : E1618.003  
+# EXFOR Ver.      : 20070514
+# TRANS #         : E043
+# Author          : M.Nomachi et al.
+# Reference       : Phys.Rev.C 31 No.1 (1985) 242
+# DOI             : N/A
+# Quantity        : 11B(p,g)12C partial angular differential cross section
+# REACTION        : 5-B-11(P,G)6-C-12,PAR,DA
+# File ID         : p-B11-g-adxc-angdisc-mon-einc5.000E+07_elvl4.440E+06_Nomachi_1985_e1618.003
+#
+# Einc (eV)       :   5.0000E+07
+# Elvl (eV)       :   4.4400E+06
+#
+# npts            : 4           
+# xmin            :   40.2900000
+# xmax            :  111.3000000
+# ymin            :   7.0580E-08
+# ymax            :   2.1780E-07
+#
+#---------------------------------------------------
+# theta,cm    dtheta,cm   adx,cm      dadx,cm     
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  40.2900000   0.0000000  2.1240E-07  0.0000E+00
+  60.6400000   0.0000000  2.1780E-07  0.0000E+00
+  81.0000000   0.0000000  1.5740E-07  0.0000E+00
+ 111.3000000   0.0000000  7.0580E-08  0.0000E+00
+#---------------------------------------------------

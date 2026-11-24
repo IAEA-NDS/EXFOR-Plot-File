@@ -1,0 +1,26 @@
+# EXFOR #         : D6305.002  
+# EXFOR Ver.      : 20190403
+# TRANS #         : D120
+# Author          : D.R.Chakrabarty et al.
+# Reference       : Phys.Rev.C 95 (2017) 014614
+# DOI             : N/A
+# Quantity        : 27Al(p,g)28Si partial cross section
+# REACTION        : 13-AL-27(P,G)14-SI-28,PAR,SIG
+# File ID         : p-Al27-g-sig-excfun-mon-elvl0.000E+00_Chakrabarty_2017_d6305.002
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 3           
+# xmin            :   7.9600E+06
+# xmax            :   9.9600E+06
+# ymin            :   2.4200E-05
+# ymax            :   5.7200E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  7.9600E+06  0.0000E+00  2.4200E-05  1.4000E-06
+  8.9700E+06  0.0000E+00  4.9300E-05  1.6000E-06
+  9.9600E+06  0.0000E+00  5.7200E-05  2.6000E-06
+#---------------------------------------------------
