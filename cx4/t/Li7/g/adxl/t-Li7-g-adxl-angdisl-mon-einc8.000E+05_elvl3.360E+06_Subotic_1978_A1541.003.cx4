@@ -1,0 +1,28 @@
+# EXFOR #         : A1541.003  
+# EXFOR Ver.      : 20260318
+# TRANS #         : A133
+# Author          : K.M.Subotic et al.
+# Reference       : Nucl.Phys.A 296 (1978) 141
+# DOI             : N/A
+# Quantity        : 7Li(t,g)10Be partial angular differential cross section
+# REACTION        : 3-LI-7(T,G)4-BE-10,PAR,DA
+# File ID         : t-Li7-g-adxl-angdisl-mon-einc8.000E+05_elvl3.360E+06_Subotic_1978_a1541.003
+#
+# Einc (eV)       :   8.0000E+05
+# Elvl (eV)       :   3.3600E+06
+#
+# npts            : 4           
+# xmin            :    5.7319680
+# xmax            :   86.1008700
+# ymin            :   7.4900E-04
+# ymax            :   1.1010E-03
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  86.1008700   0.0000000  7.4900E-04  3.8000E-05
+  63.4486300   0.0000000  8.4000E-04  4.5000E-05
+  45.2511800   0.0000000  9.2500E-04  4.5000E-05
+   5.7319680   0.0000000  1.1010E-03  4.5000E-05
+#---------------------------------------------------
