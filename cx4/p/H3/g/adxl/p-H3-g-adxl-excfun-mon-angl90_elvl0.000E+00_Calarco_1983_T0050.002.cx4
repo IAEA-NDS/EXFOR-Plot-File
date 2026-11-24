@@ -1,0 +1,27 @@
+# EXFOR #         : T0050.002  
+# EXFOR Ver.      : 20120317
+# TRANS #         : T022
+# Author          : J.R.Calarco et al.
+# Reference       : Phys.Rev.C 28 (1983) 483
+# DOI             : N/A
+# Quantity        : 3H(p,g)4He partial angular differential cross section
+# REACTION        : 1-H-3(P,G)2-HE-4,PAR,DA
+# File ID         : p-H3-g-adxl-excfun-mon-angl90_elvl0.000E+00_Calarco_1983_t0050.002
+#
+# theta,lab (deg) :   90.0000000
+# dtheta,lab (deg):    1.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :   8.3400E+06
+# xmax            :   1.3600E+07
+# ymin            :   6.2500E-06
+# ymax            :   8.9900E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.3400E+06  0.0000E+00  8.9900E-06  6.0000E-07
+  1.3600E+07  0.0000E+00  6.2500E-06  4.0000E-07
+#---------------------------------------------------
