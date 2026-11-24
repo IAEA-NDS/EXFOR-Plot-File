@@ -1,24 +1,22 @@
-# EXFOR #         : E2456.006.1
-# EXFOR Ver.      : 20140916
-# TRANS #         : E092
-# Author          : S.Michimasa et al.
-# Reference       : Phys.Rev.C 89 (2014) 054307
-# DOI             : 10.1103/PhysRevC.89.054307
-# Quantity        : 36Mg(p,inl)36Mg partial cross section
-# REACTION        : 12-MG-36(P,INL)12-MG-36,PAR,SIG
-# File ID         : p-Mg36-inl-sig-lvldis-mon-einc4.450E+07_prodMg36_Michimasa_2014_e2456.006.1
-#
-# Einc (eV)       :   4.4500E+07
+# EXFOR #         : E2451.003  
+# EXFOR Ver.      : 20140528
+# TRANS #         : E091
+# Author          : T.Nakamura et al.
+# Reference       : Phys.Rev.Lett. 112 (2014) 142501
+# DOI             : N/A
+# Quantity        : natPb(31Ne,x)30Ne independent production cross section
+# REACTION        : 82-PB-0(10-NE-31,X)10-NE-30,,SIG
+# File ID         : Ne31-Pb-x-sig-excfun-mon-prodNe30_Nakamura_2014_e2451.003
 #
 # npts            : 1           
-# xmin            :   6.5600E+05
-# xmax            :   6.5600E+05
-# ymin            :   4.7000E-02
-# ymax            :   4.7000E-02
+# xmin            :   7.2540E+09
+# xmax            :   7.2540E+09
+# ymin            :   7.2000E-01
+# ymax            :   7.2000E-01
 #
 #---------------------------------------------------
-# Elvl        dElvl       sig         dsig        
+# Einc        dEinc       sig         dsig        
 #  eV          eV          b           b          
 #---------------------------------------------------
-  6.5600E+05  0.0000E+00  4.7000E-02  8.0000E-03
+  7.2540E+09  0.0000E+00  7.2000E-01  6.1000E-02
 #---------------------------------------------------
