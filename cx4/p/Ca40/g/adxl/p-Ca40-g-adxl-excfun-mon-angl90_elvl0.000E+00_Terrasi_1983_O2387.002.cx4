@@ -1,0 +1,26 @@
+# EXFOR #         : O2387.002  
+# EXFOR Ver.      : 20191126
+# TRANS #         : O073
+# Author          : F.Terrasi et al.
+# Reference       : Nucl.Phys.A 394 (1983) 405
+# DOI             : N/A
+# Quantity        : 40Ca(p,g)41Sc partial angular differential cross section
+# REACTION        : 20-CA-40(P,G)21-SC-41,PAR,DA
+# File ID         : p-Ca40-g-adxl-excfun-mon-angl90_elvl0.000E+00_Terrasi_1983_o2387.002
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :   2.5987E+06
+# xmax            :   2.7391E+06
+# ymin            :   1.7320E-05
+# ymax            :   1.8510E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  2.5987E+06  0.0000E+00  1.7320E-05  6.9440E-06
+  2.7391E+06  0.0000E+00  1.8510E-05  9.5160E-06
+#---------------------------------------------------
