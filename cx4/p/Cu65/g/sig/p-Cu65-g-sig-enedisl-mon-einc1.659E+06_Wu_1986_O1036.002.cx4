@@ -1,0 +1,25 @@
+# EXFOR #         : O1036.002  
+# EXFOR Ver.      : 20030404
+# TRANS #         : 0000
+# Author          : Sc.Wu et al.
+# Reference       : Chin.J.Phys. 24 (1986) 204
+# DOI             : N/A
+# Quantity        : 65Cu(p,g)66Zn partial cross section
+# REACTION        : 29-CU-65(P,G)30-ZN-66,PAR,SIG
+# File ID         : p-Cu65-g-sig-enedisl-mon-einc1.659E+06_Wu_1986_o1036.002
+#
+# Einc (eV)       :   1.6590E+06
+#
+# npts            : 2           
+# xmin            :   8.3400E+05
+# xmax            :   1.0390E+06
+# ymin            :   2.3200E-05
+# ymax            :   5.5000E-05
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  8.3400E+05  0.0000E+00  2.3200E-05  0.0000E+00
+  1.0390E+06  0.0000E+00  5.5000E-05  0.0000E+00
+#---------------------------------------------------
