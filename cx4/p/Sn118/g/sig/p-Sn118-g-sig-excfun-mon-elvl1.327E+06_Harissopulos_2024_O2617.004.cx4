@@ -1,0 +1,27 @@
+# EXFOR #         : O2617.004  
+# EXFOR Ver.      : 20240813
+# TRANS #         : O100
+# Author          : S.Harissopulos et al.
+# Reference       : Phys.Rev.C 110 (2024) 015803
+# DOI             : N/A
+# Quantity        : 118Sn(p,g)119Sb partial cross section
+# REACTION        : 50-SN-118(P,G)51-SB-119,PAR,SIG
+# File ID         : p-Sn118-g-sig-excfun-mon-elvl1.327E+06_Harissopulos_2024_o2617.004
+#
+# Elvl (eV)       :   1.3273E+06
+#
+# npts            : 4           
+# xmin            :   2.9954E+06
+# xmax            :   3.4957E+06
+# ymin            :   3.0000E-07
+# ymax            :   1.2000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.9954E+06  0.0000E+00  3.0000E-07  1.0000E-07
+  3.1961E+06  0.0000E+00  4.8000E-07  1.7000E-07
+  3.3958E+06  0.0000E+00  9.4000E-07  3.3000E-07
+  3.4957E+06  0.0000E+00  1.2000E-06  4.0000E-07
+#---------------------------------------------------
