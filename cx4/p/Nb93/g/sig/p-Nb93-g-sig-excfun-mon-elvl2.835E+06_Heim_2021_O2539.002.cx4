@@ -1,0 +1,25 @@
+# EXFOR #         : O2539.002  
+# EXFOR Ver.      : 20220226
+# TRANS #         : O089
+# Author          : F.Heim et al.
+# Reference       : Phys.Rev.C 103 (2021) 025805
+# DOI             : N/A
+# Quantity        : 93Nb(p,g)94Mo partial cross section
+# REACTION        : 41-NB-93(P,G)42-MO-94,PAR,SIG
+# File ID         : p-Nb93-g-sig-excfun-mon-elvl2.835E+06_Heim_2021_o2539.002
+#
+# Elvl (eV)       :   2.8350E+06
+#
+# npts            : 2           
+# xmin            :   3.0000E+06
+# xmax            :   3.5000E+06
+# ymin            :   6.7600E-07
+# ymax            :   1.9770E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.0000E+06  0.0000E+00  6.7600E-07  8.3000E-08
+  3.5000E+06  0.0000E+00  1.9770E-06  2.4200E-07
+#---------------------------------------------------
