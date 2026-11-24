@@ -1,0 +1,26 @@
+# EXFOR #         : D7019.002  
+# EXFOR Ver.      : 20170612
+# TRANS #         : D111
+# Author          : Y.H.Park et al.
+# Reference       : New Phys. Sae Mulli 29 (1989) 430
+# DOI             : N/A
+# Quantity        : 9Be(p,g)10B partial cross section
+# REACTION        : 4-BE-9(P,G)5-B-10,PAR,SIG
+# File ID         : p-Be9-g-sig-enedisl-mon-einc4.440E+05_Park_1989_d7019.002
+#
+# Einc (eV)       :   4.4400E+05
+#
+# npts            : 3           
+# xmin            :   4.7300E+06
+# xmax            :   6.1600E+06
+# ymin            :   1.3700E-06
+# ymax            :   3.0700E-06
+#
+#---------------------------------------------------
+# Eout,lab    dEout,lab   sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  6.1600E+06  0.0000E+00  3.0700E-06  4.6000E-07
+  5.1400E+06  0.0000E+00  1.3700E-06  1.9000E-07
+  4.7300E+06  0.0000E+00  2.0100E-06  3.1000E-07
+#---------------------------------------------------

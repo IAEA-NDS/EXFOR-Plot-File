@@ -1,0 +1,31 @@
+# EXFOR #         : F0760.004  
+# EXFOR Ver.      : 20220408
+# TRANS #         : F088
+# Author          : L.N.Generalov et al.
+# Reference       : Izv.Ross.AN,Fiz. 69 (2005) 1629
+# DOI             : N/A
+# Quantity        : 9Be(p,g)10B partial angular differential cross section
+# REACTION        : 4-BE-9(P,G)5-B-10,PAR,DA
+# File ID         : p-Be9-g-adxl-excfun-mon-angl90_elvl5.110E+06_Generalov_2005_f0760.004
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   5.1100E+06
+#
+# npts            : 7           
+# xmin            :   1.6632E+06
+# xmax            :   2.1198E+06
+# ymin            :   1.7348E-07
+# ymax            :   2.1247E-07
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.6632E+06  0.0000E+00  2.1247E-07  6.3700E-09
+  1.7114E+06  0.0000E+00  1.9019E-07  5.5700E-09
+  1.7619E+06  0.0000E+00  1.7348E-07  3.9800E-09
+  1.8638E+06  0.0000E+00  2.0849E-07  7.1600E-09
+  1.9625E+06  0.0000E+00  1.8780E-07  5.5700E-09
+  2.0438E+06  0.0000E+00  1.8542E-07  5.5700E-09
+  2.1198E+06  0.0000E+00  2.0133E-07  5.5700E-09
+#---------------------------------------------------
