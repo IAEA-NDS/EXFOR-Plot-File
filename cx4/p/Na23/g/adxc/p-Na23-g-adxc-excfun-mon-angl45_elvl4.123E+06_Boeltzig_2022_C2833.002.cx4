@@ -1,0 +1,27 @@
+# EXFOR #         : C2833.002  
+# EXFOR Ver.      : 20260717
+# TRANS #         : C259
+# Author          : A.Boeltzig et al.
+# Reference       : Phys.Rev.C 106 (2022) 045801
+# DOI             : N/A
+# Quantity        : 23Na(p,g)24Mg partial angular differential cross section
+# REACTION        : 11-NA-23(P,G)12-MG-24,PAR,DA
+# File ID         : p-Na23-g-adxc-excfun-mon-angl45_elvl4.123E+06_Boeltzig_2022_c2833.002
+#
+# theta,lab (deg) :   45.0000000
+# Elvl (eV)       :   4.1230E+06
+#
+# npts            : 3           
+# xmin            :   8.6045E+05
+# xmax            :   1.0282E+06
+# ymin            :   9.0200E-10
+# ymax            :   1.7200E-09
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,cm      dadx,cm     
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.6045E+05  1.0000E+03  9.0200E-10  4.1400E-10
+  1.0069E+06  1.0000E+03  1.5700E-09  4.9000E-10
+  1.0282E+06  1.0000E+03  1.7200E-09  6.9100E-10
+#---------------------------------------------------
