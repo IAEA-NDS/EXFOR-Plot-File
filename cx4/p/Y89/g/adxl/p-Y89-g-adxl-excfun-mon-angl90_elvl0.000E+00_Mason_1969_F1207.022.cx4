@@ -1,0 +1,25 @@
+# EXFOR #         : F1207.022  
+# EXFOR Ver.      : 20131119
+# TRANS #         : F052
+# Author          : W.M.Mason et al.
+# Reference       : Nucl.Phys.A 135 (1969) 193
+# DOI             : N/A
+# Quantity        : 89Y(p,g)90Zr partial angular differential cross section
+# REACTION        : 39-Y-89(P,G)40-ZR-90,PAR,DA,,AV
+# File ID         : p-Y89-g-adxl-excfun-mon-angl90_elvl0.000E+00_Mason_1969_f1207.022
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 1           
+# xmin            :   9.5000E+06
+# xmax            :   9.5000E+06
+# ymin            :   2.6000E-06
+# ymax            :   2.6000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  9.5000E+06  5.0000E+05  2.6000E-06  0.0000E+00
+#---------------------------------------------------
