@@ -1,0 +1,27 @@
+# EXFOR #         : F0397.004  
+# EXFOR Ver.      : 20210517
+# TRANS #         : F083
+# Author          : P.Corvisiero et al.
+# Reference       : Nucl.Phys.A 526 (1991) 141
+# DOI             : N/A
+# Quantity        : 12C(p,g)13N partial cross section
+# REACTION        : 6-C-12(P,G)7-N-13,PAR,SIG
+# File ID         : p-C12-g-sig-excfun-mon-elvl1.443E+07_Corvisiero_1991_f0397.004
+#
+# Elvl (eV)       :   1.4430E+07
+# dElvl (eV)      :   6.3000E+05
+#
+# npts            : 3           
+# xmin            :   3.5440E+07
+# xmax            :   4.2490E+07
+# ymin            :   2.0020E-06
+# ymax            :   5.7690E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.5440E+07  0.0000E+00  2.0020E-06  0.0000E+00
+  3.8000E+07  0.0000E+00  5.7690E-06  0.0000E+00
+  4.2490E+07  0.0000E+00  3.4730E-06  0.0000E+00
+#---------------------------------------------------

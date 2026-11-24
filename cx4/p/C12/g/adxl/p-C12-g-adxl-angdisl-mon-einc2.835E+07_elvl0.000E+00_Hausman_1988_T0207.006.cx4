@@ -1,0 +1,29 @@
+# EXFOR #         : T0207.006  
+# EXFOR Ver.      : 20020805
+# TRANS #         : 0000
+# Author          : H.J.Hausman et al.
+# Reference       : Phys.Rev.C 37 (1988) 503
+# DOI             : N/A
+# Quantity        : 12C(p,g)13N partial angular differential cross section
+# REACTION        : 6-C-12(P,G)7-N-13,PAR,DA
+# File ID         : p-C12-g-adxl-angdisl-mon-einc2.835E+07_elvl0.000E+00_Hausman_1988_t0207.006
+#
+# Einc (eV)       :   2.8350E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :   30.7000000
+# xmax            :  145.5000000
+# ymin            :   1.6000E-08
+# ymax            :   7.6000E-07
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.7000000   0.0000000  4.9000E-07  9.8000E-08
+  72.1000000   0.0000000  7.6000E-07  1.5200E-07
+ 110.3000000   0.0000000  2.4000E-07  4.8000E-08
+ 130.4000000   0.0000000  9.0000E-08  1.8000E-08
+ 145.5000000   0.0000000  1.6000E-08  3.2000E-09
+#---------------------------------------------------

@@ -1,0 +1,28 @@
+# EXFOR #         : A0819.002  
+# EXFOR Ver.      : 20250729
+# TRANS #         : A122
+# Author          : N.Burtebaev et al.
+# Reference       : Phys.Rev.C 78 (2008) 035802
+# DOI             : N/A
+# Quantity        : 12C(p,g)13N partial angular differential cross section
+# REACTION        : 6-C-12(P,G)7-N-13,PAR,DA
+# File ID         : p-C12-g-adxl-angdisl-mon-einc7.505E+05_elvl0.000E+00_Burtebaev_2008_a0819.002
+#
+# Einc (eV)       :   7.5046E+05
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 4           
+# xmin            :    0.0000000
+# xmax            :  135.6000000
+# ymin            :   5.2000E-08
+# ymax            :   8.9000E-08
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+   0.0000000   0.0000000  5.2000E-08  7.0000E-09
+  45.2000000   0.0000000  8.1000E-08  0.0000E+00
+  90.8000000   0.0000000  7.6000E-08  0.0000E+00
+ 135.6000000   0.0000000  8.9000E-08  9.0000E-09
+#---------------------------------------------------
