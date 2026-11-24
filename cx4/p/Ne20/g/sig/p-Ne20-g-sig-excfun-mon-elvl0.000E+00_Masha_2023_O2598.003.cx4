@@ -1,0 +1,25 @@
+# EXFOR #         : O2598.003  
+# EXFOR Ver.      : 20240213
+# TRANS #         : O100
+# Author          : E.Masha et al.
+# Reference       : Phys.Rev.C 108 (2023) L052801
+# DOI             : N/A
+# Quantity        : 20Ne(p,g)21Na partial cross section
+# REACTION        : 10-NE-20(P,G)11-NA-21,PAR,SIG,,SFC
+# File ID         : p-Ne20-g-sig-excfun-mon-elvl0.000E+00_Masha_2023_o2598.003
+#
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 2           
+# xmin            :   2.6008E+05
+# xmax            :   3.0966E+05
+# ymin            :   2.9450E-11
+# ymax            :   1.0790E-10
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  2.6008E+05  0.0000E+00  2.9450E-11  1.9630E-11
+  3.0966E+05  0.0000E+00  1.0790E-10  2.9970E-11
+#---------------------------------------------------
