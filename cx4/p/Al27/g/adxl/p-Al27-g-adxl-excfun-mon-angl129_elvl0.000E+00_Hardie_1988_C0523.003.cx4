@@ -1,0 +1,29 @@
+# EXFOR #         : C0523.003  
+# EXFOR Ver.      : 20250611
+# TRANS #         : C250
+# Author          : G.Hardie et al.
+# Reference       : Phys.Rev.C 38 (1988) 2003
+# DOI             : N/A
+# Quantity        : 27Al(p,g)28Si partial angular differential cross section
+# REACTION        : 13-AL-27(P,G)14-SI-28,PAR,DA
+# File ID         : p-Al27-g-adxl-excfun-mon-angl129_elvl0.000E+00_Hardie_1988_c0523.003
+#
+# theta,lab (deg) :  129.0000000
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :   8.5000E+05
+# xmax            :   1.6230E+06
+# ymin            :   7.6000E-10
+# ymax            :   3.9500E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  8.5000E+05  1.0000E+03  7.6000E-10  1.6000E-10
+  1.1400E+06  1.0000E+03  7.0000E-09  1.3000E-09
+  1.1880E+06  1.0000E+03  3.9500E-06  6.4000E-07
+  1.2450E+06  1.0000E+03  6.5000E-09  1.2000E-09
+  1.6230E+06  1.0000E+03  2.3200E-08  4.4000E-09
+#---------------------------------------------------

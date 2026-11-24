@@ -1,0 +1,29 @@
+# EXFOR #         : T0207.015  
+# EXFOR Ver.      : 20020805
+# TRANS #         : 0000
+# Author          : H.J.Hausman et al.
+# Reference       : Phys.Rev.C 37 (1988) 503
+# DOI             : N/A
+# Quantity        : 27Al(p,g)28Si partial angular differential cross section
+# REACTION        : 13-AL-27(P,G)14-SI-28,PAR,DA
+# File ID         : p-Al27-g-adxl-angdisl-mon-einc2.080E+07_elvl0.000E+00_Hausman_1988_t0207.015
+#
+# Einc (eV)       :   2.0800E+07
+# Elvl (eV)       :   0.0000E+00
+#
+# npts            : 5           
+# xmin            :   30.2000000
+# xmax            :  119.7000000
+# ymin            :   3.7500E-07
+# ymax            :   8.0000E-07
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  30.2000000   0.0000000  7.0000E-07  1.4000E-07
+  43.2000000   0.0000000  8.0000E-07  1.6000E-07
+  59.7000000   0.0000000  7.5000E-07  1.5000E-07
+  89.4000000   0.0000000  6.8000E-07  1.3600E-07
+ 119.7000000   0.0000000  3.7500E-07  7.5000E-08
+#---------------------------------------------------
