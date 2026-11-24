@@ -1,0 +1,29 @@
+# EXFOR #         : F0763.003  
+# EXFOR Ver.      : 20060802
+# TRANS #         : F025
+# Author          : N.T.Burtebaev et al.
+# Reference       : Izv.Ross.AN,Fiz. 68 No.11 (2004) 1554
+# DOI             : N/A
+# Quantity        : 14N(p,g)15O partial angular differential cross section
+# REACTION        : 7-N-14(P,G)8-O-15,PAR,DA
+# File ID         : p-N14-g-adxl-excfun-mon-angl90_elvl5.241E+06_Burtebaev_2004_f0763.003
+#
+# theta,lab (deg) :   90.0000000
+# Elvl (eV)       :   5.2410E+06
+#
+# npts            : 5           
+# xmin            :   1.0553E+06
+# xmax            :   1.0830E+06
+# ymin            :   6.4613E-04
+# ymax            :   1.2159E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       adx,lab     dadx,lab    
+#  eV          eV          b/sr        b/sr       
+#---------------------------------------------------
+  1.0553E+06  0.0000E+00  3.4126E-03  3.4126E-04
+  1.0564E+06  0.0000E+00  7.6992E-03  7.6992E-04
+  1.0580E+06  0.0000E+00  1.2159E-02  1.2159E-03
+  1.0636E+06  0.0000E+00  2.1434E-03  2.1434E-04
+  1.0830E+06  0.0000E+00  6.4613E-04  6.4613E-05
+#---------------------------------------------------
