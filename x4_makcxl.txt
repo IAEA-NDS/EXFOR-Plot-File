@@ -106372,6 +106372,12 @@
  C1523.005   C080  p      C14    n      N14     adxc    mon angdisc    10.1100  123.6000    12 2.570E+07 2.310E+06 -   - -         - 1984 Taddeucci
  C1523.005   C080  p      C14    n      N14     adxc    mon angdisc     9.9940  160.9000    30 3.500E+07 2.310E+06 -   - -         - 1984 Taddeucci
  C1523.005   C080  p      C14    n      N14     adxc    mon angdisc    16.0900   63.9000    10 4.500E+07 2.310E+06 -   - -         - 1984 Taddeucci
+ C1523.006   C255  p      C14    n      N14     adxc    mon angdisc    10.9935  123.9186    12 2.570E+07 3.950E+06 -   - -         - 1984 Taddeucci
+ C1523.006   C255  p      C14    n      N14     adxc    mon angdisc    10.7447  163.2649    30 3.500E+07 3.950E+06 -   - -         - 1984 Taddeucci
+ C1523.006   C255  p      C14    n      N14     adxc    mon angdisc    16.0812   63.6899    10 4.500E+07 3.950E+06 -   - -         - 1984 Taddeucci
+ C1523.007   C255  p      C14    n      N14     adxc    mon angdisc    10.7140  124.2012    12 2.570E+07 0.000E+00 -   - -         - 1984 Taddeucci
+ C1523.007   C255  p      C14    n      N14     adxc    mon angdisc    10.9716  161.6457    30 3.500E+07 0.000E+00 -   - -         - 1984 Taddeucci
+ C1523.007   C255  p      C14    n      N14     adxc    mon angdisc    16.4561   63.5108    10 4.500E+07 0.000E+00 -   - -         - 1984 Taddeucci
  C1526.002   C181  Mg30   Be9    x      Ne28    sig     mon excfun    2.66E+09  2.66E+09     1         -         - -   - -         - 2004 Bazin
  C1526.003   C181  Si34   Be9    x      Mg32    sig     mon excfun    2.28E+09  2.28E+09     1         -         - -   - -         - 2004 Bazin
  C1526.004   C181  Mg28   Be9    x      Ne26    sig     mon excfun    2.30E+09  2.30E+09     1         -         - -   - -         - 2004 Bazin
@@ -107054,6 +107060,8 @@
  C1659.011   C231  a      Bi209  n      At212g  sig     mon excfun    1.60E+07  2.40E+07    24         -         - -   - -         - 1974 Barnett
  C1659.012   C231  a      Bi209  n      At212m  sig     mon excfun    1.60E+07  2.40E+07    23         -         - -   - -         - 1974 Barnett
  C1664.002   C103  Li6    Sm144  el     Sm144   adxl    mon excfun    1.40E+07  3.50E+07    28         -         - L 170 -         - 2009 Monteiro
+ C1666.007   C091  p      C12    n      N12     adxc    mon angdisc     5.3700   53.8362    10 1.860E+08 4.500E+06 -   - -         - 1993 Yang
+ C1666.011   C091  p      C12    n      N12     adxc    mon angdisc    11.1441   40.4192    14 1.900E+08 7.750E+06 -   - -         - 1993 Yang
  C1668.002   C090  p      H2     el     H2      adxc    mon excfun    1.49E+07  1.99E+07    10         -         - C  22 -         - 1971 Cahill
  C1668.003   C090  p      H2     el     H2      adxc    mon excfun    1.49E+07  1.99E+07    10         -         - C  29 -         - 1971 Cahill
  C1668.004   C090  p      H2     el     H2      adxc    mon excfun    1.49E+07  1.99E+07    10         -         - C  40 -         - 1971 Cahill
@@ -149372,6 +149380,10 @@
  E1577.003   0000  p      C13    d      C12     adxl    mon angdisc    13.8300  125.7000    19 3.500E+07 0.000E+00 -   - -         - 1995 Toyokawa
  E1577.005   0000  p      C13    d      C12     adxl    mon angdisc    12.6700  123.8000    19 3.500E+07 4.440E+06 -   - -         - 1995 Toyokawa
  E1580.003   E148  C12    C12    el     C12     adxc    mon angdisc     1.6210   12.2900    52 1.620E+09         - -   - -         - 1994 Ichihara
+ E1581.003   E034  p      Be9    el     Be9     adxc    mon angdisc    10.1042  104.0002    38 5.470E+07         - -   - -         - 1994 de Bever
+ E1581.004   E034  p      Be9    el     Be9     adxc    mon angdisc    10.7022  105.2070    38 7.472E+07         - -   - -         - 1994 de Bever
+ E1581.009   E034  p      Be9    inl    Be9     adxl    mon angdisc    10.3016  103.5162    38 5.470E+07 2.429E+06 -   - -         - 1994 de Bever
+ E1581.010   E034  p      Be9    inl    Be9     adxl    mon angdisc    10.4596  104.5005    38 7.472E+07 2.429E+06 -   - -         - 1994 de Bever
  E1586.003   E034  d      Ni58   p      Ni59    adxc    mon angdisc     5.1130   42.1500    12 5.600E+07 0.000E+00 -   - -         - 1994 Iwamoto
  E1586.004   E034  d      Ni58   p      Ni59    adxc    mon angdisc     4.9980   41.8400    12 5.600E+07 8.790E+05 -   - -         - 1994 Iwamoto
  E1586.005   E034  d      Ni58   p      Ni59    adxc    mon angdisc     5.1460   41.8800    12 5.600E+07 2.414E+06 -   - -         - 1994 Iwamoto
@@ -152360,6 +152372,8 @@
  E1970.028   E041  d      Sn118  p      Sn119   ddxl    mon enedisl   9.45E+06  5.98E+07    51 5.600E+07         - L  13 -         - 1980 Matsuoka
  E1970.029   E041  d      Sn118  p      Sn119   ddxl    mon enedisl   9.40E+06  5.41E+07    46 5.600E+07         - L  20 -         - 1980 Matsuoka
  E1970.030   E041  d      Sn118  p      Sn119   ddxl    mon enedisl   9.40E+06  5.09E+07    42 5.600E+07         - L  30 -         - 1980 Matsuoka
+ E1971.002   E041  p      O16    el     O16     adxc    mon angdisc    15.1389   32.3587     9 2.950E+08         - -   - -         - 2006 Wakasa
+ E1971.005   E041  p      O16    inl    O16     adxc    mon angdisc    15.1294   32.1932     9 2.950E+08 1.280E+07 -   - -         - 2006 Wakasa
  E1972.002.1 E063  B11    O16    el     O16     adxc    mon angdisc    30.2940   89.3310    37 4.125E+07         - -   - -         - 2000 Ikeda
  E1972.002.2 E063  B11    O16    el     O16     adxc    mon angdisc    69.9640  117.5600    25 4.125E+07         - -   - -         - 2000 Ikeda
  E1975.002   E068  p      Zn     x      Cu61    sigc    mon excfun    9.80E+06  9.91E+07    67         -         - -   - -         - 2005 Szelecsenyi
@@ -152465,6 +152479,7 @@
  E2007.052   E122  p      Al27   xd     -       ddxl    mon enedisl   4.50E+06  1.75E+07    14 3.920E+08         - L  75 -         - 2007 Uozumi
  E2007.053   E122  p      Al27   xt     -       ddxl    mon enedisl   5.50E+06  1.25E+07     8 3.920E+08         - L  60 -         - 2007 Uozumi
  E2007.053   E122  p      Al27   xt     -       ddxl    mon enedisl   6.50E+06  1.55E+07    10 3.920E+08         - L  75 -         - 2007 Uozumi
+ E2009.002   E045  p      Si28   n      P28     adxc    mon angdisc    18.7300   46.6504    15 1.980E+08 4.940E+06 -   - -         - 2007 Wakasa
  E2011.002   E045  h      Be9    abs    -       sig     mon excfun    2.37E+09  2.37E+09     1         -         - -   - -         - 1985 Tanihata
  E2011.003   E045  h      C      abs    -       sig     mon excfun    2.37E+09  2.37E+09     1         -         - -   - -         - 1985 Tanihata
  E2011.004   E045  h      Al27   abs    -       sig     mon excfun    2.37E+09  2.37E+09     1         -         - -   - -         - 1985 Tanihata
@@ -152971,6 +152986,7 @@
  E2076.034   E050  p      C12    el     C12     adxc    mon angdisc    16.3000   85.1000    28 7.480E+07         - -   - -         - 1987 Ieiri
  E2076.036   E050  p      C12    el     C12     adxc    mon angdisc    10.9000   85.1000    28 7.980E+07         - -   - -         - 1987 Ieiri
  E2076.038   E050  p      C12    el     C12     adxc    mon angdisc    10.9000   85.1000    29 8.380E+07         - -   - -         - 1987 Ieiri
+ E2081.002   E062  p      C12    n      N12     adxc    mon angdisc     2.3302   35.5189    21 2.960E+08 0.000E+00 -   - -         - 2007 Wakasa
  E2082.002   E055  p      W186   n      Re186g  sig     mon excfun    5.47E+06  1.98E+07    14         -         - -   - -         - 1996 Shigeta
  E2083.002   E110  d      W186   2n     Re186g  sig     mon excfun    7.81E+06  3.38E+07    18         -         - -   - -         - 2002 Ishioka
  E2083.003   E055  d      W      x      Re181   sig     mon excfun    1.49E+07  3.38E+07    11         -         - -   - -         - 2002 Ishioka
@@ -206674,6 +206690,14 @@
  O1802.003   O048  h      Gd158  a      Gd157   adxl    mon angdisl    60.0000   90.0000     2 2.030E+07 9.780E+05 -   - -         - 1971 Lovhoiden
  O1802.005   O048  h      Gd158  a      Gd157   adxl    mon angdisl    43.9000   89.4000     4 2.030E+07 3.610E+05 -   - -         - 1971 Lovhoiden
  O1802.005   O048  h      Gd158  a      Gd157   adxl    mon angdisl    45.2000   89.8000     4 2.030E+07 4.280E+05 -   - -         - 1971 Lovhoiden
+ O1803.002   O041  h      C12    t      N12     adxc    mon angdisc     0.4991   10.5057     8 6.000E+08 0.000E+00 -   - -         - 1987 Bergqvist
+ O1803.002   O041  h      C12    t      N12     adxc    mon angdisc     0.5331    5.6259     7 9.000E+08 0.000E+00 -   - -         - 1987 Bergqvist
+ O1803.003   O041  h      C12    t      N12     adxc    mon angdisc     0.5263    8.0254     6 1.200E+09 4.200E+06 -   - -         - 1987 Bergqvist
+ O1803.003   O041  h      C12    t      N12     adxc    mon angdisc     0.4794    8.0175     6 1.200E+09 7.200E+06 -   - -         - 1987 Bergqvist
+ O1803.003   O041  h      C12    t      N12     adxc    mon angdisc     0.1600   10.3973     8 6.000E+08 4.200E+06 -   - -         - 1987 Bergqvist
+ O1803.003   O041  h      C12    t      N12     adxc    mon angdisc     0.1972   10.3481     8 6.000E+08 7.200E+06 -   - -         - 1987 Bergqvist
+ O1803.003   O041  h      C12    t      N12     adxc    mon angdisc     0.4779    5.5568     7 9.000E+08 4.200E+06 -   - -         - 1987 Bergqvist
+ O1803.003   O041  h      C12    t      N12     adxc    mon angdisc     0.4079    5.5770     7 9.000E+08 7.200E+06 -   - -         - 1987 Bergqvist
  O1804.002   O048  h      C12    t      N12     adxl    mon excfun    6.00E+08  2.00E+09     3         - 0.000E+00 L   0 -         - 1983 Ellegaard
  O1804.003   O048  h      C12    t      N12     adxl    mon excfun    6.00E+08  2.00E+09     3 2.000E+09         - L   0 -         - 1983 Ellegaard
  O1804.004   O048  h      Fe54   t      Co54    adxl    mon excfun    6.00E+08  2.00E+09     3 2.000E+09         - L   0 -         - 1983 Ellegaard
@@ -218536,6 +218560,16 @@
  O2628.011   O100  C12    C12    xp     -       ddxl    mon enedisl   3.25E+07  1.60E+08     8 3.372E+09         - L  90 -         - 2020 Mattei
  O2628.011   O100  C12    C12    xp     -       ddxl    mon enedisl   3.25E+07  3.20E+08    14 4.236E+09         - L  60 -         - 2020 Mattei
  O2628.011   O100  C12    C12    xp     -       ddxl    mon enedisl   3.25E+07  2.15E+08     9 4.236E+09         - L  90 -         - 2020 Mattei
+ O2628.012   O100  C12    O16    xp     -       ddxl    mon enedisl   3.75E+07  2.45E+08    11 1.380E+09         - L  60 -         - 2020 Mattei
+ O2628.012   O100  C12    O16    xp     -       ddxl    mon enedisl   3.25E+07  1.30E+08     7 1.380E+09         - L  90 -         - 2020 Mattei
+ O2628.012   O100  C12    O16    xp     -       ddxl    mon enedisl   3.75E+07  2.15E+08    10 1.836E+09         - L  60 -         - 2020 Mattei
+ O2628.012   O100  C12    O16    xp     -       ddxl    mon enedisl   3.25E+07  1.10E+08     6 1.836E+09         - L  90 -         - 2020 Mattei
+ O2628.012   O100  C12    O16    xp     -       ddxl    mon enedisl   3.75E+07  3.20E+08    13 2.652E+09         - L  60 -         - 2020 Mattei
+ O2628.012   O100  C12    O16    xp     -       ddxl    mon enedisl   3.25E+07  1.60E+08     8 2.652E+09         - L  90 -         - 2020 Mattei
+ O2628.012   O100  C12    O16    xp     -       ddxl    mon enedisl   3.25E+07  3.20E+08    14 3.372E+09         - L  60 -         - 2020 Mattei
+ O2628.012   O100  C12    O16    xp     -       ddxl    mon enedisl   3.25E+07  2.15E+08     9 3.372E+09         - L  90 -         - 2020 Mattei
+ O2628.012   O100  C12    O16    xp     -       ddxl    mon enedisl   3.75E+07  3.20E+08    13 4.236E+09         - L  60 -         - 2020 Mattei
+ O2628.012   O100  C12    O16    xp     -       ddxl    mon enedisl   3.25E+07  2.15E+08     9 4.236E+09         - L  90 -         - 2020 Mattei
  O2628.013   O100  C12    H1     xp     -       ddxl    mon enedisl   3.25E+07  9.00E+07     5 1.380E+09         - L  60 -         - 2020 Mattei
  O2628.013   O100  C12    H1     xp     -       ddxl    mon enedisl   3.25E+07  7.00E+07     2 1.380E+09         - L  90 -         - 2020 Mattei
  O2628.013   O100  C12    H1     xp     -       ddxl    mon enedisl   3.25E+07  1.30E+08     7 1.836E+09         - L  60 -         - 2020 Mattei
