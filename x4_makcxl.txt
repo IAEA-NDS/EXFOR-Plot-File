@@ -36437,6 +36437,7 @@
  20673.036   2232  n      Cr52   p      V52     sig     mon excfun    1.47E+07  1.47E+07     1         -         - -   - -         - 1976 Valkonen
  20674.005   0000  n      O16    g      -       sig     mxw enedisl   1.96E+06  1.96E+06     1 2.530E-02         - -   - -         - 1979 Wuest
  20674.006   0000  n      O16    g      O17     sig     mxw excfun    2.53E-02  2.53E-02     1         -         - -   - -         - 1979 Wuest
+ 20674.006   2324  n      O16    g      O17     sig     spa excfun    2.53E-02  2.53E-02     1         -         - -   - -         - 1979 Wuest
  20675.002   0000  n      N14    p      C14     sig     mon excfun    1.47E+07  1.47E+07     1         -         - -   - -         - 1976 Felber
  20690.002   2261  n      Fe     el     Fe      sig     mon excfun    1.41E+07  1.41E+07     1         -         - -   - -         - 1975 Hyakutake
  20690.003   2261  n      Fe     el     Fe      adxc    mon angdisc    10.2000  160.4000    22 1.410E+07         - -   - -         - 1975 Hyakutake
@@ -39731,6 +39732,7 @@
  21309.005   0000  n      Fe54   p      Mn54    sig     mon excfun    6.41E+06  9.90E+06     8         -         - -   - -         - 1979 Paulsen
  21309.006   0000  n      Fe54   a      Cr51    sig     mon excfun    6.41E+06  1.64E+07    17         -         - -   - -         - 1979 Paulsen
  21311.002   0000  n      He3    g      He4     sig     mxw enedisl   0.00E+00  0.00E+00     1 2.530E-02         - -   - -         - 1979 Suffert
+ 21311.002   2324  n      He3    g      He4     adxl    spa angdisl    45.0000   45.0000     1 2.530E-02         - -   - -         - 1979 Suffert
  21318.002   2291  n      Bi209  tot    -       sig     mon excfun    9.35E+03  1.87E+04    97         -         - -   - -         - 1963 Firk
  21319.002   0000  n      Br79   a      As76    sig     mon excfun    1.49E+07  1.49E+07     1         -         - -   - -         - 1965 Koenig
  21319.003   0000  n      Br81   a      As78    sig     mon excfun    1.49E+07  1.49E+07     1         -         - -   - -         - 1965 Koenig
@@ -64805,41 +64807,78 @@
  23364.004   2266  n      U238   g      U239    sig     mon excfun    1.02E+00  7.72E+04   245         -         - -   - -         - 2017 Wright
  23364.005   2266  n      U238   g      U239    sig     mon excfun    1.25E+03  7.50E+04    31         -         - -   - -         - 2017 Wright
  23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L  16 -         - 2019 Pirovano
+ 23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L  16 -         - 2019 Pirovano
+ 23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L  37 -         - 2019 Pirovano
  23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L  37 -         - 2019 Pirovano
  23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L  58 -         - 2019 Pirovano
+ 23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L  58 -         - 2019 Pirovano
+ 23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L  79 -         - 2019 Pirovano
  23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L  79 -         - 2019 Pirovano
  23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L 101 -         - 2019 Pirovano
+ 23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L 101 -         - 2019 Pirovano
+ 23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L 122 -         - 2019 Pirovano
  23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L 122 -         - 2019 Pirovano
  23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L 143 -         - 2019 Pirovano
+ 23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L 143 -         - 2019 Pirovano
+ 23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L 164 -         - 2019 Pirovano
  23365.002   2266  n      C      el     C       adxl    mon excfun    2.00E+06  7.93E+06   140         -         - L 164 -         - 2019 Pirovano
  23365.003   2266  n      C      el     C       sig     mon excfun    2.00E+06  7.93E+06   140         -         - -   - -         - 2019 Pirovano
+ 23365.003   2266  n      C      el     C       sig     mon excfun    2.00E+06  7.93E+06   140         -         - -   - -         - 2019 Pirovano
+ 23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L  16 -         - 2019 Pirovano
  23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L  16 -         - 2019 Pirovano
  23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L  37 -         - 2019 Pirovano
+ 23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L  37 -         - 2019 Pirovano
+ 23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L  58 -         - 2019 Pirovano
  23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L  58 -         - 2019 Pirovano
  23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L  79 -         - 2019 Pirovano
+ 23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L  79 -         - 2019 Pirovano
+ 23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L 101 -         - 2019 Pirovano
  23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L 101 -         - 2019 Pirovano
  23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L 122 -         - 2019 Pirovano
+ 23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L 122 -         - 2019 Pirovano
+ 23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L 143 -         - 2019 Pirovano
  23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L 143 -         - 2019 Pirovano
  23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L 164 -         - 2019 Pirovano
+ 23365.004   2266  n      Fe     el     Fe      adxl    mon excfun    1.99E+06  5.98E+06   119         -         - L 164 -         - 2019 Pirovano
+ 23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L  16 -         - 2019 Pirovano
  23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L  16 -         - 2019 Pirovano
  23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L  37 -         - 2019 Pirovano
+ 23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L  37 -         - 2019 Pirovano
+ 23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L  58 -         - 2019 Pirovano
  23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L  58 -         - 2019 Pirovano
  23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L  79 -         - 2019 Pirovano
+ 23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L  79 -         - 2019 Pirovano
+ 23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L 101 -         - 2019 Pirovano
  23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L 101 -         - 2019 Pirovano
  23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L 122 -         - 2019 Pirovano
+ 23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L 122 -         - 2019 Pirovano
+ 23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L 143 -         - 2019 Pirovano
  23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L 143 -         - 2019 Pirovano
  23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L 164 -         - 2019 Pirovano
+ 23365.005   2266  n      Fe     el     Fe      adxl    mon excfun    2.00E+06  5.98E+06   187         -         - L 164 -         - 2019 Pirovano
+ 23365.006   2266  n      Fe     el     Fe      sig     mon excfun    1.99E+06  5.98E+06   119         -         - -   - -         - 2019 Pirovano
  23365.006   2266  n      Fe     el     Fe      sig     mon excfun    1.99E+06  5.98E+06   119         -         - -   - -         - 2019 Pirovano
  23365.007   2266  n      Fe     el     Fe      sig     mon excfun    2.00E+06  5.98E+06   187         -         - -   - -         - 2019 Pirovano
+ 23365.007   2266  n      Fe     el     Fe      sig     mon excfun    2.00E+06  5.98E+06   187         -         - -   - -         - 2019 Pirovano
+ 23365.008   2279  n      Fe56   inl    Fe56    adxl    mon excfun    1.99E+06  5.98E+06   119         - 8.468E+05 L  79 -         - 2019 Pirovano
  23365.008   2279  n      Fe56   inl    Fe56    adxl    mon excfun    1.99E+06  5.98E+06   119         - 8.468E+05 L  79 -         - 2019 Pirovano
  23365.008   2279  n      Fe56   inl    Fe56    adxl    mon excfun    1.99E+06  5.98E+06   119         - 8.468E+05 L 101 -         - 2019 Pirovano
+ 23365.008   2279  n      Fe56   inl    Fe56    adxl    mon excfun    1.99E+06  5.98E+06   119         - 8.468E+05 L 101 -         - 2019 Pirovano
+ 23365.008   2279  n      Fe56   inl    Fe56    adxl    mon excfun    1.99E+06  5.98E+06   119         - 8.468E+05 L 122 -         - 2019 Pirovano
  23365.008   2279  n      Fe56   inl    Fe56    adxl    mon excfun    1.99E+06  5.98E+06   119         - 8.468E+05 L 122 -         - 2019 Pirovano
  23365.008   2279  n      Fe56   inl    Fe56    adxl    mon excfun    1.99E+06  5.98E+06   119         - 8.468E+05 L 143 -         - 2019 Pirovano
+ 23365.008   2279  n      Fe56   inl    Fe56    adxl    mon excfun    1.99E+06  5.98E+06   119         - 8.468E+05 L 143 -         - 2019 Pirovano
+ 23365.008   2279  n      Fe56   inl    Fe56    adxl    mon excfun    1.99E+06  5.98E+06   119         - 8.468E+05 L 164 -         - 2019 Pirovano
  23365.008   2279  n      Fe56   inl    Fe56    adxl    mon excfun    1.99E+06  5.98E+06   119         - 8.468E+05 L 164 -         - 2019 Pirovano
  23365.009   2279  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  5.98E+06   187         - 8.468E+05 L  79 -         - 2019 Pirovano
+ 23365.009   2279  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  5.98E+06   187         - 8.468E+05 L  79 -         - 2019 Pirovano
+ 23365.009   2279  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  5.98E+06   187         - 8.468E+05 L 101 -         - 2019 Pirovano
  23365.009   2279  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  5.98E+06   187         - 8.468E+05 L 101 -         - 2019 Pirovano
  23365.009   2279  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  5.98E+06   187         - 8.468E+05 L 122 -         - 2019 Pirovano
+ 23365.009   2279  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  5.98E+06   187         - 8.468E+05 L 122 -         - 2019 Pirovano
  23365.009   2279  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  5.98E+06   187         - 8.468E+05 L 143 -         - 2019 Pirovano
+ 23365.009   2279  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  5.98E+06   187         - 8.468E+05 L 143 -         - 2019 Pirovano
+ 23365.009   2279  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  5.98E+06   187         - 8.468E+05 L 164 -         - 2019 Pirovano
  23365.009   2279  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  5.98E+06   187         - 8.468E+05 L 164 -         - 2019 Pirovano
  23367.002   2266  n      Cr52   el     Cr52    adxc    mon angdisc    20.3000  141.0000    13 1.850E+07         - -   - -         - 1991 Yamanouti
  23367.003   2266  n      Cr52   inl    Cr52    adxc    mon angdisc    19.7000  140.7000    13 1.850E+07 1.434E+06 -   - -         - 1991 Yamanouti
@@ -64847,6 +64886,7 @@
  23367.004   2266  n      Ni60   el     Ni60    adxc    mon angdisc    20.8000  141.1000    13 1.850E+07         - -   - -         - 1991 Yamanouti
  23367.005   2266  n      Ni60   inl    Ni60    adxc    mon angdisc    20.5000  140.9000    13 1.850E+07 4.045E+06 -   - -         - 1991 Yamanouti
  23367.005   2266  n      Ni60   inl    Ni60    adxc    mon angdisc    20.5000  141.0000    13 1.850E+07 1.332E+06 -   - -         - 1991 Yamanouti
+ 23368.007   2324  n      Pu242  g      Pu243   sig     mon excfun    9.97E+02  5.81E+05    29         -         - -   - -         - 2026 Lerendegui-Marco
  23369.005   2266  n      Am241  g      Am242   sig     mon excfun    1.01E+02  9.83E+03   299         -         - -   - -         - 2018 Mendoza
  23372.002   2269  n      Zn67   g      Zn68    sig     spa excfun    2.53E-02  2.53E-02     1         -         - -   - -         - 1969 Michaelis
  23372.003   2269  n      Zn66   g      Zn67    sig     spa excfun    2.53E-02  2.53E-02     1         -         - -   - -         - 1969 Michaelis
@@ -65338,7 +65378,16 @@
  23661.002   2321  n      Fe54   el     Fe54    adxl    mon excfun    1.00E+06  7.90E+06   255         -         - L 122 -         - 2024 Gkatis
  23661.002   2321  n      Fe54   el     Fe54    adxl    mon excfun    1.00E+06  7.90E+06   255         -         - L 143 -         - 2024 Gkatis
  23661.002   2321  n      Fe54   el     Fe54    adxl    mon excfun    1.00E+06  7.90E+06   255         -         - L 164 -         - 2024 Gkatis
+ 23661.002   2324  n      Fe54   el     Fe54    adxl    mon excfun    1.00E+06  7.90E+06   255         -         - L  16 -         - 2024 Gkatis
+ 23661.002   2324  n      Fe54   el     Fe54    adxl    mon excfun    1.00E+06  7.90E+06   255         -         - L  37 -         - 2024 Gkatis
+ 23661.002   2324  n      Fe54   el     Fe54    adxl    mon excfun    1.00E+06  7.90E+06   255         -         - L  58 -         - 2024 Gkatis
+ 23661.002   2324  n      Fe54   el     Fe54    adxl    mon excfun    1.00E+06  7.90E+06   255         -         - L  79 -         - 2024 Gkatis
+ 23661.002   2324  n      Fe54   el     Fe54    adxl    mon excfun    1.00E+06  7.90E+06   255         -         - L 101 -         - 2024 Gkatis
+ 23661.002   2324  n      Fe54   el     Fe54    adxl    mon excfun    1.00E+06  7.90E+06   255         -         - L 122 -         - 2024 Gkatis
+ 23661.002   2324  n      Fe54   el     Fe54    adxl    mon excfun    1.00E+06  7.90E+06   255         -         - L 143 -         - 2024 Gkatis
+ 23661.002   2324  n      Fe54   el     Fe54    adxl    mon excfun    1.00E+06  7.90E+06   255         -         - L 164 -         - 2024 Gkatis
  23661.003   2321  n      Fe54   el     Fe54    sig     mon excfun    1.00E+06  7.90E+06   255         -         - -   - -         - 2024 Gkatis
+ 23661.003   2324  n      Fe54   el     Fe54    sig     mon excfun    1.00E+06  7.90E+06   255         -         - -   - -         - 2024 Gkatis
  23661.004   2321  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L  16 -         - 2024 Gkatis
  23661.004   2321  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L  37 -         - 2024 Gkatis
  23661.004   2321  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L  58 -         - 2024 Gkatis
@@ -65347,7 +65396,16 @@
  23661.004   2321  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L 122 -         - 2024 Gkatis
  23661.004   2321  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L 143 -         - 2024 Gkatis
  23661.004   2321  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L 164 -         - 2024 Gkatis
+ 23661.004   2324  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L  16 -         - 2024 Gkatis
+ 23661.004   2324  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L  37 -         - 2024 Gkatis
+ 23661.004   2324  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L  58 -         - 2024 Gkatis
+ 23661.004   2324  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L  79 -         - 2024 Gkatis
+ 23661.004   2324  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L 101 -         - 2024 Gkatis
+ 23661.004   2324  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L 122 -         - 2024 Gkatis
+ 23661.004   2324  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L 143 -         - 2024 Gkatis
+ 23661.004   2324  n      Fe54   inl    Fe54    adxl    mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 L 164 -         - 2024 Gkatis
  23661.005   2321  n      Fe54   inl    Fe54    sig     mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 -   - -         - 2024 Gkatis
+ 23661.005   2324  n      Fe54   inl    Fe54    sig     mon excfun    2.50E+06  5.49E+06    82         - 1.408E+06 -   - -         - 2024 Gkatis
  23663.002   2321  n      Pb206  el     Pb206   adxc    mon angdisc    20.1000  160.1000    27 1.350E+07         - -   - -         - 2019 Dupuis
  23663.002   2321  n      Pb206  el     Pb206   adxc    mon angdisc    20.1000  160.1000    29 1.150E+07         - -   - -         - 2019 Dupuis
  23663.002   2321  n      Pb206  el     Pb206   adxc    mon angdisc    20.1000  160.1000    29 7.500E+06         - -   - -         - 2019 Dupuis
@@ -65406,7 +65464,16 @@
  23664.002   2321  n      C      el     C       adxl    mon excfun    1.00E+06  7.93E+06   256         -         - L 122 -         - 2024 Gkatis
  23664.002   2321  n      C      el     C       adxl    mon excfun    1.00E+06  7.93E+06   256         -         - L 143 -         - 2024 Gkatis
  23664.002   2321  n      C      el     C       adxl    mon excfun    1.00E+06  7.93E+06   256         -         - L 164 -         - 2024 Gkatis
+ 23664.002   2324  n      C      el     C       adxl    mon excfun    1.00E+06  7.93E+06   256         -         - L  16 -         - 2024 Gkatis
+ 23664.002   2324  n      C      el     C       adxl    mon excfun    1.00E+06  7.93E+06   256         -         - L  37 -         - 2024 Gkatis
+ 23664.002   2324  n      C      el     C       adxl    mon excfun    1.00E+06  7.93E+06   256         -         - L  58 -         - 2024 Gkatis
+ 23664.002   2324  n      C      el     C       adxl    mon excfun    1.00E+06  7.93E+06   256         -         - L  79 -         - 2024 Gkatis
+ 23664.002   2324  n      C      el     C       adxl    mon excfun    1.00E+06  7.93E+06   256         -         - L 101 -         - 2024 Gkatis
+ 23664.002   2324  n      C      el     C       adxl    mon excfun    1.00E+06  7.93E+06   256         -         - L 122 -         - 2024 Gkatis
+ 23664.002   2324  n      C      el     C       adxl    mon excfun    1.00E+06  7.93E+06   256         -         - L 143 -         - 2024 Gkatis
+ 23664.002   2324  n      C      el     C       adxl    mon excfun    1.00E+06  7.93E+06   256         -         - L 164 -         - 2024 Gkatis
  23664.003   2321  n      C      el     C       sig     mon excfun    1.00E+06  7.93E+06   256         -         - -   - -         - 2024 Gkatis
+ 23664.003   2324  n      C      el     C       sig     mon excfun    1.00E+06  7.93E+06   256         -         - -   - -         - 2024 Gkatis
  23665.002   2321  n      W183   inl    W183    sigg    mon excfun    4.50E+05  1.25E+07    14         -         - -   - L 2.917E+05 2024 Henning
  23665.002   2321  n      W183   inl    W183    sigg    mon excfun    5.50E+05  2.05E+07    16         -         - -   - L 2.098E+05 2024 Henning
  23665.002   2321  n      W183   inl    W183    sigg    mon excfun    6.00E+05  1.60E+07    17         -         - -   - L 3.130E+05 2024 Henning
@@ -65428,7 +65495,16 @@
  23673.002   2323  n      Fe56   el     Fe56    adxl    mon excfun    1.01E+06  7.85E+06   127         -         - L 122 -         - 2025 Gkatis
  23673.002   2323  n      Fe56   el     Fe56    adxl    mon excfun    1.01E+06  7.85E+06   127         -         - L 143 -         - 2025 Gkatis
  23673.002   2323  n      Fe56   el     Fe56    adxl    mon excfun    1.01E+06  7.85E+06   127         -         - L 164 -         - 2025 Gkatis
+ 23673.002   2324  n      Fe56   el     Fe56    adxl    mon excfun    1.01E+06  7.85E+06   127         -         - L  16 -         - 2025 Gkatis
+ 23673.002   2324  n      Fe56   el     Fe56    adxl    mon excfun    1.01E+06  7.85E+06   127         -         - L  37 -         - 2025 Gkatis
+ 23673.002   2324  n      Fe56   el     Fe56    adxl    mon excfun    1.01E+06  7.85E+06   127         -         - L  58 -         - 2025 Gkatis
+ 23673.002   2324  n      Fe56   el     Fe56    adxl    mon excfun    1.01E+06  7.85E+06   127         -         - L  79 -         - 2025 Gkatis
+ 23673.002   2324  n      Fe56   el     Fe56    adxl    mon excfun    1.01E+06  7.85E+06   127         -         - L 101 -         - 2025 Gkatis
+ 23673.002   2324  n      Fe56   el     Fe56    adxl    mon excfun    1.01E+06  7.85E+06   127         -         - L 122 -         - 2025 Gkatis
+ 23673.002   2324  n      Fe56   el     Fe56    adxl    mon excfun    1.01E+06  7.85E+06   127         -         - L 143 -         - 2025 Gkatis
+ 23673.002   2324  n      Fe56   el     Fe56    adxl    mon excfun    1.01E+06  7.85E+06   127         -         - L 164 -         - 2025 Gkatis
  23673.003   2323  n      Fe56   el     Fe56    sig     mon excfun    1.01E+06  7.85E+06   127         -         - -   - -         - 2025 Gkatis
+ 23673.003   2324  n      Fe56   el     Fe56    sig     mon excfun    1.01E+06  7.85E+06   127         -         - -   - -         - 2025 Gkatis
  23673.004   2323  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L  16 -         - 2025 Gkatis
  23673.004   2323  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L  37 -         - 2025 Gkatis
  23673.004   2323  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L  58 -         - 2025 Gkatis
@@ -65437,7 +65513,16 @@
  23673.004   2323  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L 122 -         - 2025 Gkatis
  23673.004   2323  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L 143 -         - 2025 Gkatis
  23673.004   2323  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L 164 -         - 2025 Gkatis
+ 23673.004   2324  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L  16 -         - 2025 Gkatis
+ 23673.004   2324  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L  37 -         - 2025 Gkatis
+ 23673.004   2324  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L  58 -         - 2025 Gkatis
+ 23673.004   2324  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L  79 -         - 2025 Gkatis
+ 23673.004   2324  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L 101 -         - 2025 Gkatis
+ 23673.004   2324  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L 122 -         - 2025 Gkatis
+ 23673.004   2324  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L 143 -         - 2025 Gkatis
+ 23673.004   2324  n      Fe56   inl    Fe56    adxl    mon excfun    2.00E+06  4.97E+06    52         - 8.468E+05 L 164 -         - 2025 Gkatis
  23673.005   2323  n      Fe56   inl    Fe56    sig     mon excfun    2.03E+06  4.97E+06    51         - 8.468E+05 -   - -         - 2025 Gkatis
+ 23673.005   2324  n      Fe56   inl    Fe56    sig     mon excfun    2.03E+06  4.97E+06    51         - 8.468E+05 -   - -         - 2025 Gkatis
  23673.006   2323  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L  16 -         - 2025 Gkatis
  23673.006   2323  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L  37 -         - 2025 Gkatis
  23673.006   2323  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L  58 -         - 2025 Gkatis
@@ -65446,7 +65531,16 @@
  23673.006   2323  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L 122 -         - 2025 Gkatis
  23673.006   2323  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L 143 -         - 2025 Gkatis
  23673.006   2323  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L 164 -         - 2025 Gkatis
+ 23673.006   2324  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L  16 -         - 2025 Gkatis
+ 23673.006   2324  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L  37 -         - 2025 Gkatis
+ 23673.006   2324  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L  58 -         - 2025 Gkatis
+ 23673.006   2324  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L  79 -         - 2025 Gkatis
+ 23673.006   2324  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L 101 -         - 2025 Gkatis
+ 23673.006   2324  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L 122 -         - 2025 Gkatis
+ 23673.006   2324  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L 143 -         - 2025 Gkatis
+ 23673.006   2324  n      Fe56   inl    Fe56    adxl    mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 L 164 -         - 2025 Gkatis
  23673.007   2323  n      Fe56   inl    Fe56    sig     mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 -   - -         - 2025 Gkatis
+ 23673.007   2324  n      Fe56   inl    Fe56    sig     mon excfun    3.02E+06  5.87E+06    33         - 2.085E+06 -   - -         - 2025 Gkatis
  23674.002   2323  n      F19    inl    F19     sigg    mon excfun    1.44E+05  1.76E+07   228         -         - -   - L 1.357E+06 2025 Knijpstra
  23674.002   2323  n      F19    inl    F19     sigg    mon excfun    6.38E+04  1.71E+07   660         -         - -   - L 2.583E+06 2025 Knijpstra
  23674.002   2323  n      F19    inl    F19     sigg    mon excfun    6.38E+04  1.76E+07   447         -         - -   - L 1.100E+05 2025 Knijpstra

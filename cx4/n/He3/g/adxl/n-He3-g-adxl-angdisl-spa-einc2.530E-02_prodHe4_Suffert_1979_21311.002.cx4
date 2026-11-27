@@ -1,0 +1,25 @@
+# EXFOR #         : 21311.002  
+# EXFOR Ver.      : 20260311
+# TRANS #         : 2324
+# Author          : M.Suffert et al.
+# Reference       : Nucl.Phys.A 318 (1979) 54
+# DOI             : 10.1016/0375-9474(79)90469-X
+# Quantity        : 3He(n,g)4He angular differential cross section
+# REACTION        : 2-HE-3(N,G)2-HE-4,,DA,,4PI/SPA
+# File ID         : n-He3-g-adxl-angdisl-spa-einc2.530E-02_prodHe4_Suffert_1979_21311.002
+# File created    : 2026-11-27T18:32:12+0000
+#
+# Einc (eV)       :   2.5300E-02
+#
+# npts            : 1           
+# xmin            :   45.0000000
+# xmax            :   45.0000000
+# ymin            :   4.7746E-06
+# ymax            :   4.7746E-06
+#
+#---------------------------------------------------
+# theta,lab   dtheta,lab  adx,lab     dadx,lab    
+#  deg         deg         b/sr        b/sr       
+#---------------------------------------------------
+  45.0000000   0.0000000  4.7746E-06  9.5493E-07
+#---------------------------------------------------
