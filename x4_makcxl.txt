@@ -71028,6 +71028,12 @@
  31872.012   3222  n      Sn122  g      Sn123   sig     spa excfun    1.00E+06  1.00E+06     1         -         - -   - -         - 2024 Losa
  31872.013   3222  n      Ta181  g      Ta182   sig     spa excfun    1.00E+06  1.00E+06     1         -         - -   - -         - 2024 Losa
  31873.002   3223  n      U235   f      -       fyc     spa nucdis     34083.0   61151.9   106 2.530E-02         - -   - -         - 2026 Mohamed
+ 31874.002   3224  n      Ho165  g      Ho166g  sig     mon excfun    3.72E-02  3.72E-02     1         -         - -   - -         - 2026 Dib
+ 31875.002   3224  n      Rb85   2n     Rb84    sig     spa excfun    1.50E+06  1.50E+06     1         -         - -   - -         - 2025 Uddin
+ 31875.003   3224  n      Rb85   p      Kr85m   sig     spa excfun    1.50E+06  1.50E+06     1         -         - -   - -         - 2025 Uddin
+ 31875.004   3224  n      Rb85   x      Br82g   sigc    spa excfun    1.50E+06  1.50E+06     1         -         - -   - -         - 2025 Uddin
+ 31875.005   3224  n      In115  inl    In115m  sig     spa excfun    1.50E+06  1.50E+06     1         -         - -   - -         - 2025 Uddin
+ 31875.006   3224  n      In113  inl    In113m  sig     spa excfun    1.50E+06  1.50E+06     1         -         - -   - -         - 2025 Uddin
  32001.002   3147  n      Li6    el     Li6     sig     mon excfun    7.75E+06  8.90E+06     2         -         - -   - -         - 1987 Schmidt
  32001.003   3147  n      Li6    el     Li6     adxc    mon angdisc    23.3000  163.3000     7 7.750E+06         - -   - -         - 1987 Schmidt
  32001.003   3147  n      Li6    el     Li6     adxc    mon angdisc    23.3000  163.3000     8 8.900E+06         - -   - -         - 1987 Schmidt
@@ -72551,6 +72557,8 @@
  32906.003   3217  n      U235   f      -       fyc     mon nucdis     36087.9   61151.9    31 1.000E+06         - -   - -         - 2023 Ren Si-Xi
  32906.004   3217  n      U235   f      -       fyc     mon nucdis     37088.9   61151.9    32 1.500E+06         - -   - -         - 2023 Ren Si-Xi
  32907.002.1 3217  n      Pu239  f      -       fyc     spa nucdis     36085.1   36088.9     3 2.530E-02         - -   - -         - 2023 Yu Gongshuo
+ 32908.002.2 3224  n      Rh103  g      Rh104   sig     mon excfun    4.34E-01  9.20E+05  6226         -         - -   - -         - 2026 Hao Liang
+ 32908.003   3224  n      Rh103  g      Rh104   sig     mon excfun    1.12E+04  8.70E+05    46         -         - -   - -         - 2026 Hao Liang
  32910.002   3214  n      U235   f      -       fyc     mon nucdis     38091.9   42099.9     4 2.800E+06         - -   - -         - 2023 Yujie Ge
  32911.002.2 3213  n      Bi209  tot    -       sig     mon excfun    3.31E-01  1.99E+07   768         -         - -   - -         - 2023 Jieming Xue
  32911.003.2 3213  n      Bi209  tot    -       sig     mon excfun    1.02E+06  1.99E+07   122         -         - -   - -         - 2023 Jieming Xue
@@ -72559,8 +72567,12 @@
  32912.002.2 3213  n      Pb     tot    -       sig     mon excfun    3.31E-01  2.00E+07   777         -         - -   - -         - 2024 Jieming Xue
  32912.003.2 3213  n      Pb     tot    -       sig     mon excfun    1.16E+06  1.95E+07    89         -         - -   - -         - 2024 Jieming Xue
  32913.002   3214  n      Ag107  g      Ag108   sig     mon excfun    1.00E+00  9.99E+04  5781         -         - -   - -         - 2022 Xin-Xiang Li
+ 32914.002   3224  n      Se     g      -       sig     mon excfun    1.00E+00  9.94E+04  4599         -         - -   - -         - 2022 Xin-Rong Hu
  32915.002   3214  n      U235   f      -       sig     mon excfun    1.05E+07  6.61E+07    23         -         - -   - -         - 2023 Yonghao Chen
  32915.003   3214  n      U238   f      -       sig     mon excfun    1.05E+07  6.61E+07    23         -         - -   - -         - 2023 Yonghao Chen
+ 32917.003   3224  n      Br     g      -       sig     mon excfun    2.15E+03  3.48E+05    42         -         - -   - -         - 2023 Gao-Le Yang
+ 32917.004   3224  n      Br79   g      Br80    sig     mxw excfun    5.00E+03  1.00E+05    11         -         - -   - -         - 2023 Gao-Le Yang
+ 32917.005   3224  n      Br81   g      Br82    sig     mxw excfun    5.00E+03  1.00E+05    11         -         - -   - -         - 2023 Gao-Le Yang
  32918.002   3214  n      Th232  g      Th233   sig     mon excfun    1.02E+04  1.85E+05    29         -         - -   - -         - 2023 Jincheng Wang
  32919.002.2 3214  n      Th232  f      -       sig     mon excfun    5.00E+06  5.00E+06     1         -         - -   - -         - 2024 Haofan Bai
  32920.002.2 3214  n      Au197  g      Au198   sig     mon excfun    2.93E-01  3.15E+03   430         -         - -   - -         - 2024 Luo Hao-Tian
@@ -72579,6 +72591,8 @@
  32922.002   3214  n      Zr91   g      Zr92    sig     mon excfun    8.40E+02  1.77E+05    44         -         - -   - -         - 2024 Gan
  32922.003   3214  n      Zr91   g      Zr92    sig     mxw excfun    3.00E+04  3.00E+04     1         -         - -   - -         - 2024 Gan
  32923.002   3221  n      Th232  g      Th233   sig     mon excfun    3.99E+03  1.26E+05    31         -         - -   - -         - 2022 Bing Jiang
+ 32924.002   3224  n      Be9    tot    -       sig     mon excfun    3.40E-01  1.20E+08   186         -         - -   - -         - 2024 Jiangbo Bai
+ 32924.003   3224  n      Be9    tot    -       sig     mon excfun    1.55E+06  1.20E+08    42         -         - -   - -         - 2024 Jiangbo Bai
  32925.002   3221  n      Tm169  2n     Tm168   sig     mon excfun    1.20E+07  1.98E+07     9         -         - -   - -         - 2023 Chuanxin Zhu
  32926.002   3221  n      Ir191  2n     Ir190p  sig     mon excfun    1.34E+07  1.49E+07     9         -         - -   - -         - 2022 Zhu Chuan-Xin
  32926.003   3221  n      Ir191  2n     Ir190n  sig     mon excfun    1.34E+07  1.49E+07     9         -         - -   - -         - 2022 Zhu Chuan-Xin
@@ -72605,6 +72619,19 @@
  32936.002   3221  n      Te128  2n     Te127m  sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2024 Junhua Luo
  32936.003   3221  n      Te128  2n     Te127g  sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2024 Junhua Luo
  32936.004.1 3221  n      Te128  2n     Te127   sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2024 Junhua Luo
+ 32937.002   3224  n      Te120  2n     Te119m  sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2025 Junhua Luo
+ 32937.003   3224  n      Te120  2n     Te119g  sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2025 Junhua Luo
+ 32937.004   3224  n      Te130  2n     Te129m  sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2025 Junhua Luo
+ 32937.005   3224  n      Te130  2n     Te129g  sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2025 Junhua Luo
+ 32937.006.1 3224  n      Te120  2n     Te119   sig     mon excfun    1.36E+07  1.47E+07     4         -         - -   - -         - 2025 Junhua Luo
+ 32937.007.1 3224  n      Te130  2n     Te129   sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2025 Junhua Luo
+ 32938.002   3224  n      Ge     x      Ga73    sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2025 Junhua Luo
+ 32938.003   3224  n      Ge     x      Ga73    sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2025 Junhua Luo
+ 32938.004   3224  n      Ge     x      Ga73    sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2025 Junhua Luo
+ 32938.005   3224  n      Ge     x      Ga73    sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2025 Junhua Luo
+ 32938.006   3224  n      Ge     x      Ga73    sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2025 Junhua Luo
+ 32938.007   3224  n      Ge73   p      Ga73    sig     mon excfun    1.36E+07  1.49E+07     5         -         - -   - -         - 2025 Junhua Luo
+ 32945.002.2 3224  n      Th232  f      -       sig     mon excfun    4.50E+06  5.40E+06     5         -         - -   - -         - 2024 Haofan Bai
  33001.002.1 3206  n      Fe54   2n     Fe53    sig     mon excfun    1.47E+07  1.47E+07     1         -         - -   - -         - 1993 Pansare
  33001.002.2 3206  n      Fe54   2n     Fe53    sig     mon excfun    1.47E+07  1.47E+07     1         -         - -   - -         - 1993 Pansare
  33001.003.1 3206  n      Cu63   2n     Cu62    sig     mon excfun    1.47E+07  1.47E+07     1         -         - -   - -         - 1993 Pansare
@@ -73032,6 +73059,8 @@
  33224.006   3223  n      Pd105  p      Rh105   sig     mon excfun    1.48E+07  1.48E+07     1         -         - -   - -         - 2024 Kumar
  33226.002   3223  n      Ce140  g      Ce141   sig     mon excfun    2.53E-02  2.53E-02     1         -         - -   - -         - 2025 Kanjarpane
  33226.003   3223  n      Ce142  g      Ce143   sig     mon excfun    2.53E-02  2.53E-02     1         -         - -   - -         - 2025 Kanjarpane
+ 33229.002   3224  n      Sn     x      Sn117m  sig     mon excfun    1.50E+07  1.50E+07     1         -         - -   - -         - 2026 Sharma
+ 33229.003   3224  n      Cu65   p      Ni65    sig     mon excfun    1.50E+07  1.50E+07     1         -         - -   - -         - 2026 Sharma
  40001.002   4204  n      Mn55   g      Mn56    sig     mon excfun    4.18E+05  3.43E+06    22         -         - -   - -         - 1969 Dovbenko
  40001.003   4204  n      Ga69   g      Ga70    sig     mon excfun    1.10E+04  3.15E+06    28         -         - -   - -         - 1969 Dovbenko
  40001.004   4204  n      Ga71   g      Ga72    sig     mon excfun    1.10E+04  2.21E+06    27         -         - -   - -         - 1969 Dovbenko

@@ -1,0 +1,23 @@
+# EXFOR #         : 33229.003  
+# EXFOR Ver.      : 20260820
+# TRANS #         : 3224
+# Author          : S.Sharma et al.
+# Reference       : Radiat.Phys.Chem. 244 (2026) 113746
+# DOI             : 10.1016/j.radphyschem.2026.113746
+# Quantity        : 65Cu(n,p)65Ni cross section
+# REACTION        : 29-CU-65(N,P)28-NI-65,,SIG
+# File ID         : n-Cu65-p-sig-excfun-mon-prodNi65_Sharma_2026_33229.003
+# File created    : 2026-11-27T18:10:25+0000
+#
+# npts            : 1           
+# xmin            :   1.4960E+07
+# xmax            :   1.4960E+07
+# ymin            :   2.1500E-02
+# ymax            :   2.1500E-02
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4960E+07  2.2000E+05  2.1500E-02  2.3865E-04
+#---------------------------------------------------

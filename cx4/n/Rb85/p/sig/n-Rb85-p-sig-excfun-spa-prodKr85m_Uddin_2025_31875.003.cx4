@@ -1,0 +1,23 @@
+# EXFOR #         : 31875.003  
+# EXFOR Ver.      : 20260608
+# TRANS #         : 3224
+# Author          : M.M.Uddin et al.
+# Reference       : Radiochim.Acta 113 (2025) 437
+# DOI             : 10.1515/ract-2025-0019
+# Quantity        : 85Rb(n,p)85mKr cross section
+# REACTION        : 37-RB-85(N,P)36-KR-85-M,,SIG,,SPA
+# File ID         : n-Rb85-p-sig-excfun-spa-prodKr85m_Uddin_2025_31875.003
+# File created    : 2026-11-27T18:09:48+0000
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   5.3000E-05
+# ymax            :   5.3000E-05
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  5.3000E-05  4.0000E-06
+#---------------------------------------------------

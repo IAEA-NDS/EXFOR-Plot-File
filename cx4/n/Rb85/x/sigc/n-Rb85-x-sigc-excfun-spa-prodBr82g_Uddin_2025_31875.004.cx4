@@ -1,0 +1,23 @@
+# EXFOR #         : 31875.004  
+# EXFOR Ver.      : 20260603
+# TRANS #         : 3224
+# Author          : M.M.Uddin et al.
+# Reference       : Radiochim.Acta 113 (2025) 437
+# DOI             : 10.1515/ract-2025-0019
+# Quantity        : 85Rb(n,a)82gBr cumulative production cross section
+# REACTION        : 37-RB-85(N,A)35-BR-82-G,M+,SIG,,SPA
+# File ID         : n-Rb85-x-sigc-excfun-spa-prodBr82g_Uddin_2025_31875.004
+# File created    : 2026-11-27T18:09:48+0000
+#
+# npts            : 1           
+# xmin            :   1.5000E+06
+# xmax            :   1.5000E+06
+# ymin            :   5.6000E-06
+# ymax            :   5.6000E-06
+#
+#---------------------------------------------------
+# Einc        dEinc       sig,cum     dsig,cum    
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.5000E+06  0.0000E+00  5.6000E-06  4.0000E-07
+#---------------------------------------------------
