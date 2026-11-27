@@ -1,0 +1,23 @@
+# EXFOR #         : D6453.003  
+# EXFOR Ver.      : 20260914
+# TRANS #         : D153
+# Author          : V.Vashi et al.
+# Reference       : Radiat.Phys.Chem. 208 (2023) 110933
+# DOI             : 10.1016/j.radphyschem.2023.110933
+# Quantity        : 110Cd(p,2n)109In cross section
+# REACTION        : 48-CD-110(P,2N)49-IN-109,,SIG
+# File ID         : p-Cd110-2n-sig-excfun-mon-prodIn109_Vashi_2023_d6453.003
+# File created    : 2026-11-27T18:03:03+0000
+#
+# npts            : 1           
+# xmin            :   1.4140E+07
+# xmax            :   1.4140E+07
+# ymin            :   2.4200E-01
+# ymax            :   2.4200E-01
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  1.4140E+07  2.0300E+06  2.4200E-01  1.5000E-02
+#---------------------------------------------------

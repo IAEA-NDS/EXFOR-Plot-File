@@ -1,0 +1,27 @@
+# EXFOR #         : D1097.019  
+# EXFOR Ver.      : 20260609
+# TRANS #         : D153
+# Author          : E.Simeckova et al.
+# Reference       : Phys.Rev.C 113 (2026) 044604
+# DOI             : 10.1103/1yw3-6mmp
+# Quantity        : natMo(d,x)88mNb independent production cross section
+# REACTION        : 42-MO-0(D,X)41-NB-88-M,,SIG
+# File ID         : d-Mo-x-sig-excfun-mon-prodNb88m_Simeckova_2026_d1097.019
+# File created    : 2026-11-27T18:02:22+0000
+#
+# npts            : 5           
+# xmin            :   3.4600E+07
+# xmax            :   3.9640E+07
+# ymin            :   6.9900E-04
+# ymax            :   1.4320E-03
+#
+#---------------------------------------------------
+# Einc        dEinc       sig         dsig        
+#  eV          eV          b           b          
+#---------------------------------------------------
+  3.4600E+07  4.0000E+05  6.9900E-04  8.0000E-05
+  3.6120E+07  3.9000E+05  9.2000E-04  1.0600E-04
+  3.7080E+07  3.8000E+05  9.3600E-04  1.0800E-04
+  3.7810E+07  3.8000E+05  1.4320E-03  1.6500E-04
+  3.9640E+07  3.6000E+05  1.0760E-03  1.2400E-04
+#---------------------------------------------------
